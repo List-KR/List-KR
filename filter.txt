@@ -4632,6 +4632,7 @@ onmsft.com##div#custom_html-3
 onmsft.com##div#custom_html-5
 onmsft.com##div.adblock
 onmsft.com##div.sidebar-ads
+opengapps.org##div#donatebox
 op.gg##div.LifeOwnerGlobalLeft
 op.gg##div.LifeOwnerGlobalRight
 osen.mt.co.kr##div#aside2>div[style="background:#fafafa;height:244px;width:280px;overflow:hidden;"]
