@@ -1789,6 +1789,7 @@
 ||tpc.googlesyndication.com/pagead/js/*/activeview/osd_listener.js^
 ||tr-*.adsmoloco.com/rtb/imp^
 ||tr.project-ad.jp/ad/js/pjs.js^
+||track.tiara.kakao.com^
 ||tracker.adbinead.com/other/*.html^
 ||tracker.digitalcamp.co.kr^
 ||traffic.adxprts.com^
