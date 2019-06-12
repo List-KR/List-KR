@@ -1532,6 +1532,7 @@
 ||pcgames.de/webservices/hitAlert.cfc^$domain=pcgames.de
 ||pcwelt.de/js/adserver_footer.js^$domain=pcwelt.de
 ||pd4-imp.revsci.net/rtbads/pq^
+||ph.kado.net/adcontent/script/*.js^$domain=kado.net
 ||performix.co.kr/cgi-bin/conad.fcgi/
 ||ph.mediatoday.co.kr/adcontent/script/*.js^$domain=mediatoday.co.kr
 ||ph.sisain.co.kr/adcontent/script/*.js^$domain=sisain.co.kr
@@ -3194,6 +3195,9 @@ joynews24.com##container.ad-head
 joynews24.com##hr.ad
 joynews24.com##iframe[src^="http://iframe.joynews24.com/ad/"]
 justwatch.com##jw-ad-block
+kado.net##div.banner_event_box
+kado.net##div.float_banner
+kado.net##div.rotate_half_banner
 kat.cr##div.spareBlock
 kbench.com##iframe[name="ifmadver"]
 kbench.com##iframe[src^="//www.kbench.com/article_right_box.php"]
