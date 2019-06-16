@@ -4749,6 +4749,8 @@ phonearena.com##div.ad_300_250
 phonearena.com##div.ad_728_90
 phonearena.com##div.leftbanner
 phonearena.com##div.rightbanner
+photo.heraldcorp.com##div#wrap>div[align="center"][style="padding-bottom:10px; width:100%;height:90px;"]
+photo.heraldcorp.com##div.mask_div
 physicsworld.com##span[data-oas]
 pickis.co.kr##div.ad
 pickis.co.kr##div.aud_sub
