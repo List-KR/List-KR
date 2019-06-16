@@ -2695,7 +2695,10 @@ filmix.me##div.info-a
 filmix.me##div.info-b
 filmix.me##div.page-wrapper>div>div.container[style="padding: 0px; height: 0px; transition: 0ms;"]
 findtorrent.net##div.container_youtube_view
-flash24.dreamx.com##div#adopFloatAD
+flash24.co.kr,flash24.dreamx.com##div#ad_left
+flash24.co.kr,flash24.dreamx.com##div#adopFloatAD
+flash24.co.kr,flash24.dreamx.com##div#gotop>a[target="_blank"]:not([name])
+flash24.co.kr,flash24.dreamx.com##div#scroll_div
 flashscore.pl##div.adscontent
 flashscore.pl##div.adsenvelope
 flashscore.pl##div.adstextpad
