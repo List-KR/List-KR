@@ -4753,6 +4753,7 @@ pcgames.de##div.topFrameEddie
 pcgames.de##div.wadtag
 pcwelt.de##div.ad
 pcwelt.de##div.marketplace
+personacons.tistory.com##div.txc-textbox
 petapixel.com##div.banners
 phonearena.com##div#bottom_banner
 phonearena.com##div#footeradvert
