@@ -52,8 +52,8 @@ There is a slight difference in rendering methods between IE and Chrome, Firefox
 [Adguard]: https://adguard.com
 [Adblock Plus]: https://adblockplus.org/
 [ublock origin]: https://github.com/gorhill/uBlock
-[이곳]: https://namu.wiki/w/Adguard
-[here]: https://namu.wiki/w/Adguard
+[이곳]: https://namu.wiki/w/AdGuard
+[here]: https://namu.wiki/w/AdGuard
 [Issues]: https://github.com/List-KR/List-KR/issues
 [Creative Commons Attribution-ShareAlike 4.0]: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 
