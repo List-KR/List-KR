@@ -3043,6 +3043,7 @@ ikunkang.com##div#top_banner
 ilbe.com##a[href*="teamboxcloud.com"]
 ilbe.com##a[href*="imory.co.kr"]
 ilbe.com##a[href^="/fulltv"]
+ilbe.com##article.cutin-banner
 ilbe.com##body>div[style="text-align:center;margin-top:5px;margin-bottom:4px;"]
 ilbe.com##body>div[style="width:100%; text-align:center;margin-bottom:5px;"]
 ilbe.com##div#ad_all_mobile_board
@@ -3058,6 +3059,7 @@ ilbe.com##div#kw_workd
 ilbe.com##div#layer_left
 ilbe.com##div#madlayer_top
 ilbe.com##div#madlayer_top2
+ilbe.com##div.banner-wrap
 ilbe.com##div.co>div[style="text-align:center;margin-bottom:15px;"]
 ilbe.com##div.mainFixedBanner
 ilbe.com##div.tCenter>div[style="width:300px;height:250px;margin:0;padding:0"]
