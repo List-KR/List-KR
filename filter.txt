@@ -1808,6 +1808,7 @@
 ||torrentjang.com/img/banner/
 ||torrentmade.com/data/zn_banner/
 ||torrentmade.com/js/bpopup/scripting.min.js^
+||torrentmap.com/banner/
 ||torrentmoa.com/addons/popup/js/popup_layer.js^
 ||tpc.googlesyndication.com/daca_images/simgad/$domain=googleads.g.doubleclick.net|pagead2.googlesyndication.com
 ||tpc.googlesyndication.com/pagead/js/*/activeview/osd_listener.js^
@@ -5293,6 +5294,11 @@ torrentissue.com##a[href*="//iforward.us"]
 torrentjang.com##div.mside-ads
 torrentmade.com##div.hiddenpage
 torrentmade.com##div.top_banner
+torrentmal3.com##div.at-col.at-main.col-md-9>div.main-row.row
+torrentmal3.com##div.at-col.at-main.col-md-9>div[align="center"]
+torrentmal3.com##div.at-col.at-main.col-md-9>div[style="padding-bottom: 5px;"]
+torrentmal3.com##div.w-main>div.at-row>div[style="padding-top: 5px; display: flex; justify-content: center;"]
+torrentmal3.com##div.w-side>div[align="center"]
 torrentmap.com##a[href*="/bbs/board.php?bo_table=family"]
 torrentmap.com##a[href*="/etc/link.php"]
 torrentmap.com##div#ad_board
