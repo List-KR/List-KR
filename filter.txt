@@ -418,6 +418,7 @@
 ||acdn.adnxs.com/ast/ast.js^
 ||acdn.adnxs.com/ib/static/usersync/v3/async_usersync.html^
 ||acdn.adnxs.com/ib/static/usersync/v4/async_usersync.html^
+||act*.nexon.com/act.nhs^
 ||ad*.*/event.ems/$domain=~interpark.com
 ||ad*.netshelter.net/adj/
 ||ad-cdn.technoratimedia.com^
@@ -682,6 +683,7 @@
 ||amsv2.daum.net/ad/
 ||an.yandex.ru/system/context.js^
 ||analytics.ad.daum.net^
+||analytics.nexon.com^
 ||anewsa.com/advert_view.php^$domain=anewsa.com
 ||anewsa.com/master/banner/$domain=m.anewsa.com
 ||ani119.com/public/adv/$domain=ani119.com
@@ -1279,6 +1281,7 @@
 ||js.newsmobile.co.kr/Inspace_new_v*.js^
 ||js.newsmobile.co.kr/iconad_*.js^
 ||js.newsmobile.co.kr/inspace_*.js^
+||js.nx.com/s1/livewebjs/GnxVisitorTracking.min.js^
 ||js.theprimead.co.kr^
 ||js2.keywordsconnect.com^
 ||jsc.adskeeper.co.uk/*/*/*.js^
