@@ -5213,6 +5213,10 @@ tf.co.kr##iframe[src^="http://www.tf.co.kr/public/ad/"]
 tfnews.co.kr##div.banner_wrap
 tfnews.co.kr##div.com_ban
 tfnews.co.kr##div.top_banner
+tgd.kr##a[href*="/trk/click"]
+tgd.kr##a[href^="https://toptoon.com"]
+tgd.kr##div#plz-dont-block-me
+tgd.kr##div#weare-out-of-food
 tgd.kr##div.frame>div:not([class]):not([id])>div[style="padding:0 20px 15px;"]
 tgd.kr##div.frame>div[align="center"][style="background:#fff;"]
 tgd.kr##div.frame>div[style="background:#fff;    background: #fff;\a     padding: 20px 0;\a     margin-top: -14px;\a     text-align: center;"]
@@ -5817,5 +5821,6 @@ linsoo.co.kr$$script[tag-content="eval(function(p,a,c,k,e,d)"]
 linsoo.co.kr$$script[tag-content="eval(atob("]
 liveinincheon.tistory.com$$script[tag-content="h237.nextFunction()"]
 postshare.co.kr$$script[type="text/javascript"][tag-content="COPY PROTECTED BY"]
+tgd.kr$$script[tag-content="AD"]
 thehindu.com$$script[tag-content="Adblock"]
 pixlr.com$$script[tag-content="cancelAdBlocker()"]
