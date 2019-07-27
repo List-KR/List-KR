@@ -4583,7 +4583,17 @@ news2day.co.kr##div.banner-ilike
 news2day.co.kr##div.banner-like
 news2day.co.kr##div.right-top-banner
 news2day.co.kr##div[data-section-id^="banner-"]
+newsen.com##div#CLtag>div[style="float:right; width:310px; height:250px; margin:0 !important; padding:0 !important;"]
+newsen.com##div#CLtag>div[style="width:468px;margin:0 auto;"]
 newsen.com##div#ad250
+newsen.com##div#news_banner
+newsen.com##div[id^="mobonDivBanner_"]
+newsen.com##ins[data-ad-slot="2189317187"]
+newsen.com##ins[data-ad-slot="4519820470"]
+newsen.com##ins[data-ad-slot="6619516784"]
+newsen.com##ins[data-ad-slot="9712583988"]
+newsen.com##ins[data-ad-slot="9827607745"]
+newsen.com##ins[data-ad-slot="9967208540"]
 newshankuk.com##div.bannerBottomR
 newshankuk.com##div.bannerTopR
 newsis.com##div#detail1-1
