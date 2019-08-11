@@ -5270,9 +5270,11 @@ thepiratebay.org##div#sky-right
 thepiratebay.org##iframe[src^="//thepiratebay.org/static/ads/"]
 theqoo.net##div.board_content_google_ad
 theqoo.net##div.bottom_google_ad
+theqoo.net##div.document_list_google_ad_space
 theqoo.net##div.google_ad
-theqoo.net##div.top_google_ad_space
 theqoo.net##div.topBanner
+theqoo.net##div.top_google_ad_space
+theqoo.net##ul.notice-list>li.image_notice
 therightscoop.com##section.ai_widget
 theverge.com##div.ad__athena_internal
 theverge.com##div.m-ad
