@@ -23,6 +23,7 @@
 @@||vads-api.ad.daum.net/xylophone/adrequest/vmap/
 
 ! Exceptions for anti-adblock scripts
+@@||koreapas.com^$generichide
 @@||linsoo.co.kr^$generichide
 @@||techsighter.com/js/siropu/am/ads.min.js
 @@||webzook.net/js/fuckadblock.js
@@ -5838,6 +5839,7 @@ sshdd.co.kr#%#Object.defineProperties(window, { _wm: { get: function(){ return n
 c11.kr$$script[tag-content="adblock"]
 dcinside.com$$script[tag-content="function adBlockDetected()"]
 gall.dcinside.com$$tr[class="ub"][tag-content="<a href='http://addc.dcinside.com"]
+koreapas.com$$script[tag-content="function adBlockDetected()"]
 linsoo.co.kr$$script[tag-content="eval(function(p,a,c,k,e,d)"]
 linsoo.co.kr$$script[tag-content="eval(atob("]
 liveinincheon.tistory.com$$script[tag-content="h237.nextFunction()"]
