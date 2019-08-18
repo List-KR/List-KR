@@ -1107,6 +1107,8 @@
 ||gamemeca.com/_crossDomain/adload.php^$domain=gamemeca.com
 ||gametoc.hankyung.com/banner/*.html^
 ||get.keywordsconnect.com^
+||get.optad360.io/sf/*/plugin.min.js^
+||get.optad360.io/sf/prebid*.js^
 ||get2.keywordsconnect.com^
 ||gfp.veta.naver.com/adcall^
 ||ggilbo.com/banner/banner_roll_msidebtm.html^$domain=ggilbo.com
