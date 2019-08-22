@@ -665,6 +665,7 @@
 ||adver.clickmon.co.kr^
 ||advert.livesportmedia.eu/rotating-advert/right.php^
 ||adverweb.cjenm.com/js.mezzo/etcPOC/
+||advimg.ad-mapps.com/sdk/M_PLUS/JS/ad/mezzo_SignalPlay_ad.js^
 ||adw.heraldm.com/cgi-bin/conad.fcgi/
 ||adx-exchange.toast.com/a_request^
 ||adx-exchange.toast.com/html/integration.html^
@@ -1383,6 +1384,10 @@
 ||m.torrentkim5.net/js/banner0122.js^$domain=m.torrentkim5.net
 ||m.vop.co.kr/templates/js_2016/enliple_blandlink.js^$domain=m.vop.co.kr|vop.co.kr
 ||m.ytn.co.kr/ad/ad_*.html^
+||m.ytn.co.kr/js/ad/cross_ad.js^
+||m.ytn.co.kr/js/ad/self_ad.js^
+||m.ytn.co.kr/js/mezzo/mezzoAD_ytnv*.js^
+||m.ytn.co.kr/js/mezzo/mezzo_call.js^
 ||m.zbn.donga.com/banner/ad_cauly_hotnews.asp^$domain=m.zbn.donga.com
 ||m.zdnet.co.kr/template/ads.asp^$domain=m.zdnet.co.kr
 ||m1.daumcdn.net/adtc/js/mobilead.js^
@@ -4121,6 +4126,8 @@ m.yna.co.kr##aside.aside-text01
 m.yna.co.kr##aside.aside-text02
 m.yna.co.kr##aside.aside-text03
 m.yonhapnewstv.co.kr##div#main_banner
+m.ytn.co.kr##div#float_bottom
+m.ytn.co.kr##div.banner_ad
 m.ytn.co.kr##div.newsview_ad
 m.ytn.co.kr##div.newsview_ad_bnr
 m.ytn.co.kr##div.photo_bottom_ad
