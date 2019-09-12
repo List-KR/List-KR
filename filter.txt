@@ -4433,6 +4433,7 @@ net.hr##div.banner
 net.hr##div.banner_adsense
 newdaily.co.kr##div#ad1
 newdaily.co.kr##div#iw_ad4
+newtoki24.net##div#main4x3_banner
 news.chosun.com##div.ad_aside_box
 news.chosun.com##div.ad_box
 news.chosun.com##div.ad_mid_box
