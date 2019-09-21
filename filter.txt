@@ -4464,6 +4464,7 @@ news.joins.com##div#criteo_network
 news.joins.com##div.ab_adtxt_wrap
 news.joins.com##div.ad
 news.joins.com##div.ad_text
+news.joins.com##div.ad_top
 news.joins.com##div.advertising
 news.joins.com##div.shpping_life
 news.joins.com##div[data-widget-type="Ad"]
