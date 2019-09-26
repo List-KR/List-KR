@@ -758,6 +758,7 @@
 ||bodnara.co.kr/advert/advert.php^
 ||bohumlife.edaily.co.kr/iframe_starin.html^
 ||books.chosun.com/common/r_banner/index.html^$domain=books.chosun.com
+||bricon.site/js/loadads_600.js^
 ||brightadnetwork.com/a/display.php^
 ||brightonclick.com/a/display.php^
 ||brightonclick.com/script/suurl.php^
@@ -1215,6 +1216,7 @@
 ||img.mobon.net/js/elpBackUnder.js^
 ||img.mobon.net/mediaCategory/newAd/adbn_*.js^
 ||img.mrep.kr/slot/*.html^
+||img.nabang.tv/partner/banner/
 ||img.newspim.com/banner/$domain=newspim.com
 ||img.quasarzone.co.kr/img/qsz_banner/$domain=quasarzone.co.kr
 ||img.sbs.co.kr/news/ad/delay_redirect.html^$domain=news.sbs.co.kr
@@ -5581,6 +5583,9 @@ vop.co.kr##iframe[src^="/templates/ad/"]
 vop.co.kr##iframe[src^="/templates/ad_2015/"]
 vubird.com##div#leftadcontainer
 vubird.com##div#rightadcontainer
+w17.leadership14.site##div#mobonIframe_21379
+w17.leadership14.site##div[id^=AD_]
+w17.leadership14.site##iframe[src^="https://t.co/XHHkjBVDq2"]
 wasabisyrup.com##div.article-gallery>div.article-gallery-group
 wasabisyrup.com##div.bottom-group>div.content-group
 wasabisyrup.com##div.pb_icon
