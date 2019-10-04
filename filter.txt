@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20191003
+! Version: 20191004
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -2624,6 +2624,7 @@ dvdprime.com##div#menu_inner>a
 dvdprime.com##div#mobile_top_banner
 dvdprime.com##div#sidebar_container>div.rc_div.relative>a
 dvdprime.com##div#sidebar_doubleclick
+dvdprime.com##div#top_banner
 dvdprime.com##div#view_Contents>div.box_shadow_3>div.a_content.relative>div.relative
 dvdprime.com##div.ad_content_bottom
 dvdprime.com##div.mobile_responsive_1_div
