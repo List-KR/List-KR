@@ -2837,6 +2837,7 @@ gadgethacks.com##aside.top-ad-anchor
 gadgethacks.com##aside.whtaph
 gadgethacks.com##aside.whtaph-rightbox
 gadgethacks.com##div#ad-top-lock
+gall.dcinside.com##div#wif_adx_banner_wrap
 gall.dcinside.com##div#zzbang_div
 gall.dcinside.com##div.ad_bottom_list
 gall.dcinside.com##div.con_banner
