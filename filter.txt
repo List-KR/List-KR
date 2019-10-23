@@ -3904,6 +3904,8 @@ m.mydaily.co.kr##div.read_view>div[style="margin-top:10px; margin-bottom:-20px; 
 m.mydaily.co.kr##div.read_view>div[style="text-align:left; margin:-12px 0 7px -15px;"]
 m.mydaily.co.kr##div.read_wrap>div[style="margin-left:10px; line-height:19px; height:30px; margin-top:2px;"]
 m.mydaily.co.kr##p.mobitree
+m.nate.com##div.mainBnFull
+m.nate.com##div.new_ad
 m.naver.com##div.grid_ad
 m.naver.com##div.id_uio_cd_fbanner
 m.naver.com##div[data-da]
