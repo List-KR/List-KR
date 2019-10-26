@@ -3458,7 +3458,8 @@ lifehacker.com##div.movable-ad
 lifehacker.com##section.contained-ad-container
 lifewire.com##div.mntl-flexible-ad
 lifewire.com##div.mntl-gpt-adunit
-linux.cn###LzDnCisOsS
+linux.cn##div#LzDnCisOsS
+linux.cn##div.linuxcnad
 linuxquestions.org##td.alt1>div[style="text-align: center; width: 100%"]
 linuxquestions.org##td[id^="td_post_"]>div[style="float: right; margin-left: 5px; margin-bottom: 5px; margin-top: -3px; margin-right: -3px"]
 live.joinsmsn.com##div.shopping_v2
