@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20191023
+! Version: 20191026
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -5237,6 +5237,7 @@ story369.com##div.ads_t5
 story369.com##div.promotion
 story369.com##iframe[src^="../ad/"]
 straitstimes.com##div.ads
+strukteon.net##div.position-fixed.ads
 studenthome.ch##a[href^="https://www.pharmagram.ch"]
 studenthome.ch##a[href^="https://www.scorestudies.ch"]
 studenthome.ch##body>div>div[style="position:absolute; left:40px; top:5px; width:728px; height:90px;"]
