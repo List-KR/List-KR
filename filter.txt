@@ -3595,6 +3595,8 @@ m.cine21.com##div.article_area>div[style="width:320px; height:50px; margin:0 aut
 m.cine21.com##div.article_area>div[style="width:320px;height:100px; margin:0 auto 15px;"]
 m.cine21.com##div.hanad_area
 m.cine21.com##ul#lst_card>li.point>div[style="width:320px; height:50px; margin:0 auto 15px; "]
+m.clien.net##div#comment_naverAd
+m.clien.net##div#naverAd2
 m.comic.naver.com##div#AD_WEBTOON_MOBILEWEB_UP
 m.comic.naver.com##div#adPostArea
 m.comic.naver.com##div.ads_sc
