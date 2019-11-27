@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20191122
+! Version: 20191127
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -1003,6 +1003,7 @@
 ||deliverys.n2s.co.kr/afm.php^
 ||deloton.com/apu.php^
 ||dev.ezadsystem.com/static/js/ezad-1.0.js^
+||dezf3o8j9jdt6.cloudfront.net/js/adop_colleapse_*.min.js^
 ||dgate.*/hc.aspx^
 ||dgate.*/hciw.aspx^
 ||dianomi.com/smartads.epl^
@@ -5784,18 +5785,18 @@ wikihow.com##div.whad
 wikileaks-kr.org##div#floating_banner_left
 wikileaks-kr.org##div#floating_banner_right
 wikileaks-kr.org##div.user-banner
-wikitree.co.kr##div#id_left_bar_ad_1
-wikitree.co.kr##div#id_right_criteo_ad
-wikitree.co.kr##div#PrismDisplayBox
-wikitree.co.kr##div#right_view_01_1
-wikitree.co.kr##div#wikicon>div.mt30
-wikitree.co.kr##div.ad_left
-wikitree.co.kr##div.ad_left_banner_criteo_ad
-wikitree.co.kr##div.ad_realclick_relation_bar
-wikitree.co.kr##div.ad_right
-wikitree.co.kr##div.bottom>div[style="position:relative"]
-wikitree.co.kr##div.wikitree_ad
-wikitree.co.kr##iframe[src^="/_tpl/default/ad/"]
+i.wik.im,wikitree.co.kr##div#id_left_bar_ad_1
+i.wik.im,wikitree.co.kr##div#id_right_criteo_ad
+i.wik.im,wikitree.co.kr##div#PrismDisplayBox
+i.wik.im,wikitree.co.kr##div#right_view_01_1
+i.wik.im,wikitree.co.kr##div#wikicon>div.mt30
+i.wik.im,wikitree.co.kr##div.ad_left
+i.wik.im,wikitree.co.kr##div.ad_left_banner_criteo_ad
+i.wik.im,wikitree.co.kr##div.ad_realclick_relation_bar
+i.wik.im,wikitree.co.kr##div.ad_right
+i.wik.im,wikitree.co.kr##div.bottom>div[style="position:relative"]
+i.wik.im,wikitree.co.kr##div.wikitree_ad
+i.wik.im,wikitree.co.kr##iframe[src^="/_tpl/default/ad/"]
 windowscentral.com##div.adunit-wrap
 windowsforum.kr##a[href^="https://www.dothome.co.kr/ad/"]
 windowsforum.kr##block.sponser
