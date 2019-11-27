@@ -3486,6 +3486,13 @@ kyeongin.com##div[class^="ad_"]
 kyeongin.com##div[class^="head_right_ad"]
 kyeongin.com##ul.menu_ad_list
 kyeongin.com##ul.slideAdList
+kyongbuk.co.kr##div.ad-template
+kyongbuk.co.kr##ins[data-ad-slot="I_kyongbuk_bylineleft_300_250"]
+kyongbuk.co.kr##ins[data-ad-slot="I_kyongbuk_bylineright_300_250"]
+kyongbuk.co.kr##ins[data-ad-slot="I_kyongbuk_middlebottom_580_400"]
+kyongbuk.co.kr##ins[data-ad-slot="I_kyongbuk_middletop_970_90"]
+kyongbuk.co.kr##ins[data-ad-slot="I_kyongbuk_rightmiddle_300_600"]
+kyongbuk.co.kr##ins[data-ad-slot="I_kyongbuk_righttop_300_600"]
 lenta.ru##div.b-banner
 lenta.ru##section.b-banner
 lifehacker.com##div.ad-bottom
@@ -5813,7 +5820,13 @@ xportsnews.com##div.ad_1
 xportsnews.com##div.ad_wrap
 xportsnews.com##div.ad_wrap_inline
 xportsnews.com##div.ad_wrap_nomargin
+xportsnews.com##div.l_ad_1
+xportsnews.com##div.l_ad_2
 xportsnews.com##div.nm_list2
+xportsnews.com##div.r_ad_1
+xportsnews.com##div.rr_ad_1
+xportsnews.com##div.rr_ad_2
+xportsnews.com##div[id^="mobonDivBanner_"]
 xportsnews.com##span.ad_balloon
 xportsnews.com##ul.ad_wrap_list
 xportsnews.hankyung.com##div.btn_event
