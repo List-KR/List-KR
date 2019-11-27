@@ -1611,6 +1611,7 @@
 ||pcgames.de/webservices/hitAlert.cfc^$domain=pcgames.de
 ||pcwelt.de/js/adserver_footer.js^$domain=pcwelt.de
 ||pd4-imp.revsci.net/rtbads/pq^
+||pds.dailypharm.com/ADManager_2017/$domain=dailypharm.com
 ||ph.kado.net/adcontent/script/*.js^$domain=kado.net
 ||performix.co.kr/cgi-bin/conad.fcgi/
 ||ph.mediatoday.co.kr/adcontent/script/*.js^$domain=mediatoday.co.kr
@@ -2501,6 +2502,18 @@ dailymotion.com##div#bottom_banner
 dailymotion.com##div.ad
 dailymotion.com##div.mc
 dailymotion.com##div[class^="AdWatching__container___"]
+dailypharm.com##div#indexPopup
+dailypharm.com##div.MainHeadLine>div[style="width:980px;margin-top:10px;marign-top:50px;padding-left:120px;margin:auto;"]
+dailypharm.com##div.RightSideADBC
+dailypharm.com##div.RightSideADBt
+dailypharm.com##div.RightSideADtop
+dailypharm.com##div.footerAD
+dailypharm.com##div.headLineAD
+dailypharm.com##div.leftSideAD
+dailypharm.com##div.midAD
+dailypharm.com##div.middleAD
+dailypharm.com##div.rigthSideAD
+dailypharm.com##div.topAd
 dailyrecord.co.uk##div.gpt
 dailysecu.com##div.banner_box
 danawa.com##div.banner_type4
