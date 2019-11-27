@@ -256,6 +256,7 @@
 ##iframe[src*="//m.hankooki.com/ad/"]
 ##iframe[src*="//m.kmib.co.kr/banner/"]
 ##iframe[src*="//m.ytn.co.kr/ad/ad_"][src$=".html"]
+##iframe[src*="//media.adpnut.com/cgi-bin/PelicanC.dll"]
 ##iframe[src*="//mienisa.co.kr/api/bn1"]
 ##iframe[src*="//mktag.mt.co.kr/code.ems/"]
 ##iframe[src*="//mobi.luxad.kr/ad/"]
