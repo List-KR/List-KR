@@ -1611,7 +1611,7 @@
 ||pcgames.de/webservices/hitAlert.cfc^$domain=pcgames.de
 ||pcwelt.de/js/adserver_footer.js^$domain=pcwelt.de
 ||pd4-imp.revsci.net/rtbads/pq^
-||pds.dailypharm.com/ADManager_2017/$domain=dailypharm.com
+||pds.dailypharm.com/ADManager_2017/$domain=dailypharm.com|m.dailypharm.com
 ||ph.kado.net/adcontent/script/*.js^$domain=kado.net
 ||performix.co.kr/cgi-bin/conad.fcgi/
 ||ph.mediatoday.co.kr/adcontent/script/*.js^$domain=mediatoday.co.kr
@@ -3634,6 +3634,7 @@ m.dailycnc.com##body>div[style="height:96px; background-color:#dcdcdd;"]
 m.dailycnc.com##center[id^="AD_LIVE_AREA_"]
 m.dailycnc.com##section.advertisment
 m.dailyesports.com##div.banner-wrap
+m.dailypharm.com##section.topAD
 m.dailysecu.com##div#m_article_content>div.m_min_size>div[style="margin:1em auto 0;height:200px;overflow:hidden;text-align:center;"]
 m.dailysecu.com##div.applad-areas
 m.dailysecu.com##div.banner_article_inner_box
@@ -5268,6 +5269,7 @@ sportsseoul.com##iframe[src*="/RealMedia/ads/"]:not([src*="/RealMedia/ads/adstre
 sportsseoul.com#@#iframe[src*="/RealMedia/ads/"]
 spotvnews.co.kr##p.adcontrol41_box
 ssundays7.tistory.com##div.article>div[style="TEXT-ALIGN: center"]
+stackabuse.com##div.ad
 star.hankookilbo.com##div.ad-pc-inner
 star.hankookilbo.com##div.article-ad-s
 star.mk.co.kr##div#top_ad_area
