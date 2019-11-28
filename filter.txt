@@ -5110,6 +5110,8 @@ rottentomatoes.com##div#leaderboard_top_ad
 rottentomatoes.com##div#top_leaderboard_wrapper
 routefifty.com##div.advert-placeholder
 rp5.ru#@#ins.adsbygoogle[data-ad-client]:not([data-matched-content-ui-type])
+ruliweb.com##a[href*="/view/click.htm"]
+ruliweb.com##div#ad_background
 ruliweb.com##div.ad
 ruliweb.com##div.adrrr
 rutor.info##div.sideblock2
