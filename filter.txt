@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20191201
+! Version: 20191211
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
