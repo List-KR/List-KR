@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20191211
+! Version: 20191214
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -4075,6 +4075,7 @@ m.ruliweb.com##div.ad_wrapper
 m.ruliweb.com##div.fixed_ad_wrapper
 m.ruliweb.com##div.mo_ad_main_ti_wrapper
 m.ruliweb.com##div.nbp_container
+m.ruliweb.com##div[id^="addmo_ad_"]
 m.search.daum.net##div#premiumLinkColl
 m.search.naver.com##section.nx_pla
 m.search.naver.com##section.sp_nshop
