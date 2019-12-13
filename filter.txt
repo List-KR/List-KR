@@ -1143,7 +1143,7 @@
 ||get.optad360.io/sf/*/plugin.min.js^
 ||get.optad360.io/sf/prebid*.js^
 ||get2.keywordsconnect.com^
-||gfp.veta.naver.com/adcall^
+||gfp.veta.naver.com^
 ||ggilbo.com/banner/banner_roll_msidebtm.html^$domain=ggilbo.com
 ||gigglehd.com/banner/*.jpg^
 ||go.ezoic.net/ezoic/epbfull5.js^
