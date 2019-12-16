@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20191214
+! Version: 20191217
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -3187,6 +3187,7 @@ ilyo.co.kr##div.ad_topArea
 ilyo.co.kr##div.eventBnr
 ilyo.co.kr##div[class^="ad_skyscraper_"]
 ilyo.co.kr##div[data-widget_id="57wBw1o8"]
+imgur.com##div.advertisement
 imnews.busan.com,implay.busan.com##div#float_banner
 imnews.busan.com,implay.busan.com##div.left_banner1
 imnews.busan.com,implay.busan.com##div.right_banner1
