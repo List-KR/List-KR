@@ -918,6 +918,7 @@
 ||cdn.interworksmedia.co.kr/js/media/*.js^
 ||cdn.iphonephotographyschool.com/wp-content/themes/ips-theme/lib/js/welcome.js^$domain=iphonephotographyschool.com
 ||cdn.kixer.com/ad/load.js^
+||cdn.kkutu.co.kr/img/banner/
 ||cdn.komoona.com/scripts/kmn_sa.js^
 ||cdn.kormedi.com/ad/$domain=kormedi.com
 ||cdn.megadata.co.kr/js/media/1.1/MBSHandler.js^
@@ -3396,10 +3397,10 @@ kiplinger.com##div.kip-banner
 kiplinger.com##section.kip-advertisement
 kkutu.co.kr###ADVERTISEMENT
 kkutu.co.kr###ADVERTISEMENT_TITLE
+kkutu.co.kr##.banner
 kkutu.co.kr##a[href*="play.google.com"]
 kkutu.co.kr##div#facebook-menu
 kkutu.co.kr##div.ADBox
-kkutu.co.kr##div.banner
 knowyourmeme.com##div.content-unit-wrapper
 knowyourmeme.com##div.header-unit-wrapper
 knowyourmeme.com##div.rectangle-unit-wrapper
