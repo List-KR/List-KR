@@ -918,7 +918,7 @@
 ||cdn.interworksmedia.co.kr/js/media/*.js^
 ||cdn.iphonephotographyschool.com/wp-content/themes/ips-theme/lib/js/welcome.js^$domain=iphonephotographyschool.com
 ||cdn.kixer.com/ad/load.js^
-||cdn.kkutu.co.kr/img/banner/
+||cdn.kkutu.co.kr/img/banner/rhaehf45.png^
 ||cdn.komoona.com/scripts/kmn_sa.js^
 ||cdn.kormedi.com/ad/$domain=kormedi.com
 ||cdn.megadata.co.kr/js/media/1.1/MBSHandler.js^
