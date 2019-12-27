@@ -2837,6 +2837,8 @@ etobang.co.kr,etoland.co.kr,etorrent.co.kr,etorrent.kr##img[src^="../../img/bann
 etobang.co.kr,etoland.co.kr,etorrent.co.kr,etorrent.kr##img[src^="/img/net/banner/"]
 etoday.co.kr##div.l_content_module>div[style="margin-top:20px"]
 etoday.co.kr##div.l_content_module>div[style="width:680px;height:250;margin:40px auto 0"]
+etoland.co.kr##div.m_market_area
+etoland.co.kr##div[style^="clear:both;margin-top:10px;padding:10px 0 10px 0;width:100%;text-align:center;"]
 expres.ua##div#rbTopLeaderboard
 expres.ua##div.AdxRB
 eyenews.hankooki.com##div#ad2LineText02
