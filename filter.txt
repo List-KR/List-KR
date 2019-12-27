@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20191223
+! Version: 20191227
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -4311,6 +4311,7 @@ manamoa*.net##a[href*="/bbs/board.php?bo_table=ad"]
 manamoa*.net##div.ad-banner-widget
 manamoa*.net##div.fit-banner
 manamoa*.net##div.main-banner
+manamoa23.net##div.main-banner
 mangafox.me##div.ad
 mangarock.com##div.dG1Ln-2i-1-
 marumaru.city##div.w_banner
