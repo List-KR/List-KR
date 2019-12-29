@@ -916,6 +916,13 @@
 ||cdn.gmossp-sp.jp/ads/loader.js^
 ||cdn.interworksmedia.co.kr/google/
 ||cdn.interworksmedia.co.kr/js/media/*.js^
+||cdn.interworksmedia.co.kr/google/
+||cdn.interworksmedia.co.kr/js/media/*.js^
+||cdn.interworksmedia.co.kr/js/tm/aip/latest/aip.js^
+||cdn.interworksmedia.co.kr/js/tm/ba/latest/ba.js^
+||cdn.interworksmedia.co.kr/js/tm/bip/latest/bip.js^
+||cdn.interworksmedia.co.kr/js/tm/ip/latest/interplay.js^
+||cdn.interworksmedia.co.kr/js/tm/ip/latest/iwmads.js^
 ||cdn.iphonephotographyschool.com/wp-content/themes/ips-theme/lib/js/welcome.js^$domain=iphonephotographyschool.com
 ||cdn.kixer.com/ad/load.js^
 ||cdn.kkutu.co.kr/img/banner/rhaehf45.png^
@@ -4000,6 +4007,7 @@ m.mk.co.kr##div.new_ad
 m.mk.co.kr##div.new_ad2
 m.mk.co.kr##div.new_ad3
 m.mk.co.kr##div[id^="slot"]
+m.mk.co.kr##iframe[src^="./index_ad.mk"]
 m.moneyweek.co.kr##div#ad_div_bottom
 m.mt.co.kr##body>div[style="position:fixed; bottom:0; width:100%; background:transparent; z-index:2"]
 m.mt.co.kr##div#article>div[style="margin-left:-15px;margin-right:-15px;height:100px;text-align:center;"]
