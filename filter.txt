@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20191229
+! Version: 20200101
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -5467,6 +5467,7 @@ tfnews.co.kr##div.com_ban
 tfnews.co.kr##div.top_banner
 tgd.kr##a[href*="/trk/click"]
 tgd.kr##a[href^="https://toptoon.com"]
+tgd.kr##body>div[style="background: #efefef;padding:0;"]
 tgd.kr##div#article-list>div[style="background: #efefef;padding:10px 8px;"]
 tgd.kr##div#plz-dont-block-me
 tgd.kr##div#weare-out-of-food
