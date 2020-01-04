@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20200101
+! Version: 20200104
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -2296,6 +2296,7 @@ blackhatworld.com##div.ad_header
 blackhatworld.com##div.ad_message_below_first
 blackhatworld.com##div.ad_message_below_last
 blackhatworld.com##div.ad_sidebar_bottom
+blankspace-dev.tistory.com##div.tt_article_useless_p_margin>div[style="float:right;margin:0 0 10px 10px;width:336px;height:280px"]
 bleacherreport.com##div.ad
 bleacherreport.com##div.adsContainer
 blog.livedoor.jp##div#ad2
