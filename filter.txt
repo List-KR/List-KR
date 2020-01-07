@@ -979,6 +979,7 @@
 ||coinpan.com/img/banner/$domain=coinpan.com
 ||comm.news.nate.com/Etc/ViewADThumb^$domain=news.nate.com
 ||compass.adop.cc/assets/js/adop/adop.js^
+||compass.adop.cc/assets/js/adop/adopHB.js^
 ||compass.adop.cc/assets/js/adop/adopJ.js^
 ||compass.adop.cc/RD/
 ||config.ad-brix.com/*/init.json^
@@ -5228,6 +5229,7 @@ sir.kr##div#adsense_view
 sir.kr##div#side-adsense
 sisain.co.kr##div#sliding_adop
 sisain.co.kr##div#sliding_adopP
+sisain.co.kr##div.ad-template
 sisain.co.kr##div.edit_inner_content>div.banner_box
 sisain.co.kr##div.float_banner
 sisainlive.com##div#TopBanners2
