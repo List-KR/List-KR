@@ -2608,6 +2608,9 @@ deal.11st.co.kr##div.sponsor_link_wrap
 deezer.com##div#ads_banner_left
 deezer.com##div.ads
 deezer.com##section#ads_expand
+demilked.com##div.articles>div.adv.article
+demilked.com##div.desktop-ad
+demilked.com##div.mobile-ad
 deviantart.com##div.ad-container
 deviantart.com##div.da-custom-ad-box
 deviantart.com##div.dp-ad-chrome
