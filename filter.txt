@@ -4407,6 +4407,9 @@ mediaus.co.kr##iframe[src^="http://www.mediaus.co.kr/banner/"]
 medicaltimes.com##a[href^="/Users/ADManager2018/ADMamagerCountStat.html"]
 medicaltimes.com##div.ad
 medicaltimes.com##div.footerAD
+medicaltimes.com##div.newsBody>div[style="margin:10px 15px; padding:15px;"]
+medicaltimes.com##div.newsTxt>div[style="padding-top: 15px;"]
+medicaltimes.com##div.thirdSection>div[style="background-color: #f2f2f2;border: 1px solid #cccccc;box-sizing: border-box;margin-bottom: 15px;text-align:center;padding:32px 0px"]
 mediawatch.kr##a[href*="/news/banner_click.php"]
 mediawatch.kr##div.com_ban
 medicaltimes.com##div.newsBody>div[style="margin:10px 15px; padding:15px;"]
