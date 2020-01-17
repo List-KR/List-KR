@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20200114
+! Version: 20200117
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -2964,6 +2964,7 @@ gall.dcinside.com##div.power_click
 gall.dcinside.com##div.rightbanner
 gall.dcinside.com##div.sch_alliance_box
 gall.dcinside.com##div.stickyunit
+gall.dcinside.com##form#write > div[style="height:90px;"]
 gall.dcinside.com##ul.cmt_list>li.dory.ub-content
 gall.dcinside.com##ul.reply_list>li.dory.ub-content
 game.donga.com##section.banner
