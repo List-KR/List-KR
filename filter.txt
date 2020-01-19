@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20200117
+! Version: 20200119
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -32,9 +32,12 @@
 @@||webzook.net/js/fuckadblock.js
 
 ! Blocking ip logger/tracking services
+||amishdatacenter.com^$third-party
+||amishprincess.com^$third-party
 ||02ip.ru^$third-party
 ||2no.co^$third-party
 ||bmwforum.co^$third-party
+||canadianlumberjacks.club^$third-party
 ||catsnthing.com^$third-party
 ||catsnthings.fun^$third-party
 ||crabrave.pw^$third-party
@@ -58,6 +61,9 @@
 ||leancoding.co^$third-party
 ||minecräft.com^$third-party
 ||mypic.icu^$third-party
+||packetlivesmatter.club^$third-party
+||packetlivesmatter.online^$third-party
+||poweredbydialup.com^$third-party
 ||spottyfly.com^$third-party
 ||stopify.co^$third-party
 ||yip.su^$third-party
