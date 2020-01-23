@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20200121
+! Version: 20200123
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -2803,6 +2803,8 @@ electrek.co##div.tha4673a86
 elsword.nexon.com##div.anis
 embed.nicovideo.jp##div#overlayBanner
 embed.nicovideo.jp##iframe[src^="https://ads.nicovideo.jp/bannertext"]
+emoticonfun.com##div.notice_1
+emoticonfun.com##div.notice_2
 en.seoul.co.kr##div.adbox03
 en.seoul.co.kr##div.enatic_banner
 en.seoul.co.kr##div.enatic_cnt>div[style="clear:both;float:left;display:inline-block;width:320px;height:250px;text-align:center;margin-bottom:25px;"]
