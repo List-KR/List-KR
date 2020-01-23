@@ -2875,6 +2875,7 @@ etoland.co.kr##div.m_market_area
 etoland.co.kr##div[style^="clear:both;margin-top:10px;padding:10px 0 10px 0;width:100%;text-align:center;"]
 expres.ua##div#rbTopLeaderboard
 expres.ua##div.AdxRB
+eye.seoul.co.kr##div#withpang_p
 eyenews.hankooki.com##div#ad2LineText02
 eyenews.hankooki.com##div#adIssueTrend
 eyenews.hankooki.com##div#lifeSpnosor
