@@ -2803,6 +2803,7 @@ electrek.co##div.tha4673a86
 elsword.nexon.com##div.anis
 embed.nicovideo.jp##div#overlayBanner
 embed.nicovideo.jp##iframe[src^="https://ads.nicovideo.jp/bannertext"]
+embedded.com##div.ads
 emoticonfun.com##div.notice_1
 emoticonfun.com##div.notice_2
 en.seoul.co.kr##div.adbox03
