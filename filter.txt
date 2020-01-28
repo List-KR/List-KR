@@ -22,7 +22,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js
 @@||image*.dcinside.com
 @@||image*.dcinside.co.kr
-@@||ssl.pstatic.net/adimg3.search/adpost/js/adpost_show_ads_v2.min.js$script,domain=search.danawa.com|m.danawa.com
+@@||ssl.pstatic.net/adimg3.search/adpost/js/adpost_show_ads_v2.min.js$script,domain=search.danawa.com|m.danawa.com|m.clien.net
 @@||vads-api.ad.daum.net/xylophone/adrequest/vmap/
 
 ! Exceptions for anti-adblock scripts
