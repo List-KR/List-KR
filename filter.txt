@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20200210
+! Version: 20200213
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -4382,6 +4382,7 @@ mangarock.com##div.dG1Ln-2i-1-
 marumaru.city##div.w_banner
 marumaru.ski##div.banner_m
 marumaru.ski##div.w_banner
+marumaru.voto##div.w_banner
 mashable.com##div#sticky-slot
 mashable.com##div#sticky-spacer
 mashable.com##div.ad
