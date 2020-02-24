@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20200217
+! Version: 20200224
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -2935,6 +2935,11 @@ focus.kr##div.header>div.wrap>div[style="position:absolute;right: 0px;bottom: 16
 fomos.kr##div#top_banner
 fomos.kr##div.banner_area
 fomos.kr##div.bottom_ad
+footballist.co.kr##div#articleBody>div[style="display:inline-block; width:250px; height:250px; margin:10px; margin-top:20px; float:right; border:1px solid #eee;"]
+footballist.co.kr##div#floating_banner_body
+footballist.co.kr##div.adBannerLeft
+footballist.co.kr##div.adBannerRight
+footballist.co.kr##div.bnArea
 forbes.com##div.top-ad-container
 forbes.com##div.vestpocket
 forbes.com##div[class^="fbs-ad--"]
