@@ -841,6 +841,7 @@
 ||c.amazon-adsystem.com/aax2/apstag.js^
 ||c.betrad.com/surly.js^
 ||c.kuaituisss.com/c.php^
+||c0.pubmine.com/*/ata.js^
 ||c1.popads.net/pop.js^
 ||c6.daisy6.com/v1/adreq^
 ||cache.ssend.microad.jp/js/adfunnel-sp-load.js^
@@ -6015,6 +6016,9 @@ woman.chosun.com##div.AD_link
 woman.chosun.com##div.banner
 woman.chosun.com##div.main_banner
 womennews.co.kr##iframe[src^="/news/sidebar_banner_realclick01.html"]
+wordpress.com##div.compound-ad-unit
+wordpress.com##div[id^="atatags-"]
+wordpress.com##p.inline-ad-slot
 wowhead.com##div.banner-ad
 wowtv.co.kr##div#divTopBanner
 wowtv.co.kr##div.adv-area
