@@ -4325,7 +4325,7 @@ m.todayan.com##div.advertisementItem
 m.todayan.com##ins[data-ad-slot="8259833388"]
 m.todayan.com##ins[data-ad-slot="9177530388"]
 m.todayan.com##section.advertisment
-m.torrentcup.net,m.torrentman.net##a[href^="/to_toto.html"]
+m.torrentman.net##a[href^="/to_toto.html"]
 m.tr.investing.com##div.adDrawer
 m.tvchosun.com##div.bottom-controller
 m.tvchosun.com##div.ft_banner
@@ -5032,9 +5032,6 @@ nownews.seoul.co.kr##div#articleContent>table[width="250px"][height="250px"]
 nownews.seoul.co.kr##div.Rad
 nownews.seoul.co.kr##div[style="float:left; width:675px; height:154px;"]
 nownews.seoul.co.kr##iframe#ifrm_photolink
-ntosarang.com##a[href*="//xox330.com"]
-ntosarang.com##div#top_proban_wrap00
-ntosarang.com##div.scban_wrap_box2.fixed
 nyaa.se##div#main>div[style="float:left;margin-bottom:6px;"]
 nyaa.se##div#main>div[style="float:left;width:100%;"]
 nyaa.se##div#main>div[style="float:right;margin-top:4px;width:12%;"]
@@ -5667,11 +5664,6 @@ tistory.com##div.ad250
 tistory.com##div.ad250_outter
 tmz.com##div.main-leaderboard-ad
 tmz.com##div.sidebar-ad
-tobest2.net,tobest22.net,tobestnew.net,torrentbest.net,tosarang.net,tosarang1.net,tosarang2.net,tosarang22.net,tosarangnew.net##div#left>div:not([class]):not([id]):not([style])>a
-tobest2.net,tobest22.net,tobestnew.net,torrentbest.net,tosarang.net,tosarang1.net,tosarang2.net,tosarang22.net,tosarangnew.net##div#mainmenu>ul.menu>li:nth-of-type(15)
-tobest2.net,tobest22.net,tobestnew.net,torrentbest.net,tosarang.net,tosarang1.net,tosarang2.net,tosarang22.net,tosarangnew.net##div#mainmenu>ul.menu>li:nth-of-type(16)
-tobest2.net,tobest22.net,tobestnew.net,torrentbest.net,tosarang.net,tosarang1.net,tosarang2.net,tosarang22.net,tosarangnew.net##div#right
-tobest2.net,tobest22.net,tobestnew.net,torrentbest.net,tosarang.net,tosarang1.net,tosarang2.net,tosarang22.net,tosarangnew.net##div.analytics_google
 todayan.com##iframe[src^="/banner/roll_"][src*=".html"]
 todayan.com##iframe[src^="/banner/rollbanner_"][src*=".html"]
 todayan.com##ins[data-ad-slot="3177279828"]
@@ -5692,78 +5684,32 @@ togetter.com##div.lazy-dfp
 topgear.com##div.ad
 topstarnews.net##article.article-veiw-body>div.clearfix>center>div[style="width:320px;height:50px;margin:0;padding:0"]
 topstarnews.net##iframe[src^="http://www.topstarnews.net/html/default/html_tpl_mobile/ad/"]
-torrent.mom##a[href^="https://torrent.mom/page/partner_jump"][href$=".php"]
-torrent.mom##a[href^="https://torrent.mom/page/partner_view"][href$=".php"]
-torrent.mom##div#side_banner
-torrent.mom##div#top_banner
-torrentbe.com,torrentbie.com,torrentmap.com##div#banner_right_list_wrap
-torrentbe.com,torrentbie.com,torrentmap.com##div#banner_top_list_wrap
-torrentbe.com,torrentbie.com,torrentmap.com##div.banner
-torrentbe.com,torrentbie.com,torrentmap.com##ul.banner
-torrentboza.com,torrentboja.net##div#floatdiv
-torrentboza.com,torrentboja.net##div.ad_table_b
-torrentcup.net,torrentdn.com,torrentdn.net,torrentman.net##a[href^="/to_cheonseo.php"]
-torrentcup.net,torrentdn.com,torrentdn.net,torrentman.net##a[href^="/to_chitos.php"]
-torrentcup.net,torrentdn.com,torrentdn.net,torrentman.net##a[href^="/to_funpick.php"]
-torrentcup.net,torrentdn.com,torrentdn.net,torrentman.net##a[href^="/to_toy.php"]
-torrentcup.net,torrentdn.com,torrentdn.net,torrentman.net##a[href^="/to_yama.php"]
-torrentcup.net,torrentdn.com,torrentdn.net,torrentman.net##div#chitos
-torrentcup.net,torrentdn.com,torrentdn.net,torrentman.net##div#LeftAD
-torrentcup.net,torrentdn.com,torrentdn.net,torrentman.net##div#rb
-torrentcup.net,torrentdn.com,torrentdn.net,torrentman.net##div#toto
-torrentcup.net,torrentdn.com,torrentdn.net,torrentman.net##table#file_table>tbody>tr:nth-of-type(1)
-torrentbe.com##div#banner_top_list_wrap
-torrentbe.com##div.banner
-torrentbe.com##ul.banner
-torrentgirl2.com##div.background>div.wrapper>div[style="position:absolute; margin-left:-130px;"]
-torrentgirl2.com##div.sidebar>div.sidebar-nav>ul>a[href^="https://torrentgirl2.com/page/partner_jump"][href*=".php"]
+torrentboza2.com,torrentboja.net##div#floatdiv
+torrentboza2.com,torrentboja.net##div.ad_table_b
+torrentboza2.com,torrentboja.net##div.basic-banner
 torrenthaja.com,torrenthaja1.com##div.main-banner
 torrenthaja.com,torrenthaja1.com##div.side-banner
-torrentissue.com##a[href*="//iforward.us"]
+torrentissue19.com##img.border2
 torrentjang.com##div.mside-ads
 torrentmade.com##div.hiddenpage
 torrentmade.com##div.top_banner
-torrentmal3.com##div.at-col.at-main.col-md-9>div.main-row.row
-torrentmal3.com##div.at-col.at-main.col-md-9>div[align="center"]
-torrentmal3.com##div.at-col.at-main.col-md-9>div[style="padding-bottom: 5px;"]
-torrentmal3.com##div.w-main>div.at-row>div[style="padding-top: 5px; display: flex; justify-content: center;"]
-torrentmal3.com##div.w-side>div[align="center"]
 torrentmap.com##a[href*="/bbs/board.php?bo_table=family"]
 torrentmap.com##a[href*="/etc/link.php"]
 torrentmap.com##div#ad_board
+torrentmap.com##div#banner_right_list_wrap
+torrentmap.com##div#banner_top_list_wrap
 torrentmap.com##div#left_bj > div > img
+torrentmap.com##div.banner
 torrentmap.com##div[style="position:relative; width:875px; height:310px; margin:20px 0; border:1px #ccc solid; box-shadow: 3px 3px 3px  rgba(0, 0, 0, 0.2);"]
 torrentmap.com##div[style="width:305px; height:50px; border:1px #000 solid; padding:1px; margin-top:10px;"]
 torrentmap.com##li[class*="gnb_1dli"][style="z-index: 999;"]
 torrentmap.com##li[style="border:1px red solid; border-top:2px red solid; background:#ffffcc; box-shadow: 3px 3px 3px  rgba(0, 0, 0, 0.2); cursor:pointer;"]
 torrentmap.com##li[style="border:1px solid #ddd; background:#f8f8f8; cursor:pointer;"]
-torrentmoa.com##body>b
-torrentmoa.com##body>center
-torrentmoa.com##div.content_widget_bar
-torrentmoa.com##div.footer_text
-torrentmoa.com##div.lnb_widget
-torrentmoa.com##div.rd_ft>b>b>center
+torrentmap.com##ul.banner
 torrentmoatv.com##div.contents>div.xe_content>div[style="padding:0px 0px 0px 0px !important;"]
 torrentmoatv.com##div.contents>div>center
 torrentmoatv.com##div.left_widget_wrap
 torrentmoatv.com##div.rd_ft>b>b>center
-torrentpan.net,torrentpan1.net##a[href*="//avshow02.me"]
-torrentpan.net,torrentpan1.net##a[href*="//bit.ly/2K1hxV5"]
-torrentpan.net,torrentpan1.net##a[href*="//il119.com"]
-torrentpan.net,torrentpan1.net##a[href*="//sixtoon.com"]
-torrentpan.net,torrentpan1.net##a[href*="/bet"]
-torrentpan.net,torrentpan1.net##div.basic-banner
-torrentpan.net,torrentpan1.net##div[style^="position: fixed; width:130px; top: 125px; left: 50%; z-index: 7000; margin-left: 610px;"]
-torrentpan.net,torrentpan1.net##div[style^="position: fixed; width:130px; top: 125px; right: 50%; z-index: 7000; margin-right: 610px;"]
-torrentwiz.com,torrentwiz1.com,torrentwiz2.com,torrentwiz3.com##div#main-menu-wrapper div.clearfix.left_banner
-torrentwiz.com,torrentwiz1.com,torrentwiz2.com,torrentwiz3.com##div.idx-sidebox>div.clearfix.hiddenpage
-torrentwiz.com,torrentwiz1.com,torrentwiz2.com,torrentwiz3.com##div.pr_left_banner
-torrentwiz.com,torrentwiz1.com,torrentwiz2.com,torrentwiz3.com##div.pr_main_right_1
-torrentwiz.com,torrentwiz1.com,torrentwiz2.com,torrentwiz3.com##div.pr_main_right_2
-torrentwiz.com,torrentwiz1.com,torrentwiz2.com,torrentwiz3.com##div.pr_main_right_4
-torrentwiz.com,torrentwiz1.com,torrentwiz2.com,torrentwiz3.com##div.pr_view
-torrentwiz.com,torrentwiz1.com,torrentwiz2.com,torrentwiz3.com##div.top_banner
-torrentwiz.com,torrentwiz1.com,torrentwiz2.com,torrentwiz3.com##div.view-wrap.view-wrap-pad>div.clearfix.hiddenpage
 touch.pixiv.net##body>div>div[style="height: 80px; position: fixed; z-index: 998; bottom: 0; width: 100%; display: block; text-align: center; background-color: rgba(0,0,0,1);"]
 touch.pixiv.net##body>div>div[style="height: 80px; position: fixed; z-index: 998; bottom: 0px; width: 100%; text-align: center; background-color: rgb(0, 0, 0);"]
 touch.pixiv.net##div.ad-container
