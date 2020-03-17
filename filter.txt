@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20200314
+! Version: 20200317
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -3324,7 +3324,6 @@ instiz.net##div#footad2
 instiz.net##div#naverbox
 instiz.net##div#sidead
 instiz.net##div#sidead2
-instiz.net##div.board_img_foot
 instiz.net##div.board_top
 instiz.net##div.board_topad
 instiz.net##div.hot_ad
