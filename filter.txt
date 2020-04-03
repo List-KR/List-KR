@@ -4858,8 +4858,7 @@ news.mt.co.kr##div.rightbn_wrap
 news.mt.co.kr##div.view_text>div[style="margin-top:40px; width:640px; height:155px; "]
 news.mt.co.kr##div.view_text>div[style="margin-top:5px; width:640px; height:156px; "]
 news.mt.co.kr##div[id^="viewBtmThumbAds"]
-news.mtn.co.kr##div#newsContent>div[style="width:320px; height:50px; margin:0 auto;"]
-news.mtn.co.kr##ul.adline
+news.mtn.co.kr##div.adListArea
 news.mtn.co.kr##div#newsContent>div[style="width:320px; height:50px; margin:0 auto;"]
 news.mtn.co.kr##ul.adline
 news.nate.com##div#ad_sponsorBar
