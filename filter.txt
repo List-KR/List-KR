@@ -4457,6 +4457,7 @@ manamoa*.net##div.ad-banner-widget
 manamoa*.net##div.fit-banner
 manamoa*.net##div.main-banner
 manamoa23.net##div.main-banner
+makeuseof.com##div#axdsense1
 mangafox.me##div.ad
 mangarock.com##div.dG1Ln-2i-1-
 marumaru.city##div.w_banner
