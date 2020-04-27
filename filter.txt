@@ -2129,6 +2129,8 @@
 47news.jp##div#gAds_detailPage
 4players.de##aside#werbung-advertorial
 4players.de##aside#werbung-banner
+4th.kr##div#divBanner
+4th.kr##div.banner-ad-area
 67k8k.com##aside.advert
 67k8k.com##div.ad-pc
 67k8k.com##div.ad-site
