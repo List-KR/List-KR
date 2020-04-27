@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20200420
+! Version: 20200427
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -1657,6 +1657,7 @@
 ||nicovideo.cdn.nimg.jp/web/js/ads.js^$domain=nicovideo.jp
 ||nightkor.com/img/banner/$domain=nightkor.com
 ||nocutnews.co.kr/banner/2012/ad_right_*.asp^
+||nodecraft.com/assets/images/sales/
 ||npian.com/nbox/ad*.swf^
 ||npttech.com/advertising.js^
 ||nscreen.neoebiz.co.kr/screenView.js^
