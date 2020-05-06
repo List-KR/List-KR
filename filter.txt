@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20200427
+! Version: 20200506
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -3564,6 +3564,8 @@ koreaherald.com##section.gallrym
 koreaherald.com##section.nview>div[style="margin-bottom: 20px;"]
 koreaminecraft.net##div.fancybox-wrap
 koreaminecraft.net##div.ui-front
+koreaminecraft.net##div.wst_ad_badge
+koreaminecraft.net##div.wst_random_banner
 koreanz.com.au##div#divScroll
 koreanz.com.au##div.ad-right
 koreanz.com.au##div.content-view a[href^="http://albarich.com/pt/Gw1fDhkOEg"]
