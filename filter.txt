@@ -2808,9 +2808,11 @@ dyno.gg##div#carbon
 ecomedia.co.kr###articleBody1
 ecomedia.co.kr###dablewidget_6oMvKL7b
 ecomedia.co.kr###dablewidget_6XgYZJ7N
-economist.com##div.classified-ads
-economist.com##div.fe-blogs__sidebar-ad-wrapper
-economist.com##div.fe-blogs__top-ad-wrapper
+economist.com##div#AdLeaderboard
+economist.com##div#gpt-ad-slot-regwall
+economist.com##div#gpt-ad-slot-right-rail
+economist.com##div.adunitContainer
+economist.com##div.advert
 economy.chosun.com##div.right_warp>div[style="border:1px solid #ddd; text-align:center; padding:10px 10px 10px 38px; margin-bottom:30px;"]
 economy.chosun.com##div.right_warp>div[style="border:1px solid #ddd;text-align:center; padding:10px 10px 10px 38px; margin-top:20px;"]
 economy.hankooki.com##div#ad2uShop
