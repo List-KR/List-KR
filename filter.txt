@@ -5213,6 +5213,9 @@ pinaya.center##div.custom_html_wrap
 pinaya.center##div.rd_body>a[href^="http://filecast.co.kr/"]
 pinaya.center##div.slider_wrap
 pinaya.center##div.ss_ad_center
+pitchfork.com##div.ad
+pitchfork.com##div.ad-stickyhero
+pitchfork.com##div.full-bleed-ad
 pixiv.net##div#header-banner
 pixiv.net##div#header>div>div[style="height: 58px;"]
 pixiv.net##div#spa-contents>div>span>div>div.overlay[style="height: 58px;"]
