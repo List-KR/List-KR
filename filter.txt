@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20200506
+! Version: 20200514
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -4461,6 +4461,7 @@ macrumors.com##div#adUnder_mobile
 macrumors.com##div#contentAd
 macrumors.com##div#sideAd
 macrumors.com##div.ad
+macrumors.com##div.tertiary
 macstories.net##div.ad-container
 macworld.com##div#amazon-bottom-widget
 macworld.com##div#articleLeaderboardWrapper
