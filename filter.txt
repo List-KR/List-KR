@@ -5667,6 +5667,8 @@ techinsider.io##div.right-ad
 techland.time.com##div#sidebar-ad
 techradar.com##div.sponsored-post
 techradar.com##div[style^="position: relative; box-sizing: border-box; height: auto; margin: "][style*=" text-align: center; display: block; pointer-events: none; transform: none; "]
+tecmint.com##div.entry-inner>center[style="padding-bottom: 35px;padding-top: 20px;"]
+tecmint.com##section#footer-ads
 tekrevue.com##div.header-ad
 telegraph.co.uk##div#configurableTabs
 telegraph.co.uk##div#yell
