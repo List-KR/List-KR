@@ -2670,6 +2670,8 @@ databucket.duckdns.org##div#ads-img1-center
 databucket.duckdns.org##div#article-center>a>div[style="text-align: center;width: 100%; background-color: #000312; margin-top:13px;"]
 daum.net##div#adBrandingStation
 daum.net##div#daumAd
+daum.net##div.advert_bnr
+daum.net##div.advert_shoppingbox
 daum.net##div.ad_rightbtm
 dcinside.com##div#dgn_content_de>div[style="padding-top: 16px;padding-bottom:30px;text-align: center"]
 dcinside.com##div.ad_top
