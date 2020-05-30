@@ -5768,6 +5768,8 @@ therightscoop.com##section.ai_widget
 theverge.com##div.ad__athena_internal
 theverge.com##div.m-ad
 theverge.com##div.m-feature__intro>aside
+this.kiji.is##div#js-ur
+this.kiji.is##div.main__subModule--videoAd
 thisisgame.com##div#ad-ti
 thisisgame.com##div#ad_new_bottom
 thisisgame.com##div#divMsnAD
