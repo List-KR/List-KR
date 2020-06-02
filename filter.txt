@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20200530
+! Version: 20200602
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -5459,6 +5459,7 @@ serverfault.com,stackoverflow.com,superuser.com##div#dfp-mlb
 serverfault.com,stackoverflow.com,superuser.com##div#dfp-tlb
 share.notizie.it##div#infsCrit468
 share.notizie.it##div.widget_n1ad
+sir.kr###dl_adss
 sir.kr##div#adsense_view
 sir.kr##div#side-adsense
 sisain.co.kr##div#sliding_adop
