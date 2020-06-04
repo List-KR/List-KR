@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20200602
+! Version: 20200604
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -1315,6 +1315,10 @@
 ||images.christiantoday.co.kr/views/js/mezzo_outstream.min.js^$domain=christiantoday.co.kr
 ||images.dable.io/ad/
 ||imagesrv.adition.com/js/srp.js^
+||img*.quasarzone.co.kr/banner/
+||img*.quasarzone.co.kr/img/qsz_banner/
+||img*.quasarzone.com/banner/
+||img*.quasarzone.com/img/qsz_banner/
 ||img.1rx.io/banners/ajtg.js^
 ||img.ak.impact-ad.jp/ic/pone/commonjs/yone_viewable_iframe_min.js^
 ||img.ak.impact-ad.jp/ic/pone/tags/*/*.js^
@@ -1330,7 +1334,6 @@
 ||img.mrep.kr/slot/*.html^
 ||img.nabang.tv/partner/banner/
 ||img.newspim.com/banner/$domain=newspim.com
-||img.quasarzone.co.kr/img/qsz_banner/$domain=quasarzone.co.kr
 ||img.sbs.co.kr/news/ad/delay_redirect.html^$domain=news.sbs.co.kr
 ||img.sbs.co.kr/news/ad/delay_redirect_mobile.html^
 ||img.scupio.com/html/ad.html^
@@ -1762,7 +1765,7 @@
 ||pv.ntomap.com/bin/imp^
 ||pv.tag.ntomap.com/bin/query^
 ||qcma.qrobo.com/QCMA/common/
-||quasarzone.co.kr/data/file/qsz_banner/$domain=quasarzone.co.kr
+||quasarzone.com/data/file/qsz_banner/$domain=quasarzone.com
 ||quick.1rtl.info/init.js^
 ||r1.res.office365.com/adbar/*/adbar.js^$domain=outlook.live.com
 ||ra.ntwoad.co.kr^
@@ -5368,13 +5371,16 @@ qq.com##div.adLeft700
 qq.com##div.adRight
 qq.com##div.adRight280
 qq.com##div.l_qq_com
-quasarzone.co.kr##div#floatdiv
-quasarzone.co.kr##div.banner-box
-quasarzone.co.kr##div.banner-box2
-quasarzone.co.kr##div.banner-box3
-quasarzone.co.kr##div.header-banner
-quasarzone.co.kr##iframe[src^="https://quasarzone.co.kr/bbs/banner.php"]
-quasarzone.co.kr##img.partner_banner
+quasarzone.com,quasarzone.co.kr##aside.logo-area
+quasarzone.com,quasarzone.co.kr##div.flexsliderwrapper
+quasarzone.com,quasarzone.co.kr##div.banner-area
+quasarzone.com,quasarzone.co.kr##div#floatdiv
+quasarzone.com,quasarzone.co.kr##div.banner-box
+quasarzone.com,quasarzone.co.kr##div.banner-box2
+quasarzone.com,quasarzone.co.kr##div.banner-box3
+quasarzone.com,quasarzone.co.kr##div.header-banner
+quasarzone.com,quasarzone.co.kr##iframe[src^="https://quasarzone.com/bbs/banner.php"]
+quasarzone.com,quasarzone.co.kr##img.partner_banner
 qz.com##div.inline-ad
 r25.jp##div.Article__articleListWrapper__featureBannerWrapper
 readmanga.today##div.ezo_ad
