@@ -2560,6 +2560,7 @@ class.orbi.kr##div.oxad:not(.global_top)
 class.orbi.kr##li.listAd
 clien.net##div#hongboInfoList
 clien.net##div#naverAd
+clien.net##div.ad_fix
 clien.net##div.footer_ad
 clien.net##div.list_bottom_ad
 clien.net##div.list_center_ad
@@ -2570,6 +2571,7 @@ clien.net##div.naver_ad
 clien.net##div.side_ad
 clien.net##div.view_bottom_ad
 clien.net##div.view_center_ad
+clien.net##div.view_top_ad
 cm.asiae.co.kr##div.adsv_banner
 cm.asiae.co.kr##div.con_ad_module
 cm.asiae.co.kr##div.floating_ban3
@@ -6148,9 +6150,11 @@ wordpress.com##p.inline-ad-slot
 wowhead.com##div.banner-ad
 wowtv.co.kr##div#divTopBanner
 wowtv.co.kr##div.adv-area
+www-clien-net.cdn.ampproject.org##div.ad_fix
 www-clien-net.cdn.ampproject.org##div.list_bottom_ad
 www-clien-net.cdn.ampproject.org##div.list_center_ad
 www-clien-net.cdn.ampproject.org##div.list_top_ad
+www-clien-net.cdn.ampproject.org##div.view_top_ad
 www-hankyung-com.cdn.ampproject.org##amp-embed[data-widget-id="QXeK4Z7e"]
 www-hankyung-com.cdn.ampproject.org##aside.ad
 www-hankyung-com.cdn.ampproject.org##aside.amp-bottom-ad
