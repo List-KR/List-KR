@@ -2197,6 +2197,7 @@ animefreak.tv##body>div>div[style="width:100%;height:768px;position:fixed;left:0
 animoe.me##div#hd_pop
 answers.com##div.ad_unit
 answers.com##div.adhesion_dom
+api.dable.io##div.item-promotion
 api.dable.io##div.item-sp
 api.dable.io##td.item-sp
 appleblog.co.kr##ins.adsbygoogle
@@ -4507,6 +4508,9 @@ m.ytn.co.kr##div.banner_ad
 m.ytn.co.kr##div.newsview_ad
 m.ytn.co.kr##div.newsview_ad_bnr
 m.ytn.co.kr##div.photo_bottom_ad
+m.ytn.co.kr##div.text_ad_type_1
+m.ytn.co.kr##div.text_ad_type_2
+m.ytn.co.kr##li.ad_area
 m.zbn.donga.com##iframe[src^="/banner/ad_cauly_hotnews.asp"]
 m.zdnet.co.kr##body>div[style="padding:50px 0px 0px 0px;"]
 m.zdnet.co.kr##div#lumi_ad
