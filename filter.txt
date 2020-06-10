@@ -5527,6 +5527,7 @@ snopes.com##div.snopes-partner-unit
 snulife.com##.wm
 socialcompare.com##div#scAComBox
 socialcompare.com##div#scAComT
+soranews24.com##div.ad
 sodatorrent.com##a[href*="//sodaskinnygirl.com"]
 sonbeetorrent.com##a[href*="//click.chebana.com"]
 sourceforge.net##div.sterling
