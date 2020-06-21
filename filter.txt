@@ -5833,6 +5833,10 @@ tistory.com##div.ad250
 tistory.com##div.ad250_outter
 tmz.com##div.main-leaderboard-ad
 tmz.com##div.sidebar-ad
+tnnews.co.kr##div.td-a-rec-id-content_bottom
+tnnews.co.kr##div.td-a-rec-id-header
+tnnews.co.kr##div.td-a-rec-id-sidebar
+tnnews.co.kr##div.td-all-devices
 todayan.com##iframe[src^="/banner/roll_"][src*=".html"]
 todayan.com##iframe[src^="/banner/rollbanner_"][src*=".html"]
 todayan.com##ins[data-ad-slot="3177279828"]
