@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20200610
+! Version: 20200621
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -4203,9 +4203,10 @@ m.mt.co.kr##div#cont>div[style="margin-left:-20px;margin-right:-20px;text-align:
 m.mt.co.kr##div.ad
 m.mt.co.kr##div[data-widget_id="WXprrv7Y"]
 m.mt.co.kr##ul.ad_list_t1
-m.munhwa.com##div#news_content>div[style="border: 0px dashed #BDBDBD; width: 205px; height: 200px; float:right;padding-left:5px;"]
+m.munhwa.com##div#news_content div[style="border: 0px dashed #BDBDBD; width: 205px; height: 200px; float:right;padding-left:5px;"]
 m.munhwa.com##div.article_ad1
 m.munhwa.com##div.centerBanner_google
+m.munhwa.com##ul.List_link_ad_txt_2
 m.mydaily.co.kr##body>div>div[style="background:#fff; padding-top:10px; border-bottom:1px solid #dddddd; border-top:1px solid #dddddd; margin:10px 0"]
 m.mydaily.co.kr##body>div>div[style="border-bottom:1px dashed #ccc; padding:10px;"]
 m.mydaily.co.kr##body>div[align="center"][style="background:#fff; padding-top:10px; border-bottom:1px solid #dddddd; border-top:1px solid #dddddd; margin:10px 0;"]
