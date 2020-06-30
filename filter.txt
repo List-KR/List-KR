@@ -5710,6 +5710,7 @@ suyongso.com##div.rd_ft>div[class^="bd_"][class*="_m"]
 suyongso.com##div.side_b1
 suyongso.com##div[class^="bd_"][class*="_m"][class$="_1"][style="position:relative;text-align:center;margin:-30px 0 10px;"]
 suyongso.com##div[class^="bd_"][class*="_m"][class$="_2"][style="position:relative;text-align:center;margin:-10px 0 5px;"]
+sweetalert2.github.io##div.banners
 tailstar.net##div#right
 tailstar.net##div#s_ts_adsense
 targetveb.com##aside.widget_text
