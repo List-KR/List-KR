@@ -1180,6 +1180,7 @@
 ||etorrent.kr/img/net/banner/$domain=etorrent.kr
 ||event.liveg.co.kr/banner/*.gif^
 ||event.mtoon.com/banner/*.gif^
+||everytime.kr/page/adredirect^
 ||ex.mdtoday.co.kr^
 ||ext.apbox.nbp-corp.com/*/adunit^
 ||external.impression-neo.naver.com^
