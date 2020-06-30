@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20200621
+! Version: 20200630
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -6289,7 +6289,8 @@ youtube.com##div#masthead-ad
 youtube.com##div#player-ads
 youtube.com##div#video-masthead
 youtube.com##div.ad-div
-youtube.com##div.video-ads
+youtube.com##div.ytp-ad-action-interstitial-background-container
+youtube.com##div.ytp-ad-action-interstitial-slot
 youtube.com##ytd-compact-promoted-video-renderer
 youtube.com##ytd-companion-slot-renderer.ytd-player-legacy-desktop-watch-ads-renderer
 youtube.com##ytd-engagement-panel-section-list-renderer
