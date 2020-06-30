@@ -595,6 +595,7 @@
 ||ad999.biz/code/inline.js^
 ||adapi.inlcorp.com/dfp/
 ||adapi.inlcorp.com/kao/
+||adballoon.afreecatv.com/api*^
 ||adbiz.co.kr^
 ||adbiz2.co.kr^
 ||adbiz3.co.kr^
