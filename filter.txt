@@ -2742,6 +2742,9 @@ dictionary.com##div.ad
 dictionary.com##li.widget_ad
 digitalchosun-dizzo-com.cdn.ampproject.org##div.wrap_ad_inner
 digitalchosun-dizzo-com.cdn.ampproject.org##div.wrap_ad_inner1
+digitalchosun.dizzo.com##div.banner
+digitalchosun.dizzo.com##div.centerbanner
+digitalchosun.dizzo.com##li.textad_article
 digitalspy.com##div.ad-gpt-breaker
 digitalspy.com##div.ad-gpt-breaker-container
 digitalspy.com##div.ad-gpt-main
@@ -3230,6 +3233,7 @@ hankookilbo.com##div.ad-banner
 hankookilbo.com##div.ad-container
 hankookilbo.com##div.ad-container-180
 hankookilbo.com##div.article-header-banner
+hankookilbo.com##div.banner-right
 hankookilbo.com##div.story-ad-half
 hankyung.com##div#admaru_mobile
 hankyung.com##div#teads_slot
