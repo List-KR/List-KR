@@ -3455,8 +3455,10 @@ inven.co.kr##a[href*="//www.marketinven.com"]
 inven.co.kr##body>div[style="text-align:center;margin-top:8px;"]
 inven.co.kr##div#adHomeTop
 inven.co.kr##div#articleView>div[style="height:41px;"]
+inven.co.kr##div#comItBanner
 inven.co.kr##div#commonpart_brand
 inven.co.kr##div#commonpart_market
+inven.co.kr##div#inven_reservation_box
 inven.co.kr##div#mobileTailAd_Layer
 inven.co.kr##div#mobileTailAd_LayerDummy
 inven.co.kr##div#page>div[style="text-align:center;height:50px;"]
@@ -3469,6 +3471,7 @@ inven.co.kr##div.topskyad
 inven.co.kr##div.videoAdPopup
 inven.co.kr##div[class*="rightMarket"]
 inven.co.kr##div[id$="AdTop"]
+inven.co.kr##ul.banner
 iphone-apps-ipa.com##div[id^="default_adp"]
 iphone-apps-ipa.com##div[id^="meerkat-wrap"]
 isplus.joins.com,isplus.live.joins.com##div#promotion_bnr120
