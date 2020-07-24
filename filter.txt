@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20200723
+! Version: 20200724
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -6426,6 +6426,7 @@ mtoo.kr#%#Object.defineProperty(window, 'banners', { get: function() { return []
 sshdd.co.kr#%#Object.defineProperties(window, { _wm: { get: function(){ return null; } }, _wm_settings: { get: function(){return{};} } });
 
 ! HTML Filtration rules
+802.11ac.net$$script[tag-content="window.addEventListener"]
 c11.kr$$script[tag-content="adblock"]
 dcinside.com$$script[tag-content="function adBlockDetected()"]
 gall.dcinside.com$$tr[class="ub"][tag-content="<a href='http://addc.dcinside.com"]
