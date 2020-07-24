@@ -1017,6 +1017,7 @@
 ||compass.adop.cc/assets/js/adop/adop.js^
 ||compass.adop.cc/assets/js/adop/adopHB.js^
 ||compass.adop.cc/assets/js/adop/adopJ.js^
+||compasscdn.adop.cc/js/adop_collapse_*.min.js^
 ||compass.adop.cc/RD/
 ||config.ad-brix.com/*/init.json^
 ||connect.facebook.net/en_US/fbadnw*-tag.js^
