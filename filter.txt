@@ -5417,12 +5417,13 @@ qq.com##div.adRight
 qq.com##div.adRight280
 qq.com##div.l_qq_com
 quasarzone.com,quasarzone.co.kr##aside.logo-area
-quasarzone.com,quasarzone.co.kr##div.flexsliderwrapper
-quasarzone.com,quasarzone.co.kr##div.banner-area
+quasarzone.com,quasarzone.co.kr##div#biqogutlchanmefdrpvskjwx
 quasarzone.com,quasarzone.co.kr##div#floatdiv
+quasarzone.com,quasarzone.co.kr##div.banner-area
 quasarzone.com,quasarzone.co.kr##div.banner-box
 quasarzone.com,quasarzone.co.kr##div.banner-box2
 quasarzone.com,quasarzone.co.kr##div.banner-box3
+quasarzone.com,quasarzone.co.kr##div.flexsliderwrapper
 quasarzone.com,quasarzone.co.kr##div.header-banner
 quasarzone.com,quasarzone.co.kr##iframe[src^="https://quasarzone.com/bbs/banner.php"]
 quasarzone.com,quasarzone.co.kr##img.partner_banner
