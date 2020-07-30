@@ -795,6 +795,7 @@
 ||api.content.ad/Scripts/widget2.aspx^
 ||api.ficm.contentlink.co.kr/api/ficm_result.php^
 ||api.ficm.contentlink.co.kr/api/ficm_result_view.php^
+||api.hiyobi.me/dist/tjqjql/
 ||api.megamouth.kr/pu_con.php^
 ||api.megamouth.kr/pu_li.php^
 ||api.megamouth.kr/pu_script.php^
