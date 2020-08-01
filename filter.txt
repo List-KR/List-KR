@@ -809,6 +809,8 @@
 ||apis.piclick.me/v2/publish/banner/iframe^
 ||apis.pooq.co.kr/adproxy^$domain=pooq.co.kr
 ||aproxy-next.tving.com/v1/v/Ad3VnDPG4kEGE*/req/list^$domain=tving.com
+||arca.live/api/ads^
+||arca.live/static/ad/$domain=namu.wiki
 ||art.chosun.com/common/r_banner/index.html^$domain=art.chosun.com
 ||artinsight.co.kr/include/adsense.php^$domain=artinsight.co.kr
 ||artsnews.mk.co.kr/mk_ad.js^$domain=sports.mk.co.kr
@@ -1633,8 +1635,6 @@
 ||na.mmnneo.com/banner.widget.asp^
 ||nad1.mklaud.com/ad^
 ||nads.lumieyes.com/show/media/
-||arca.live/api/ads^
-||arca.live/static/ad/$domain=namu.wiki
 ||namu.news/api/articles/cached^
 ||nanumnews.com/data/nanumnews_com/banner/201111264931247.jpg^
 ||nanumnews.com/data/nanumnews_com/banner/2011121335056118.gif^
@@ -2231,6 +2231,7 @@ appletoolbox.com##section#custom_html-7
 appletoolbox.com##section#custom_html-9
 appletoolbox.com##span.ezoic-adpicker-ad
 appletoolbox.com##span[id^="ezoic-pub-ad-placeholder-"]
+arca.live##div.ad
 arstechnica.com##aside#ad-top
 arstechnica.com##aside.ad
 arstechnica.com##aside.ad_native
@@ -4843,7 +4844,6 @@ mywatchseries.to##div.header-ad
 mywatchseries.to##div.sp-leader
 naitimp3.ru##div#M306352Composite624079
 nalab.kr##div.gpe_pm_topban_num1
-arca.live##div.ad
 namu.wiki##div.ad
 namu.wiki##div.news-list-card
 namu.wiki##div.test-ad-card
