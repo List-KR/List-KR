@@ -19,7 +19,7 @@
 ! Exceptions for broken services
 @@||ad.smartmediarep.com/NetInsight/$domain=allclip.sbs.co.kr|allvod.sbs.co.kr|news.sbs.co.kr|programs.sbs.co.kr
 @@||adsmrapi.imbc.com
-​@@||cmt.dcnewsj.joins.com/web/comment.php$domain=dcnewsj.joins.com
+@@||cmt.dcnewsj.joins.com/web/comment.php$domain=dcnewsj.joins.com
 @@||cmt.dcnewsj.joins.com/web/reply.css$domain=dcnewsj.joins.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js
 @@||image*.dcinside.com
