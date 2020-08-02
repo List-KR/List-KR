@@ -1900,6 +1900,7 @@
 ||smartitphone.co.kr/bn/bn1.php^
 ||smartitphone.co.kr/bn/bn2.php^
 ||smartposting.net/keyword/api/
+||smpeople.net/mappy/ad/
 ||smr.tvpot.daum.net^
 ||smrmembers-smr.smartmediarep.com/smc/smrmembers/$domain=~allvod.sbs.co.kr|~news.sbs.co.kr|~news.tvchosun.com|~play-tv.kakao.com|~programs.sbs.co.kr
 ||sndkorea.nowcdn.co.kr/emart/
@@ -5581,7 +5582,9 @@ smallbusiness.chron.com##div#radlinks
 smallbusiness.chron.com##div#s-300
 smallbusiness.chron.com##div#top-300
 smallbusiness.chron.com##div.leaderboard
+smpeople.net##div#boxer
 smpeople.net##div.ada
+smpeople.net##div.fancybox-wrap
 smpeople.net##div.left_side_banner
 smpeople.net##li.ads
 smpeople.net##li.side_banner_common
