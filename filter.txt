@@ -5560,6 +5560,11 @@ slrclub.com##div#brand-mall
 slrclub.com##div#slrcf
 slrclub.com##div.ad
 slrclub.com##div.ad2
+smallbusiness.chron.com##div#bottom-300
+smallbusiness.chron.com##div#radlinks
+smallbusiness.chron.com##div#s-300
+smallbusiness.chron.com##div#top-300
+smallbusiness.chron.com##div.leaderboard
 sms-receive.net#@#ins.adsbygoogle[data-ad-client]:not([data-matched-content-ui-type])
 snopes.com##div.snopes-partner-unit
 snulife.com##.wm
