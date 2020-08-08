@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20200802
+! Version: 20200808
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -6295,6 +6295,7 @@ www-hankyung-com.cdn.ampproject.org##aside.amp-md-ad
 www-hankyung-com.cdn.ampproject.org##div.ad-wrap
 www-hankyung-com.cdn.ampproject.org##div.atc-ad200
 www-howtogeek-com.cdn.ampproject.org##div.adfullwrap
+xetown.com##tr.adsense
 xportsnews.com##div.ad_1
 xportsnews.com##div.ad_wrap
 xportsnews.com##div.ad_wrap_inline
