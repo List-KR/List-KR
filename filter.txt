@@ -2339,6 +2339,11 @@ atlasobscura.com##div.ad-background-intra-body
 atlasobscura.com##div.ad-wrapper
 attorneystorm.com##div#sidebar>div.widget_text
 auto.daum.net##div.bnr_ad
+autoevolution.com##div.ad
+autoevolution.com##div.ad160x600
+autoevolution.com##div.ad300x250
+autoevolution.com##div.ad300x600
+autoevolution.com##div.ad970x90
 autoview.co.kr##iframe#ad_top
 autoview.co.kr##iframe[src^="/auto_ad/ad_top.asp"]
 autoview.co.kr##p.banner
