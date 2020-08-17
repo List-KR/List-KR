@@ -1250,7 +1250,7 @@
 ||franecki.net/js/lib.js^
 ||fs.jtbc.co.kr/common/ui/ad/
 ||fs.jtbc.joins.com/common/ui/ad/
-||g-plug.pstatic.net^
+||g-plug.pstatic.net^$domain=m.cafe.naver.com|cafe.naver.com
 ||g.163.com/r^$domain=163.com
 ||g.163.com/ur^$domain=163.com
 ||g.ezoic.net/ezosuigeneris.js^
