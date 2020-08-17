@@ -671,6 +671,7 @@
 ||adixs.net^
 ||adm.shinobi.jp/s/
 ||adm.shinobi.jp/st/s.js^
+||admvod.afreecatv.com^
 ||adn.adneo.co.kr^
 ||adn.inven.co.kr^
 ||adn.nsmartad.com^
