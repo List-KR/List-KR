@@ -6228,6 +6228,7 @@ wb-tt.com#@#a[href*="//wb-tt.com"]
 web.humoruniv.com##div#ad_240
 web.humoruniv.com##div#ad_700
 web.humoruniv.com##div#ad_adture
+web.humoruniv.com##div.ad_div
 web.humoruniv.com##div#CmAdView2
 web.humoruniv.com##iframe[src^="http://web.humoruniv.com/banner/ddn_banner_"][src*=".html"]
 webpagetest.org##div.headerAd
