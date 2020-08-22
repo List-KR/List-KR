@@ -4911,9 +4911,11 @@ mywatchseries.to##div.sp-leader
 n.news.naver.com##div.ad_box
 naitimp3.ru##div#M306352Composite624079
 nalab.kr##div.gpe_pm_topban_num1
+namu.wiki##div#chikad1ec2acc
 namu.wiki##div.ad
 namu.wiki##div.news-list-card
 namu.wiki##div.test-ad-card
+namu.wiki##div[data-v-1d2e24de]
 namu.wiki##div[data-v-30afc088]
 namu.wiki##div[data-v-7e336e76]
 namu.wiki##iframe[src^="//arca.live/static/ad/"]
