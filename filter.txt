@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20200817
+! Version: 20200822
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -6234,8 +6234,6 @@ web.humoruniv.com##div.ad_div
 web.humoruniv.com##div#CmAdView2
 web.humoruniv.com##iframe[src^="http://web.humoruniv.com/banner/ddn_banner_"][src*=".html"]
 webpagetest.org##div.headerAd
-webtoon.bamtoki.com##div.banner_wing
-webtoon.bamtoki.com##table.banners
 webtoonguide.com##div#board_bottom
 webtoonguide.com##div#bottom_01
 webtoonguide.com##div#top_01
