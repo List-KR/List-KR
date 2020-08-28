@@ -1550,6 +1550,7 @@
 ||m.kmib.co.kr/banner/
 ||m.mediapen.com/banner.html^$domain=m.mediapen.com
 ||m.metroseoul.co.kr/common/js/custom/script_*_ad.js^$domain=m.metroseoul.co.kr
+||m.mk.co.kr/index_ad.mk^$domain=m.mk.co.kr
 ||m.news1.kr/template/ads/$domain=m.news1.kr
 ||m.nocutnews.co.kr/ad/adnca.html^$domain=m.nocutnews.co.kr
 ||m.pann.nate.com/da/AdBandBanner^$domain=m.pann.nate.com
