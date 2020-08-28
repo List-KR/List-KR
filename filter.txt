@@ -562,6 +562,8 @@
 ||ad.crwdcntrl.net^
 ||ad.daum.net^
 ||ad.doubleclick.net^$domain=~thehackernews.com,third-party
+||ad.doyouad.com/ad/script.js^
+||ad.doyouad.com/ad/script.real.js^
 ||ad.doyouad.com/html/iframe.html^
 ||ad.dt.co.kr^
 ||ad.everytime.kr^
@@ -4394,6 +4396,7 @@ m.nocutnews.co.kr##div.ct1>div.con_b>div:not([class]):not([id])
 m.nocutnews.co.kr##div.ct2>div.con_b>div[style="text-align: center; padding: 0; height:100px; overflow:hidden;"]
 m.nocutnews.co.kr##div.v_ad
 m.nocutnews.co.kr##iframe[src^="/ad/adnca.html"]
+m.ohmynews.com##article.article_body>div[style="width:100%; text-align:center; overflow:hidden; position:relative;"]
 m.ohmynews.com##div#ad_box
 m.ohmynews.com##div#adDaum
 m.ohmynews.com##div#adDaum_top
