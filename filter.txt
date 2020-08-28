@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20200822
+! Version: 20200828
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -2279,6 +2279,11 @@ apnews.com##div.bellow-article>div:not([class]):not([id])>div[class^="Component-
 apnews.com##div.bellow-article>div:not([class]):not([id])>div[class^="Component-placeholderWrapper-"]
 apnews.com##div.persistent-ad
 apnews.com##div[class^="Component-dfp-"]
+apnews.kr##div#divHeaderBannerAPNEWS
+apnews.kr##div.ap_container
+apnews.kr##div.banner-ad
+apnews.kr##div.banner-ad-area
+apnews.kr##div.cont-area>div[style="float:right; margin: 10px 0 10px 10px;"]
 appleblog.co.kr##ins.adsbygoogle
 appletoolbox.com##div.after-entry
 appletoolbox.com##div.entry-content>div[class][style="clear:both;float:left;width:100%;margin:0 0 20px 0;"]
