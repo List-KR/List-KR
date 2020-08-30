@@ -4751,6 +4751,12 @@ mangahub.io##div.ads-container
 mangahub.io##div[id^="rn_ad_native_"]
 mangahub.io##iframe[src^="https://mangahub.io/iframe/ra"]
 mangarock.com##div.dG1Ln-2i-1-
+manpeace.net##div.at-main>div[style="width: 728px; text-align: center; margin: 10px auto 0px;"]
+manpeace.net##div.at-main>div[style="width:728px; margin:0 auto 10px; text-align:center;"]
+manpeace.net##div.w_l_banner_f
+manpeace.net##ins[data-ad-slot="5984633626"]
+manpeace.net##ins[data-ad-slot="6102704658"]
+manpeace.net##ins[data-ad-slot="6698949498"]
 marumaru.city##div.w_banner
 marumaru.sale##div.banner_m
 marumaru.sale##div.w_banner
