@@ -192,6 +192,7 @@
 ##iframe[src*="//ad.adinc.kr/"]
 ##iframe[src*="//ad.adixs.co.kr/"]
 ##iframe[src*="//ad.adkova.com/media/"]
+##iframe[src*="//ad.adnmore.co.kr/cgi-bin/PelicanC.dll"]
 ##iframe[src*="//ad.atdmt.com/d/a.html"]
 ##iframe[src*="//ad.doyouad.com/html/iframe.html"]
 ##iframe[src*="//ad.idnad.co.kr/ad/iframe/ad_iframe.html"]
@@ -583,6 +584,7 @@
 ||ad.jjang0u.com:8080^
 ||ad.kmib.co.kr^
 ||ad.koreadaily.com^
+||ad.linkprice.com/cpc/cpc_wrapper2.php^
 ||ad.linkprice.com/stlink.php^
 ||ad.luxnet.ua/dfp/spot.html^
 ||ad.mediafarm.co.kr/mad/
@@ -2295,6 +2297,13 @@ appletoolbox.com##section#custom_html-7
 appletoolbox.com##section#custom_html-9
 appletoolbox.com##span.ezoic-adpicker-ad
 appletoolbox.com##span[id^="ezoic-pub-ad-placeholder-"]
+appzzang.me##div#apz_ad_1
+appzzang.me##div#apz_right_side_ad
+appzzang.me##div#real_pop_bnr_floating
+appzzang.me##div#sponerad1
+appzzang.me##div.google-auto-placed
+appzzang.me##div.pc-main-leader-board
+appzzang.me##div.view-wrap>div[style="width: 728px; height: 90px; margin: 0 auto 16px;"]
 arca.live##div.ad
 arstechnica.com##aside#ad-top
 arstechnica.com##aside.ad
@@ -3258,6 +3267,8 @@ gizmodo.com##div.ad-mobile
 gizmodo.com##div.ad-promotions-container
 gizmodo.com##div.ad-starter-pageview
 gizmodo.com##div.ad-top
+##iframe[src*="//ad.ilikesponsorad.co.kr/"]
+##iframe[src*="//ad.linkprice.com/cpc/cpc_wrapper2.php"]
 gizmodo.com##div.ad-unit
 gizmodo.com##div.ad-wide
 gizmodo.com##div.js_ad-below-comments
