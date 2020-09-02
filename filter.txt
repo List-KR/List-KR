@@ -1638,6 +1638,7 @@
 ||m.zbn.donga.com/banner/ad_cauly_hotnews.asp^$domain=m.zbn.donga.com
 ||m.zdnet.co.kr/template/ads.asp^$domain=m.zdnet.co.kr
 ||m1.daumcdn.net/adtc/js/mobilead.js^
+||manatoki73.net/data/banner/
 ||magento-analytics.com/*.js^
 ||magento-analytics.com/gate.php^
 ||mainclc.com/*/*/*/*.js^
@@ -4740,6 +4741,7 @@ mainichi.jp##aside.ad.pr
 mainichi.jp##aside.ad.yads
 mainichi.jp##div.ad.img-left
 mana08.com##div#about
+manatoki73.net###main-banner-view
 makeuseof.com##div#axdsense1
 mangafox.me##div.ad
 mangahub.io##div.ads-container
