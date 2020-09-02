@@ -2,7 +2,7 @@
 name: Ad-block
 about: 광고 제보 등에 사용되는 템플릿
 title: "[AD]"
-labels: ''
+labels: advertisement
 assignees: ''
 
 ---
