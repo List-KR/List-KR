@@ -4763,10 +4763,10 @@ manpeace.net##ins[data-ad-slot="5984633626"]
 manpeace.net##ins[data-ad-slot="6102704658"]
 manpeace.net##ins[data-ad-slot="6698949498"]
 marumaru.city##div.w_banner
-marumaru.sale##div.banner_m
-marumaru.sale##div.w_banner
 marumaru.ski##div.banner_m
 marumaru.ski,marumaru.ninja##div.w_banner
+marumaru.tel##div.banner_m
+marumaru.tel##div.w_banner
 marumaru.voto##div.w_banner
 mashable.com##div#sticky-slot
 mashable.com##div#sticky-spacer
