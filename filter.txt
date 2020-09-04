@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20200904
+! Version: 20200905
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -4767,6 +4767,7 @@ marumaru.ski##div.banner_m
 marumaru.ski,marumaru.ninja##div.w_banner
 marumaru.tel##div.banner_m
 marumaru.tel##div.w_banner
+marumaru.tel##img[src^="https://i.imgur.com"]
 marumaru.voto##div.w_banner
 mashable.com##div#sticky-slot
 mashable.com##div#sticky-spacer
@@ -6639,7 +6640,6 @@ anigod.com,anigod.org,kflix.tv,netmics.com,deepanda.com,deepanda.io,deepanda.net
 baykoreans.com,baykoreans.net$$script[tag-content="div.adsbygoogle"]
 dcinside.com#%#(function(){var a={setOption:function(){},onDetected:function(){return a},onNotDetected:function(){return a}};Object.defineProperty(window,"blockAdBlock",{get:function(){return a}})})();
 dcinside.com#%#Object.defineProperty(window,'adBlockDetected',{value:function(){}});
-linsoo.co.kr#%#Object.defineProperty( window, 'blockCode', { get: function(){ return function() { }; } });
 prettygom.com,ruinses.tistory.com,whria.net#%#Object.defineProperty(window, 'checkAds', { get: function() { return function() { }; } });
 reblogit.tistory.com#%#AG_abortInlineScript(/,displayMessage:/, 'document.addEventListener');
 singingdalong.blogspot.kr#%#AG_abortInlineScript(/google_ad_client/, 'document.addEventListener');
@@ -6677,8 +6677,7 @@ c11.kr$$script[tag-content="adblock"]
 dcinside.com$$script[tag-content="function adBlockDetected()"]
 gall.dcinside.com$$tr[class="ub"][tag-content="<a href='http://addc.dcinside.com"]
 koreapas.com$$script[tag-content="function adBlockDetected()"]
-linsoo.co.kr$$script[tag-content="eval(function(p,a,c,k,e,d)"]
-linsoo.co.kr$$script[tag-content="eval(atob("]
+linsoo.co.kr$$script[tag-content="n.innerHTML"]
 liveinincheon.tistory.com$$script[tag-content="h237.nextFunction()"]
 postshare.co.kr$$script[type="text/javascript"][tag-content="COPY PROTECTED BY"]
 tgd.kr$$div[style="padding:0em 1em;"]
