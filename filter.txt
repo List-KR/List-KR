@@ -1517,6 +1517,7 @@
 ||js.hnscom.com/etc/hns/hnsIframe_*.html^
 ||js.hnscom.com/etc/hns/hook_*.js^
 ||js.hnscom.com/etc/hns/mobitree_*.js^
+||js.iplsc.com/inpl.uanc/*/inpl.uanc.js^
 ||js.juicyads.com/jp.php^
 ||js.keywordsconnect.com^
 ||js.medi-8.net/t/*/*/a*.js
@@ -3603,6 +3604,9 @@ instiz.net##span#menufoot>div.content[style="padding:5px 0;"]
 instiz.net##span#powerlink
 instiz.net##table[itemtype="http://schema.org/Article"]>tr>td[style="border-top:1px solid #dbdbdb"]
 insurancers.xyz##div.ad_small
+interia.pl##div.ad
+interia.pl##div[id^="crt-"]
+interia.pl##section.adbox
 interpark.com##div#powerLinkBox
 interpark.com##div#searchSponsorAd
 inven.co.kr##a[href*="//www.marketinven.com"]
