@@ -5029,7 +5029,8 @@ mywatchseries.to##div.sp-leader
 n.news.naver.com##div.ad_box
 naitimp3.ru##div#M306352Composite624079
 nalab.kr##div.gpe_pm_topban_num1
-namu.wiki##aside>div:has(> a[href="https://namu.news/"])
+namu.wiki##article>h1+p:has(> time)+div
+namu.wiki##aside>div:has(> a[href="//namu.news/"])
 namu.wiki##aside>div:nth-of-type(2)
 namu.wiki##aside>div:nth-of-type(4)
 namu.wiki##div.ad
