@@ -3239,6 +3239,8 @@ fr.romwe.com##div.banner-wrapper
 france2.fr##div#eShowPubTop
 france2.fr##div.adCtnt
 ftoday.co.kr##div.banner_box
+fxfx23.com,fxfx24.com##div.top-banner
+fxfx23.com,fxfx24.com##ul.top-banner
 g-enews.com##div#sliding_adop
 g-enews.com##div#sliding_adopP
 g-enews.com##div.daisy
