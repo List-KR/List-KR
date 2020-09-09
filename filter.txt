@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20200905
+! Version: 20200909
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -5061,6 +5061,7 @@ namu.wiki##article>h1+p:has(> time)+div
 namu.wiki##aside>div:has(> a[href="//namu.news/"])
 namu.wiki##aside>div:nth-of-type(2)
 namu.wiki##aside>div:nth-of-type(4)
+namu.wiki##div#tchika7de53531
 namu.wiki##div.ad
 namu.wiki##div.news-list-card
 namu.wiki##div.test-ad-card
