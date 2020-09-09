@@ -922,6 +922,9 @@
 ||autoview.co.kr/auto_ad/ad_top.asp^$domain=autoview.co.kr
 ||ax-d.pixfuture.net/w/1.0/afr^
 ||b.a2gw.com/b/*.js^
+||b.bestcontentitem.top/loader^
+||b.bestcontentitem.top/warp/
+||b.bestcontentwork.top/loader^
 ||bayabar.com/adworking/
 ||bdv.bidvertiser.com^
 ||biz.chosun.com/ad/$domain=biz.chosun.com
@@ -1312,6 +1315,8 @@
 ||franecki.net/js/lib.js^
 ||fs.jtbc.co.kr/common/ui/ad/
 ||fs.jtbc.joins.com/common/ui/ad/
+||funbe.space/bann/$domain=funbe.space|funbe.tv
+||funbe.tv/bann/$domain=funbe.space|funbe.tv
 ||g-plug.pstatic.net^$domain=m.cafe.naver.com|cafe.naver.com
 ||g.163.com/r^$domain=163.com
 ||g.163.com/ur^$domain=163.com
