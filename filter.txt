@@ -5773,6 +5773,7 @@ sisajournal-e.com##aside.menuBanner
 sisajournal-e.com##div.banner1
 sisajournal-e.com##div.banner2
 sisajournal-e.com##div.banner3
+sitepoint.com##div.proper-ad-unit
 skidkaonline.ru##div.ads
 skidkaonline.ru##div.ads-item
 skyedaily.com##div.banner
