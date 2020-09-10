@@ -5038,7 +5038,11 @@ mydaily.co.kr##div#wrap>div[style="width:160px; height:600px; position:absolute;
 mydaily.co.kr##div.hotnews_pic
 mydaily.co.kr##div.read_right_ad
 mydaily.co.kr##div.read_view_text>div[style="float:right; width:250px; margin-left:5px;"]
-mydaily.co.kr##div[class^="banner_1024_1024_"]
+mydaily.co.kr##div[
+wowtv.co.kr##div.adv-areaclass^="banner_1024_1024_"]
+wsj.com##div#in_ad_col_a
+wsj.com##div#in_ad_col_b
+wsj.com##div[class^="WSJTheme--adWrapper--"]
 mydaily.co.kr##iframe[src^="../../ad/ad_"][src*=".php"]
 mydaily.co.kr##iframe[src^="../../ad/center_ad"][src*=".php"]
 mymodernmet.com##div.desktop-ad
