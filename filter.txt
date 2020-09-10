@@ -4003,6 +4003,7 @@ m.biz.khan.co.kr,m.khan.co.kr,m.lady.khan.co.kr,m.sports.khan.co.kr,m.weekly.kha
 m.biz.khan.co.kr,m.khan.co.kr,m.lady.khan.co.kr,m.sports.khan.co.kr,m.weekly.khan.co.kr##div.art_top_bn
 m.biz.khan.co.kr,m.khan.co.kr,m.lady.khan.co.kr,m.sports.khan.co.kr,m.weekly.khan.co.kr##div.contBn
 m.biz.khan.co.kr,m.khan.co.kr,m.lady.khan.co.kr,m.sports.khan.co.kr,m.weekly.khan.co.kr##div.contBn_foot
+m.blog.naver.com##div#ssp-adcontent
 m.blog.naver.com##div._adPost
 m.blog.naver.com##div.section_powerlink
 m.bntnews.hankyung.com##aside.ad_btm
