@@ -3669,6 +3669,7 @@ isplus.joins.com,isplus.live.joins.com##span[id^="realclick_view2"]
 isplus.joinsmsn.com##div#topTextAd
 isplus.joinsmsn.com##div[class^="biz_link_area"]
 isplus.joinsmsn.com##div[class^="sponsor_link_area"]
+it-swarm.dev##div.adn-ar
 it.chosun.com##div#POWER_LINK_NAVER
 it.chosun.com##div.ad
 it.chosun.com##div.ad2
