@@ -1482,6 +1482,7 @@
 ||img.tvchosun.com/test/ad/$domain=news.tvchosun.com
 ||img.tvchosun.com/upload_img/n2017/ad/$domain=m.tvchosun.com|news.tvchosun.com|vod.tvchosun.com
 ||img.tvchosun.com/upload_img/n2017/banner/$domain=news.tvchosun.com
+||img.wowtv.co.kr/PcStyle/images/banner/$domain=wowtv.co.kr
 ||img.yonhapnews.co.kr/basic/svc/00_ko/resources/js/main_youtube.js^$domain=yonhapnews.co.kr
 ||img2.keywordsconnect.com/iconAdImg*.gif^
 ||img2.quasarzone.co.kr/banner/$domain=quasarzone.com
@@ -6540,6 +6541,7 @@ wordpress.com##p.inline-ad-slot
 wowhead.com##div.banner-ad
 wowtv.co.kr##div#divTopBanner
 wowtv.co.kr##div.adv-area
+wowtv.co.kr##div.top-banner-area
 wtwt32.com,wtwt33.com##div.banner
 www-clien-net.cdn.ampproject.org##div.ad_fix
 www-clien-net.cdn.ampproject.org##div.list_bottom_ad
