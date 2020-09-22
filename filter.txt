@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20200918
+! Version: 20200922
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -2999,6 +2999,8 @@ dogjoa.com,dogzoa.com##div.movie-top
 dogjoa.com,dogzoa.com##div.nlin
 donga.com##amp-embed[data-widget-id="klrLx9om"]
 donga.com##div#top_ad
+donga.com##div#top_banner
+donga.com##div#top_right
 donga.com##div.ad_main03
 donga.com##div.ad_main04
 donga.com##div.amp_view_ad
