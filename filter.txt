@@ -249,6 +249,7 @@
 ##iframe[src*="//ad.adnmore.co.kr/cgi-bin/PelicanC.dll"]
 ##iframe[src*="//ad.atdmt.com/d/a.html"]
 ##iframe[src*="//ad.doyouad.com/html/iframe.html"]
+##iframe[src*="//ad.feedbag.co.kr/ads.html"]
 ##iframe[src*="//ad.idnad.co.kr/ad/iframe/ad_iframe.html"]
 ##iframe[src*="//ad.ilikesponsorad.co.kr/"]
 ##iframe[src*="//ad.luxnet.ua/dfp/spot.html"]
@@ -625,6 +626,7 @@
 ||ad.doyouad.com/ad/script.real.js^
 ||ad.doyouad.com/html/iframe.html^
 ||ad.dt.co.kr^
+||ad.feedbag.co.kr/ads.html^
 ||ad.everytime.kr^
 ||ad.gogovid.net/include/popunder/license.*.js^
 ||ad.gogovid.net/include/popunder/script.js^
