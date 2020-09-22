@@ -4048,6 +4048,7 @@ m.blog.naver.com##div._adPost
 m.blog.naver.com##div.section_powerlink
 m.bntnews.hankyung.com##aside.ad_btm
 m.boannews.com##section.banner-zone
+m.bobaedream.co.kr##section.ad-power
 m.breaknews.com##div#bottom_src
 m.breaknews.com##div#treer
 m.breaknews.com##div#treer3
