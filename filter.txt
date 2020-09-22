@@ -3954,6 +3954,8 @@ lady.khan.co.kr##div.aSide>div[style="margin-top:20px;  height:250px"]
 lady.khan.co.kr##div.aSide>div[style="margin:20px 0 40px 0;  height:250px"]
 lady.khan.co.kr##div[data-widget_id="GokE9Nlv"]
 lady.khan.co.kr##div[data-widget_id="goPmBr7Q"]
+lazyportfolioetf.com##div#custom_html-2
+lazyportfolioetf.com##div#custom_html-3
 lenta.ru##div.b-banner
 lenta.ru##section.b-banner
 lifehacker.com##div.ad-bottom
