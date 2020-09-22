@@ -4804,6 +4804,7 @@ mainia.tistory.com##div[style="float:right;margin:0 0 10px 10px;width:336px;heig
 mainichi.jp##aside.ad.pr
 mainichi.jp##aside.ad.yads
 mainichi.jp##div.ad.img-left
+maketecheasier.com##div.in-content-ad
 makeuseof.com##div.ad-even
 makeuseof.com##div.ad-odd
 makeuseof.com##div.ad-zone
