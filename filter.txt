@@ -3642,6 +3642,11 @@ instiz.net##iframe[src^="//www.instiz.net/_instiz.htm"]
 instiz.net##span#menufoot>div.content[style="padding:5px 0;"]
 instiz.net##span#powerlink
 instiz.net##table[itemtype="http://schema.org/Article"]>tr>td[style="border-top:1px solid #dbdbdb"]
+instructionaltechtalk.com##div#text-19
+instructionaltechtalk.com##div#text-20
+instructionaltechtalk.com##div#text-21
+instructionaltechtalk.com##div#text-22
+instructionaltechtalk.com##ins[data-ad-slot="2702402824"]
 insurancers.xyz##div.ad_small
 interia.pl##div.ad
 interia.pl##section.adbox
