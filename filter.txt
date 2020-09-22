@@ -4804,6 +4804,10 @@ mainia.tistory.com##div[style="float:right;margin:0 0 10px 10px;width:336px;heig
 mainichi.jp##aside.ad.pr
 mainichi.jp##aside.ad.yads
 mainichi.jp##div.ad.img-left
+makeuseof.com##div.ad-even
+makeuseof.com##div.ad-odd
+makeuseof.com##div.ad-zone
+makeuseof.com##div.ad-zone-container
 mana08.com##div#about
 manatoki73.net###main-banner-view
 makeuseof.com##div#axdsense1
@@ -6527,6 +6531,10 @@ www-hankyung-com.cdn.ampproject.org##aside.amp-md-ad
 www-hankyung-com.cdn.ampproject.org##div.ad-wrap
 www-hankyung-com.cdn.ampproject.org##div.atc-ad200
 www-howtogeek-com.cdn.ampproject.org##div.adfullwrap
+www-makeuseof-com.cdn.ampproject.org##div.ad-even
+www-makeuseof-com.cdn.ampproject.org##div.ad-odd
+www-makeuseof-com.cdn.ampproject.org##div.ad-zone
+www-makeuseof-com.cdn.ampproject.org##div.ad-zone-container
 xetown.com##.adsense
 xportsnews.com##div.ad_1
 xportsnews.com##div.ad_wrap
