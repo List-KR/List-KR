@@ -1925,6 +1925,7 @@
 ||quick.1rtl.info/init.js^
 ||r1.res.office365.com/adbar/*/adbar.js^$domain=outlook.live.com
 ||ra.ntwoad.co.kr^
+||radiokorea.com/amg/images/banner/$domain=radiokorea.com
 ||rarenok.biz/img/r/i/208/
 ||rcm-*.amazon-adsystem.com/e/cm^
 ||rcm.amazon.com/e/cm^
@@ -5730,6 +5731,7 @@ quasarzone.com##aside.logo-area
 quasarzone.com##div.banner-area
 qz.com##div.inline-ad
 r25.jp##div.Article__articleListWrapper__featureBannerWrapper
+radiokorea.com##iframe[src^="/amg/?page=NEWS&amg=R01"]
 readmanga.today##div.ezo_ad
 readthedocs.io##div.keep-us-sustainable
 readwrite.com##phx-advertisement
