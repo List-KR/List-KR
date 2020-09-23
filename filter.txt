@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20200922
+! Version: 20200923
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -969,6 +969,7 @@
 ||bullseye.backbeatmedia.com/bullseye/adserver/
 ||busan.com/nas/rssimage/adrss6.html^$domain=m.busan.com
 ||busan.com/w2010/AD/$domain=busan.com|mobile.busan.com
+||businesspost.co.kr/images/banner/$domain=businesspost.co.kr
 ||busygirlblog.com/adserver/$domain=busygirlblog.com
 ||c.adand.co.kr/adand/
 ||c.adsco.re^
@@ -2662,6 +2663,8 @@ businessinsider.com##section.dianomi-ad
 businessinsider.com,insider.com##div.ad
 businessinsider.com,insider.com##div.l-ad
 businessinsider.com,insider.com##section#right-rail-2
+businesspost.co.kr##div.bp-article-ad
+businesspost.co.kr##div[class^="article-banner"]
 businessweek.com##div#promo
 busygirlblog.com##div.ad
 busygirlblog.com##div.busyg-content
