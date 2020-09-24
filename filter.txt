@@ -2331,6 +2331,7 @@
 4players.de##aside#werbung-banner
 4th.kr##div#divBanner
 4th.kr##div.banner-ad-area
+5donews.co.kr##div.leftad2
 67k8k.com##aside.advert
 67k8k.com##div.ad-pc
 67k8k.com##div.ad-site
