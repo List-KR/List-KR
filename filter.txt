@@ -1775,6 +1775,7 @@
 ||na.mmnneo.com/banner.widget.asp^
 ||nad1.mklaud.com/ad^
 ||nads.lumieyes.com/show/media/
+||naeil.com/upload/banner/$domain=naeil.com
 ||namu.news/api/articles/cached^
 ||nanumnews.com/data/nanumnews_com/banner/201111264931247.jpg^
 ||nanumnews.com/data/nanumnews_com/banner/2011121335056118.gif^
@@ -5136,6 +5137,7 @@ mywatchseries.to##div.block-left-home-inside[style="height:252px; text-align:cen
 mywatchseries.to##div.header-ad
 mywatchseries.to##div.sp-leader
 n.news.naver.com##div.ad_box
+naeil.com##div[class^="bannerType"]
 naitimp3.ru##div#M306352Composite624079
 nalab.kr##div.gpe_pm_topban_num1
 namu.wiki##article>h1+p:has(> time)+div
