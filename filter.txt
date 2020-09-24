@@ -3845,6 +3845,7 @@ kookje.co.kr##div[style^="clear:both;position:relative;width:468px;height:60px;b
 kookje.co.kr##div#news_textArea>div[style="float:right;width:300px;height:255px;margin-left:10px;"]
 kookje.co.kr##div.leftArea>div.center[style="padding-top:10px;"]
 kookje.co.kr##div.leftArea>div[style="clear:both;margin:0 10px;"]
+kookje.co.kr##div.pdt20
 kookje.co.kr##div.right_margin_div:not([id])
 kookje.co.kr##iframe[src^="/news2011/sephtml/main_mediclub6.htm"]
 kookje.co.kr##iframe[src^="/service/banner/"]
