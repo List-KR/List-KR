@@ -1410,6 +1410,7 @@
 ||humor.hani.co.kr/common/banner.html^
 ||hungryapp.co.kr/banner/banner_*.php^$domain=hungryapp.co.kr
 ||hygall.com/box/kakao_scroll50.html^$domain=hygall.com
+||i-honam.com/banner/$domain=i-honam.com
 ||i.011st.com/ui_img/adoffice/creative/js/adcreative.min.js^
 ||i.ligatus.com/angular_front/tags/it/notizie/tags/angular-tag.js^
 ||i.mediatraffic.com.ua/js/uho/mt20_3.js^
