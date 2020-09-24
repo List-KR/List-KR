@@ -1450,6 +1450,7 @@
 ||image.lottorich.co.kr/lottorich/partnership/
 ||image.lsinfo.co.kr/lottorich/partnership/
 ||image.melon.com/svc/images/main/floatingBanner/floatingBanner_*.swf^
+||image.munhwa.com/www/banner/
 ||image.ruliweb.com/view/view.js^$domain=bbs.ruliweb.com|m.ruliweb.com
 ||image.tvdaily.co.kr/banner/$domain=tvdaily.asiae.co.kr
 ||image.wownet.co.kr/static/banner/*/flash/
@@ -5090,6 +5091,7 @@ munanhan.tistory.com##ins[data-ad-slot="9338504765"]
 munhwa.com##div#divScroll
 munhwa.com##div#left_skyWingBanner
 munhwa.com##div#right_skyWingBanner
+munhwa.com##div.box5
 munhwa.com##iframe[name="denta_adv"]
 music.daum.net##div.banner_250
 mydaily.co.kr##body>div[style="position:absolute; left:1px; top:314px;"]
@@ -5113,9 +5115,6 @@ mydaily.co.kr##div.read_view_wrap>div[style="margin-left:52px;"]
 mydaily.co.kr##div[class^="banner_1024_1024_"]
 mydaily.co.kr##iframe[src^="../../ad/ad_"][src*=".php"]
 mydaily.co.kr##iframe[src^="../../ad/center_ad"][src*=".php"]
-wsj.com##div#in_ad_col_a
-wsj.com##div#in_ad_col_b
-wsj.com##div[class^="WSJTheme--adWrapper--"]
 mydaily.co.kr##iframe[src^="../../ad/ad_"][src*=".php"]
 mydaily.co.kr##iframe[src^="../../ad/center_ad"][src*=".php"]
 mymodernmet.com##div.desktop-ad
@@ -6553,6 +6552,9 @@ wowhead.com##div.banner-ad
 wowtv.co.kr##div#divTopBanner
 wowtv.co.kr##div.adv-area
 wowtv.co.kr##div.top-banner-area
+wsj.com##div#in_ad_col_a
+wsj.com##div#in_ad_col_b
+wsj.com##div[class^="WSJTheme--adWrapper--"]
 wtwt32.com,wtwt33.com##div.banner
 www-clien-net.cdn.ampproject.org##div.ad_fix
 www-clien-net.cdn.ampproject.org##div.list_bottom_ad
