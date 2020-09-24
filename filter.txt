@@ -2265,6 +2265,7 @@
 ||web.n2s.co.kr^
 ||webstore.ansi.org/Images/banners/$domain=webstore.ansi.org
 ||wec.co.kr/banner/
+||weekly.chosun.com/images/ban2002_*.jpg$domain=weekly.chosun.com
 ||widget.barnebys.com/widget.php^
 ||wiki.dcinside.com/main_top_realclick_banner.php^$domain=wiki.dcinside.com
 ||wikileaks-kr.org/script/floating.banner.js^$domain=wikileaks-kr.org
@@ -6510,6 +6511,7 @@ webupd8.org##div.post-inner>div[style="margin: 10px 0 20px 0"]:not([class])
 webupd8.org##iframe[id^="_mN_dy_"]
 webupd8.org##iframe[id^="_mN_gpt_"]
 webupd8.org##iframe[id^="_mN_main_"]
+weekly.chosun.com##iframe[src^="/common/inc/right_banner_roll2.asp"]
 weekly.khan.co.kr##div#ad_banner
 weekly.khan.co.kr##div#ad_content_banner
 weekly.khan.co.kr##div#ad_top
