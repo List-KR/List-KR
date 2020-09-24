@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20200923
+! Version: 20200924
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -35,10 +35,10 @@
 @@||webzook.net/js/fuckadblock.js
 
 ! Blocking ip logger/tracking services
-||amishdatacenter.com^
-||amishprincess.com^
 ||02ip.ru^
 ||2no.co^
+||amishdatacenter.com^
+||amishprincess.com^
 ||bmwforum.co^
 ||canadianlumberjacks.club^
 ||canadianlumberjacks.online^
@@ -46,13 +46,19 @@
 ||catsnthings.fun^
 ||crabrave.pw^
 ||curiouscat.club^
+||datasig.io^
+||datauth.io^
+||dateing.club^
 ||discörd.com^
 ||disçordapp.com^
 ||ezstat.ru^
 ||fortnight.space^
 ||fortnitechat.site^
 ||freegiftcards.co^
+||gaming-at-my.best^
 ||grabify.link^$third-party
+||headshot.monster^
+||imageshare.best^
 ||ipgrabber.ru^
 ||ipgraber.ru^
 ||iplis.ru^
@@ -63,8 +69,10 @@
 ||iplogger.ru^
 ||joinmy.site^
 ||leancoding.co^
+||lovebird.guru^
 ||minecräft.com^
 ||mypic.icu^
+||otherhalf.life^
 ||packetlivesmatter.club^
 ||packetlivesmatter.online^
 ||poweredbydialup.club^
@@ -72,9 +80,14 @@
 ||poweredbydialup.org^
 ||poweredbysecurity.online^
 ||poweredbysecurity.org^
+||progaming.monster^
+||screenshare.host^
+||shrekis.life^
 ||spottyfly.com^
 ||stopify.co^
+||trulove.guru^
 ||yip.su^
+||yourmy.monster^
 ||yourtube.site^
 ||youtubeshort.pro^
 ||youtubeshort.watch^
