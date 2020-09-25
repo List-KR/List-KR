@@ -3903,6 +3903,7 @@ koreaminecraft.net##div.fancybox-wrap
 koreaminecraft.net##div.ui-front
 koreaminecraft.net##div.wst_ad_badge
 koreaminecraft.net##div.wst_random_banner
+koreanbots.dev##div.ui.container > div > a > div.ui.fluid.image
 koreanz.com.au##div#divScroll
 koreanz.com.au##div.ad-right
 koreanz.com.au##div.content-view a[href^="http://albarich.com/pt/Gw1fDhkOEg"]
