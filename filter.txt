@@ -1417,6 +1417,8 @@
 ||hei.hankyung.com/js/ad/inspace_hankyung_hei.js^$domain=hei.hankyung.com
 ||hentaifromhell.org/sw.js^$domain=hentaifromhell.org
 ||hentaku.net/ad/img/$domain=hentaku.net
+||heraldk.com/wp-content/uploads/banners/$domain=heraldk.com
+||heraldmart.com/wp-custom/hk_shoplist.php$domain=heraldk.com
 ||hitomi.la/hitomi.js^$domain=hitomi.la
 ||hitomi.la/hitomi/exoclickcode-*-*.js^$domain=hitomi.la
 ||hitomi.la/hitomi/vrsox-*.js^$domain=hitomi.la
@@ -3525,6 +3527,8 @@ hentaifromhell.org##div#custom_html-2
 hentaifromhell.org##div#custom_html-3
 hentaku.net##div#ad
 hentaku.net##div#leftmenu3
+heraldk.com##div.textwidget
+heraldk.com##iframe[src^="http://heraldmart.com/wp-custom/hk_shoplist.php"]
 hg-times.com##aside.user-aside>div[style="padding-bottom:1px;text-align:center;border:1px solid #dfdfdf;border-top:0;border-bottom:0;"]
 hg-times.com##aside.user-aside>div[style="padding-bottom:5px;text-align:center;border:1px solid #dfdfdf;border-top:0;"]
 hg-times.com##aside.user-aside>div[style="padding:15px 0 0;text-align:center;border:1px solid #dfdfdf;border-bottom:0;"]
