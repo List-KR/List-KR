@@ -1361,6 +1361,8 @@
 ||g.novostimira.biz/j/
 ||g4p.redtram.com^
 ||gaihn.co.kr/eventbanner/
+||garosu.com/img/*_banner^
+||garosu.com/Img/Main/*_banner^
 ||gall.dcinside.com/_js/ad.js^
 ||gall.dcinside.com/dc_ad_*_JH.php^
 ||gameabout.com/adsense/banner.php^$domain=gameabout.com
