@@ -1594,6 +1594,7 @@
 ||khan.co.kr/ad/
 ||kitweb.tadapi.info/network/adapi.php^
 ||kitweb2.tadapi.info/network/adapi.js.php^
+||kjdaily.com/banner/$domain=kjdaily.com
 ||kmib.co.kr/cp/realclick/
 ||kn.acrosspf.com/delivery.ad^
 ||kodcad.kr/ad/
@@ -3858,6 +3859,7 @@ kiplinger.com##div.kip-advertisement
 kiplinger.com##div.kip-advertisement-fixed
 kiplinger.com##div.kip-banner
 kiplinger.com##section.kip-advertisement
+kjdaily.com##div#main_66
 kkutu.co.kr###ADVERTISEMENT
 kkutu.co.kr###ADVERTISEMENT_TITLE
 kkutu.co.kr##.banner
