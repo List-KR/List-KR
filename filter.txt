@@ -1739,6 +1739,7 @@
 ||mediaus.co.kr/script/floating.banner.js^$domain=mediaus.co.kr
 ||mediaview.co.kr/ad_Viewer.js^
 ||mediaview.co.kr/ad_Viewer2.php^
+||magazine.hankyung.com/magazinedata/images/banner/
 ||menu.mt.co.kr/banner/adPlayer.swf^
 ||menu.mt.co.kr/js/AdsDispatcher.js^
 ||mg.dt00.net/gjs/*/*/*.*.js^
@@ -4992,6 +4993,10 @@ medicaltimes.com##div.newsTxt>div[style="padding-top: 15px;"]
 medicaltimes.com##div.thirdSection>div[style="background-color: #f2f2f2;border: 1px solid #cccccc;box-sizing: border-box;margin-bottom: 15px;text-align:center;padding:32px 0px"]
 medicaltimes.com##div.thirdSection>div[style="padding-bottom:10px"]
 medicaltimes.com##nav>div:not([class]):not([id])>ul[style="padding-top:10px;margin:0px auto;width:1200px;text-align:right;"]
+magazine.hankyung.com##div.ad
+magazine.hankyung.com##div.mgb_10
+magazine.hankyung.com##div.svc
+magazine.hankyung.com##div.this_time
 merriam-webster.com##div#mw-ad-slot-top
 merriam-webster.com##div.abl
 merriam-webster.com##div.central-abl-box
