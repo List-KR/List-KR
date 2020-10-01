@@ -4887,13 +4887,13 @@ mainichi.jp##aside.ad.pr
 mainichi.jp##aside.ad.yads
 mainichi.jp##div.ad.img-left
 maketecheasier.com##div.in-content-ad
+makeuseof.com##div#axdsense1
 makeuseof.com##div.ad-even
 makeuseof.com##div.ad-odd
 makeuseof.com##div.ad-zone
 makeuseof.com##div.ad-zone-container
 mana08.com##div#about
 manatoki73.net###main-banner-view
-makeuseof.com##div#axdsense1
 mangafox.me##div.ad
 mangahub.io##div.ads-container
 mangahub.io##div[id^="rn_ad_native_"]
@@ -4905,6 +4905,7 @@ manpeace.net##div.w_l_banner_f
 manpeace.net##ins[data-ad-slot="5984633626"]
 manpeace.net##ins[data-ad-slot="6102704658"]
 manpeace.net##ins[data-ad-slot="6698949498"]
+map.naver.com##div.promotion_wrap
 marumaru.city##div.w_banner
 marumaru.ski##div.banner_m
 marumaru.ski,marumaru.ninja##div.w_banner
