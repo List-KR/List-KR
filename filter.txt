@@ -1706,6 +1706,7 @@
 ||marketingking.co.kr/pr/ad.js^
 ||marketingking.co.kr/pr/s_ad.js^
 ||maxmovie.com/banner/img/lotte630x88.jpg^
+||mbcsportsplus.com/data/banner/$domain=mbcsportsplus.com
 ||mbn.mk.co.kr/pages/ad/
 ||media.adrcdn.com/scripts/w-display/screenad_core_*_scrambled.js^
 ||media.adrcdn.com/scripts/w-display/screenad_launch_*_scrambled.js^
@@ -4922,6 +4923,8 @@ maxmodels.pl##div.advert--wrapper
 maxmodels.pl##div.stickyAdWrapper
 mbcsportsplus.com##div#add_service_viewRight
 mbcsportsplus.com##div#add_service_viewRight2
+mbcsportsplus.com##div#allBg
+mbcsportsplus.com##div[class^="rnb_slider"]
 mbcsportsplus.com##div.side_banner
 mbcsportsplus.com##div.side_banner01
 mbiz.heraldcorp.com##div#articleText>p[style="margin:5px 0 ;width:100%; text-align:center; "]
