@@ -2182,6 +2182,7 @@
 ||tempest.services.disqus.com/ads-iframe/adsnative/
 ||tempest.services.disqus.com/ads-iframe/google/
 ||tf.co.kr/public/ad/^$domain=tf.co.kr
+||tfmedia.co.kr/data/banner/
 ||thealarm2018.cafe24.com/banner/*.js^
 ||theguru.co.kr/data/banner/$domain=theguru.co.kr
 ||thepiratebay.bid/static/ads/$domain=thepiratebay.bid
@@ -6215,6 +6216,8 @@ telegraph.co.uk##iframe[src^="https://secure.s.telegraph.co.uk/international/Bar
 tf.co.kr##div#midAd
 tf.co.kr##div#wrapper>div[style="margin:0 auto; width:980px; height:150px; margin-bottom:15px;"]
 tf.co.kr##iframe[src^="http://www.tf.co.kr/public/ad/"]
+tfmedia.co.kr##div.banner_wrap
+tfmedia.co.kr##div.com_ban
 tfnews.co.kr##div.banner_wrap
 tfnews.co.kr##div.com_ban
 tfnews.co.kr##div.top_banner
