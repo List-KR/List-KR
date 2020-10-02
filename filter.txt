@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20201002
+! Version: 20201003
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -1518,6 +1518,7 @@
 ||implay.busan.com/media/busan/article/img/banner_top_ad.jpg^$domain=implay.busan.com
 ||implay.busan.com/media/busan/article/img/right_ad*.jpg^$domain=implay.busan.com
 ||impression-neo.naver.com^
+||inews365.com/data/banner/
 ||insight.adsrvr.org/enduser/vast/
 ||instiz.net/_instiz.htm^$domain=instiz.net
 ||interface.interworksmedia.co.kr/js/iwmads.min.js^
@@ -3696,6 +3697,7 @@ inews24.com,v1.inews24.com##ad
 inews24.com,v1.inews24.com##container.ad-head
 inews24.com,v1.inews24.com##hr.ad
 inews24.com,v1.inews24.com##iframe[src^="http://iframe.inews24.com/ad/"]
+inews365.com##a[href*="/news/banner_click.php"]
 insider.com##div.ad
 insider.com##div.l-ad
 insider.com##section#right-rail-2
