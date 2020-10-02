@@ -1303,6 +1303,7 @@
 ||edgecastcdn.net/0004FA/tagman/WAIT/lib.js^
 ||eimg.donga.com/home2011/js/scrollBanner.js^
 ||ekn.kr/data/design/content/imgswf_*.*
+||electimes.com/banner/
 ||engine.adzerk.net/ados.js^
 ||esports.dailygame.co.kr/comment/ad_realclick.php^
 ||et-code.ru/bens/vinos.js^
@@ -3170,6 +3171,8 @@ edaily.co.kr##div[data-widget_id="xlzQ0A7Z"]
 edaily.co.kr##iframe[src^="/v2/iframe/iwAD.asp"]
 edaily.co.kr##section.boxbanner_970x90
 ekn.kr##div.right-wing-banner
+electimes.com##div#right_ad_scroll
+electimes.com##div.banner
 electrek.co##div.tha4673a86
 elsword.nexon.com##div.anis
 embed.nicovideo.jp##div#overlayBanner
