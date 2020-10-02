@@ -1124,6 +1124,7 @@
 ||cdnprisms.pandora.tv/_adv_img/prism_ad/
 ||celeb.nann.co.kr^
 ||chaturbate.com/in/?*campaign=
+||cnews.co.kr/uhtml/images/banner/
 ||images.christiantoday.co.kr/data/banner/
 ||cine21.com/misc/iframe/ad_netinsight/$domain=cine21.com
 ||ciokorea.com/_common/banner/blank_black.php^$domain=ciokorea.com
@@ -2828,6 +2829,10 @@ cm.asiae.co.kr##div[class^="floating_ban"]
 cm.asiae.co.kr##ul.ad_Area
 cnbnews.com##a[href*="/news/banner_click.php"]
 cnet.com##div[data-ad]
+cnews.co.kr##div.bannerBoxs
+cnews.co.kr##div.leftBanner
+cnews.co.kr##div.sideLeftBanner
+cnews.co.kr##div.sideRightBanner
 coinbest.tv##div#plusad_widget_wrap
 coindeskkorea.com##div.top_banner
 coinpan.com##div.gpe_side_contents_R>div>div[style="height: 200px; width: 200px; border:1px solid #dadada;"]
