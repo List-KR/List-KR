@@ -1613,6 +1613,7 @@
 ||kuruc.info/galeriaN/banner/$domain=kuruc.info
 ||kwangju.co.kr/banner/$domain=kwangju.co.kr
 ||l.qq.com/lview^$domain=qq.com
+||lawtimes.co.kr/data/ad/
 ||life.chosun.com/dhtm/rightBner.html^
 ||lightad.co.kr/Lightcoms/
 ||lightasp.dmcmedia.co.kr/adixs/
@@ -4039,6 +4040,8 @@ latimes.com##div.pb-f-ads-dfp
 latimes.com##div.pb-f-ads-yieldmo
 latimes.com##div[data-pb-name="DFP Ad"]
 latimes.com##div[data-pb-name="Yieldmo Ad"]
+lawtimes.co.kr##a[href^="/Tracks/Banner-Log/Article-Contents-AD.aspx"]
+lawtimes.co.kr##div.ad
 lazyportfolioetf.com##div#custom_html-2
 lazyportfolioetf.com##div#custom_html-3
 lenta.ru##div.b-banner
