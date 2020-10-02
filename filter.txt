@@ -984,7 +984,7 @@
 ||busan.com/w2010/AD/$domain=busan.com|mobile.busan.com
 ||businesspost.co.kr/images/banner/$domain=businesspost.co.kr
 ||busygirlblog.com/adserver/$domain=busygirlblog.com
-||byline.network/wp-content/uploads/*/*/*_banner^
+||byline.network/wp-content/uploads/*/*/*_banner.*
 ||c.adand.co.kr/adand/
 ||c.adsco.re^
 ||c.amazon-adsystem.com/aax2/amzn_ads.js^
@@ -1302,6 +1302,7 @@
 ||edaily.co.kr/v2/iframe/iwAD.asp^$domain=edaily.co.kr
 ||edgecastcdn.net/0004FA/tagman/WAIT/lib.js^
 ||eimg.donga.com/home2011/js/scrollBanner.js^
+||ekn.kr/data/design/content/imgswf_*.*
 ||engine.adzerk.net/ados.js^
 ||esports.dailygame.co.kr/comment/ad_realclick.php^
 ||et-code.ru/bens/vinos.js^
@@ -1322,7 +1323,6 @@
 ||everytime.kr/page/adredirect^
 ||ex.mdtoday.co.kr^
 ||ext.apbox.nbp-corp.com/*/adunit^
-||impression-neo.naver.com^
 ||exttag.about.co.kr/cgi-bin/PelicanC.dll^
 ||fam-ad.com/ad/js/fam-tagify.min.js^
 ||fashion.chosun.com/include/bn2016/index.html^$domain=fashion.chosun.com
@@ -1516,6 +1516,7 @@
 ||imp.valuepotion.com/mimp^
 ||implay.busan.com/media/busan/article/img/banner_top_ad.jpg^$domain=implay.busan.com
 ||implay.busan.com/media/busan/article/img/right_ad*.jpg^$domain=implay.busan.com
+||impression-neo.naver.com^
 ||insight.adsrvr.org/enduser/vast/
 ||instiz.net/_instiz.htm^$domain=instiz.net
 ||interface.interworksmedia.co.kr/js/iwmads.min.js^
@@ -3168,6 +3169,7 @@ edaily.co.kr##div[class^="boxbanner_"]
 edaily.co.kr##div[data-widget_id="xlzQ0A7Z"]
 edaily.co.kr##iframe[src^="/v2/iframe/iwAD.asp"]
 edaily.co.kr##section.boxbanner_970x90
+ekn.kr##div.right-wing-banner
 electrek.co##div.tha4673a86
 elsword.nexon.com##div.anis
 embed.nicovideo.jp##div#overlayBanner
