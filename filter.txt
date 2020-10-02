@@ -1145,6 +1145,7 @@
 ||cm2.cjmooter.com^
 ||cmbestsrv.com/vpaid/units/*/creatives/creative_js.js^
 ||cmbestsrv.com/vpaid/units/*/infra/cmTagSLIDER_INSTREAM.js^
+||cnbnews.com/data/banner/
 ||coin-hive.com/lib/coinhive.min.js^
 ||coin-hive.com/lib/cryptonight-asmjs.min.js^
 ||coinpan.com/img/banner/$domain=coinpan.com
@@ -2822,6 +2823,7 @@ cm.asiae.co.kr##div.sv_banner
 cm.asiae.co.kr##div.va_cont>div[style="padding:10px 0px;text-align: center;"]
 cm.asiae.co.kr##div[class^="floating_ban"]
 cm.asiae.co.kr##ul.ad_Area
+cnbnews.com##a[href*="/news/banner_click.php"]
 cnet.com##div[data-ad]
 coinbest.tv##div#plusad_widget_wrap
 coindeskkorea.com##div.top_banner
