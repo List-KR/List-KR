@@ -984,6 +984,7 @@
 ||busan.com/w2010/AD/$domain=busan.com|mobile.busan.com
 ||businesspost.co.kr/images/banner/$domain=businesspost.co.kr
 ||busygirlblog.com/adserver/$domain=busygirlblog.com
+||byline.network/wp-content/uploads/*/*/*_banner^
 ||c.adand.co.kr/adand/
 ||c.adsco.re^
 ||c.amazon-adsystem.com/aax2/amzn_ads.js^
@@ -2708,6 +2709,7 @@ buyhankook.com##div.quick-nav
 buzzfeed.com##div.js-ad
 buzzfeed.com##li.js-ad
 byline.network##div#widget_sp_image-26
+byline.network##div.ai-track
 c.comic-5rs.com##div.main_top_area
 cafe.daum.net##div#daum-ad-root
 cafe.naver.com##a[href^="https://ads.moot.us"]
