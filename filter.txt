@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20201005
+! Version: 20201007
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -3247,6 +3247,15 @@ deviantart.com##div.mobile_inline_ad
 deviantart.com##div.mobile_instream_ad_resizable
 deviantart.com##div.partial-ad
 deviantart.com##div.squareBrowsead
+dictionary.cambridge.org##div#ad_btmslot_a
+dictionary.cambridge.org##div#ad_houseslot_a
+dictionary.cambridge.org##div#ad_houseslot_b
+dictionary.cambridge.org##div#ad_leftslot
+dictionary.cambridge.org##div#ad_rightslot
+dictionary.cambridge.org##div#ad_rightslot2
+dictionary.cambridge.org##div#ad_topslot_a
+dictionary.cambridge.org##div#ad_topslot_b
+dictionary.cambridge.org##div.topslot-container
 dictionary.com##div.ad
 dictionary.com##li.widget_ad
 digitalchosun-dizzo-com.cdn.ampproject.org##div.wrap_ad_inner
