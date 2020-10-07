@@ -2177,6 +2177,7 @@
 ||t1.daumcdn.net/adfit/static/ad.min.js^
 ||tab.clickmon.co.kr/ad_img/
 ||tab2-cdn.rubiconproject.com/partner/scripts/rubicon/emily.html^
+||tagan.adlightning.com/leeenterprises/*.js^
 ||tags.expo9.exponential.com/tags/*/*/tags.js^
 ||tags.h12-media.com/load.js^
 ||tags.h12-media.com/v2/prebid.js^
@@ -5845,6 +5846,10 @@ quasarzone.com##aside.logo-area
 quasarzone.com##div.banner-area
 qz.com##div.inline-ad
 r25.jp##div.Article__articleListWrapper__featureBannerWrapper
+rapidcityjournal.com##div.ad-col
+rapidcityjournal.com##div.dfp-ad
+rapidcityjournal.com##div.tnt-ads-container
+rapidcityjournal.com##div.top-leader-ad-col
 radiokorea.com##iframe[src^="/amg/?page=NEWS&amg=R01"]
 readmanga.today##div.ezo_ad
 readthedocs.io##div.keep-us-sustainable
