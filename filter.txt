@@ -2340,6 +2340,34 @@
 ||zdnet.co.kr/template_ad/$domain=zdnet.co.kr
 ||zergnet.com/zerg.js^
 ||zone5.adpopcon.com/cgi-bin/PelicanC.dll^
+||nil.naver.com^
+||lcs.naver.com^
+||sp.naver.com^
+||veta.naver.com^
+||wl.yna.co.kr^
+||log.cloud.sbs.co.kr^
+||deepdive.zum.com^
+||analytics.brunch.co.kr^
+||logapi.tv.naver.com^
+||comic.naver.com/aggregate/javascript/release/lcslog*
+||apis.naver.com/videostat/videostat/qoe*
+||s1.daumcdn.net/svc/original/U03/cssjs/userAgent^
+||tv.naver.com/resources/release/js_v2/player*Logger*
+||tv.naver.com/resources/release/js_v2/clickcr*
+||ssl.pstatic.net/img.tvcast/pc/js/wcslog*
+||videostats.kakao.com/log^
+||t1.daumcdn.net/language/cssjs/*/js/lib/userAgent*
+||log.cizion.com^
+||lib.zumst.com/3rd/zum-logger^
+||ssl.pstatic.net/sstatic/sdyn*
+||news.nate.com/js/today/userAgent*
+||search1.daumcdn.net/search/statics/common/js/log*
+||map.naver.com/v5/api/searchAddressById*
+||ca-fe.pstatic.net/web-mobile/static/web-crash-logger*
+||ca-fe.pstatic.net/web-mobile/static/naverStatLogger*
+||cafe.naver.com/static/js/*/javascript/lcslog*
+||cafe.naver.com/static/js/*/common/bastat/ScriptBAStatLog*
+||scv.band.us/jackpotlog/v1/logs*
 
 ! Site element hiding rules
 101.livere.co.kr##div.contents-list-container>ul.contents-list>li.tenping-title
