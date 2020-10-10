@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20201005
+! Version: 20201010
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -2208,6 +2208,7 @@
 ||torrentmade.com/js/bpopup/scripting.min.js^
 ||torrentmap.com/banner/
 ||torrentmoa.com/addons/popup/js/popup_layer.js^
+||torrentsir18.com/data/file/to^
 ||tpc.googlesyndication.com/daca_images/simgad/$domain=googleads.g.doubleclick.net|pagead2.googlesyndication.com
 ||tpc.googlesyndication.com/pagead/js/*/activeview/osd_listener.js^
 ||tpc.googlesyndication.com/simgad/$domain=googleads.g.doubleclick.net
@@ -4594,6 +4595,7 @@ m.mydaily.co.kr##iframe[src^="../ad/ad_"][src*=".php"]
 m.mydaily.co.kr##p.mobitree
 m.nate.com##div.mainBnFull
 m.nate.com##div.new_ad
+m.naver.com##div[class="grid1 id_cui_napp_bannernew"]
 m.naver.com##div.grid_ad
 m.naver.com##div.id_uio_cd_fbanner
 m.naver.com##div[data-da]
@@ -6372,6 +6374,8 @@ torrentmoatv.com##div.contents>div.xe_content>div[style="padding:0px 0px 0px 0px
 torrentmoatv.com##div.contents>div>center
 torrentmoatv.com##div.left_widget_wrap
 torrentmoatv.com##div.rd_ft>b>b>center
+torrentsir18.com##div[id="hd_pop"]
+torrentsir18.com##div[style="margin-right: 0px;margin-left: -0px"]
 touch.pixiv.net##body>div>div[style="height: 80px; position: fixed; z-index: 998; bottom: 0; width: 100%; display: block; text-align: center; background-color: rgba(0,0,0,1);"]
 touch.pixiv.net##body>div>div[style="height: 80px; position: fixed; z-index: 998; bottom: 0px; width: 100%; text-align: center; background-color: rgb(0, 0, 0);"]
 touch.pixiv.net##div.ad-container
