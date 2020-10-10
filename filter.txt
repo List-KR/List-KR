@@ -3,7 +3,11 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
+<<<<<<< HEAD
 ! Version: 20201007
+=======
+! Version: 20201010
+>>>>>>> 1bb62ee4be5f34575b2a0e85ff828ce2be1c113b
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -1669,6 +1673,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||hygall.com/box/kakao_scroll50.html^$domain=hygall.com
 ||i-honam.com/banner/$domain=i-honam.com
 ||i.011st.com/ui_img/adoffice/creative/js/adcreative.min.js^
+||i.imgur.com^$domain=jujutorrent18.com|torrentgram3.com|torrent-rg.net
 ||i.ligatus.com/angular_front/tags/it/notizie/tags/angular-tag.js^
 ||i.mediatraffic.com.ua/js/uho/mt20_3.js^
 ||i.socdm.com/sdk/js/adg-script-loader.js^
@@ -2452,6 +2457,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||torrentmade.com/js/bpopup/scripting.min.js^
 ||torrentmap.com/banner/
 ||torrentmoa.com/addons/popup/js/popup_layer.js^
+||torrentsir18.com/data/file/to^
 ||tpc.googlesyndication.com/daca_images/simgad/$domain=googleads.g.doubleclick.net|pagead2.googlesyndication.com
 ||tpc.googlesyndication.com/pagead/js/*/activeview/osd_listener.js^
 ||tpc.googlesyndication.com/simgad/$domain=googleads.g.doubleclick.net
@@ -2582,6 +2588,34 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||zdnet.co.kr/template_ad/$domain=zdnet.co.kr
 ||zergnet.com/zerg.js^
 ||zone5.adpopcon.com/cgi-bin/PelicanC.dll^
+||nil.naver.com^
+||lcs.naver.com^
+||sp.naver.com^
+||veta.naver.com^
+||wl.yna.co.kr^
+||log.cloud.sbs.co.kr^
+||deepdive.zum.com^
+||analytics.brunch.co.kr^
+||logapi.tv.naver.com^
+||comic.naver.com/aggregate/javascript/release/lcslog*
+||apis.naver.com/videostat/videostat/qoe*
+||s1.daumcdn.net/svc/original/U03/cssjs/userAgent^
+||tv.naver.com/resources/release/js_v2/player*Logger*
+||tv.naver.com/resources/release/js_v2/clickcr*
+||ssl.pstatic.net/img.tvcast/pc/js/wcslog*
+||videostats.kakao.com/log^
+||t1.daumcdn.net/language/cssjs/*/js/lib/userAgent*
+||log.cizion.com^
+||lib.zumst.com/3rd/zum-logger^
+||ssl.pstatic.net/sstatic/sdyn*
+||news.nate.com/js/today/userAgent*
+||search1.daumcdn.net/search/statics/common/js/log*
+||map.naver.com/v5/api/searchAddressById*
+||ca-fe.pstatic.net/web-mobile/static/web-crash-logger*
+||ca-fe.pstatic.net/web-mobile/static/naverStatLogger*
+||cafe.naver.com/static/js/*/javascript/lcslog*
+||cafe.naver.com/static/js/*/common/bastat/ScriptBAStatLog*
+||scv.band.us/jackpotlog/v1/logs*
 
 ! Site element hiding rules
 101.livere.co.kr##div.contents-list-container>ul.contents-list>li.tenping-title
@@ -4857,6 +4891,7 @@ m.mydaily.co.kr##iframe[src^="../ad/ad_"][src*=".php"]
 m.mydaily.co.kr##p.mobitree
 m.nate.com##div.mainBnFull
 m.nate.com##div.new_ad
+m.naver.com##div[class="grid1 id_cui_napp_bannernew"]
 m.naver.com##div.grid_ad
 m.naver.com##div.id_uio_cd_fbanner
 m.naver.com##div[data-da]
@@ -6645,6 +6680,11 @@ torrentmoatv.com##div.contents>div.xe_content>div[style="padding:0px 0px 0px 0px
 torrentmoatv.com##div.contents>div>center
 torrentmoatv.com##div.left_widget_wrap
 torrentmoatv.com##div.rd_ft>b>b>center
+torrentsir18.com##div[id="hd_pop"]
+torrentsir18.com##div[style="margin-right: 0px;margin-left: -0px"]
+torrentsee36.com##.mmbannel
+torrentsee36.com##div[class="mmnewlist row"]
+torrentwiz10.me##div[class="npia-board-gallery"]
 touch.pixiv.net##body>div>div[style="height: 80px; position: fixed; z-index: 998; bottom: 0; width: 100%; display: block; text-align: center; background-color: rgba(0,0,0,1);"]
 touch.pixiv.net##body>div>div[style="height: 80px; position: fixed; z-index: 998; bottom: 0px; width: 100%; text-align: center; background-color: rgb(0, 0, 0);"]
 touch.pixiv.net##div.ad-container
