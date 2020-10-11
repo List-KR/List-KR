@@ -2416,7 +2416,6 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||srv.bebi.com/public/js/bebi_v1.js^
 ||ssl.pstatic.net/adimg3.search/adpost/js/adpost_show_ads_v2.min.js^
 ||ssl.pstatic.net/img.tvcast/pc/js/wcslog^
-||ssl.pstatic.net/sstatic/sdyn*
 ||ssl.pstatic.net/static/kin/09renewal/promotion/
 ||ssl.pstatic.net/t.static.blog/mylog/versioning//js/post/ssp/SspAdPostCallerForPC-*_https.js^$domain=blog.naver.com
 ||ssl.pstatic.net/tveta^$domain=m.cafe.naver.com
