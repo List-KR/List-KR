@@ -3748,6 +3748,8 @@ gamemeca.com##ins[data-ad-slot="8639418657"]
 gamesindustry.biz##div.advert
 gamesindustry.biz##div.leaderboard-container
 gametoc.hankyung.com##iframe[src^="/banner/"][src$=".html"]
+gearbest.com##a.siteBanner_link
+gearbest.com##div.siteBanner_panel
 genomeweb.com##div.block-genomeweb-ads
 genomeweb.com##div.genomeweb-ads-ad
 genomeweb.com##div.genomeweb-ads-embedded
