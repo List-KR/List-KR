@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20201011
+! Version: 20201016
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -5464,6 +5464,7 @@ mobile.newsis.com##iframe[src*="/ad_list/ad_*.html"]
 mobile.nytimes.com##div[class^="ResponsiveAd-"]
 mobile.reuters.com##div.amp-ad-container
 mobile.reuters.com##div.mpu_ad
+modoocode.com##div.adsense-container-top
 moeruasia.net##div.abox
 moeruasia.net##div.adbanner
 moeruasia.net##table.abox
