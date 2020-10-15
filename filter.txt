@@ -1747,6 +1747,10 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||image.donga.com/ad_iframe/$domain=news.donga.com
 ||image.donga.com/dac/DKBNEWS/M/*.js^$domain=dkbnews.donga.com
 ||image.donga.com/dac/DKBNEWS/PC/*.js^$domain=dkbnews.donga.com
+||image.donga.com/dac/NEWS/PC/*.js^$domain=donga.com
+||image.donga.com/dac/SPORTS/M/*.js^$domain=sports.donga.com
+||image.donga.com/dac/SPORTS/PC/*.js^$domain=sports.donga.com
+||image.donga.com/home2012/images/ad/$domain=donga.com
 ||image.lottorich.co.kr/lottorich/partnership/
 ||image.lsinfo.co.kr/lottorich/partnership/
 ||image.melon.com/svc/images/main/floatingBanner/floatingBanner_*.swf^
