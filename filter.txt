@@ -6304,7 +6304,7 @@ skyedaily.com##div.bottom_banner
 skyedaily.com##div.sidebanner
 skyedaily.com##embed[src^="/AD/"]
 skyscanner.co.kr##div.mpu-advert
-sciencetimes.co.kr##div[class="slide_banner slick-initialized slick-slider slick-dotted"]
+sciencetimes.co.kr##div[class^="slide_banner"]
 slant.co##div.Ad-InArticle
 slant.co##div.AdContainer
 slant.co##div.AdContainer-Sidebar
