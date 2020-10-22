@@ -1198,7 +1198,6 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||api.screensharp.kr/ad/get_banner/
 ||api.uad.nicovideo.jp/UadsVideoService/getSponsorsJsonp^$domain=embed.nicovideo.jp|nicovideo.jp
 ||api.wiseclick.co.kr/api/web_directad/
-||apis.naver.com/videostat/videostat/qoe^
 ||apis.piclick.me/v1/publish/banner/iframe^
 ||apis.piclick.me/v2/publish/banner/iframe.min.js^
 ||apis.piclick.me/v2/publish/banner/iframe^
@@ -1270,8 +1269,6 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||c0.pubmine.com/*/ata.js^
 ||c1.popads.net/pop.js^
 ||c6.daisy6.com/v1/adreq^
-||ca-fe.pstatic.net/web-mobile/static/naverStatLogger^
-||ca-fe.pstatic.net/web-mobile/static/web-crash-logger^
 ||cache.ssend.microad.jp/js/adfunnel-sp-load.js^
 ||cad.donga.com/DKBNEWS/dkb_view_right_adin_*.js^$domain=dkbnews.donga.com
 ||cad.donga.com/DKBNEWS/dkb_view_right_banner_*.js^$domain=dkbnews.donga.com
@@ -1319,8 +1316,6 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||cad.donga.com/sports_view_topright_reople_*.js^$domain=sports.donga.com
 ||cadvv.heraldm.com/hb/imad/
 ||cafe.naver.com/PlugFloatingAdvert.nhn^
-||cafe.naver.com/static/js/*/common/bastat/ScriptBAStatLog*
-||cafe.naver.com/static/js/*/javascript/lcslog*
 ||campaigns-assets-vp.daumcdn.net/websdk/vp-latest.min.js^$domain=~v2.myktoon.com
 ||candy.ad9.kr^
 ||car.chosun.com/common/right/banner/index.html^$domain=car.chosun.com
@@ -1431,7 +1426,6 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||coin-hive.com/lib/coinhive.min.js^
 ||coin-hive.com/lib/cryptonight-asmjs.min.js^
 ||coinpan.com/img/banner/$domain=coinpan.com
-||comic.naver.com/aggregate/javascript/release/lcslog^
 ||comm.news.nate.com/Etc/ViewADThumb^$domain=news.nate.com
 ||compass.adop.cc/assets/js/adop/adop.js^
 ||compass.adop.cc/assets/js/adop/adopHB.js^
@@ -1506,7 +1500,6 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||daumd03.net/_img/ad/partner/$domain=daumd03.net
 ||daypic.ru/banners/banners.js^
 ||dcd.adotsolution.com/dcd/creative.skp^
-||deepdive.zum.com^
 ||deepdivead.zum.com/cgi-bin/PelicanC.dll^
 ||delivery.amessagewithabottle.com/www/delivery/ajs.php^
 ||delivery.c.switchadhub.com/adserver/sat.js^
@@ -1912,8 +1905,6 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||kwangju.co.kr/banner/$domain=kwangju.co.kr
 ||l.qq.com/lview^$domain=qq.com
 ||lawtimes.co.kr/data/ad/
-||lcs.naver.com^
-||lib.zumst.com/3rd/zum-logger^
 ||life.chosun.com/dhtm/rightBner.html^
 ||lightad.co.kr/Lightcoms/
 ||lightasp.dmcmedia.co.kr/adixs/
@@ -1926,8 +1917,6 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||livecodi.com/data/file/top_01/$domain=livecodi.com
 ||loader.fmkorea.com/_loader/loader.php^$domain=fmkorea.com|m.fmkorea.com
 ||log.adtive.com/noticead/adinfo/js/notice.js^
-||log.cizion.com^
-||log.cloud.sbs.co.kr^
 ||logapi.tv.naver.com^
 ||longkeyone.co.kr^
 ||ltn.hitomi.la/7I90zwIh.js^$domain=hitomi.la
@@ -2135,7 +2124,6 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||news.nate.com/Etc/AdRectangleBanner^
 ||news.nate.com/Etc/ViewAD^
 ||news.nate.com/etc/viewTopBannerAD^$domain=news.nate.com|sports.news.nate.com
-||news.nate.com/js/today/userAgent*
 ||news.sbs.co.kr/ad/delay_redirect.jsp^
 ||news.smi2.ru/data/js/*.js^
 ||news.sportsseoul.com/ad/
@@ -2158,7 +2146,6 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||nex.163.com/q^$domain=163.com
 ||ng.namupage.com^
 ||nicovideo.cdn.nimg.jp/web/js/ads.js^$domain=nicovideo.jp
-||nil.naver.com^
 ||nocutnews.co.kr/banner/2012/ad_right_*.asp^
 ||nodecraft.com/assets/images/sales/
 ||nongmin.com/upload/kcun/banner/$domain=nongmin.com
@@ -2301,7 +2288,6 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||s0.momoafile.info/tracker^
 ||s1.adform.net/banners/scripts/adx.js^
 ||s1.daumcdn.net/svc/original/U03/commonjs/ddn/common/js/ad.min.js^
-||s1.daumcdn.net/svc/original/U03/cssjs/userAgent^
 ||s2.adform.net/banners/scripts/rmb/Adform.DHTML.js^
 ||s3.ap-northeast-2.amazonaws.com/adserver-img/img/
 ||s3.ap-northeast-2.amazonaws.com/handaad/banner/
@@ -2322,7 +2308,6 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||scripts.adrcdn.com/scripts/w-display/screenad_launch_*_scrambled.js^
 ||scripts.chitika.net^
 ||scripts.kiosked.com/loader/kiosked-loader.js^
-||scv.band.us/jackpotlog/v1/logs^
 ||sdk.streamrail.com/player/sr.ads.js^
 ||search.n2s.co.kr/_n2s_adop_adinfo.php^
 ||search.n2s.co.kr/_n2s_rainbod_adinfo_js.php^
@@ -2383,7 +2368,6 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||sosa.semanticrep.com/soea/
 ||sosa.semanticrep.com/spacead/
 ||sp.gmossp-sp.jp/ads/loader.js^
-||sp.naver.com^
 ||sp1.jssearch.net^
 ||spad.i-mobile.co.jp/script/adcomp_sp.js^
 ||spad.i-mobile.co.jp/script/adcore.js^
@@ -2420,7 +2404,6 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||sportsseoul.com/js/jquery.topline.banner.js^$domain=sportsseoul.com
 ||srv.bebi.com/public/js/bebi_v1.js^
 ||ssl.pstatic.net/adimg3.search/adpost/js/adpost_show_ads_v2.min.js^
-||ssl.pstatic.net/img.tvcast/pc/js/wcslog^
 ||ssl.pstatic.net/static/kin/09renewal/promotion/
 ||ssl.pstatic.net/t.static.blog/mylog/versioning//js/post/ssp/SspAdPostCallerForPC-*_https.js^$domain=blog.naver.com
 ||ssl.pstatic.net/tveta^$domain=m.cafe.naver.com
@@ -2477,7 +2460,6 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||t.mdn2015x1.com/build/
 ||t.tmdn2015x9.com/build/*/v1/
 ||t1.daumcdn.net/adfit/static/ad.min.js^
-||t1.daumcdn.net/language/cssjs/*/js/lib/userAgent^
 ||tab.clickmon.co.kr/ad_img/
 ||tab2-cdn.rubiconproject.com/partner/scripts/rubicon/emily.html^
 ||tagan.adlightning.com/leeenterprises/*.js^
@@ -2530,7 +2512,6 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||ts.2beon.co.kr/nad/media/
 ||tsyndicate.com/iframes2/*.html^
 ||ttocorps.com/page/board_ad.php^$domain=ttocorps.com
-||tv.naver.com/resources/release/js_v2/clickcr*
 ||tv.sbs.co.kr/common/common_ad.jsp^
 ||tvchosun.com/front/ad/$domain=news.tvchosun.com
 ||tvchosun.com/front/rnbAdplex2.html^$domain=news.tvchosun.com
@@ -2559,9 +2540,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||vads-api.daumkakao.com^
 ||vast.mathtag.com/?*&adverid=
 ||veta.naver.com/fxshow^
-||veta.naver.com^
 ||vhldwuv6om.com/*.js^
-||videostats.kakao.com/log^
 ||view.asiae.co.kr/common/ad/
 ||viewsnnews.com/image/advert/
 ||vod-naver.pstatic.net/tveta/owfs_rmc/read/$domain=~sports.news.naver.com
@@ -2606,7 +2585,6 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||wikitree.co.kr/_tpl/default/ad/
 ||wikitree.co.kr/ad/
 ||wizard2.sbs.co.kr/w3/common/common_ad.jsp^
-||wl.yna.co.kr^
 ||wowtv.co.kr/AD/
 ||wr.catad5959.com/banner/ad*.control.js^
 ||wr.catad5959.com/banner/wrcatad.t*.banner_v*.asp^
