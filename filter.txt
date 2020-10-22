@@ -3751,6 +3751,7 @@ gizmodo.com##div.ad-top
 ##iframe[src*="//ad.linkprice.com/cpc/cpc_wrapper2.php"]
 gizmodo.com##div.ad-unit
 gizmodo.com##div.ad-wide
+gizmodo.com##div.inline-ad-container
 gizmodo.com##div.js_ad-below-comments
 gizmodo.com##div.js_ad-dynamic
 gizmodo.com##div.splashy-ad-container
