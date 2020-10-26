@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20201022
+! Version: 20201026
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -457,6 +457,7 @@
 ##iframe[src*="//compass.adop.cc/RD/"]
 ##iframe[src*="//cpv.ad.naver.com/adshow"]
 ##iframe[src*="//creative.wwwpromoter.com/"]
+##iframe[src*="//cs.k77.kr/AD/chami2.php"]
 ##iframe[src*="//d.a1comm.co.kr/"]
 ##iframe[src*="//d3u5zn5k9864p0.cloudfront.net/br"]
 ##iframe[src*="//dcd.adotsolution.com/dcd/creative.skp"]
