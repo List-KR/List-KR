@@ -2649,6 +2649,10 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 67k8k.com##aside.advert
 67k8k.com##div.ad-pc
 67k8k.com##div.ad-site
+9gag.com##div.salty-bottom-ad
+9gag.com##div.topBannerAd-container
+9gag.com##div[id^="jsid-ad-container-"]
+9gag.com##section.block-ad
 9to5google.com##div.ad-container
 9to5google.com##img[data-orig-file^="https://9to5google.files.wordpress.com/"][data-orig-file*="/native_banner.jpg"]
 9to5mac.com##div.ad-container
