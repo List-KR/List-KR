@@ -4526,6 +4526,7 @@ m.comic.naver.com##li.ads_sc
 m.comic.naver.com##div[class^="ly_dim"]
 m.comic.naver.com##div[class^="ly_wrap"]
 m.comic.naver.com##img[src="https://ssl.pstatic.net/static/m/comic/im/app_banner_list.jpg"]
+m.comic.naver.com##.bg
 m.comm.news.nate.com##div.adtive
 m.comm.news.nate.com##iframe[name="adtive"]
 m.comm.news.nate.com##iframe[src^="http://networkad.nate.com/nate/mobile_news.html"]
