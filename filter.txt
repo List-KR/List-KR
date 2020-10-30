@@ -2394,7 +2394,9 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||ssl.pstatic.net/adimg3.search/adpost/js/adpost_show_ads_v2.min.js^
 ||ssl.pstatic.net/static/kin/09renewal/promotion/
 ||ssl.pstatic.net/t.static.blog/mylog/versioning//js/post/ssp/SspAdPostCallerForPC-*_https.js^$domain=blog.naver.com
-||ssl.pstatic.net/tveta^$domain=m.cafe.naver.com
+||ssl.pstatic.net/tveta^$domain=m.cafe.naver.com|m.comic.naver.com
+||ssl.pstatic.net/static/m/comic/im/txt_ads*
+||ssl.pstatic.net/static/m/comic/im/app_banner_list.jpg
 ||ssp.adpies.com/ssp/request^
 ||ssp.advg.jp/ssp/p/iframe^
 ||ssp.advg.jp/ssp/p/js1^
@@ -4521,6 +4523,9 @@ m.comic.naver.com##div.band_banner.v2
 m.comic.naver.com##div.cut_flick_wrap>div.ly_dim
 m.comic.naver.com##div.cut_flick_wrap>div.ly_wrap.viewer_da_ly
 m.comic.naver.com##li.ads_sc
+m.comic.naver.com##div[class^="ly_dim"]
+m.comic.naver.com##div[class^="ly_wrap"]
+m.comic.naver.com##img[src="https://ssl.pstatic.net/static/m/comic/im/app_banner_list.jpg"]
 m.comm.news.nate.com##div.adtive
 m.comm.news.nate.com##iframe[name="adtive"]
 m.comm.news.nate.com##iframe[src^="http://networkad.nate.com/nate/mobile_news.html"]
