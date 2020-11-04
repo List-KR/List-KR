@@ -1127,6 +1127,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||adver.clickmon.co.kr^
 ||advert.livesportmedia.eu/rotating-advert/right.php^
 ||adverweb.cjenm.com/js.mezzo/etcPOC/
+||adverweb.cjenm.com/js.mezzo/tving/$domain=tving.com
 ||advimg.ad-mapps.com/sdk/M_PLUS/JS/ad/mezzo_SignalPlay_ad.js^
 ||advintage.net/adserver/www/delivery/ajs.php^
 ||adw.heraldm.com/cgi-bin/conad.fcgi/
@@ -1188,6 +1189,8 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||apis.pooq.co.kr/adproxy^$domain=pooq.co.kr
 ||app.dcinside.com/api/_ad_search_link*.php^
 ||aproxy-next.tving.com/v1/v/Ad3VnDPG4kEGE*/req/list^$domain=tving.com
+||aproxy-next.tving.com/v1/v/WNPULive/get/$domain=tving.com
+||aproxy-next.tving.com/v1/v/WNPUTvingTV/req/list^$domain=tving.com
 ||arca.live/api/ads^
 ||arca.live/api/bywiki.json^
 ||arca.live/static/ad/$domain=namu.wiki
