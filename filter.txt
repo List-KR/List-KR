@@ -3043,6 +3043,9 @@ cdn.ampproject.org##div.advertisement
 cdn.ampproject.org##div.amp_view_ad
 cdn.ampproject.org##div.band_ad_middle
 cdn.ampproject.org##div.band_ad_top
+chefkoch.de##div.gujAd
+chefkoch.de##div.responsive-ad
+chefkoch.de##div.top-banner-container
 chaturbate.com#@#a[href*="//chaturbate.com/in/?"][href*="campaign="]
 chaturbate.com#@#iframe[src*="//chaturbate.com/in/?"][src*="campaign="]
 chicagotribune.com##div.trb_ar_rail_ad
