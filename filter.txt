@@ -2530,6 +2530,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||vads-api.ad.daum.net^
 ||vads-api.daumkakao.com^
 ||vast.mathtag.com/?*&adverid=
+||vclock.kr/img/hac^
 ||veta.naver.com/fxshow^
 ||vhldwuv6om.com/*.js^
 ||view.asiae.co.kr/common/ad/
@@ -6848,6 +6849,7 @@ vanityfair.com##div.full-bleed-ad
 vanityfair.com##div[data-widget-id="AR_14"]
 variety.com##div.admz
 vasi.net##div.test_block
+vclock.kr###pnl-neon
 vice.com##div.ad-unit__container__container
 video.animoe.us##div#fbanner
 video.animoe.us##div.ad
