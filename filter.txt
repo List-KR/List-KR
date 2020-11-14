@@ -3651,6 +3651,9 @@ fortune.com##div.mobile-ad
 forum.lowyat.net##div#ads7
 forum.lowyat.net##div#ads_bottom
 forum.lowyat.net##div#ads_center
+forum.wordreference.com##div#botSupp
+forum.wordreference.com##div#topSupp
+forum.wordreference.com##li#\37 28F_mid
 forums.digitalspy.com##div.bottom-ad
 forums.digitalspy.com##div.markering
 forums.macrumors.com##div.funbox
