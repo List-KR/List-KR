@@ -1810,6 +1810,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||j.qiqivv.com:4433/code_static_3/lele0.js^
 ||j.zucks.net.zimg.jp/j^
 ||j.zucks.net.zimg.jp/n^
+||jac.yahoosandbox.com/*/jac.js^
 ||jadserve.postrelease.com/t^
 ||jdaily.co.kr/frame/jad-bin.do^
 ||jhealthmedia.joins.com/js/ban/ban.common.top.*.js^$domain=jhealthmedia.joins.com
@@ -4140,6 +4141,11 @@ itworld.co.kr##div#youtube_div
 itworld.co.kr##div.nano_banner
 itworld.co.kr##iframe[src^="/_common/banner/blank_black.php"]
 izmtv.com##div.fed-tabr-advs
+jalopnik.com##div.ad-non-sticky
+jalopnik.com##div.contained-ad-container
+jalopnik.com##div.contained-ad-shaft
+jalopnik.com##div.contained-ad-wrapper
+jalopnik.com##section.contained-ad-container
 java-forums.org##div#ad_global_above_footer
 java-forums.org##div#ad_global_below_navbar
 java-forums.org##div#ad_thread_first_post_content
