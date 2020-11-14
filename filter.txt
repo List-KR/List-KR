@@ -4146,6 +4146,10 @@ jalopnik.com##div.contained-ad-container
 jalopnik.com##div.contained-ad-shaft
 jalopnik.com##div.contained-ad-wrapper
 jalopnik.com##section.contained-ad-container
+japanese.engadget.com##div#module-engadget-deeplink-top-ad
+japanese.engadget.com##div#module-engadget-homepage-hero>div>div[class="D(f) Ai(st) Pos(r) Z(1) Jc(c) Pt(30px) Pb(25px) Bgc(engadgetSteelGray) Bdbc(engadgetGray) Bdbs(s) Bdbw(1px) Mih(90px)"]
+japanese.engadget.com##div#post-right-col>div.sponsored-right-rail
+japanese.engadget.com##div#post-right-col>div[class="Mb(40px) Mih(250px)"]
 java-forums.org##div#ad_global_above_footer
 java-forums.org##div#ad_global_below_navbar
 java-forums.org##div#ad_thread_first_post_content
