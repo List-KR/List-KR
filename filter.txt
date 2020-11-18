@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20201114
+! Version: 20201118
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -6359,6 +6359,7 @@ sisajournal-e.com##div.banner3
 sjbnews.com##ins[data-ad-slot="I_새전북신문_신규컨텐츠하단1_300_250"]
 sjbnews.com##ins[data-ad-slot="I_새전북신문_신규컨텐츠하단2_400_250"]
 sitepoint.com##div.proper-ad-unit
+sk1er.club##section.module-headings:nth-child(3)
 skidkaonline.ru##div.ads
 skidkaonline.ru##div.ads-item
 skyedaily.com##div.banner
