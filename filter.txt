@@ -1829,6 +1829,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||jjanglive.com/flash/AdShowClient.swf^
 ||jjanglive.com/flash/webClient.swf^
 ||jnilbo.com/upload/banners/
+||jmagazine.joins.com/data/banner^
 ||joinsmsn.com/_ui/ad/
 ||joy-adstore.co.kr/ad/
 ||js-*.redtram.com/*/*/ticker_*.js^
@@ -4191,6 +4192,7 @@ jnewstimes.com##div.banner_aside01
 jnewstimes.com##div.banner_aside02
 jnewstimes.com##div.view01_banner01
 jnilbo.com##div#ad_popup4
+jmagazine.joins.com##img[src^="/data/banner"]
 joara.com##div.banner
 jobplanet.co.kr##article#viewReviewsList section>div[style="padding:0;margin:0;background-color:#ddd;text-align:center"]
 joins.com##div#divArticleAdnetworkBanner
