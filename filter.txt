@@ -3286,6 +3286,7 @@ daum.net##div#daumAd
 daum.net##div.advert_bnr
 daum.net##div.advert_shoppingbox
 daum.net##div.ad_rightbtm
+dcid.dcinside.com##div.ban_box
 dcinside.com##div#dgn_content_de>div[style="padding-top: 16px;padding-bottom:30px;text-align: center"]
 dcinside.com##div.ad_top
 dcinside.com##div.evt_content
@@ -3713,6 +3714,7 @@ gadgethacks.com##aside.top-ad-anchor
 gadgethacks.com##aside.whtaph
 gadgethacks.com##aside.whtaph-rightbox
 gadgethacks.com##div#ad-top-lock
+gall.dcinside.com##.ub-content:not([data-no])
 gall.dcinside.com##div#wif_adx_banner_wrap
 gall.dcinside.com##div#zzbang_div
 gall.dcinside.com##div.ad_bottom_list
