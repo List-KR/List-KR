@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20201118
+! Version: 20201119
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -1815,6 +1815,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||j.zucks.net.zimg.jp/n^
 ||jac.yahoosandbox.com/*/jac.js^
 ||jadserve.postrelease.com/t^
+||jetcloud-list.cc/assets/images/banner*
 ||jdaily.co.kr/frame/jad-bin.do^
 ||jhealthmedia.joins.com/js/ban/ban.common.top.*.js^$domain=jhealthmedia.joins.com
 ||jhealthmedia.joins.com/js/ban/ban.leftwing.*.js^$domain=jhealthmedia.joins.com
@@ -4174,6 +4175,7 @@ java-forums.org##div#ad_global_below_navbar
 java-forums.org##div#ad_thread_first_post_content
 java-forums.org##div#ad_thread_last_post_content
 java-forums.org##div#ads
+jetcloud-list.cc##img[src^="https://www.jetcloud-list.cc/assets/images/banner"]
 jhealthmedia.joins.com##div.ad
 jhealthmedia.joins.com##div.ad_182_182
 jhealthmedia.joins.com##div.adtext
