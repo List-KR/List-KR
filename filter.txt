@@ -1344,6 +1344,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||cdn.connatix.com/min/connatix.renderer.infeed.min.js^
 ||cdn.cpmstar.com/cached/js/*.js^
 ||cdn.cxense.com/cx.js^
+||cdn.emetro.co.kr/data1/resources/banner^
 ||cdn.engine.spotscenered.info/Scripts/MediaScripts/p.js^
 ||cdn.exoticads.com/xads.js^
 ||cdn.gmossp-sp.jp/ads/loader.js^
@@ -1963,7 +1964,6 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||m.joyninfo.com/yna/yna_w2.asp^$domain=yna.co.kr|yonhapnews.co.kr
 ||m.kmib.co.kr/banner/
 ||m.mediapen.com/banner.html^$domain=m.mediapen.com
-||m.metroseoul.co.kr/common/js/custom/script_*_ad.js^$domain=m.metroseoul.co.kr
 ||m.mk.co.kr/index_ad.mk^$domain=m.mk.co.kr
 ||m.mydaily.co.kr/ad/ad_*.php^$domain=m.mydaily.co.kr
 ||m.news.nate.com/js/today/userAgent*
@@ -4896,18 +4896,6 @@ m.mediatoday.co.kr##div.float_banner
 m.mediatoday.co.kr##div.m_banner_box
 m.mediaus.co.kr##div.advertisementItem
 m.mediaus.co.kr##section.advertisment
-m.metroseoul.co.kr##div#ad_1
-m.metroseoul.co.kr##div#ad_2
-m.metroseoul.co.kr##div#ad_3
-m.metroseoul.co.kr##div#ad_4
-m.metroseoul.co.kr##div#adopadzone
-m.metroseoul.co.kr##div#close_adopadzone
-m.metroseoul.co.kr##div.ad_box
-m.metroseoul.co.kr##div.middle_ad
-m.metroseoul.co.kr##div.right_ad
-m.metroseoul.co.kr##div.wrapperBox_full>div[style="margin: 50px 0 0 0px;"]
-m.metroseoul.co.kr##div.wrapperBox_full>div[style="padding: 0 15px 15px 15px; border: 0px solid #eee;"]
-m.metroseoul.co.kr##div.wrapperBox_full>div[style="text-align: center; width: 320px; height: 270px; margin: 0 auto; padding: 15px;"]
 m.mimint.co.kr##div#MimintTopBanner
 m.mimint.co.kr##div#MimintViewBoardListBanner
 m.mimint.co.kr##div#MimintViewBottomBanner
@@ -5418,21 +5406,12 @@ magazine.hankyung.com##div.ad
 magazine.hankyung.com##div.mgb_10
 magazine.hankyung.com##div.svc
 magazine.hankyung.com##div.this_time
+metroseoul.co.kr##.banner_render
 merriam-webster.com##div#mw-ad-slot-top
 merriam-webster.com##div.abl
 merriam-webster.com##div.central-abl-box
 merriam-webster.com##div.definitions-ad
 merriam-webster.com##div.rail-abl-box
-metroseoul.co.kr##div#adop_top_banner
-metroseoul.co.kr##div#news_content>div[style="margin-top: 40px; width: 100%; height: 300px;"]
-metroseoul.co.kr##div.ad-box
-metroseoul.co.kr##div.ad-box2
-metroseoul.co.kr##div.body-left-box>div[style="width: 672px; height: 220px; text-align: center; padding-bottom: 30px;"]
-metroseoul.co.kr##div.body-left-box>div[style="width: 673px; height: 250px; padding: 20px 0 50px 0 "]
-metroseoul.co.kr##div.body-right-box>div[style="padding: 30px 40px 0 30px;"]>div[style="background-color: #eaeaea;"]
-metroseoul.co.kr##div.body-right-box>div[style="padding: 30px 40px 0 30px;"]>div[style="margin: 0px 0 30px 0; background-color: #eaeaea;"]
-metroseoul.co.kr##div.body-right-box>div[style="padding: 30px 40px 0 30px;"]>div[style="margin: 30px 0 30px 0; background-color: #eaeaea; width: 250px; height: 250px;"]
-metroseoul.co.kr##div.sideADBox
 mhj21.com##div#contents_wrap_sub2>table[border="0"][cellpadding="0"][cellspacing="0"][width="100%"]>tbody>tr>td[align="center"][style="padding:50px 0 30px 0"]
 mhj21.com##div#contents_wrap_sub2>table[border="0"][cellpadding="0"][cellspacing="0"][width="100%"]>tbody>tr>td[style="padding-bottom:10px"]
 mhj21.com##div.bn
