@@ -3510,6 +3510,8 @@ elsword.nexon.com##div.anis
 embed.nicovideo.jp##div#overlayBanner
 embed.nicovideo.jp##iframe[src^="https://ads.nicovideo.jp/bannertext"]
 embedded.com##div.ads
+emojipedia.org##div.ad-header
+emojipedia.org##div.ad-sidebar
 emoticonfun.com##div.notice_1
 emoticonfun.com##div.notice_2
 en.seoul.co.kr##div#withpang_p
