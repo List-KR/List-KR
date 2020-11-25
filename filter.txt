@@ -5644,6 +5644,7 @@ nate.com##div#shopLoading
 nate.com##div[class^="area_ad"]
 nate.com##div[id^="ad_layer"]
 nate.com##iframe#ifrShopping
+naver.com###NM_MID_BANNER
 naver.com###NM_TOP_BANNER
 naver.com###shopcast_iframe
 naver.com##div#promotion1
