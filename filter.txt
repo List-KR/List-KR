@@ -1899,6 +1899,8 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||kormedi.com/wp-content/uploads/ads/^$domain=kormedi.com
 ||kotaku.xyz/public/upload/images/ads/
 ||koreajoongangdaily.joins.com/data/popup^
+||kpanews.co.kr/common_files/upload_files/banner^
+||kpanews.co.kr/images/tmp^
 ||ksg.co.kr/upload/banner/
 ||kukudas.com/img/banner/$domain=kukudas.com
 ||kukudas.com/img/freebody/$domain=kukudas.com
@@ -4368,6 +4370,8 @@ kotaku.com##div.contained-ad-container
 kotaku.com##div.contained-ad-shaft
 kotaku.com##div.js_ad-dynamic
 kotaku.com##section.contained-ad-container
+kpanews.co.kr##img[src^="/images/tmp"]
+kpanews.co.kr##img[src^="/common_files/upload_files/banner"]
 kr-weathernews.com###fortune
 kr-weathernews.com###unse_ban
 kr-weathernews.com##section:nth-child(19)
