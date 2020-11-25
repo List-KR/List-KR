@@ -3769,6 +3769,8 @@ genomeweb.com##div.block-genomeweb-ads
 genomeweb.com##div.genomeweb-ads-ad
 genomeweb.com##div.genomeweb-ads-embedded
 genomeweb.com##div.region-footer-top
+getemoji.com##div.container>div>div.text-center[style="padding-top:15px;margin-left:-5px"]
+getemoji.com##ins[data-ad-slot="1077730506"]
 getbukkit.org##div[class*="col-md-8 col-md-offset-2 ccTop"]
 getbukkit.org##a[href*="//ramshard.com/minecraft"]
 ggilbo.com##article.article-veiw-body div[style="width:100%; height:250px"]
