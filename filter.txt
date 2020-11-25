@@ -2153,7 +2153,6 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||nodecraft.com/assets/images/sales/
 ||nongmin.com/upload/kcun/banner/$domain=nongmin.com
 ||npian.com/nbox/ad*.swf^
-||npttech.com/advertising.js^
 ||nscreen.neoebiz.co.kr/screensharpJS.php^
 ||nscreen.neoebiz.co.kr/screenView.js^
 ||nscreen.neoebiz.co.kr/xJqScreen.php^
