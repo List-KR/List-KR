@@ -3508,6 +3508,8 @@ edaily.co.kr##div[class^="boxbanner_"]
 edaily.co.kr##div[data-widget_id="xlzQ0A7Z"]
 edaily.co.kr##iframe[src^="/v2/iframe/iwAD.asp"]
 edaily.co.kr##section.boxbanner_970x90
+elitedaily.com##div#oopAdWrapper
+elitedaily.com##div.adWrapper
 ekn.kr##div.right-wing-banner
 electimes.com##div#right_ad_scroll
 electimes.com##div.banner
