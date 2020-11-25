@@ -3271,6 +3271,7 @@ dailypharm.com##div.middleAD
 dailypharm.com##div.rigthSideAD
 dailypharm.com##div.topAd
 dailyrecord.co.uk##div.gpt
+dailysecu.com##div.ad-template
 dailysecu.com##div.banner_box
 danawa.com##div.banner_type4
 danawa.com##div.category_btm_banner
