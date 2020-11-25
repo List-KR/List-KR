@@ -1875,6 +1875,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||jsc.traffic-media.co.uk/*/*/*.js^
 ||jshoppingbox.joinsmsn.com^
 ||jsn.dt00.net/*/*/*.*.js^
+||json2.dcinside.com/json1/comment_boy_v*.php^$domain=m.dcinside.com
 ||json2.dcinside.com/json0/app_ad_setting.php^
 ||jtbc.joins.com/common/json2XMLvast.aspx^
 ||jtpress.kr/ShareMaxBanner*.php^
