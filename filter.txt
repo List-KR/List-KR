@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20201121
+! Version: 20201125
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -1783,6 +1783,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||img2.keywordsconnect.com/iconAdImg*.gif^
 ||img2.quasarzone.co.kr/banner/$domain=quasarzone.com
 ||img2.quasarzone.com/banner/$domain=quasarzone.com
+||imgnews.pstatic.net/image/upload/item^$domain=news.naver.com
 ||imnews.busan.com/media/busan/article/img/banner_top_ad.jpg^$domain=imnews.busan.com
 ||imnews.busan.com/media/busan/article/img/right_ad*.jpg^$domain=imnews.busan.com
 ||imp.asahi.com/bservers/AAMALL/$domain=asahi.com
@@ -5784,6 +5785,7 @@ news.naver.com##div#doubleDA
 news.naver.com##div#rightDoubleDA
 news.naver.com##div.article_body>table[align="right"][border="0"][cellpadding="0"][cellspacing="0"][width="307"]
 news.naver.com##div.rightBottomDouble
+news.naver.com##img[src^="https://imgnews.pstatic.net/image/upload/item"]
 news.sbs.co.kr##div#all_vod_banner
 news.sbs.co.kr##div#sn_banner_article_bottom
 news.sbs.co.kr##div#sn_banner_side_bottom
