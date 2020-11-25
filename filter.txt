@@ -308,6 +308,7 @@
 ##div.trc_spotlight_widget[class*=" trc_elastic_thumbnails-"]
 ##div.trc_spotlight_widget[class*=" trc_elastic_thumbs-"]
 ##div.wpcnt
+##div[data-ad-unit-path][data-glade]
 ##div[data-widget_id="1oVxnLlP"]
 ##div[data-widget_id="37JAOboN"]
 ##div[data-widget_id="6XgYNV7N"]
@@ -538,6 +539,7 @@
 ##iframe[src*="//search.supplyframe.com/partner/"]
 ##iframe[src*="//search2.nuriclick.co.kr/banner.php"]
 ##iframe[src*="//searchmaster.pro/b.php"]
+##iframe[src*="//securepubads.g.doubleclick.net/gampad/ads"]
 ##iframe[src*="//server.cpmstar.com/cached/client/"][src*="/carouselv1.html"]
 ##iframe[src*="//server.cpmstar.com/view.aspx"]
 ##iframe[src*="//shop.nate.com/shopbox/shopbox.htm"]
@@ -2323,8 +2325,10 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||secure.adnxs.com/jpt^
 ||secure.s.telegraph.co.uk/international/Barnebys/$domain=telegraph.co.uk
 ||secure.uac.advertising.com/wrapper/aceUAC.js^
+||securepubads.g.doubleclick.net/gampad/ads^
 ||securepubads.g.doubleclick.net/gampad/google_ads.js^
 ||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js^
+||securepubads.g.doubleclick.net/static/glade.js^
 ||securite.01net.com/ac^
 ||segye.com/Articles/Components/Ad/
 ||seoul.co.kr/ad/iconad_seoul_iframe.html^$domain=seoul.co.kr
@@ -6265,6 +6269,7 @@ radiokorea.com##iframe[src^="/amg/?page=NEWS&amg=R01"]
 readmanga.today##div.ezo_ad
 readthedocs.io##div.keep-us-sustainable
 readwrite.com##phx-advertisement
+realworldtech.com##div.adinjwidget
 realty.chosun.com##div.ad181122
 realty.chosun.com##div.realty_article_ad_new
 realty.chosun.com##div.top_ad_left
