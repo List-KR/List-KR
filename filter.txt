@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20201121
+! Version: 20201125
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -3345,8 +3345,20 @@ digitaltrends.com##div.dtads-slot
 digitaltrends.com##div.m-blockboard
 digitaltrends.com##div.m-leaderboard
 digitaltrends.com##div.m-mpu-widget
+youtube.com##div#feed-pyv-container
+youtube.com##div#footer-ads
+youtube.com##div#masthead-ad
+youtube.com##div#player-ads
+youtube.com##div#video-masthead
+youtube.com##div.ad-div
+youtube.com##div.ytp-ad-action-interstitial-background-container
+youtube.com##div.ytp-ad-action-interstitial-slot
+youtube.com##ytd-compact-promoted-video-renderer
 youtube.com##ytd-companion-slot-renderer.ytd-player-legacy-desktop-watch-ads-renderer
 youtube.com##ytd-display-ad-renderer
+youtube.com##ytd-promoted-sparkles-web-renderer
+youtube.com##ytd-search-pyv-renderer
+youtube.com##ytd-video-masthead-ad-renderer
 diodeo.com##div#newsFloatingBanner
 dispatch.co.kr##article.article-body>div[style="display:block; margin:0 -1em 10px 0; float:right;"]
 discordia.me##div#root > main > div.container.is-fluid.has-mkcontent > div.columns.is-gapless > div.column.is-narrow.is-hidden-touch.sidebar > cloudflare-app
