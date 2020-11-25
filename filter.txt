@@ -6183,6 +6183,11 @@ polinews.co.kr##iframe[src^="/data/ad/"]
 pomelove.com##div#sky_banner
 pomelove.com##div[style="margin-top:5px;height:250px;background-color: #FDFDFD;"]
 popit.kr##div.ant-layout-content>div[style="width:310px;margin-left:20px;float:left"]>div[style="width:300px;height:300px"]
+poro.gg##div.ap_middle_billboard
+poro.gg##div.ap_side1
+poro.gg##div.ap_side2
+poro.gg##div.ap_top
+poro.gg##div.ap_top_mobile
 ppomppu.co.kr##div#emart_banner
 ppomppu.co.kr##div#result_box>div.power-link
 ppomppu.co.kr##div#result_box>div.section:not([id])
