@@ -1489,6 +1489,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||dasiboda.asia/dasi_media/*/*/*.gif^
 ||dasiboda.site/dasi_media/*/*/*.gif^
 ||databucket.duckdns.org:*/images/ads/$domain=databucket.duckdns.org
+||datanews.co.kr/data/banner/$domain=datanews.co.kr
 ||daumd03.net/_img/ad/*.gif$domain=daumd03.net
 ||daumd03.net/_img/ad/partner/$domain=daumd03.net
 ||daypic.ru/banners/banners.js^
@@ -3290,6 +3291,7 @@ databucket.duckdns.org##div#ads-banner-center
 databucket.duckdns.org##div#ads-banner2-center
 databucket.duckdns.org##div#ads-img1-center
 databucket.duckdns.org##div#article-center>a>div[style="text-align: center;width: 100%; background-color: #000312; margin-top:13px;"]
+datanews.co.kr##div[id^="banner_base_"]
 daum.net##div#adBrandingStation
 daum.net##div#daumAd
 daum.net##div.advert_bnr
