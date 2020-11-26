@@ -1831,6 +1831,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||jjan.kr/banner/ad_banner_*.html^
 ||jjanglive.com/flash/AdShowClient.swf^
 ||jjanglive.com/flash/webClient.swf^
+||joind.io/attach/bannerInner/$domain=joind.io
 ||jnilbo.com/upload/banners/
 ||jmagazine.joins.com/data/banner^
 ||joinsmsn.com/_ui/ad/
@@ -4220,6 +4221,14 @@ jnilbo.com##div#ad_popup4
 jmagazine.joins.com##img[src^="/data/banner"]
 joara.com##div.banner
 jobplanet.co.kr##article#viewReviewsList section>div[style="padding:0;margin:0;background-color:#ddd;text-align:center"]
+joind.io##div.banner-area
+joind.io##div.bannerArea
+joind.io##div.bannerMiddlePosition
+joind.io##div.middleSizeBanner
+joind.io##div.pcBottomArea
+joind.io##div.pcLeftArea
+joind.io##div.pcTopArea
+joind.io##div.smallSizeBanner
 joins.com##div#divArticleAdnetworkBanner
 joins.com##div#gnb_banner
 joins.com##div#shoppingnews
