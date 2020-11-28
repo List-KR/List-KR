@@ -2265,6 +2265,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||rcm.amazon.com/e/cm^
 ||realdsp.realclick.co.kr/real_ad_dsp.html^
 ||realtoday.co.kr/_ad/ad_mtr.js^
+||realty.chosun.com/RealtyCommon/GnbBNRight/index.html
 ||rebevengwas.com/news.js^
 ||recreativ.ru/rcode.*.js^
 ||recreativ.ru/tizers.php^
@@ -6294,6 +6295,9 @@ realworldtech.com##div.adinjwidget
 realty.chosun.com##div.ad181122
 realty.chosun.com##div.realty_article_ad_new
 realty.chosun.com##div.top_ad_left
+realty.chosun.com##body > div#wrapper > div#container > div.contain > div.l_area > div.sec_top > div.bnr_area > a.desktop
+realty.chosun.com##body > div#wrapper > div#container > div.contain > div.l_area > div.bnr_area
+realty.chosun.com##body > div#wrapper > div#container > div.contain > div.r_area > div.main_ad1
 rec.netinsight.co.kr##div.side_ifm_area>div.side_nw>div[style="border:1px solid #000; width:200px; height:200px;margin:15px 0 5px 4px;text-align:center;"]
 recode.net##div.ad-wrapper
 recordchina.co.jp##div.ad728
