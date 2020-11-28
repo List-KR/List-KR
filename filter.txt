@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20201126
+! Version: 20201128
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -3919,6 +3919,10 @@ health.chosun.com##dd.rel_pd
 health.chosun.com##div.aside_doctor
 health.chosun.com##div.left_banner
 health.chosun.com##div.right_banner
+health.chosun.com##h1.hc_banner
+health.chosun.com##dl.art_list_banner
+health.chosun.com##dl.art_list_banner_last
+health.chosun.com###main_tb2
 healthcarenous.com##div.header-right
 healthmedi.net##div.imagead-taskbar-anchor
 hellmoney.kr##div#shallwead_div
