@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20201126
+! Version: 20201205
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -2009,6 +2009,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||magento-analytics.com/gate.php^
 ||mainclc.com/*/*/*/*.js^
 ||manatoki*.net/data/banner/
+||manatoki*.net/data/editor/2009^
 ||mangahub.io/iframe/ra^$domain=mangahub.io
 ||marketingking.co.kr/pr/ad.js^
 ||marketingking.co.kr/pr/s_ad.js^
@@ -5358,7 +5359,8 @@ makeuseof.com##div.ad-odd
 makeuseof.com##div.ad-zone
 makeuseof.com##div.ad-zone-container
 mana08.com##div#about
-manatoki73.net###main-banner-view
+manatoki88.net###main-banner-view
+manatoki88.net##.hd_pops
 mangafox.me##div.ad
 mangahub.io##div.ads-container
 mangahub.io##div[id^="rn_ad_native_"]
