@@ -2372,7 +2372,8 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||smartposting.net/keyword/api/
 ||smpeople.net/mappy/ad/
 ||smr.tvpot.daum.net^
-||smrmembers-smr.smartmediarep.com/smc/smrmembers/$domain=~allvod.sbs.co.kr|~news.sbs.co.kr|~news.tvchosun.com|~play-tv.kakao.com|~programs.sbs.co.kr
+||smrmembers-smr.smartmediarep.com/smc/smrmembers/$domain=~allvod.sbs.co.kr|~news.sbs.co.kr|~news.tvchosun.com|~onair.imbc.com|~play-tv.kakao.com|~programs.sbs.co.kr|~wavve.com
+||smrmembers-smr.smartmediarep.com:8443/smc/smrmembers/$domain=~allvod.sbs.co.kr|~news.sbs.co.kr|~news.tvchosun.com|~onair.imbc.com|~play-tv.kakao.com|~programs.sbs.co.kr|~wavve.com
 ||sndkorea.nowcdn.co.kr/emart/
 ||sndkorea.nowcdn.co.kr/media/
 ||sndkorea.nowcdn.co.kr/xml/
