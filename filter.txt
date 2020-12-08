@@ -2603,6 +2603,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||webstore.ansi.org/Images/banners/$domain=webstore.ansi.org
 ||wec.co.kr/banner/
 ||weekly.chosun.com/images/ban2002_*.jpg$domain=weekly.chosun.com
+||weekly.chosun.com/images/banner/
 ||widget.barnebys.com/widget.php^
 ||wiki.dcinside.com/main_top_realclick_banner.php^$domain=wiki.dcinside.com
 ||wikileaks-kr.org/script/floating.banner.js^$domain=wikileaks-kr.org
