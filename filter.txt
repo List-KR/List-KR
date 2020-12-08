@@ -7298,6 +7298,7 @@ zdnet.co.kr##div.hide_bk
 zdnet.co.kr##div.hide_bt
 zdnet.co.kr##div.news_12
 zdnet.co.kr##div.power_center
+zdnet.co.kr##div.zdnetkor-scroll>div[style="width:700px; height:20px; padding:10px 15px; background-color:#e9eef1; margin-bottom:30px;"]
 zdnet.co.kr##div[class^="right_bn"]
 zdnet.co.kr##iframe[src^="/ads/"]
 zdnet.co.kr##iframe[src^="/template_ad/"]
