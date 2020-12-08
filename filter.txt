@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20201126
+! Version: 20201208
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -1840,6 +1840,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||jnilbo.com/upload/banners/
 ||jmagazine.joins.com/data/banner^
 ||joinsmsn.com/_ui/ad/
+||journey.newyorker.com/compiler-*.js^$domain=newyorker.com
 ||joy-adstore.co.kr/ad/
 ||js-*.redtram.com/*/*/ticker_*.js^
 ||js-*.redtram.com/ticker_*.js^
@@ -6007,8 +6008,8 @@ newsway.kr##div#google_banner
 newsway.kr##div[id^="NMN_BANNER_WIDGET_"]
 newsworker.co.kr##div#ad_scrollB
 newsworker.co.kr##div#floating_banner_body
-newyorker.com##div[class^="Ad__global-footer___"]
-newyorker.com##div[class^="Ad__header___"]
+newyorker.com##div.ad
+newyorker.com##div.full-bleed-ad
 nextdaily.co.kr##p.mgb20
 nicovideo.jp##div.Ads
 nicovideo.jp##div.BottomContainer-adContainer
