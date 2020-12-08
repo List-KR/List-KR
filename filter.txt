@@ -873,6 +873,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||aax-*.amazon-adsystem.com/e/xsp/getAd^
 ||aax-*.amazon-adsystem.com/e/xsp/getAdj^
 ||aax-*.amazon-adsystem.com/x/getad^
+||ablenews.co.kr/Banner/
 ||acdn.adnxs.com/ast/ast.js^
 ||acdn.adnxs.com/ib/static/usersync/v3/async_usersync.html^
 ||acdn.adnxs.com/ib/static/usersync/v4/async_usersync.html^
@@ -2698,6 +2699,8 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 9to5mac.com##div.widget_ninetofive_netshelter_ad
 9to5mac.com##img[data-image-title="NativeBanner750by150"]
 9to5toys.com##div.tha4673a86
+ablenews.co.kr##div[style="margin-left: 1115px; top:182px; position:absolute; width:120px ; height:1210px; overflow:hidden; z-index:4"]
+ablenews.co.kr##iframe[src^="/Banner"]
 adp.issuepoll.net##ul>li[onclick^="javascript:goAd("]
 ads1.issuepoll.co.kr##ul>li[onclick^="javascript:goAd("]
 afbbs.afreecatv.com##div#div_video_ad_banner
