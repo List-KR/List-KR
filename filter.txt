@@ -7263,6 +7263,7 @@ yna.co.kr,yonhapnews.co.kr##iframe[src^="//m.joyninfo.com/yna/yna_w1.asp"]
 yna.co.kr,yonhapnews.co.kr##iframe[src^="//m.joyninfo.com/yna/yna_w1_new_20200107.asp"]
 yna.co.kr,yonhapnews.co.kr##iframe[src^="//m.joyninfo.com/yna/yna_w2.asp"]
 yna.co.kr,yonhapnews.co.kr##iframe[src^="http://www.yonhapnews.co.kr/bithumb/banner.html"]
+yonhapnewstv.co.kr##div.ad
 yna.co.kr,yonhapnews.co.kr##li.ads-main-juyo01
 youtube.com##div#feed-pyv-container
 youtube.com##div#footer-ads
