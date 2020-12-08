@@ -5388,7 +5388,8 @@ makeuseof.com##div.ad-odd
 makeuseof.com##div.ad-zone
 makeuseof.com##div.ad-zone-container
 mana08.com##div#about
-manatoki73.net###main-banner-view
+manatoki88.net###main-banner-view
+manatoki88.net##.hd_pops
 mangafox.me##div.ad
 mangahub.io##div.ads-container
 mangahub.io##div[id^="rn_ad_native_"]
