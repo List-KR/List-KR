@@ -4039,6 +4039,9 @@ ibric.org##div#divAd_3
 ibric.org##div#divAd_4
 ibric.org##div#divAd_Sleep
 ibric.org##div#layerAdNum
+icdrama.to##div#closeADV
+icdrama.to##div[id^="MYADV_"]
+icdrama.to##div[id^="mynewads_"]
 idaegu.com##aside.sidebar>div[style="text-align:center;margin-bottom:10px;"]
 idaegu.com##div.content-column>div[style="text-align:center; margin-bottom:5px; width:100%; overflow:hidden;"]
 idaegu.com##div.post-header>div[style="text-align:center;margin-bottom:10px;"]
