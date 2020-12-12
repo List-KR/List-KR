@@ -1773,6 +1773,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||img.mrep.kr/slot/*.html^
 ||img.nabang.tv/partner/banner/
 ||img.newspim.com/banner/$domain=newspim.com
+||img.samsungapps.com/display^$app=com.samsung.android.game.gamehome
 ||img.sbs.co.kr/news/ad/delay_redirect.html^$domain=news.sbs.co.kr
 ||img.sbs.co.kr/news/ad/delay_redirect_mobile.html^
 ||img.scupio.com/html/ad.html^
