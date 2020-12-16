@@ -1769,7 +1769,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||image.lsinfo.co.kr/lottorich/partnership/
 ||image.melon.com/svc/images/main/floatingBanner/floatingBanner_*.swf^
 ||image.munhwa.com/www/banner/
-||image.ruliweb.com/view/view.js^$domain=bbs.ruliweb.com|m.ruliweb.com
+||image.ruliweb.com/view/view.js^$domain=bbs.ruliweb.com|m.ruliweb.com|ruliweb.com
 ||image.tvdaily.co.kr/banner/$domain=tvdaily.asiae.co.kr
 ||image.wownet.co.kr/static/banner/*/flash/
 ||images.christiantoday.co.kr/data/banner/
