@@ -1924,6 +1924,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||klan.kr/thum_img/klan/banner/
 ||kmib.co.kr/cp/realclick/
 ||kn.acrosspf.com/delivery.ad^
+||knnews.co.kr/edb/banner^
 ||kodcad.kr/ad/
 ||kookje.co.kr/news2011/sephtml/main_mediclub6.htm^$domain=kookje.co.kr
 ||kookje.co.kr/service/banner/$domain=kookje.co.kr
@@ -4347,6 +4348,7 @@ kkutu.co.kr##a[href*="play.google.com"]
 kkutu.co.kr##div#facebook-menu
 kkutu.co.kr##div.ADBox
 klan.kr##div[id^="owl_mbr_ad"]
+knnews.co.kr##img[src^="http://www.knnews.co.kr/edb/banner"]
 knowyourmeme.com##div.content-unit-wrapper
 knowyourmeme.com##div.header-unit-wrapper
 knowyourmeme.com##div.rectangle-unit-wrapper
