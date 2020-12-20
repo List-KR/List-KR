@@ -7345,6 +7345,7 @@ ytn.co.kr##div.ad
 ytn.co.kr##div.ad_box
 ytn.co.kr##div.hns_mask_div
 ytn.co.kr##iframe[src^="/inc_banner/AdServerChange.php"]
+ytn.co.kr##.ad_powerlink
 zangsisi.net##body>center
 zangsisi.net##div#fixed-top
 zangsisi.net##div.fixed-top>center
