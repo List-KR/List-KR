@@ -1797,6 +1797,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||img.mrep.kr/slot/*.html^
 ||img.nabang.tv/partner/banner/
 ||img.newspim.com/banner/$domain=newspim.com
+||img.samsungapps.com/display^$app=com.samsung.android.game.gamehome
 ||img.sbs.co.kr/news/ad/delay_redirect.html^$domain=news.sbs.co.kr
 ||img.sbs.co.kr/news/ad/delay_redirect_mobile.html^
 ||img.scupio.com/html/ad.html^
@@ -2740,6 +2741,7 @@ ajunews.com##div.stickyCont>div[style="margin:20px 0 25px 0;width:100%;height:24
 ajunews.com##div.stickyCont>div[style="width:690px;height:250px;margin-top: 10px;"]
 ajunews.com##div.view_banner
 akal.co.kr##div.Hot_random_image
+akibatosho.org###content > div:nth-child(2)
 alldatasheet.com##td#idAD1
 alldatasheet.com##td#idAD2
 amazon.co.jp,amazon.com##div[data-ad-details]
@@ -4543,6 +4545,7 @@ lifewire.com##div.mntl-flexible-ad
 lifewire.com##div.mntl-gpt-adunit
 linkmoya1.com##div.banner-colorset
 linkmoya1.com##div.basic-banner
+linkkf.app###banner
 linux.cn##div#LzDnCisOsS
 linux.cn##div.linuxcnad
 linuxquestions.org##td.alt1>div[style="text-align: center; width: 100%"]
@@ -5773,7 +5776,6 @@ newdaily.co.kr##div.iwm_bip
 newdaily.co.kr##div.nd-news-ad-bottom
 newgrounds.com##div#afrc_skin
 newgrounds.com##div[class^="ng-ad-container-"]
-newtoki24.net##div#main4x3_banner
 news.chosun.com##div.ad_aside_box
 news.chosun.com##div.ad_box
 news.chosun.com##div.ad_mid_box
