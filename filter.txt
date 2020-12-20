@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20201216
+! Version: 20201220
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -4827,6 +4827,7 @@ m.etnews.com##div#bottomBigBanner
 m.etnews.com##div#boxContent>div[style="margin-top:20px;border:0;"]
 m.etnews.com##div#boxContent>div[style="margin-top:20px;border:0;text-align:center"]
 m.etnews.com##div.ad_200x200
+m.etnews.com##div.ad_view_640
 m.etnews.com##div.defNewList>div.clfix[style="margin-top:4px;"]
 m.etnews.com##div.defNewList>div[style="margin:4px 0 4px 0px;padding:0px;height:59px;border:0px;overflow:hidden;width:100%"]
 m.etnews.com##div.inlineAdBanner
