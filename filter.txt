@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20201220
+! Version: 20201222
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -3832,6 +3832,7 @@ gadgethacks.com##aside.whtaph-rightbox
 gadgethacks.com##div#ad-top-lock
 gall.dcinside.com##div#wif_adx_banner_wrap
 gall.dcinside.com##div#zzbang_div
+gall.dcinside.com###top > div.gnb_bar:nth-child(2) > nav.gnb.clear > ul.gnb_list.clear:nth-child(2) > li.linebox:last-child
 gall.dcinside.com##div.ad_bottom_list
 gall.dcinside.com##div.con_banner
 gall.dcinside.com##div.power_click
