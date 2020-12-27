@@ -3,7 +3,9 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
+! DO NOT TOUCH VERSION LINE WHEN CREATING PR
 ! Version: 20201228
+! DO NOT TOUCH VERSION LINE WHEN CREATING PR
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
