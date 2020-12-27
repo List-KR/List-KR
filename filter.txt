@@ -3,7 +3,7 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! Version: 20201220
+! Version: 20201228
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -2241,6 +2241,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||nscreen.neoebiz.co.kr/xJqScreen.php^
 ||nscreen.neoebiz.co.kr/xJqScreenIframe.php^
 ||nscreen.neoebiz.co.kr/xJqScreenView.php^
+||nstatic.dcinside.com/dgn/gallery/js/panda_tv.js^$domain=dcinside.com
 ||nson.encock.com/media/
 ||nurhdfilfilme.com/bundles/maxicadvertisement/js/advertisment_*.js^
 ||nv*.veta.naver.com/dr^
@@ -3389,6 +3390,7 @@ daum.net##div.ad_rightbtm
 dcid.dcinside.com##div.ban_box
 dcinside.com##div#dgn_content_de>div[style="padding-top: 16px;padding-bottom:30px;text-align: center"]
 dcinside.com##div.ad_top
+dcinside.com##ul.gnb_list > li.linebox
 dcinside.com##div.evt_content
 dcinside.com##div.leftbanner
 dcinside.com##div.rightbanner
@@ -4779,6 +4781,7 @@ m.dcinside.com##div.all-comment>ul.all-comment-lst>li.comment:not([id])>a.nick>s
 m.dcinside.com##div.all-comment>ul.all-comment-lst>li.comment:not([id])>div.dori-box
 m.dcinside.com##div.detail-top-lnk>a[href^="http://addc.dcinside.com/NetInsight/click/dcinside/adver/adver@text"]
 m.dcinside.com##h3.power-tit
+m.dcinside.com##ul.menu-scroll-lst > li.linebox
 m.dcinside.com##ul.power-lst
 m.donga.com##div.ad_main01
 m.donga.com##div.ad_main03
