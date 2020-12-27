@@ -4395,12 +4395,9 @@ kiplinger.com##div.kip-advertisement-fixed
 kiplinger.com##div.kip-banner
 kiplinger.com##section.kip-advertisement
 kjdaily.com##div#main_66
-kkutu.co.kr###ADVERTISEMENT
-kkutu.co.kr###ADVERTISEMENT_TITLE
-kkutu.co.kr##.banner
-kkutu.co.kr##a[href*="play.google.com"]
+kkutu.co.kr##div[class^="aa-side"]
+kkutu.co.kr##div#AABox
 kkutu.co.kr##div#facebook-menu
-kkutu.co.kr##div.ADBox
 klan.kr##div[id^="owl_mbr_ad"]
 knnews.co.kr##img[src^="http://www.knnews.co.kr/edb/banner"]
 knowyourmeme.com##div.content-unit-wrapper
