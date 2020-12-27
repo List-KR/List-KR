@@ -1231,7 +1231,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||anewsa.com/advert_view.php^$domain=anewsa.com
 ||anewsa.com/master/banner/$domain=m.anewsa.com
 ||ani119.com/public/adv/$domain=ani119.com
-||ani365.org/assets/images/banner*.gif^$domain=ani365.org
+||ani365.org/assets/images/banner^$domain=ani365.org
 ||animefreak.tv/sites/all/modules/custom/anime/ads/
 ||animefreak.tv/sites/all/modules/custom/anime/yanone.html^
 ||aos-creative.prf.hn/creative/
