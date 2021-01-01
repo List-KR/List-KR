@@ -6862,6 +6862,7 @@ thehackernews.com##div.articlebodyonly>div>div[style="padding: 15px 0px; text-al
 thehackernews.com##div.banners
 thehackernews.com##ins.dcmads
 thehealthycookingcoach.com##div[id^="thehe-"]
+thehill.com##div.dfp-tag-wrapper
 thehindu.com##div.overlay.overlayblock
 thehindu.com##div[class^="addblockersection enableaddblockersection"]
 thenextweb.com##div.tnw-ad-loaded
