@@ -4,7 +4,7 @@
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
 ! DO NOT TOUCH VERSION LINE WHEN CREATING PR
-! Version: 20210101
+! Version: 20210110
 ! DO NOT TOUCH VERSION LINE WHEN CREATING PR
 
 ! Workaround for BlockAdBlock
@@ -2006,6 +2006,8 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||log.adtive.com/noticead/adinfo/js/notice.js^
 ||logapi.tv.naver.com^
 ||longkeyone.co.kr^
+||lorybnfh.com/*/*/*/*/*/brt.js^
+||lreprx-server.anyclip.com/?ad=
 ||ltn.hitomi.la/7I90zwIh.js^$domain=hitomi.la
 ||ltn.hitomi.la/ipIGIssoAFF800.js$domain=hitomi.la
 ||ltn.hitomi.la/neqxb2irndk.js^$domain=hitomi.la
@@ -2726,6 +2728,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||z.moatads.com/*/moatcontent.js^
 ||z.moatads.com/*/moatheader.js^
 ||z.moatads.com/*/moatvideo.js^
+||zam.videoplayerhub.com/gallery.js^
 ||zbn.donga.com/2015/banner/ad_read_*.asp^$domain=zbn.donga.com
 ||zbnfhsk.com/*.js^
 ||zdnet.co.kr/ads/$domain=zdnet.co.kr
