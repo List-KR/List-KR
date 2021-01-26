@@ -4,7 +4,7 @@
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
 ! DO NOT TOUCH VERSION LINE WHEN CREATING PR
-! Version: 20210119
+! Version: 20210126
 ! DO NOT TOUCH VERSION LINE WHEN CREATING PR
 
 ! Workaround for BlockAdBlock
@@ -1604,7 +1604,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||dogzoa.com/img/08/$domain=dogzoa.com
 ||dogzoa.com/img/11/$domain=dogzoa.com
 ||dogzoa.com/img/new/$domain=dogzoa.com
-||dorama.kr/api/public/blockadblock.html^
+||dorama.kr/api/public/bab.html^
 ||dotcomconsultancy.advertserve.com/servlet/view/banner/javascript/ajax/crossdomain/zone^
 ||dothome.co.kr/advertisement/
 ||dreamsearch.or.kr/ad/
