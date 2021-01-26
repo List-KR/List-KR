@@ -3804,6 +3804,8 @@ forbes.com##div[class^="fbs-ad--"]
 forbes.com##fbs-ad
 forbes.com##fbs-ad-rail
 forbes.com##section.channel--ad
+foreignpolicy.com##div.home-ad-region-1
+foreignpolicy.com##div.in-article-dynamic-ad
 fortune.com##div.ad-wrapper
 fortune.com##div.mobile-ad
 forum.lowyat.net##div#ads7
