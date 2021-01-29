@@ -4,7 +4,7 @@
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
 ! DO NOT TOUCH VERSION LINE WHEN CREATING PR
-! Version: 20210126
+! Version: 20210129
 ! DO NOT TOUCH VERSION LINE WHEN CREATING PR
 
 ! Workaround for BlockAdBlock
@@ -27,6 +27,7 @@
 @@||image*.dcinside.com
 @@||image*.dcinside.co.kr
 @@||ssl.pstatic.net/adimg3.search/adpost/js/adpost_show_ads_v2.min.js$script,domain=search.danawa.com|m.danawa.com|m.clien.net
+@@||ssl.pstatic.net/static.pay/o/c/commonjs/static/js/common/lcslog.0.7.0.js$domain=naver.com
 @@||vads-api.ad.daum.net/xylophone/adrequest/vmap/
 @@||webid.ad.daum.net^
 
