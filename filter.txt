@@ -4721,6 +4721,7 @@ m.busan.com##section#cont>div[style="width:320px; height:40px; margin:0 auto; pa
 m.cafe.naver.com##div.area_sa
 m.cafe.naver.com##div.ArticleFormBanner
 m.cafe.naver.com##div.plug_game_ad
+m.cafe.naver.com##div.reserve_banner
 m.cafe.naver.com##li.ad_wrap
 m.cafe.naver.com##iframe[src*="//mv.veta.naver.com"]
 m.chosun.com##div#_popIn_recommend_300x250
