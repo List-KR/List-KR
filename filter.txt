@@ -7203,6 +7203,7 @@ vulture.com##div.latest-ad
 vulture.com##section.ad-splash
 w3schools.com##div#mainLeaderboard
 w3schools.com##div#skyscraper
+wago.io##div.wago-ad-container
 w17.leadership14.site##div#mobonIframe_21379
 w17.leadership14.site##div[id^=AD_]
 w17.leadership14.site##iframe[src^="https://t.co/XHHkjBVDq2"]
