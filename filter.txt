@@ -4,7 +4,7 @@
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
 ! DO NOT TOUCH VERSION LINE WHEN CREATING PR
-! Version: 20210129
+! Version: 20210208
 ! DO NOT TOUCH VERSION LINE WHEN CREATING PR
 
 ! Workaround for BlockAdBlock
@@ -6450,6 +6450,7 @@ quasarzone.com##aside.logo-area
 quasarzone.com##div.banner-area
 qz.com##div.inline-ad
 r25.jp##div.Article__articleListWrapper__featureBannerWrapper
+raider.io##div.rio-zone
 rapidcityjournal.com##div.ad-col
 rapidcityjournal.com##div.dfp-ad
 rapidcityjournal.com##div.tnt-ads-container
