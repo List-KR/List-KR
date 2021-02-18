@@ -4191,7 +4191,6 @@ ilyo.co.kr##div.ad_topArea
 ilyo.co.kr##div.eventBnr
 ilyo.co.kr##div[class^="ad_skyscraper_"]
 ilyo.co.kr##div[data-widget_id="57wBw1o8"]
-imgur.com##div.advertisement
 imnews.busan.com,implay.busan.com##div#float_banner
 imnews.busan.com,implay.busan.com##div.left_banner1
 imnews.busan.com,implay.busan.com##div.right_banner1
@@ -6307,6 +6306,8 @@ pcgames.de##div.topFrameEddie
 pcgames.de##div.wadtag
 pcwelt.de##div.ad
 pcwelt.de##div.marketplace
+peing.net##div.ad-container
+peing.net##div.ad-wrapper
 personacons.tistory.com##div.txc-textbox
 petapixel.com##div.banners
 phonearena.com##div#bottom_banner
