@@ -4,7 +4,7 @@
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
 ! DO NOT TOUCH VERSION LINE WHEN CREATING PR
-! Version: 20210208
+! Version: 20210218
 ! DO NOT TOUCH VERSION LINE WHEN CREATING PR
 
 ! Workaround for BlockAdBlock
@@ -3411,6 +3411,7 @@ dcid.dcinside.com##div.ban_box
 dcinside.com##div#dgn_content_de>div[style="padding-top: 16px;padding-bottom:30px;text-align: center"]
 dcinside.com##div.ad_top
 dcinside.com##ul.gnb_list > li.linebox
+dcinside.com##ul.gnb_list > li:nth-child(8)
 dcinside.com##div.evt_content
 dcinside.com##div.leftbanner
 dcinside.com##div.rightbanner
