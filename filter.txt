@@ -7331,6 +7331,9 @@ womennews.co.kr##iframe[src^="/news/sidebar_banner_realclick01.html"]
 wordpress.com##div.compound-ad-unit
 wordpress.com##div[id^="atatags-"]
 wordpress.com##p.inline-ad-slot
+wow-professions.com##section#block-wp-theme-block-22
+wow-professions.com##section#block-wp-theme-block-23
+wow-professions.com##section#block-wp-theme-block-24
 wowhead.com##div.banner-ad
 wowtv.co.kr##div#divTopBanner
 wowtv.co.kr##div.adv-area
