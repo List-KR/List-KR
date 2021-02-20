@@ -2933,6 +2933,7 @@ atlasobscura.com##div.ad-background
 atlasobscura.com##div.ad-background-intra-body
 atlasobscura.com##div.ad-wrapper
 attorneystorm.com##div#sidebar>div.widget_text
+auth.danawa.com###loginBottomBanner
 auto.daum.net##div.bnr_ad
 auto.daum.net##li.item_ad
 autoevolution.com##div.ad
