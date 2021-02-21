@@ -4644,7 +4644,6 @@ livecodi.com##div.miso-post-gallery a[href^="https://www.livecodi.com/bbs/link.p
 livecodi.com##div.miso-post-gallery a[href^="https://www.livecodi.com/bbs/link.php?bo_table=bottom_01"]
 livecodi.com##div.miso-post-gallery a[href^="https://www.livecodi.com/bbs/link.php?bo_table=mains"]
 livecodi.com##div.miso-post-gallery a[href^="https://www.livecodi.com/bbs/link.php?bo_table=top_01"]
-liveinincheon.tistory.com##div#h237
 liverex.net##div#googleAD_2
 liverex.net##div#googleADX
 liverex.net##div#googleTop
@@ -7531,6 +7530,8 @@ torrentgirl.org##.sidebar-nav[-ext-has='>ul>a[href^="https://torrentgirl.org/pag
 zipbogo.net##.sidebar > ul > li[-ext-has='a[href*="/ad/"],a[onclick^="visitWebBanner("]']
 
 ! JS rules
+tistory.com#%#//scriptlet('abort-current-inline-script', 'window.document.getElementById', 'h237')
+tistory.com###h237
 10games.tistory.com,caskers.tistory.com,fmgunzo.tistory.com,frostfire.tistory.com,jimnong.tistory.com,koreapas.com,lalawin.com,lalawin.tistory.com,linsoo.co.kr,minitoon.net,money2015.tistory.com,mongri.net,ruinses.tistory.com,ssulwar.com,te31.com,webzook.net,yabang.org,anigod.com,anigod.org,kflix.tv,netmics.com,deepanda.com,deepanda.io,deepanda.net,deepanda.org,deeppanda.com,deeppanda.io,deeppanda.net,deeppanda.org,amazooon.website,apppple.website,awscontent.com,facebooook.website,goooooooogle.website,gryfindor.com,iiinstagram.website,kakaooo.website,netflixxx.website,oderk.com,teslaaa.website,teslacdn.com,twittter.website,twitttter.website,unknowncdn.com,youtubbe.website,webzook.net#%#(function(){var a={debug:{set:function(){return a}},on:function(b,c){b||setTimeout(function(){c()},1);return a},onDetected:function(b){return a.on(!0,b)},onNotDetected:function(b){return a.on(!1,b)},check:function(){}};Object.defineProperty(window,"fuckAdBlock",{get:function(){return a}})})();
 anigod.com,anigod.org,kflix.tv,netmics.com,deepanda.com,deepanda.io,deepanda.net,deepanda.org,deeppanda.com,deeppanda.io,deeppanda.net,deeppanda.org,amazooon.website,apppple.website,awscontent.com,facebooook.website,goooooooogle.website,gryfindor.com,iiinstagram.website,kakaooo.website,netflixxx.website,oderk.com,teslaaa.website,teslacdn.com,twittter.website,twitttter.website,unknowncdn.com,youtubbe.website#%#window.canRunAds = !0;
 baykoreans.com,baykoreans.net$$script[tag-content="div.adsbygoogle"]
