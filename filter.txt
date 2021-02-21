@@ -5833,13 +5833,12 @@ namu.wiki##aside>div:has(> a[href="//namu.news/"])
 namu.wiki##aside>div:nth-of-type(2)
 namu.wiki##aside>div:nth-of-type(3)
 namu.wiki##aside>div:nth-of-type(4)
-namu.wiki##div#tchika7de53531
+namu.wiki##div#tchika7ca3921f
 namu.wiki##div.ad
 namu.wiki##div.namuwiki-toc-ad
 namu.wiki##div.news-list-card
 namu.wiki##div.test-ad-card
 namu.wiki##iframe[src^="//arca.live/static/ad/"]
-namu.wiki##iframe[src^="//arca.live/static/ad/adfit.html"]
 nanumnews.com##body>div:nth-of-type(2)>table:nth-of-type(2)>tbody>tr>td:nth-of-type(4)>table:nth-of-type(2)>tbody>tr>td>table:nth-of-type(2)
 nanumnews.com##body>div:nth-of-type(2)>table:nth-of-type(2)>tbody>tr>td:nth-of-type(4)>table:nth-of-type(2)>tbody>tr>td>table:nth-of-type(3)
 nanumnews.com##body>div:nth-of-type(2)>table:nth-of-type(2)>tbody>tr>td:nth-of-type(4)>table:nth-of-type(2)>tbody>tr>td>table:nth-of-type(4)
