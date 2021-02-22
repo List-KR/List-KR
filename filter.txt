@@ -1044,7 +1044,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||ad999.biz/code/inline.js^
 ||adapi.inlcorp.com/dfp/
 ||adapi.inlcorp.com/kao/
-||adballoon.afreecatv.com/api*^
+||adballoon.afreecatv.com/api
 ||adbiz.co.kr^
 ||adbiz2.co.kr^
 ||adbiz3.co.kr^
@@ -2291,6 +2291,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||p*.mycdn.co/banners/script/bnr-wrp_*.js^
 ||p.lumieyes.com^
 ||p.udn.com.tw/upf/2014_banners/$domain=udn.com
+||pa.afreecatv.com/RealMedia/ads/
 ||pagead2.googlesyndication.com/bg/*.js^
 ||pagead2.googlesyndication.com/pagead/js/*/osd.js^
 ||partner.googleadservices.com/gpt/pubads_impl_*.js^
@@ -2526,9 +2527,11 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||ssp.realclick.co.kr/realclickssp.js^
 ||sspi.adpopcorn.com/v2_sdk/banner^
 ||sspi.adpopcorn.com/v2_sdk/interstitial^
+||st.afreecatv.com/api/ad_block_api.php?*&szCheckType=adblock$replace=/&szAdblockUseFlag=y/&szAdblockUseFlag=n/
 ||st.bebi.com/bebi_v3.js^
 ||st.keywordsconnect.com^
 ||sta.vrixon.com/encvrix/zum/$domain=pip-player.zum.com
+||static.afreecatv.com/asset/service/ad/
 ||static.adxadserv.com/js/adp.js^
 ||static.chameleon.ad/js/router.js^
 ||static.criteo.net/js/ld/publishertag.js^
