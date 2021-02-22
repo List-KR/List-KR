@@ -1727,8 +1727,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||go.oclasrv.com/apu.php^
 ||go.onclasrv.com/apu.php^
 ||go.pub2srv.com/apu.php^
-||google.co.*/adsense/search/async-ads.js^
-||google.com/adsense/search/async-ads.js^
+||google.c*/adsense/search/async-ads.js
 ||google.com/jsapi?autoload=*%22ads%22$script,domain=youtube.com
 ||googleads.g.doubleclick.net/dbm/ad^
 ||googleads.g.doubleclick.net/mads/gma^
@@ -6592,6 +6591,7 @@ skyedaily.com##div.bottom_banner
 skyedaily.com##div.sidebanner
 skyedaily.com##embed[src^="/AD/"]
 skyscanner.co.kr##div.mpu-advert
+skyscanner.co.kr##.strevda-sidebar
 sciencetimes.co.kr##div[class^="slide_banner"]
 slant.co##div.Ad-InArticle
 slant.co##div.AdContainer
