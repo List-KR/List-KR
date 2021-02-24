@@ -2400,6 +2400,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||sc2.appldp.com/show-ads.js^
 ||scdn.cxense.com/cx.js^
 ||scr.nsmartad.com/admixer/admixer.js^
+||sb.biz.dreamwiz.com/dw_shopping_box.asp
 ||script.adsquare.co.kr/script/
 ||script.keywordlink.co.kr^
 ||script.nowcall.co.kr/nowsence/nsLiveNewsBanner.js^
@@ -6780,6 +6781,8 @@ star.ohmynews.com##div#adDaum
 star.ohmynews.com##div.ad-250x250
 star.ohmynews.com##section.M-atc>div.ad_box_outline
 star.ohmynews.com##td.at_contents>table[align="center"][style="padding-top:10px; padding-bottom:20px;"]
+start.intizen.com##iframe[src^="//sb.biz.dreamwiz.com/dw_shopping_box.asp"]
+start.intizen.com##.banner
 starin.edaily.co.kr##div.View_TPAd
 steptohealth-co-kr.cdn.ampproject.org##amp-layout.ad-space
 stoo.asiae.co.kr##div#article>table[align="left"][height="250"][style="margin-right:20px"][width="300"]
