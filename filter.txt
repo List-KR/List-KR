@@ -2412,6 +2412,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||sdk.streamrail.com/player/sr.ads.js^
 ||search.n2s.co.kr/_n2s_adop_adinfo.php^
 ||search.n2s.co.kr/_n2s_rainbod_adinfo_js.php^
+||search.dreamwiz.com/_js/dw/api/adapi.php
 ||search.supplyframe.com/partner/
 ||search2.nuriclick.co.kr/banner.php^
 ||search2.nuriclick.co.kr/search.php^
@@ -6533,6 +6534,9 @@ sbs.co.kr##div.main_da_housebanner_w
 sbs.co.kr##div.da_banner_w
 search.daum.net##div.ad_sch
 search.daum.net##div.content_sponsor
+search.dreamwiz.com###neoclick_area
+search.dreamwiz.com##.right_wrap
+search.dreamwiz.com###edn_area
 search.naver.com##.api_banner
 search.naver.com##div.ad_section
 search.naver.com##div.brand_search
