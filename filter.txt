@@ -4,7 +4,7 @@
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
 ! DO NOT TOUCH VERSION LINE WHEN CREATING PR
-! Version: 20210218
+! Version: 20210226
 ! DO NOT TOUCH VERSION LINE WHEN CREATING PR
 
 ! Workaround for BlockAdBlock
@@ -7165,6 +7165,10 @@ urbandictionary.com##div[data-ad-slot]
 urbo.com##div.ad_unit
 urbo.com##section#above_content_ad
 urbo.com##section#sidebar_top_ad
+url.kr##article#bo_v+center
+url.kr##div.container>form>div[style="text-align: center;"]
+url.kr##div.jbMenu
+url.kr##section#bo_v_atc>div[style="text-align: center;"]
 url.kr##a[href^="https://coupa.ng/"]
 usatoday.com##div[id^="ad-position-"]
 usatoday.com##partner-banner
