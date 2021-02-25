@@ -1464,6 +1464,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||cdnprisms.pandora.tv/_adv_img/prism_ad/
 ||celeb.nann.co.kr^
 ||ceoscoredaily.com/data/banner^
+||cf-eba.everytime.kr^
 ||chaturbate.com/in/?*campaign=
 ||cine21.com/misc/iframe/ad_netinsight/$domain=cine21.com
 ||ciokorea.com/_common/banner/blank_black.php^$domain=ciokorea.com
@@ -3739,6 +3740,7 @@ etoland.co.kr##img[src^="../../img/banner/"]
 etoland.co.kr##img[src^="/img/net/banner/"]
 etoland.co.kr##div.m_market_area
 etoland.co.kr##div[style^="clear:both;margin-top:10px;padding:10px 0 10px 0;width:100%;text-align:center;"]
+everytime.kr##div[class^="banner"]
 expres.ua##div#rbTopLeaderboard
 expres.ua##div.AdxRB
 eye.seoul.co.kr##div#withpang_p
