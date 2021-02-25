@@ -1412,6 +1412,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||cdn.adstract.com/adstract/tags/xbanner/xbanner.js^
 ||cdn.adtive.com/js/notice.js^
 ||cdn.adtrue.com/rtb/async.js^
+||cdn.bizwatch.co.kr/ads/$domain=bizwatch.co.kr
 ||cdn.aicontents.net/js/*.js^
 ||cdn.blueconic.net/*.js^
 ||cdn.c-team.jp/tags/dokojs/ad*.js
@@ -3057,6 +3058,7 @@ bizhankook.com##div.banner
 bizhankook.com##div.bannerWrap
 bizhankook.com##div[class^="pcaddNew"]
 bizn.khan.co.kr##div.topright_bn
+bizwatch.co.kr##div.ad_bizwatch_main
 blackhatworld.com##div.ad_below_bottom_breadcrumb
 blackhatworld.com##div.ad_below_top_breadcrumb
 blackhatworld.com##div.ad_header
@@ -5894,6 +5896,7 @@ newdaily.co.kr##div.iwm_bip
 newdaily.co.kr##div.nd-news-ad-bottom
 newgrounds.com##div#afrc_skin
 newgrounds.com##div[class^="ng-ad-container-"]
+news.bizwatch.co.kr##ul.ad_bizwatch_right
 news.chosun.com##div.ad_aside_box
 news.chosun.com##div.ad_box
 news.chosun.com##div.ad_mid_box
