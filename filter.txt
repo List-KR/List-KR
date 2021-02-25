@@ -979,6 +979,8 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||ad.doubleclick.net^$domain=~thehackernews.com,third-party
 ||ad.doyouad.com/ad/script.js^
 ||ad.doyouad.com/ad/script.real.js^
+||ad.doyouad.com/ad/scriptJs^
+||ad.doyouad.com/ad/scriptRealJs^
 ||ad.doyouad.com/html/iframe.html^
 ||ad.dt.co.kr^
 ||ad.everytime.kr^
@@ -1785,7 +1787,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||ib.adnxs.com/ut/v3/prebid^
 ||ibabynews.com/script/bannerpop.js^$domain=ibabynews.com
 ||ichannela.com/ch/*adpost*
-||iframe.inews24.com/ad/$domain=inews24.com|v1.inews24.com
+||iframe.inews24.com/ad/$domain=inews24.com
 ||iframe.joynews24.com/ad/$domain=joynews24.com
 ||iicdn.com/www/delivery/afr.php^
 ||ik.yingfuer.com/$domain=btbit.org
@@ -4226,10 +4228,11 @@ imore.com##div.netshelter-ad
 imtorrent.com##div.container-main-top
 independent.co.uk##div.onscroll-injected-ad
 indi.s58.xrea.com##div#vdbanner
-inews24.com,v1.inews24.com##ad
-inews24.com,v1.inews24.com##container.ad-head
-inews24.com,v1.inews24.com##hr.ad
-inews24.com,v1.inews24.com##iframe[src^="http://iframe.inews24.com/ad/"]
+inews24.com##ad
+inews24.com##article#articleBody>container.h200px
+inews24.com##container.ad-head
+inews24.com##hr.ad
+inews24.com##iframe[src^="http://iframe.inews24.com/ad/"]
 inews365.com##a[href*="/news/banner_click.php"]
 insider.com##div.ad
 insider.com##div.l-ad
