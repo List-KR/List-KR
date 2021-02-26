@@ -2532,7 +2532,6 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||ssp.realclick.co.kr/realclickssp.js^
 ||sspi.adpopcorn.com/v2_sdk/banner^
 ||sspi.adpopcorn.com/v2_sdk/interstitial^
-||st.afreecatv.com/api/ad_block_api.php?*&szCheckType=adblock$replace=/&szAdblockUseFlag=y/&szAdblockUseFlag=n/
 ||st.bebi.com/bebi_v3.js^
 ||st.keywordsconnect.com^
 ||sta.vrixon.com/encvrix/zum/$domain=pip-player.zum.com
