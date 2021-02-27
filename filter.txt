@@ -2007,6 +2007,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||livecodi.com/data/file/top_01/$domain=livecodi.com
 ||lkp.news/data/banner/$domain=lkp.news
 ||loader.fmkorea.com/_loader/loader.php^$domain=fmkorea.com|m.fmkorea.com
+||loader.fmkorea.com/_myphp/adpost/$domain=fmkorea.com
 ||log.adtive.com/noticead/adinfo/js/notice.js^
 ||logapi.tv.naver.com^
 ||longkeyone.co.kr^
