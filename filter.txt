@@ -2728,6 +2728,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||you.claremedia.co.kr/clare/*/*/*.js^
 ||youtube.com/get_midroll_info^
 ||youtube.com/get_video_info?*el=adunit
+||youtube.com/youtubei/v1/player/ad_break^
 ||ytn.co.kr/img/ad/
 ||ytn.co.kr/inc_banner/Ad_gisabottom2.php^$domain=ytn.co.kr
 ||ytn.co.kr/inc_banner/Ad_TI.js^$domain=ytn.co.kr
