@@ -4,7 +4,7 @@
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
 ! DO NOT TOUCH VERSION LINE WHEN CREATING PR
-! Version: 20210226
+! Version: 20210227
 ! DO NOT TOUCH VERSION LINE WHEN CREATING PR
 
 ! Workaround for BlockAdBlock
@@ -6208,6 +6208,7 @@ nownews.seoul.co.kr##iframe#ifrm_photolink
 nyaa.se##div#main>div[style="float:left;margin-bottom:6px;"]
 nyaa.se##div#main>div[style="float:left;width:100%;"]
 nyaa.se##div#main>div[style="float:right;margin-top:4px;width:12%;"]
+nypost.com##div.billboard-ad
 nytimes.com##div#acm-wrapper
 nytimes.com##div#bottom-wrapper
 nytimes.com##div#top-wrapper
