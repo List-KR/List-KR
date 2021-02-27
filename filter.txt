@@ -6392,6 +6392,11 @@ platum.kr##div.ad-five
 platum.kr##div.platum_ad
 platum.kr##div.ppb_ads
 platum.kr##li.Grand_News_Custom_Ads
+play.afreecatv.com###ad_video
+play.afreecatv.com##.promotion_area
+play.afreecatv.com##.promotion_area_left
+play.afreecatv.com##.promotion_area_right
+play.afreecatv.com##.text_output
 play.afreecatv.com##a.adcon-area
 play.kakao.com##a.link_banner
 playwares.com##a.sub_banner_element
