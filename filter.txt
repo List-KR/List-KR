@@ -1769,7 +1769,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||hygall.com/box/kakao_scroll50.html^$domain=hygall.com
 ||i-honam.com/banner/$domain=i-honam.com
 ||i.011st.com/ui_img/adoffice/creative/js/adcreative.min.js^
-||i.imgur.com^$domain=jujutorrent18.com|torrentgram3.com|torrent-rg.net
+||i.imgur.com^$domain=jujutorrent18.com|torrentgram3.com|torrent-rg.net|marumaru.cam
 ||i.ligatus.com/angular_front/tags/it/notizie/tags/angular-tag.js^
 ||i.mediatraffic.com.ua/js/uho/mt20_3.js^
 ||i.socdm.com/sdk/js/adg-script-loader.js^
@@ -5550,13 +5550,7 @@ marshmallow-qa.com##body>div.my-4
 marshmallow-qa.com##li.ad
 marshmallow-qa.com##main.container>div.my-4
 map.naver.com##div.promotion_wrap
-marumaru.city##div.w_banner
-marumaru.ski##div.banner_m
-marumaru.ski,marumaru.ninja##div.w_banner
-marumaru.tel##div.banner_m
-marumaru.tel##div.w_banner
-marumaru.tel##img[src^="https://i.imgur.com"]
-marumaru.voto##div.w_banner
+marumaru.cam##img[src^="https://i.imgur.com"]
 mashable.com##div#sticky-slot
 mashable.com##div#sticky-spacer
 mashable.com##div.ad
