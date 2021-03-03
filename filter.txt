@@ -1998,6 +1998,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||lightad.co.kr/Lightcoms/
 ||lightasp.dmcmedia.co.kr/adixs/
 ||linkmoya1.com/data/banner/$domain=linkmoya1.com
+||linsoo.co.kr/linsoo-statistics-visitor.php^
 ||linuxconfig.org/images/banners/$domain=linuxconfig.org
 ||live.sekindo.com/live/liveView.php^
 ||livecodi.com/data/file/apms/$domain=livecodi.com
