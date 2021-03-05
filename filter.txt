@@ -4,7 +4,7 @@
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
 ! DO NOT TOUCH VERSION LINE WHEN CREATING PR
-! Version: 20210303
+! Version: 20210306
 ! DO NOT TOUCH VERSION LINE WHEN CREATING PR
 
 ! Workaround for BlockAdBlock
@@ -1769,7 +1769,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||hygall.com/box/kakao_scroll50.html^$domain=hygall.com
 ||i-honam.com/banner/$domain=i-honam.com
 ||i.011st.com/ui_img/adoffice/creative/js/adcreative.min.js^
-||i.imgur.com^$domain=jujutorrent18.com|torrentgram3.com|torrent-rg.net|marumaru.cam
+||i.imgur.com^$domain=jujutorrent18.com|torrentgram3.com|torrent-rg.net
 ||i.ligatus.com/angular_front/tags/it/notizie/tags/angular-tag.js^
 ||i.mediatraffic.com.ua/js/uho/mt20_3.js^
 ||i.socdm.com/sdk/js/adg-script-loader.js^
@@ -1998,7 +1998,6 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||lightad.co.kr/Lightcoms/
 ||lightasp.dmcmedia.co.kr/adixs/
 ||linkmoya1.com/data/banner/$domain=linkmoya1.com
-||linsoo.co.kr/linsoo-statistics-visitor.php^
 ||linuxconfig.org/images/banners/$domain=linuxconfig.org
 ||live.sekindo.com/live/liveView.php^
 ||livecodi.com/data/file/apms/$domain=livecodi.com
@@ -2008,7 +2007,6 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||livecodi.com/data/file/top_01/$domain=livecodi.com
 ||lkp.news/data/banner/$domain=lkp.news
 ||loader.fmkorea.com/_loader/loader.php^$domain=fmkorea.com|m.fmkorea.com
-||loader.fmkorea.com/_myphp/adpost/$domain=fmkorea.com
 ||log.adtive.com/noticead/adinfo/js/notice.js^
 ||logapi.tv.naver.com^
 ||longkeyone.co.kr^
@@ -5551,7 +5549,13 @@ marshmallow-qa.com##body>div.my-4
 marshmallow-qa.com##li.ad
 marshmallow-qa.com##main.container>div.my-4
 map.naver.com##div.promotion_wrap
-marumaru.cam##img[src^="https://i.imgur.com"]
+marumaru.city##div.w_banner
+marumaru.ski##div.banner_m
+marumaru.ski,marumaru.ninja##div.w_banner
+marumaru.tel##div.banner_m
+marumaru.tel##div.w_banner
+marumaru.tel##img[src^="https://i.imgur.com"]
+marumaru.voto##div.w_banner
 mashable.com##div#sticky-slot
 mashable.com##div#sticky-spacer
 mashable.com##div.ad
@@ -7034,6 +7038,8 @@ topstarnews.net##iframe[src^="http://www.topstarnews.net/html/default/html_tpl_m
 torrentboza2.com,torrentboja.net##div#floatdiv
 torrentboza2.com,torrentboja.net##div.ad_table_b
 torrentboza2.com,torrentboja.net##div.basic-banner
+torrentdia.com,torrentdia2.com##div.left_banner
+torrentdia.com,torrentdia2.com##div.top_bimg
 torrenthaja.com,torrenthaja1.com##div.main-banner
 torrenthaja.com,torrenthaja1.com##div.side-banner
 torrentissue19.com##img.border2
@@ -7351,9 +7357,7 @@ windowsreport.com##div.code-block-18
 windowsreport.com##div.code-block-19
 windowsreport.com##div.code-block-25
 windowsreport.com##div.code-block-31
-wired.com##div.ad
 wired.com##div.advertisement__leaderboard
-wired.com##div.full-bleed-ad
 wired.com##div.mid-banner-wrap
 wnx-ir.com#@#a[href*="//wnx-ir.com"]
 womad.me##div#sticky
