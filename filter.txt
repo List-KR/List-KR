@@ -2095,7 +2095,8 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||magento-analytics.com/gate.php^
 ||mainclc.com/*/*/*/*.js^
 ||manatoki*.net/data/banner/
-||manhwamoa3.com/data/apms/
+||manhwamoa4.com/data/apms/
+||manhwamoa5.com/data/apms/
 ||mangahub.io/iframe/ra^$domain=mangahub.io
 ||marketingking.co.kr/pr/ad.js^
 ||marketingking.co.kr/pr/s_ad.js^
@@ -5536,7 +5537,7 @@ makeuseof.com##div.ad-zone-container
 mana08.com##div#about
 manatoki88.net###main-banner-view
 manatoki88.net##.hd_pops
-manhwamoa3.com##div.basic-banner-gallery
+manhwamoa4.com,manhwamoa5.com##div.col-sm-12.photo-box
 mangafox.me##div.ad
 mangahub.io##div.ads-container
 mangahub.io##div[id^="rn_ad_native_"]
