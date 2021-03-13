@@ -2095,8 +2095,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||magento-analytics.com/gate.php^
 ||mainclc.com/*/*/*/*.js^
 ||manatoki*.net/data/banner/
-||manhwamoa4.com/data/apms/
-||manhwamoa5.com/data/apms/
+||manhwamoa*.com/data/apms/
 ||mangahub.io/iframe/ra^$domain=mangahub.io
 ||marketingking.co.kr/pr/ad.js^
 ||marketingking.co.kr/pr/s_ad.js^
