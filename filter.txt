@@ -3,9 +3,9 @@
 ! Homepage: https://list-kr.github.io
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
-! DO NOT TOUCH VERSION LINE WHEN CREATING PR
-! Version: 20210306
-! DO NOT TOUCH VERSION LINE WHEN CREATING PR
+! DO NOT EDIT VERSION NUMBER
+! Version: 20210317
+! ONLY DEVELOPER CAN EDIT THAT
 
 ! Workaround for BlockAdBlock
 #@#.pub_300x250
@@ -7609,6 +7609,7 @@ sshdd.co.kr#%#Object.defineProperties(window, { _wm: { get: function(){ return n
 802.11ac.net$$script[tag-content="window.addEventListener"]
 c11.kr$$script[tag-content="adblock"]
 dcinside.com$$script[tag-content="function adBlockDetected()"]
+gamedot.org$$script[tag-content^="function blockCheck"]
 gall.dcinside.com$$tr[class="ub"][tag-content="<a href='http://addc.dcinside.com"]
 koreapas.com$$script[tag-content="function adBlockDetected()"]
 linsoo.co.kr$$script[tag-content="n.innerHTML"]
