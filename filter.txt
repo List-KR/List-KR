@@ -5853,6 +5853,7 @@ namu.wiki##aside>div:nth-of-type(3)
 namu.wiki##aside>div:nth-of-type(4)
 namu.wiki##div#tchika2570bdb2
 namu.wiki##div.ad
+namu.wiki##div.app > div:nth-child(3) > div:not(:first-child)
 namu.wiki##div.namuwiki-toc-ad
 namu.wiki##div.news-list-card
 namu.wiki##div.test-ad-card
