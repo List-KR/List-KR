@@ -2607,6 +2607,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||todayan.com/banner/rollbanner_*.html^$domain=todayan.com
 ||todaykorea.co.kr/data/banner/$domain=todaykorea.co.kr
 ||topstarnews.net/html/default/html_tpl_mobile/ad/$domain=topstarnews.net
+||torrent*.com/data/zn_bimg/
 ||torrentbe.com/banner/
 ||torrentboza.com/banner/
 ||torrentboza.net/banner/
@@ -7050,8 +7051,6 @@ topstarnews.net##iframe[src^="http://www.topstarnews.net/html/default/html_tpl_m
 torrentboza2.com,torrentboja.net##div#floatdiv
 torrentboza2.com,torrentboja.net##div.ad_table_b
 torrentboza2.com,torrentboja.net##div.basic-banner
-torrentdia.com,torrentdia2.com##div.left_banner
-torrentdia.com,torrentdia2.com##div.top_bimg
 torrenthaja.com,torrenthaja1.com##div.main-banner
 torrenthaja.com,torrenthaja1.com##div.side-banner
 torrentissue19.com##img.border2
