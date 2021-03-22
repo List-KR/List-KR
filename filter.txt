@@ -2370,6 +2370,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||resources.infolinks.com/static/quantcast/quantcast.js^
 ||reuters.com/reuters_gpt_bootstrap.js^$domain=reuters.com
 ||reviewstar.hankooki.com/ad/
+||reurl.kr/data/bbs/
 ||rmprepusb.com/porpoiseant/banger.js^$domain=rmprepusb.com
 ||rsense-ad.realclick.co.kr/rsense/rsense_ad.js^
 ||rsense-ad.realclick.co.kr/rsense/view_ad_adcrm.html^
@@ -6510,6 +6511,7 @@ redstate.com##div.ad-300x250
 redstate.com##div.banner-ad
 redstate.com##div.row>div.ad.col-xs-4
 redstate.com##div.row>div.ad.col-xs-6
+reurl.kr##img[src^="../../data/bbs/"]
 reuters.com##div.ArticlePage_ad-wrap
 reuters.com##div.CanvasAd_container
 reuters.com##div.DPSlot_container
