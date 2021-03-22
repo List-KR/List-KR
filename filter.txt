@@ -1772,7 +1772,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||hygall.com/box/kakao_scroll50.html^$domain=hygall.com
 ||i-honam.com/banner/$domain=i-honam.com
 ||i.011st.com/ui_img/adoffice/creative/js/adcreative.min.js^
-||i.imgur.com^$domain=jujutorrent18.com|torrentgram3.com|torrent-rg.net
+||i.imgur.com^$domain=jujutorrent18.com|torrentgram3.com|torrent-rg.net|torrentqq78.com
 ||i.ligatus.com/angular_front/tags/it/notizie/tags/angular-tag.js^
 ||i.mediatraffic.com.ua/js/uho/mt20_3.js^
 ||i.socdm.com/sdk/js/adg-script-loader.js^
@@ -7077,6 +7077,7 @@ torrentsir18.com##div[style="margin-right: 0px;margin-left: -0px"]
 torrentsee36.com##.mmbannel
 torrentsee36.com##div[class="mmnewlist row"]
 torrentwiz10.me##div[class="npia-board-gallery"]
+torrentqq78.com##a[href^="https://torrentqq78.com/ads/"]
 touch.pixiv.net##body>div>div[style="height: 80px; position: fixed; z-index: 998; bottom: 0; width: 100%; display: block; text-align: center; background-color: rgba(0,0,0,1);"]
 touch.pixiv.net##body>div>div[style="height: 80px; position: fixed; z-index: 998; bottom: 0px; width: 100%; text-align: center; background-color: rgb(0, 0, 0);"]
 touch.pixiv.net##div.ad-container
