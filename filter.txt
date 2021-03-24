@@ -7078,6 +7078,8 @@ torrentmoatv.com##div.contents>div.xe_content>div[style="padding:0px 0px 0px 0px
 torrentmoatv.com##div.contents>div>center
 torrentmoatv.com##div.left_widget_wrap
 torrentmoatv.com##div.rd_ft>b>b>center
+torrentqq79.com##div.at-banner
+torrentqq79.com##td.at-banner
 torrentsir18.com##div[id="hd_pop"]
 torrentsir18.com##div[style="margin-right: 0px;margin-left: -0px"]
 torrentsee36.com##.mmbannel
