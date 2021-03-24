@@ -6903,7 +6903,6 @@ tfmedia.co.kr##div.com_ban
 tfnews.co.kr##div.banner_wrap
 tfnews.co.kr##div.com_ban
 tfnews.co.kr##div.top_banner
-tgd.kr###article-list > div:nth-of-type(3)
 tgd.kr###article-list-category + div
 tgd.kr###main-menu > div:last-child
 tgd.kr##a[href*="/trk/click"]
