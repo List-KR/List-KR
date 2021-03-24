@@ -4,7 +4,7 @@
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
 ! DO NOT EDIT VERSION NUMBER
-! Version: 20210317
+! Version: 20210324
 ! ONLY DEVELOPER CAN EDIT THAT
 
 ! Workaround for BlockAdBlock
@@ -2366,7 +2366,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||redir.adap.tv/redir/mobile/mobile-ad-source.html^
 ||render.helios.ligatus.com/ligrend.js^
 ||res.ads.nicovideo.jp/assets/js/ads*.js^$domain=nicovideo.jp
-||res.heraldm.com/adbanner/$domain=biz.heraldcorp.com|news.heraldcorp.com
+||res.heraldm.com/adbanner/$domain=biz.heraldcorp.com|koreaherald.com|mbiz.heraldcorp.com|news.heraldcorp.com|pop.heraldcorp.com
 ||res.heraldm.com/iframe/
 ||res.heraldm.com/js/ad/
 ||resources.infolinks.com/js/infolinks_main.js^
@@ -3020,27 +3020,7 @@ biz.chosun.com##div.ad_gg_top
 biz.chosun.com##div.biz_left_ad
 biz.chosun.com##div.biz_right_ad
 biz.chosun.com##div.list_ad
-biz.heraldcorp.com,jj.heraldcorp.com,news.heraldcorp.com##div#articleText>div[style="background:#f0f0f0; padding:15px 15px 15px 15px; margin-top:5px; margin-bottom:5px; text-align: center; "]
-biz.heraldcorp.com,jj.heraldcorp.com,news.heraldcorp.com##div#FadeADLayer
-biz.heraldcorp.com,jj.heraldcorp.com,news.heraldcorp.com##div#img_top_ad1
-biz.heraldcorp.com,jj.heraldcorp.com,news.heraldcorp.com##div#photo_ad_left
-biz.heraldcorp.com,jj.heraldcorp.com,news.heraldcorp.com##div#photo_ad_right
-biz.heraldcorp.com,jj.heraldcorp.com,news.heraldcorp.com##div#siteleft_banner1
-biz.heraldcorp.com,jj.heraldcorp.com,news.heraldcorp.com##div#siteleft_banner2
-biz.heraldcorp.com,jj.heraldcorp.com,news.heraldcorp.com##div#wp_edge_mobon
-biz.heraldcorp.com,jj.heraldcorp.com,news.heraldcorp.com##div.ad_1
-biz.heraldcorp.com,jj.heraldcorp.com,news.heraldcorp.com##div.ad_10
-biz.heraldcorp.com,jj.heraldcorp.com,news.heraldcorp.com##div.ad_2
-biz.heraldcorp.com,jj.heraldcorp.com,news.heraldcorp.com##div.ad_5
-biz.heraldcorp.com,jj.heraldcorp.com,news.heraldcorp.com##div.ad_7[style="background-color:#FFF; padding: 30px 0 0 0;"]
-biz.heraldcorp.com,jj.heraldcorp.com,news.heraldcorp.com##div.ad_7[style="margin:0"]
-biz.heraldcorp.com,jj.heraldcorp.com,news.heraldcorp.com##div.ad_8
-biz.heraldcorp.com,jj.heraldcorp.com,news.heraldcorp.com##div.ad_9
-biz.heraldcorp.com,jj.heraldcorp.com,news.heraldcorp.com##div.banner_1024_1024
-biz.heraldcorp.com,jj.heraldcorp.com,news.heraldcorp.com##div.header>div[align="center"][style="padding-bottom:10px; width:100%;height:90px;"]
-biz.heraldcorp.com,jj.heraldcorp.com,news.heraldcorp.com##div.wrap>div[style="position:absolute;left:50%;margin-left:-680px"]
-biz.heraldcorp.com,jj.heraldcorp.com,news.heraldcorp.com##iframe[src^="/advertisement/ad_fadein_"][src*=".php"]
-biz.heraldcorp.com,jj.heraldcorp.com,news.heraldcorp.com##iframe[src^="/extcont/keywordlink_herald_new_"][src*=".html"]
+biz.heraldcorp.com,jj.heraldcorp.com,news.heraldcorp.com##div[class^="ad"]
 biz.khan.co.kr##div[data-widget_id="GlGPdbXx"]
 biz.khan.co.kr##div[data-widget_id="zlvv60l8"]
 biz.khan.co.kr,lady.khan.co.kr,news.khan.co.kr##div.ad_movFocus2
@@ -5582,26 +5562,9 @@ mbcsportsplus.com##div#allBg
 mbcsportsplus.com##div[class^="rnb_slider"]
 mbcsportsplus.com##div.side_banner
 mbcsportsplus.com##div.side_banner01
-mbiz.heraldcorp.com##div#articleText>p[style="margin:5px 0 ;width:100%; text-align:center; "]
-mbiz.heraldcorp.com##div#cmad_skin
-mbiz.heraldcorp.com##div#wrap>div[style="padding:10px 0px ; width:100%;  text-align:center;"]
-mbiz.heraldcorp.com##div#wrap>div[style="position: fixed; bottom: 0px; width: 100%; height: 50px; z-index: 1001; left: 0px;  text-align: center; background-color: #EEEEEE;"]
-mbiz.heraldcorp.com##div#wrap>div[style="text-align: center; padding-top: 10px; "]
-mbiz.heraldcorp.com##div#wrap>div[style="width:100%; height:180px; text-align:center; background-color:#FFF; padding:10px 0 0 0;"]
-mbiz.heraldcorp.com##div#wrap>div[style="width:100%; height:50px; text-align:center;"]
-mbiz.heraldcorp.com##div#wrap>div[style="width:100%; height:60px; text-align:center;"]
-mbiz.heraldcorp.com##div.ad
-mbiz.heraldcorp.com##div.ad_2
-mbiz.heraldcorp.com##div.ad_4
-mbiz.heraldcorp.com##div.story
-mbiz.heraldcorp.com##div[id^="adintext"]
-mbiz.heraldcorp.com##div[id^="adsmnc"]
-mbiz.heraldcorp.com##li[id^="adsmnc"]
-mbiz.heraldcorp.com##span[id^="adintext"]
-mbiz.heraldcorp.com##span[id^="adsmnc"]
-mbiz.heraldcorp.com##span[id^="mfarm_text"]
-mbiz.heraldcorp.com##ul.text_ad
-mbiz.heraldcorp.com##ul[id^="adsmnc"]
+mbiz.heraldcorp.com##div#contad4
+mbiz.heraldcorp.com##div[class^="ad_"]
+mbiz.heraldcorp.com##p#contad3
 mbn.mk.co.kr##div#bottom_ad
 mbn.mk.co.kr##div#right_hot_movie
 mbn.mk.co.kr##div#right_info
@@ -5760,6 +5723,20 @@ mp3cc.com##iframe[src^="/api/iframe/in_playlist_1"]
 mp3cc.com##iframe[src^="/api/iframe/in_playlist_2"]
 mp3cc.com##iframe[src^="/api/iframe/stickyblock"]
 mp3cc.com##li.playlist-ad
+mpop.heraldcorp.com##div#ad20160801_1
+mpop.heraldcorp.com##div#ad20160801_2
+mpop.heraldcorp.com##div#ad20160801_3
+mpop.heraldcorp.com##div#newslist1
+mpop.heraldcorp.com##div.story2
+mpop.heraldcorp.com##div[id^="ad4989_"]
+mpop.heraldcorp.com##div[id^="adintext"]
+mpop.heraldcorp.com##div[id^="adsmnc"]
+mpop.heraldcorp.com##div[id^="mnc_hrdp_"]
+mpop.heraldcorp.com##span[id^="adintext"]
+mpop.heraldcorp.com##span[id^="adsmnc"]
+mpop.heraldcorp.com##span[id^="byline_ad_"]
+mpop.heraldcorp.com##span[id^="mfarm_text"]
+mpop.heraldcorp.com##ul#adsmnctext
 mpgh.net##a[href*="/forum/showthread.php?t=877513"]
 msearch.shopping.naver.com##div._3vBuLfqo2W
 msearch.shopping.naver.com##div._5Xxa0muasn
@@ -6423,6 +6400,10 @@ polinews.co.kr##div.com_ban
 polinews.co.kr##div.news_con>div>div[style="clear:both;margin-top:6px;margin-bottom:10px;margin-left:10px;text-align:center;float:right;max-width:200px;max-height:200px;"]
 polinews.co.kr##div.news_con>div>div[style="clear:both;margin:0 auto;text-align:center;max-width:336px;max-height:280px;"]
 polinews.co.kr##iframe[src^="/data/ad/"]
+pop.heraldcorp.com##div#ADLEFT_UNI
+pop.heraldcorp.com##div#aside div.ad.aside
+pop.heraldcorp.com##div#content>div[style="margin:10px 0 10px 20px; width:300px; height:250px;  float: left; "]
+pop.heraldcorp.com##div#content>div[style="margin:10px 20px 10px 0; width:300px; height:250px; float: right; "]
 pomelove.com##div#sky_banner
 pomelove.com##div[style="margin-top:5px;height:250px;background-color: #FDFDFD;"]
 popit.kr##div.ant-layout-content>div[style="width:310px;margin-left:20px;float:left"]>div[style="width:300px;height:300px"]
@@ -7074,10 +7055,6 @@ torrentmap.com##li[class*="gnb_1dli"][style="z-index: 999;"]
 torrentmap.com##li[style="border:1px red solid; border-top:2px red solid; background:#ffffcc; box-shadow: 3px 3px 3px  rgba(0, 0, 0, 0.2); cursor:pointer;"]
 torrentmap.com##li[style="border:1px solid #ddd; background:#f8f8f8; cursor:pointer;"]
 torrentmap.com##ul.banner
-torrentmoatv.com##div.contents>div.xe_content>div[style="padding:0px 0px 0px 0px !important;"]
-torrentmoatv.com##div.contents>div>center
-torrentmoatv.com##div.left_widget_wrap
-torrentmoatv.com##div.rd_ft>b>b>center
 torrentqq79.com##div.at-banner
 torrentqq79.com##td.at-banner
 torrentsir18.com##div[id="hd_pop"]
