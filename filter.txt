@@ -7052,9 +7052,9 @@ topstarnews.net##iframe[src^="http://www.topstarnews.net/html/default/html_tpl_m
 torrentboza2.com,torrentboja.net##div#floatdiv
 torrentboza2.com,torrentboja.net##div.ad_table_b
 torrentboza2.com,torrentboja.net##div.basic-banner
-torrentdia3.com##div.left_banner
-torrentdia3.com##div.side_bimg
-torrentdia3.com##div.top_bimg
+torrentdia3.com,torrentonly1.com##div.left_banner
+torrentdia3.com,torrentonly1.com##div.side_bimg
+torrentdia3.com,torrentonly1.com##div.top_bimg
 torrenthaja.com,torrenthaja1.com##div.main-banner
 torrenthaja.com,torrenthaja1.com##div.side-banner
 torrentissue19.com##img.border2
@@ -7082,6 +7082,8 @@ torrentsir18.com##div[id="hd_pop"]
 torrentsir18.com##div[style="margin-right: 0px;margin-left: -0px"]
 torrentsee36.com##.mmbannel
 torrentsee36.com##div[class="mmnewlist row"]
+torrentsee48.com##div.mmbannel
+torrentsee48.com##div.tads1
 torrentwiz10.me##div[class="npia-board-gallery"]
 torrentqq78.com##a[href^="https://torrentqq78.com/ads/"]
 touch.pixiv.net##body>div>div[style="height: 80px; position: fixed; z-index: 998; bottom: 0; width: 100%; display: block; text-align: center; background-color: rgba(0,0,0,1);"]
