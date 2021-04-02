@@ -5503,6 +5503,7 @@ macrumors.com##div#contentAd
 macrumors.com##div#sideAd
 macrumors.com##div.ad
 macrumors.com##div.sidebarblock
+macrumors.com##div.sidebarblock2
 macrumors.com##div.tertiary
 macstories.net##div.ad-container
 macworld.com##div#amazon-bottom-widget
