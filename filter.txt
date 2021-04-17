@@ -1873,6 +1873,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||imp.valuepotion.com/mimp^
 ||implay.busan.com/media/busan/article/img/banner_top_ad.jpg^$domain=implay.busan.com
 ||implay.busan.com/media/busan/article/img/right_ad*.jpg^$domain=implay.busan.com
+||impr.taboola.com/CreativeDisplayer?adId=
 ||impression-neo.naver.com^
 ||inews365.com/data/banner/
 ||insight.adsrvr.org/enduser/vast/
