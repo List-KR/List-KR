@@ -4371,6 +4371,7 @@ jnewstimes.com##div.banner0301
 jnewstimes.com##div.banner_aside01
 jnewstimes.com##div.banner_aside02
 jnewstimes.com##div.view01_banner01
+jobkorea.co.kr##div.ad
 jnilbo.com##div#ad_popup4
 jmagazine.joins.com##img[src^="/data/banner"]
 joara.com##div.banner
