@@ -30,7 +30,7 @@
 @@||ssl.pstatic.net/static.pay/o/c/commonjs/static/js/common/lcslog^$domain=naver.com
 @@||vads-api.ad.daum.net/xylophone/adrequest/vmap/
 @@||webid.ad.daum.net^
-@@/script/bannerpop.js$domain=mindpost.co.kr
+@@/script/bannerpop.js$domain=mindpost.or.kr
 
 ! Exceptions for anti-adblock scripts
 @@||koreapas.com^$generichide
