@@ -1647,6 +1647,7 @@ yug-ppl.com#@#a[href*="//yug-ppl.com"]
 ||edaily.co.kr/resources/html/templates/realMediaAD.asp^$domain=edaily.co.kr
 ||edaily.co.kr/v2/iframe/iwAD.asp^$domain=edaily.co.kr
 ||edgecastcdn.net/0004FA/tagman/WAIT/lib.js^
+||egloos.zum.com/frame/pc/send^$domain=egloos.zum.com
 ||eimg.donga.com/home2011/js/scrollBanner.js^
 ||ekn.kr/data/design/content/imgswf_*.*
 ||electimes.com/banner/
