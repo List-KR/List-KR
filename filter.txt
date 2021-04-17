@@ -3942,6 +3942,7 @@ gigglehd.com##div#container>div.section>div.xe-widget-wrapper>div>div.nw_box
 gigglehd.com##div#gap>div:nth-of-type(4)[style="BACKGROUND-IMAGE: none; BORDER-BOTTOM: rgb(0,0,0) 0px solid; BORDER-LEFT: rgb(0,0,0) 0px solid; MARGIN: 0px; WIDTH: 820px; BACKGROUND-REPEAT: repeat; BACKGROUND-POSITION: 0% 0%; FLOAT: left; HEIGHT: 60px; BORDER-TOP: rgb(0,0,0) 0px solid; BORDER-RIGHT: rgb(0,0,0) 0px solid;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"]
 gigglehd.com##div#gap>div:nth-of-type(9)[style="float: left; width: 100%; border-width: 0px; border-style: solid; border-color: rgb(0, 0, 0); margin: 0px; background-color: transparent; background-image: none; background-repeat: repeat; background-position: 0% 0%;;;;;;;;;;;;;"]
 gigglehd.com##div.widget_banner_skin
+gizmodo.com##div#commerce-inset-wrapper
 gizmodo.com##div#taboola-top-banner-abp
 gizmodo.com##div.ad-container
 gizmodo.com##div.ad-infinite-promotion
@@ -3949,13 +3950,13 @@ gizmodo.com##div.ad-mobile
 gizmodo.com##div.ad-promotions-container
 gizmodo.com##div.ad-starter-pageview
 gizmodo.com##div.ad-top
-##iframe[src*="//ad.ilikesponsorad.co.kr/"]
-##iframe[src*="//ad.linkprice.com/cpc/cpc_wrapper2.php"]
 gizmodo.com##div.ad-unit
 gizmodo.com##div.ad-wide
 gizmodo.com##div.inline-ad-container
 gizmodo.com##div.js_ad-below-comments
 gizmodo.com##div.js_ad-dynamic
+gizmodo.com##div.js_commerce-inset-permalink
+gizmodo.com##div.js_sticky-top-ad
 gizmodo.com##div.splashy-ad-container
 gogoanimes.co##body>div>div[style="width:100%;height:768px;position:fixed;left:0;top:0px;overflow:hidden;visibility:hidden;z-index:0"]
 gogoanimes.co##div#load_ads_2
