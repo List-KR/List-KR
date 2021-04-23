@@ -6222,6 +6222,7 @@ ppomppu.co.kr##div[id^="pp_ban_"]
 ppomppu.co.kr##iframe[id^="if_"][id$="_bn"]
 ppomppu.co.kr##iframe[src^="/banner/_loader_bbs_list_origin.php"]
 ppomppu.co.kr##p.banner_553
+ppss.kr##div[id^="ppss_wing_banner_"]
 ppss.kr##div#ppss_ad2
 ppss.kr##div.ap_container.google-auto-placed
 ppss.kr##div.userContent>div.dable_placeholder
