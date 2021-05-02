@@ -7060,8 +7060,12 @@ w17.leadership14.site##div#mobonIframe_21379
 w17.leadership14.site##div[id^=AD_]
 w17.leadership14.site##iframe[src^="https://t.co/XHHkjBVDq2"]
 w61.zona.plus##div#advideo_adv_container
+washingtonpost.com##div#leaderboard-wrapper
 washingtonpost.com##div.has-subscribe-promo
 washingtonpost.com##div[class*="-ad-"]
+washingtonpost.com##div[data-qa="article-body-ad"]
+washingtonpost.com##div[data-qa="right-rail-ad"]
+washingtonpost.com##div[data-sc-c="adslot"]
 watch.impress.co.jp##aside.ad.billboard
 watch.impress.co.jp##aside.ad.bottom
 watch.impress.co.jp##aside.ad.haikei
