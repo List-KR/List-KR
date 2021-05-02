@@ -2681,7 +2681,9 @@ arca.live##div.ad
 arstechnica.com##aside#ad-top
 arstechnica.com##aside.ad
 arstechnica.com##aside.ad_native
+arstechnica.com##aside.ad_wrapper
 arstechnica.com##div#bottomBanner320x51_frame
+arstechnica.com##div#sponsored-recommendations
 arstechnica.com##div.cns-ads-stage
 arstechnica.com##div.instream-wrap
 art.chosun.com##iframe[src^="http://art.chosun.com/common/r_banner/index.html"]
