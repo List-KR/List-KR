@@ -1538,6 +1538,7 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||hankyung.com/m/inc/fixed_mobile_ad_area_view.html^
 ||hb.vntsm.com/v2/live/hb.js^
 ||hb.vntsm.com/v3/live/ad-manager.min.js^
+||hbr.org/resources/js/components/overlay-intromercial/intromercial_*.js^$domain=hbr.org
 ||health.chosun.com/js/2015/center_botbanner_2015s.js^$domain=health.chosun.com
 ||health.chosun.com/js/2015/center_mtree_2015s.js^$domain=health.chosun.com
 ||health.chosun.com/js/2015/right_bestdoctor_2015s.js^$domain=health.chosun.com
@@ -3101,7 +3102,7 @@ cultofmac.com##div.ad-region
 cultofmac.com##div.ezo_ad
 cultofmac.com##section.ad-region
 cultofmac.com##section.header-ad-region
-cultureland.co.kr#%#//scriptlet('abort-current-inline-script', 'NewWindow', '/\/etc\/main_AD_+\.do/') 
+cultureland.co.kr#%#//scriptlet('abort-current-inline-script', 'NewWindow', '/\/etc\/main_AD_+\.do/')
 cyberciti.biz##aside#secondary>section#custom_html-4
 cyberciti.biz##aside#secondary>section#custom_html-5
 cyberciti.biz##aside#secondary>section#custom_html-6
@@ -3827,6 +3828,9 @@ hankyung.com##div.info_today
 hankyung.com##div.joy_info
 hankyung.com##div.list_ad
 hankyung.com##div.wrap_list
+hbr.org##div.ad-container
+hbr.org##div.partner-center__ads-container
+hbr.org##li.stream-entry[js-target="stream-ad-container"]
 hdblog.it##div.ads
 hdblog.it##div.gad_container
 hdblog.it##div[id^="banner2"]
