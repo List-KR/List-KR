@@ -4,7 +4,7 @@
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
 ! DO NOT EDIT VERSION NUMBER
-! Version: 20210417
+! Version: 20210502
 ! ONLY DEVELOPER CAN EDIT THAT
 
 ! Workaround for BlockAdBlock
@@ -1804,6 +1804,7 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||livecodi.com/data/file/top_01/$domain=livecodi.com
 ||lkp.news/data/banner/$domain=lkp.news
 ||loader.fmkorea.com/_loader/loader.php^$domain=fmkorea.com|m.fmkorea.com
+||log-upload-os.mihoyo.com^
 ||log.adtive.com/noticead/adinfo/js/notice.js^
 ||logapi.tv.naver.com^
 ||longkeyone.co.kr^
@@ -7003,6 +7004,7 @@ vanityfair.com##div[data-widget-id="AR_14"]
 variety.com##div.admz
 vasi.net##div.test_block
 vice.com##div.ad-unit__container__container
+vidcloud.msk.ru##div#overlay-center
 video.animoe.us##div#fbanner
 video.animoe.us##div.ad
 video.fenglin.to##div#ad_bar1
