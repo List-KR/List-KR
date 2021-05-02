@@ -6704,7 +6704,6 @@ tfmedia.co.kr##div.com_ban
 tfnews.co.kr##div.banner_wrap
 tfnews.co.kr##div.com_ban
 tfnews.co.kr##div.top_banner
-tgd.kr###article-list-category + div
 tgd.kr###main-menu > div:last-child
 tgd.kr##a[href*="/trk/click"]
 tgd.kr##a[href^="https://toptoon.com"]
@@ -7350,6 +7349,8 @@ zum.com##div#wrap_ad_main
 zum.com##div#wrap_ad_minisite
 
 ! Extended CSS rules
+tgd.kr#?#div[id^="div-gpt-ad-"]:upward(div[style*="background:"])
+tgd.kr#?#div[style*="flex:"][style*="text-align:"][style*="vertical-align"][-ext-contains="AD"]:upward(div[style*="background:"])
 gigglehd.com##.xe-widget-wrapper[-ext-has=".widget_banner_skin:only-of-type"]
 hayan.tv#$#div[id][style*="-364px"][-ext-has='>iframe[width="728"][height="90"]']{z-index:-1!important;}
 m.dcinside.com##.section_noti > .box_top[-ext-has='a[href^="http://addc.dcinside.com"]']
@@ -7408,6 +7409,5 @@ koreapas.com$$script[tag-content="function adBlockDetected()"]
 linsoo.co.kr$$script[tag-content="n.innerHTML"]
 liveinincheon.tistory.com$$script[tag-content="h237.nextFunction()"]
 postshare.co.kr$$script[type="text/javascript"][tag-content="COPY PROTECTED BY"]
-tgd.kr$$div[style="padding:0em 1em;"]
 thehindu.com$$script[tag-content="Adblock"]
 pixlr.com$$script[tag-content="cancelAdBlocker()"]
