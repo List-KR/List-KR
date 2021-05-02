@@ -6984,7 +6984,10 @@ url.kr##div.container>form>div[style="text-align: center;"]
 url.kr##div.jbMenu
 url.kr##section#bo_v_atc>div[style="text-align: center;"]
 url.kr##a[href^="https://coupa.ng/"]
+usatoday.com##aside[aria-label="advertisement"]
+usatoday.com##div.ad-container
 usatoday.com##div[id^="ad-position-"]
+usatoday.com##div[id^="ad-slot-"]
 usatoday.com##partner-banner
 ustream.tv##div#LeaderboardWrapper
 v.entertain.media.daum.net##div.bar_ad
