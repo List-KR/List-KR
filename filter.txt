@@ -3833,9 +3833,7 @@ hbr.org##div.partner-center__ads-container
 hbr.org##li.stream-entry[js-target="stream-ad-container"]
 hdblog.it##div.ads
 hdblog.it##div.gad_container
-hdblog.it##div[id^="banner2"]
-hdblog.it##div[id^="banner3"]
-hdblog.it##div[id^="banner4"]
+hdblog.it##div[id^="banner"]
 health.chosun.com##dd.rel_ad
 health.chosun.com##dd.rel_ad_first
 health.chosun.com##dd.rel_pd
