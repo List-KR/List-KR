@@ -1018,6 +1018,7 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||amp.assets.huffpost.com/scripts/scripts/sticky-ads.js^$domain=huffingtonpost.kr
 ||amsv2.daum.net/ad/
 ||an.yandex.ru/system/context.js^
+||analytics-script.ad-shield.io/script.min.js^
 ||analytics.ad.daum.net^
 ||analytics.brunch.co.kr^
 ||analytics.nexon.com^
@@ -6226,14 +6227,13 @@ ppomppu.co.kr##div[id^="pp_ban_"]
 ppomppu.co.kr##iframe[id^="if_"][id$="_bn"]
 ppomppu.co.kr##iframe[src^="/banner/_loader_bbs_list_origin.php"]
 ppomppu.co.kr##p.banner_553
-ppss.kr##div[id^="ppss_wing_banner_"]
-ppss.kr##div#ppss_ad2
-ppss.kr##div.ap_container.google-auto-placed
 ppss.kr##div.userContent>div.dable_placeholder
 ppss.kr##div.wing_banner
 ppss.kr##div[data-widget_id="KoEGJplB"]
+ppss.kr##main#genesis-content>span:not([class]):not([id]) div
 ppss.kr##section#custom_html-2
 ppss.kr##section#custom_html-3
+ppss.kr##section#custom_html-7
 pressian.com##div.ad
 pressian.com##div.aside>div.banner
 pressian.com##div.leftBanner1
