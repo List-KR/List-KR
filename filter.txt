@@ -6845,6 +6845,8 @@ togetter.com##div.ad_topics_custom
 togetter.com##div.lazy-dfp
 tomshardware.com##div.ad-unit
 tomshardware.com##div.dfp-leaderboard-container
+tomshardware.com##div.ad-unit
+tomshardware.com##div.dfp-leaderboard-container
 toonsarang.tel##div.banner_m
 toonsarang.tel##div.w_banner
 topgear.com##div.ad
