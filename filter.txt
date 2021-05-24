@@ -46,6 +46,7 @@
 ||curiouscat.club^
 ||dateing.club^
 ||ezstat.ru^
+||fortnight.space^
 ||fortnite.space^
 ||fortnitechat.site^
 ||freegiftcards.co^
@@ -63,6 +64,7 @@
 ||iplogger.org^$third-party
 ||iplogger.ru^
 ||joinmy.site^
+||leancoding.co^
 ||lovebird.guru^
 ||mypic.icu^
 ||otherhalf.life^
