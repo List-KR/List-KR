@@ -1247,8 +1247,12 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||click.tiara.kakao.com^
 ||clkads.com^
 ||clksite.com/adServe/banners^
-||cm*.joins.com^
-||cm*.jssearch.net^
+||cm1.joins.com^
+||cm1.jssearch.net^
+||cm2.cjmooter.com^
+||cm2.joins.com^
+||cm2.jssearch.net^
+||cm3.jssearch.net^
 ||cm.interworksmedia.co.kr/adTagRequest.htm^
 ||cm.keywordsconnect.com^
 ||cm1.icontact.kr/script/cm_fadein_*.js^
