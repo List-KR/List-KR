@@ -4,7 +4,7 @@
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
 ! DO NOT EDIT VERSION NUMBER
-! Version: 20210526
+! Version: 20210609
 ! ONLY DEVELOPER CAN EDIT THAT
 
 ! Workaround for BlockAdBlock
@@ -2591,6 +2591,8 @@ ablenews.co.kr##div[style="margin-left: 1115px; top:182px; position:absolute; wi
 ablenews.co.kr##iframe[src^="/Banner"]
 adp.issuepoll.net##ul>li[onclick^="javascript:goAd("]
 ads1.issuepoll.co.kr##ul>li[onclick^="javascript:goAd("]
+adtcs-w.tistory.com##div.article-view div[style="float:right;margin:0 0 10px 10px;width:300px;height:250px"]
+adtcs-w.tistory.com##div.article-view div[style="text-align:center;margin:10px 0 10px 0;clear:both"]
 adweek.com##div.htl-ad
 adweek.com##div.htl-ad-wrapper
 afbbs.afreecatv.com##div#div_video_ad_banner
@@ -6855,6 +6857,8 @@ timeforum.co.kr##iframe[src^="/banner/iframe_rotate/"][src*=".html"]
 tip.daum.net##div#viewBottomAdWrapper
 tistory.com##div.ad250
 tistory.com##div.ad250_outter
+tistory.com##div.tt_adsense_bottom
+tistory.com##div.tt_adsense_top
 tkor.*##div.bn
 tkor.*##div.main_top_bann
 tkor.*##div.mobile_banner
