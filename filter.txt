@@ -2776,6 +2776,8 @@ band.us##.proposeBand
 band.us##.suggestedPage
 baskino.co##div#b-mtbcbar__container
 baskino.co##div.skin-block
+bbc.co.uk##div[amp-access="toggles.ads.enabled"]
+bbc.co.uk##div[data-e2e="advertisement"]
 ruliweb.com##div[class^="nbp_container"]
 ruliweb.com##div[id^="mo_ad_board_read_"]
 ruliweb.com##div[id^="mo_ad_main_top_"]
