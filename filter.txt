@@ -405,6 +405,7 @@
 ##iframe[src*="//joy-adstore.co.kr/ad/"]
 ##iframe[src*="//js.hnscom.com/etc/hns/hnsIframe_"][src$=".html"]
 ##iframe[src*="//jtpress.kr/ShareMaxBanner"][src*=".php"]
+##iframe[src*="//kitweb.tadapi.info/network/act/bjc.php"]
 ##iframe[src*="//kitweb.tadapi.info/network/adapi.php"]
 ##iframe[src*="//kn.acrosspf.com/delivery.ad"]
 ##iframe[src*="//landing.dailyissue.co.kr/adv/3dpop.html"]
@@ -1748,8 +1749,10 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||kbench.com/m_article_right_box.php^$domain=m.kbench.com
 ||keyword.ad4989.co.kr^
 ||khan.co.kr/ad/
+||kitweb.tadapi.info/network/act/bjc.php^
 ||kitweb.tadapi.info/network/adapi.php^
 ||kitweb2.tadapi.info/network/adapi.js.php^
+||kitweb2.tadapi.info/network/adapi_ns.js.php^
 ||kjdaily.com/banner/$domain=kjdaily.com
 ||klan.kr/thum_img/klan/banner/
 ||kmib.co.kr/cp/realclick/
