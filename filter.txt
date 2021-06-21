@@ -6283,6 +6283,8 @@ ppomppu.co.kr##div[id^="pp_ban_"]
 ppomppu.co.kr##iframe[id^="if_"][id$="_bn"]
 ppomppu.co.kr##iframe[src^="/banner/_loader_bbs_list_origin.php"]
 ppomppu.co.kr##p.banner_553
+ppss.kr##main#genesis-content>span
+ppss.kr##main#genesis-content>div:not(.archive-description):not(.archive-pagination):not(.fb-quote):not(.home-top):not(.widget-area):not([id^="dablewidget_"])
 pressian.com##div.ad
 pressian.com##div.aside>div.banner
 pressian.com##div.leftBanner1
