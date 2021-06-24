@@ -2378,7 +2378,7 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||tag.vlitag.com/v3/
 ||tagan.adlightning.com/leeenterprises/*.js^
 ||tags.expo9.exponential.com/tags/*/*/tags.js^
-||tags.h12-media.com/load.js^
+||tags.h12-media.com/load*.js^
 ||tags.h12-media.com/v2/prebid.js^
 ||tags.h12-media.com/v2/tags.js^
 ||tags.mathtag.com/notify/js^
