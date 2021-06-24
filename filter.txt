@@ -6825,6 +6825,7 @@ theqoo.net##div.google_ad
 theqoo.net##div.topBanner
 theqoo.net##div.top_google_ad_space
 theqoo.net##ul.notice-list>li.image_notice
+theregister.com##div.adun
 therightscoop.com##section.ai_widget
 theverge.com##div.ad__athena_internal
 theverge.com##div.m-ad
