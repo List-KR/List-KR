@@ -4,7 +4,7 @@
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
 ! DO NOT EDIT VERSION NUMBER
-! Version: 20210609
+! Version: 20210624
 ! ONLY DEVELOPER CAN EDIT THAT
 
 ! Workaround for BlockAdBlock
@@ -5709,7 +5709,7 @@ naeil.com##div[class^="bannerType"]
 naitimp3.ru##div#M306352Composite624079
 nalab.kr##div.gpe_pm_topban_num1
 namu.wiki##article>h1+p:has(> time)+div
-namu.wiki##aside>div:not([id^="tchika"])
+namu.wiki##aside>div[id^="tchika"]>div[id^="tchika"]:first-child
 namu.wiki##div#tchika2570bdb2
 namu.wiki##div.ad
 namu.wiki##div.app > div:nth-child(3) > div:not(:first-child)
