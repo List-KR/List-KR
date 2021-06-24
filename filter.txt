@@ -4211,6 +4211,8 @@ jnilbo.com##div#ad_popup4
 jmagazine.joins.com##img[src^="/data/banner"]
 joara.com##div.banner
 jobplanet.co.kr##article#viewReviewsList section>div[style="padding:0;margin:0;background-color:#ddd;text-align:center"]
+jobplanet.co.kr##div.jp_adds_wrap
+jobplanet.co.kr##div[class^="jp_ads_"]
 joind.io##div.banner-area
 joind.io##div.bannerArea
 joind.io##div.bannerMiddlePosition
