@@ -3664,6 +3664,7 @@ foxnews.com##div.OUTBRAIN[data-widget-id="HPP_5"]
 fr.romwe.com##div.banner-wrapper
 france2.fr##div#eShowPubTop
 france2.fr##div.adCtnt
+freqtrade.io###widget-wrapper
 ftoday.co.kr##div.banner_box
 funbe.space,funbe.tv##div.main_top_bann
 funbe.space,funbe.tv##div.main_top_bann2
