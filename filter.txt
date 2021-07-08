@@ -2032,6 +2032,8 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||newsway.kr/banner/overture.html^
 ||newsworker.co.kr/adNdsoft/$domain=newsworker.co.kr
 ||newsworker.co.kr/script/ad_flow1.js^$domain=newsworker.co.kr
+||newtoki*.com/tokinbtoki/$image
+||newtoki*.com/img/adblock.png
 ||nex.163.com/q^$domain=163.com
 ||ng.namupage.com^
 ||nicovideo.cdn.nimg.jp/web/js/ads.js^$domain=nicovideo.jp
@@ -5404,7 +5406,7 @@ makeuseof.com##div.ad-odd
 makeuseof.com##div.ad-zone
 makeuseof.com##div.ad-zone-container
 mana08.com##div#about
-manatoki88.net###main-banner-view
+manatoki88.net,newtoki95.com###main-banner-view
 manatoki88.net##.hd_pops
 manhwamoa4.com,manhwamoa5.com##div.col-sm-12.photo-box
 mangafox.me##div.ad
@@ -6034,6 +6036,7 @@ newsway.kr##div#google_banner
 newsway.kr##div[id^="NMN_BANNER_WIDGET_"]
 newsworker.co.kr##div#ad_scrollB
 newsworker.co.kr##div#floating_banner_body
+newtoki95.com##div#id_mbv
 newyorker.com##div.ad
 newyorker.com##div.full-bleed-ad
 nextdaily.co.kr##p.mgb20
