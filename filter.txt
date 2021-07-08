@@ -1884,7 +1884,7 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||magento-analytics.com/*.js^
 ||magento-analytics.com/gate.php^
 ||mainclc.com/*/*/*/*.js^
-||manatoki*.net/data/banner/
+||manatoki*.net/tokinbtoki/$image
 ||manhwamoa*.com/data/apms/
 ||mangahub.io/iframe/ra^$domain=mangahub.io
 ||marketingking.co.kr/pr/ad.js^
@@ -5406,8 +5406,8 @@ makeuseof.com##div.ad-odd
 makeuseof.com##div.ad-zone
 makeuseof.com##div.ad-zone-container
 mana08.com##div#about
-manatoki88.net,newtoki95.com###main-banner-view
-manatoki88.net##.hd_pops
+manatoki88.net,newtoki95.com##div#main-banner-view
+manatoki95.net,manatoki88.net##div#id_mbv
 manhwamoa4.com,manhwamoa5.com##div.col-sm-12.photo-box
 mangafox.me##div.ad
 mangahub.io##div.ads-container
