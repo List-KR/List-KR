@@ -1441,8 +1441,6 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||etnews.com/tools/refresh_script.html^$domain=etnews.com
 ||eto.co.kr/adv/
 ||eto.co.kr/Data/Xml/localuser/adv/
-||etoland.co.kr/img/banner/$domain=etoland.co.kr
-||etoland.co.kr/img/net/banner/$domain=etoland.co.kr
 ||event.liveg.co.kr/banner/*.gif^
 ||event.mtoon.com/banner/*.gif^
 ||everytime.kr/page/adredirect^
@@ -3537,20 +3535,8 @@ etnews.com##span.ad_336x280
 eto.co.kr##div.tvSideAd
 etoday.co.kr##div.l_content_module>div[style="margin-top:20px"]
 etoday.co.kr##div.l_content_module>div[style="width:680px;height:250;margin:40px auto 0"]
-etoland.co.kr##aside.back_aside1
-etoland.co.kr##aside.back_aside2
-etoland.co.kr##div#container>div.right>div[style="clear:both;margin-top:10px;padding:10px 0 10px 0;width:100%;text-align:center;"]
-etoland.co.kr##div#container>div.right>div[style="width:300px;padding-left:10px;float:left;"]
-etoland.co.kr##div#main_bn
-etoland.co.kr##div#mw_basic>center
-etoland.co.kr##div#mw_mobile>center
-etoland.co.kr##div#text_banner_td
-etoland.co.kr##div.middleAds
-etoland.co.kr##div.topAds
-etoland.co.kr##img[src^="../../img/banner/"]
-etoland.co.kr##img[src^="/img/net/banner/"]
-etoland.co.kr##div.m_market_area
-etoland.co.kr##div[style^="clear:both;margin-top:10px;padding:10px 0 10px 0;width:100%;text-align:center;"]
+etoland.co.kr##div.eto_banner
+etoland.co.kr##img[src*="//www.etoland.co.kr/data/daumeditor10/"]:not(.lazy-hidden)
 everytime.kr##div[class^="banner"]
 expres.ua##div#rbTopLeaderboard
 expres.ua##div.AdxRB
