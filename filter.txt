@@ -1378,6 +1378,7 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||dlv.hooniad.com^
 ||dnhfi5nn2dt67.cloudfront.net/hls.min.js^
 ||docdocdoc.co.kr/banner/rollbanner_*.html^$domain=docdocdoc.co.kr
+||dobaklife1.com/data/apms/
 ||dogjoa.com/img/07/$domain=dogjoa.com
 ||dogjoa.com/img/08/$domain=dogjoa.com
 ||dogjoa.com/img/11/$domain=dogjoa.com
@@ -3325,6 +3326,9 @@ dkbnews.donga.com##div#floating_ad
 dkbnews.donga.com##div#secondWingAd
 dkbnews.donga.com##div.ad_right01
 dkbnews.donga.com##div.aside_ad
+dobaklife1.com##div[class^="col-sm-"]
+dobaklife1.com##div.hd_pop
+dobaklife1.com##img[src^="/data/apms/"]
 docdocdoc.co.kr##iframe[src^="/banner/rollbanner_"][src$=".html"]
 dogdrip.net##div.clayerbox-left-ad
 dogdrip.net##div.clayerbox-right-ad
