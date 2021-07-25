@@ -6415,6 +6415,10 @@ san.chosun.com##div.banner_area
 san.chosun.com##div.gnb_banner
 sbs.co.kr##div.main_da_housebanner_w
 sbs.co.kr##div.da_banner_w
+scientificamerican.com##div.banner
+scientificamerican.com##div.home-banner
+scientificamerican.com##figure.aside-banner
+scientificamerican.com##section.footer-banner
 scmp.com##div.ad-area
 scmp.com##div.advert
 scmp.com##div.header-ad-container
