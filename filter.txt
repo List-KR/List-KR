@@ -6415,6 +6415,10 @@ san.chosun.com##div.banner_area
 san.chosun.com##div.gnb_banner
 sbs.co.kr##div.main_da_housebanner_w
 sbs.co.kr##div.da_banner_w
+scmp.com##div.ad-area
+scmp.com##div.advert
+scmp.com##div.header-ad-container
+scmp.com##div.header-ad-slot
 search.daum.net##div.ad_sch
 search.daum.net##div.content_sponsor
 search.dreamwiz.com###neoclick_area
