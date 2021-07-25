@@ -335,6 +335,7 @@
 ##iframe[src*="//adv.imadrep.co.kr/"]
 ##iframe[src*="//adv.khan.co.kr/"]
 ##iframe[src*="//adw.heraldm.com/"]
+##iframe[src*="//adweb.pinoot.com/plugin.php"]
 ##iframe[src*="//adx-exchange.toast.com/a_request"]
 ##iframe[src*="//adx-exchange.toast.com/html/integration.html"]
 ##iframe[src*="//adx-exchange.toast.com/open/integration.html"]
@@ -985,6 +986,7 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||advimg.ad-mapps.com/sdk/M_PLUS/JS/ad/mezzo_SignalPlay_ad.js^
 ||advintage.net/adserver/www/delivery/ajs.php^
 ||adw.heraldm.com/cgi-bin/conad.fcgi/
+||adweb.pinoot.com/plugin.php^
 ||adx-exchange.toast.com/a_request^
 ||adx-exchange.toast.com/html/integration.html^
 ||adx-exchange.toast.com/open/integration.html^
@@ -1026,7 +1028,7 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||ap.lijit.com/www/headerauction/prebid.js^
 ||ap.tnkfactory.com^
 ||apex.go.sonobi.com/trinity.js^
-||api.adjoin.co.kr/cou/da.php^
+||api.adjoin.co.kr/cou/*.php^
 ||api.adns.contentlink.co.kr/adserver/delivery/dwad.php^
 ||api.adns.contentlink.co.kr/adserver/delivery/iframe.php^
 ||api.aicontents.net/widget^
