@@ -7237,6 +7237,7 @@ weekly.khan.co.kr##div[data-widget_id="Gok9jvlv"]
 weekly.khan.co.kr##div[data-widget_id="goPBEQlQ"]
 westword.com##div.ads
 wfwf4.com###content > div.top-banner
+wgntv.com##aside.ad-unit
 whatis.techtarget.com##div.ad
 whatis.techtarget.com##div.ad-embedded
 whatis.techtarget.com##div.ad-wrapper
