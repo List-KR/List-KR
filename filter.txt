@@ -4,7 +4,7 @@
 ! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 ! Expires: 1 day
 ! DO NOT EDIT VERSION NUMBER
-! Version: 20210624
+! Version: 20210725
 ! ONLY DEVELOPER CAN EDIT THAT
 
 ! Workaround for BlockAdBlock
@@ -4205,6 +4205,9 @@ jhealthmediam.joins.com##div.content>div[style="width:100%;text-align:center;"]
 jhealthmediam.joins.com##div.mban_common_btm
 jiji.com##div.ArticleAdSide
 jiji.com##div.RectangleAd
+jiskha.com##div.ad-728x90
+jiskha.com##div.ad-970x250
+jiskha.com##li.ad-728x90
 jjan.kr##div#LayerWarp2>div[style="z-index:3; float:right;"]
 jjan.kr##iframe[src^="/adNdsoft/adWise"][src$=".html"]
 jjang0u.com##article.banner-web
