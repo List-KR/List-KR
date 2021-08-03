@@ -4885,7 +4885,7 @@ m.inven.co.kr##div#mobileTailAd
 m.inven.co.kr##div.ad-wrap
 m.inven.co.kr##div.mobileAdNs
 m.inven.co.kr##div.mobileAdNs2
-m.inven.co.kr##div.mobileDaNs1
+m.inven.co.kr##div[class^="mobileDaNs"]
 m.inven.co.kr##section.mobile-ad
 m.inven.co.kr##section.mobile-ad50
 m.isplus.joins.com##div#adopAdSlot
