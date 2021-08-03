@@ -4111,6 +4111,7 @@ inven.co.kr##div.videoAd
 inven.co.kr##div.videoAdPopup
 inven.co.kr##div[id$="AdTop"]
 inven.co.kr##div[id^="webzineAd"]
+inven.co.kr##section.banner_box
 iphone-apps-ipa.com##div[id^="default_adp"]
 iphone-apps-ipa.com##div[id^="meerkat-wrap"]
 isplus.joins.com,isplus.live.joins.com##div#promotion_bnr120
