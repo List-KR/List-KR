@@ -842,6 +842,7 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||adfarm.mediaplex.com/ad/js/
 ||adg.bzgint.com/pub/adg/config.js^
 ||adget.co.kr^
+
 ||adimage.hankookilbo.com^
 ||adimg.kstarplay.tv/js/kstar_*.js^
 ||adimg.nateimg.co.kr^
@@ -1022,6 +1023,7 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||api.adns.contentlink.co.kr/adserver/delivery/dwad.php^
 ||api.adns.contentlink.co.kr/adserver/delivery/iframe.php^
 ||api.aicontents.net/widget^
+||api.adhooah.com^
 ||api.content.ad/Scripts/widget2.aspx^
 ||api.ficm.contentlink.co.kr/api/ficm_result.php^
 ||api.ficm.contentlink.co.kr/api/ficm_result_view.php^
@@ -2798,6 +2800,7 @@ ruliweb.com##div[id^="mo_ad_main_top_"]
 ruliweb.com##div[id^="mo_ad_news_read_"]
 ruliweb.com##div[id^="mo_ad_news_list_"]
 ruliweb.com###mo_ad_hit_bottom
+ruliweb.com###pc_maintop_hotdeal
 bbs.danawa.com##div#danawa-community-bbsView-powerLink-self
 bbs.danawa.com##div.bbs_banner
 bbs.danawa.com##div.rnb_unit_banner
