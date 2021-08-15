@@ -842,7 +842,6 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||adfarm.mediaplex.com/ad/js/
 ||adg.bzgint.com/pub/adg/config.js^
 ||adget.co.kr^
-
 ||adimage.hankookilbo.com^
 ||adimg.kstarplay.tv/js/kstar_*.js^
 ||adimg.nateimg.co.kr^
