@@ -1922,6 +1922,7 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||mediaview.co.kr/ad_Viewer2.php^
 ||menu.mt.co.kr/banner/adPlayer.swf^
 ||menu.mt.co.kr/js/AdsDispatcher.js^
+||meeco.kr/images/custom_ads/
 ||mg.dt00.net/gjs/*/*/*.*.js^
 ||microbizit.com/admaru/codes/js/
 ||microopenpop.com/banner/
@@ -7458,6 +7459,7 @@ zum.com##div#wrap_ad_main
 zum.com##div#wrap_ad_minisite
 
 ! Extended CSS rules
+meeco.kr#?#a img[src^="/images/custom_ads/"]:upward(1)
 tgd.kr#?#div[id^="div-gpt-ad-"]:upward(div[style*="background:"])
 tgd.kr#?#div[style*="flex:"][style*="text-align:"][style*="vertical-align"][-ext-contains="AD"]:upward(div[style*="background:"])
 gigglehd.com##.xe-widget-wrapper[-ext-has=".widget_banner_skin:only-of-type"]
