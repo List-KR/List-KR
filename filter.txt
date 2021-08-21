@@ -1214,6 +1214,7 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||cdn.newsen.com/newsen/banner/$domain=newsen.com
 ||cdn.optmd.com/V2/PSA/
 ||cdn.popmyads.com/pma.js^
+||cdn.ppomppu.co.kr/zboard/data*/banner/
 ||cdn.rmprepusb.com/detroitchicago/edmonton.webp^$domain=rmprepusb.com
 ||cdn.rmprepusb.com/detroitchicago/livonia.webp^$domain=rmprepusb.com
 ||cdn.rmprepusb.com/porpoiseant/fire.webp^$domain=rmprepusb.com
@@ -6285,6 +6286,7 @@ poro.gg##div.ap_side1
 poro.gg##div.ap_side2
 poro.gg##div.ap_top
 poro.gg##div.ap_top_mobile
+ppomppu.co.kr##a[href^="https://s.ppomppu.co.kr/"]
 ppomppu.co.kr##div#emart_banner
 ppomppu.co.kr##div#result_box>div.power-link
 ppomppu.co.kr##div#result_box>div.section:not([id])
@@ -7464,6 +7466,7 @@ gigglehd.com##.xe-widget-wrapper[-ext-has=".widget_banner_skin:only-of-type"]
 hayan.tv#$#div[id][style*="-364px"][-ext-has='>iframe[width="728"][height="90"]']{z-index:-1!important;}
 m.dcinside.com##.section_noti > .box_top[-ext-has='a[href^="http://addc.dcinside.com"]']
 mybogo.net###move_sub_1 > div[style*="hidden"][-ext-has='div[id$="_INSERT_SLOT_ID_HERE"]']
+ppomppu.co.kr#?#td.list_vspace a[onclick^="informAdClick("]:upward(2)
 orbi.kr#$#.global-top { top: 0 !important; }
 orbi.kr#$#div#top_banner_area { display: none !important; }
 orbi.kr#$#div[class="global-top animate"] { top: 0 !important; }
