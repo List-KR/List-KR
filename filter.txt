@@ -7506,6 +7506,7 @@ zum.com##div#wrap_ad_main
 zum.com##div#wrap_ad_minisite
 
 ! Extended CSS rules
+chosun.com#?#div.raw-html > div iframe[src*="//adex.ednplus.com/"]:upward(5)
 meeco.kr#?#a img[src^="/images/custom_ads/"]:upward(1)
 tgd.kr#?#div[id^="div-gpt-ad-"]:upward(div[style*="background:"])
 tgd.kr#?#div[style*="flex:"][style*="text-align:"][style*="vertical-align"][-ext-contains="AD"]:upward(div[style*="background:"])
