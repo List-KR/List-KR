@@ -7431,17 +7431,11 @@ zipbogo.net##.sidebar > ul > li[-ext-has='a[href*="/ad/"],a[onclick^="visitWebBa
 ! JS rules
 10games.tistory.com,caskers.tistory.com,fmgunzo.tistory.com,frostfire.tistory.com,jimnong.tistory.com,koreapas.com,lalawin.com,lalawin.tistory.com,linsoo.co.kr,minitoon.net,money2015.tistory.com,mongri.net,ruinses.tistory.com,ssulwar.com,te31.com,webzook.net,yabang.org,netmics.com,amazooon.website,apppple.website,awscontent.com,facebooook.website,goooooooogle.website,gryfindor.com,iiinstagram.website,kakaooo.website,netflixxx.website,oderk.com,teslaaa.website,teslacdn.com,twittter.website,twitttter.website,unknowncdn.com,youtubbe.website,webzook.net#%#(function(){var a={debug:{set:function(){return a}},on:function(b,c){b||setTimeout(function(){c()},1);return a},onDetected:function(b){return a.on(!0,b)},onNotDetected:function(b){return a.on(!1,b)},check:function(){}};Object.defineProperty(window,"fuckAdBlock",{get:function(){return a}})})();
 netmics.com,amazooon.website,apppple.website,awscontent.com,facebooook.website,goooooooogle.website,gryfindor.com,iiinstagram.website,kakaooo.website,netflixxx.website,oderk.com,teslaaa.website,teslacdn.com,twittter.website,twitttter.website,unknowncdn.com,youtubbe.website#%#window.canRunAds = !0;
-baykoreans.com,baykoreans.net$$script[tag-content="div.adsbygoogle"]
 
 ! HTML Filtration rules
-802.11ac.net$$script[tag-content="window.addEventListener"]
-c11.kr$$script[tag-content="adblock"]
 dcinside.com$$script[tag-content="function adBlockDetected()"]
-gamedot.org$$script[tag-content^="function blockCheck"]
 gall.dcinside.com$$tr[class="ub"][tag-content="<a href='http://addc.dcinside.com"]
 koreapas.com$$script[tag-content="function adBlockDetected()"]
-linsoo.co.kr$$script[tag-content="n.innerHTML"]
 liveinincheon.tistory.com$$script[tag-content="h237.nextFunction()"]
-postshare.co.kr$$script[type="text/javascript"][tag-content="COPY PROTECTED BY"]
 thehindu.com$$script[tag-content="Adblock"]
 pixlr.com$$script[tag-content="cancelAdBlocker()"]
