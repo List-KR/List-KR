@@ -53,7 +53,6 @@ There is a slight difference in rendering methods between IE and Chrome, Firefox
 [이곳]: https://namu.wiki/w/AdGuard
 [here]: https://namu.wiki/w/AdGuard
 [Issues]: https://github.com/List-KR/List-KR/issues
-[Creative Commons Attribution-ShareAlike 4.0]: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
 
 ## License
-This filter is licensed under [Creative Commons Attribution-ShareAlike 4.0][] license.
+This filter is licensed under GNU GPLv3.
