@@ -1,10 +1,10 @@
 [Adblock Plus 2.0]
 ! Title: List-KR
 ! Homepage: https://list-kr.github.io
-! License: https://creativecommons.org/licenses/by-sa/4.0/deed.ko
+! License: https://github.com/List-KR/List-KR/blob/master/LICENSE
 ! Expires: 1 day
 ! DO NOT EDIT VERSION NUMBER
-! Version: 20210725
+! Version: 20210920
 ! ONLY DEVELOPER CAN EDIT THAT
 
 ! Workaround for BlockAdBlock
