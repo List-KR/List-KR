@@ -17,13 +17,6 @@
 @@||vads-api.ad.daum.net/xylophone/adrequest/vmap/
 @@/script/bannerpop.js$domain=mindpost.or.kr
 
-! Exceptions for anti-adblock scripts
-@@||koreapas.com^$generichide
-@@||linsoo.co.kr^$generichide
-@@||techsighter.com/js/siropu/am/ads.min.js
-@@||webzook.net/js/fuckadblock.js
-
-
 ! General element hiding rules
 ##a[href*="//010bts.com"]
 ##a[href*="//747-one.com"]
@@ -488,9 +481,6 @@
 ##span.ezoic-ad
 
 ! Illegal gambling sites
-010bts.com#@#a[href*="//010bts.com"]
-747-one.com#@#a[href*="//747-one.com"]
-ara-0u.com#@#a[href*="//ara-0u.com"]
 bbet2020.com#@#a[href*="//bbet2020.com"]
 betbtbt.com#@#a[href*="//betbtbt.com"]
 bun-go5.com#@#a[href*="//bun-go5.com"]
@@ -505,7 +495,6 @@ gmp69.com#@#a[href*="//gmp69.com"]
 hitbet11.com#@#a[href*="//hitbet11.com"]
 hshsfun.com#@#a[href*="//hshsfun.com"]
 inp77.com#@#a[href*="//inp77.com"]
-int753.com#@#a[href*="//int753.com"]
 ja-we.com#@#a[href*="//ja-we.com"]
 ja-we.com#@#a[href*="//www.ja-we.com"]
 kav-we2020.com#@#a[href*="//kav-we2020.com"]
@@ -524,7 +513,6 @@ mi-udu.com#@#a[href*="//mi-udu.com"]
 mss-kkk.com#@#a[href*="//mss-kkk.com"]
 mt-police04.com#@#a[href*="//mt-police04.com"]
 mt-police04.com#@#a[href*="//www.mt-police04.com"]
-mt-ssul10.com#@#a[href*="//mt-ssul10.com"]
 mt-superman.com#@#a[href*="//mt-superman.com"]
 muk-cut.net#@#a[href*="//muk-cut.net"]
 muk-sos.net#@#a[href*="//muk-sos.net"]
@@ -548,30 +536,24 @@ seda9.bet#@#a[href*="//seda9.bet"]
 shieldman1.net#@#a[href*="//shieldman1.net"]
 slot0505.com#@#a[href*="//slot0505.com"]
 slot0508.com#@#a[href*="//slot0508.com"]
-sm-323.com#@#a[href*="//sm-323.com"]
 spin589.com#@#a[href*="//spin589.com"]
 spin700.com#@#a[href*="//spin700.com"]
 spin800.com#@#a[href*="//spin800.com"]
 spoto117.com#@#a[href*="//spoto117.com"]
-st-meal2020.com#@#a[href*="//st-meal2020.com"]
-st-meal2020.com#@#a[href*="//www.st-meal2020.com"]
 sureman.net#@#a[href*="//sureman.net"]
 ten-1056.com#@#a[href*="//ten-1056.com"]
 ten-ssatube.com#@#a[href*="//ten-ssatube.com"]
 tentenb.com#@#a[href*="//tentenb.com/affiliates/"]
 tentenb.com#@#a[href*="//www.tentenb.com/affiliates/"]
-tlo-486.com#@#a[href*="//tlo-486.com"]
 tslot5.com#@#a[href*="//tslot5.com"]
 uks75.com#@#a[href*="//uks75.com"]
 uni8888partner.com#@#a[href*="//tracker-pm2.uni8888partner.com/link"]
 vos39.com#@#a[href*="//vos39.com"]
-w-4243.com#@#a[href*="//w-4243.com"]
 wb-tt.com#@#a[href*="//wb-tt.com"]
 wbwb7.com#@#a[href*="//wbwb7.com"]
 we-715.com#@#a[href*="//we-715.com"]
 we-715.com#@#a[href*="//www.we-715.com"]
 win-ssatube.com#@#a[href*="//win-ssatube.com"]
-wj-xk.com#@#a[href*="//wj-xk.com"]
 wnx-co.com#@#a[href*="//wnx-co.com"]
 wnx-ko.com#@#a[href*="//wnx-ko.com"]
 xhwoddl.com#@#a[href*="//xhwoddl.com"]
@@ -644,7 +626,6 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||a.vdo.ai/core/dependencies_hbv*/vdo.min.js^
 ||a.vdo.ai/core/dependencies_stories_v*/vdo.min.js^
 ||a.wyzmob.com^
-||a1.ationnet.co.kr/a01/
 ||a1.dp25.kr^
 ||a2.acrosspf.com/js/_a_adnf_bottompop_*.min.js^
 ||a2.acrosspf.com/js/_a_adnf_overlay_*.min.js^
@@ -670,17 +651,13 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||ad-first.co.kr^
 ||ad-js.chip.de/js/chip/*.min.js^$domain=chip.de
 ||ad-js.chip.de/js/loader/chip.min.js^$domain=chip.de
-||ad-playstore.com^
-||ad-unpack.com/adserver/www/delivery/asyncjs.php^
 ||ad.3dpop.kr/web/gate.pop^
 ||ad.3dpop.kr/web_ad/
 ||ad.about.co.kr^
 ||ad.ad-stir.com/ad^
-||ad.ad-ya.net^
 ||ad.ad4989.co.kr^
 ||ad.adenc.co.kr/media/
 ||ad.adinc.kr^
-||ad.adixs.co.kr^
 ||ad.adkova.com/media/
 ||ad.adlike.co.kr^
 ||ad.adnmore.co.kr^
@@ -688,8 +665,6 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||ad.adotsolution.com:15000/mweb/ad_request^
 ||ad.adpon.jp/fr.js^
 ||ad.adpon.jp/tg.js^
-||ad.aeonad.co.kr^
-||ad.aeonad.net^
 ||ad.afy11.net/ad^
 ||ad.afy11.net/cdsad.js^
 ||ad.altervista.org/js*.ad/
