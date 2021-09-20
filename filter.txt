@@ -2497,6 +2497,8 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||zumads.vrixon.com/zum.vrix^$domain=pip-player.zum.com
 
 ! Site element hiding rules
+m.dcinside.com##li[class="comment"]:not(div#comment)
+dcinside.com##li[id="comment_li_0"][class="ub-content dory"]
 101.livere.co.kr##div.contents-list-container>ul.contents-list>li.tenping-title
 11st.co.kr##div#newFooterAdArea
 163.com##div.hp_textlink_ad
