@@ -18,6 +18,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 ! #ZE:GENERAL_ELEMHIDE
 
 ! #ZE:ADSERVER
+||adcr.naver.com^
 ||adskeeper.com^$third-party
 ||ads.stickyadstv.com^
 ||ads-*.v.ssp.yahoo.com^
