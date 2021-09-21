@@ -1,4 +1,4 @@
-! Title: CommentBlock News
+! Title: List-KR Nightly
 ! Description: List-KR Nightly
 ! Homepage: https://list-kr.github.io
 ! License: https://github.com/List-KR/List-KR/blob/master/LICENSE
