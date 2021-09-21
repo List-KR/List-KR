@@ -6,6 +6,9 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+fmkorea.com###adpost
+||loader2.fmkorea.com/_myphp/adpost/content_new.php
+||loader.fmkorea.com/_loader/loader.php
 www.naver.com##div.column_fix_wrap > div#shopcast
 ||castbox.shopping.naver.com/shoppingboxnew/main.
 ||ssl.pstatic.net/tveta/libs/
