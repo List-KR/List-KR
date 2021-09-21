@@ -10,6 +10,31 @@
 ! #ZE:GENERAL_ELEMHIDE
 
 ! #ZE:ADSERVER
+||ads.betweendigital.com^
+||adnxs.com^$third-party
+||criteo.net^$third-party
+||securepubads.g.doubleclick.net^
+||pagead2.googlesyndication.com^
+||safeframe.googlesyndication.com^
+||googleads.g.doubleclick.net^
+||quantserve.com^$third-party
+||adservice.google.se^
+||adservice.google.com^
+||pubmatic.com^$third-party
+||3lift.com^
+||casalemedia.com^$third-party
+||33across.com^$third-party
+||openx.net^$third-party
+||criteo.com^$third-party
+||rubiconproject.com^$third-party
+||smartadserver.com^$third-party
+||lijit.com^$third-party
+||360yield.com^$third-party
+||partner.googleadservices.com^
+||googletagservices.com^
+||bidr.io^
+||bidswitch.net^
+||taboola.com^$third-party
 
 ! #ZE:FIRSTPARTY
 
