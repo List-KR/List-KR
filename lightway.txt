@@ -10,6 +10,9 @@
 ! #ZE:GENERAL_ELEMHIDE
 
 ! #ZE:ADSERVER
+||ads.stickyadstv.com^
+||ads-*.v.ssp.yahoo.com^
+||ads.adaptv.advertising.com^
 ||ads.betweendigital.com^
 ||adnxs.com^$third-party
 ||criteo.net^$third-party
