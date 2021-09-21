@@ -44,3 +44,4 @@
 ! #ZE:ALLOWLIST
 
 ! #ZE:GENERAL_URL
+/ad-manager.min.js
