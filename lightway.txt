@@ -6,6 +6,7 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+lol.ps##.ad-banner_wide
 
 ! #ZE:GENERAL_ELEMHIDE
 
