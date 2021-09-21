@@ -6,6 +6,8 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+www.naver.com##div.column_fix_wrap > div#shopcast
+||castbox.shopping.naver.com/shoppingboxnew/main.
 ||ssl.pstatic.net/tveta/libs/
 lol.ps##.ad-banner_wide
 www.naver.com###NM_TOP_BANNER
