@@ -11,6 +11,7 @@ lol.ps##.ad-banner_wide
 ! #ZE:GENERAL_ELEMHIDE
 
 ! #ZE:ADSERVER
+||adskeeper.com^$third-party
 ||ads.stickyadstv.com^
 ||ads-*.v.ssp.yahoo.com^
 ||ads.adaptv.advertising.com^
@@ -46,3 +47,4 @@ lol.ps##.ad-banner_wide
 
 ! #ZE:GENERAL_URL
 /ad-manager.min.js
+/banners/
