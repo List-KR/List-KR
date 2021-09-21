@@ -6,6 +6,7 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+||ssl.pstatic.net/tveta/libs/
 lol.ps##.ad-banner_wide
 www.naver.com###NM_TOP_BANNER
 ||static-whale.pstatic.net/main/$image,domain=www.naver.com
