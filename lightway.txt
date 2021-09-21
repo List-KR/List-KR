@@ -7,6 +7,10 @@
 
 ! #ZE:SPECIFIC
 lol.ps##.ad-banner_wide
+www.naver.com###NM_TOP_BANNER
+||static-whale.pstatic.net/main/$image,domain=www.naver.com
+www.naver.com###contents_productAd
+www.naver.com##iframe[id^="da_iframe_"]
 
 ! #ZE:GENERAL_ELEMHIDE
 
