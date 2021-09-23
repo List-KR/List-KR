@@ -8,7 +8,7 @@
 
 ! #ZE:SPECIFIC
 osen.mt.co.kr##div#close_mask
-||mediacategory.com/servlet/adBanner?
+||mediacategory.com/servlet/
 ||t1.daumcdn.net/adfit/
 fmkorea.com###adpost
 ||loader2.fmkorea.com/_myphp/adpost/content_new.php
@@ -27,6 +27,14 @@ www.naver.com##iframe[id^="da_iframe_"]
 ##ins.kakao_ad_area
 
 ! #ZE:ADSERVER
+||compass.adop.cc^
+||catad5959.com^
+||adex.ednplus.com^
+||interworksmedia.co.kr^$third-party
+||targetpush.co.kr^$third-party
+||ad.adinc.kr^
+||ad.about.co.kr^
+||marketingking.co.kr^$third-party
 ||dable.io^$third-party
 ||adv.imadrep.co.kr^
 ||ad4989.co.kr^
