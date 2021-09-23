@@ -31,6 +31,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 ##ins.kakao_ad_area
 
 ! #ZE:ADSERVER
+||innorame.com^$third-party
 ||compass.adop.cc^
 ||catad5959.com^
 ||adex.ednplus.com^
