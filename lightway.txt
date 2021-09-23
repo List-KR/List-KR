@@ -25,6 +25,9 @@ www.naver.com##iframe[id^="da_iframe_"]
 ##ins.kakao_ad_area
 
 ! #ZE:ADSERVER
+||dable.io^$third-party
+||adv.imadrep.co.kr^
+||ad4989.co.kr^
 ||ad.reople.co.kr^
 ||adsvc2.wisenut.co.kr^
 ||adreg.wisenut.co.kr^
