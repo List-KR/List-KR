@@ -23,6 +23,10 @@ www.naver.com###contents_productAd
 www.naver.com##iframe[id^="da_iframe_"]
 
 ! #ZE:GENERAL_ELEMHIDE
+##ins.adsbygoogle
+##ifrmae[src*="//io1.innorame.com/"]
+##iframe[src*="//www.mediacategory.com/servlet/"]
+##div[id^="targetpushAd_"]
 ##ins.adsbyadop
 ##ins.kakao_ad_area
 
