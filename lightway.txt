@@ -7,6 +7,10 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+orbi.kr#$#div.global-top { top: 0px; }
+orbi.kr##div.panel.class-event-wrap
+||s3-class.orbi.kr/event/
+orbi.kr##a[href^="https://ads.orbi.kr/"]
 ||livere.me/ad?
 osen.mt.co.kr##div#close_mask
 ||mediacategory.com/servlet/
@@ -169,6 +173,8 @@ www.naver.com##iframe[id^="da_iframe_"]
 ||taboola.com^$third-party
 
 ! #ZE:FIRSTPARTY
+||adscdn.orbi.kr^
+||ads.orbi.kr^
 ||ads.mtgroup.kr^
 
 ! #ZE:ALLOWLIST
@@ -177,3 +183,6 @@ www.naver.com##iframe[id^="da_iframe_"]
 /ad-manager.min.js
 /banners/
 /RealMedia/ads/
+
+! #ZE:EXTENDED_CSS
+orbi.kr#?#a[class="tag"][href^="/list/tag/"][-ext-contains="#제휴사공지"]:upward(li.notice)
