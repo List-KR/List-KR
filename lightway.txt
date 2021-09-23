@@ -68,3 +68,4 @@ www.naver.com##iframe[id^="da_iframe_"]
 ! #ZE:GENERAL_URL
 /ad-manager.min.js
 /banners/
+/RealMedia/ads/
