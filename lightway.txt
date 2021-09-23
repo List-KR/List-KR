@@ -7,6 +7,7 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+osen.mt.co.kr##div#close_mask
 ||mediacategory.com/servlet/adBanner?
 ||t1.daumcdn.net/adfit/
 fmkorea.com###adpost
@@ -66,6 +67,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 ||taboola.com^$third-party
 
 ! #ZE:FIRSTPARTY
+||ads.mtgroup.kr^
 
 ! #ZE:ALLOWLIST
 
