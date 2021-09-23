@@ -23,12 +23,49 @@ www.naver.com###contents_productAd
 www.naver.com##iframe[id^="da_iframe_"]
 
 ! #ZE:GENERAL_ELEMHIDE
+##iframe[src*="//adsrv-up.mcrony.com/"]
+##div.banner_box
+##a[href*="//click.soonwe.com/"]
+##iframe[src*="//adbiz3.co.kr/"]
+##iframe[src*="//coupa.ng/"]
+##img[src^="/bannerpop/"]
+##iframe[src*="//ads.priel.co.kr/"]
+##img[src*="//ads.priel.co.kr/"]
+##iframe[src*="//img.mrep.kr/"]
+##ins.fastview-ad
+##iframe[src*="//ad.aceplanet.co.kr/"]
+##iframe[src*="//ad.ajitad.co.kr/"]
+##iframe[src*="//vod.shoppingcall.me/ad_shoppingCallme.php"]
+##iframe[src*="//adbiz2.co.kr/"]
+##iframe[src*="//deepdive.zum.com/widget/"]
+##iframe[src*="//minishop.linkprice.com/"]
+##iframe[src*="//ad.linkprice.com/"]
+##iframe[src*="//kitweb.tadapi.info/"]
+##iframe[src*="//adver4.clickmon.co.kr/"]
+##iframe[src*="//adver7.clickmon.co.kr/"]
+##iframe[src*="//adver10.clickmon.co.kr/"]
+##iframe[src^="https://was.livere.me/ad"]
+##iframe[src*="//io1.innorame.com/"]
+##iframe[src*="//cdn.interworksmedia.co.kr/"]
+##iframe[src*="//adex.ednplus.com/"]
+##iframe[src*="//adv.imadrep.co.kr/"]
+##iframe[src*="https://media.adpnut.com/"]
+##iframe[src*="veta.naver.com/fxshow?"]
+##iframe[src*="//ad.adinc.kr/"]
+##iframe[src^="https://api.dable.io/"]
+##iframe[src*="//ad.reople.co.kr/"]
+##iframe[src*="//yellow.contentsfeed.com/RealMedia/ads/"]
+##iframe[src*="//white.contentsfeed.com/RealMedia/ads/"]
+##iframe[src*="//ads.mncmedia.co.kr/"]
+##ins.adsbyadop
+##iframe[src^="https://realdsp.realclick.co.kr"]
+##iframe[src^="https://googleads.g.doubleclick.net/"]
+##div[id^="google_ads_iframe_"]
 ##ins.adsbygoogle
-##ifrmae[src*="//io1.innorame.com/"]
+##iframe[src^="https://ads-partners.coupang.com/"]
+##ins.kakao_ad_area
 ##iframe[src*="//www.mediacategory.com/servlet/"]
 ##div[id^="targetpushAd_"]
-##ins.adsbyadop
-##ins.kakao_ad_area
 
 ! #ZE:ADSERVER
 ||innorame.com^$third-party
