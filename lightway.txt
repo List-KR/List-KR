@@ -7,6 +7,7 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+||livere.me/ad?
 osen.mt.co.kr##div#close_mask
 ||mediacategory.com/servlet/
 ||t1.daumcdn.net/adfit/
@@ -68,6 +69,61 @@ www.naver.com##iframe[id^="da_iframe_"]
 ##div[id^="targetpushAd_"]
 
 ! #ZE:ADSERVER
+||api.adhooah.com^
+||adsrv-up.mcrony.com^
+||adbiz3.co.kr^
+||keywordsconnect.com^$third-party
+||ads.priel.co.kr^
+||mrep.kr^$third-party
+||fastview.co.kr^
+||ad.phaserep.com^
+||ad.aceplanet.co.kr^
+||ad.doyouad.com^
+||ad.ajitad.co.kr^
+||side.mythiell.com^
+||simg.imadrep.co.kr^
+||adv.dailyissue.co.kr^
+||ad.idnad.co.kr^$third-party
+||adbiz2.co.kr^
+||deepdive.zum.com^$third-party
+||minishop.linkprice.com^
+||ad.linkprice.com^
+||tadapi.info^$third-party
+||clickmon.co.kr^$third-party
+||ad.tjtune.com^
+||adplex.co.kr^$third-party
+||thetopic.co.kr^$third-party
+||msadsense.com^
+||interworksmedia.co.kr^$third-party
+||adex.ednplus.com^
+||adpnut.com^$third-party
+||ad.smartmediarep.com^
+||mobon.net^$third-party
+||ad*.wisenut.co.kr^
+||acrosspf.com^$third-party
+||catad5959.com^$third-party
+||ad.esmplus.com^$third-party
+||adcheck.about.co.kr^
+||ads.mncmedia.co.kr^
+||advimg.ad-mapps.com^
+||mtag.mman.kr^
+||ssp.meba.kr^
+||ad.adnmore.co.kr^
+||nsclick.neoebiz.co.kr^
+||nscreen.neoebiz.co.kr^
+||netinsight.co.kr^$third-party
+||realclick.co.kr^$third-party
+||googleadservices.com^
+||adapi.about.co.kr^
+||adx.turl.co.kr^
+||tpc.googlesyndication.com^
+||securepubads.g.doubleclick.net^
+||adservice.google.co.*
+||ads-partners.coupang.com^
+||naverwebtoon-phinf.pstatic.net^
+||tvetamovie.pstatic.net^
+||searchad-phinf.pstatic.net^
+||ad.adjw.co.kr^
 ||innorame.com^$third-party
 ||compass.adop.cc^
 ||catad5959.com^
@@ -81,9 +137,6 @@ www.naver.com##iframe[id^="da_iframe_"]
 ||adv.imadrep.co.kr^
 ||ad4989.co.kr^
 ||ad.reople.co.kr^
-||adsvc2.wisenut.co.kr^
-||adreg.wisenut.co.kr^
-||adimg.wisenut.co.kr^
 ||widerplanet.com^$third-party
 ||ad.daum.net^
 ||adcr.naver.com^
@@ -94,12 +147,10 @@ www.naver.com##iframe[id^="da_iframe_"]
 ||ads.betweendigital.com^
 ||adnxs.com^$third-party
 ||criteo.net^$third-party
-||securepubads.g.doubleclick.net^
 ||pagead2.googlesyndication.com^
 ||safeframe.googlesyndication.com^
 ||googleads.g.doubleclick.net^
 ||quantserve.com^$third-party
-||adservice.google.se^
 ||adservice.google.com^
 ||pubmatic.com^$third-party
 ||3lift.com^
