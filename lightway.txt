@@ -7,6 +7,11 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+hankyung.com##.ad_img
+hankyung.com##.articlebanner
+hankyung.com##.inner_aside > .asidemodule.info_time
+hankyung.com##.ad_top
+hankyung.com#$#.module_wrap.poll { width: 100%!important; }
 orbi.kr#$#div.global-top { top: 0px; }
 orbi.kr##div.panel.class-event-wrap
 ||s3-class.orbi.kr/event/
