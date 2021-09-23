@@ -6,6 +6,7 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+||mediacategory.com/servlet/adBanner?
 ||t1.daumcdn.net/adfit/
 fmkorea.com###adpost
 ||loader2.fmkorea.com/_myphp/adpost/content_new.php
@@ -23,6 +24,11 @@ www.naver.com##iframe[id^="da_iframe_"]
 ##ins.kakao_ad_area
 
 ! #ZE:ADSERVER
+||ad.reople.co.kr^
+||adsvc2.wisenut.co.kr^
+||adreg.wisenut.co.kr^
+||adimg.wisenut.co.kr^
+||widerplanet.com^$third-party
 ||ad.daum.net^
 ||adcr.naver.com^
 ||adskeeper.com^$third-party
