@@ -7,6 +7,7 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+m.clien.net##.shop_naver
 clien.net##div[class$="_ad"]
 clien.net###hongboInfoList
 m.ruliweb.com##.fixed_ad_wrapper
