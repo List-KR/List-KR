@@ -7,6 +7,9 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+||nstatic.dcinside.com/ad/
+dcinside.com##.rightbanner
+dcinside.com##ul.cmt_list > li[id^="comment_li_"].ub-content.dory
 hankyung.com##.ad_img
 hankyung.com##.articlebanner
 hankyung.com##.inner_aside > .asidemodule.info_time
@@ -179,11 +182,15 @@ www.naver.com##iframe[id^="da_iframe_"]
 ||taboola.com^$third-party
 
 ! #ZE:FIRSTPARTY
+||addc.dcinside.com^
 ||adscdn.orbi.kr^
 ||ads.orbi.kr^
 ||ads.mtgroup.kr^
 
 ! #ZE:ALLOWLIST
+
+! #ZE:ALLOWLIST_STEALTH
+@@||dcinside.co.kr/viewimage.php?$media,image,stealth
 
 ! #ZE:GENERAL_URL
 /ad-manager.min.js
