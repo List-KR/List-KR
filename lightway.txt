@@ -82,6 +82,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 ##div[id^="targetpushAd_"]
 
 ! #ZE:ADSERVER
+||adx-exchange.toast.com^
 ||api.adhooah.com^
 ||adsrv-up.mcrony.com^
 ||adbiz3.co.kr^
