@@ -7,6 +7,8 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+arca.live##div.ad
+||arca.live/static/assets/js/pagead.min.js
 m.clien.net##.shop_naver
 clien.net##div[class$="_ad"]
 clien.net###hongboInfoList
