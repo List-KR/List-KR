@@ -7,6 +7,9 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+m.ruliweb.com##.fixed_ad_wrapper
+m.ruliweb.com##div[id^="mo_ad_"]
+m.ruliweb.com##div[id^="nbp_container"]
 ||ssl.pstatic.net/adimg3.search/adpost/js/adpost_show_ads_v2.min.js
 ruliweb.com##div.board_main > table > tbody tr.table_body.list_inner
 ruliweb.com#$#.best_list { width: 100%!important; }
