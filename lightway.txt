@@ -7,6 +7,9 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+m.ppomppu.co.kr##ul.board-sponsor
+m.ppomppu.co.kr##.google-ad
+m.ppomppu.co.kr##section.shopping-board
 ppomppu.co.kr##tbody > tr[id^="page_show_ad_"]
 ppomppu.co.kr##div[id^="pp_ban_"]
 ppomppu.co.kr##.left > .shopping-preview
@@ -224,6 +227,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 /RealMedia/ads/
 
 ! #ZE:EXTENDED_CSS
+m.ppomppu.co.kr#?#div#bbs_inform > ul > li span:contains(AD):upward(1)
 ppomppu.co.kr#?#tbody > tr.list_notice > td img[src="/images/list_icon_ad.png"]:upward(2)
 ppomppu.co.kr#?#ul#new_bbs_best > li > a.title span[style="color:#1264b1;"]:upward(2)
 m.bobaedream.co.kr#?#div[style^="display:flex;"] > div[id^="div-gpt-ad-"]:upward(1)
