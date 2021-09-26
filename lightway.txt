@@ -7,6 +7,12 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+ppomppu.co.kr##tbody > tr[id^="page_show_ad_"]
+ppomppu.co.kr##div[id^="pp_ban_"]
+ppomppu.co.kr##.left > .shopping-preview
+ppomppu.co.kr#$#.top-keyword { width: 100%!important; }
+ppomppu.co.kr##.right > .board-preview.board-ppomppu
+||cdn.ppomppu.co.kr/zboard/data*/banner/
 bobaedream.co.kr##.left_con_last
 arca.live##div.ad
 ||arca.live/static/assets/js/pagead.min.js
@@ -218,6 +224,8 @@ www.naver.com##iframe[id^="da_iframe_"]
 /RealMedia/ads/
 
 ! #ZE:EXTENDED_CSS
+ppomppu.co.kr#?#tbody > tr.list_notice > td img[src="/images/list_icon_ad.png"]:upward(2)
+ppomppu.co.kr#?#ul#new_bbs_best > li > a.title span[style="color:#1264b1;"]:upward(2)
 m.bobaedream.co.kr#?#div[style^="display:flex;"] > div[id^="div-gpt-ad-"]:upward(1)
 bobaedream.co.kr#?#tr.best > td a[href*="bobaedream.co.kr/event/event_list.php?"]:upward(2)
 orbi.kr#?#a[class="tag"][href^="/list/tag/"][-ext-contains="#제휴사공지"]:upward(li.notice)
