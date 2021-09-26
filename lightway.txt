@@ -7,6 +7,7 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+etoland.co.kr##ul.board_list > li.subject.ad_subject
 etoland.co.kr##.img_latest_wrap > a img[src*="_banner.png"]
 etoland.co.kr#$#.list_content { width: 100%!important; }
 etoland.co.kr##.aside_bog_banner_wrap
