@@ -3464,6 +3464,7 @@ etnews.com##span.ad_336x280
 eto.co.kr##div.tvSideAd
 etoday.co.kr##div.l_content_module>div[style="margin-top:20px"]
 etoday.co.kr##div.l_content_module>div[style="width:680px;height:250;margin:40px auto 0"]
+etoland.co.kr##.aside_bog_banner_wrap
 etoland.co.kr##div.eto_banner
 etoland.co.kr##img[src*="//www.etoland.co.kr/data/daumeditor10/"]:not(.lazy-hidden)
 everytime.kr##div[class^="banner"]
@@ -7414,6 +7415,7 @@ zum.com##div#wrap_ad_main
 zum.com##div#wrap_ad_minisite
 
 ! Extended CSS rules
+etoland.co.kr#?#tbody > tr > td > img[src*="/img/adland01.gif"]:upward(2)
 chosun.com#?#div.raw-html > div iframe[src*="//adex.ednplus.com/"]:upward(2)
 meeco.kr#?#a img[src^="/images/custom_ads/"]:upward(1)
 tgd.kr#?#div[id^="div-gpt-ad-"]:upward(div[style*="background:"])
