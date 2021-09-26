@@ -7,6 +7,12 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+etoland.co.kr##.img_latest_wrap > a img[src*="_banner.png"]
+etoland.co.kr#$#.list_content { width: 100%!important; }
+etoland.co.kr##.aside_bog_banner_wrap
+etoland.co.kr##td#mw_basic > div[style="height:90px; text-align:center; margin-top:10px; margin-bottom:10px;"]
+etoland.co.kr##.g_banner
+etoland.co.kr##img[src*="//www.etoland.co.kr/data/daumeditor10/"]
 m.ppomppu.co.kr##ul.board-sponsor
 m.ppomppu.co.kr##.google-ad
 m.ppomppu.co.kr##section.shopping-board
@@ -227,6 +233,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 /RealMedia/ads/
 
 ! #ZE:EXTENDED_CSS
+etoland.co.kr#?#tbody > tr > td > img[src*="/img/adland01.gif"]:upward(2)
 m.ppomppu.co.kr#?#div#bbs_inform > ul > li span:contains(AD):upward(1)
 ppomppu.co.kr#?#tbody > tr.list_notice > td img[src="/images/list_icon_ad.png"]:upward(2)
 ppomppu.co.kr#?#ul#new_bbs_best > li > a.title span[style="color:#1264b1;"]:upward(2)
