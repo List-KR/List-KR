@@ -603,6 +603,7 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||178.175.132.130/script/ad.php^
 ||211.234.119.116/pront/default.asp^
 ||218.153.11.175^
+||2cpu.co.kr/data/banner/
 ||2gwzdkjrtb.ru/script.js^
 ||3407.tm.zedo.com/v1/*/atm.js^
 ||58.120.226.147^
@@ -7257,7 +7258,7 @@ www-makeuseof-com.cdn.ampproject.org##div.ad-even
 www-makeuseof-com.cdn.ampproject.org##div.ad-odd
 www-makeuseof-com.cdn.ampproject.org##div.ad-zone
 www-makeuseof-com.cdn.ampproject.org##div.ad-zone-container
-www.2cpu.co.kr##a[href*="banner"]
+www.2cpu.co.kr##a[href^="./bbs/banner_link.php?"]
 xetown.com##.adsense
 xportsnews.com##div.ad_1
 xportsnews.com##div.ad_wrap
