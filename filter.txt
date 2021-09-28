@@ -7257,6 +7257,7 @@ www-makeuseof-com.cdn.ampproject.org##div.ad-even
 www-makeuseof-com.cdn.ampproject.org##div.ad-odd
 www-makeuseof-com.cdn.ampproject.org##div.ad-zone
 www-makeuseof-com.cdn.ampproject.org##div.ad-zone-container
+www.2cpu.co.kr##a[href*="banner"]
 xetown.com##.adsense
 xportsnews.com##div.ad_1
 xportsnews.com##div.ad_wrap
