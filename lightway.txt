@@ -7,6 +7,9 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+coolenjoy.net##.simple_banner_wrap
+coolenjoy.net##img[src^="https://photo.coolenjoy.net/banner/"]
+||photo.coolenjoy.net/banner/
 quasarzone.com##div[class^="main-"][class$="-banner"]
 quasarzone.com#$#div#con-body { padding-top: 60px!important; }
 quasarzone.com##.top-banner
@@ -243,6 +246,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 /RealMedia/ads/
 
 ! #ZE:EXTENDED_CSS
+coolenjoy.net#?##sidebar > .tab > a img[src^="https://photo.coolenjoy.net/banner/"]:upward(2)
 quasarzone.com#?#.flex-viewport > ul > li > a[onclick^="clickBanner("]:upward(.flexsliderwrapper)
 etoland.co.kr#?#tbody > tr > td > img[src*="/img/adland01.gif"]:upward(2)
 m.ppomppu.co.kr#?#div#bbs_inform > ul > li span:contains(AD):upward(1)
