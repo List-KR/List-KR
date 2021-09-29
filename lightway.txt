@@ -7,6 +7,9 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+quasarzone.com##div[class^="main-"][class$="-banner"]
+quasarzone.com#$#div#con-body { padding-top: 60px!important; }
+quasarzone.com##.top-banner
 quasarzone.com##div[class^="banner-"]
 ||img*.quasarzone.com/banner/
 ||img*.quasarzone.co.kr/banner/
