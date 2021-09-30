@@ -7,6 +7,10 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+web.humoruniv.com##html > body#body div[style^="clear:both;"]
+web.humoruniv.com#$##wrap_winfo { width: 100%!important; }
+web.humoruniv.com#$##wrap_ctgr_new { width: 100%!important; }
+web.humoruniv.com##a[onmouseover="ad_choo_over();"]
 mlbpark.donga.com##ul.lists > li.items::before
 mlbpark.donga.com##.naver_power
 mlbpark.donga.com###advertise_naver
