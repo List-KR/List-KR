@@ -7,6 +7,8 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+mlbpark.donga.com##.naver_power
+mlbpark.donga.com###advertise_naver
 coolenjoy.net##.simple_banner_wrap
 coolenjoy.net##img[src^="https://photo.coolenjoy.net/banner/"]
 ||photo.coolenjoy.net/banner/
