@@ -7,6 +7,13 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+m.humoruniv.com##div[style^="margin:"] > div[style^="width:100%;height:250px;clear:both;"]
+m.humoruniv.com##.ad_bg
+m.humoruniv.com###comment > ul div[style="min-height:100px;"]
+m.humoruniv.com###pnut_iframe
+m.humoruniv.com##div[id^="ddn_ad_"]
+||m.humoruniv.com/banner/
+||m.humoruniv.com/board/boardexp/styleofpower.html
 web.humoruniv.com##html > body#body div[style^="clear:both;"]
 web.humoruniv.com#$##wrap_winfo { width: 100%!important; }
 web.humoruniv.com#$##wrap_ctgr_new { width: 100%!important; }
@@ -253,6 +260,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 /RealMedia/ads/
 
 ! #ZE:EXTENDED_CSS
+m.humoruniv.com#?#tbody > tr > td table.powerlink:upward(7)
 coolenjoy.net#?##sidebar > .tab > a img[src^="https://photo.coolenjoy.net/banner/"]:upward(2)
 quasarzone.com#?#.flex-viewport > ul > li > a[onclick^="clickBanner("]:upward(.flexsliderwrapper)
 etoland.co.kr#?#tbody > tr > td > img[src*="/img/adland01.gif"]:upward(2)
