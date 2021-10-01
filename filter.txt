@@ -7010,6 +7010,7 @@ url.kr##div.container>form>div[style="text-align: center;"]
 url.kr##div.jbMenu
 url.kr##section#bo_v_atc>div[style="text-align: center;"]
 url.kr##a[href^="https://coupa.ng/"]
+url.kr##.each_bn
 usatoday.com##aside[aria-label="advertisement"]
 usatoday.com##div.ad-container
 usatoday.com##div[id^="ad-position-"]
