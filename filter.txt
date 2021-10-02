@@ -2370,6 +2370,7 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||uplus.kr/cd/cdNavi/retreieveHtml*JS*.dmd^
 ||uplus.kr/common/m_js/mobile_html_web*.js^
 ||urldelivery.com/watch.
+||url.kr/g5/data/banner/
 ||util.simply-hentai.com/prod/*?d=$domain=simply-hentai.com
 ||utildown.co.kr/adv/adv.php^
 ||v5.actionteaser.ru/news.php^
