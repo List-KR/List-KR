@@ -2370,6 +2370,7 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||uplus.kr/cd/cdNavi/retreieveHtml*JS*.dmd^
 ||uplus.kr/common/m_js/mobile_html_web*.js^
 ||urldelivery.com/watch.
+||url.kr/g5/data/banner/
 ||util.simply-hentai.com/prod/*?d=$domain=simply-hentai.com
 ||utildown.co.kr/adv/adv.php^
 ||v5.actionteaser.ru/news.php^
@@ -7010,6 +7011,7 @@ url.kr##div.container>form>div[style="text-align: center;"]
 url.kr##div.jbMenu
 url.kr##section#bo_v_atc>div[style="text-align: center;"]
 url.kr##a[href^="https://coupa.ng/"]
+url.kr##.each_bn
 usatoday.com##aside[aria-label="advertisement"]
 usatoday.com##div.ad-container
 usatoday.com##div[id^="ad-position-"]
