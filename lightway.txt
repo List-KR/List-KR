@@ -7,6 +7,9 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+tgd.kr##div#main-menu > div[style^="background:"][align="center"]
+tgd.kr###header-top-notice
+tgd.kr#$##header-menu-right { float: right!important; }
 m.humoruniv.com##div[style^="margin:"] > div[style^="width:100%;height:250px;clear:both;"]
 m.humoruniv.com##.ad_bg
 m.humoruniv.com###comment > ul div[style="min-height:100px;"]
@@ -260,6 +263,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 /RealMedia/ads/
 
 ! #ZE:EXTENDED_CSS
+tgd.kr#?#div[style^="display:"][style*="flex;"] > div[style^="flex:"]:contains(AD):upward(2)
 m.humoruniv.com#?#tbody > tr > td table.powerlink:upward(7)
 coolenjoy.net#?##sidebar > .tab > a img[src^="https://photo.coolenjoy.net/banner/"]:upward(2)
 quasarzone.com#?#.flex-viewport > ul > li > a[onclick^="clickBanner("]:upward(.flexsliderwrapper)
