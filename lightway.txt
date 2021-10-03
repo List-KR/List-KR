@@ -7,6 +7,8 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+m.inven.co.kr#%#//scriptlet('set-constant', 'MOBILE.Ad', 'null')
+inven.co.kr#%#//scriptlet('set-constant', 'INVEN.Ad', 'null')
 m.inven.co.kr##div#page > div[style*="height:50px;"]
 m.inven.co.kr###topslideAd
 m.inven.co.kr##div[id^="mobileTailAd"]
