@@ -7,6 +7,8 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+tgd.kr##div[style*="background:url(https://upload.tgd.kr/banner/320x50n.jpg)"]
+tgd.kr###board-upper-banner-area
 tgd.kr##div#main-menu > div[style^="background:"][align="center"]
 tgd.kr###header-top-notice
 tgd.kr#$##header-menu-right { float: right!important; }
