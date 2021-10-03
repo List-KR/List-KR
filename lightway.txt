@@ -7,10 +7,14 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+m.inven.co.kr##div#page > div[style*="height:50px;"]
+m.inven.co.kr###topslideAd
+m.inven.co.kr##div[id^="mobileTailAd"]
+m.inven.co.kr##.mobile-ad
 inven.co.kr###inven_reservation_box
 inven.co.kr##.menuGroup.imt_banner
 inven.co.kr##.banner_box
-inven.co.kr##iframe[src*="://zicf.inven.co.kr/RealMedia/ads/"]
+inven.co.kr##iframe[src*="//zicf.inven.co.kr/RealMedia/ads/"]
 inven.co.kr#$#body { background-image: none!important; }
 inven.co.kr##div[class^="ad-"]
 inven.co.kr##section[class^="ad-"]
