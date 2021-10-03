@@ -7,6 +7,15 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+inven.co.kr###inven_reservation_box
+inven.co.kr##.menuGroup.imt_banner
+inven.co.kr##.banner_box
+inven.co.kr##iframe[src*="://zicf.inven.co.kr/RealMedia/ads/"]
+inven.co.kr#$#body { background-image: none!important; }
+inven.co.kr##div[class^="ad-"]
+inven.co.kr##section[class^="ad-"]
+inven.co.kr#$#section.right-menu { margin-top: 0px!important; }
+inven.co.kr###topskyAd
 tgd.kr##div[style*="background:url(https://upload.tgd.kr/banner/320x50n.jpg)"]
 tgd.kr###board-upper-banner-area
 tgd.kr##div#main-menu > div[style^="background:"][align="center"]
@@ -248,6 +257,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 ||taboola.com^$third-party
 
 ! #ZE:FIRSTPARTY
+||ads.inven.co.kr^
 ||addc.dcinside.com^
 ||adscdn.orbi.kr^
 ||ads.orbi.kr^
