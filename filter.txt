@@ -7447,3 +7447,7 @@ koreapas.com$$script[tag-content="function adBlockDetected()"]
 liveinincheon.tistory.com$$script[tag-content="h237.nextFunction()"]
 thehindu.com$$script[tag-content="Adblock"]
 pixlr.com$$script[tag-content="cancelAdBlocker()"]
+
+! Stealth Mode
+! https://github.com/AdguardTeam/AdguardFilters/issues/97249 [Stealth Mode - Referrer]
+@@||dapi.kakao.com/v*/maps/sdk.js$stealth,domain=land.gnkcr.com
