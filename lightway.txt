@@ -270,6 +270,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 ||ads.mtgroup.kr^
 
 ! #ZE:ALLOWLIST
+@@||t1.daumcdn.net/adfit/static/kp.js$domain=pindirectshop.com
 @@||ssl.pstatic.net/adimg3.search/adpost/js/adpost_show_ads_v2.min.js$domain=m.clien.net
 
 ! #ZE:ALLOWLIST_STEALTH

@@ -16,6 +16,7 @@
 @@||ssl.pstatic.net/adimg3.search/adpost/js/adpost_show_ads_v2.min.js$script,domain=search.danawa.com|m.danawa.com|m.clien.net
 @@||vads-api.ad.daum.net/xylophone/adrequest/vmap/
 @@/script/bannerpop.js$domain=mindpost.or.kr
+@@||t1.daumcdn.net/adfit/static/kp.js$domain=pindirectshop.com
 
 ! General element hiding rules
 ##a[href*="//010bts.com"]
