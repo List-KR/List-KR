@@ -7,6 +7,7 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+2cpu.co.kr##a[href*="./bbs/banner_link.php?"]
 ruliweb.com#$#.user_view { width: 100%!important; }
 ruliweb.com##div[id^="adsense_"]
 ruliweb.com##div[class^="ad_"]
@@ -287,6 +288,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 /RealMedia/ads/
 
 ! #ZE:EXTENDED_CSS
+2cpu.co.kr#?#tbody > tr.is_notice > td a[href^="../ad_board/"]:upward(2)
 tgd.kr#?#div[style^="display:"][style*="flex;"] > div[style^="flex:"]:contains(AD):upward(2)
 m.humoruniv.com#?#tbody > tr > td table.powerlink:upward(7)
 coolenjoy.net#?##sidebar > .tab > a img[src^="https://photo.coolenjoy.net/banner/"]:upward(2)
