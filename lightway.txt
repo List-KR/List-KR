@@ -280,6 +280,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 @@||dcinside.co.kr/viewimage.php?$media,image,stealth
 
 ! #ZE:GENERAL_URL
+/data/banner/*
 /data/banner.json?
 /ad-manager.min.js
 /banners/
