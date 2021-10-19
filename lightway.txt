@@ -7,6 +7,9 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+ruliweb.com#$#.user_view { width: 100%!important; }
+ruliweb.com##div[id^="adsense_"]
+ruliweb.com##div[class^="ad_"]
 m.inven.co.kr#%#//scriptlet('set-constant', 'MOBILE.Ad', 'null')
 inven.co.kr#%#//scriptlet('set-constant', 'INVEN.Ad', 'null')
 m.inven.co.kr##div#page > div[style*="height:50px;"]
