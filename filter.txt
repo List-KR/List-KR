@@ -1095,6 +1095,7 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||candy.ad9.kr^
 ||car.chosun.com/common/right/banner/index.html^$domain=car.chosun.com
 ||care-health.co.kr^
+||catad5959.com^
 ||cas.criteo.com/delivery/ajs.php^
 ||cast.imp.joins.com/bid/$domain=ooyala.com|news.joins.com|news.jtbc.joins.com|vod.jtbc.joins.com
 ||cast.imp.joins.com/body/$domain=m.isplus.joins.com|mnews.jtbc.joins.com|news.joins.com|vod.jtbc.joins.com
@@ -2429,10 +2430,6 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||wikitree.co.kr/ad/
 ||wizard2.sbs.co.kr/w3/common/common_ad.jsp^
 ||wowtv.co.kr/AD/
-||wr.catad5959.com/banner/ad*.control.js^
-||wr.catad5959.com/banner/wrcatad.t*.banner_v*.asp^
-||wr.catad5959.com/native/wrcatad.t*.banner.js^
-||wr.catad5959.com/native/wrcatad.t*.native_banner.asp^
 ||wstatic.dcinside.com/ad/
 ||wstatic.dcinside.com/gallery/top/ad_top/
 ||ww3.vidzi.tv/*/*/*/*.js^$domain=vidzi.tv
