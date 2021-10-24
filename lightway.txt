@@ -7,7 +7,7 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
-kukinews.com##.banner
+pressian.com,kukinews.com##.banner
 ||kukinews.com/data/kuk/banner/
 ||mmzone.co.kr/menu/top_ad.php
 mmzone.co.kr###main_premium_spon_block
