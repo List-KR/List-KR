@@ -7,6 +7,9 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+||mmzone.co.kr/menu/top_ad.php
+mmzone.co.kr###main_premium_spon_block
+mmzone.co.kr##div[id$="_ad"]
 2cpu.co.kr##a[href*="./bbs/banner_link.php?"]
 ruliweb.com#$#.user_view { width: 100%!important; }
 ruliweb.com##div[id^="adsense_"]
