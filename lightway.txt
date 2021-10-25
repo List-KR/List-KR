@@ -7,6 +7,7 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+||timg.humoruniv.com/thumb_crop_resize*.php?url=*://i.011st.com/t/
 ||img.ruliweb.net/view/
 pressian.com,kukinews.com##.banner
 ||kukinews.com/data/kuk/banner/
