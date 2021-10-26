@@ -7422,6 +7422,8 @@ star.ohmynews.com##li[-ext-has=">.ad-box"]
 zipbogo.net##.sidebar > ul > li[-ext-has='a[href*="/ad/"],a[onclick^="visitWebBanner("]']
 
 ! JS rules
+! #%#//scriptlet('abort-current-inline-script', 'document.addEventListener', '/adscale_slot_id/')
+seo-marketing.co.kr#%#//scriptlet('abort-current-inline-script', 'document.addEventListener', '/adscale_slot_id/')
 ! START: https://github.com/AdguardTeam/AdguardFilters/blob/master/EnglishFilter/sections/antiadblock.txt
 ! #%#//scriptlet('abort-current-inline-script', 'document.addEventListener', '/google_ad_client/')
 3dpchip.com#%#//scriptlet('abort-current-inline-script', 'document.addEventListener', '/google_ad_client/')
