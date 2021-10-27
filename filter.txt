@@ -2283,6 +2283,7 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||static.tpmn.co.kr/sf/v2/tpmn.smartframe.client.js^
 ||static.tpmn.co.kr/suez_act/inv/*.js^
 ||static.vidzi.tv/static/ads.js^$domain=vidzi.tv
+||static-whale.pstatic.net/main/$image,domain=www.naver.com
 ||static2.vidto.me/b8/b4/50/*.js$domain=vidto.me
 ||static9.vidzi.tv/*.php^$domain=vidzi.tv
 ||stawhoph.com/apu.php^
