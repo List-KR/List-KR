@@ -697,7 +697,7 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||ad.ilbe.com/files2/ad/
 ||ad.ilikesponsorad.co.kr^
 ||ad.ilikesponsorad.com^
-||ad.imp.joins.com/html/$domain=mnews.jtbc.joins.com|news.joins.com
+||ad.imp.joins.com^
 ||ad.ingfac.co.kr^
 ||ad.jjang0u.com:8080^
 ||ad.kmib.co.kr^
@@ -2660,7 +2660,7 @@ asiae.co.kr,view.asiae.co.kr##div.fl_fr
 asiae.co.kr,view.asiae.co.kr##div.news_view_ad
 asiae.co.kr,view.asiae.co.kr##div.wing_left
 asiae.co.kr,view.asiae.co.kr##div.wing_right
-asiae.co.kr,view.asiae.co.kr##div[class^="ad_"]
+joongang.co.kr,asiae.co.kr,view.asiae.co.kr##div[class^="ad_"]
 asiatoday.co.kr##div#ad_optima_wrap
 asiatoday.co.kr##div#scrolling_banner
 asiatoday.co.kr##div#scrolling_left_banner
@@ -4157,10 +4157,6 @@ joinsmsn.com##div#shopping_area
 joinsmsn.com##div#shoppingnews
 joinsmsn.com##div.brandtext_area
 joinsmsn.com##div[class$="ad_link_area"]
-joongang.joins.com##div.ad
-joongang.joins.com##div.event_banner_wrap
-joongang.joins.com##div.promotion_banner03
-joongang.joins.com##div[data-widget-type="Ad"]
 joongdo.co.kr##div#id_header_R
 joynews24.com##ad
 joynews24.com##container.ad-head

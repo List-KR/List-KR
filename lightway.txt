@@ -19,7 +19,7 @@ mmzone.co.kr##div[id$="_ad"]
 2cpu.co.kr##a[href*="./bbs/banner_link.php?"]
 ruliweb.com#$#.user_view { width: 100%!important; }
 ruliweb.com##div[id^="adsense_"]
-ruliweb.com##div[class^="ad_"]
+joongang.co.kr,ruliweb.com##div[class^="ad_"]
 m.inven.co.kr#%#//scriptlet('set-constant', 'MOBILE.Ad', 'null')
 inven.co.kr#%#//scriptlet('set-constant', 'INVEN.Ad', 'null')
 m.inven.co.kr##div#page > div[style*="height:50px;"]
@@ -276,6 +276,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 ||taboola.com^$third-party
 
 ! #ZE:FIRSTPARTY
+||ad.imp.joins.com^
 ||ads.inven.co.kr^
 ||addc.dcinside.com^
 ||adscdn.orbi.kr^
