@@ -7,6 +7,7 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+namu.wiki##article > div[id^="tchika"].c
 namu.wiki##iframe[src*="//arca.live/static/ad/call_ad.html?"]
 ||arca.live/static/ad/
 ||timg.humoruniv.com/thumb_crop_resize*.php?url=*://i.011st.com/t/
