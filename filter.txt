@@ -7404,6 +7404,7 @@ zum.com##div#wrap_ad_main
 zum.com##div#wrap_ad_minisite
 
 ! Extended CSS rules
+namu.wiki#?#aside > div[id^="tchika"].c:has(> div[id^="tchika"]:not(.c))
 namu.wiki#?#div.app > div > > div > div > div > iframe[src*="//arca.live/static/ad/call_ad.html?"]:upward(3)
 torrentview41.com#?#.col-md-3.widget-index-left.hidden-sm.hidden-xs > .row > .widget-main-box h3:contains(보증업체):upward(1)
 etoland.co.kr#?#tbody > tr > td > img[src*="/img/adland01.gif"]:upward(2)

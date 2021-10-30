@@ -301,6 +301,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 /RealMedia/ads/
 
 ! #ZE:EXTENDED_CSS
+namu.wiki#?#aside > div[id^="tchika"].c:has(> div[id^="tchika"]:not(.c))
 namu.wiki#?#div.app > div > > div > div > div > iframe[src*="//arca.live/static/ad/call_ad.html?"]:upward(3)
 2cpu.co.kr#?#tbody > tr > td a[href^="../ad_board/"]:upward(2)
 tgd.kr#?#div[style^="display:"][style*="flex;"] > div[style^="flex:"]:contains(AD):upward(2)
