@@ -710,6 +710,7 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||ad.medicaltimes.com/ADManager2018/$domain=medicaltimes.com
 ||ad.mox.tv/mox/mwayss_invocation.min.js^
 ||ad.naver.com/fxshow^
+||ad.newspim.com^
 ||ad.nsonmedia.com/media/
 ||ad.openmatch.co.kr^
 ||ad.osen.co.kr^
@@ -1562,6 +1563,7 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||img.mrep.kr/slot/*.html^
 ||img.nabang.tv/partner/banner/
 ||img.newspim.com/banner/$domain=newspim.com
+||img.newspim.com/ad/
 ||img.samsungapps.com/display^$app=com.samsung.android.game.gamehome
 ||img.sbs.co.kr/news/ad/delay_redirect.html^$domain=news.sbs.co.kr
 ||img.sbs.co.kr/news/ad/delay_redirect_mobile.html^
@@ -4696,7 +4698,7 @@ m.fnnews.com##div[id^="adBody_"]
 m.fnnews.com##div[id^="adTop_"]
 m.focus.kr##div#f_UX_ad
 m.focus.kr##div#sb-site>div[style="display:block;position:relative;width:100%;overflow:hidden;text-align:center;z-index: 100000;background-color:#fff;"]
-m.focus.kr##div.ad-box
+newspim.com,m.focus.kr##div.ad-box
 m.focus.kr##div.adv_bottom
 m.focus.kr##div.fixed_ad
 m.focus.kr##iframe[id^="adv_banner"]
@@ -5925,17 +5927,7 @@ newspic.kr##div.aside_wrap>div.box[style="padding: 32px 16px 32px 20px;"]
 newspic.kr##div.aside_wrap>div.box[style="padding: 32px 20px 30px;"]
 newspic.kr##div.banner_view
 newspic.kr##div.googleAD_wrap
-newspim.com##aside.side_wrap>div[style="width:300px; height:128px; background-color:#777; color:#fff; margin-bottom:10px"]
-newspim.com##aside.side_wrap>div[style="width:300px; height:200px; background-color:#777; color:#fff; margin-bottom:10px"]
-newspim.com##div#wrap>div#slideshow
-newspim.com##div#wrap>div[style="margin-bottom: 20px; border: 1px solid white; text-align: center;"]
-newspim.com##div#wrap>div[style="position:absolute; z-index:1;left:50%; top:225px; margin-left:510px"]
-newspim.com##div#wrap>div[style="position:absolute; z-index:1;left:50%; top:850px; margin-left:510px"]
-newspim.com##div.bodynews>div[style="margin-bottom: 20px; border: 1px solid white; text-align: center;"]
-newspim.com##div.container>div[style="position:absolute; top:241px; z-index:1000; margin-left:-630px; left:50%;"]
-newspim.com##div.txtbanner
-newspim.com##div[data-widget_id="QXeveVoe"]
-newspim.com##div[data-widget_id="ko8GEeXE"]
+newspim.com##aside.side_wrap > div[style^="height:"]
 newsprime.co.kr##a[href^="http://www.newsprime.co.kr/news/banner_click.php"]
 newsprime.co.kr##div.section_4>div[style="padding-bottom:10px;text-align:center;"]
 newstown.co.kr##div#_article>div[style="float:left; margin-right: 10px; margin-bottom: 5px;"]
@@ -6069,7 +6061,7 @@ osen.mt.co.kr##div.detailBox>div[style="width:652px;height:240px;overflow:hidden
 osen.mt.co.kr##div.detailView>ul.articleList
 osen.mt.co.kr##div.divBox
 osen.mt.co.kr##div.mask_div
-osen.mt.co.kr##div.topBanner
+newspim.com,osen.mt.co.kr##div.topBanner
 oshiete.goo.ne.jp##div#gheader
 oshiete.goo.ne.jp##div.pr-unit
 osxdaily.com##div#lower_content_ad_box

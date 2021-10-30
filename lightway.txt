@@ -7,6 +7,10 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+||img.newspim.com/banner/
+newspim.com##aside.side_wrap > div[style^="height:"]
+||img.newspim.com/ad/
+newspim.com##.topbanner
 dcinside.com###ad-layer
 namu.wiki##article > div[id^="tchika"].c
 namu.wiki##iframe[src*="//arca.live/static/ad/call_ad.html?"]
@@ -33,7 +37,7 @@ inven.co.kr##.menuGroup.imt_banner
 inven.co.kr##.banner_box
 inven.co.kr##iframe[src*="//zicf.inven.co.kr/RealMedia/ads/"]
 inven.co.kr#$#body { background-image: none!important; }
-inven.co.kr##div[class^="ad-"]
+newspim.com,inven.co.kr##div[class^="ad-"]
 inven.co.kr##section[class^="ad-"]
 inven.co.kr#$#section.right-menu { margin-top: 0px!important; }
 inven.co.kr###topskyAd
@@ -278,6 +282,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 ||taboola.com^$third-party
 
 ! #ZE:FIRSTPARTY
+||ad.newspim.com^
 ||ad.imp.joins.com^
 ||ads.inven.co.kr^
 ||addc.dcinside.com^
