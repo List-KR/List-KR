@@ -110,7 +110,7 @@ hankyung.com##.articlebanner
 hankyung.com##.inner_aside > .asidemodule.info_time
 hankyung.com##.ad_top
 hankyung.com#$#.module_wrap.poll { width: 100%!important; }
-orbi.kr#$#div.global-top { top: 0px; }
+orbi.kr#$#.global-top { top: 0px!important; }
 orbi.kr##div.panel.class-event-wrap
 ||s3-class.orbi.kr/event/
 orbi.kr##a[href^="https://ads.orbi.kr/"]
