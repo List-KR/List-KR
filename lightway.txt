@@ -7,6 +7,11 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+coupang.com##.srp-top-banner-container
+coupang.com###sdpBottomAds
+coupang.com###sdp-bottom-banner
+coupang.com###sdpAdsBottom
+coupang.com###sdp-mid-banner-btf
 ||img.newspim.com/banner/
 newspim.com##aside.side_wrap > div[style^="height:"]
 ||img.newspim.com/ad/

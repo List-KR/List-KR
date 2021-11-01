@@ -3042,6 +3042,11 @@ cosmorning.com##div#divAdLeft
 cosmorning.com##div#divAdRight
 cosmorning.com##div.td-header-sp-recs
 cosmorning.com##div.td-ss-main-sidebar>aside.widget_text
+coupang.com##.srp-top-banner-container
+coupang.com###sdp-mid-banner-btf
+coupang.com###sdpBottomAds
+coupang.com###sdp-bottom-banner
+coupang.com###sdpAdsBottom
 css3.info##ins[data-ad-slot="1376369752"]
 css3.info##ins[data-ad-slot="3598627297"]
 css3.info##ins[data-ad-slot="4249110959"]
