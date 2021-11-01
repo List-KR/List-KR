@@ -7437,3 +7437,5 @@ pixlr.com$$script[tag-content="cancelAdBlocker()"]
 ! Stealth Mode
 ! https://github.com/AdguardTeam/AdguardFilters/issues/97249 [Stealth Mode - Referrer]
 @@||dapi.kakao.com/v*/maps/sdk.js$stealth,domain=land.gnkcr.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/98688 [Stealth Mode - Referrer]
+@@||player2.studiouniversal.net/video/$stealth,domain=noonoo.tv
