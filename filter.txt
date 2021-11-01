@@ -1977,6 +1977,7 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||nocutnews.co.kr/banner/2012/ad_right_*.asp^
 ||nodecraft.com/assets/images/sales/
 ||nongmin.com/upload/kcun/banner/$domain=nongmin.com
+||noonoo-images.studiouniversal.net/banner/
 ||npian.com/nbox/ad*.swf^
 ||nscreen.neoebiz.co.kr/screensharpJS.php^
 ||nscreen.neoebiz.co.kr/screenView.js^
@@ -5986,6 +5987,7 @@ nongmin.com##div.banner-wrap
 nongmin.com##div.google-horizontal
 nongmin.com##div.google-vertical
 nongmin.com##div.right-top-banner
+noonoo.tv##.partner-banner-wrap
 noquick.tistory.com##div.tt_article_useless_p_margin>div[style="float:left;margin:0 10px 10px 0;width:336px;height:280px"]
 nownews.seoul.co.kr##div#articleContent>table[width="250px"][height="250px"]
 nownews.seoul.co.kr##div.Rad
