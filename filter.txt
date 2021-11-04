@@ -1189,6 +1189,7 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||click.sodatorrent.com^
 ||clkads.com^
 ||clksite.com/adServe/banners^
+||cloudaaaa.com/c/*.gif
 ||cm1.joins.com^
 ||cm1.jssearch.net^
 ||cm2.cjmooter.com^
@@ -5356,13 +5357,7 @@ marshmallow-qa.com##body>div.my-4
 marshmallow-qa.com##li.ad
 marshmallow-qa.com##main.container>div.my-4
 map.naver.com##div.promotion_wrap
-marumaru.city##div.w_banner
-marumaru.ski##div.banner_m
-marumaru.ski,marumaru.ninja##div.w_banner
-marumaru.tel##div.banner_m
-marumaru.tel##div.w_banner
-marumaru.tel##img[src^="https://i.imgur.com"]
-marumaru.voto##div.w_banner
+marumaru219.com,marumaru220.com,marumaru221.com,marumaru222.com,marumaru223.com##.banner_m
 mashable.com##div#sticky-slot
 mashable.com##div#sticky-spacer
 mashable.com##div.ad
