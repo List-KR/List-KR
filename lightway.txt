@@ -301,6 +301,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 
 ! #ZE:ALLOWLIST_STEALTH
 @@||dcinside.co.kr/viewimage.php?$media,image,stealth
+@@||ac*.namu.la^$domain=arca.live,media,image,stealth
 
 ! #ZE:GENERAL_URL
 /media/banner/*
