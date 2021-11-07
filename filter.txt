@@ -1522,6 +1522,7 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||image.cauly.co.kr/websdk/multi_mini_ads/ads.js^
 ||image.cauly.co.kr:15151/richad/partnerApp/
 ||image.cauly.co.kr:15151/websdk/caulyad.min.js^
+||image.daisomall.co.kr/data/daiso_data/images/banner/
 ||image.donga.com/ad_iframe/$domain=news.donga.com
 ||image.donga.com/dac/DKBNEWS/M/*.js^$domain=dkbnews.donga.com
 ||image.donga.com/dac/DKBNEWS/PC/*.js^$domain=dkbnews.donga.com
@@ -3226,6 +3227,11 @@ youtube.com##ytd-display-ad-renderer
 youtube.com##ytd-promoted-sparkles-web-renderer
 youtube.com##ytd-search-pyv-renderer
 youtube.com##ytd-video-masthead-ad-renderer
+daisomall.co.kr##.wing_banners
+daisomall.co.kr##.table_goods_info_adcoupon
+daisomall.co.kr##.forbizSlider
+daisomall.co.kr##.header_top
+daisomall.co.kr##a[href^="/banner.link.php?"]
 diodeo.com##div#newsFloatingBanner
 dispatch.co.kr##article.article-body>div[style="display:block; margin:0 -1em 10px 0; float:right;"]
 discordia.me##div#root > main > div.container.is-fluid.has-mkcontent > div.columns.is-gapless > div.column.is-narrow.is-hidden-touch.sidebar > cloudflare-app

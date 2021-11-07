@@ -7,6 +7,12 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+||image.daisomall.co.kr/data/daiso_data/images/banner/
+daisomall.co.kr##.wing_banners
+daisomall.co.kr##.table_goods_info_adcoupon
+daisomall.co.kr##.forbizSlider
+daisomall.co.kr##.header_top
+daisomall.co.kr##a[href^="/banner.link.php?"]
 coupang.com##.srp-top-banner-container
 coupang.com###sdpBottomAds
 coupang.com###sdp-bottom-banner
