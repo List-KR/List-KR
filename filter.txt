@@ -5363,7 +5363,7 @@ marshmallow-qa.com##body>div.my-4
 marshmallow-qa.com##li.ad
 marshmallow-qa.com##main.container>div.my-4
 map.naver.com##div.promotion_wrap
-marumaru219.com,marumaru220.com,marumaru221.com,marumaru222.com,marumaru223.com##.banner_m
+marumaru220.com,marumaru221.com,marumaru222.com,marumaru223.com,marumaru224.com##.banner_m
 mashable.com##div#sticky-slot
 mashable.com##div#sticky-spacer
 mashable.com##div.ad
