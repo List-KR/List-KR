@@ -89,7 +89,7 @@ etoland.co.kr#$#.list_content { width: 100%!important; }
 etoland.co.kr##.aside_bog_banner_wrap
 etoland.co.kr##td#mw_basic > div[style="height:90px; text-align:center; margin-top:10px; margin-bottom:10px;"]
 etoland.co.kr##.g_banner
-etoland.co.kr##img[src*="//www.etoland.co.kr/data/daumeditor10/"]
+etoland.co.kr##img[src*="//www.etoland.co.kr/data/daumeditor10/"]:not(.shrinkToFit) && :not(.txc-image)
 m.ppomppu.co.kr##ul.board-sponsor
 m.ppomppu.co.kr##.google-ad
 m.ppomppu.co.kr##section.shopping-board
