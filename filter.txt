@@ -3482,7 +3482,9 @@ etoday.co.kr##div.l_content_module>div[style="margin-top:20px"]
 etoday.co.kr##div.l_content_module>div[style="width:680px;height:250;margin:40px auto 0"]
 etoland.co.kr##.aside_bog_banner_wrap
 etoland.co.kr##div.eto_banner
-etoland.co.kr##img[src*="//www.etoland.co.kr/data/daumeditor10/"]:not(.shrinkToFit) && :not(.txc-image)
+etoland.co.kr##center > a img[src*="//www.etoland.co.kr/data/daumeditor10/"]:not(.shrinkToFit)
+etoland.co.kr###mw_mobile > .index_div center
+etoland.co.kr##div[class^="power_link_"]
 everytime.kr##div[class^="banner"]
 expres.ua##div#rbTopLeaderboard
 expres.ua##div.AdxRB

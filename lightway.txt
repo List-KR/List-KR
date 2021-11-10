@@ -7,6 +7,8 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+etoland.co.kr##div[class^="power_link_"]
+etoland.co.kr###mw_mobile > .index_div center
 ||image.daisomall.co.kr/data/daiso_data/images/banner/
 daisomall.co.kr##.wing_banners
 daisomall.co.kr##.table_goods_info_adcoupon
@@ -89,7 +91,7 @@ etoland.co.kr#$#.list_content { width: 100%!important; }
 etoland.co.kr##.aside_bog_banner_wrap
 etoland.co.kr##td#mw_basic > div[style="height:90px; text-align:center; margin-top:10px; margin-bottom:10px;"]
 etoland.co.kr##.g_banner
-etoland.co.kr##img[src*="//www.etoland.co.kr/data/daumeditor10/"]:not(.shrinkToFit) && :not(.txc-image)
+etoland.co.kr##center > a img[src*="//www.etoland.co.kr/data/daumeditor10/"]:not(.shrinkToFit)
 m.ppomppu.co.kr##ul.board-sponsor
 m.ppomppu.co.kr##.google-ad
 m.ppomppu.co.kr##section.shopping-board
