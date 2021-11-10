@@ -7,6 +7,7 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+||external.impression-neo.naver.com/api/*/ads/search-jsonp
 etoland.co.kr##div[class^="power_link_"]
 etoland.co.kr###mw_mobile > .index_div center
 ||image.daisomall.co.kr/data/daiso_data/images/banner/
@@ -295,6 +296,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 ||taboola.com^$third-party
 
 ! #ZE:FIRSTPARTY
+||searchad-phinf.pstatic.net^
 ||ad.newspim.com^
 ||ad.imp.joins.com^
 ||ads.inven.co.kr^
