@@ -1132,7 +1132,6 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||cdn.carbonads.com/carbon.js^
 ||cdn.connatix.com/min/connatix.renderer.infeed.min.js^
 ||cdn.cpmstar.com/cached/js/*.js^
-||cdn.cxense.com/cx.js^
 ||cdn.engine.spotscenered.info/Scripts/MediaScripts/p.js^
 ||cdn.exoticads.com/xads.js^
 ||cdn.gmossp-sp.jp/ads/loader.js^
