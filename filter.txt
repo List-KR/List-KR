@@ -19,6 +19,8 @@
 @@||t1.daumcdn.net/adfit/static/kp.js$domain=pindirectshop.com
 
 ! General element hiding rules
+##a[href*="//ad-api.enuri.info/"]
+##img[src*="//ad-api.enuri.info/"]
 ##a[href*="//010bts.com"]
 ##a[href*="//747-one.com"]
 ##a[href*="//ara-0u.com"]
@@ -650,6 +652,7 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||ad*.*/event.ems/$domain=~interpark.com
 ||ad*.netshelter.net/adj/
 ||ad-api.band.us^
+||ad-api.enuri.info^
 ||ad-cdn.technoratimedia.com^
 ||ad-first.co.kr^
 ||ad-js.chip.de/js/chip/*.min.js^$domain=chip.de

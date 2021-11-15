@@ -149,6 +149,8 @@ www.naver.com###contents_productAd
 www.naver.com##iframe[id^="da_iframe_"]
 
 ! #ZE:GENERAL_ELEMHIDE
+##a[href*="//ad-api.enuri.info/"]
+##img[src*="//ad-api.enuri.info/"]
 ##div[id^="div-gpt-ad-"]
 ##iframe[src*="//adsrv-up.mcrony.com/"]
 ##div.banner_box
@@ -296,6 +298,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 ||taboola.com^$third-party
 
 ! #ZE:FIRSTPARTY
+||ad-api.enuri.info^
 ||searchad-phinf.pstatic.net^
 ||ad.newspim.com^
 ||ad.imp.joins.com^
