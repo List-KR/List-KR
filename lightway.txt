@@ -7,6 +7,15 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+enuri.com##ul#evt_banner
+enuri.com##.bnrbox.bnrbox--knowfun
+enuri.com##div.col__inner > .enurievt
+enuri.com##.bnrbox > ul.bnr__list
+enuri.com##div[class$="bnr__band"]
+enuri.com##.ad_powershopping
+enuri.com###prodPowerClick
+enuri.com##.ad_powerlink
+enuri.com###midBanner
 ||external.impression-neo.naver.com/api/*/ads/search-jsonp
 etoland.co.kr##div[class^="power_link_"]
 etoland.co.kr###mw_mobile > .index_div center
