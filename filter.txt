@@ -1020,6 +1020,7 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||bizon.kr/bizon_ad/
 ||blockadsnot.com/*.aspx^
 ||blockadsnot.com/vast-client.min.js^
+||blogfiles.pstatic.net/*/kubrick76_*_GIF/*_dokkinun.gif
 ||bnhtml.com/invoke.js^
 ||bntnews.hankyung.com/bntdata/images/ad/$domain=bntnews.hankyung.com
 ||bodnara.co.kr/09shop/article_right_box.php^$domain=bodnara.co.kr
@@ -2796,6 +2797,7 @@ blog.naver.com###ssp-adcontent
 blog.naver.com###ssp-adpost
 blog.naver.com##span[id^="adPostInjectArea_"]
 blog.naver.com##td.adpost_con
+blog.naverblogwidget.com##a[href*="//852lala.xe.to/"]
 bloomberg.com##div.bb-ads__ad
 bloomberg.com##div.in-article-ad-dummy
 bloomberg.com##div.leaderboard-ad-dummy
