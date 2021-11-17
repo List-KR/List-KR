@@ -2484,6 +2484,9 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||zumads.vrixon.com/zum.vrix^$domain=pip-player.zum.com
 
 ! Site element hiding rules
+noltrt.com###download_ad_addon
+noltrt.com##.nivoSlider
+noltrt.com###xt_join_site_addons
 dcinside.com###ad-layer
 m.dcinside.com##li[class="comment"]:not(div#comment)
 dcinside.com##li[id="comment_li_0"][class="ub-content dory"]
