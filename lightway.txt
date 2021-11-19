@@ -7,6 +7,8 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+||ygosu.com/banner_img/
+m.ygosu.com##a[href*="://ygosu.com/banner2/"]
 enuri.com##ul#evt_banner
 enuri.com##.bnrbox.bnrbox--knowfun
 enuri.com##div.col__inner > .enurievt

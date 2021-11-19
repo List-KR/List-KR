@@ -2482,6 +2482,7 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||zdnet.co.kr/template_ad/$domain=zdnet.co.kr
 ||zergnet.com/zerg.js^
 ||zumads.vrixon.com/zum.vrix^$domain=pip-player.zum.com
+||ygosu.com/banner_img/
 
 ! Site element hiding rules
 noltrt.com###download_ad_addon
@@ -7308,6 +7309,7 @@ yeowonnews.com##div[style^="width:665px; height:250px; margin-bottom:30px; overf
 yepan.net##div[id^="left_ad_box_"]
 yepan.net##div[id^="pb_tab_banner"]
 yes24.com##div#divYes24SCMEvent
+m.ygosu.com##a[href*="://ygosu.com/banner2/"]
 ygosu.com##body>div[style="position:relative; width: 975px; margin: 0 auto;"]
 ygosu.com##div.ad700
 ygosu.com##div.alliance_ad
