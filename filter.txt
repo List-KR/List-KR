@@ -570,6 +570,7 @@ z9-we.com#@#a[href*="//www.z9-we.com"]
 z9-we.com#@#a[href*="//z9-we.com"]
 
 ! URL filters
+||api-ao-list.adison.co^
 /data/banner.json?
 *-ads.openx.net/w/1.0/acj^
 *-ads.openx.net/w/1.0/afr^
