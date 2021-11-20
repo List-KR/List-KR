@@ -320,6 +320,9 @@ www.naver.com##iframe[id^="da_iframe_"]
 ||ads.orbi.kr^
 ||ads.mtgroup.kr^
 
+! #ZE:MOBILE_APP
+||t1.daumcdn.net/cafe_cj/app/js/*/nativead.js
+
 ! #ZE:ALLOWLIST
 @@||t1.daumcdn.net/adfit/static/kp.js$domain=pindirectshop.com
 @@||ssl.pstatic.net/adimg3.search/adpost/js/adpost_show_ads_v2.min.js$domain=m.clien.net
