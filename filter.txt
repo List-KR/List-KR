@@ -2483,8 +2483,14 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||zergnet.com/zerg.js^
 ||zumads.vrixon.com/zum.vrix^$domain=pip-player.zum.com
 ||ygosu.com/banner_img/
+/https:\/\/linklove\d\.com\/data\/editor\/[0-9]{4}\/([a-z]|[0-9]){32}_[0-9]{10}_[0-9]{4}\.gif/
+||linklove1.com/data/apms/background/$image
+||linklove1.com/data/file/ls_
 
 ! Site element hiding rules
+linklove1.com##.miso-love-ad
+linklove1.com##.w-box > .swipe-carousel
+linklove1.com###hd_pop
 noltrt.com###download_ad_addon
 noltrt.com##.nivoSlider
 noltrt.com###xt_join_site_addons
@@ -7423,6 +7429,7 @@ enuri.com##div.col__inner > .enurievt
 enuri.com##.bnrbox > ul.bnr__list
 
 ! Extended CSS rules
+linklove1.com#?#.col-md-12 > .w-row:has(> .w-col div.miso-love-ad)
 namu.wiki#?#aside > div[id^="tchika"].c:has(> div[id^="tchika"]:not(.c))
 namu.wiki#?#div.app > div > > div > div > div > iframe[src*="//arca.live/static/ad/call_ad.html?"]:upward(3)
 torrentview41.com#?#.col-md-3.widget-index-left.hidden-sm.hidden-xs > .row > .widget-main-box h3:contains(보증업체):upward(1)
