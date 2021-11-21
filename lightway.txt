@@ -309,6 +309,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 ||taboola.com^$third-party
 
 ! #ZE:FIRSTPARTY
+||cyad1.nate.com^
 ||adimg.nate.com^
 ||api-ao-list.adison.co^
 ||ad-api.enuri.info^
@@ -322,7 +323,6 @@ www.naver.com##iframe[id^="da_iframe_"]
 ||ads.mtgroup.kr^
 
 ! #ZE:MOBILE_APP
-||cyad1.nate.com^
 ||t1.daumcdn.net/cafe_cj/app/js/*/nativead.js
 
 ! #ZE:ALLOWLIST
