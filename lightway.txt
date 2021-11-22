@@ -309,6 +309,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 ||taboola.com^$third-party
 
 ! #ZE:FIRSTPARTY
+||networkad.nate.com^
 ||cyad1.nate.com^
 ||adimg.nate.com^
 ||api-ao-list.adison.co^
