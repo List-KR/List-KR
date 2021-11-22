@@ -323,6 +323,9 @@ www.naver.com##iframe[id^="da_iframe_"]
 ||ads.mtgroup.kr^
 
 ! #ZE:MOBILE_APP
+||adpies.com^
+||ssp-ad.momento.dev^
+||sdk-bid.exelbid.com^
 ||t1.daumcdn.net/cafe_cj/app/js/*/nativead.js
 
 ! #ZE:ALLOWLIST
