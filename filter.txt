@@ -572,6 +572,8 @@ z9-we.com#@#a[href*="//www.z9-we.com"]
 z9-we.com#@#a[href*="//z9-we.com"]
 
 ! URL filters
+||addata.mediacategory.com^
+||displayad.zum.com^
 ||networkad.nate.com^
 ||adimg.nate.com^
 ||cyad1.nate.com^
