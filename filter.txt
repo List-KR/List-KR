@@ -2761,7 +2761,7 @@ bbs.ruliweb.com##div.board_main_top>div.right_wrapper
 ruliweb.com##div[id^="ad_"]
 ruliweb.com##div[id^="adsense_"]
 ruliweb.com##div.board_main > table > tbody tr.table_body.list_inner
-ruliweb.com#$#.best_list { width: 100%!important; }
+ruliweb.com#$#.user_view { width: 100%!important; }
 becle.net##div.ad_boxt
 becle.net##div.ad_mobile
 becle.net##div.aed_top
