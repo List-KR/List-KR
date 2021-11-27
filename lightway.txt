@@ -7,6 +7,8 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+||admin.clipdown.co.kr/app/webview/ad_content.php
+||admin.helpstart.co.kr/banner/banner.php
 ||ygosu.com/banner_img/
 m.ygosu.com##a[href*="://ygosu.com/banner2/"]
 enuri.com##ul#evt_banner
