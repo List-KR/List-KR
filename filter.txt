@@ -572,6 +572,8 @@ z9-we.com#@#a[href*="//www.z9-we.com"]
 z9-we.com#@#a[href*="//z9-we.com"]
 
 ! URL filters
+/https:\/\/1\.bp\.blogspot\.com\/([a-z]|[A-Z]|[0-9]|-|_){12}\/([a-z]|[A-Z]|[0-9]|-|_){11}\/([a-z]|[A-Z]|[0-9]|-|_){11}\//$image,domain=sogirl.so
+||hcdn1.maxsocdn.net/$image,media,domain=sogirl.so
 ||avjamack.com/data/by_banner/
 ||addata.mediacategory.com^
 ||displayad.zum.com^
