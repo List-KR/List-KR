@@ -572,6 +572,8 @@ z9-we.com#@#a[href*="//www.z9-we.com"]
 z9-we.com#@#a[href*="//z9-we.com"]
 
 ! URL filters
+||api.polarisoffice.com/api/*/account/getAdvertiseinfo
+||api.polarisoffice.com/api/*/account/getWebAdvertiseinfo
 ||playinfo.gomlab.com/ad_txt.html
 ||admin.clipdown.co.kr/app/webview/ad_content.php
 ||admin.helpstart.co.kr/banner/banner.php
