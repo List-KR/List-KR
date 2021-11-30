@@ -7,6 +7,8 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+ondisk.co.kr##div[id^="wingBanner-"]
+||cimage.ondisk.co.kr/data/mdns_bigbanner/
 ||api.polarisoffice.com/api/*/account/getAdvertiseinfo
 ||api.polarisoffice.com/api/*/account/getWebAdvertiseinfo
 ||playinfo.gomlab.com/ad_txt.html
