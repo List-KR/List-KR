@@ -572,6 +572,8 @@ z9-we.com#@#a[href*="//www.z9-we.com"]
 z9-we.com#@#a[href*="//z9-we.com"]
 
 ! URL filters
+/cdn\.boribori\.co\.kr(\/|\/rimg\/(0|110x250)\/)cdn\/contents\/disp_corner_conts\//
+||cdn.halfclub.com/images_web/Etc/banner/
 ondisk.co.kr##div[id^="wingBanner-"]
 ||cimage.ondisk.co.kr/data/mdns_bigbanner/
 ||api.polarisoffice.com/api/*/account/getAdvertiseinfo
@@ -2506,6 +2508,8 @@ ondisk.co.kr##div[id^="wingBanner-"]
 ||linklove1.com/data/file/ls_
 
 ! Site element hiding rules
+boribori.co.kr##div[class*="_banner"]
+boribori.co.kr##.bFloatingBanner
 linklove1.com##.miso-love-ad
 linklove1.com##.w-box > .swipe-carousel
 linklove1.com###hd_pop

@@ -7,6 +7,10 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+/cdn\.boribori\.co\.kr(\/|\/rimg\/(0|110x250)\/)cdn\/contents\/disp_corner_conts\//
+||cdn.halfclub.com/images_web/Etc/banner/
+boribori.co.kr##div[class*="_banner"]
+boribori.co.kr##.bFloatingBanner
 ondisk.co.kr##div[id^="wingBanner-"]
 ||cimage.ondisk.co.kr/data/mdns_bigbanner/
 ||api.polarisoffice.com/api/*/account/getAdvertiseinfo
