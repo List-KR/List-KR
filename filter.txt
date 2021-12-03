@@ -7500,3 +7500,5 @@ pixlr.com$$script[tag-content="cancelAdBlocker()"]
 ! Cafe & Blog services
 ! cafe.naver.com/nds07
 cafe.naver.com#?#table[role="presentation"]:has(> tbody > tr > td > div > p > img[src*="cefvcGaqwg.PNG/Main_Spon_AD-1.png?"])
+! cafe.naver.com/anycallusershow
+cafe.naver.com#?#table[role="presentation"] > tbody > tr > td > div:has(> div > a > img[src*="9KaEmwQeGPYaaxLX1fcvuhMRC1rBQvIXnv2_F2m25K8g.JPEG/558x120%283%29.jpg"])
