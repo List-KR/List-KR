@@ -7496,3 +7496,7 @@ pixlr.com$$script[tag-content="cancelAdBlocker()"]
 @@||player2.studiouniversal.net/video/$stealth,domain=noonoo.tv
 ! https://github.com/AdguardTeam/AdguardFilters/issues/98466 [Stealth Mode - Referrer]
 @@||ac*.namu.la^$domain=arca.live,media,image,stealth
+
+! Cafe & Blog services
+! cafe.naver.com/nds07
+cafe.naver.com#?#table[role="presentation"]:has(> tbody > tr > td > div > p > img[src*="cefvcGaqwg.PNG/Main_Spon_AD-1.png?"])
