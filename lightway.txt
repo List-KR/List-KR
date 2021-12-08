@@ -7,6 +7,7 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+ppomppu.co.kr##tr > td div.bridge
 /cdn\.boribori\.co\.kr(\/|\/rimg\/(0|110x250)\/)cdn\/contents\/disp_corner_conts\//
 ||cdn.halfclub.com/images_web/Etc/banner/
 boribori.co.kr##div[class*="_banner"]
