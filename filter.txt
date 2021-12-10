@@ -572,6 +572,7 @@ z9-we.com#@#a[href*="//www.z9-we.com"]
 z9-we.com#@#a[href*="//z9-we.com"]
 
 ! URL filters
+||clien.net/service/api/coupang/ad?
 ||noonoo-images.studiouniversal.net/banner/
 ||wwwimageup.11angle.net/other/atoona/
 /cdn\.boribori\.co\.kr(\/|\/rimg\/(0|110x250)\/)cdn\/contents\/disp_corner_conts\//
@@ -7454,6 +7455,7 @@ enuri.com##.bnrbox > ul.bnr__list
 avjamack.com##.col-md-3 > .widget-box.widget-img
 11toon23.com,11toon24.com,11toon25.com,11toon26.com,11toon27.com,11toon28.com,11toon29.com,11toon30.com##header > div.popups
 11toon23.com,11toon24.com,11toon25.com,11toon26.com,11toon27.com,11toon28.com,11toon29.com,11toon30.com##img[src*="//wwwimageup.11angle.net/other/atoona/"]
+clien.net###coupangAd
 
 ! Extended CSS rules
 linklove1.com#?#.col-md-12 > .w-row:has(> .w-col div.miso-love-ad)

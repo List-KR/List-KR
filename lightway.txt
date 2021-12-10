@@ -7,6 +7,8 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+clien.net###coupangAd
+||clien.net/service/api/coupang/ad?
 ppomppu.co.kr##tr > td div.bridge
 /cdn\.boribori\.co\.kr(\/|\/rimg\/(0|110x250)\/)cdn\/contents\/disp_corner_conts\//
 ||cdn.halfclub.com/images_web/Etc/banner/
