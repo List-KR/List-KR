@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_link:
+  - name: Tracker
+    url: https://github.com/AdguardTeam/AdguardFilters/issues/new?assignees=&labels=Feature+Request&template=feature_request.yml
+    about: Redirect to create new request that blocks a tracker that tracks a visitor's activities.
+  - name: Anti-RightClick
+    url: https://github.com/AdguardTeam/AdguardFilters/issues/new?assignees=&labels=Feature+Request&template=feature_request.yml
+    about: Redirect to create new request that prevents an anti-rightclick script that prevents coping or mouse right click.
+  - name: Cookie or Newsletter
+    url: https://github.com/AdguardTeam/AdguardFilters/issues/new?assignees=&labels=Feature+Request&template=feature_request.yml
+    about: Redirect to create new request that blocks a cookie notification or newsletter subscription.
+  - name: Tracking Parameter
+    url: https://github.com/AdguardTeam/AdguardFilters/issues/new?assignees=&labels=Feature+Request&template=feature_request.yml
+    about: Redirect to create new request that modifies a tracking parameter of HTTP request.

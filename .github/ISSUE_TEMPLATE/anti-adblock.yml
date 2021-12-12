@@ -1,0 +1,91 @@
+name: Anti-AdBlock
+description: Create new request that blocks an anti-adblock script.
+title: "AB: "
+labels: ["anti-adblock"]
+body:
+  - type: markdown
+    value: "### Please fill all required text field out to complete your new request."
+  
+  - type: markdown
+    value: "## Basic Information"
+
+  - type: textarea
+    id: issue_url
+    attributes:
+      label: "URL"
+      description: "Please write a URL (or URLs) that has an same issue and do NOT attach any file."
+    validations:
+      required: true
+  
+  - type: markdown
+    value: "## Environment"
+
+  - type: textarea
+    id: filters
+    attributes:
+      label: "FILTERS"
+      description: Please write your subscribed filters. It is important that reproduce your issue.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: browser
+    attributes:
+      label: "Browser"
+      description: "What is a browser (or browsers) that the issue is occurred in?"
+      options:
+        - label: Mozilla Firefox
+        - label: Google Chrome
+        - label: Microsoft Edge
+        - label: Naver Whale
+        - label: Apple Safari
+        - label: Samsung Internet
+        - label: Opera
+        - label: Vivaldi
+        - label: Brave
+        - label: (Other)
+    validations:
+      required: true
+      
+  - type: checkboxes
+    id: adblocker
+    attributes:
+      label: "Ad-Blocker"
+      description: "What is an ad-blocker that the issue is occurred with?"
+      options:
+        - label: AdGuard Browser Extension
+        - label: AdGuard for Windows
+        - label: AdGuard for Android
+        - label: AdGuard for iOS/iOS Pro
+        - label: AdGuard for Mac
+        - label: AdGuard for Safari
+        - label: AdGuard Content Blocker
+        - label: AdGuard DNS
+        - label: uBlock Origin
+        - label: Unicorn PRO for Windows
+        - label: Unicorn PRO for Android
+        - label: Unicorn PRO for iPhone
+        - label: Unicorn PRO for Mac
+        - label: (Other)
+    validations:
+      required: true
+
+  - type: markdown
+    value: "## Support"
+
+  - type: textarea
+    id: comment
+    attributes:
+      label: "Comment"
+    validations:
+      required: false
+
+  - type: textarea
+    id: openpgp_public
+    attributes:
+      label: "OpenPGP Public Key"
+    validations:
+      required: false
+
+  - type: markdown
+    value: "### Thank you for submitting!"
