@@ -12,9 +12,6 @@ body:
     validations:
       required: true
   
-  - type: markdown
-    value: "## Environment"
-
   - type: textarea
     id: filters
     attributes:
@@ -65,22 +62,9 @@ body:
     validations:
       required: true
 
-  - type: markdown
-    value: "## Support"
-
   - type: textarea
     id: comment
     attributes:
       label: "Comment"
     validations:
       required: false
-
-  - type: textarea
-    id: openpgp_public
-    attributes:
-      label: "OpenPGP Public Key"
-    validations:
-      required: false
-
-  - type: markdown
-    value: "### Thank you for submitting!"
