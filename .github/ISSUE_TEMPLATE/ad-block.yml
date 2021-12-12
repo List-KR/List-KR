@@ -3,8 +3,6 @@ description: Create new request that blocks an advertisement.
 title: "AD: "
 labels: ["advertisement"]
 body:
-  - type: markdown
-      value: "Please fill all required text field out to complete your new request."
   
   - type: markdown
       value: "## Basic Information"
