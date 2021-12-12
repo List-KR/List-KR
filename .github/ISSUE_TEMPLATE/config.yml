@@ -1,5 +1,5 @@
 blank_issues_enabled: false
-contact_link:
+contact_links:
   - name: Tracker
     url: https://github.com/AdguardTeam/AdguardFilters/issues/new?assignees=&labels=Feature+Request&template=feature_request.yml
     about: Redirect to create new request that blocks a tracker that tracks a visitor's activities.
