@@ -4,10 +4,10 @@ title: "AD: "
 labels: ["advertisement"]
 body:
   - type: markdown
-    value: "### Please fill all required text field out to complete your new request."
+      value: "### Please fill all required text field out to complete your new request."
   
   - type: markdown
-    value: "## Basic Information"
+      value: "## Basic Information"
 
   - type: textarea
     id: issue_url
@@ -18,7 +18,7 @@ body:
       required: true
   
   - type: markdown
-    value: "## Environment"
+      value: "## Environment"
 
   - type: textarea
     id: filters
@@ -71,7 +71,7 @@ body:
       required: true
 
   - type: markdown
-    value: "## Support"
+      value: "## Support"
 
   - type: textarea
     id: comment
@@ -88,4 +88,4 @@ body:
       required: false
 
   - type: markdown
-    value: "### Thank you for submitting!"
+      value: "### Thank you for submitting!"
