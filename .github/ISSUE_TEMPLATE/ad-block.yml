@@ -3,9 +3,6 @@ description: Create new request that blocks an advertisement.
 title: "AD: "
 labels: ["advertisement"]
 body:
-  
-  - type: markdown
-      value: "## Basic Information"
 
   - type: textarea
     id: issue_url

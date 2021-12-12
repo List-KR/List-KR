@@ -3,9 +3,6 @@ description: Create new request that resolve an incorrect blocking.
 title: "IC: "
 labels: ["incorrect blocking"]
 body:
-  
-  - type: markdown
-      value: "## Basic Information"
 
   - type: textarea
     id: issue_url
