@@ -27,16 +27,16 @@ body:
       description: "What is a browser (or browsers) that the issue is occurred in?"
       multiple: true
       options:
-        - label: Mozilla Firefox
-        - label: Google Chrome
-        - label: Microsoft Edge
-        - label: Naver Whale
-        - label: Apple Safari
-        - label: Samsung Internet
-        - label: Opera
-        - label: Vivaldi
-        - label: Brave
-        - label: (Other)
+        - Mozilla Firefox
+        - Google Chrome
+        - Microsoft Edge
+        - Naver Whale
+        - Apple Safari
+        - Samsung Internet
+        - Opera
+        - Vivaldi
+        - Brave
+        - (Other)
     validations:
       required: true
       
@@ -47,20 +47,20 @@ body:
       description: "What is an ad-blocker that the issue is occurred with?"
       multiple: true
       options:
-        - label: AdGuard Browser Extension
-        - label: AdGuard for Windows
-        - label: AdGuard for Android
-        - label: AdGuard for iOS/iOS Pro
-        - label: AdGuard for Mac
-        - label: AdGuard for Safari
-        - label: AdGuard Content Blocker
-        - label: AdGuard DNS
-        - label: uBlock Origin
-        - label: Unicorn PRO for Windows
-        - label: Unicorn PRO for Android
-        - label: Unicorn PRO for iPhone
-        - label: Unicorn PRO for Mac
-        - label: (Other)
+        - AdGuard Browser Extension
+        - AdGuard for Windows
+        - AdGuard for Android
+        - AdGuard for iOS/iOS Pro
+        - AdGuard for Mac
+        - AdGuard for Safari
+        - AdGuard Content Blocker
+        - AdGuard DNS
+        - uBlock Origin
+        - Unicorn PRO for Windows
+        - Unicorn PRO for Android
+        - Unicorn PRO for iPhone
+        - Unicorn PRO for Mac
+        - (Other)
     validations:
       required: true
 
