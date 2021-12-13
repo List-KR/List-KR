@@ -20,8 +20,9 @@ body:
     validations:
       required: true
 
-  - type: checkboxes
+  - type: dropdown
     id: browser
+    multiple: true
     attributes:
       label: "Browser"
       description: "What is a browser (or browsers) that the issue is occurred in?"
@@ -39,8 +40,9 @@ body:
     validations:
       required: true
       
-  - type: checkboxes
+  - type: dropdown
     id: adblocker
+    multiple: true
     attributes:
       label: "Ad-Blocker"
       description: "What is an ad-blocker that the issue is occurred with?"
