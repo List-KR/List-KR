@@ -342,6 +342,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 ||ads.mtgroup.kr^
 
 ! #ZE:MOBILE_APP
+||www.mediacategory.com^$app=com.ahnlab.v3mobilesecurity.soda
 ||adpies.com^
 ||ssp-ad.momento.dev^
 ||sdk-bid.exelbid.com^

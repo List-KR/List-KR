@@ -572,6 +572,7 @@ z9-we.com#@#a[href*="//www.z9-we.com"]
 z9-we.com#@#a[href*="//z9-we.com"]
 
 ! URL filters
+||www.mediacategory.com^$app=com.ahnlab.v3mobilesecurity.soda
 /:\/\/m\.ilbe\.com\/images\/([a-z]|[0-9]|_){8,11}\.gif/
 ||clien.net/service/api/coupang/ad?
 ||noonoo-images.studiouniversal.net/banner/
