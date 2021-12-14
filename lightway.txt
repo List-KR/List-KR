@@ -224,6 +224,8 @@ www.naver.com##iframe[id^="da_iframe_"]
 ##div[id^="targetpushAd_"]
 
 ! #ZE:ADSERVER
+||ad.cauly.co.kr^
+||xconf.cauly.co.kr^
 ||adx-exchange.toast.com^
 ||adhooah.com^$third-party
 ||adsrv-up.mcrony.com^
@@ -342,6 +344,8 @@ www.naver.com##iframe[id^="da_iframe_"]
 ||ads.mtgroup.kr^
 
 ! #ZE:MOBILE_APP
+||d35kivqzqn1ftb.cloudfront.net^
+||d131nj8pwjizfu.cloudfront.net^
 ||www.mediacategory.com^$app=com.ahnlab.v3mobilesecurity.soda
 ||adpies.com^
 ||ssp-ad.momento.dev^

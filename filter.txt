@@ -572,6 +572,10 @@ z9-we.com#@#a[href*="//www.z9-we.com"]
 z9-we.com#@#a[href*="//z9-we.com"]
 
 ! URL filters
+||d35kivqzqn1ftb.cloudfront.net^
+||d131nj8pwjizfu.cloudfront.net^
+||ad.cauly.co.kr^
+||xconf.cauly.co.kr^
 ||www.mediacategory.com^$app=com.ahnlab.v3mobilesecurity.soda
 /:\/\/m\.ilbe\.com\/images\/([a-z]|[0-9]|_){8,11}\.gif/
 ||clien.net/service/api/coupang/ad?
