@@ -2517,6 +2517,8 @@ ondisk.co.kr##div[id^="wingBanner-"]
 ||linklove1.com/data/file/ls_
 
 ! Site element hiding rules
+lover9.net#@#.adsbygoogle
+lover9.net#$#.modal { position: unset !important; }
 boribori.co.kr##div[class*="_banner"]
 boribori.co.kr##.bFloatingBanner
 linklove1.com##.miso-love-ad
@@ -7489,8 +7491,9 @@ ppomppu.co.kr##tr > td div.bridge
 ! #%#//scriptlet('abort-current-inline-script', 'document.addEventListener', '/adscale_slot_id/')
 untitle.org,3dpchip.com,seo-marketing.co.kr#%#//scriptlet('abort-current-inline-script', 'document.addEventListener', '/adscale_slot_id/')
 ! #%#//scriptlet('prevent-setTimeout', '/\.displayMessage\(/')
-avjamack.com,avjamak01.com#%#//scriptlet('prevent-setTimeout', '/\.displayMessage\(/')
+lover9.net,avjamack.com,avjamak01.com#%#//scriptlet('prevent-setTimeout', '/\.displayMessage\(/')
 !
+lover9.net#%#//scriptlet("abort-current-inline-script", "setTimeout", "/location\.replace/")
 gaesae.com#%#//scriptlet('prevent-bab')
 10games.tistory.com,caskers.tistory.com,fmgunzo.tistory.com,frostfire.tistory.com,jimnong.tistory.com,koreapas.com,lalawin.com,lalawin.tistory.com,linsoo.co.kr,minitoon.net,money2015.tistory.com,mongri.net,ruinses.tistory.com,ssulwar.com,te31.com,webzook.net,yabang.org,netmics.com,amazooon.website,apppple.website,awscontent.com,facebooook.website,goooooooogle.website,gryfindor.com,iiinstagram.website,kakaooo.website,netflixxx.website,oderk.com,teslaaa.website,teslacdn.com,twittter.website,twitttter.website,unknowncdn.com,youtubbe.website,webzook.net#%#(function(){var a={debug:{set:function(){return a}},on:function(b,c){b||setTimeout(function(){c()},1);return a},onDetected:function(b){return a.on(!0,b)},onNotDetected:function(b){return a.on(!1,b)},check:function(){}};Object.defineProperty(window,"fuckAdBlock",{get:function(){return a}})})();
 netmics.com,amazooon.website,apppple.website,awscontent.com,facebooook.website,goooooooogle.website,gryfindor.com,iiinstagram.website,kakaooo.website,netflixxx.website,oderk.com,teslaaa.website,teslacdn.com,twittter.website,twitttter.website,unknowncdn.com,youtubbe.website#%#window.canRunAds = !0;
