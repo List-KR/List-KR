@@ -572,6 +572,7 @@ z9-we.com#@#a[href*="//www.z9-we.com"]
 z9-we.com#@#a[href*="//z9-we.com"]
 
 ! URL filters
+||s3-ap-northeast-1.amazonaws.com/*.rememberapp.co.kr/production/uploads/banner/
 ||d35kivqzqn1ftb.cloudfront.net^
 ||d131nj8pwjizfu.cloudfront.net^
 ||ad.cauly.co.kr^
@@ -7465,6 +7466,7 @@ avjamack.com##.col-md-3 > .widget-box.widget-img
 11toon23.com,11toon24.com,11toon25.com,11toon26.com,11toon27.com,11toon28.com,11toon29.com,11toon30.com##img[src*="//wwwimageup.11angle.net/other/atoona/"]
 clien.net###coupangAd
 m.ilbe.com##.banner-wrap
+now.rememberapp.co.kr##.now_content_ads__wrapper
 
 ! Extended CSS rules
 linklove1.com#?#.col-md-12 > .w-row:has(> .w-col div.miso-love-ad)
