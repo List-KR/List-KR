@@ -2518,6 +2518,7 @@ ondisk.co.kr##div[id^="wingBanner-"]
 ||linklove1.com/data/file/ls_
 
 ! Site element hiding rules
+community.rememberapp.co.kr#$#div.sc-64vosk-0.jIkGEl { margin-bottom: 10px !important; }
 lover9.net#@#.adsbygoogle
 lover9.net#$#.modal { position: unset !important; }
 boribori.co.kr##div[class*="_banner"]
@@ -7469,6 +7470,7 @@ m.ilbe.com##.banner-wrap
 now.rememberapp.co.kr##.now_content_ads__wrapper
 
 ! Extended CSS rules
+community.rememberapp.co.kr#?#div > a.sc-7g611p-0.cAmftz:has(> div > div > div > img[alt="배너 광고 이미지"])
 linklove1.com#?#.col-md-12 > .w-row:has(> .w-col div.miso-love-ad)
 namu.wiki#?#aside > div[id^="tchika"].c:has(> div[id^="tchika"]:not(.c))
 namu.wiki#?#div.app > div > > div > div > div > iframe[src*="//arca.live/static/ad/call_ad.html?"]:upward(3)
