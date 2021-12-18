@@ -7,6 +7,10 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+berryjam.co.kr##div[class*="slider-banner-"]
+berryjam.co.kr##img[src^="/data/skin/front/udweb_CCC/img/banner/"][alt="2021년 시마노 웹 한글 카다로그"]
+berryjam.co.kr##div[class$="_banner"]
+berryjam.co.kr#$#.goods_list_tit { padding-top: 0px !important; }
 toomics.com##img[src*="://thumb.toomics.com/upload/banner/"]
 ||thumb.toomics.com/upload/banner/
 community.rememberapp.co.kr#$#div.sc-64vosk-0.jIkGEl { margin-bottom: 10px !important; }
@@ -378,6 +382,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 /RealMedia/ads/
 
 ! #ZE:EXTENDED_CSS
+berryjam.co.kr#?#table[width="1200"]:has(> tbody > tr > td > div[class*="slider-banner-"])
 community.rememberapp.co.kr#?#div > a.sc-7g611p-0.cAmftz:has(> div > div > div > img[alt="배너 광고 이미지"])
 namu.wiki#?#aside > div[id^="tchika"].c:has(> div[id^="tchika"]:not(.c))
 namu.wiki#?#div.app > div > > div > div > div > iframe[src*="//arca.live/static/ad/call_ad.html?"]:upward(3)

@@ -7469,8 +7469,13 @@ clien.net###coupangAd
 m.ilbe.com##.banner-wrap
 now.rememberapp.co.kr##.now_content_ads__wrapper
 toomics.com##img[src*="://thumb.toomics.com/upload/banner/"]
+berryjam.co.kr##div[class*="slider-banner-"]
+berryjam.co.kr##img[src^="/data/skin/front/udweb_CCC/img/banner/"][alt="2021년 시마노 웹 한글 카다로그"]
+berryjam.co.kr##div[class$="_banner"]
+berryjam.co.kr#$#.goods_list_tit { padding-top: 0px !important; }
 
 ! Extended CSS rules
+berryjam.co.kr#?#table[width="1200"]:has(> tbody > tr > td > div[class*="slider-banner-"])
 community.rememberapp.co.kr#?#div > a.sc-7g611p-0.cAmftz:has(> div > div > div > img[alt="배너 광고 이미지"])
 linklove1.com#?#.col-md-12 > .w-row:has(> .w-col div.miso-love-ad)
 namu.wiki#?#aside > div[id^="tchika"].c:has(> div[id^="tchika"]:not(.c))
