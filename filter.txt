@@ -575,7 +575,7 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||gobest.kr/goclean/goclean-ad-new.htm$document
 ||gobest.kr/adfile/
 ||thumb.toomics.com/upload/banner/
-||saveimg.net^$domain=torrentview47.com|torrentview48.com|torrentview49.com|torrentview50.com|torrentview51.com|torrentview52.com
+||saveimg.net^$domain=torrentview47.com|torrentview48.com|torrentview49.com|torrentview50.com|torrentview51.com|torrentview52.com|torrentview53.com|torrentview54.com|torrentview55.com|torrentview56.com|torrentview57.com|torrentview58.com
 ||s3-ap-northeast-1.amazonaws.com/*.rememberapp.co.kr/production/uploads/banner/
 ||d35kivqzqn1ftb.cloudfront.net^
 ||d131nj8pwjizfu.cloudfront.net^
@@ -1525,7 +1525,7 @@ ondisk.co.kr##div[id^="wingBanner-"]
 ||hygall.com/box/kakao_scroll50.html^$domain=hygall.com
 ||i-honam.com/banner/$domain=i-honam.com
 ||i.011st.com/ui_img/adoffice/creative/js/adcreative.min.js^
-||i.imgur.com^$domain=jujutorrent18.com|torrentgram3.com|torrent-rg.net|torrentqq78.com|torrentview47.com,torrentview48.com,torrentview49.com,torrentview50.com,torrentview51.com,torrentview52.com
+||i.imgur.com^$domain=jujutorrent18.com|torrentgram3.com|torrent-rg.net|torrentqq78.com|torrentview47.com|torrentview48.com|torrentview49.com|torrentview50.com|torrentview51.com|torrentview52.com|torrentview53.com|torrentview54.com|torrentview55.com|torrentview56.com|torrentview57.com|torrentview58.com
 ||i.ligatus.com/angular_front/tags/it/notizie/tags/angular-tag.js^
 ||i.mediatraffic.com.ua/js/uho/mt20_3.js^
 ||i.socdm.com/sdk/js/adg-script-loader.js^
@@ -6962,10 +6962,10 @@ torrentsee48.com##div.mmbannel
 torrentsee48.com##div.tads1
 torrentwiz10.me##div[class="npia-board-gallery"]
 torrentqq78.com##a[href^="https://torrentqq78.com/ads/"]
-torrentview47.com,torrentview48.com,torrentview49.com,torrentview50.com,torrentview51.com,torrentview52.com##.col-md-12.widget-index-main
-torrentview47.com,torrentview48.com,torrentview49.com,torrentview50.com,torrentview51.com,torrentview52.com##.widget-main-box.hidden-sm.hidden-xs
-torrentview47.com,torrentview48.com,torrentview49.com,torrentview50.com,torrentview51.com,torrentview52.com#$#.search-bar { width: 40%!important; }
-torrentview47.com,torrentview48.com,torrentview49.com,torrentview50.com,torrentview51.com,torrentview52.com#$#.at-body { margin-top: 50px!important; }
+torrentview47.com,torrentview48.com,torrentview49.com,torrentview50.com,torrentview51.com,torrentview52.com,torrentview53.com,torrentview54.com,torrentview55.com,torrentview56.com,torrentview57.com,torrentview58.com##.col-md-12.widget-index-main
+torrentview47.com,torrentview48.com,torrentview49.com,torrentview50.com,torrentview51.com,torrentview52.com,torrentview53.com,torrentview54.com,torrentview55.com,torrentview56.com,torrentview57.com,torrentview58.com##.widget-main-box.hidden-sm.hidden-xs
+torrentview47.com,torrentview48.com,torrentview49.com,torrentview50.com,torrentview51.com,torrentview52.com,torrentview53.com,torrentview54.com,torrentview55.com,torrentview56.com,torrentview57.com,torrentview58.com#$#.search-bar { width: 40%!important; }
+torrentview47.com,torrentview48.com,torrentview49.com,torrentview50.com,torrentview51.com,torrentview52.com,torrentview53.com,torrentview54.com,torrentview55.com,torrentview56.com,torrentview57.com,torrentview58.com#$#.at-body { margin-top: 50px!important; }
 touch.pixiv.net##body>div>div[style="height: 80px; position: fixed; z-index: 998; bottom: 0; width: 100%; display: block; text-align: center; background-color: rgba(0,0,0,1);"]
 touch.pixiv.net##body>div>div[style="height: 80px; position: fixed; z-index: 998; bottom: 0px; width: 100%; text-align: center; background-color: rgb(0, 0, 0);"]
 touch.pixiv.net##div.ad-container
@@ -7482,7 +7482,7 @@ community.rememberapp.co.kr#?#div > a.sc-7g611p-0.cAmftz:has(> div > div > div >
 linklove1.com#?#.col-md-12 > .w-row:has(> .w-col div.miso-love-ad)
 namu.wiki#?#aside > div[id^="tchika"].c:has(> div[id^="tchika"]:not(.c))
 namu.wiki#?#div.app > div > > div > div > div > iframe[src*="//arca.live/static/ad/call_ad.html?"]:upward(3)
-torrentview47.com,torrentview48.com,torrentview49.com,torrentview50.com,torrentview51.com,torrentview52.com#?#.col-md-3.widget-index-left.hidden-sm.hidden-xs > .row > .widget-main-box h3:contains(보증업체):upward(1)
+torrentview47.com,torrentview48.com,torrentview49.com,torrentview50.com,torrentview51.com,torrentview52.com,torrentview53.com,torrentview54.com,torrentview55.com,torrentview56.com,torrentview57.com,torrentview58.com#?#.col-md-3.widget-index-left.hidden-sm.hidden-xs > .row > .widget-main-box h3:contains(보증업체):upward(1)
 etoland.co.kr#?#tbody > tr > td > img[src*="/img/adland01.gif"]:upward(2)
 chosun.com#?#div.raw-html > div iframe[src*="//adex.ednplus.com/"]:upward(2)
 meeco.kr#?#a img[src^="/images/custom_ads/"]:upward(1)
