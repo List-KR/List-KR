@@ -7,6 +7,7 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+tgd.kr###article-list > div[id^="article-list-row-"].notice.featured:nth-child(4)
 berryjam.co.kr##div[class*="slider-banner-"]
 berryjam.co.kr##img[src^="/data/skin/front/udweb_CCC/img/banner/"][alt="2021년 시마노 웹 한글 카다로그"]
 berryjam.co.kr##div[class$="_banner"]

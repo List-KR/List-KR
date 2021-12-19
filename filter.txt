@@ -7475,6 +7475,7 @@ berryjam.co.kr##div[class*="slider-banner-"]
 berryjam.co.kr##img[src^="/data/skin/front/udweb_CCC/img/banner/"][alt="2021년 시마노 웹 한글 카다로그"]
 berryjam.co.kr##div[class$="_banner"]
 berryjam.co.kr#$#.goods_list_tit { padding-top: 0px !important; }
+tgd.kr###article-list > div[id^="article-list-row-"].notice.featured:nth-child(4)
 
 ! Extended CSS rules
 berryjam.co.kr#?#table[width="1200"]:has(> tbody > tr > td > div[class*="slider-banner-"])
