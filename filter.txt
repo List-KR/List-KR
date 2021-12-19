@@ -5415,7 +5415,7 @@ marshmallow-qa.com##body>div.my-4
 marshmallow-qa.com##li.ad
 marshmallow-qa.com##main.container>div.my-4
 map.naver.com##div.promotion_wrap
-marumaru221.com,marumaru222.com,marumaru223.com,marumaru224.com,marumaru225.com,marumaru226.com,marumaru227.com,marumaru228.com,marumaru229.com,marumaru230.com,marumaru231.com,marumaru232.com,marumaru233.com,marumaru234.com,marumaru235.com,marumaru236.com,marumaru237.com,marumaru238.com,marumaru239.com,marumaru240.com##.banner_m
+marumaru226.com,marumaru227.com,marumaru228.com,marumaru229.com,marumaru230.com,marumaru231.com,marumaru232.com,marumaru233.com,marumaru234.com,marumaru235.com,marumaru236.com,marumaru237.com,marumaru238.com,marumaru239.com,marumaru240.com,marumaru241.com,marumaru242.com,marumaru243.com,marumaru244.com,marumaru245.com,marumaru246.com,marumaru247.com##.banner_m
 mashable.com##div#sticky-slot
 mashable.com##div#sticky-spacer
 mashable.com##div.ad
