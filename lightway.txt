@@ -27,11 +27,6 @@ boribori.co.kr##div[class*="_banner"]
 boribori.co.kr##.bFloatingBanner
 ondisk.co.kr##div[id^="wingBanner-"]
 ||cimage.ondisk.co.kr/data/mdns_bigbanner/
-||api.polarisoffice.com/api/*/account/getAdvertiseinfo
-||api.polarisoffice.com/api/*/account/getWebAdvertiseinfo
-||playinfo.gomlab.com/ad_txt.html
-||admin.clipdown.co.kr/app/webview/ad_content.php
-||admin.helpstart.co.kr/banner/banner.php
 ||ygosu.com/banner_img/
 m.ygosu.com##a[href*="://ygosu.com/banner2/"]
 enuri.com##ul#evt_banner
@@ -360,6 +355,13 @@ www.naver.com##iframe[id^="da_iframe_"]
 ||ssp-ad.momento.dev^
 ||sdk-bid.exelbid.com^
 ||t1.daumcdn.net/cafe_cj/app/js/*/nativead.js
+
+! #ZE:DESKTOP_APP
+||api.polarisoffice.com/api/*/account/getAdvertiseinfo
+||api.polarisoffice.com/api/*/account/getWebAdvertiseinfo
+||playinfo.gomlab.com/ad_txt.html
+||admin.clipdown.co.kr/app/webview/ad_content.php
+||admin.helpstart.co.kr/banner/banner.php
 
 ! #ZE:ALLOWLIST
 @@||t1.daumcdn.net/adfit/static/kp.js$domain=pindirectshop.com
