@@ -357,6 +357,8 @@ www.naver.com##iframe[id^="da_iframe_"]
 ||t1.daumcdn.net/cafe_cj/app/js/*/nativead.js
 
 ! #ZE:DESKTOP_APP
+||gobest.kr/goclean/goclean-ad-new.htm$document
+||gobest.kr/adfile/
 ||api.polarisoffice.com/api/*/account/getAdvertiseinfo
 ||api.polarisoffice.com/api/*/account/getWebAdvertiseinfo
 ||playinfo.gomlab.com/ad_txt.html

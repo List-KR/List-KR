@@ -572,6 +572,8 @@ z9-we.com#@#a[href*="//www.z9-we.com"]
 z9-we.com#@#a[href*="//z9-we.com"]
 
 ! URL filters
+||gobest.kr/goclean/goclean-ad-new.htm$document
+||gobest.kr/adfile/
 ||thumb.toomics.com/upload/banner/
 ||saveimg.net^$domain=torrentview47.com|torrentview48.com|torrentview49.com|torrentview50.com|torrentview51.com|torrentview52.com
 ||s3-ap-northeast-1.amazonaws.com/*.rememberapp.co.kr/production/uploads/banner/
