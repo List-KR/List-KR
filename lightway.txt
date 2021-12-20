@@ -415,3 +415,5 @@ orbi.kr#?#a[class="tag"][href^="/list/tag/"][-ext-contains="#제휴사공지"]:u
 ! #%#//scriptlet('abort-current-inline-script', 'document.addEventListener', '/adscale_slot_id/')
 untitle.org,seo-marketing.co.kr#%#//scriptlet('abort-current-inline-script', 'document.addEventListener', '/adscale_slot_id/')
 ! #%#//scriptlet('prevent-setTimeout', '/\.displayMessage\(/')
+! Kakao PotPlayer ( https://tv.kakao.com/guide/potplayer )
+@@||videoads.kakao.com/adserver/api/$app=PotPlayer.exe
