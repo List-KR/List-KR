@@ -7,6 +7,7 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+news.v.daum.net##ul.list_column > li.item_ad
 mmzone.co.kr##div[id^="scm_ban"][style*="url(/media/banner/"]
 mmzone.co.kr###scm_premium_spon_block
 ilbe.com##ul.board-body > li[id^="sponser_ad_"]
@@ -76,7 +77,7 @@ mmzone.co.kr##div[id$="_ad"]
 2cpu.co.kr##a[href*="./bbs/banner_link.php?"]
 ruliweb.com#$#.user_view { width: 100%!important; }
 ruliweb.com##div[id^="adsense_"]
-joongang.co.kr,ruliweb.com##div[class^="ad_"]
+news.v.daum.net,joongang.co.kr,ruliweb.com##div[class^="ad_"]
 m.inven.co.kr#%#//scriptlet('set-constant', 'MOBILE.Ad', 'null')
 inven.co.kr#%#//scriptlet('set-constant', 'INVEN.Ad', 'null')
 m.inven.co.kr##div#page > div[style*="height:50px;"]

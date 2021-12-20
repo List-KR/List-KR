@@ -2718,7 +2718,7 @@ asiae.co.kr,view.asiae.co.kr##div.fl_fr
 asiae.co.kr,view.asiae.co.kr##div.news_view_ad
 asiae.co.kr,view.asiae.co.kr##div.wing_left
 asiae.co.kr,view.asiae.co.kr##div.wing_right
-joongang.co.kr,asiae.co.kr,view.asiae.co.kr##div[class^="ad_"]
+news.v.daum.net,joongang.co.kr,asiae.co.kr,view.asiae.co.kr##div[class^="ad_"]
 asiatoday.co.kr##div#ad_optima_wrap
 asiatoday.co.kr##div#scrolling_banner
 asiatoday.co.kr##div#scrolling_left_banner
@@ -7476,6 +7476,7 @@ berryjam.co.kr##img[src^="/data/skin/front/udweb_CCC/img/banner/"][alt="2021년 
 berryjam.co.kr##div[class$="_banner"]
 berryjam.co.kr#$#.goods_list_tit { padding-top: 0px !important; }
 tgd.kr###article-list > div[id^="article-list-row-"].notice.featured:nth-child(4)
+news.v.daum.net##ul.list_column > li.item_ad
 
 ! Extended CSS rules
 berryjam.co.kr#?#table[width="1200"]:has(> tbody > tr > td > div[class*="slider-banner-"])
