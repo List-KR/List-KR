@@ -1039,7 +1039,7 @@ ondisk.co.kr##div[id^="wingBanner-"]
 ||async01.admantx.com/admantx/service^
 ||at.atwola.com/addyn/3.0/
 ||autoview.co.kr/auto_ad/ad_top.asp^$domain=autoview.co.kr
-||avjamak01.com/data/by_banner/
+||avjamak.net/data/by_banner/
 ||ax-d.pixfuture.net/w/1.0/afr^
 ||b.a2gw.com/b/*.js^
 ||b.bestcontentitem.top/loader^
@@ -2756,7 +2756,7 @@ avdbs.com##div#ad_sense_area
 avdbs.com##div#ad_sense_area_top
 avheat.com##div.at-wing-right
 avheat.com##div.npia-board-gallery
-avjamak01.com##img[class^="by_banner_"]
+avjamak.net##img[class^="by_banner_"]
 avsnoop.co.uk##div#adArea
 avsnoop.co.uk##div#bbsview>div.inner>div.viewbox>div.adbox
 avsnoop.co.uk##div#side>div.inner>div.banner
@@ -7504,7 +7504,7 @@ ppomppu.co.kr##tr > td div.bridge
 ! #%#//scriptlet('abort-current-inline-script', 'document.addEventListener', '/adscale_slot_id/')
 untitle.org,3dpchip.com,seo-marketing.co.kr#%#//scriptlet('abort-current-inline-script', 'document.addEventListener', '/adscale_slot_id/')
 ! #%#//scriptlet('prevent-setTimeout', '/\.displayMessage\(/')
-lover9.net,avjamack.com,avjamak01.com#%#//scriptlet('prevent-setTimeout', '/\.displayMessage\(/')
+lover9.net,avjamack.com,avjamak.net#%#//scriptlet('prevent-setTimeout', '/\.displayMessage\(/')
 !
 lover9.net#%#//scriptlet("abort-on-property-read", "goPage")
 lover9.net#%#//scriptlet("abort-current-inline-script", "setTimeout", "/location\.replace/")
