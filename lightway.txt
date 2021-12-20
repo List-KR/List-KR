@@ -7,6 +7,8 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+mmzone.co.kr##div[id^="scm_ban"][style*="url(/media/banner/"]
+mmzone.co.kr###scm_premium_spon_block
 ilbe.com##ul.board-body > li[id^="sponser_ad_"]
 ilbe.com##div[class$="-banner"]
 ilbe.com##img[src^="https://acache.ilbe.com/"]
