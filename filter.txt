@@ -6663,7 +6663,7 @@ star.ohmynews.com##div.ad-250x250
 star.ohmynews.com##section.M-atc>div.ad_box_outline
 star.ohmynews.com##td.at_contents>table[align="center"][style="padding-top:10px; padding-bottom:20px;"]
 start.intizen.com##iframe[src^="//sb.biz.dreamwiz.com/dw_shopping_box.asp"]
-start.intizen.com##.banner
+hinfomax.co.kr,start.intizen.com##.banner
 starin.edaily.co.kr##div.View_TPAd
 steemit.com##div.ad-carousel
 steptohealth-co-kr.cdn.ampproject.org##amp-layout.ad-space

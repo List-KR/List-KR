@@ -77,7 +77,7 @@ namu.wiki##iframe[src*="//arca.live/static/ad/call_ad.html?"]
 ||arca.live/static/ad/
 ||timg.humoruniv.com/thumb_crop_resize*.php?url=*://i.011st.com/t/
 ||img.ruliweb.net/view/
-pressian.com,kukinews.com##.banner
+hinfomax.co.kr,pressian.com,kukinews.com##.banner
 ||kukinews.com/data/kuk/banner/
 ||mmzone.co.kr/menu/top_ad.php
 mmzone.co.kr###main_premium_spon_block
