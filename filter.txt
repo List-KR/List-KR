@@ -572,6 +572,7 @@ z9-we.com#@#a[href*="//www.z9-we.com"]
 z9-we.com#@#a[href*="//z9-we.com"]
 
 ! URL filters
+||aniweek.com/img/*.gif
 ||gobest.kr/goclean/goclean-ad-new.htm$document
 ||gobest.kr/adfile/
 ||thumb.toomics.com/upload/banner/
@@ -7477,6 +7478,7 @@ berryjam.co.kr##div[class$="_banner"]
 berryjam.co.kr#$#.goods_list_tit { padding-top: 0px !important; }
 tgd.kr###article-list > div[id^="article-list-row-"].notice.featured:nth-child(4)
 news.v.daum.net##ul.list_column > li.item_ad
+aniweek.com##img[src^="/img/"][src*=".gif"]
 
 ! Extended CSS rules
 berryjam.co.kr#?#table[width="1200"]:has(> tbody > tr > td > div[class*="slider-banner-"])
