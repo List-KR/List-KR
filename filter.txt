@@ -7481,7 +7481,8 @@ news.v.daum.net##ul.list_column > li.item_ad
 aniweek.com##img[src^="/img/"][src*=".gif"]
 
 ! Extended CSS rules
-dcinside.com#?#table.gall_list > tbody > .ub-content:has(> td.gall_num:contains(AD))
+m.dcinside.com#?#section.gall-lst-group > .detail-top-lst > li:has(> div > a > span.ntc-line-ad)
+gall.dcinside.com#?#table.gall_list > tbody > .ub-content:has(> td.gall_num:contains(AD))
 berryjam.co.kr#?#table[width="1200"]:has(> tbody > tr > td > div[class*="slider-banner-"])
 community.rememberapp.co.kr#?#div > a.sc-7g611p-0.cAmftz:has(> div > div > div > img[alt="배너 광고 이미지"])
 linklove1.com#?#.col-md-12 > .w-row:has(> .w-col div.miso-love-ad)
