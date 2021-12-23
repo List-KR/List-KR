@@ -7,6 +7,8 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+ruliweb.com###ti3
+ruliweb.com#$##board_top > div > .top_best.best_list { width: 100% !important; }
 mule.co.kr##img[src^="https://cdn.mule.co.kr/data/original/"]
 mule.co.kr##div.section-leftmiddle-bottommiddle.cf
 mule.co.kr##div[class^="section-lefttop-right ad"]

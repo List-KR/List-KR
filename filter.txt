@@ -7502,6 +7502,8 @@ orbi.kr#$#div[class="global-top animate"] { top: 0 !important; }
 star.ohmynews.com##li[-ext-has=">.ad-box"]
 zipbogo.net##.sidebar > ul > li[-ext-has='a[href*="/ad/"],a[onclick^="visitWebBanner("]']
 ppomppu.co.kr##tr > td div.bridge
+ruliweb.com###ti3
+ruliweb.com#$##board_top > div > .top_best.best_list { width: 100% !important; }
 
 ! JS rules
 ! #%#//scriptlet('abort-current-inline-script', 'document.addEventListener', '/adscale_slot_id/')
