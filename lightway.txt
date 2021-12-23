@@ -405,6 +405,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 /RealMedia/ads/
 
 ! #ZE:EXTENDED_CSS
+dcinside.com#?#table.gall_list > tbody > .ub-content:has(> td.gall_num:contains(AD))
 berryjam.co.kr#?#table[width="1200"]:has(> tbody > tr > td > div[class*="slider-banner-"])
 community.rememberapp.co.kr#?#div > a.sc-7g611p-0.cAmftz:has(> div > div > div > img[alt="배너 광고 이미지"])
 namu.wiki#?#aside > div[id^="tchika"].c:has(> div[id^="tchika"]:not(.c))
