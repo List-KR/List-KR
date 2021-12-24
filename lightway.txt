@@ -400,6 +400,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 @@||api-ao-list.adison.co^$app=com.nhn.android.nbooks
 
 ! #ZE:GENERAL_URL
+/bannerpop/uploads/
 /media/banner/*
 /data/banner/*
 /data/banner.json?
