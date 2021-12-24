@@ -7,6 +7,9 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+epnc.co.kr##div[id^="floating_banner_"]
+epnc.co.kr##div[onmousedown*="'event_label': 'AD'"]
+||techworld.speedgabia.com/epnc.co.kr/ad/
 ruliweb.com###ti3
 ruliweb.com#$##board_top > div > .top_best.best_list { width: 100% !important; }
 mule.co.kr##img[src^="https://cdn.mule.co.kr/data/original/"]
