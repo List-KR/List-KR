@@ -6304,7 +6304,8 @@ pressian.com##div.section_v2_3>div[style="margin: 20px 0px;"]
 pressian.com##div.section_v2_3>div[style="padding-bottom:10px;text-align:center;"]
 pri.org##aside.promo-box--promo
 prod.danawa.com##div#floatAdLayer
-prod.danawa.com##div.ad_wide_slide
+prod.danawa.com##div[class$="_ad_prodlist"]
+prod.danawa.com##div[class^="ad_"]
 prod.danawa.com##div.popup_ad_floating
 prod.danawa.com##div.power_link
 prod.danawa.com##iframe[src^="http://www.danawa.com/NBP/powerLink.php"]
