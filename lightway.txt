@@ -7,6 +7,7 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+~coupang.com,~coupangcdn.com#%#//scriptlet("set-constant", "PartnersCoupang", "undefined")
 prod.danawa.com##div[class$="_ad_prodlist"]
 epnc.co.kr##div[id^="floating_banner_"]
 epnc.co.kr##div[onmousedown*="'event_label': 'AD'"]
