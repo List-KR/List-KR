@@ -3,7 +3,7 @@
 ! Description: List-KR Nightly
 ! Homepage: https://list-kr.github.io
 ! License: https://github.com/List-KR/List-KR/blob/master/LICENSE
-! Version: 1.00.68
+! Version: 1.00.69
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
