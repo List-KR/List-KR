@@ -2720,7 +2720,7 @@ asiae.co.kr,view.asiae.co.kr##div.fl_fr
 asiae.co.kr,view.asiae.co.kr##div.news_view_ad
 asiae.co.kr,view.asiae.co.kr##div.wing_left
 asiae.co.kr,view.asiae.co.kr##div.wing_right
-news.v.daum.net,joongang.co.kr,asiae.co.kr,view.asiae.co.kr##div[class^="ad_"]
+prod.danawa.com,m.asiae.co.kr,mbiz.heraldcorp.com,kyeongin.com,news.v.daum.net,joongang.co.kr,asiae.co.kr,view.asiae.co.kr##div[class^="ad_"]
 asiatoday.co.kr##div#ad_optima_wrap
 asiatoday.co.kr##div#scrolling_banner
 asiatoday.co.kr##div#scrolling_left_banner
@@ -4444,7 +4444,6 @@ kyeongin.com##div.view_right>div[style="text-align: center; margin-bottom: 5px; 
 kyeongin.com##div.view_right>div[style="width: 300px; text-align: center; margin-bottom:15px;"]
 kyeongin.com##div.viewBottom
 kyeongin.com##div.viewBottom2d
-kyeongin.com##div[class^="ad_"]
 kyeongin.com##div[class^="head_right_ad"]
 kyeongin.com##ul.menu_ad_list
 kyeongin.com##ul.slideAdList
@@ -4543,7 +4542,6 @@ m.anewsa.com##div.wrap>div[style="text-align:center"]
 m.asiae.co.kr##div.add_32050
 m.asiae.co.kr##div.photo_slide2
 m.asiae.co.kr##div.shop_wrap2
-m.asiae.co.kr##div[class^="ad_"]
 m.asiatoday.co.kr##div#btm
 m.asiatoday.co.kr##div.a5>div.bbs_d.bbw_thin.bts_d.btw_thin.pb_2.pt_5
 m.asiatoday.co.kr##div.ad10
@@ -5432,7 +5430,6 @@ mbcsportsplus.com##div[class^="rnb_slider"]
 mbcsportsplus.com##div.side_banner
 mbcsportsplus.com##div.side_banner01
 mbiz.heraldcorp.com##div#contad4
-mbiz.heraldcorp.com##div[class^="ad_"]
 mbiz.heraldcorp.com##p#contad3
 mbn.mk.co.kr##div#bottom_ad
 mbn.mk.co.kr##div#right_hot_movie
@@ -6305,7 +6302,6 @@ pressian.com##div.section_v2_3>div[style="padding-bottom:10px;text-align:center;
 pri.org##aside.promo-box--promo
 prod.danawa.com##div#floatAdLayer
 prod.danawa.com##div[class$="_ad_prodlist"]
-prod.danawa.com##div[class^="ad_"]
 prod.danawa.com##div.popup_ad_floating
 prod.danawa.com##div.power_link
 prod.danawa.com##iframe[src^="http://www.danawa.com/NBP/powerLink.php"]

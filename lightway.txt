@@ -8,7 +8,6 @@
 
 ! #ZE:SPECIFIC
 prod.danawa.com##div[class$="_ad_prodlist"]
-prod.danawa.com##div[class^="ad_"]
 epnc.co.kr##div[id^="floating_banner_"]
 epnc.co.kr##div[onmousedown*="'event_label': 'AD'"]
 ||techworld.speedgabia.com/epnc.co.kr/ad/
@@ -92,7 +91,7 @@ mmzone.co.kr##div[id$="_ad"]
 2cpu.co.kr##a[href*="./bbs/banner_link.php?"]
 ruliweb.com#$#.user_view { width: 100%!important; }
 ruliweb.com##div[id^="adsense_"]
-news.v.daum.net,joongang.co.kr,ruliweb.com##div[class^="ad_"]
+prod.danawa.com,news.v.daum.net,joongang.co.kr,ruliweb.com##div[class^="ad_"]
 m.inven.co.kr#%#//scriptlet('set-constant', 'MOBILE.Ad', 'null')
 inven.co.kr#%#//scriptlet('set-constant', 'INVEN.Ad', 'null')
 m.inven.co.kr##div#page > div[style*="height:50px;"]
