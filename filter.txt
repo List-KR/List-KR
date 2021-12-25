@@ -8,6 +8,7 @@
 ! ONLY DEVELOPER CAN EDIT THAT
 
 ! Exceptions for broken services
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xmlhttprequest,domain=uur1.fabulouslink.xyz
 @@||ad.smartmediarep.com/NetInsight/$domain=allclip.sbs.co.kr|allvod.sbs.co.kr|news.sbs.co.kr|programs.sbs.co.kr
 @@||adsmrapi.imbc.com
 @@||cmt.dcnewsj.joins.com/web/comment.php$domain=dcnewsj.joins.com
@@ -2520,6 +2521,7 @@ ondisk.co.kr##div[id^="wingBanner-"]
 /https:\/\/linklove\d\.com\/data\/editor\/[0-9]{4}\/([a-z]|[0-9]){32}_[0-9]{10}_[0-9]{4}\.gif/
 ||linklove1.com/data/apms/background/$image
 ||linklove1.com/data/file/ls_
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xmlhttprequest,redirect=googlesyndication-adsbygoogle,domain=uur1.fabulouslink.xyz
 
 ! Site element hiding rules
 community.rememberapp.co.kr#$#div.sc-64vosk-0.jIkGEl { margin-bottom: 10px !important; }
@@ -7513,6 +7515,7 @@ untitle.org,3dpchip.com,seo-marketing.co.kr#%#//scriptlet('abort-current-inline-
 ! #%#//scriptlet('prevent-setTimeout', '/\.displayMessage\(/')
 lover9.net,avjamack.com,avjamak.net#%#//scriptlet('prevent-setTimeout', '/\.displayMessage\(/')
 !
+uur1.fabulouslink.xyz#%#//scriptlet("abort-current-inline-script", "chp_ads_blocker_detector")
 lover9.net#%#//scriptlet("abort-on-property-read", "goPage")
 lover9.net#%#//scriptlet("abort-current-inline-script", "setTimeout", "/location\.replace/")
 gaesae.com#%#//scriptlet('prevent-bab')
