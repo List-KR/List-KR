@@ -7,6 +7,8 @@
 ! Expires: 1 day
 
 ! #ZE:SPECIFIC
+||img.mbn.co.kr/ad/
+mbn.co.kr##div[id$="_banner"]
 ~coupang.com,~coupangcdn.com#%#//scriptlet("set-constant", "PartnersCoupang", "undefined")
 prod.danawa.com##div[class$="_ad_prodlist"]
 epnc.co.kr##div[id^="floating_banner_"]
@@ -436,3 +438,5 @@ untitle.org,seo-marketing.co.kr#%#//scriptlet('abort-current-inline-script', 'do
 ! #%#//scriptlet('prevent-setTimeout', '/\.displayMessage\(/')
 ! Kakao PotPlayer ( https://tv.kakao.com/guide/potplayer )
 @@||videoads.kakao.com/adserver/api/$app=PotPlayer.exe
+! mbn.co.kr ( https://github.com/AdguardTeam/AdguardFilters/issues/104586 )
+||ad.smartmediarep.com/NetInsight/video/$redirect=nooptext,domain=mbn.co.kr
