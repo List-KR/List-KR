@@ -1,0 +1,3 @@
+@@||dcinside.co.kr/viewimage.php?$media,image,stealth
+! https://github.com/AdguardTeam/AdguardFilters/issues/98466 [Stealth Mode - Referrer]
+@@||ac*.namu.la^$domain=arca.live,media,image,stealth

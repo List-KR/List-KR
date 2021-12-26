@@ -1,0 +1,192 @@
+||img.mbn.co.kr/ad/
+mbn.co.kr##div[id$="_banner"]
+prod.danawa.com##div[class$="_ad_prodlist"]
+epnc.co.kr##div[id^="floating_banner_"]
+epnc.co.kr##div[onmousedown*="'event_label': 'AD'"]
+||techworld.speedgabia.com/epnc.co.kr/ad/
+ruliweb.com###ti3
+ruliweb.com#$##board_top > div > .top_best.best_list { width: 100% !important; }
+mule.co.kr##img[src^="https://cdn.mule.co.kr/data/original/"]
+mule.co.kr##div.section-leftmiddle-bottommiddle.cf
+mule.co.kr##div[class^="section-lefttop-right ad"]
+mule.co.kr#$#.section-lefttop-center { width: 100%!important; }
+mule.co.kr##.section-lefttop-left
+mule.co.kr#$#.section-leftmiddle-topmiddle { width: 100%!important; }
+mule.co.kr##div[class$="-ad"]
+||cdn.mule.co.kr/data/original/
+news.v.daum.net##ul.list_column > li.item_ad
+mmzone.co.kr##div[id^="scm_ban"][style*="url(/media/banner/"]
+mmzone.co.kr###scm_premium_spon_block
+ilbe.com##ul.board-body > li[id^="sponser_ad_"]
+ilbe.com##div[class$="-banner"]
+ilbe.com##img[src^="https://acache.ilbe.com/"]
+tgd.kr###article-list > div[id^="article-list-row-"].notice.featured:nth-child(4)
+berryjam.co.kr##div[class*="slider-banner-"]
+berryjam.co.kr##img[src^="/data/skin/front/udweb_CCC/img/banner/"][alt="2021년 시마노 웹 한글 카다로그"]
+berryjam.co.kr##div[class$="_banner"]
+berryjam.co.kr#$#.goods_list_tit { padding-top: 0px !important; }
+toomics.com##img[src*="://thumb.toomics.com/upload/banner/"]
+||thumb.toomics.com/upload/banner/
+community.rememberapp.co.kr#$#div.sc-64vosk-0.jIkGEl { margin-bottom: 10px !important; }
+now.rememberapp.co.kr##.now_content_ads__wrapper
+||s3-ap-northeast-1.amazonaws.com/*.rememberapp.co.kr/production/uploads/banner/
+m.ilbe.com##.banner-wrap
+/:\/\/m\.ilbe\.com\/images\/([a-z]|[0-9]|_){8,11}\.gif/
+clien.net###coupangAd
+||clien.net/service/api/coupang/ad?
+ppomppu.co.kr##tr > td div.bridge
+/cdn\.boribori\.co\.kr(\/|\/rimg\/(0|110x250)\/)cdn\/contents\/disp_corner_conts\//
+||cdn.halfclub.com/images_web/Etc/banner/
+boribori.co.kr##div[class*="_banner"]
+boribori.co.kr##.bFloatingBanner
+ondisk.co.kr##div[id^="wingBanner-"]
+||cimage.ondisk.co.kr/data/mdns_bigbanner/
+||ygosu.com/banner_img/
+m.ygosu.com##a[href*="://ygosu.com/banner2/"]
+enuri.com##ul#evt_banner
+enuri.com##.bnrbox.bnrbox--knowfun
+enuri.com##div.col__inner > .enurievt
+enuri.com##.bnrbox > ul.bnr__list
+enuri.com##div[class$="bnr__band"]
+enuri.com##.ad_powershopping
+enuri.com###prodPowerClick
+enuri.com##.ad_powerlink
+enuri.com###midBanner
+||external.impression-neo.naver.com/api/*/ads/search-jsonp
+etoland.co.kr##div[class^="power_link_"]
+etoland.co.kr###mw_mobile > .index_div center
+||image.daisomall.co.kr/data/daiso_data/images/banner/
+daisomall.co.kr##.wing_banners
+daisomall.co.kr##.table_goods_info_adcoupon
+daisomall.co.kr##.forbizSlider
+daisomall.co.kr##.header_top
+daisomall.co.kr##a[href^="/banner.link.php?"]
+coupang.com##.srp-top-banner-container
+coupang.com###sdpBottomAds
+coupang.com###sdp-bottom-banner
+coupang.com###sdpAdsBottom
+coupang.com###sdp-mid-banner-btf
+||img.newspim.com/banner/
+newspim.com##aside.side_wrap > div[style^="height:"]
+||img.newspim.com/ad/
+newspim.com##.topbanner
+dcinside.com###ad-layer
+namu.wiki##article > div[id^="tchika"].c
+namu.wiki##iframe[src*="//arca.live/static/ad/call_ad.html?"]
+||arca.live/static/ad/
+||timg.humoruniv.com/thumb_crop_resize*.php?url=*://i.011st.com/t/
+||img.ruliweb.net/view/
+hinfomax.kr,hinfomax.co.kr,pressian.com,kukinews.com##.banner
+||kukinews.com/data/kuk/banner/
+||mmzone.co.kr/menu/top_ad.php
+mmzone.co.kr###main_premium_spon_block
+mmzone.co.kr##div[id$="_ad"]
+2cpu.co.kr##a[href*="./bbs/banner_link.php?"]
+ruliweb.com#$#.user_view { width: 100%!important; }
+ruliweb.com##div[id^="adsense_"]
+prod.danawa.com,news.v.daum.net,joongang.co.kr,ruliweb.com##div[class^="ad_"]
+m.inven.co.kr##div#page > div[style*="height:50px;"]
+m.inven.co.kr###topslideAd
+m.inven.co.kr##div[id^="mobileTailAd"]
+m.inven.co.kr##.mobile-ad
+inven.co.kr###inven_reservation_box
+inven.co.kr##.menuGroup.imt_banner
+inven.co.kr##.banner_box
+inven.co.kr##iframe[src*="//zicf.inven.co.kr/RealMedia/ads/"]
+inven.co.kr#$#body { background-image: none!important; }
+newspim.com,inven.co.kr##div[class^="ad-"]
+inven.co.kr##section[class^="ad-"]
+inven.co.kr#$#section.right-menu { margin-top: 0px!important; }
+inven.co.kr###topskyAd
+tgd.kr##div[style*="background:url(https://upload.tgd.kr/banner/320x50n.jpg)"]
+tgd.kr###board-upper-banner-area
+tgd.kr##div#main-menu > div[style^="background:"][align="center"]
+tgd.kr###header-top-notice
+tgd.kr#$##header-menu-right { float: right!important; }
+m.humoruniv.com##div[style^="margin:"] > div[style^="width:100%;height:250px;clear:both;"]
+m.humoruniv.com##.ad_bg
+m.humoruniv.com###comment > ul div[style="min-height:100px;"]
+m.humoruniv.com###pnut_iframe
+m.humoruniv.com##div[id^="ddn_ad_"]
+||m.humoruniv.com/banner/
+||m.humoruniv.com/board/boardexp/styleofpower.html
+web.humoruniv.com##html > body#body div[style^="clear:both;"]
+web.humoruniv.com#$##wrap_winfo { width: 100%!important; }
+web.humoruniv.com#$##wrap_ctgr_new { width: 100%!important; }
+web.humoruniv.com##a[onmouseover="ad_choo_over();"]
+mlbpark.donga.com##ul.lists > li.items::before
+mlbpark.donga.com##.naver_power
+mlbpark.donga.com###advertise_naver
+coolenjoy.net##.simple_banner_wrap
+coolenjoy.net##img[src^="https://photo.coolenjoy.net/banner/"]
+||photo.coolenjoy.net/banner/
+quasarzone.com##div[class^="main-"][class$="-banner"]
+quasarzone.com#$#div#con-body { padding-top: 60px!important; }
+quasarzone.com##.top-banner
+quasarzone.com##div[class^="banner-"]
+||img*.quasarzone.com/banner/
+||img*.quasarzone.co.kr/banner/
+||file.okky.kr/banner/
+okky.kr##img[src^="//file.okky.kr/banner/"]
+m.todayhumor.co.kr##.ad_box_div
+etoland.co.kr##ul.board_list > li.subject.ad_subject
+etoland.co.kr##.img_latest_wrap > a img[src*="_banner.png"]
+etoland.co.kr#$#.list_content { width: 100%!important; }
+etoland.co.kr##.aside_bog_banner_wrap
+etoland.co.kr##td#mw_basic > div[style="height:90px; text-align:center; margin-top:10px; margin-bottom:10px;"]
+etoland.co.kr##.g_banner
+etoland.co.kr##center > a img[src*="//www.etoland.co.kr/data/daumeditor10/"]:not(.shrinkToFit)
+m.ppomppu.co.kr##ul.board-sponsor
+m.ppomppu.co.kr##.google-ad
+m.ppomppu.co.kr##section.shopping-board
+ppomppu.co.kr##tbody > tr[id^="page_show_ad_"]
+ppomppu.co.kr##div[id^="pp_ban_"]
+ppomppu.co.kr##.left > .shopping-preview
+ppomppu.co.kr#$#.top-keyword { width: 100%!important; }
+ppomppu.co.kr##.right > .board-preview.board-ppomppu
+||cdn.ppomppu.co.kr/zboard/data*/banner/
+bobaedream.co.kr##.left_con_last
+arca.live##div.ad
+||arca.live/static/assets/js/pagead.min.js
+m.clien.net##.shop_naver
+clien.net##div[class$="_ad"]
+clien.net###hongboInfoList
+m.ruliweb.com##.fixed_ad_wrapper
+m.ruliweb.com##div[id^="mo_ad_"]
+m.ruliweb.com##div[id^="nbp_container"]
+||ssl.pstatic.net/adimg3.search/adpost/js/adpost_show_ads_v2.min.js
+ruliweb.com##div.board_main > table > tbody tr.table_body.list_inner
+ruliweb.com#$#.user_view { width: 100%!important; }
+ruliweb.com##.nbp_container
+ruliweb.com##div[id^="ad_"]
+||img.ruliweb.com/view/
+meeco.kr##.list_d.ldd > ul li:not([class])
+m.dcinside.com##ul.all-comment-lst > li.comment:not(li[id^="comment_cnt_"])
+m.dcinside.com##div[class^="adv-group"]
+||nstatic.dcinside.com/ad/
+dcinside.com##.rightbanner
+dcinside.com##ul.cmt_list > li[id^="comment_li_"].ub-content.dory
+hankyung.com##.ad_img
+hankyung.com##.articlebanner
+hankyung.com##.inner_aside > .asidemodule.info_time
+hankyung.com##.ad_top
+hankyung.com#$#.module_wrap.poll { width: 100%!important; }
+orbi.kr#$#.global-top { top: 0px!important; }
+orbi.kr##div.panel.class-event-wrap
+||s3-class.orbi.kr/event/
+orbi.kr##a[href^="https://ads.orbi.kr/"]
+||livere.me/ad?
+osen.mt.co.kr##div#close_mask
+||mediacategory.com/servlet/
+||t1.daumcdn.net/adfit/
+fmkorea.com###adpost
+||loader2.fmkorea.com/_myphp/adpost/content_new.php
+||loader.fmkorea.com/_loader/loader.php
+www.naver.com##div.column_fix_wrap > div#shopcast
+||castbox.shopping.naver.com/shoppingboxnew/main.
+||ssl.pstatic.net/tveta/libs/
+lol.ps##.ad-banner_wide
+www.naver.com###NM_TOP_BANNER
+||static-whale.pstatic.net/main/$image,domain=www.naver.com
+www.naver.com###contents_productAd
+www.naver.com##iframe[id^="da_iframe_"]

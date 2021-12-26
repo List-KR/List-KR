@@ -1,0 +1,7 @@
+||gobest.kr/goclean/goclean-ad-new.htm$document
+||gobest.kr/adfile/
+||api.polarisoffice.com/api/*/account/getAdvertiseinfo
+||api.polarisoffice.com/api/*/account/getWebAdvertiseinfo
+||playinfo.gomlab.com/ad_txt.html
+||admin.clipdown.co.kr/app/webview/ad_content.php
+||admin.helpstart.co.kr/banner/banner.php

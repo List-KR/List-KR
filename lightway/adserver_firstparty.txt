@@ -1,0 +1,17 @@
+||ad.ilbe.com^
+||acache.ilbe.com^
+||addata.mediacategory.com^
+||displayad.zum.com^
+||networkad.nate.com^
+||cyad1.nate.com^
+||adimg.nate.com^
+||api-ao-list.adison.co^
+||ad-api.enuri.info^
+||searchad-phinf.pstatic.net^
+||ad.newspim.com^
+||ad.imp.joins.com^
+||ads.inven.co.kr^
+||addc.dcinside.com^
+||adscdn.orbi.kr^
+||ads.orbi.kr^
+||ads.mtgroup.kr^

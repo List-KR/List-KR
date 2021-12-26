@@ -1,0 +1,7 @@
+! #%#//scriptlet('abort-current-inline-script', 'document.addEventListener', '/adscale_slot_id/')
+untitle.org,seo-marketing.co.kr#%#//scriptlet('abort-current-inline-script', 'document.addEventListener', '/adscale_slot_id/')
+! #%#//scriptlet('prevent-setTimeout', '/\.displayMessage\(/')
+! Kakao PotPlayer ( https://tv.kakao.com/guide/potplayer )
+@@||videoads.kakao.com/adserver/api/$app=PotPlayer.exe
+! mbn.co.kr ( https://github.com/AdguardTeam/AdguardFilters/issues/104586 )
+||ad.smartmediarep.com/NetInsight/video/$redirect=nooptext,domain=mbn.co.kr

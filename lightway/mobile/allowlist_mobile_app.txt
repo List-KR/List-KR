@@ -1,0 +1,2 @@
+@@||api-ao-list.adison.co^$app=com.nhn.android.webtoon
+@@||api-ao-list.adison.co^$app=com.nhn.android.nbooks
