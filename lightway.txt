@@ -9,7 +9,6 @@
 ! #ZE:SPECIFIC
 ||img.mbn.co.kr/ad/
 mbn.co.kr##div[id$="_banner"]
-~coupang.com,~coupangcdn.com#%#//scriptlet("set-constant", "PartnersCoupang", "undefined")
 prod.danawa.com##div[class$="_ad_prodlist"]
 epnc.co.kr##div[id^="floating_banner_"]
 epnc.co.kr##div[onmousedown*="'event_label': 'AD'"]
@@ -95,8 +94,6 @@ mmzone.co.kr##div[id$="_ad"]
 ruliweb.com#$#.user_view { width: 100%!important; }
 ruliweb.com##div[id^="adsense_"]
 prod.danawa.com,news.v.daum.net,joongang.co.kr,ruliweb.com##div[class^="ad_"]
-m.inven.co.kr#%#//scriptlet('set-constant', 'MOBILE.Ad', 'null')
-inven.co.kr#%#//scriptlet('set-constant', 'INVEN.Ad', 'null')
 m.inven.co.kr##div#page > div[style*="height:50px;"]
 m.inven.co.kr###topslideAd
 m.inven.co.kr##div[id^="mobileTailAd"]
@@ -390,6 +387,11 @@ www.naver.com##iframe[id^="da_iframe_"]
 ||playinfo.gomlab.com/ad_txt.html
 ||admin.clipdown.co.kr/app/webview/ad_content.php
 ||admin.helpstart.co.kr/banner/banner.php
+
+! #ZE:GENERAL_EXTENSION
+~coupang.com,~coupangcdn.com#%#//scriptlet("set-constant", "PartnersCoupang", "undefined")
+m.inven.co.kr#%#//scriptlet('set-constant', 'MOBILE.Ad', 'null')
+inven.co.kr#%#//scriptlet('set-constant', 'INVEN.Ad', 'null')
 
 ! #ZE:ALLOWLIST
 @@||t1.daumcdn.net/adfit/static/kp.js$domain=pindirectshop.com
