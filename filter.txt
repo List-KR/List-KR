@@ -7547,3 +7547,10 @@ pixlr.com$$script[tag-content="cancelAdBlocker()"]
 cafe.naver.com#?#table[role="presentation"]:has(> tbody > tr > td > div > p > img[src*="cefvcGaqwg.PNG/Main_Spon_AD-1.png?"])
 ! cafe.naver.com/anycallusershow
 cafe.naver.com#?#table[role="presentation"] > tbody > tr > td > div:has(> div > a > img[src*="gT4LJCUiPbtlYAqakqz95HxBha0aBk0kcLYK37FrcKcg.JPEG/558x120%284%29.jpg"])
+! cafe.naver.com/eyejoker7
+cafe.naver.com##table[role="presentation"] > tbody > tr > td > div > img[src*="AyfXELz6pWdG8G8PCdR6L05HXHIMcitoMNmmfeOMRDQg.PNG.eunk3444/5b857513857e864b-%281%29_21.png"]
+cafe.naver.com##table[role="presentation"] > tbody > tr > td > div > img[src*="D4b3Kd2ecwxtUpB6JS3VP6h2ZLkMugpOs_tefUQzHUUg.GIF.eunk3444/5b857513857e864b-%281%29_15.gif"]
+cafe.naver.com##table[role="presentation"] > tbody > tr > td > div > img[src*="dGPwr7ru2jYy9JCksllgr1GRlAsn3nJwIxdiEgUKesIg.GIF.eunk3444/5b857513857e864b-%281%29_11.gif"]
+cafe.naver.com##table[role="presentation"] > tbody > tr > td > div > img[src*="mG34h3D8PaWD8yJxvZjpD4Ren3uXgtnbiMFZtWhFdv0g.PNG.eunk3444/5b857513857e864b-%281%29_19.png"]
+cafe.naver.com#?#table[role="presentation"] > tbody > tr > td > div > a[href="https://oversystem.co.kr/"]:has(> img[src*="RTb5Ld8gcqmHq2L51IMCiUTMMo3yRhmVAEmoPDh8m6kg.PNG.eunk3444/5b857513857e864b-%281%29_17.png"])
+cafe.naver.com#?#table[role="presentation"] > tbody > tr > td > div > a[href="https://oversystem.co.kr/"]:has(> img[src*="ztcgDDL7IFdiAZcZ4lvSshmtN3qOWbKcu96EIA2pWfUg.B9T51PERDg8YmClZSdyEkv5JyRh2PSm6YcaSudqG4Ikg.GIF.eunk3444/5b857513857e864b-%281%29_13.gif"])
