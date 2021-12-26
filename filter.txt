@@ -7546,4 +7546,4 @@ pixlr.com$$script[tag-content="cancelAdBlocker()"]
 ! cafe.naver.com/nds07
 cafe.naver.com#?#table[role="presentation"]:has(> tbody > tr > td > div > p > img[src*="cefvcGaqwg.PNG/Main_Spon_AD-1.png?"])
 ! cafe.naver.com/anycallusershow
-cafe.naver.com#?#table[role="presentation"] > tbody > tr > td > div:has(> div > a > img[src*="9KaEmwQeGPYaaxLX1fcvuhMRC1rBQvIXnv2_F2m25K8g.JPEG/558x120%283%29.jpg"])
+cafe.naver.com#?#table[role="presentation"] > tbody > tr > td > div:has(> div > a > img[src*="gT4LJCUiPbtlYAqakqz95HxBha0aBk0kcLYK37FrcKcg.JPEG/558x120%284%29.jpg"])
