@@ -1,5 +1,7 @@
 ! Rules of this extension file are blocking rules, element hiding and extended css, for an advertisement managed by a cafe owner on Naver Cafe, Daum Cafe, etc.
 ! All rules that are related to those must be stored in this file.
+! Ranking of a Naver Cafe must be branch 3 or higher ( https://cafe.naver.com/ca-fe/home/ranking-introduction ).
+! Ranking of a Daum Cafe must be platinum 20 or higher ( https://top.cafe.daum.net/_c21_/htdocs?path=score/help ).
 ! 
 ! NAVER CAFE ( https://cafe.naver.com )
 ! cafe.naver.com/eyejoker7

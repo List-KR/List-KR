@@ -1,0 +1,3 @@
+! Each domain of website in this file has been changed regularly.
+! This means that the website in this file is forbidden by censoring HTTPS of S. Korea ( https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea ).
+! 
