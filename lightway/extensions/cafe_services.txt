@@ -31,3 +31,6 @@ cafe.naver.com#?#table[role="presentation"] > tbody > tr > td > div > div > div:
 cafe.naver.com#?#table[role="presentation"] > tbody > tr > td > div > div > table:has(> tbody > tr > td > img[src*="q1weE0LvmIQMf2Xyty4nSDS14QASxwbcDX0-oN-NT5Eg.PNG/04_Weeklypick2x.png"][alt="중고나라 추천"])
 cafe.naver.com#?#table[role="presentation"] > tbody > tr > td > div > div > table:has(> tbody > tr > td > img[src*="pAcqDoV5fYgCmDaKsmfhsF5GIpHDXdz1tOowW4xG6Hwg.PNG/10_%EA%B3%B5%EB%8F%99%EA%B5%AC%EB%A7%A42x.png"][alt="할인특가"])
 cafe.naver.com#?#table[role="presentation"] > tbody > tr > td > div > div > div:has(> img[src*="j3QV9WYvNiQJO4VBk8IGyt3ERw8SiqYYp9Vq08BryDEg.PNG/deal_title.png"][alt="꿀딜특구"])
+! cafe.naver.com/malzero
+cafe.naver.com#?#table[role="presentation"] > tbody > tr > td > div > div:has(> a[href="https://www.bitdefenderkorea.co.kr/support/contact-us.asp"] > img[src*="EsQM46T28zX5Y7fA9QpNaKusDwep4FeX5c03cxlw98Eg.c4eelvlioZdSx8BZxMZCf70NGpLoqbh4sQgMVH_yl2Mg.JPEG/835x120.jpg"])
+cafe.naver.com#?#table[role="presentation"] > tbody > tr > td > div > div:has(> a[href="http://www.emsisoft.co.kr/"] > img[src*="MVCVPB4TAAuPUzbwuRzK-xHMk6CwbvtCS1tACsnqG-8g.O_-TQPKt1G0vuep4QTj_K56qtgv4as_ePh6V66hlzccg.PNG/emsisoft_835_140_banr_01.png"])
