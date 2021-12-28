@@ -15,3 +15,5 @@ cafe.naver.com#?#table[role="presentation"] > tbody > tr > td > div > a[href="ht
 cafe.naver.com#?#table[role="presentation"]:has(> tbody > tr > td > div > p > img[src*="cefvcGaqwg.PNG/Main_Spon_AD-1.png?"])
 ! cafe.naver.com/anycallusershow
 cafe.naver.com#?#table[role="presentation"] > tbody > tr > td > div:has(> div > a > img[src*="gT4LJCUiPbtlYAqakqz95HxBha0aBk0kcLYK37FrcKcg.JPEG/558x120%284%29.jpg"])
+! cafe.naver.com/steamindiegame
+cafe.naver.com##table[role="presentation"] > tbody > tr > td > div > div > table > tbody > tr > td > div > div > table > tbody > tr > td > div > div > a[href="http://www.commawang.co.kr/"] > img[src*="5WQejlJIqcNYyU9l2TfLnMEkj8iOQ43dwx-BZ2RCB2Yg.PNG%2F%25EC%25BB%25B4%25EB%25A7%2588%25EC%2599%2595.png"]
