@@ -14,12 +14,12 @@ cafe.naver.com##table[role="presentation"] > tbody > tr > td > div > a[href="htt
 ! cafe.naver.com/nds07
 cafe.naver.com#?#table[role="presentation"]:has(> tbody > tr > td > div > p > img[src*="cefvcGaqwg.PNG/Main_Spon_AD-1.png?"])
 ! cafe.naver.com/anycallusershow
-cafe.naver.com#?#table[role="presentation"] > tbody > tr > td > div:has(> div > a > img[src*="gT4LJCUiPbtlYAqakqz95HxBha0aBk0kcLYK37FrcKcg.JPEG/558x120%284%29.jpg"])
-! cafe.naver.com/steamindiegame
 cafe.naver.com#?#tr._noticeArticle.board-notice.type_main:has(> td.td_article > div > div > a[href^="/ArticleRead.nhn?clubid=13764661&"][href$="&articleid=3959629"])
 cafe.naver.com#?#tr._noticeArticle.board-notice.type_main:has(> td.td_article > div > div > a[href^="/ArticleRead.nhn?clubid=13764661&"][href$="&articleid=3959669"])
 cafe.naver.com#?#tr._noticeArticle.board-notice.type_main:has(> td.td_article > div > div > a[href^="/ArticleRead.nhn?clubid=13764661&"][href$="&articleid=3951581"])
 cafe.naver.com#?#tr._noticeArticle.board-notice.type_main:has(> td.td_article > div > div > a[href^="/ArticleRead.nhn?clubid=13764661&"][href$="&articleid=3699922"])
+cafe.naver.com#?#table[role="presentation"] > tbody > tr > td > div:has(> div > a > img[src*="gT4LJCUiPbtlYAqakqz95HxBha0aBk0kcLYK37FrcKcg.JPEG/558x120%284%29.jpg"])
+! cafe.naver.com/steamindiegame
 cafe.naver.com##table[role="presentation"] > tbody > tr > td > div > div > table > tbody > tr > td > div > div > table > tbody > tr > td > div > div > a[href="http://www.commawang.co.kr/"] > img[src*="5WQejlJIqcNYyU9l2TfLnMEkj8iOQ43dwx-BZ2RCB2Yg.PNG%2F%25EC%25BB%25B4%25EB%25A7%2588%25EC%2599%2595.png"]
 ! cafe.naver.com/bighead033
 cafe.naver.com##table[role="presentation"] > tbody > tr > td > div > a[href="http://oversystem.co.kr/"] > img[src*="Z0lfdDwXzpFO3dUVhEdR0Fp2ZP6sHIOIr9x-UM4kaE4g.PNG/%EB%8C%80%EB%AC%B8_14.png"]
