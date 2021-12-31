@@ -1,6 +1,14 @@
 ! #%#//scriptlet('abort-current-inline-script', 'document.addEventListener', '/adscale_slot_id/')
 untitle.org,seo-marketing.co.kr#%#//scriptlet('abort-current-inline-script', 'document.addEventListener', '/adscale_slot_id/')
 ! #%#//scriptlet('prevent-setTimeout', '/\.displayMessage\(/')
+!
+||tv.kakao.com/embed/player/image/ads.png$redirect=1x1-transparent.gif
+!#if ( adguard_ext_firefox || adguard_app_windows || adguard_app_mac || adguard_app_android )
+@@||videoads.kakao.com/adserver/api/v*/vmap$xmlhttprequest,other
+!#endif
+!#if ( !adguard_ext_firefox && !adguard_app_windows && !adguard_app_mac && !adguard_app_android )
+||videoads.kakao.com/adserver/api/v*/vmap$xmlhttprequest,redirect=noopvmap-1.0
+!#endif
 ! Kakao PotPlayer ( https://tv.kakao.com/guide/potplayer )
 @@||videoads.kakao.com/adserver/api/$app=PotPlayer.exe
 ! mbn.co.kr ( https://github.com/AdguardTeam/AdguardFilters/issues/104586 )
