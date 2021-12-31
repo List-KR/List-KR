@@ -9,7 +9,9 @@ untitle.org,seo-marketing.co.kr#%#//scriptlet('abort-current-inline-script', 'do
 !#if ( !adguard_ext_firefox && !adguard_app_windows && !adguard_app_mac && !adguard_app_android )
 ||videoads.kakao.com/adserver/api/v*/vmap$xmlhttprequest,redirect=noopvmap-1.0
 !#endif
-! Kakao PotPlayer ( https://tv.kakao.com/guide/potplayer )
-@@||videoads.kakao.com/adserver/api/$app=PotPlayer.exe
+! Kakao PotPlayer for Windows ( https://tv.kakao.com/guide/potplayer )
+!#if ( adguard_app_windows )
+||videoads.kakao.com/adserver/api/v*/vmap$redirect=noopvmap-1.0,important,app=PotPlayer.exe
+!#endif
 ! mbn.co.kr ( https://github.com/AdguardTeam/AdguardFilters/issues/104586 )
 ||ad.smartmediarep.com/NetInsight/video/$redirect=nooptext,domain=mbn.co.kr
