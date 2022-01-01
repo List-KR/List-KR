@@ -3215,13 +3215,11 @@ daum.net##div.ad_rightbtm
 dcid.dcinside.com##div.ban_box
 dcinside.com##div#dgn_content_de>div[style="padding-top: 16px;padding-bottom:30px;text-align: center"]
 dcinside.com##div.ad_top
-dcinside.com##div.leftbanner
-dcinside.com##div.rightbanner
+dcinside.com##div[class^="leftbanner"]
+dcinside.com##div[class^="rightbanner"]
 dcinside.com##ul.gnb_list > li.linebox
 dcinside.com##ul.gnb_list > li:nth-child(8)
 dcinside.com##div.evt_content
-dcinside.com##div.leftbanner
-dcinside.com##div.rightbanner
 dcnewsj.joins.com##div.promotion_banner
 ddanzi.com##div.add_display
 ddanzi.com##div.add_display_new
