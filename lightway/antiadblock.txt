@@ -1,6 +1,8 @@
 ! #%#//scriptlet('abort-current-inline-script', 'document.addEventListener', '/adscale_slot_id/')
 untitle.org,seo-marketing.co.kr#%#//scriptlet('abort-current-inline-script', 'document.addEventListener', '/adscale_slot_id/')
 ! #%#//scriptlet('prevent-setTimeout', '/\.displayMessage\(/')
+!  #%#//scriptlet("prevent-bab")
+1412.rest#%#//scriptlet("prevent-bab")
 !
 ||tv.kakao.com/embed/player/image/ads.png$redirect=1x1-transparent.gif
 !#if ( adguard_ext_firefox || adguard_app_windows || adguard_app_mac || adguard_app_android )
