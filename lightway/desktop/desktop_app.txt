@@ -1,3 +1,4 @@
+||pcofficewebview.polarisoffice.com/*/ads/
 ||gobest.kr/goclean/goclean-ad-new.htm$document
 ||gobest.kr/adfile/
 ||api.polarisoffice.com/api/*/account/getAdvertiseinfo

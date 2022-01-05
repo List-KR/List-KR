@@ -2525,6 +2525,7 @@ ondisk.co.kr##div[id^="wingBanner-"]
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xmlhttprequest,redirect=googlesyndication-adsbygoogle,domain=uur1.fabulouslink.xyz
 ||ad.smartmediarep.com/NetInsight/video/$redirect=nooptext,domain=mbn.co.kr,important
 ||img.mbn.co.kr/ad/
+||pcofficewebview.polarisoffice.com/*/ads/
 
 ! Site element hiding rules
 community.rememberapp.co.kr#$#div.sc-64vosk-0.jIkGEl { margin-bottom: 10px !important; }
