@@ -2,3 +2,6 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+hellven.net##a[href$="&utm_medium=hellven1&referer=internal_hellven_banner_hellven1"]
+||hellven.net/data/apms/banner/
+||hellven.net/data/apms/adver_photo/
