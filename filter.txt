@@ -2528,6 +2528,9 @@ ondisk.co.kr##div[id^="wingBanner-"]
 ||pcofficewebview.polarisoffice.com/*/ads/
 ||hellven.net/data/apms/banner/
 ||hellven.net/data/apms/adver_photo/
+||ahnlabad.com^
+||tagtree.co.kr^
+||v3contents.ahnlab.com/client/ad_toast.jsp
 
 ! Site element hiding rules
 community.rememberapp.co.kr#$#div.sc-64vosk-0.jIkGEl { margin-bottom: 10px !important; }

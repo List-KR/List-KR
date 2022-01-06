@@ -1,3 +1,4 @@
+||v3contents.ahnlab.com/client/ad_toast.jsp
 ||ko-kr.alupdateadd.altools.com/icon/wemakeprice_
 ||ko-kr.alupdateadd.altools.com/icon/halfclub_
 ||ko-kr.alupdateadd.altools.com/icon/coupang_
