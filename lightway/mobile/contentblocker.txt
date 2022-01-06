@@ -1,2 +1,12 @@
+3dpchip.com#@##iqadtile5
+3dpchip.com#@##ad_190x90
+3dpchip.com#@##ad-zone-1
+3dpchip.com#@##DivTopAd
+3dpchip.com#@##ads-sticky
+3dpchip.com#@##leftframeAD
+3dpchip.com#@##tobsideAd
+3dpchip.com#@##ad
+3dpchip.com#@##ads
+3dpchip.com#@##adsense
 @@||3dpchip.com^$generichide
 @@||1412.rest^$generichide
