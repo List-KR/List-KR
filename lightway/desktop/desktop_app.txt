@@ -1,3 +1,7 @@
+||ko-kr.alupdateadd.altools.com/icon/wemakeprice_
+||ko-kr.alupdateadd.altools.com/icon/halfclub_
+||ko-kr.alupdateadd.altools.com/icon/coupang_
+121.189.38.123^$network
 ||pcofficewebview.polarisoffice.com/*/ads/
 ||gobest.kr/goclean/goclean-ad-new.htm$document
 ||gobest.kr/adfile/
