@@ -2531,6 +2531,7 @@ ondisk.co.kr##div[id^="wingBanner-"]
 ||ahnlabad.com^
 ||tagtree.co.kr^
 ||v3contents.ahnlab.com/client/ad_toast.jsp
+||taboola.com^$third-party
 
 ! Site element hiding rules
 community.rememberapp.co.kr#$#div.sc-64vosk-0.jIkGEl { margin-bottom: 10px !important; }
@@ -7523,7 +7524,7 @@ hellven.net##a[href$="&utm_medium=hellven1&referer=internal_hellven_banner_hellv
 ! #%#//scriptlet('abort-current-inline-script', 'document.addEventListener', '/adscale_slot_id/')
 untitle.org,3dpchip.com,seo-marketing.co.kr#%#//scriptlet('abort-current-inline-script', 'document.addEventListener', '/adscale_slot_id/')
 ! #%#//scriptlet('prevent-setTimeout', '/\.displayMessage\(/')
-lover9.net,avjamack.com,avjamak.net#%#//scriptlet('prevent-setTimeout', '/\.displayMessage\(/')
+3dpchip.com,lover9.net,avjamack.com,avjamak.net#%#//scriptlet('prevent-setTimeout', '/\.displayMessage\(/')
 !
 uur1.fabulouslink.xyz#%#//scriptlet("abort-current-inline-script", "chp_ads_blocker_detector")
 lover9.net#%#//scriptlet("abort-on-property-read", "goPage")
