@@ -1,3 +1,4 @@
+||advert.estsoft.com/?event=$other
 ||v3contents.ahnlab.com/client/ad_toast.jsp
 ||ko-kr.alupdateadd.altools.com/icon/wemakeprice_
 ||ko-kr.alupdateadd.altools.com/icon/halfclub_
