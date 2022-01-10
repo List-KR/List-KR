@@ -45,3 +45,7 @@ cafe.naver.com#?#table[role="presentation"] > tbody > tr > td > div > div > tabl
 cafe.naver.com#?#table[role="presentation"] > tbody > tr > td > div > div > div:has(> img[src*="j3QV9WYvNiQJO4VBk8IGyt3ERw8SiqYYp9Vq08BryDEg.PNG/deal_title.png"][alt="꿀딜특구"])
 ! cafe.naver.com/malzero
 cafe.naver.com#?#table[role="presentation"] > tbody > tr > td > div > div:has(> a[href="http://www.emsisoft.co.kr/"] > img[src*="O_-TQPKt1G0vuep4QTj_K56qtgv4as_ePh6V66hlzccg.PNG/emsisoft_835_140_banr_01.png"])
+! cafe.naver.com/develoid
+cafe.naver.com#?#table[role="presentation"] > tbody > tr > td > center > table > tbody > tr:has(> td > a[href="https://cafe.naver.com/develoid/975677"] > img[src*="SanDisk_develoid_%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0_%EB%B0%B0%EB%84%88.jpg"])
+cafe.naver.com#?#table[role="presentation"] > tbody > tr > td > center > table > tbody > tr:has(> td > a[href="https://m.booking.naver.com/booking/5/bizes/365452"] > img[src*="%EB%94%94%EC%A7%80%ED%84%B8%ED%94%84%EB%9D%BC%EC%9E%90_%ED%99%8D%EB%8C%80%EB%B3%B8%EC%A0%90_%EB%B0%B0%EB%84%88_1440X240px.jpg"])
+cafe.naver.com#?#table[role="presentation"] > tbody > tr > td > center > table > tbody > tr:has(> td > a[href="https://cafe.naver.com/develoid/964442"] > img[src*="R1_q6tO71zHnR8gMX8nrH5Xo9H3c23Q8NssgkLTVdmYg.JPEG/DEVELOID.jpg"])
