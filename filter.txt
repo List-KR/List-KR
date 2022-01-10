@@ -7554,12 +7554,10 @@ pixlr.com$$script[tag-content="cancelAdBlocker()"]
 cafe.naver.com#?#table[role="presentation"]:has(> tbody > tr > td > div > p > img[src*="cefvcGaqwg.PNG/Main_Spon_AD-1.png?"])
 ! cafe.naver.com/anycallusershow
 m.cafe.naver.com#?#div > ul.list_area > li.board_box:has(> div.ArticleListItem > a.txt_area[href*="m.cafe.naver.com/ArticleRead.nhn?clubid=13764661&articleid=3959669&"])
-m.cafe.naver.com#?#div > ul.list_area > li.board_box:has(> div.ArticleListItem > a.txt_area[href*="m.cafe.naver.com/ArticleRead.nhn?clubid=13764661&articleid=3959629&"])
-m.cafe.naver.com#?#div > ul.list_area > li.board_box:has(> div.ArticleListItem > a.txt_area[href*="m.cafe.naver.com/ArticleRead.nhn?clubid=13764661&articleid=3951581&"])
+m.cafe.naver.com#?#div > ul.list_area > li.board_box:has(> div.ArticleListItem > a.txt_area[href*="m.cafe.naver.com/ArticleRead.nhn?clubid=13764661&articleid=3978792&"])
 m.cafe.naver.com#?#div > ul.list_area > li.board_box:has(> div.ArticleListItem > a.txt_area[href*="m.cafe.naver.com/ArticleRead.nhn?clubid=13764661&articleid=3699922&"])
-cafe.naver.com#?#tr._noticeArticle.board-notice.type_main:has(> td.td_article > div > div > a[href^="/ArticleRead.nhn?clubid=13764661&"][href$="&articleid=3959629"])
+cafe.naver.com#?#tr._noticeArticle.board-notice.type_main:has(> td.td_article > div > div > a[href^="/ArticleRead.nhn?clubid=13764661&"][href$="&articleid=3978792"])
 cafe.naver.com#?#tr._noticeArticle.board-notice.type_main:has(> td.td_article > div > div > a[href^="/ArticleRead.nhn?clubid=13764661&"][href$="&articleid=3959669"])
-cafe.naver.com#?#tr._noticeArticle.board-notice.type_main:has(> td.td_article > div > div > a[href^="/ArticleRead.nhn?clubid=13764661&"][href$="&articleid=3951581"])
 cafe.naver.com#?#tr._noticeArticle.board-notice.type_main:has(> td.td_article > div > div > a[href^="/ArticleRead.nhn?clubid=13764661&"][href$="&articleid=3699922"])
 cafe.naver.com#?#table[role="presentation"] > tbody > tr > td > div:has(> div > a > img[src*="gT4LJCUiPbtlYAqakqz95HxBha0aBk0kcLYK37FrcKcg.JPEG/558x120%284%29.jpg"])
 ! cafe.naver.com/eyejoker7
