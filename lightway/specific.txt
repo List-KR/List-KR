@@ -1,3 +1,4 @@
+map.kakao.com##ul[id="info.search.place.list"] > li.AdItem
 playcraft.tistory.com##.module.module_plugin > a[href^="https://coupa.ng/"]
 dcnewsj.joins.com##div[class^="ab_ad"]
 ||img.mbn.co.kr/ad/
