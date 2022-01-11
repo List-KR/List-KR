@@ -2532,6 +2532,7 @@ ondisk.co.kr##div[id^="wingBanner-"]
 ||tagtree.co.kr^
 ||v3contents.ahnlab.com/client/ad_toast.jsp
 ||taboola.com^$third-party
+||ad-display.s.zigzag.kr^
 
 ! Site element hiding rules
 community.rememberapp.co.kr#$#div.sc-64vosk-0.jIkGEl { margin-bottom: 10px !important; }
