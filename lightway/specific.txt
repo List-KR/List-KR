@@ -1,3 +1,4 @@
+pcmap.place.naver.com###_pcmap_list_scroll_container > ul > li[data-laim-exp-id="undefined*e"]
 map.kakao.com##ul[id="info.search.place.list"] > li.AdItem
 playcraft.tistory.com##.module.module_plugin > a[href^="https://coupa.ng/"]
 dcnewsj.joins.com##div[class^="ab_ad"]

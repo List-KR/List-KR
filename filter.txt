@@ -7493,6 +7493,7 @@ epnc.co.kr##div[id^="floating_banner_"]
 epnc.co.kr##div[onmousedown*="'event_label': 'AD'"]
 mbn.co.kr##div[id$="_banner"]
 map.kakao.com##ul[id="info.search.place.list"] > li.AdItem
+pcmap.place.naver.com###_pcmap_list_scroll_container > ul > li[data-laim-exp-id="undefined*e"]
 
 ! Extended CSS rules
 m.dcinside.com#?#section.gall-lst-group > .detail-top-lst > li:has(> div > a > span.ntc-line-ad)
