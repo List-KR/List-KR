@@ -1,3 +1,6 @@
+||img.side.mythiell.com/ocenAd*.html
+||side.mythiell.com/readUrl.php?url=http://adv.imadrep.co.kr/
+||file.osen.co.kr/*/css/ad.css
 pcmap.place.naver.com###_pcmap_list_scroll_container > ul > li[data-laim-exp-id="undefined*e"]
 map.kakao.com##ul[id="info.search.place.list"] > li.AdItem
 playcraft.tistory.com##.module.module_plugin > a[href^="https://coupa.ng/"]
@@ -80,7 +83,7 @@ namu.wiki##iframe[src*="//arca.live/static/ad/call_ad.html?"]
 ||arca.live/static/ad/
 ||timg.humoruniv.com/thumb_crop_resize*.php?url=*://i.011st.com/t/
 ||img.ruliweb.net/view/
-hinfomax.kr,hinfomax.co.kr,pressian.com,kukinews.com##.banner
+mosen.mt.co.kr,hinfomax.kr,hinfomax.co.kr,pressian.com,kukinews.com##.banner
 ||kukinews.com/data/kuk/banner/
 ||mmzone.co.kr/menu/top_ad.php
 mmzone.co.kr###main_premium_spon_block
@@ -162,7 +165,7 @@ m.ruliweb.com##div[id^="nbp_container"]
 ruliweb.com##div.board_main > table > tbody tr.table_body.list_inner
 ruliweb.com#$#.user_view { width: 100%!important; }
 ruliweb.com##.nbp_container
-ruliweb.com##div[id^="ad_"]
+mosen.mt.co.kr,ruliweb.com##div[id^="ad_"]
 ||img.ruliweb.com/view/
 meeco.kr##.list_d.ldd > ul li:not([class])
 m.dcinside.com##ul.all-comment-lst > li.comment:not(li[id^="comment_cnt_"])

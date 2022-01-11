@@ -1,3 +1,5 @@
+||shoppingcall.me^$third-party
+||kodcad.kr^
 ||hancomad.com^
 ||ahnlabad.com^
 ||tagtree.co.kr^
@@ -16,7 +18,6 @@
 ||ad.aceplanet.co.kr^
 ||ad.doyouad.com^
 ||ad.ajitad.co.kr^
-||side.mythiell.com^
 ||simg.imadrep.co.kr^
 ||adv.dailyissue.co.kr^
 ||ad.idnad.co.kr^$third-party
@@ -64,7 +65,6 @@
 ||compass.adop.cc^
 ||catad5959.com^
 ||adex.ednplus.com^
-||interworksmedia.co.kr^$third-party
 ||targetpush.co.kr^$third-party
 ||ad.adinc.kr^
 ||ad.about.co.kr^

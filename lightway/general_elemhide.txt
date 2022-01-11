@@ -1,3 +1,5 @@
+##a[href*="//adv.imadrep.co.kr/"]
+##iframe[src*="//www.kodcad.kr/"]
 ##iframe[src*="//ai.onepx.kr/"]
 ##a[href*="//ad-api.enuri.info/"]
 ##img[src*="//ad-api.enuri.info/"]

@@ -23,6 +23,8 @@
 @@||api-ao-list.adison.co^$app=com.nhn.android.nbooks
 
 ! General element hiding rules
+##a[href*="//adv.imadrep.co.kr/"]
+##iframe[src*="//www.kodcad.kr/"]
 ##a[href*="//ad-api.enuri.info/"]
 ##img[src*="//ad-api.enuri.info/"]
 ##a[href*="//010bts.com"]
@@ -2436,7 +2438,7 @@ ondisk.co.kr##div[id^="wingBanner-"]
 ||view.asiae.co.kr/common/ad/
 ||viewsnnews.com/image/advert/
 ||vod-naver.pstatic.net/tveta/owfs_rmc/read/$domain=~sports.news.naver.com
-||vod.shoppingcall.me/ad_shoppingCallme.php^
+||shoppingcall.me^$third-party
 ||vogonara.ru/rotator/*.js^
 ||vogozara.ru/kadam.base.min.js^
 ||vop.co.kr/templates/ad/$domain=vop.co.kr
@@ -2533,6 +2535,9 @@ ondisk.co.kr##div[id^="wingBanner-"]
 ||v3contents.ahnlab.com/client/ad_toast.jsp
 ||taboola.com^$third-party
 ||ad-display.s.zigzag.kr^
+||img.side.mythiell.com/ocenAd*.html
+||side.mythiell.com/readUrl.php?url=http://adv.imadrep.co.kr/
+||file.osen.co.kr/*/css/ad.css
 
 ! Site element hiding rules
 community.rememberapp.co.kr#$#div.sc-64vosk-0.jIkGEl { margin-bottom: 10px !important; }
@@ -2802,7 +2807,7 @@ bbs.danawa.com##div.rnb_unit_banner
 bbs.danawa.com##div.ttop_ad_banner
 bbs.ruliweb.com##div#ti3
 bbs.ruliweb.com##div.board_main_top>div.right_wrapper
-ruliweb.com##div[id^="ad_"]
+mosen.mt.co.kr,ruliweb.com##div[id^="ad_"]
 ruliweb.com##div[id^="adsense_"]
 ruliweb.com##div.board_main > table > tbody tr.table_body.list_inner
 ruliweb.com#$#.user_view { width: 100%!important; }
@@ -6673,7 +6678,7 @@ star.ohmynews.com##div.ad-250x250
 star.ohmynews.com##section.M-atc>div.ad_box_outline
 star.ohmynews.com##td.at_contents>table[align="center"][style="padding-top:10px; padding-bottom:20px;"]
 start.intizen.com##iframe[src^="//sb.biz.dreamwiz.com/dw_shopping_box.asp"]
-hinfomax.kr,hinfomax.co.kr,start.intizen.com##.banner
+mosen.mt.co.kr,hinfomax.kr,hinfomax.co.kr,start.intizen.com##.banner
 starin.edaily.co.kr##div.View_TPAd
 steemit.com##div.ad-carousel
 steptohealth-co-kr.cdn.ampproject.org##amp-layout.ad-space
@@ -7496,6 +7501,7 @@ map.kakao.com##ul[id="info.search.place.list"] > li.AdItem
 pcmap.place.naver.com###_pcmap_list_scroll_container > ul > li[data-laim-exp-id="undefined*e"]
 
 ! Extended CSS rules
+mosen.mt.co.kr#?#section.textList > article.row:has(> ul.aritcle-info > li.title > a[href*="//adv.imadrep.co.kr/"])
 m.dcinside.com#?#section.gall-lst-group > .detail-top-lst > li:has(> div > a > span.ntc-line-ad)
 gall.dcinside.com#?#table.gall_list > tbody > .ub-content:has(> td.gall_num:contains(AD))
 berryjam.co.kr#?#table[width="1200"]:has(> tbody > tr > td > div[class*="slider-banner-"])
