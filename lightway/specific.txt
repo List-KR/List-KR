@@ -1,3 +1,5 @@
+search.daum.net###splinkColl
+search.daum.net##.adLinkColl
 ||img.side.mythiell.com/ocenAd*.html
 ||side.mythiell.com/readUrl.php?url=http://adv.imadrep.co.kr/
 ||file.osen.co.kr/*/css/ad.css
