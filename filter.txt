@@ -7501,6 +7501,7 @@ map.kakao.com##ul[id="info.search.place.list"] > li.AdItem
 pcmap.place.naver.com###_pcmap_list_scroll_container > ul > li[data-laim-exp-id="undefined*e"]
 search.daum.net##.adLinkColl
 search.daum.net###splinkColl
+msearch.shopping.naver.com##div[class^="brandAd_brand_ad"]
 
 ! Extended CSS rules
 mosen.mt.co.kr#?#section.textList > article.row:has(> ul.aritcle-info > li.title > a[href*="//adv.imadrep.co.kr/"])

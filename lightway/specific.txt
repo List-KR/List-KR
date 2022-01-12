@@ -1,3 +1,4 @@
+msearch.shopping.naver.com##div[class^="brandAd_brand_ad"]
 search.daum.net###splinkColl
 search.daum.net##.adLinkColl
 ||img.side.mythiell.com/ocenAd*.html
