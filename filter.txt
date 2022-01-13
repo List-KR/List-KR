@@ -2626,7 +2626,6 @@ ajunews.com##div.stickyCont>div[style="width:690px;height:250px;margin-top: 10px
 ajunews.com##div.view_banner
 akomnews.com##div.ad_pos
 akomnews.com##div.banner_wrap
-akomnews.com##div.com_ban
 akomnews.com##div.top_banner
 akomnews.com##iframe[src^="https://www.akomnews.com/theme/wide01/include/adsense.php"]
 akal.co.kr##div.Hot_random_image
@@ -5489,7 +5488,6 @@ medicaltimes.com##div.newsBody>div[style="margin:10px 15px; padding:15px;"]
 medicaltimes.com##div.newsTxt>div[style="padding-top: 15px;"]
 medicaltimes.com##div.thirdSection>div[style="background-color: #f2f2f2;border: 1px solid #cccccc;box-sizing: border-box;margin-bottom: 15px;text-align:center;padding:32px 0px"]
 mediawatch.kr##a[href*="/news/banner_click.php"]
-mediawatch.kr##div.com_ban
 medicaltimes.com##div.newsBody>div[style="margin:10px 15px; padding:15px;"]
 medicaltimes.com##div.newsTxt>div[style="padding-top: 15px;"]
 medicaltimes.com##div.thirdSection>div[style="background-color: #f2f2f2;border: 1px solid #cccccc;box-sizing: border-box;margin-bottom: 15px;text-align:center;padding:32px 0px"]
@@ -6273,7 +6271,6 @@ poipiku.com##div.SideBarMid
 polinews.co.kr##div#news_body_area>div[style="clear:both;margin-top:6px;margin-bottom:10px;margin-left:10px;text-align:center;float:right;"]
 polinews.co.kr##div.banner_left
 polinews.co.kr##div.banner_right
-polinews.co.kr##div.com_ban
 polinews.co.kr##div.news_con>div>div[style="clear:both;margin-top:6px;margin-bottom:10px;margin-left:10px;text-align:center;float:right;max-width:200px;max-height:200px;"]
 polinews.co.kr##div.news_con>div>div[style="clear:both;margin:0 auto;text-align:center;max-width:336px;max-height:280px;"]
 polinews.co.kr##iframe[src^="/data/ad/"]
@@ -6805,9 +6802,7 @@ tf.co.kr##iframe[id^="ADFRAME_"]
 tf.co.kr##iframe[src^="http://www.tf.co.kr/public/ad/"]
 tf.co.kr##iframe[src^="https://nad.tf.co.kr/v/pr/fr/thefact/"]
 tfmedia.co.kr##div.banner_wrap
-tfmedia.co.kr##div.com_ban
 tfnews.co.kr##div.banner_wrap
-tfnews.co.kr##div.com_ban
 tfnews.co.kr##div.top_banner
 tgd.kr###main-menu > div:last-child
 tgd.kr##a[href*="/trk/click"]
@@ -6840,7 +6835,6 @@ theceluv.com##div.ad_box
 thedroidguy.com##div.stickyad
 theguardian.com##div.ad-slot
 theguru.co.kr##div#news_body_area>div[style="clear:both;float:right;margin-left:20px;width:300px;height:250px;"]
-theguru.co.kr##div.com_ban
 theguru.co.kr##div[itemprop="articleBody"]>div[style="clear:both;margin:0 auto;margin-bottom:20px;width:336px;height:280px;"]
 thehackernews.com##center.banners
 thehackernews.com##div.ad_one
@@ -7030,7 +7024,6 @@ tvseoul.kr##div#news_body_area>div[style="clear:both;margin-bottom:10px;margin-t
 tvseoul.kr##div.banner_left
 tvseoul.kr##div.banner_right
 tvseoul.kr##div.banner_wrap
-tvseoul.kr##div.com_ban
 tvseoul.kr##div.top_banner
 twilog.org##div#ad-side-bottom
 twilog.org##div#ad-text
@@ -7535,7 +7528,7 @@ ppomppu.co.kr##tr > td div.bridge
 ruliweb.com###ti3
 ruliweb.com#$##board_top > div > .top_best.best_list { width: 100% !important; }
 hellven.net##a[href$="&utm_medium=hellven1&referer=internal_hellven_banner_hellven1"]
-koya-culture.com##.com_ban
+tvseoul.kr,theguru.co.kr,tfnews.co.kr,tfmedia.co.kr,polinews.co.kr,mediawatch.kr,akomnews.com,koya-culture.com##.com_ban
 ||koya-culture.com/data/banner/
 
 ! JS rules
