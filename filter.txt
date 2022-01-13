@@ -7499,6 +7499,12 @@ search.daum.net##.adLinkColl
 search.daum.net###splinkColl
 msearch.shopping.naver.com##div[class^="brandAd_brand_ad"]
 search.shopping.naver.com##li[class^="basicList_item__"].ad
+ppomppu.co.kr##tr > td div.bridge
+ruliweb.com###ti3
+ruliweb.com#$##board_top > div > .top_best.best_list { width: 100% !important; }
+hellven.net##a[href$="&utm_medium=hellven1&referer=internal_hellven_banner_hellven1"]
+tvseoul.kr,theguru.co.kr,tfnews.co.kr,tfmedia.co.kr,polinews.co.kr,mediawatch.kr,akomnews.com,koya-culture.com##.com_ban
+||koya-culture.com/data/banner/
 
 ! Extended CSS rules
 mosen.mt.co.kr#?#section.textList > article.row:has(> ul.aritcle-info > li.title > a[href*="//adv.imadrep.co.kr/"])
@@ -7524,12 +7530,6 @@ orbi.kr#$#div#top_banner_area { display: none !important; }
 orbi.kr#$#div[class="global-top animate"] { top: 0 !important; }
 star.ohmynews.com##li[-ext-has=">.ad-box"]
 zipbogo.net##.sidebar > ul > li[-ext-has='a[href*="/ad/"],a[onclick^="visitWebBanner("]']
-ppomppu.co.kr##tr > td div.bridge
-ruliweb.com###ti3
-ruliweb.com#$##board_top > div > .top_best.best_list { width: 100% !important; }
-hellven.net##a[href$="&utm_medium=hellven1&referer=internal_hellven_banner_hellven1"]
-tvseoul.kr,theguru.co.kr,tfnews.co.kr,tfmedia.co.kr,polinews.co.kr,mediawatch.kr,akomnews.com,koya-culture.com##.com_ban
-||koya-culture.com/data/banner/
 
 ! JS rules
 ! #%#//scriptlet('abort-current-inline-script', 'document.addEventListener', '/adscale_slot_id/')
