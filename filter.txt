@@ -2538,6 +2538,8 @@ ondisk.co.kr##div[id^="wingBanner-"]
 ||img.side.mythiell.com/ocenAd*.html
 ||side.mythiell.com/readUrl.php?url=http://adv.imadrep.co.kr/
 ||file.osen.co.kr/*/css/ad.css
+||innity.net^
+||api.ruliweb.com/floating_ad|
 
 ! Site element hiding rules
 community.rememberapp.co.kr#$#div.sc-64vosk-0.jIkGEl { margin-bottom: 10px !important; }
