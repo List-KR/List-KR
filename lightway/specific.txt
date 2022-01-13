@@ -1,3 +1,5 @@
+koya-culture.com##.com_ban
+||koya-culture.com/data/banner/
 ||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices-gpt
 ||api.ruliweb.com/floating_ad|
 search.shopping.naver.com##li[class^="basicList_item__"].ad

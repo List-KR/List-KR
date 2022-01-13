@@ -7535,6 +7535,8 @@ ppomppu.co.kr##tr > td div.bridge
 ruliweb.com###ti3
 ruliweb.com#$##board_top > div > .top_best.best_list { width: 100% !important; }
 hellven.net##a[href$="&utm_medium=hellven1&referer=internal_hellven_banner_hellven1"]
+koya-culture.com##.com_ban
+||koya-culture.com/data/banner/
 
 ! JS rules
 ! #%#//scriptlet('abort-current-inline-script', 'document.addEventListener', '/adscale_slot_id/')
