@@ -2540,6 +2540,7 @@ ondisk.co.kr##div[id^="wingBanner-"]
 ||file.osen.co.kr/*/css/ad.css
 ||innity.net^
 ||api.ruliweb.com/floating_ad|
+||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices-gpt
 
 ! Site element hiding rules
 community.rememberapp.co.kr#$#div.sc-64vosk-0.jIkGEl { margin-bottom: 10px !important; }
