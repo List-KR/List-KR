@@ -3,7 +3,6 @@ m.dcinside.com#?#section.gall-lst-group > .detail-top-lst > li:has(> div > a > s
 gall.dcinside.com#?#table.gall_list > tbody > .ub-content:has(> td.gall_num:contains(AD))
 berryjam.co.kr#?#table[width="1200"]:has(> tbody > tr > td > div[class*="slider-banner-"])
 community.rememberapp.co.kr#?#div > a.sc-7g611p-0.cAmftz:has(> div > div > div > img[alt="배너 광고 이미지"])
-namu.wiki#?#aside > div[id^="tchika"].c:has(> div[id^="tchika"]:not(.c))
 namu.wiki#?#div.app > div > > div > div > div > iframe[src*="//arca.live/static/ad/call_ad.html?"]:upward(3)
 2cpu.co.kr#?#tbody > tr > td a[href^="../ad_board/"]:upward(2)
 tgd.kr#?#div[style^="display:"][style*="flex;"] > div[style^="flex:"]:contains(AD):upward(2)

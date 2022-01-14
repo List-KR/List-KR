@@ -86,7 +86,7 @@ newspim.com##aside.side_wrap > div[style^="height:"]
 ||img.newspim.com/ad/
 newspim.com##.topbanner
 dcinside.com###ad-layer
-namu.wiki##article > div[id^="tchika"].c
+namu.wiki##div[id^="tchika"][class] > div[id^="tchika"]
 namu.wiki##iframe[src*="//arca.live/static/ad/call_ad.html?"]
 ||arca.live/static/ad/
 ||timg.humoruniv.com/thumb_crop_resize*.php?url=*://i.011st.com/t/
