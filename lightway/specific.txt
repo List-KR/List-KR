@@ -1,3 +1,5 @@
+thebell.co.kr##a[onclick^="goAD"][onclick$="()"]
+||image.thebell.co.kr/banner/
 koya-culture.com##.com_ban
 ||koya-culture.com/data/banner/
 ||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices-gpt

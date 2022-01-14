@@ -2541,6 +2541,7 @@ ondisk.co.kr##div[id^="wingBanner-"]
 ||innity.net^
 ||api.ruliweb.com/floating_ad|
 ||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices-gpt
+||image.thebell.co.kr/banner/
 
 ! Site element hiding rules
 community.rememberapp.co.kr#$#div.sc-64vosk-0.jIkGEl { margin-bottom: 10px !important; }
@@ -7505,6 +7506,7 @@ ruliweb.com#$##board_top > div > .top_best.best_list { width: 100% !important; }
 hellven.net##a[href$="&utm_medium=hellven1&referer=internal_hellven_banner_hellven1"]
 tvseoul.kr,theguru.co.kr,tfnews.co.kr,tfmedia.co.kr,polinews.co.kr,mediawatch.kr,akomnews.com,koya-culture.com##.com_ban
 ||koya-culture.com/data/banner/
+thebell.co.kr##a[onclick^="goAD"][onclick$="()"]
 
 ! Extended CSS rules
 mosen.mt.co.kr#?#section.textList > article.row:has(> ul.aritcle-info > li.title > a[href*="//adv.imadrep.co.kr/"])
