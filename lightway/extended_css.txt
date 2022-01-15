@@ -1,3 +1,4 @@
+namu.wiki#?#div[class]:matches-attr("/data-v-/") > div:matches-attr("/data-v-/"):not([class]):not(:has(> a[href^="/w/"]:matches-attr("/data-v-/"))):not(:has(> a:matches-attr("/data-v-/")))
 mosen.mt.co.kr#?#section.textList > article.row:has(> ul.aritcle-info > li.title > a[href*="//adv.imadrep.co.kr/"])
 m.dcinside.com#?#section.gall-lst-group > .detail-top-lst > li:has(> div > a > span.ntc-line-ad)
 gall.dcinside.com#?#table.gall_list > tbody > .ub-content:has(> td.gall_num:contains(AD))
