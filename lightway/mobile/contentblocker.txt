@@ -12,5 +12,4 @@
 @@||1412.rest^$generichide
 !
 !
-namu.wiki##article > h1 + p + div[id][class] ~ div:not([id])
 namu.wiki##article > h1 + p ~ div[id][class]
