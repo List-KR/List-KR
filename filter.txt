@@ -7563,6 +7563,9 @@ pixlr.com$$script[tag-content="cancelAdBlocker()"]
 ! https://github.com/AdguardTeam/AdguardFilters/issues/98466 [Stealth Mode - Referrer]
 @@||ac*.namu.la^$domain=arca.live,media,image,stealth
 
+! Content Blocker
+namu.wiki##article > h1 + p ~ div[id][class]
+
 ! Cafe & Blog services
 ! cafe.naver.com/nds07
 cafe.naver.com#?#table[role="presentation"]:has(> tbody > tr > td > div > p > img[src*="cefvcGaqwg.PNG/Main_Spon_AD-1.png?"])

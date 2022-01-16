@@ -10,3 +10,6 @@
 @@_adshare.$domain=3dpchip.com
 @@||3dpchip.com^$generichide
 @@||1412.rest^$generichide
+!
+!
+namu.wiki##article > h1 + p ~ div[id][class]
