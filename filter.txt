@@ -7509,7 +7509,7 @@ tvseoul.kr,theguru.co.kr,tfnews.co.kr,tfmedia.co.kr,polinews.co.kr,mediawatch.kr
 thebell.co.kr##a[onclick^="goAD"][onclick$="()"]
 
 ! Extended CSS rules
-namu.wiki#?#article > div:not([id]):matches-attr("/data-v-/"):has(> div:not([id]):matches-attr("/data-v-/") > a[href^="https://saedu.naver.com/adbiz/"])
+namu.wiki#?#article > div:not([id]):matches-attr("/data-v-/"):has(> div:not([id]):matches-attr("/data-v-/") > a[href*=".naver.com"])
 namu.wiki#?#div[class]:matches-attr("/data-v-/") > div:matches-attr("/data-v-/"):not([class]):not(:has(> a[href^="/w/"]:matches-attr("/data-v-/"))):not(:has(> a:matches-attr("/data-v-/"))):not(:contains(/.{1,}/i))
 mosen.mt.co.kr#?#section.textList > article.row:has(> ul.aritcle-info > li.title > a[href*="//adv.imadrep.co.kr/"])
 m.dcinside.com#?#section.gall-lst-group > .detail-top-lst > li:has(> div > a > span.ntc-line-ad)

@@ -1,3 +1,4 @@
+namu.wiki##article > h1+p+div[id][class] ~ div[id][class]
 thebell.co.kr##a[onclick^="goAD"][onclick$="()"]
 ||image.thebell.co.kr/banner/
 koya-culture.com##.com_ban
