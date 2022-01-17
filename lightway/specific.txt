@@ -1,3 +1,5 @@
+||deapi.afreecatv.com/api/*/recommend/
+||static.afreecatv.com/asset/service/ad/
 thebell.co.kr##a[onclick^="goAD"][onclick$="()"]
 ||image.thebell.co.kr/banner/
 koya-culture.com##.com_ban

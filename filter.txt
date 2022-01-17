@@ -1325,7 +1325,7 @@ ondisk.co.kr##div[id^="wingBanner-"]
 ||daumd03.net/_img/ad/partner/$domain=daumd03.net
 ||daypic.ru/banners/banners.js^
 ||dcd.adotsolution.com/dcd/creative.skp^
-||deapi.afreecatv.com/api/v1/recommend^$domain=afreecatv.com
+||deapi.afreecatv.com/api/*/recommend/
 ||delivery.amessagewithabottle.com/www/delivery/ajs.php^
 ||delivery.c.switchadhub.com/adserver/sat.js^
 ||deliverys.n2s.co.kr/afm.php^
