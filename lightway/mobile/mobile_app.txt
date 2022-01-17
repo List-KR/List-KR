@@ -1,3 +1,5 @@
+||adlibr.com^
+||app.dcinside.com/api/_ad_search_link
 ||ad-display.s.zigzag.kr^
 ||d35kivqzqn1ftb.cloudfront.net^
 ||d131nj8pwjizfu.cloudfront.net^
