@@ -7509,6 +7509,7 @@ tvseoul.kr,theguru.co.kr,tfnews.co.kr,tfmedia.co.kr,polinews.co.kr,mediawatch.kr
 thebell.co.kr##a[onclick^="goAD"][onclick$="()"]
 
 ! Extended CSS rules
+namu.wiki#?#article > div:matches-attr("/data-v-/"):has(> div:matches-attr("/data-v-/") > div > iframe[src*="//arca.live/static/ad/powerlink_"])
 namu.wiki#?#article > div:matches-attr("/data-v-/"):matches-css(word-break: break-all):has(> div:matches-css(word-break: break-all) > div > span:matches-css(background-image: image\/png))
 namu.wiki#?#div[class]:matches-attr("/data-v-/") > div:matches-attr("/data-v-/"):not([class]):not(:has(> a[href^="/w/"]:matches-attr("/data-v-/"))):not(:has(> a:matches-attr("/data-v-/"))):not(:contains(/.{1,}/i))
 mosen.mt.co.kr#?#section.textList > article.row:has(> ul.aritcle-info > li.title > a[href*="//adv.imadrep.co.kr/"])
@@ -7517,7 +7518,6 @@ gall.dcinside.com#?#table.gall_list > tbody > .ub-content:has(> td.gall_num:cont
 berryjam.co.kr#?#table[width="1200"]:has(> tbody > tr > td > div[class*="slider-banner-"])
 community.rememberapp.co.kr#?#div > a.sc-7g611p-0.cAmftz:has(> div > div > div > img[alt="배너 광고 이미지"])
 linklove1.com#?#.col-md-12 > .w-row:has(> .w-col div.miso-love-ad)
-namu.wiki#?#div.app > div > > div > div > div > iframe[src*="//arca.live/static/ad/call_ad.html?"]:upward(3)
 torrentview47.com,torrentview48.com,torrentview49.com,torrentview50.com,torrentview51.com,torrentview52.com,torrentview53.com,torrentview54.com,torrentview55.com,torrentview56.com,torrentview57.com,torrentview58.com#?#.col-md-3.widget-index-left.hidden-sm.hidden-xs > .row > .widget-main-box h3:contains(보증업체):upward(1)
 etoland.co.kr#?#tbody > tr > td > img[src*="/img/adland01.gif"]:upward(2)
 chosun.com#?#div.raw-html > div iframe[src*="//adex.ednplus.com/"]:upward(2)
