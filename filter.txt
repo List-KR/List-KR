@@ -5418,9 +5418,9 @@ makeuseof.com##div.ad-odd
 makeuseof.com##div.ad-zone
 makeuseof.com##div.ad-zone-container
 mana08.com##div#about
-manatoki118.net,manatoki119.net,manatoki120.net,manatoki121.net,manatoki122.net,manatoki123.net,manatoki124.net,manatoki125.net,manatoki126.net,manatoki127.net,manatoki128.net,manatoki129.net,manatoki130.net,manatoki131.net##div#main-banner-view
-manatoki118.net,manatoki119.net,manatoki120.net,manatoki121.net,manatoki122.net,manatoki123.net,manatoki124.net,manatoki125.net,manatoki126.net,manatoki127.net,manatoki128.net,manatoki129.net,manatoki130.net,manatoki131.net##div[class*="-banner"]
-manatoki118.net,manatoki119.net,manatoki120.net,manatoki121.net,manatoki122.net,manatoki123.net,manatoki124.net,manatoki125.net,manatoki126.net,manatoki127.net,manatoki128.net,manatoki129.net,manatoki130.net,manatoki131.net##div#id_mbv
+manatoki120.net,manatoki121.net,manatoki122.net,manatoki123.net,manatoki124.net,manatoki125.net,manatoki126.net,manatoki127.net,manatoki128.net,manatoki129.net,manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net##div#main-banner-view
+manatoki120.net,manatoki121.net,manatoki122.net,manatoki123.net,manatoki124.net,manatoki125.net,manatoki126.net,manatoki127.net,manatoki128.net,manatoki129.net,manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net##div[class*="-banner"]
+manatoki120.net,manatoki121.net,manatoki122.net,manatoki123.net,manatoki124.net,manatoki125.net,manatoki126.net,manatoki127.net,manatoki128.net,manatoki129.net,manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net##div#id_mbv
 manhwamoa4.com,manhwamoa5.com##div.col-sm-12.photo-box
 mangafox.me##div.ad
 mangahub.io##div.ads-container
