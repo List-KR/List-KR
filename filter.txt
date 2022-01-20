@@ -7533,6 +7533,7 @@ orbi.kr#$#div#top_banner_area { display: none !important; }
 orbi.kr#$#div[class="global-top animate"] { top: 0 !important; }
 star.ohmynews.com##li[-ext-has=">.ad-box"]
 zipbogo.net##.sidebar > ul > li[-ext-has='a[href*="/ad/"],a[onclick^="visitWebBanner("]']
+m.search.naver.com##section[class*="ad_"].sp_brand
 
 ! JS rules
 ! #%#//scriptlet('abort-current-inline-script', 'document.addEventListener', '/adscale_slot_id/')
