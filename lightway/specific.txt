@@ -1,3 +1,5 @@
+namu.wiki##iframe[src*="//arca.live/external/callad?"]
+||arca.live/external/callad?
 search.naver.com##.brand_search
 m.search.naver.com##section[class*="ad_"].sp_brand
 ||deapi.afreecatv.com/api/*/recommend/

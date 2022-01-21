@@ -2544,6 +2544,7 @@ ondisk.co.kr##div[id^="wingBanner-"]
 ||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices-gpt
 ||image.thebell.co.kr/banner/
 ||koya-culture.com/data/banner/
+||arca.live/external/callad?
 
 ! Site element hiding rules
 community.rememberapp.co.kr#$#div.sc-64vosk-0.jIkGEl { margin-bottom: 10px !important; }
@@ -7508,6 +7509,7 @@ ruliweb.com#$##board_top > div > .top_best.best_list { width: 100% !important; }
 hellven.net##a[href$="&utm_medium=hellven1&referer=internal_hellven_banner_hellven1"]
 tvseoul.kr,theguru.co.kr,tfnews.co.kr,tfmedia.co.kr,polinews.co.kr,mediawatch.kr,akomnews.com,koya-culture.com##.com_ban
 thebell.co.kr##a[onclick^="goAD"][onclick$="()"]
+namu.wiki##iframe[src*="//arca.live/external/callad?"]
 
 ! Extended CSS rules
 m.bunjang.co.kr#?#.app > div > div > div[class]:has(> div[class] > div[class] > div[class]:contains(파워링크))
