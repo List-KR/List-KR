@@ -1026,6 +1026,7 @@ ondisk.co.kr##div[id^="wingBanner-"]
 ||aproxy-next.tving.com/v1/v/WNPULive/get/$domain=tving.com
 ||aproxy-next.tving.com/v1/v/WNPUTvingTV/req/list^$domain=tving.com
 ||arca.live/api/ads^
+||arca.live/api/pagead^
 ||arca.live/static/ad/
 ||art.chosun.com/common/r_banner/index.html^$domain=art.chosun.com
 ||artinsight.co.kr/include/adsense.php^$domain=artinsight.co.kr
