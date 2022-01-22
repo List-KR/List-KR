@@ -1,3 +1,6 @@
+jjang0u.com##.banner-web
+jjang0u.com##div[id^="bidrich_"]
+||jjang0u.com/banner_wrap
 ||arca.live/api/pagead
 namu.wiki##iframe[src*="//arca.live/external/callad?"]
 ||arca.live/external/callad?

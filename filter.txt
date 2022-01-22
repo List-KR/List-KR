@@ -23,6 +23,7 @@
 @@||api-ao-list.adison.co^$app=com.nhn.android.nbooks
 
 ! General element hiding rules
+##iframe[src*="/ad.bidrich.com/"]
 ##a[href*="//adv.imadrep.co.kr/"]
 ##iframe[src*="//www.kodcad.kr/"]
 ##a[href*="//ad-api.enuri.info/"]
@@ -2545,8 +2546,12 @@ ondisk.co.kr##div[id^="wingBanner-"]
 ||image.thebell.co.kr/banner/
 ||koya-culture.com/data/banner/
 ||arca.live/external/callad?
+||jjang0u.com/banner_wrap
+||ad.bidrich.com^
 
 ! Site element hiding rules
+jjang0u.com##.banner-web
+jjang0u.com##div[id^="bidrich_"]
 community.rememberapp.co.kr#$#div.sc-64vosk-0.jIkGEl { margin-bottom: 10px !important; }
 lover9.net#@#.adsbygoogle
 lover9.net#$#.modal { position: unset !important; }

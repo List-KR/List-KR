@@ -1,3 +1,4 @@
+##iframe[src*="/ad.bidrich.com/"]
 ##a[href*="//adv.imadrep.co.kr/"]
 ##iframe[src*="//www.kodcad.kr/"]
 ##iframe[src*="//ai.onepx.kr/"]
