@@ -1,3 +1,5 @@
+||shop-redapi.daum.net/red-apigate/daumtop/
+daum.net##iframe[src^="//shop-redapi.daum.net/red-apigate/daumtop/"]
 jjang0u.com##.banner-web
 jjang0u.com##div[id^="bidrich_"]
 ||jjang0u.com/banner_wrap
