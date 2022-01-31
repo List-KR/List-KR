@@ -2549,6 +2549,7 @@ ondisk.co.kr##div[id^="wingBanner-"]
 ||jjang0u.com/banner_wrap
 ||ad.bidrich.com^
 ||shop-redapi.daum.net/red-apigate/daumtop/
+||torrentonly*.com/data/zn_bimg/
 
 ! Site element hiding rules
 jjang0u.com##.banner-web
@@ -7547,6 +7548,8 @@ star.ohmynews.com##li[-ext-has=">.ad-box"]
 zipbogo.net##.sidebar > ul > li[-ext-has='a[href*="/ad/"],a[onclick^="visitWebBanner("]']
 m.search.naver.com##section[class*="ad_"].sp_brand
 1412.rest##.ADs-BG.center
+torrentonly3.com,torrentonly4.com,torrentonly5.com,torrentonly6.com,torrentonly7.com,torrentonly8.com,torrentonly9.com,torrentonly10.com,torrentonly11.com,torrentonly12.com,torrentonly13.com##a[href^="https://www.torrentonly3.com/bbs/bannerhit.php?"]
+torrentonly3.com,torrentonly4.com,torrentonly5.com,torrentonly6.com,torrentonly7.com,torrentonly8.com,torrentonly9.com,torrentonly10.com,torrentonly11.com,torrentonly12.com,torrentonly13.com#?#tbody > tr:has(> td > a[href^="https://www.torrentonly3.com/bbs/bannerhit.php?"])
 
 ! JS rules
 ! #%#//scriptlet('abort-current-inline-script', 'document.addEventListener', '/adscale_slot_id/')
