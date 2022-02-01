@@ -23,6 +23,7 @@
 @@||api-ao-list.adison.co^$app=com.nhn.android.nbooks
 
 ! General element hiding rules
+##ins.fastview-ad
 ##iframe[src*="/ad.bidrich.com/"]
 ##a[href*="//adv.imadrep.co.kr/"]
 ##iframe[src*="//www.kodcad.kr/"]
@@ -2550,8 +2551,10 @@ ondisk.co.kr##div[id^="wingBanner-"]
 ||ad.bidrich.com^
 ||shop-redapi.daum.net/red-apigate/daumtop/
 ||torrentonly*.com/data/zn_bimg/
+||fastview.co.kr^
 
 ! Site element hiding rules
+mground.kr##[data-postid].ultp-shortcode
 jjang0u.com##.banner-web
 jjang0u.com##div[id^="bidrich_"]
 community.rememberapp.co.kr#$#div.sc-64vosk-0.jIkGEl { margin-bottom: 10px !important; }

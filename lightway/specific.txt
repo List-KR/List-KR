@@ -1,3 +1,4 @@
+mground.kr##[data-postid].ultp-shortcode
 ||shop-redapi.daum.net/red-apigate/daumtop/
 daum.net##iframe[src^="//shop-redapi.daum.net/red-apigate/daumtop/"]
 jjang0u.com##.banner-web
