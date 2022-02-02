@@ -1,3 +1,8 @@
+news.appstory.co.kr###shopping_wrap
+news.appstory.co.kr##a[href*="//wrd.appstory.co.kr/rd.flad?"]
+news.appstory.co.kr##a[class^="banner_"]
+news.appstory.co.kr##.header_banner
+||sslimg.appstory.co.kr/@files/snc/eventbanner/
 mground.kr##[data-postid].ultp-shortcode
 ||shop-redapi.daum.net/red-apigate/daumtop/
 daum.net##iframe[src^="//shop-redapi.daum.net/red-apigate/daumtop/"]

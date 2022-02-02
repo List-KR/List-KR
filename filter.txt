@@ -578,6 +578,7 @@ z9-we.com#@#a[href*="//www.z9-we.com"]
 z9-we.com#@#a[href*="//z9-we.com"]
 
 ! URL filters
+||sslimg.appstory.co.kr/@files/snc/eventbanner/
 ||techworld.speedgabia.com/epnc.co.kr/ad/
 ||aniweek.com/img/*.gif
 ||gobest.kr/goclean/goclean-ad-new.htm$document
@@ -7521,6 +7522,10 @@ tvseoul.kr,theguru.co.kr,tfnews.co.kr,tfmedia.co.kr,polinews.co.kr,mediawatch.kr
 thebell.co.kr##a[onclick^="goAD"][onclick$="()"]
 namu.wiki##iframe[src*="//arca.live/external/callad?"]
 daum.net##iframe[src^="//shop-redapi.daum.net/red-apigate/daumtop/"]
+news.appstory.co.kr###shopping_wrap
+news.appstory.co.kr##a[href*="//wrd.appstory.co.kr/rd.flad?"]
+news.appstory.co.kr##.header_banner
+news.appstory.co.kr##a[class^="banner_"]
 
 ! Extended CSS rules
 m.bunjang.co.kr#?#.app > div > div > div[class]:has(> div[class] > div[class] > div[class]:contains(파워링크))
