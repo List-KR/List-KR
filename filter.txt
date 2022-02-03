@@ -7526,6 +7526,8 @@ news.appstory.co.kr###shopping_wrap
 news.appstory.co.kr##a[href*="//wrd.appstory.co.kr/rd.flad?"]
 news.appstory.co.kr##.header_banner
 news.appstory.co.kr##a[class^="banner_"]
+1412.rest##div[id^="plusad_"]
+1412.rest##.custom_code.board_top
 
 ! Extended CSS rules
 m.bunjang.co.kr#?#.app > div > div > div[class]:has(> div[class] > div[class] > div[class]:contains(파워링크))
@@ -7638,3 +7640,10 @@ cafe.naver.com#?#table[role="presentation"] > tbody > tr > td > center > table >
 cafe.naver.com#?##cafe-body > #content-area > #group-area > #cafe-menu > .box-g-m > ul#group1453:has(> li > a[href^="/ArticleList.nhn?search.clubid=23370764&search.menuid=1488&"]#menuLink1488)
 cafe.naver.com#?##cafe-body > #content-area > #group-area > #cafe-menu > .box-g-m > .cafe-menu-tit:has(> h3 > span[title="&#129309; 디벨스폰서"].gm-tcol-t.ellipsis)
 cafe.naver.com#?#tr._noticeArticle.board-notice.type_main:has(> td.td_article > div > div > a[href^="/ArticleRead.nhn?clubid=23370764&menuid=&"]):has(> td.td_name > div > table > tbody > tr > td > span > img[src="https://cafe.pstatic.net/levelicon/1/1_150.gif"])
+
+!#if (!adguard_app_ios && !adguard_ext_safari )
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$redirect=googlesyndication-adsbygoogle,domain=1412.rest
+!#endif
+!#if ( adguard_app_ios || adguard_ext_safari )
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=1412.rest
+!#endif

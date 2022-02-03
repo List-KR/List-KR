@@ -12,4 +12,5 @@
 @@||1412.rest^$generichide
 !
 !
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=1412.rest
 namu.wiki##article > h1 + p ~ div[id][class]

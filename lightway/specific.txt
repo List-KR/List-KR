@@ -1,3 +1,5 @@
+1412.rest##div[id^="plusad_"]
+1412.rest##.custom_code.board_top
 news.appstory.co.kr###shopping_wrap
 news.appstory.co.kr##a[href*="//wrd.appstory.co.kr/rd.flad?"]
 news.appstory.co.kr##a[class^="banner_"]
