@@ -1,3 +1,6 @@
+||teads.tv^
+||exelbid.com^
+||adinc.co.kr^
 ||innity.net^
 ||shoppingcall.me^$third-party
 ||kodcad.kr^
@@ -39,7 +42,6 @@
 ||mobon.net^$third-party
 ||ad*.wisenut.co.kr^
 ||acrosspf.com^$third-party
-||catad5959.com^$third-party
 ||ad.esmplus.com^$third-party
 ||adcheck.about.co.kr^
 ||ads.mncmedia.co.kr^
