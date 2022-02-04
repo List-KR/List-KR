@@ -4,7 +4,7 @@
 ! License: https://github.com/List-KR/List-KR/blob/master/LICENSE
 ! Expires: 1 day
 ! DO NOT EDIT VERSION NUMBER
-! Version: 20220203
+! Version: 20220204
 ! ONLY DEVELOPER CAN EDIT THAT
 
 ! Exceptions for broken services
