@@ -7526,8 +7526,10 @@ news.appstory.co.kr##a[class^="banner_"]
 1412.rest##div[id^="plusad_"]
 1412.rest##.custom_code.board_top
 newspic.kr###dionAdArea
+m.newspic.kr##div[style^="text-align"][style*="z-index:999999999999;"]
 
 ! Extended CSS rules
+m.newspic.kr#?#.aside_wrap > div.box:has(> div > iframe[src^="https://ad.adinc.kr/"])
 m.bunjang.co.kr#?#.app > div > div > div[class]:has(> div[class] > div[class] > div[class]:contains(파워링크))
 m.bunjang.co.kr#?#div:has(> div > div > div > div:has(> div:contains(AD)) > img[alt="AD 가이드"])
 namu.wiki#?#article > div:matches-attr("/data-v-/"):has(> div:matches-attr("/data-v-/") > div > iframe[src*="//arca.live/static/ad/powerlink_"])

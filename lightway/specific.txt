@@ -1,3 +1,4 @@
+m.newspic.kr##div[style^="text-align"][style*="z-index:999999999999;"]
 newspic.kr###dionAdArea
 1412.rest##div[id^="plusad_"]
 1412.rest##.custom_code.board_top
