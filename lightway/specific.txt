@@ -1,3 +1,5 @@
+ohli24.net##img[src^="/img/"][src$=".gif"]
+||ohli24.net/img/*/*.gif
 ||vogue.co.kr/wp-content/plugins/wppas/
 m.newspic.kr##div[style^="text-align"][style*="z-index:999999999999;"]
 newspic.kr###dionAdArea

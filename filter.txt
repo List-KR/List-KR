@@ -578,6 +578,7 @@ z9-we.com#@#a[href*="//www.z9-we.com"]
 z9-we.com#@#a[href*="//z9-we.com"]
 
 ! URL filters
+||ohli24.net/img/*/*.gif
 @@/:\/\/ygosu\.com\/([a-z]|[A-Z])\w+\/([A-Z])\w+\.ps/
 @@/:\/\/ygosu\.com\/([A-Z])\w+\.ps/
 /:\/\/ygosu\.com\/([A-Z])\w+\./$object,image,media,other,redirect=32x32-transparent.png
@@ -7532,6 +7533,7 @@ news.appstory.co.kr##a[class^="banner_"]
 1412.rest##.custom_code.board_top
 newspic.kr###dionAdArea
 m.newspic.kr##div[style^="text-align"][style*="z-index:999999999999;"]
+ohli24.net##img[src^="/img/"][src$=".gif"]
 
 ! Extended CSS rules
 m.newspic.kr#?#.aside_wrap > div.box:has(> div > iframe[src^="https://ad.adinc.kr/"])
