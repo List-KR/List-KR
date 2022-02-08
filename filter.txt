@@ -2555,6 +2555,8 @@ ondisk.co.kr##div[id^="wingBanner-"]
 ||torrentonly*.com/data/zn_bimg/
 ||fastview.co.kr^
 ||exelbid.com^
+||ssl.pstatic.net/tveta/libs/
+||tvetamovie.pstatic.net^
 
 ! Site element hiding rules
 mground.kr##[data-postid].ultp-shortcode
@@ -7534,6 +7536,7 @@ newspic.kr###dionAdArea
 m.newspic.kr##div[style^="text-align"][style*="z-index:999999999999;"]
 ohli24.net##img[src^="/img/"][src$=".gif"]
 comic.naver.com##div[id^="ppl_"][id$="_section"]
+m.comic.naver.com##[id^="flex_ad_"]
 
 ! Extended CSS rules
 m.newspic.kr#?#.aside_wrap > div.box:has(> div > iframe[src^="https://ad.adinc.kr/"])

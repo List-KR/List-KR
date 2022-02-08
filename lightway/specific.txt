@@ -1,3 +1,4 @@
+m.comic.naver.com##[id^="flex_ad_"]
 comic.naver.com##div[id^="ppl_"][id$="_section"]
 noonoo.tv##.partner-banner-wrap
 ||noonoo-images.studiouniversal.net/banner/
