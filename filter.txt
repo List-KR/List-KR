@@ -578,6 +578,7 @@ z9-we.com#@#a[href*="//www.z9-we.com"]
 z9-we.com#@#a[href*="//z9-we.com"]
 
 ! URL filters
+||polink-static-contents.polarisoffice.com^
 ||ohli24.net/img/*/*.gif
 @@/:\/\/ygosu\.com\/([a-z]|[A-Z])\w+\/([A-Z])\w+\.ps/
 @@/:\/\/ygosu\.com\/([A-Z])\w+\.ps/
