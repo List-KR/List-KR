@@ -578,6 +578,10 @@ z9-we.com#@#a[href*="//www.z9-we.com"]
 z9-we.com#@#a[href*="//z9-we.com"]
 
 ! URL filters
+@@/:\/\/ygosu\.com\/([a-z]|[A-Z])\w+\/([A-Z])\w+\.ps/
+@@/:\/\/ygosu\.com\/([A-Z])\w+\.ps/
+/:\/\/ygosu\.com\/([A-Z])\w+\./$object,image,media,other,redirect=32x32-transparent.png
+/:\/\/ygosu\.com\/([a-z]|[A-Z])\w+\/([A-Z])\w+\./$object,image,media,other,redirect=32x32-transparent.png
 ||vogue.co.kr/wp-content/plugins/wppas/
 ||sslimg.appstory.co.kr/@files/snc/eventbanner/
 ||techworld.speedgabia.com/epnc.co.kr/ad/
