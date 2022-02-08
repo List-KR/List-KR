@@ -599,7 +599,6 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ||www.mediacategory.com^$app=com.ahnlab.v3mobilesecurity.soda
 /:\/\/m\.ilbe\.com\/images\/([a-z]|[0-9]|_){8,11}\.gif/
 ||clien.net/service/api/coupang/ad?
-||noonoo-images.studiouniversal.net/banner/
 ||wwwimageup.11angle.net/other/atoona/
 /cdn\.boribori\.co\.kr(\/|\/rimg\/(0|110x250)\/)cdn\/contents\/disp_corner_conts\//
 ||cdn.halfclub.com/images_web/Etc/banner/
@@ -6080,7 +6079,7 @@ nongmin.com##div.banner-wrap
 nongmin.com##div.google-horizontal
 nongmin.com##div.google-vertical
 nongmin.com##div.right-top-banner
-noonoo2.tv,noonoo3.tv,noonoo4.tv,noonoo5.tv,noonoo6.tv,noonoo7.tv,noonoo8.tv,noonoo9.tv,noonoo10.tv,noonoo11.tv##.partner-banner-wrap
+noonoo.tv##.partner-banner-wrap
 noquick.tistory.com##div.tt_article_useless_p_margin>div[style="float:left;margin:0 10px 10px 0;width:336px;height:280px"]
 nownews.seoul.co.kr##div#articleContent>table[width="250px"][height="250px"]
 nownews.seoul.co.kr##div.Rad
@@ -7593,7 +7592,7 @@ pixlr.com$$script[tag-content="cancelAdBlocker()"]
 ! https://github.com/AdguardTeam/AdguardFilters/issues/97249 [Stealth Mode - Referrer]
 @@||dapi.kakao.com/v*/maps/sdk.js$stealth,domain=land.gnkcr.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/98688 [Stealth Mode - Referrer]
-@@||player2.studiouniversal.net/video/$stealth,domain=noonoo.tv|noonoo2.tv|noonoo3.tv|noonoo4.tv|noonoo5.tv|noonoo6.tv|noonoo7.tv|noonoo8.tv|noonoo9.tv|noonoo10.tv|noonoo11.tv
+@@||player*.studiouniversal.net/video/$stealth,domain=noonoo.tv
 ! https://github.com/AdguardTeam/AdguardFilters/issues/98466 [Stealth Mode - Referrer]
 @@||ac*.namu.la^$domain=arca.live,media,image,stealth
 

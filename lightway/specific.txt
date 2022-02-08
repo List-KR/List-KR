@@ -1,3 +1,5 @@
+noonoo.tv##.partner-banner-wrap
+||noonoo-images.studiouniversal.net/banner/
 ohli24.net##img[src^="/img/"][src$=".gif"]
 ||ohli24.net/img/*/*.gif
 ||vogue.co.kr/wp-content/plugins/wppas/
