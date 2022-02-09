@@ -1059,6 +1059,7 @@ ondisk.co.kr##div[id^="wingBanner-"]
 ||b.bestcontentitem.top/loader^
 ||b.bestcontentitem.top/warp/
 ||b.bestcontentwork.top/loader^
+||bandisoft.com/bandizip/ad^
 ||bayabar.com/adworking/
 ||bdv.bidvertiser.com^
 ||biz.chosun.com/ad/$domain=biz.chosun.com
