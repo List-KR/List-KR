@@ -7659,3 +7659,6 @@ cafe.naver.com#?#tr._noticeArticle.board-notice.type_main:has(> td.td_article > 
 !#if ( adguard_app_ios || adguard_ext_safari )
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=1412.rest
 !#endif
+!#if ( adguard_app_windows )
+||adv.bandi.so^
+!#endif
