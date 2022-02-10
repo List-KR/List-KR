@@ -580,10 +580,6 @@ z9-we.com#@#a[href*="//z9-we.com"]
 ! URL filters
 ||polink-static-contents.polarisoffice.com^
 ||ohli24.net/img/*/*.gif
-@@/:\/\/ygosu\.com\/([a-z]|[A-Z])\w+\/([A-Z])\w+\.ps/
-@@/:\/\/ygosu\.com\/([A-Z])\w+\.ps/
-/:\/\/ygosu\.com\/([A-Z])\w+\./$object,image,media,other,redirect=32x32-transparent.png
-/:\/\/ygosu\.com\/([a-z]|[A-Z])\w+\/([A-Z])\w+\./$object,image,media,other,redirect=32x32-transparent.png
 ||vogue.co.kr/wp-content/plugins/wppas/
 ||sslimg.appstory.co.kr/@files/snc/eventbanner/
 ||techworld.speedgabia.com/epnc.co.kr/ad/
@@ -7662,4 +7658,10 @@ cafe.naver.com#?#tr._noticeArticle.board-notice.type_main:has(> td.td_article > 
 !#if ( adguard_app_windows )
 ||adv.bandi.so^
 ||bandisoft.com/bandizip/ad/
+!#endif
+!#if ( adguard_ext_firefox )
+@@/:\/\/ygosu\.com\/([a-z]|[A-Z])\w+\/([A-Z])\w+\.ps/
+@@/:\/\/ygosu\.com\/([A-Z])\w+\.ps/
+/:\/\/ygosu\.com\/([A-Z])\w+\./$object,image,media,other,redirect=32x32-transparent.png
+/:\/\/ygosu\.com\/([a-z]|[A-Z])\w+\/([A-Z])\w+\./$object,image,media,other,redirect=32x32-transparent.png
 !#endif

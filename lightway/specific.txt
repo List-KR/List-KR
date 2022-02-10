@@ -1,3 +1,9 @@
+!#if ( adguard_ext_firefox )
+@@/:\/\/ygosu\.com\/([a-z]|[A-Z])\w+\/([A-Z])\w+\.ps/
+@@/:\/\/ygosu\.com\/([A-Z])\w+\.ps/
+/:\/\/ygosu\.com\/([A-Z])\w+\./$object,image,media,other,redirect=32x32-transparent.png
+/:\/\/ygosu\.com\/([a-z]|[A-Z])\w+\/([A-Z])\w+\./$object,image,media,other,redirect=32x32-transparent.png
+!#endif
 m.comic.naver.com##[id^="flex_ad_"]
 comic.naver.com##div[id^="ppl_"][id$="_section"]
 noonoo.tv##.partner-banner-wrap
