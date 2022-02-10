@@ -1059,7 +1059,6 @@ ondisk.co.kr##div[id^="wingBanner-"]
 ||b.bestcontentitem.top/loader^
 ||b.bestcontentitem.top/warp/
 ||b.bestcontentwork.top/loader^
-||bandisoft.com/bandizip/ad^
 ||bayabar.com/adworking/
 ||bdv.bidvertiser.com^
 ||biz.chosun.com/ad/$domain=biz.chosun.com
@@ -7661,4 +7660,5 @@ cafe.naver.com#?#tr._noticeArticle.board-notice.type_main:has(> td.td_article > 
 !#endif
 !#if ( adguard_app_windows )
 ||adv.bandi.so^
+||bandisoft.com/bandizip/ad/
 !#endif

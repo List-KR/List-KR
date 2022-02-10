@@ -1,3 +1,4 @@
+||bandisoft.com/bandizip/ad/
 ||adv.bandi.so^
 ||polink-static-contents.polarisoffice.com^
 ||advert.estsoft.com/?event=$other
