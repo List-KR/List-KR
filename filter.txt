@@ -578,6 +578,7 @@ z9-we.com#@#a[href*="//www.z9-we.com"]
 z9-we.com#@#a[href*="//z9-we.com"]
 
 ! URL filters
+||torrentdia*.com/data/to_list
 ||polink-static-contents.polarisoffice.com^
 ||ohli24.net/img/*/*.gif
 ||vogue.co.kr/wp-content/plugins/wppas/
@@ -6959,9 +6960,9 @@ topstarnews.net##iframe[src^="http://www.topstarnews.net/html/default/html_tpl_m
 torrentboza2.com,torrentboja.net##div#floatdiv
 torrentboza2.com,torrentboja.net##div.ad_table_b
 torrentboza2.com,torrentboja.net##div.basic-banner
-torrentdia3.com,torrentonly1.com##div.left_banner
-torrentdia3.com,torrentonly1.com##div.side_bimg
-torrentdia3.com,torrentonly1.com##div.top_bimg
+torrentonly1.com##div.left_banner
+torrentonly1.com##div.side_bimg
+torrentonly1.com##div.top_bimg
 torrenthaja.com,torrenthaja1.com##div.main-banner
 torrenthaja.com,torrenthaja1.com##div.side-banner
 torrentissue19.com##img.border2
@@ -7535,6 +7536,7 @@ ohli24.net##img[src^="/img/"][src$=".gif"]
 comic.naver.com##div[id^="ppl_"][id$="_section"]
 m.comic.naver.com##[id^="flex_ad_"]
 sajuplus.net##.adsense-alt
+torrentdia12.com,torrentdia13.com,torrentdia14.com,torrentdia15.com,torrentdia16.com,torrentdia17.com,torrentdia18.com,torrentdia19.com,torrentdia20.com,torrentdia21.com,torrentdia22.com##[href*=".com/bbs/bannerhit.php?"]
 
 ! Extended CSS rules
 m.newspic.kr#?#.aside_wrap > div.box:has(> div > iframe[src^="https://ad.adinc.kr/"])

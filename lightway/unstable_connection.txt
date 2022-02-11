@@ -2,6 +2,8 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+||torrentdia*.com/data/to_list
+torrentdia12.com##[href*=".com/bbs/bannerhit.php?"]
 torrentonly3.com##a[href^="https://www.torrentonly3.com/bbs/bannerhit.php?"]
 ||torrentonly*.com/data/zn_bimg/
 torrentonly3.com#?#tbody > tr:has(> td > a[href^="https://www.torrentonly3.com/bbs/bannerhit.php?"])
