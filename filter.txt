@@ -7661,7 +7661,7 @@ cafe.naver.com#?#tr._noticeArticle.board-notice.type_main:has(> td.td_article > 
 ||adv.bandi.so^
 ||bandisoft.com/bandizip/ad/
 !#endif
-!#if ( adguard_ext_firefox )
+!#if ( adguard_ext_firefox || adguard_ext_edge || adguard_ext_chromium )
 @@/:\/\/ygosu\.com\/([a-z]|[A-Z])\w+\/([A-Z])\w+\.ps/
 @@/:\/\/ygosu\.com\/([A-Z])\w+\.ps/
 /:\/\/ygosu\.com\/([A-Z])\w+\./$object,image,media,other,redirect=32x32-transparent.png
