@@ -21,6 +21,7 @@
 @@||t1.daumcdn.net/adfit/static/kp.js$domain=pindirectshop.com
 @@||api-ao-list.adison.co^$app=com.nhn.android.webtoon
 @@||api-ao-list.adison.co^$app=com.nhn.android.nbooks
+@@||ad-img.ebaykorea.com/ADS/$image,domain=auction.co.kr
 
 ! General element hiding rules
 ##ins.fastview-ad
