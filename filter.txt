@@ -7662,8 +7662,6 @@ cafe.naver.com#?#tr._noticeArticle.board-notice.type_main:has(> td.td_article > 
 !#endif
 !#if ( adguard_ext_firefox || adguard_ext_edge || adguard_ext_chromium )
 @@||ppss.kr/wp-content/uploads/
-@@/:\/\/ppss\.kr\/([A-Z]|[a-z]|[0-9]|_)+\/([A-Z]|[a-z]|[0-9]|_)+ps/
-@@/:\/\/ppss\.kr\/([A-Z]|[a-z]|[0-9]|_)+ps/
 /:\/\/ppss\.kr\/([A-Z]|[a-z]|[0-9]|_)+/$object,image,media,other,redirect=32x32-transparent.png
 /:\/\/ppss\.kr\/([A-Z]|[a-z]|[0-9]|_)+\/([A-Z]|[a-z]|[0-9]|_)+/$object,image,media,other,redirect=32x32-transparent.png
 !#endif
