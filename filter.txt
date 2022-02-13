@@ -7667,3 +7667,9 @@ cafe.naver.com#?#tr._noticeArticle.board-notice.type_main:has(> td.td_article > 
 /:\/\/ygosu\.com\/[A-Za-z][\w_]+\./$object,image,media,other,redirect=32x32-transparent.png
 /:\/\/ygosu\.com\/[A-Za-z][\w_]+\/[A-Za-z][\w_]+\./$object,image,media,other,redirect=32x32-transparent.png
 !#endif
+!#if ( adguard_ext_firefox || adguard_ext_edge || adguard_ext_chromium )
+@@/:\/\/([a-z]|[0-9])+\.inven\.co\.kr\/([A-Z]|[a-z]|[0-9]|_)+\/([A-Z]|[a-z]|[0-9]|_)+\.ps/
+@@/:\/\/([a-z]|[0-9])+\.inven\.co\.kr\/([A-Z]|[a-z]|[0-9]|_)+\.ps/
+/:\/\/([a-z]|[0-9])+\.inven\.co\.kr\/([A-Z]|[a-z]|[0-9]|_)+\./$object,image,media,other,redirect=32x32-transparent.png
+/:\/\/([a-z]|[0-9])+\.inven\.co\.kr\/([A-Z]|[a-z]|[0-9]|_)+\/([A-Z]|[a-z]|[0-9]|_)+\./$object,image,media,other,redirect=32x32-transparent.png
+!#endif
