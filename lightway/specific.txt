@@ -1,15 +1,15 @@
-!#if ( adguard_ext_firefox || adguard_ext_edge || adguard_ext_chromium )
+!#if ( adguard_ext_firefox )
 @@||ppss.kr/wp-content/uploads/
 /:\/\/ppss\.kr\/([A-Z]|[a-z]|[0-9]|_)+/$object,image,media,other,redirect=32x32-transparent.png
 /:\/\/ppss\.kr\/([A-Z]|[a-z]|[0-9]|_)+\/([A-Z]|[a-z]|[0-9]|_)+/$object,image,media,other,redirect=32x32-transparent.png
 !#endif
-!#if ( adguard_ext_firefox || adguard_ext_edge || adguard_ext_chromium )
+!#if ( adguard_ext_firefox )
 @@/:\/\/([a-z]|[0-9])+\.inven\.co\.kr\/([A-Z]|[a-z]|[0-9]|_)+\/([A-Z]|[a-z]|[0-9]|_)+\.ps/
 @@/:\/\/([a-z]|[0-9])+\.inven\.co\.kr\/([A-Z]|[a-z]|[0-9]|_)+\.ps/
 /:\/\/([a-z]|[0-9])+\.inven\.co\.kr\/([A-Z]|[a-z]|[0-9]|_)+\./$object,image,media,other,redirect=32x32-transparent.png
 /:\/\/([a-z]|[0-9])+\.inven\.co\.kr\/([A-Z]|[a-z]|[0-9]|_)+\/([A-Z]|[a-z]|[0-9]|_)+\./$object,image,media,other,redirect=32x32-transparent.png
 !#endif
-!#if ( adguard_ext_firefox || adguard_ext_edge || adguard_ext_chromium )
+!#if ( adguard_ext_firefox )
 @@/:\/\/ygosu\.com\/([A-Z]|[a-z]|[0-9]|_)+\/([A-Z]|[a-z]|[0-9]|_)+ps/
 @@/:\/\/ygosu\.com\/([A-Z]|[a-z]|[0-9]|_)+ps/
 /:\/\/ygosu\.com\/([A-Z]|[a-z]|[0-9]|_)+/$object,image,media,other,redirect=32x32-transparent.png
