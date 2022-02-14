@@ -7558,6 +7558,9 @@ m.search.naver.com##section[class*="ad_"].sp_brand
 1412.rest##.ADs-BG.center
 torrentonly3.com,torrentonly4.com,torrentonly5.com,torrentonly6.com,torrentonly7.com,torrentonly8.com,torrentonly9.com,torrentonly10.com,torrentonly11.com,torrentonly12.com,torrentonly13.com##a[href^="https://www.torrentonly3.com/bbs/bannerhit.php?"]
 torrentonly3.com,torrentonly4.com,torrentonly5.com,torrentonly6.com,torrentonly7.com,torrentonly8.com,torrentonly9.com,torrentonly10.com,torrentonly11.com,torrentonly12.com,torrentonly13.com#?#tbody > tr:has(> td > a[href^="https://www.torrentonly3.com/bbs/bannerhit.php?"])
+ggoorr.net##.content > div.bd > div.clear > div > center
+ggoorr.net##.side > .widget_div > .content > center
+ggoorr.net##.content > div.bd > div > center
 
 ! JS rules
 ! #%#//scriptlet('abort-current-inline-script', 'document.addEventListener', '/adscale_slot_id/')

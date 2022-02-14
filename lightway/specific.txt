@@ -1,3 +1,6 @@
+ggoorr.net##.content > div.bd > div.clear > div > center
+ggoorr.net##.side > .widget_div > .content > center
+ggoorr.net##.content > div.bd > div > center
 !#if ( adguard_ext_firefox )
 @@||ppss.kr/wp-content/uploads/
 /:\/\/ppss\.kr\/([A-Z]|[a-z]|[0-9]|_)+/$object,image,media,other,redirect=32x32-transparent.png
