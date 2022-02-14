@@ -4,6 +4,10 @@ untitle.org,seo-marketing.co.kr#%#//scriptlet('abort-current-inline-script', 'do
 1412.rest,3dpchip.com#%#//scriptlet("prevent-setTimeout", "/\.displayMessage\(/")
 !  #%#//scriptlet("prevent-bab")
 !
+!#if ( adguard_app_ios || adguard_ext_safari )
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cpsp.kr
+!#endif
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$redirect=googlesyndication-adsbygoogle,domain=cpsp.kr
 sajuplus.net##.adsense-alt
 sajuplus.net#%#//scriptlet("set-constant", "checkAds", "noopFunc")
 !#if (!adguard_app_ios && !adguard_ext_safari )
