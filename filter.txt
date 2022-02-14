@@ -7561,6 +7561,10 @@ torrentonly3.com,torrentonly4.com,torrentonly5.com,torrentonly6.com,torrentonly7
 ggoorr.net##.content > div.bd > div.clear > div > center
 ggoorr.net##.side > .widget_div > .content > center
 ggoorr.net##.content > div.bd > div > center
+ggoorr.net###content > div.bd > div.clear > div.clear > center
+ggoorr.net###content > div.bd > div.bd_lst_wrp > center
+ggoorr.net###content > div.bd > div.clear > center
+ggoorr.net###content > div.bd > center
 
 ! JS rules
 ! #%#//scriptlet('abort-current-inline-script', 'document.addEventListener', '/adscale_slot_id/')

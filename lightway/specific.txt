@@ -1,3 +1,7 @@
+ggoorr.net###content > div.bd > div.clear > div.clear > center
+ggoorr.net###content > div.bd > div.bd_lst_wrp > center
+ggoorr.net###content > div.bd > div.clear > center
+ggoorr.net###content > div.bd > center
 ggoorr.net##.content > div.bd > div.clear > div > center
 ggoorr.net##.side > .widget_div > .content > center
 ggoorr.net##.content > div.bd > div > center
