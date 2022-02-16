@@ -1,3 +1,4 @@
+fow.kr##.neo_top_center
 ggoorr.net###content > div.bd > div.clear > div.clear > center
 ggoorr.net###content > div.bd > div.bd_lst_wrp > center
 ggoorr.net###content > div.bd > div.clear > center

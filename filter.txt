@@ -7525,6 +7525,7 @@ comic.naver.com##div[id^="ppl_"][id$="_section"]
 m.comic.naver.com##[id^="flex_ad_"]
 sajuplus.net##.adsense-alt
 torrentdia12.com,torrentdia13.com,torrentdia14.com,torrentdia15.com,torrentdia16.com,torrentdia17.com,torrentdia18.com,torrentdia19.com,torrentdia20.com,torrentdia21.com,torrentdia22.com##[href*=".com/bbs/bannerhit.php?"]
+fow.kr##.neo_top_center
 
 ! Extended CSS rules
 ppss.kr#?#section[id^="custom_"]:has(> div.widget_text > h3:contains(SPONSORED).widgettitle)
