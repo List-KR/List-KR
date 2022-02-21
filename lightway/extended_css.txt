@@ -14,7 +14,7 @@ community.rememberapp.co.kr#?#div > a.sc-7g611p-0.cAmftz:has(> div > div > div >
 tgd.kr#?#div[style^="display:"][style*="flex;"] > div[style^="flex:"]:contains(AD):upward(2)
 m.humoruniv.com#?#tbody > tr > td table.powerlink:upward(7)
 coolenjoy.net#?##sidebar > .tab > a img[src^="https://photo.coolenjoy.net/banner/"]:upward(2)
-quasarzone.com#?#.flex-viewport > ul > li > a[onclick^="clickBanner("]:upward(.flexsliderwrapper)
+quasarzone.com#?#div.right-util-area:has(> div > .flexslider > .flex-viewport > ul > li > a[href*="://prod.danawa.com/"] > img[src*=".quasarzone.com/banner/"])
 etoland.co.kr#?#tbody > tr > td > img[src*="/img/adland01.gif"]:upward(2)
 m.ppomppu.co.kr#?#div#bbs_inform > ul > li span:contains(AD):upward(1)
 ppomppu.co.kr#?#tbody > tr.list_notice > td img[src="/images/list_icon_ad.png"]:upward(2)
