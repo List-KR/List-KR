@@ -6939,6 +6939,8 @@ toonsarang.tel##div.w_banner
 topgear.com##div.ad
 topstarnews.net##article.article-veiw-body>div.clearfix>center>div[style="width:320px;height:50px;margin:0;padding:0"]
 topstarnews.net##iframe[src^="http://www.topstarnews.net/html/default/html_tpl_mobile/ad/"]
+torrenthaja.com,torrenthaja1.com##div.main-banner
+torrenthaja.com,torrenthaja1.com##div.side-banner
 torrentjang.com##div.mside-ads
 torrentmade.com##div.hiddenpage
 torrentmade.com##div.top_banner
