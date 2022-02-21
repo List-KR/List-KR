@@ -2543,6 +2543,7 @@ ondisk.co.kr##div[id^="wingBanner-"]
 ||exelbid.com^
 ||ssl.pstatic.net/tveta/libs/
 ||tvetamovie.pstatic.net^
+||image.ruliweb.com/view/view.js?zoneid=
 
 ! Site element hiding rules
 mground.kr##[data-postid].ultp-shortcode
