@@ -230,7 +230,6 @@ ruliweb.com#$#.user_view { width: 100%!important; }
 ruliweb.com##.nbp_container
 mosen.mt.co.kr,ruliweb.com##div[id^="ad_"]
 ||img.ruliweb.com/view/
-meeco.kr##.list_d.ldd > ul li:not([class])
 m.dcinside.com##ul.all-comment-lst > li.comment:not(li[id^="comment_cnt_"])
 m.dcinside.com##div[class^="adv-group"]
 ||nstatic.dcinside.com/ad/

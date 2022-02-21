@@ -7528,6 +7528,7 @@ torrentdia12.com,torrentdia13.com,torrentdia14.com,torrentdia15.com,torrentdia16
 fow.kr##.neo_top_center
 
 ! Extended CSS rules
+meeco.kr#?#.list_d.ldd > ul > li:has(> div > ins.adsbygoogle)
 ppss.kr#?#section[id^="custom_"]:has(> div.widget_text > h3:contains(SPONSORED).widgettitle)
 m.newspic.kr#?#.aside_wrap > div.box:has(> div > iframe[src^="https://ad.adinc.kr/"])
 m.bunjang.co.kr#?#.app > div > div > div[class]:has(> div[class] > div[class] > div[class]:contains(파워링크))
