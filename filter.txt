@@ -2786,9 +2786,6 @@ avdbs.com##div#ad_sense_area_top
 avheat.com##div.at-wing-right
 avheat.com##div.npia-board-gallery
 avjamak.net##img[class^="by_banner_"]
-avsnoop.co.uk##div#adArea
-avsnoop.co.uk##div#bbsview>div.inner>div.viewbox>div.adbox
-avsnoop.co.uk##div#side>div.inner>div.banner
 b.hatena.ne.jp##div#entrylist-ad-right-top
 b.hatena.ne.jp##div#touch-footer-ad
 b.hatena.ne.jp##div#touch-footer-ad-placeholder
@@ -2810,10 +2807,6 @@ bbc.co.uk##div[data-e2e="advertisement"]
 ruliweb.com##div[class^="nbp_container"]
 ruliweb.com##div[id^="mo_ad_"]
 ruliweb.com###pc_maintop_hotdeal
-bbs.danawa.com##div#danawa-community-bbsView-powerLink-self
-bbs.danawa.com##div.bbs_banner
-bbs.danawa.com##div.rnb_unit_banner
-bbs.danawa.com##div.ttop_ad_banner
 bbs.ruliweb.com##div#ti3
 bbs.ruliweb.com##div.board_main_top>div.right_wrapper
 mosen.mt.co.kr,ruliweb.com##div[id^="ad_"]
@@ -6946,15 +6939,8 @@ toonsarang.tel##div.w_banner
 topgear.com##div.ad
 topstarnews.net##article.article-veiw-body>div.clearfix>center>div[style="width:320px;height:50px;margin:0;padding:0"]
 topstarnews.net##iframe[src^="http://www.topstarnews.net/html/default/html_tpl_mobile/ad/"]
-torrentboza2.com,torrentboja.net##div#floatdiv
-torrentboza2.com,torrentboja.net##div.ad_table_b
-torrentboza2.com,torrentboja.net##div.basic-banner
-torrentonly1.com##div.left_banner
-torrentonly1.com##div.side_bimg
-torrentonly1.com##div.top_bimg
 torrenthaja.com,torrenthaja1.com##div.main-banner
 torrenthaja.com,torrenthaja1.com##div.side-banner
-torrentissue19.com##img.border2
 torrentjang.com##div.mside-ads
 torrentmade.com##div.hiddenpage
 torrentmade.com##div.top_banner
@@ -7560,8 +7546,6 @@ star.ohmynews.com##li[-ext-has=">.ad-box"]
 zipbogo.net##.sidebar > ul > li[-ext-has='a[href*="/ad/"],a[onclick^="visitWebBanner("]']
 m.search.naver.com##section[class*="ad_"].sp_brand
 1412.rest##.ADs-BG.center
-torrentonly3.com,torrentonly4.com,torrentonly5.com,torrentonly6.com,torrentonly7.com,torrentonly8.com,torrentonly9.com,torrentonly10.com,torrentonly11.com,torrentonly12.com,torrentonly13.com##a[href^="https://www.torrentonly3.com/bbs/bannerhit.php?"]
-torrentonly3.com,torrentonly4.com,torrentonly5.com,torrentonly6.com,torrentonly7.com,torrentonly8.com,torrentonly9.com,torrentonly10.com,torrentonly11.com,torrentonly12.com,torrentonly13.com#?#tbody > tr:has(> td > a[href^="https://www.torrentonly3.com/bbs/bannerhit.php?"])
 ggoorr.net##.content > div.bd > div.clear > div > center
 ggoorr.net##.side > .widget_div > .content > center
 ggoorr.net##.content > div.bd > div > center
