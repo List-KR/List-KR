@@ -2546,6 +2546,7 @@ ondisk.co.kr##div[id^="wingBanner-"]
 ||image.ruliweb.com/view/view.js?zoneid=
 
 ! Site element hiding rules
+torrentonly5.com##a[href^="https://www.torrentonly5.com/bbs/bannerhit.php?"]
 mground.kr##[data-postid].ultp-shortcode
 jjang0u.com##.banner-web
 jjang0u.com##div[id^="bidrich_"]
@@ -7515,6 +7516,7 @@ torrentdia12.com,torrentdia13.com,torrentdia14.com,torrentdia15.com,torrentdia16
 fow.kr##.neo_top_center
 
 ! Extended CSS rules
+torrentonly5.com#?#tbody > tr:has(> td > a[href^="https://www.torrentonly5.com/bbs/bannerhit.php?"])
 quasarzone.com#?#div.right-util-area:has(> div > .flexslider > .flex-viewport > ul > li > a[href*="://prod.danawa.com/"] > img[src*=".quasarzone.com/banner/"])
 meeco.kr#?#.list_d.ldd > ul > li:has(> div > ins.adsbygoogle)
 ppss.kr#?#section[id^="custom_"]:has(> div.widget_text > h3:contains(SPONSORED).widgettitle)

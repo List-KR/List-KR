@@ -4,9 +4,9 @@
 ! 
 ||torrentdia*.com/data/to_list
 torrentdia12.com##[href*=".com/bbs/bannerhit.php?"]
-torrentonly3.com##a[href^="https://www.torrentonly3.com/bbs/bannerhit.php?"]
+torrentonly5.com##a[href^="https://www.torrentonly5.com/bbs/bannerhit.php?"]
 ||torrentonly*.com/data/zn_bimg/
-torrentonly3.com#?#tbody > tr:has(> td > a[href^="https://www.torrentonly3.com/bbs/bannerhit.php?"])
+torrentonly5.com#?#tbody > tr:has(> td > a[href^="https://www.torrentonly5.com/bbs/bannerhit.php?"])
 hellven.net##a[href$="&utm_medium=hellven1&referer=internal_hellven_banner_hellven1"]
 ||hellven.net/data/apms/banner/
 ||hellven.net/data/apms/adver_photo/
