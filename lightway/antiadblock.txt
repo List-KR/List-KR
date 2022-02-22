@@ -4,6 +4,7 @@ untitle.org,seo-marketing.co.kr#%#//scriptlet('abort-current-inline-script', 'do
 1412.rest,3dpchip.com#%#//scriptlet("prevent-setTimeout", "/\.displayMessage\(/")
 !  #%#//scriptlet("prevent-bab")
 !
+||1412.rest/addons/*/adblockDetector.js
 !#if ( adguard_app_ios || adguard_ext_safari )
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cpsp.kr
 !#endif
