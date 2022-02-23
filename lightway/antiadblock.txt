@@ -4,6 +4,16 @@ untitle.org,seo-marketing.co.kr#%#//scriptlet('abort-current-inline-script', 'do
 1412.rest,3dpchip.com#%#//scriptlet("prevent-setTimeout", "/\.displayMessage\(/")
 !  #%#//scriptlet("prevent-bab")
 !
+! Kakao TV
+play-tv.kakao.com,tv.kakao.com#@##adBlockPixelTag
+play-tv.kakao.com,tv.kakao.com#@#.banner_ad
+||tv.kakao.com/embed/player/image/ads.png$redirect=32x32-transparent.png,domain=tv.kakao.com|play-tv.kakao.com
+||videoads.kakao.com/adserver/api/v2/vmap$redirect=noopvmap-1.0,domain=tv.kakao.com|play-tv.kakao.com
+!#if ( adguard_app_ios || adguard_ext_safari )
+@@||tv.kakao.com/embed/player/image/ads.png$domain=tv.kakao.com|play-tv.kakao.com
+@@||videoads.kakao.com/adserver/api/v2/vmap$domain=tv.kakao.com|play-tv.kakao.com
+!#endif
+!
 ||1412.rest/addons/*/adblockDetector.js
 !#if ( adguard_app_ios || adguard_ext_safari )
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cpsp.kr
