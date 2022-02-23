@@ -7637,13 +7637,13 @@ cafe.naver.com#?##cafe-body > #content-area > #group-area > #cafe-menu > .box-g-
 cafe.naver.com#?#tr._noticeArticle.board-notice.type_main:has(> td.td_article > div > div > a[href^="/ArticleRead.nhn?clubid=23370764&menuid=&"]):has(> td.td_name > div > table > tbody > tr > td > span > img[src="https://cafe.pstatic.net/levelicon/1/1_150.gif"])
 
 ! Kakao TV
-play-tv.kakao.com,tv.kakao.com#@##adBlockPixelTag
-play-tv.kakao.com,tv.kakao.com#@#.banner_ad
-||tv.kakao.com/embed/player/image/ads.png$redirect=32x32-transparent.png,domain=tv.kakao.com|play-tv.kakao.com
-||videoads.kakao.com/adserver/api/v2/vmap$redirect=noopvmap-1.0,domain=tv.kakao.com|play-tv.kakao.com
+entertain.daum.net,play-tv.kakao.com,tv.kakao.com#@##adBlockPixelTag
+entertain.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
+||tv.kakao.com/embed/player/image/ads.png$redirect=32x32-transparent.png,domain=tv.kakao.com|play-tv.kakao.com|entertain.daum.net
+||videoads.kakao.com/adserver/api/v2/vmap$redirect=noopvmap-1.0,domain=tv.kakao.com|play-tv.kakao.com|entertain.daum.net
 !#if ( adguard_app_ios || adguard_ext_safari )
-@@||tv.kakao.com/embed/player/image/ads.png$domain=tv.kakao.com|play-tv.kakao.com
-@@||videoads.kakao.com/adserver/api/v2/vmap$domain=tv.kakao.com|play-tv.kakao.com
+@@||tv.kakao.com/embed/player/image/ads.png$domain=tv.kakao.com|play-tv.kakao.com|entertain.daum.net
+@@||videoads.kakao.com/adserver/api/v2/vmap$domain=tv.kakao.com|play-tv.kakao.com|entertain.daum.net
 !#endif
 !
 !#if ( adguard_app_ios || adguard_ext_safari )
