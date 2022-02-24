@@ -14,6 +14,12 @@ entertain.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 @@||videoads.kakao.com/adserver/api/v2/vmap$domain=tv.kakao.com|play-tv.kakao.com|entertain.daum.net
 !#endif
 !
+!#if ( !adguard_app_ios && !adguard_ext_safari )
+||adblockanalytics.com^$xmlhttprequest,redirect=nooptext,domain=1412.rest
+!#endif
+!#if ( adguard_app_ios || adguard_ext_safari )
+@@||adblockanalytics.com^$xmlhttprequest,domain=1412.rest
+!#endif
 ||1412.rest/addons/*/adblockDetector.js
 !#if ( adguard_app_ios || adguard_ext_safari )
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cpsp.kr
