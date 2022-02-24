@@ -1,3 +1,5 @@
+11st.co.kr##section[data-log-actionid-area="focus"].search_section
+11st.co.kr##section[data-log-actionid-area="plus"].search_section
 ||danawa.com/NBP/powerLink.js.php
 slist.kr##.ad-template
 slist.kr###wingBanner

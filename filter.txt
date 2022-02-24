@@ -7515,8 +7515,12 @@ m.comic.naver.com##[id^="flex_ad_"]
 sajuplus.net##.adsense-alt
 torrentdia12.com,torrentdia13.com,torrentdia14.com,torrentdia15.com,torrentdia16.com,torrentdia17.com,torrentdia18.com,torrentdia19.com,torrentdia20.com,torrentdia21.com,torrentdia22.com##[href*=".com/bbs/bannerhit.php?"]
 fow.kr##.neo_top_center
+11st.co.kr##section[data-log-actionid-area="focus"].search_section
+11st.co.kr##section[data-log-actionid-area="plus"].search_section
 
 ! Extended CSS rules
+11st.co.kr#?#.c_product_banner.c_product_banner_product:has(> p > a[href^="https://ds.11st.co.kr"])
+11st.co.kr#?##recommend_top:has(> .side > div > div.c_adtext)
 torrentonly5.com#?#tbody > tr:has(> td > a[href^="https://www.torrentonly5.com/bbs/bannerhit.php?"])
 quasarzone.com#?#div.right-util-area:has(> div > .flexslider > .flex-viewport > ul > li > a[href*="://prod.danawa.com/"] > img[src*=".quasarzone.com/banner/"])
 meeco.kr#?#.list_d.ldd > ul > li:has(> div > ins.adsbygoogle)
