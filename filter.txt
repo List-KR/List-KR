@@ -7554,6 +7554,8 @@ ggoorr.net###content > div.bd > div.clear > div.clear > center
 ggoorr.net###content > div.bd > div.bd_lst_wrp > center
 ggoorr.net###content > div.bd > div.clear > center
 ggoorr.net###content > div.bd > center
+slist.kr###wingBanner
+slist.kr##.ad-template
 
 ! JS rules
 ! #%#//scriptlet('abort-current-inline-script', 'document.addEventListener', '/adscale_slot_id/')

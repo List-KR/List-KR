@@ -1,3 +1,5 @@
+slist.kr##.ad-template
+slist.kr###wingBanner
 ||image.ruliweb.com/view/view.js?zoneid=
 fow.kr##.neo_top_center
 ggoorr.net###content > div.bd > div.clear > div.clear > center
