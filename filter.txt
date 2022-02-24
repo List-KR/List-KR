@@ -579,6 +579,7 @@ z9-we.com#@#a[href*="//www.z9-we.com"]
 z9-we.com#@#a[href*="//z9-we.com"]
 
 ! URL filters
+||ads.adoffice.11st.co.kr^
 ||danawa.com/NBP/powerLink.js.php
 ||1412.rest/addons/*/adblockDetector.js
 ||torrentdia*.com/data/to_list
