@@ -1,3 +1,4 @@
+||danawa.com/NBP/powerLink.js.php
 slist.kr##.ad-template
 slist.kr###wingBanner
 ||image.ruliweb.com/view/view.js?zoneid=
