@@ -1,3 +1,5 @@
+m.coupang.com##.plp-default__item.search-product__cmg-badge
+m.coupang.com##div[data-page-type="brandSDP"][id$="carousel-products"]
 coupang.com#$#li.search-product__ad-badge { height: 0px !important; width: 0px !important; visibility: hidden !important; }
 11st.co.kr##section[data-log-actionid-area="focus"].search_section
 11st.co.kr##section[data-log-actionid-area="plus"].search_section
