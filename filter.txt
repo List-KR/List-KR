@@ -2548,6 +2548,7 @@ ondisk.co.kr##div[id^="wingBanner-"]
 ||image.ruliweb.com/view/view.js?zoneid=
 
 ! Site element hiding rules
+coupang.com#$#li.search-product__ad-badge { height: 0px !important; width: 0px !important; visibility: hidden !important; }
 torrentonly5.com##a[href^="https://www.torrentonly5.com/bbs/bannerhit.php?"]
 mground.kr##[data-postid].ultp-shortcode
 jjang0u.com##.banner-web
