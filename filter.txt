@@ -2546,6 +2546,7 @@ ondisk.co.kr##div[id^="wingBanner-"]
 ||ssl.pstatic.net/tveta/libs/
 ||tvetamovie.pstatic.net^
 ||image.ruliweb.com/view/view.js?zoneid=
+||loader2.fmkorea.com/_myphp/adpost/content_new.php
 
 ! Site element hiding rules
 m.coupang.com##.plp-default__item.search-product__cmg-badge
