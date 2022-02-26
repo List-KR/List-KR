@@ -7522,6 +7522,7 @@ fow.kr##.neo_top_center
 11st.co.kr##section[data-log-actionid-area="focus"].search_section
 11st.co.kr##section[data-log-actionid-area="plus"].search_section
 m.naver.com##div.brick-vowel > div[data-block-code="AD-SMART-CHANNEL"].MM_DA_SMARTCHANNEL
+search.naver.com##section._shopping_root > div > div > div > div > ul > li.box._ad
 
 ! Extended CSS rules
 11st.co.kr#?#.c_product_banner.c_product_banner_product:has(> p > a[href^="https://ds.11st.co.kr"])

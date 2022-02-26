@@ -1,3 +1,6 @@
+search.naver.com##section._shopping_root > div > div > div > div > ul > li.box._ad
+search.naver.com##.api_banner
+search.naver.com##.ad_section
 m.naver.com##div.brick-vowel > div[data-block-code="AD-SMART-CHANNEL"].MM_DA_SMARTCHANNEL
 m.coupang.com##.plp-default__item.search-product__cmg-badge
 m.coupang.com##div[data-page-type="brandSDP"][id$="carousel-products"]
