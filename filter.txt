@@ -7521,6 +7521,7 @@ torrentdia12.com,torrentdia13.com,torrentdia14.com,torrentdia15.com,torrentdia16
 fow.kr##.neo_top_center
 11st.co.kr##section[data-log-actionid-area="focus"].search_section
 11st.co.kr##section[data-log-actionid-area="plus"].search_section
+m.naver.com##div.brick-vowel > div[data-block-code="AD-SMART-CHANNEL"].MM_DA_SMARTCHANNEL
 
 ! Extended CSS rules
 11st.co.kr#?#.c_product_banner.c_product_banner_product:has(> p > a[href^="https://ds.11st.co.kr"])
