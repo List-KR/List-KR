@@ -1,3 +1,4 @@
+m.search.naver.com##section._nshopping_trendview > div > div > div._product_root > div > ul > li.square_bx._ad
 search.naver.com##section._shopping_root > div > div > div > div > ul > li.box._ad
 search.naver.com##.api_banner
 search.naver.com##.ad_section
