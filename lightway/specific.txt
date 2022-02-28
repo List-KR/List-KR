@@ -1,3 +1,10 @@
+||knowledgepower.co.kr/uploads/cpcbanner/
+postshare.co.kr##div.warp > a[href*="//someblossom.co.kr/product/detail.html?"]
+||img.entertainpost.com/uploads/someblossom/$domain=postshare.co.kr
+postshare.co.kr##div[id^="foin_"]
+||img.postshare.co.kr/images/banner/
+postshare.co.kr###hd_pop
+postshare.co.kr##div[id^="adMall_popup_"]
 postshare.co.kr##body > div[class^="brand-"]
 postshare.co.kr##.addot-wrapper
 m.search.naver.com##section._nshopping_trendview > div > div > div._product_root > div > ul > li.square_bx._ad

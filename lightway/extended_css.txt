@@ -1,3 +1,6 @@
+postshare.co.kr#?#pre > div[style]:has(> iframe[src*=".ad4989.co.kr/"])
+postshare.co.kr#?#.news_con > div[align]:has(> a[href*="//coupa.ng/"] > img[src*="//img.knowledgepower.co.kr/uploads/cpcbanner/"])
+postshare.co.kr#?#pre > div[id]:has(> div[align] > a > img[src*="//img.postshare.co.kr/images/banner/"])
 postshare.co.kr#?#div[id][class][style]:has(> .impactify-player-container)
 11st.co.kr#?#.c_product_banner.c_product_banner_product:has(> p > a[href^="https://ds.11st.co.kr"])
 11st.co.kr#?##recommend_top:has(> .side > div > div.c_adtext)

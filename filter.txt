@@ -491,6 +491,7 @@
 ##ins.scupioadslot
 ##li.blogroll-ad-text
 ##span.ezoic-ad
+##iframe[src*="//ad.phaserep.com/"]
 
 ! Illegal gambling sites
 bbet2020.com#@#a[href*="//bbet2020.com"]
@@ -713,7 +714,7 @@ ondisk.co.kr##div[id^="wingBanner-"]
 ||ad.3dpop.kr/web_ad/
 ||ad.about.co.kr^
 ||ad.ad-stir.com/ad^
-||ad.ad4989.co.kr^
+||ad4989.co.kr^
 ||ad.adenc.co.kr/media/
 ||ad.adinc.kr^
 ||ad.adkova.com/media/
@@ -821,7 +822,6 @@ ondisk.co.kr##div[id^="wingBanner-"]
 ||adex.adtree.kr/*/ad.js^
 ||adex.adtree.kr/*/view.php^
 ||adex.ednplus.com^
-||adexpert.ad4989.co.kr^
 ||adexview.neoebiz.co.kr^
 ||adexview.new-star.co.kr^
 ||adf.acrosspf.com/adifr/
@@ -1697,11 +1697,6 @@ ondisk.co.kr##div[id^="wingBanner-"]
 ||js-sec.indexww.com/ht/p/*.js^
 ||js.ad-score.com/score.min.js^
 ||js.ad-stir.com/js/adstir.js^
-||js.ad4989.co.kr/etc/tjtune/float/common.js^
-||js.ad4989.co.kr/etc/tjtune/float/float_common2.js^
-||js.ad4989.co.kr/etc/tjtune/toast/m_common.js^
-||js.ad4989.co.kr/etc/tjtune/toast/m_tost_common2.js^
-||js.ad4989.co.kr/etc/tjtune/under/under_photo.js^
 ||js.adagio.upstory.it/tupstory.js^
 ||js.bigfineads.com/s/sliderV2.js^
 ||js.gsspcln.jp/sdk/l/geniee_sjv5.js^
@@ -1742,7 +1737,6 @@ ondisk.co.kr##div[id^="wingBanner-"]
 ||k77hof1z7k.com/*.js^
 ||kbench.com/article_right_box.php^$domain=kbench.com
 ||kbench.com/m_article_right_box.php^$domain=m.kbench.com
-||keyword.ad4989.co.kr^
 ||khan.co.kr/ad/
 ||kitweb.tadapi.info/network/act/bjc.php^
 ||kitweb.tadapi.info/network/adapi.php^
@@ -2550,8 +2544,13 @@ ondisk.co.kr##div[id^="wingBanner-"]
 ||tvetamovie.pstatic.net^
 ||image.ruliweb.com/view/view.js?zoneid=
 ||loader2.fmkorea.com/_myphp/adpost/content_new.php
+||ad.phaserep.com^
+||ad.aceplanet.co.kr^
+||img.postshare.co.kr/images/banner/
+||knowledgepower.co.kr/uploads/cpcbanner/
 
 ! Site element hiding rules
+postshare.co.kr##div[id^="foin_"]
 m.coupang.com##.plp-default__item.search-product__cmg-badge
 m.coupang.com##div[data-page-type="brandSDP"][id$="carousel-products"]
 coupang.com#$#li.search-product__ad-badge { height: 0px !important; width: 0px !important; visibility: hidden !important; }
@@ -2566,7 +2565,7 @@ boribori.co.kr##div[class*="_banner"]
 boribori.co.kr##.bFloatingBanner
 linklove1.com##.miso-love-ad
 linklove1.com##.w-box > .swipe-carousel
-linklove1.com###hd_pop
+postshare.co.kr,linklove1.com###hd_pop
 noltrt.com###download_ad_addon
 noltrt.com##.nivoSlider
 noltrt.com###xt_join_site_addons
@@ -7019,7 +7018,7 @@ tving.com##div.ad
 tvreport.co.kr##body>div[style="position:absolute;;top:0px;right:80px"]
 tvreport.co.kr##div#CmAdContent div[style="text-align:center;width:320px;margin:10px 0 0 -10px"]
 tvreport.co.kr##div.advertise_02
-tvreport.co.kr##div[id^="adMall_popup_"]
+postshare.co.kr,tvreport.co.kr##div[id^="adMall_popup_"]
 tvreport.co.kr##iframe[src^="//ad.tvreport.co.kr/"][src*="?m=i"]
 tvseoul.kr##div#news_body_area>div[style="clear:both;margin-bottom:10px;margin-top:10px;margin-left:10px;text-align:center;float:right;width:336px;height:280px;"]
 tvseoul.kr##div.banner_left
@@ -7529,8 +7528,12 @@ search.naver.com##section._shopping_root > div > div > div > div > ul > li.box._
 m.search.naver.com##section._nshopping_trendview > div > div > div._product_root > div > ul > li.square_bx._ad
 postshare.co.kr##body > div[class^="brand-"]
 postshare.co.kr##.addot-wrapper
+postshare.co.kr##div.warp > a[href*="//someblossom.co.kr/product/detail.html?"]
 
 ! Extended CSS rules
+postshare.co.kr#?#pre > div[style]:has(> iframe[src*=".ad4989.co.kr/"])
+postshare.co.kr#?#.news_con > div[align]:has(> a[href*="//coupa.ng/"] > img[src*="//img.knowledgepower.co.kr/uploads/cpcbanner/"])
+postshare.co.kr#?#pre > div[id]:has(> div[align] > a > img[src*="//img.postshare.co.kr/images/banner/"])
 postshare.co.kr#?#div[id][class][style]:has(> .impactify-player-container)
 11st.co.kr#?#.c_product_banner.c_product_banner_product:has(> p > a[href^="https://ds.11st.co.kr"])
 11st.co.kr#?##recommend_top:has(> .side > div > div.c_adtext)
