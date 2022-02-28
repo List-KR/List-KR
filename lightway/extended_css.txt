@@ -1,3 +1,4 @@
+postshare.co.kr#?#div[id][class][style]:has(> .impactify-player-container)
 11st.co.kr#?#.c_product_banner.c_product_banner_product:has(> p > a[href^="https://ds.11st.co.kr"])
 11st.co.kr#?##recommend_top:has(> .side > div > div.c_adtext)
 meeco.kr#?#.list_d.ldd > ul > li:has(> div > ins.adsbygoogle)

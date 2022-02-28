@@ -1,3 +1,5 @@
+||megadata.co.kr^
+||impactify.io^$third-party
 ||teads.tv^
 ||exelbid.com^
 ||adinc.co.kr^

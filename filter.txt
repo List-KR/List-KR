@@ -579,6 +579,8 @@ z9-we.com#@#a[href*="//www.z9-we.com"]
 z9-we.com#@#a[href*="//z9-we.com"]
 
 ! URL filters
+||megadata.co.kr^
+||realclick.co.kr^$third-party
 ||ads.adoffice.11st.co.kr^
 ||danawa.com/NBP/powerLink.js.php
 ||1412.rest/addons/*/adblockDetector.js
@@ -1610,7 +1612,8 @@ ondisk.co.kr##div[id^="wingBanner-"]
 ||img.kormedi.com/healthgift/ad/ad*.html^$domain=m.kormedi.com
 ||img.kwangju.co.kr/banner/$domain=kwangju.co.kr
 ||img.luukku.com/st/static/javascripts/external-js/ad-layout/$domain=luukku.com
-||img.mobon.net^
+||impactify.io^$third-party
+||mobon.net^$third-party
 ||img.mrep.kr/slot/*.html^
 ||img.nabang.tv/partner/banner/
 ||img.newspim.com/banner/$domain=newspim.com
@@ -7524,8 +7527,11 @@ fow.kr##.neo_top_center
 m.naver.com##div.brick-vowel > div[data-block-code="AD-SMART-CHANNEL"].MM_DA_SMARTCHANNEL
 search.naver.com##section._shopping_root > div > div > div > div > ul > li.box._ad
 m.search.naver.com##section._nshopping_trendview > div > div > div._product_root > div > ul > li.square_bx._ad
+postshare.co.kr##body > div[class^="brand-"]
+postshare.co.kr##.addot-wrapper
 
 ! Extended CSS rules
+postshare.co.kr#?#div[id][class][style]:has(> .impactify-player-container)
 11st.co.kr#?#.c_product_banner.c_product_banner_product:has(> p > a[href^="https://ds.11st.co.kr"])
 11st.co.kr#?##recommend_top:has(> .side > div > div.c_adtext)
 torrentonly5.com#?#tbody > tr:has(> td > a[href^="https://www.torrentonly5.com/bbs/bannerhit.php?"])
