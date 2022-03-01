@@ -7529,6 +7529,7 @@ m.search.naver.com##section._nshopping_trendview > div > div > div._product_root
 postshare.co.kr##body > div[class^="brand-"]
 postshare.co.kr##.addot-wrapper
 postshare.co.kr##div.warp > a[href*="//someblossom.co.kr/product/detail.html?"]
+copytoon248.com,copytoon249.com,copytoon250.com,copytoon251.com,copytoon252.com,copytoon253.com,copytoon254.com,copytoon255.com,copytoon256.com,copytoon257.com,copytoon258.com##a[href*="/bbs/bannerhit.php?"]
 
 ! Extended CSS rules
 postshare.co.kr#?#pre > div[style]:has(> iframe[src*=".ad4989.co.kr/"])
