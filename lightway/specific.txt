@@ -1,3 +1,4 @@
+sports.chosun.com##div[class^="ad"]
 ||knowledgepower.co.kr/uploads/cpcbanner/
 postshare.co.kr##div.warp > a[href*="//someblossom.co.kr/product/detail.html?"]
 ||img.entertainpost.com/uploads/someblossom/$domain=postshare.co.kr
