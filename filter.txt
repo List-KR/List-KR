@@ -2819,6 +2819,7 @@ baskino.co##div.skin-block
 bbc.co.uk##div[amp-access="toggles.ads.enabled"]
 bbc.co.uk##div[data-e2e="advertisement"]
 ruliweb.com##div[class^="nbp_container"]
+m.ruliweb.com##div[id^="nbp_container"]
 ruliweb.com##div[id^="mo_ad_"]
 ruliweb.com###pc_maintop_hotdeal
 bbs.ruliweb.com##div#ti3
