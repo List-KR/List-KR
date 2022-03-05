@@ -1,3 +1,5 @@
+mule.co.kr#?##section-main.cf > div[class^="section-"] > div[class^="section-"] > div:has( > a[href][alt][target="_blank"] > img[alt][src])
+mule.co.kr#$?#.section-lefttop-center:has(> .mule-today) { width: 100% !important; }
 postshare.co.kr#?#pre > div[style]:has(> iframe[src*=".ad4989.co.kr/"])
 postshare.co.kr#?#.news_con > div[align]:has(> a[href*="//coupa.ng/"] > img[src*="//img.knowledgepower.co.kr/uploads/cpcbanner/"])
 postshare.co.kr#?#pre > div[id]:has(> div[align] > a > img[src*="//img.postshare.co.kr/images/banner/"])

@@ -1,3 +1,11 @@
+mule.co.kr##.header-center.cf > .header-center-imgbox > a > img[src*="//cdn.mule.co.kr/data/original/"]
+mule.co.kr##div[class^="section-"][class$="-ad"]
+mule.co.kr##div[class^="section-"][class$="-bigad"]
+mule.co.kr##div[class^="section-"][class$="-topad"]
+mule.co.kr##div[class^="section-"][class$="-smallad"]
+mule.co.kr##div[class^="section-"][class$="ad-pc"]
+mule.co.kr##div.section-leftmiddle-bottommiddle.cf
+mule.co.kr#$#div.section-leftmiddle-topmiddle.cf { width: 100% !important; }
 sports.chosun.com##div[class^="ad"]
 ||knowledgepower.co.kr/uploads/cpcbanner/
 postshare.co.kr##div.warp > a[href*="//someblossom.co.kr/product/detail.html?"]
@@ -101,14 +109,6 @@ epnc.co.kr##div[onmousedown*="'event_label': 'AD'"]
 ||techworld.speedgabia.com/epnc.co.kr/ad/
 ruliweb.com###ti3
 ruliweb.com#$##board_top > div > .top_best.best_list { width: 100% !important; }
-mule.co.kr##img[src^="https://cdn.mule.co.kr/data/original/"]
-mule.co.kr##div.section-leftmiddle-bottommiddle.cf
-mule.co.kr##div[class^="section-lefttop-right ad"]
-mule.co.kr#$#.section-lefttop-center { width: 100%!important; }
-mule.co.kr##.section-lefttop-left
-mule.co.kr#$#.section-leftmiddle-topmiddle { width: 100%!important; }
-mule.co.kr##div[class$="-ad"]
-||cdn.mule.co.kr/data/original/
 news.v.daum.net##ul.list_column > li.item_ad
 mmzone.co.kr##div[id^="scm_ban"][style*="url(/media/banner/"]
 mmzone.co.kr###scm_premium_spon_block

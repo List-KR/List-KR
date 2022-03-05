@@ -7531,8 +7531,18 @@ postshare.co.kr##.addot-wrapper
 postshare.co.kr##div.warp > a[href*="//someblossom.co.kr/product/detail.html?"]
 copytoon248.com,copytoon249.com,copytoon250.com,copytoon251.com,copytoon252.com,copytoon253.com,copytoon254.com,copytoon255.com,copytoon256.com,copytoon257.com,copytoon258.com##a[href*="/bbs/bannerhit.php?"]
 sports.chosun.com##div[class^="ad"]
+mule.co.kr##.header-center.cf > .header-center-imgbox > a > img[src*="//cdn.mule.co.kr/data/original/"]
+mule.co.kr##div[class^="section-"][class$="-ad"]
+mule.co.kr##div[class^="section-"][class$="-bigad"]
+mule.co.kr##div[class^="section-"][class$="-topad"]
+mule.co.kr##div[class^="section-"][class$="-smallad"]
+mule.co.kr##div[class^="section-"][class$="ad-pc"]
+mule.co.kr##div.section-leftmiddle-bottommiddle.cf
+mule.co.kr#$#div.section-leftmiddle-topmiddle.cf { width: 100% !important; }
 
 ! Extended CSS rules
+mule.co.kr#?##section-main.cf > div[class^="section-"] > div[class^="section-"] > div:has( > a[href][alt][target="_blank"] > img[alt][src])
+mule.co.kr#$?#.section-lefttop-center:has(> .mule-today) { width: 100% !important; }
 postshare.co.kr#?#pre > div[style]:has(> iframe[src*=".ad4989.co.kr/"])
 postshare.co.kr#?#.news_con > div[align]:has(> a[href*="//coupa.ng/"] > img[src*="//img.knowledgepower.co.kr/uploads/cpcbanner/"])
 postshare.co.kr#?#pre > div[id]:has(> div[align] > a > img[src*="//img.postshare.co.kr/images/banner/"])
