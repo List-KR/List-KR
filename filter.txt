@@ -7684,5 +7684,5 @@ entertain.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 ! GOS blocked temporarily
 ! https://www.gsmarena.com/samsung_found_to_be_throttling_performance_on_over_10000_android_apps_for_its_devices-news-53418.php
 !#if ( adguard_app_android )
-||gos-api.gos-gsp.net^
+||gos-api.gos-gsp.io^
 !#endif
