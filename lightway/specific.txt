@@ -1,4 +1,5 @@
-econovill.com##div[class^="__staxbn"]
+||api.popin.cc/iframe/piuid.html
+||api.popin.cc/popin_discovery
 mule.co.kr##.header-center.cf > .header-center-imgbox > a > img[src*="//cdn.mule.co.kr/data/original/"]
 mule.co.kr##div[class^="section-"][class$="-ad"]
 mule.co.kr##div[class^="section-"][class$="-bigad"]
@@ -29,7 +30,7 @@ coupang.com#$#li.search-product__ad-badge { height: 0px !important; width: 0px !
 11st.co.kr##section[data-log-actionid-area="plus"].search_section
 ||danawa.com/NBP/powerLink.js.php
 slist.kr##.ad-template
-slist.kr###wingBanner
+daily.hankooki.com,slist.kr###wingBanner
 ||image.ruliweb.com/view/view.js?zoneid=
 fow.kr##.neo_top_center
 ggoorr.net###content > div.bd > div.clear > div.clear > center

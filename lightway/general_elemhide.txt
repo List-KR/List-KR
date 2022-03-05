@@ -1,3 +1,4 @@
+##div[class^="__staxbn"]
 ##img[src*="//static.stax.kr/resource/banner/"]
 ##iframe[src*="//ad.phaserep.com/"]
 ##iframe[src*="/ad.bidrich.com/"]

@@ -24,6 +24,7 @@
 @@||ad-img.ebaykorea.com/ADS/$image,domain=auction.co.kr
 
 ! General element hiding rules
+##div[class^="__staxbn"]
 ##img[src*="//static.stax.kr/resource/banner/"]
 ##ins.fastview-ad
 ##iframe[src*="/ad.bidrich.com/"]
@@ -2550,6 +2551,8 @@ ondisk.co.kr##div[id^="wingBanner-"]
 ||img.postshare.co.kr/images/banner/
 ||knowledgepower.co.kr/uploads/cpcbanner/
 ||stax.kr^$third-party
+||api.popin.cc/iframe/piuid.html
+||api.popin.cc/popin_discovery
 
 ! Site element hiding rules
 postshare.co.kr##div[id^="foin_"]
@@ -7541,7 +7544,6 @@ mule.co.kr##div[class^="section-"][class$="-smallad"]
 mule.co.kr##div[class^="section-"][class$="ad-pc"]
 mule.co.kr##div.section-leftmiddle-bottommiddle.cf
 mule.co.kr#$#div.section-leftmiddle-topmiddle.cf { width: 100% !important; }
-econovill.com##div[class^="__staxbn"]
 
 ! Extended CSS rules
 mule.co.kr#?##section-main.cf > div[class^="section-"] > div[class^="section-"] > div:has( > a[href][alt][target="_blank"] > img[alt][src])
@@ -7591,7 +7593,7 @@ ggoorr.net###content > div.bd > div.clear > div.clear > center
 ggoorr.net###content > div.bd > div.bd_lst_wrp > center
 ggoorr.net###content > div.bd > div.clear > center
 ggoorr.net###content > div.bd > center
-slist.kr###wingBanner
+daily.hankooki.com,slist.kr###wingBanner
 slist.kr##.ad-template
 
 ! JS rules
