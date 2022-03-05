@@ -24,6 +24,7 @@
 @@||ad-img.ebaykorea.com/ADS/$image,domain=auction.co.kr
 
 ! General element hiding rules
+##img[src*="//static.stax.kr/resource/banner/"]
 ##ins.fastview-ad
 ##iframe[src*="/ad.bidrich.com/"]
 ##a[href*="//adv.imadrep.co.kr/"]
@@ -2548,6 +2549,7 @@ ondisk.co.kr##div[id^="wingBanner-"]
 ||ad.aceplanet.co.kr^
 ||img.postshare.co.kr/images/banner/
 ||knowledgepower.co.kr/uploads/cpcbanner/
+||stax.kr^$third-party
 
 ! Site element hiding rules
 postshare.co.kr##div[id^="foin_"]
@@ -7539,6 +7541,7 @@ mule.co.kr##div[class^="section-"][class$="-smallad"]
 mule.co.kr##div[class^="section-"][class$="ad-pc"]
 mule.co.kr##div.section-leftmiddle-bottommiddle.cf
 mule.co.kr#$#div.section-leftmiddle-topmiddle.cf { width: 100% !important; }
+econovill.com##div[class^="__staxbn"]
 
 ! Extended CSS rules
 mule.co.kr#?##section-main.cf > div[class^="section-"] > div[class^="section-"] > div:has( > a[href][alt][target="_blank"] > img[alt][src])

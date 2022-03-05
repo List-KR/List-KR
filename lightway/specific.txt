@@ -1,3 +1,4 @@
+econovill.com##div[class^="__staxbn"]
 mule.co.kr##.header-center.cf > .header-center-imgbox > a > img[src*="//cdn.mule.co.kr/data/original/"]
 mule.co.kr##div[class^="section-"][class$="-ad"]
 mule.co.kr##div[class^="section-"][class$="-bigad"]
