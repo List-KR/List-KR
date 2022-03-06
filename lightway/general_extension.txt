@@ -1,3 +1,4 @@
+lover9.net#%#//scriptlet("set-constant", "app_domains", "emptyObj")
 ~coupang.com,~coupangcdn.com#%#//scriptlet("set-constant", "PartnersCoupang", "undefined")
 m.inven.co.kr#%#//scriptlet('set-constant', 'MOBILE.Ad', 'null')
 inven.co.kr#%#//scriptlet('set-constant', 'INVEN.Ad', 'null')

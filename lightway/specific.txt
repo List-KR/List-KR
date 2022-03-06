@@ -1,3 +1,4 @@
+||adshort.co/toolfp.js
 ||api.popin.cc/iframe/piuid.html
 ||api.popin.cc/popin_discovery
 mule.co.kr##.header-center.cf > .header-center-imgbox > a > img[src*="//cdn.mule.co.kr/data/original/"]

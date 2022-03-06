@@ -1,7 +1,7 @@
 ! #%#//scriptlet('abort-current-inline-script', 'document.addEventListener', '/adscale_slot_id/')
 untitle.org,seo-marketing.co.kr#%#//scriptlet('abort-current-inline-script', 'document.addEventListener', '/adscale_slot_id/')
 ! #%#//scriptlet("prevent-setTimeout", "/\.displayMessage\(/")
-1412.rest,3dpchip.com#%#//scriptlet("prevent-setTimeout", "/\.displayMessage\(/")
+lover9.net,1412.rest,3dpchip.com#%#//scriptlet("prevent-setTimeout", "/\.displayMessage\(/")
 !  #%#//scriptlet("prevent-bab")
 !
 ! Kakao TV
@@ -14,6 +14,10 @@ entertain.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 @@||videoads.kakao.com/adserver/api/v2/vmap$domain=tv.kakao.com|play-tv.kakao.com|entertain.daum.net
 !#endif
 !
+lover9.net#@#.adsbygoogle
+lover9.net#$#.modal { position: unset !important; }
+lover9.net#%#//scriptlet("abort-on-property-read", "goPage")
+lover9.net#%#//scriptlet("abort-current-inline-script", "setTimeout", "/location\.replace/")
 !#if ( !adguard_app_ios && !adguard_ext_safari )
 ||adblockanalytics.com^$xmlhttprequest,redirect=nooptext,domain=1412.rest
 !#endif
