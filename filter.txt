@@ -7520,6 +7520,7 @@ news.appstory.co.kr##.header_banner
 news.appstory.co.kr##a[class^="banner_"]
 1412.rest##div[id^="plusad_"]
 1412.rest##.custom_code.board_top
+1412.rest#script[defer,onerror="adError();",onload="adSuccess();"]
 newspic.kr###dionAdArea
 m.newspic.kr##div[style^="text-align"][style*="z-index:999999999999;"]
 ohli24.net##img[src^="/img/"][src$=".gif"]
