@@ -1,0 +1,9 @@
+# Code ownership information.
+# See https://help.github.com/articles/about-codeowners/
+# for more info about CODEOWNERS file
+
+
+# Common Protection
+/CONTRIBUTING.md                          @piquark6046 @Raiden-Ei
+/LICENSE                                  @piquark6046 @Raiden-Ei
+/README.md                                @piquark6046 @Raiden-Ei
