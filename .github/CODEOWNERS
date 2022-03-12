@@ -4,6 +4,7 @@
 
 
 # Common Protection
+/.github/CODEOWNERS                       @piquark6046 @Raiden-Ei
 /CONTRIBUTING.md                          @piquark6046 @Raiden-Ei
 /LICENSE                                  @piquark6046 @Raiden-Ei
 /README.md                                @piquark6046 @Raiden-Ei
