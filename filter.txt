@@ -7427,9 +7427,6 @@ ytn.co.kr##div.ad_box
 ytn.co.kr##div.hns_mask_div
 ytn.co.kr##iframe[src^="/inc_banner/AdServerChange.php"]
 enuri.com,ytn.co.kr##.ad_powerlink
-zangsisi.net##body>center
-zangsisi.net##div#fixed-top
-zangsisi.net##div.fixed-top>center
 zbn.donga.com##div#iwm_fsa_wrap
 zbn.donga.com##div.realssp_dv
 zbn.donga.com##iframe[src^="/2015/banner/ad_real_"]
