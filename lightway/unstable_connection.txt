@@ -5,7 +5,7 @@
 103.204.13.68##.product-banner
 103.204.13.68##div[class^="mobile-m ad720_"]
 ||wwwimageup.angle777899.com/other/atoona/
-copytoon248.com,copytoon249.com,copytoon250.com,copytoon251.com,copytoon252.com,copytoon253.com,copytoon254.com,copytoon255.com,copytoon256.com,copytoon257.com,copytoon258.com##a[href*="/bbs/bannerhit.php?"]
+copytoon*.com##a[href*="/bbs/bannerhit.php?"]
 ||torrentdia*.com/data/to_list
 torrentdia12.com##[href*=".com/bbs/bannerhit.php?"]
 torrentonly5.com##a[href^="https://www.torrentonly5.com/bbs/bannerhit.php?"]
