@@ -40,39 +40,35 @@
 !#if ( adguard_app_mac )
 !#include /filters/desktop/macos_app.txt
 !#endif
-!#if ( adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb )
-@@||adblockanalytics.com^$xmlhttprequest,domain=1412.rest
-!#endif
-!#if ( adguard_app_ios || adguard_ext_safari )
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cpsp.kr
-!#endif
-!#if (!adguard_app_ios && !adguard_ext_safari )
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$redirect=googlesyndication-adsbygoogle,domain=cpsp.kr
-!#endif
-!#if (!adguard_app_ios && !adguard_ext_safari )
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$redirect=googlesyndication-adsbygoogle,domain=1412.rest
-!#endif
-!#if ( adguard_app_ios || adguard_ext_safari )
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=1412.rest
-!#endif
+
+! list-kr.github.io Detector
 !#if ( adguard_app_windows )
-||adv.bandi.so^
-||bandisoft.com/bandizip/ad/
+list-kr.github.io###ListKRFilterDetectorWin
+!#endif
+!#if ( adguard_app_mac )
+list-kr.github.io###ListKRFilterDetectorMac
+!#endif
+!#if ( adguard_app_android )
+list-kr.github.io###ListKRFilterDetectorAnd
+!#endif
+!#if ( adguard_app_ios )
+list-kr.github.io###ListKRFilterDetectoriOS
+!#endif
+!#if ( adguard_ext_safari )
+list-kr.github.io###ListKRFilterDetectorSafari
+!#endif
+!#if ( adguard_ext_chromium )
+list-kr.github.io###ListKRFilterDetectorChrome
 !#endif
 !#if ( adguard_ext_firefox )
-@@/:\/\/ygosu\.com\/([A-Z]|[a-z]|[0-9]|_)+\/([A-Z]|[a-z]|[0-9]|_)+ps/
-@@/:\/\/ygosu\.com\/([A-Z]|[a-z]|[0-9]|_)+ps/
-/:\/\/ygosu\.com\/([A-Z]|[a-z]|[0-9]|_)+/$object,image,media,other,redirect=32x32-transparent.png
-/:\/\/ygosu\.com\/([A-Z]|[a-z]|[0-9]|_)+\/([A-Z]|[a-z]|[0-9]|_)+/$object,image,media,other,redirect=32x32-transparent.png
+list-kr.github.io###ListKRFilterDetectorFirefox
 !#endif
-!#if ( adguard_ext_firefox )
-@@/:\/\/([a-z]|[0-9])+\.inven\.co\.kr\/([A-Z]|[a-z]|[0-9]|_)+\/([A-Z]|[a-z]|[0-9]|_)+\.ps/
-@@/:\/\/([a-z]|[0-9])+\.inven\.co\.kr\/([A-Z]|[a-z]|[0-9]|_)+\.ps/
-/:\/\/([a-z]|[0-9])+\.inven\.co\.kr\/([A-Z]|[a-z]|[0-9]|_)+\./$object,image,media,other,redirect=32x32-transparent.png
-/:\/\/([a-z]|[0-9])+\.inven\.co\.kr\/([A-Z]|[a-z]|[0-9]|_)+\/([A-Z]|[a-z]|[0-9]|_)+\./$object,image,media,other,redirect=32x32-transparent.png
+!#if ( adguard_ext_edge )
+list-kr.github.io###ListKRFilterDetectorEdge
 !#endif
-!#if ( adguard_ext_firefox )
-@@||ppss.kr/wp-content/uploads/
-/:\/\/ppss\.kr\/([A-Z]|[a-z]|[0-9]|_)+/$object,image,media,other,redirect=32x32-transparent.png
-/:\/\/ppss\.kr\/([A-Z]|[a-z]|[0-9]|_)+\/([A-Z]|[a-z]|[0-9]|_)+/$object,image,media,other,redirect=32x32-transparent.png
+!#if ( adguard_ext_opera )
+list-kr.github.io###ListKRFilterDetectorOpera
+!#endif
+!#if ( adguard_ext_android_cb )
+list-kr.github.io###ListKRFilterDetectorCon
 !#endif
