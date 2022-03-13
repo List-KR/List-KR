@@ -28,9 +28,9 @@
 !#endif
 
 !#if ( adguard_app_android || adguard_app_ios )
-!#include /filters/allowlist_mobile_app.txt
-!#include /filters/mobile_app.txt
-!#include /filters/mobile_specific.txt
+!#include /filters/mobile/allowlist_mobile_app.txt
+!#include /filters/mobile/mobile_app.txt
+!#include /filters/mobile/mobile_specific.txt
 !#endif
 
 !#if ( adguard_app_windows )
