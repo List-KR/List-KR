@@ -6,70 +6,70 @@
 ! License: https://github.com/List-KR/List-KR/blob/master/LICENSE
 !
 
-!#include /filters/adserver.txt
-!#include /filters/adserver_firstparty.txt
-!#include /filters/general_elemhide.txt
-!#include /filters/general_url.txt
-!#include /filters/specific.txt
-!#include /filters/unstable_connection.txt
-!#include /filters/allowlist.txt
+!#include filters/adserver.txt
+!#include filters/adserver_firstparty.txt
+!#include filters/general_elemhide.txt
+!#include filters/general_url.txt
+!#include filters/specific.txt
+!#include filters/unstable_connection.txt
+!#include filters/allowlist.txt
 
-!#if ( adguard_ext_firefox || adguard_app_windows || adguard_app_mac || adguard_app_android || adguard_ext_chromium || adguard_ext_edge )
-!#include /filters/allowlist_stealth.txt
+!#if (adguard_ext_firefox || adguard_app_windows || adguard_app_mac || adguard_app_android || adguard_ext_chromium || adguard_ext_edge)
+!#include filters/allowlist_stealth.txt
 !#endif
 
-!#if ( !adguard_app_ios && !adguard_ext_android_cb && !adguard_ext_safari )
-!#include /filters/extended_css.txt
-!#include /filters/general_extension.txt
-!#include /filters/antiadblock.txt
+!#if (!adguard_app_ios && !adguard_ext_android_cb && !adguard_ext_safari)
+!#include filters/extended_css.txt
+!#include filters/general_extension.txt
+!#include filters/antiadblock.txt
 !#endif
 
-!#if ( adguard_app_ios || adguard_ext_android_cb || adguard_ext_safari )
-!#include /filters/contentblocker.txt
+!#if (adguard_app_ios || adguard_ext_android_cb || adguard_ext_safari)
+!#include filters/contentblocker.txt
 !#endif
 
-!#if ( adguard_app_android || adguard_app_ios )
-!#include /filters/mobile/allowlist_mobile_app.txt
-!#include /filters/mobile/mobile_app.txt
-!#include /filters/mobile/mobile_specific.txt
+!#if (adguard_app_android || adguard_app_ios)
+!#include filters/mobile/allowlist_mobile_app.txt
+!#include filters/mobile/mobile_app.txt
+!#include filters/mobile/mobile_specific.txt
 !#endif
 
-!#if ( adguard_app_windows )
-!#include /filters/desktop/windows_app.txt
+!#if (adguard_app_windows)
+!#include filters/desktop/windows_app.txt
 !#endif
 
-!#if ( adguard_app_mac )
-!#include /filters/desktop/macos_app.txt
+!#if (adguard_app_mac)
+!#include filters/desktop/macos_app.txt
 !#endif
 
 ! list-kr.github.io Detector
-!#if ( adguard_app_windows )
+!#if (adguard_app_windows)
 list-kr.github.io###ListKRFilterDetectorWin
 !#endif
-!#if ( adguard_app_mac )
+!#if (adguard_app_mac)
 list-kr.github.io###ListKRFilterDetectorMac
 !#endif
-!#if ( adguard_app_android )
+!#if (adguard_app_android)
 list-kr.github.io###ListKRFilterDetectorAnd
 !#endif
-!#if ( adguard_app_ios )
+!#if (adguard_app_ios)
 list-kr.github.io###ListKRFilterDetectoriOS
 !#endif
-!#if ( adguard_ext_safari )
+!#if (adguard_ext_safari)
 list-kr.github.io###ListKRFilterDetectorSafari
 !#endif
-!#if ( adguard_ext_chromium )
+!#if (adguard_ext_chromium)
 list-kr.github.io###ListKRFilterDetectorChrome
 !#endif
-!#if ( adguard_ext_firefox )
+!#if (adguard_ext_firefox)
 list-kr.github.io###ListKRFilterDetectorFirefox
 !#endif
-!#if ( adguard_ext_edge )
+!#if (adguard_ext_edge)
 list-kr.github.io###ListKRFilterDetectorEdge
 !#endif
-!#if ( adguard_ext_opera )
+!#if (adguard_ext_opera)
 list-kr.github.io###ListKRFilterDetectorOpera
 !#endif
-!#if ( adguard_ext_android_cb )
+!#if (adguard_ext_android_cb)
 list-kr.github.io###ListKRFilterDetectorCon
 !#endif

@@ -44,18 +44,18 @@ ggoorr.net###content > div.bd > center
 ggoorr.net##.content > div.bd > div.clear > div > center
 ggoorr.net##.side > .widget_div > .content > center
 ggoorr.net##.content > div.bd > div > center
-!#if ( adguard_ext_firefox )
+!#if (adguard_ext_firefox)
 @@||ppss.kr/wp-content/uploads/
 /:\/\/ppss\.kr\/([A-Z]|[a-z]|[0-9]|_)+/$object,image,media,other,redirect=32x32-transparent.png
 /:\/\/ppss\.kr\/([A-Z]|[a-z]|[0-9]|_)+\/([A-Z]|[a-z]|[0-9]|_)+/$object,image,media,other,redirect=32x32-transparent.png
 !#endif
-!#if ( adguard_ext_firefox )
+!#if (adguard_ext_firefox)
 @@/:\/\/([a-z]|[0-9])+\.inven\.co\.kr\/([A-Z]|[a-z]|[0-9]|_)+\/([A-Z]|[a-z]|[0-9]|_)+\.ps/
 @@/:\/\/([a-z]|[0-9])+\.inven\.co\.kr\/([A-Z]|[a-z]|[0-9]|_)+\.ps/
 /:\/\/([a-z]|[0-9])+\.inven\.co\.kr\/([A-Z]|[a-z]|[0-9]|_)+\./$object,image,media,other,redirect=32x32-transparent.png
 /:\/\/([a-z]|[0-9])+\.inven\.co\.kr\/([A-Z]|[a-z]|[0-9]|_)+\/([A-Z]|[a-z]|[0-9]|_)+\./$object,image,media,other,redirect=32x32-transparent.png
 !#endif
-!#if ( adguard_ext_firefox )
+!#if (adguard_ext_firefox)
 @@/:\/\/ygosu\.com\/([A-Z]|[a-z]|[0-9]|_)+\/([A-Z]|[a-z]|[0-9]|_)+ps/
 @@/:\/\/ygosu\.com\/([A-Z]|[a-z]|[0-9]|_)+ps/
 /:\/\/ygosu\.com\/([A-Z]|[a-z]|[0-9]|_)+/$object,image,media,other,redirect=32x32-transparent.png
