@@ -12,6 +12,7 @@
 @@||1412.rest^$generichide
 !
 !
+
 @@||adblockanalytics.com^$xmlhttprequest,domain=1412.rest
 @@||tv.kakao.com/embed/player/image/ads.png$domain=tv.kakao.com|play-tv.kakao.com|entertain.daum.net
 @@||videoads.kakao.com/adserver/api/v2/vmap$domain=tv.kakao.com|play-tv.kakao.com|entertain.daum.net

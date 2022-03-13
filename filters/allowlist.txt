@@ -1,0 +1,6 @@
+@@||api-ao-list.adison.co^$app=com.nhn.android.webtoon
+@@||api-ao-list.adison.co^$app=com.nhn.android.nbooks
+@@||adimg3.search.naver.net/adpost/adpost_show_ads_min.js$domain=search.danawa.com
+@@||ad-img.ebaykorea.com/ADS/$image,domain=auction.co.kr
+@@||t1.daumcdn.net/adfit/static/kp.js$domain=pindirectshop.com
+@@||ssl.pstatic.net/adimg3.search/adpost/js/adpost_show_ads_v2.min.js$domain=m.clien.net|m.danawa.com|search.danawa.com
