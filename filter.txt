@@ -2,7 +2,7 @@
 ! Title: List-KR
 ! Homepage: https://list-kr.github.io
 ! License: https://github.com/List-KR/List-KR/blob/master/LICENSE
-! Expires: 1 hour
+! Expires: 1 day
 ! Version: 2022.0313.1
 
 !#include /filters/adserver.txt
