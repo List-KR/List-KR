@@ -30,3 +30,5 @@ ppomppu.co.kr#?#ul#new_bbs_best > li > a.title span[style="color:#1264b1;"]:upwa
 m.bobaedream.co.kr#?#div[style^="display:flex;"] > div[id^="div-gpt-ad-"]:upward(1)
 bobaedream.co.kr#?#tr.best > td a[href*="bobaedream.co.kr/event/event_list.php?"]:upward(2)
 orbi.kr#?#a[class="tag"][href^="/list/tag/"][-ext-contains="#제휴사공지"]:upward(li.notice)
+namu.wiki##article>p+div div[id]:has(div[id]:has(div[id]>ul>li,div>a[href*="/w/%EB%B6%84%EB%A5%98:"]))~div:has(img[src*="//w.namu.la/s/"])
+namu.wiki##article>p+div div[id]:has(div[id]:has(div[id]>ul>li,div>a[href*="/w/%EB%B6%84%EB%A5%98:"]))~div:has(img[src*="//w.namu.la/s/"],img[src^="data:image/png;base64,"])
