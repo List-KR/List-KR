@@ -10,12 +10,29 @@ This filter is focused on Korean websites, and it is recommended to use this fil
 If you want to block tracker or anti-rightclick scripts, please enable AdGuard Tracking Protection filter, AdGuard URL Tracking filter or AdGuard Annoyances filter.
 
 ## How to use
-In the program you would like to use, use the following url to subscribe to.
+In the program you would like to use, use the following url to subscribe to or import.
 
-#### How to contribute
-Welcome! If you found unblocked ads, ads leftovers or any other objects that are blocked in this filter, please report it in [Issues](https://github.com/List-KR/List-KR/issues). When reporting issues, it would be helpful to include the exact url where ads can be found and the description of its location. To suggest a rule to block the object is even better.
+**List-KR**:
+```
+https://github.com/List-KR/List-KR/raw/master/filter.txt
+```
+**List-KR DNS**:
+```
+https://github.com/List-KR/List-KR/raw/master/filter_DNS.txt
+```
 
-Or, you can open a pull request and become a maintainer of List-KR.
+
+## List-KR Script and List-KR Extension
+- **[List-KR Script](https://github.com/List-KR/List-KR-Script)** blocks complicated advertisement to block on namu.wiki, website protected by ad-shield, etc.
+- **[List-KR Extension](https://github.com/List-KR/List-KR-Extension)** blocks low-quality user-made advertisement.
+
+
+## Support
+- [Create a GitHub Issue](https://github.com/List-KR/List-KR/issues/new/choose)
+- [Send an Email](https://github.com/List-KR/List-KR/issues/223)
+
+## How to contribute
+Please read CONTRIBUTING.md.
 
 ## License
 This filter is licensed under GNU GPLv3.
