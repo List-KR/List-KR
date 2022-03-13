@@ -1,3 +1,4 @@
+||adop.cc^$third-party
 ||stax.kr^$third-party
 ||megadata.co.kr^
 ||impactify.io^$third-party
