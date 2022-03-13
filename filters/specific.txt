@@ -1,3 +1,5 @@
+||itcm.co.kr/files/thumbnails
+itcm.co.kr##.top-owl.owl-carousel
 ||adshort.co/toolfp.js
 ||api.popin.cc/iframe/piuid.html
 ||api.popin.cc/popin_discovery
@@ -246,7 +248,7 @@ bobaedream.co.kr##.left_con_last
 arca.live##div.ad
 ||arca.live/static/assets/js/pagead.min.js
 m.clien.net##.shop_naver
-clien.net##div[class$="_ad"]
+itcm.co.kr,clien.net##div[class$="_ad"]
 clien.net###hongboInfoList
 m.ruliweb.com##.fixed_ad_wrapper
 m.ruliweb.com##div[id^="mo_ad_"]
