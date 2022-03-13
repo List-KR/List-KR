@@ -1,0 +1,17 @@
+mule.co.kr#$#div.section-leftmiddle-topmiddle.cf { width: 100% !important; }
+coupang.com#$#li.search-product__ad-badge { height: 0px !important; width: 0px !important; visibility: hidden !important; }
+ruliweb.com#$##board_top > div > .top_best.best_list { width: 100% !important; }
+berryjam.co.kr#$#.goods_list_tit { padding-top: 0px !important; }
+community.rememberapp.co.kr#$#div.sc-64vosk-0.jIkGEl { margin-bottom: 10px !important; }
+ruliweb.com#$#.user_view { width: 100%!important; }
+inven.co.kr#$#body { background-image: none!important; }
+inven.co.kr#$#section.right-menu { margin-top: 0px!important; }
+tgd.kr#$##header-menu-right { float: right!important; }
+web.humoruniv.com#$##wrap_winfo { width: 100%!important; }
+web.humoruniv.com#$##wrap_ctgr_new { width: 100%!important; }
+quasarzone.com#$#div#con-body { padding-top: 60px!important; }
+etoland.co.kr#$#.list_content { width: 100%!important; }
+ppomppu.co.kr#$#.top-keyword { width: 100%!important; }
+ruliweb.com#$#.user_view { width: 100%!important; }
+hankyung.com#$#.module_wrap.poll { width: 100%!important; }
+orbi.kr#$#.global-top { top: 0px!important; }

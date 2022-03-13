@@ -10,8 +10,8 @@
 !#include filters/adserver_firstparty.txt
 !#include filters/general_elemhide.txt
 !#include filters/general_url.txt
-!#include filters/specific.txt
-!#include filters/unstable_connection.txt
+!#include filters/specific_URL.txt
+!#include filters/specific_ELEMHIDE.txt
 !#include filters/allowlist.txt
 
 !#if (adguard_ext_firefox || adguard_app_windows || adguard_app_mac || adguard_app_android || adguard_ext_chromium || adguard_ext_edge)
@@ -19,13 +19,19 @@
 !#endif
 
 !#if (!adguard_app_ios && !adguard_ext_android_cb && !adguard_ext_safari)
-!#include filters/extended_css.txt
+!#include filters/specific_CSS.txt
+!#include filters/extended_css_ELEMHIDE.txt
+!#include filters/extended_css_INJECTION.txt
 !#include filters/general_extension.txt
 !#include filters/antiadblock.txt
 !#endif
 
 !#if (adguard_app_ios || adguard_ext_android_cb || adguard_ext_safari)
 !#include filters/contentblocker.txt
+!#endif
+
+!#if (adguard_ext_firefox || adguard_app_windows || adguard_app_mac || adguard_app_mac)
+!#include filters/html_filtering.txt
 !#endif
 
 !#if (adguard_app_android || adguard_app_ios)

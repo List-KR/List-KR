@@ -2,7 +2,6 @@ namu.wiki#?#article > p + div div[id]:has(div[id]:has(div[id] > ul > li, div > a
 m.dcinside.com#?#section.gall-lst-group > ul > li:has(> div.detail-top-lnk > a[href*="//addc.dcinside.com/"].lt > span:contains(AD))
 gall.dcinside.com#?#table.gall_list > tbody > tr:has(> td.gall_subject > b:contains(AD)):has(> td.gall_tit > a[href*="//addc.dcinside.com/"])
 mule.co.kr#?##section-main.cf > div[class^="section-"] > div[class^="section-"] > div:has( > a[href][alt][target="_blank"] > img[alt][src])
-mule.co.kr#$?#.section-lefttop-center:has(> .mule-today) { width: 100% !important; }
 postshare.co.kr#?#pre > div[style]:has(> iframe[src*=".ad4989.co.kr/"])
 postshare.co.kr#?#.news_con > div[align]:has(> a[href*="//coupa.ng/"] > img[src*="//img.knowledgepower.co.kr/uploads/cpcbanner/"])
 postshare.co.kr#?#pre > div[id]:has(> div[align] > a > img[src*="//img.postshare.co.kr/images/banner/"])
