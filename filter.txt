@@ -18,7 +18,7 @@
 !#include filters/allowlist_stealth.txt
 !#endif
 
-!#if (!adguard_app_ios && !adguard_ext_android_cb && !adguard_ext_safari)
+!#if (!adguard_ext_android_cb)
 !#include filters/specific_CSS.txt
 !#include filters/extended_css_ELEMHIDE.txt
 !#include filters/extended_css_INJECTION.txt
@@ -26,11 +26,11 @@
 !#include filters/antiadblock.txt
 !#endif
 
-!#if (adguard_app_ios || adguard_ext_android_cb || adguard_ext_safari)
+!#if (adguard_ext_android_cb)
 !#include filters/contentblocker.txt
 !#endif
 
-!#if (adguard_ext_firefox || adguard_app_windows || adguard_app_mac || adguard_app_mac)
+!#if (adguard_ext_firefox || adguard_app_windows || adguard_app_mac || adguard_app_android)
 !#include filters/html_filtering.txt
 !#endif
 
