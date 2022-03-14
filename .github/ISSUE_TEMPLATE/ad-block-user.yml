@@ -1,0 +1,72 @@
+name: user-made Advertisement
+description: Create new request that blocks an user-made advertisement.
+title: "ADU: "
+labels: ["advertisement user"]
+body:
+
+  - type: textarea
+    id: issue_url
+    attributes:
+      label: "URL"
+      description: "Please write a URL (or URLs) that has an same issue and do NOT attach any file."
+    validations:
+      required: true
+  
+  - type: textarea
+    id: filters
+    attributes:
+      label: "FILTERS"
+      description: Please write your subscribed filters. It is important that reproduce your issue.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: browser
+    attributes:
+      label: "Browser"
+      description: "What is a browser (or browsers) that the issue is occurred in?"
+      multiple: true
+      options:
+        - Mozilla Firefox
+        - Google Chrome
+        - Microsoft Edge
+        - Naver Whale
+        - Apple Safari
+        - Samsung Internet
+        - Opera
+        - Vivaldi
+        - Brave
+        - (Other)
+    validations:
+      required: true
+      
+  - type: dropdown
+    id: adblocker
+    attributes:
+      label: "Ad-Blocker"
+      description: "What is an ad-blocker that the issue is occurred with?"
+      multiple: true
+      options:
+        - AdGuard Browser Extension
+        - AdGuard for Windows
+        - AdGuard for Android
+        - AdGuard for iOS/iOS Pro
+        - AdGuard for Mac
+        - AdGuard for Safari
+        - AdGuard Content Blocker
+        - AdGuard DNS
+        - uBlock Origin
+        - Unicorn PRO for Windows
+        - Unicorn PRO for Android
+        - Unicorn PRO for iPhone
+        - Unicorn PRO for Mac
+        - (Other)
+    validations:
+      required: true
+
+  - type: textarea
+    id: comment
+    attributes:
+      label: "Comment"
+    validations:
+      required: false

@@ -1,0 +1,1 @@
+cafe.naver.com#?#table[role="presentation"] > tbody > tr > td > div:has(> div > img[src="https://cafeskthumb-phinf.pstatic.net/MjAyMjAzMTNfMjAx/MDAxNjQ3MTM4MzI5NDMy.pGLuGV5F7yD7zw7YYqYU3N6JpRd2aF4vuT8ug8JUjj8g.fAVWJMPHj2MXf19t2uqwihrSkAfwbHkKFsH0abQzuzog.PNG/main1.png?type=w1080"][id^="userImg"])
