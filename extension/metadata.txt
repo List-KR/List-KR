@@ -1,1 +1,1 @@
-!#include /extension/naver/metadata.txt
+!#include extension/naver/metadata.txt
