@@ -1,1 +1,0 @@
-!#include extension/naver/cafe/anycallusershow/metadata.txt

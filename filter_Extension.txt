@@ -8,4 +8,11 @@
 ! Version must be UTC format.
 !
 
-!#include extension/metadata.txt
+!#include extension/naver/cafe/anycallusershow/specific_ELEMHIDE.txt
+!#include extension/naver/cafe/anycallusershow/specific_URL.txt
+
+!#if (!adguard_ext_android_cb)
+!#include extension/naver/cafe/anycallusershow/extended_css_ELEMHIDE.txt
+!#include extension/naver/cafe/anycallusershow/extended_css_INJECTION.txt
+!#include extension/naver/cafe/anycallusershow/specific_CSS.txt
+!#endif
