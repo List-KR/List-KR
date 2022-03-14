@@ -1,6 +1,6 @@
 ! Title: List-KR Extension
 ! Description: List-KR Extension blocks low-quality user-made advertisement.
-! Version: 2022.0313.1
+! Version: 2022.0314.2
 ! Expires: 1 day
 ! Homepage: https://github.com/List-KR/List-KR
 ! License: https://github.com/List-KR/List-KR/blob/master/LICENSE
