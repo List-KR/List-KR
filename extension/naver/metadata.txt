@@ -1,1 +1,1 @@
-!#include cafe/metadata.txt
+!#include /extension/naver/cafe/metadata.txt

@@ -1,1 +1,1 @@
-!#include anycallusershow/metadata.txt
+!#include /extension/naver/cafe/anycallusershow/metadata.txt
