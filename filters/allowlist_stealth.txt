@@ -1,3 +1,4 @@
+@@||t1.daumcdn.net/cafeattach/$stealth
 @@||pstatic.net^$stealth,media,image,other
 @@||player*.studiouniversal.net/video/$stealth,domain=noonoo.tv
 @@||dcinside.co.kr/viewimage.php?$media,image,stealth
