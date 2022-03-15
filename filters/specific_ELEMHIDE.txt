@@ -1,3 +1,4 @@
+busan.com##.wcms_ad
 1412.rest###plusad_widget_wrap
 slrclub.com##ins[class^="adsbyadop_"]
 itcm.co.kr##.top-owl.owl-carousel

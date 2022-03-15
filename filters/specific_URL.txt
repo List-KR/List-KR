@@ -1,3 +1,4 @@
+||was.livere.me/api/ad|
 ||itcm.co.kr/files/thumbnails
 ||adshort.co/toolfp.js
 ||api.popin.cc/iframe/piuid.html
