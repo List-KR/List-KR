@@ -1,3 +1,4 @@
+||bloter.net/data/blt/banner/
 ||was.livere.me/api/ad|
 ||itcm.co.kr/files/thumbnails
 ||adshort.co/toolfp.js

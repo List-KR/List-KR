@@ -113,7 +113,7 @@ newspim.com##aside.side_wrap > div[style^="height:"]
 newspim.com##.topbanner
 dcinside.com###ad-layer
 namu.wiki##iframe[src*="//arca.live/static/ad/"]
-mosen.mt.co.kr,hinfomax.kr,hinfomax.co.kr,pressian.com,kukinews.com##.banner
+bloter.net,mosen.mt.co.kr,hinfomax.kr,hinfomax.co.kr,pressian.com,kukinews.com##.banner
 mmzone.co.kr###main_premium_spon_block
 mmzone.co.kr##div[id$="_ad"]
 2cpu.co.kr##a[href*="./bbs/banner_link.php?"]
