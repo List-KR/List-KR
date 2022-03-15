@@ -1,3 +1,4 @@
+###livereAdWrapper
 ##tenping.adsbytenping
 ##div[class^="__staxbn"]
 ##img[src*="//static.stax.kr/resource/banner/"]
