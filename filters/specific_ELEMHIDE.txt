@@ -178,7 +178,7 @@ ppomppu.co.kr##.right > .board-preview.board-ppomppu
 bobaedream.co.kr##.left_con_last
 arca.live##div.ad
 m.clien.net##.shop_naver
-itcm.co.kr,clien.net##div[class$="_ad"]
+dmitory.com,itcm.co.kr,clien.net##div[class$="_ad"]
 clien.net###hongboInfoList
 m.ruliweb.com##.fixed_ad_wrapper
 m.ruliweb.com##div[id^="mo_ad_"]
