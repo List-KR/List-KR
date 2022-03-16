@@ -1,3 +1,4 @@
+pann.nate.com##.sidearea.talktalk > .sideiframe
 thisisgame.com##div[id^="ad-"]
 thisisgame.com###divMsnAD
 thisisgame.com##iframe[src^="//ad"][src*=".thisisgame.com/ad"]

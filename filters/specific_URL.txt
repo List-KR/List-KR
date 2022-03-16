@@ -1,3 +1,4 @@
+||shop.nate.com/shopbox/shopbox.htm$domain=pann.nate.com
 /(http|https):\/\/file\.thisisgame\.com\/upload\/nboard\/news\/[0-9]{4}\/[0-9]{2}\/[0-9]{2}\/[0-9]{14}_[0-9]{4}/
 ||dschool.co.kr//uploadedFiles/ADVERTISE/
 ||t1.daumcdn.net/tistory_admin/static/revenue/dable.png
