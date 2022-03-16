@@ -1,3 +1,4 @@
+dschool.co.kr##a[href^="/ws/include/banner_link.asp?"][target="_blank"]
 ddanzi.com##.add_display
 redflame.co.kr###sidebar > div[style="padding:15px 18px; width:300px; height:250px; margin-bottom:8px;"].sidebar_contents_box
 redflame.co.kr##section#content > div[style="height:90px; width:728px; padding:0px; margin:0 0 8px 0;"].main_contents_box
