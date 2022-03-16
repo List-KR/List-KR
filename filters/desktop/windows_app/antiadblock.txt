@@ -1,0 +1,1 @@
+||videoads.kakao.com/adserver/api/v*/vmap$redirect=noopvmap-1.0,app=PotPlayer.exe
