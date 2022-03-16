@@ -1,3 +1,5 @@
+||t1.daumcdn.net/tistory_admin/static/revenue/dable.png
+||t1.daumcdn.net/tistory_admin/static/revenue/adfit.svg
 ||koreaminecraft.net/serverad/$document
 ||manatoki*.net/tokinbtoki/*.gif
 ||bloter.net/data/blt/banner/
