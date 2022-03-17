@@ -1,3 +1,6 @@
+||bodnara.co.kr/advert/
+||bodnara.co.kr/advert/click.php$document
+||img.kbench.com/banner/
 ||dothome.co.kr/ad/ad_windowsforum.php$document
 ||dothome.co.kr/advertisement/
 ||shop.nate.com/shopbox/shopbox.htm$domain=pann.nate.com
