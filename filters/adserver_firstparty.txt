@@ -1,3 +1,5 @@
+||adimage.hankookilbo.com^
+||ad.hankookilbo.com^
 ||adimg*.search.naver.net^
 ||ad*.thisisgame.com^
 ||adv.bandi.so^

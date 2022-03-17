@@ -1,3 +1,4 @@
+hankookilbo.com##.side-ad-box
 nownews.seoul.co.kr##.naside > div[style*="width:"][style*="height:"]
 nownews.seoul.co.kr##.naside > div[style].Rad
 nownews.seoul.co.kr##.ncontent > div[style]:not([class])
@@ -160,7 +161,7 @@ inven.co.kr###inven_reservation_box
 inven.co.kr##.menuGroup.imt_banner
 inven.co.kr##.banner_box
 inven.co.kr##iframe[src*="//zicf.inven.co.kr/RealMedia/ads/"]
-newspim.com,inven.co.kr##div[class^="ad-"]
+hankookilbo.com,newspim.com,inven.co.kr##div[class^="ad-"]
 inven.co.kr##section[class^="ad-"]
 inven.co.kr###topskyAd
 tgd.kr##div[style*="background:url(https://upload.tgd.kr/banner/320x50n.jpg)"]
@@ -181,7 +182,7 @@ coolenjoy.net##.simple_banner_wrap
 coolenjoy.net##img[src^="https://photo.coolenjoy.net/banner/"]
 quasarzone.com##div[class^="main-"][class$="-banner"]
 quasarzone.com##.top-banner
-quasarzone.com##div[class^="banner-"]
+hankookilbo.com,quasarzone.com##div[class^="banner-"]
 okky.kr##img[src^="//file.okky.kr/banner/"]
 m.todayhumor.co.kr##.ad_box_div
 etoland.co.kr##ul.board_list > li.subject.ad_subject
