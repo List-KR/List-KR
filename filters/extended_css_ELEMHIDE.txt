@@ -1,3 +1,4 @@
+meeco.kr#?#section#cCon > div[style].xe-widget-wrapper:has(> div[style] > div > div[style] > div[style] > .c_widget > div.w_list > ul.page_unit > li > div.w_w2_con > a[style][href^="/Enterprise/"])
 koreaminecraft.net#?#table.table-divider > tbody > tr.notice:has(> td.title > a > strong[style]:contains([프리미엄]))
 koreaminecraft.net#?#.fancybox-wrap:has(> .fancybox-skin > div > div > #dialoga.wst_ad_badge)
 namu.wiki#?#article > p + div div[id]:has(div[id]:has(div > ul > li, div > a[href*="/w/%EB%B6%84%EB%A5%98:"])) ~ div:has(img[src*="//w.namu.la/s/"], img[src^="data:image/png;base64,"])
