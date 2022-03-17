@@ -1,3 +1,5 @@
+it.chosun.com###POWER_LINK_NAVER
+it.chosun.com##div[id^="mobonDivBanner_"]
 chosun.com##.dfpAd
 chosun.com##div[class~="flex-chain-wrapper"][class*="box--bg-grey-"][class~="box--hidden-sm"][class~="box--hidden-md-only"]
 chosun.com##.arcad-wrapper
