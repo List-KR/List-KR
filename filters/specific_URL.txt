@@ -1,3 +1,4 @@
+||hani.co.kr/section-homepage/svc3/js/navtivead.js
 ||seoul.co.kr/ad/*.php
 ||seoul.co.kr/ad/*.html
 ||realty.chosun.com/RealtyCommon/Promotion*.html
