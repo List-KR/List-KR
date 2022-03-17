@@ -1,3 +1,6 @@
+weekly.chosun.com##iframe[src^="/common/inc_adver"]
+weekly.chosun.com##img[src^="/images/banner/"][onclick^="window.open('/common/inc/adver.asp'"]
+weekly.chosun.com##iframe[src^="/common/inc/right_banner_roll"][src*=".asp"]
 it.chosun.com###POWER_LINK_NAVER
 it.chosun.com##div[id^="mobonDivBanner_"]
 chosun.com##.dfpAd
