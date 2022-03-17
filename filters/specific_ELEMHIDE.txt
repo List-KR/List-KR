@@ -1,3 +1,6 @@
+nownews.seoul.co.kr##.naside > div[style*="width:"][style*="height:"]
+nownews.seoul.co.kr##.naside > div[style].Rad
+nownews.seoul.co.kr##.ncontent > div[style]:not([class])
 en.seoul.co.kr##[style]#withpang_p
 seoul.co.kr##iframe[src^="/ad/"]
 realty.chosun.com##iframe[src*="//realty.chosun.com/RealtyCommon/Promotion"][src$=".html"]

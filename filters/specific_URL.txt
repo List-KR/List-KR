@@ -1,3 +1,4 @@
+||seoul.co.kr/ad/*.php
 ||seoul.co.kr/ad/*.html
 ||realty.chosun.com/RealtyCommon/Promotion*.html
 ||monthly.chosun.com/common/inc/main_right_banner.asp
