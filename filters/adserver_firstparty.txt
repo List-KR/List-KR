@@ -1,3 +1,5 @@
+||ad.kmib.co.kr^
+||ads.kmib.co.kr^
 ||adimage.hankookilbo.com^
 ||ad.hankookilbo.com^
 ||adimg*.search.naver.net^
