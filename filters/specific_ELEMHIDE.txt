@@ -1,3 +1,7 @@
+hwbattle.com##div[id^="Partner"]
+hwbattle.com###aside > #partner
+hwbattle.com##div[id$="_sponser"]
+hwbattle.com##div[id^="Aside"][id$="Event"]
 bodnara.co.kr##iframe[src^="/advert/advert.php"]
 m.naver.com###MM_aside_smartad_container
 windowsforum.kr##a[href^="https://www.dothome.co.kr/ad/"][target="new"]
@@ -79,7 +83,7 @@ pcmap.place.naver.com###_pcmap_list_scroll_container > ul > li[data-laim-exp-id=
 map.kakao.com##ul[id="info.search.place.list"] > li.AdItem
 playcraft.tistory.com##.module.module_plugin > a[href^="https://coupa.ng/"]
 dcnewsj.joins.com##div[class^="ab_ad"]
-mbn.co.kr##div[id$="_banner"]
+hwbattle.com,mbn.co.kr##div[id$="_banner"]
 prod.danawa.com##div[class$="_ad_prodlist"]
 epnc.co.kr##div[id^="floating_banner_"]
 epnc.co.kr##div[onmousedown*="'event_label': 'AD'"]
