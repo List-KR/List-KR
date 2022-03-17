@@ -1,3 +1,5 @@
+||monthly.chosun.com/common/inc/main_right_banner.asp
+||monthly.chosun.com/images/banner/
 ||weekly.chosun.com/common/inc_adver/
 ||weekly.chosun.com/common/inc/right_banner_roll*.asp
 ||weekly.chosun.com/images/banner/
