@@ -1,3 +1,4 @@
+realty.chosun.com##iframe[src*="//realty.chosun.com/RealtyCommon/Promotion"][src$=".html"]
 monthly.chosun.com##img[src^="/images/banner/"]
 monthly.chosun.com##iframe[src="/common/inc/main_right_banner.asp"]
 weekly.chosun.com##iframe[src^="/common/inc_adver"]
