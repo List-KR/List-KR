@@ -1,3 +1,7 @@
+chosun.com##.dfpAd
+chosun.com##div[class~="flex-chain-wrapper"][class*="box--bg-grey-"][class~="box--hidden-sm"][class~="box--hidden-md-only"]
+chosun.com##.arcad-wrapper
+chosun.com##div[class^="layout__article-header"] > div[class^="flex-chain-wrapper"]
 hwbattle.com##div[id^="Partner"]
 hwbattle.com###aside > #partner
 hwbattle.com##div[id$="_sponser"]
