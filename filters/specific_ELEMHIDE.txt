@@ -1,3 +1,4 @@
+bodnara.co.kr##iframe[src^="/advert/advert.php"]
 m.naver.com###MM_aside_smartad_container
 windowsforum.kr##a[href^="https://www.dothome.co.kr/ad/"][target="new"]
 pann.nate.com##.sidearea.talktalk > .sideiframe
