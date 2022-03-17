@@ -1,3 +1,4 @@
+seoul.co.kr##iframe[src^="/ad/"]
 realty.chosun.com##iframe[src*="//realty.chosun.com/RealtyCommon/Promotion"][src$=".html"]
 monthly.chosun.com##img[src^="/images/banner/"]
 monthly.chosun.com##iframe[src="/common/inc/main_right_banner.asp"]
@@ -195,7 +196,7 @@ ppomppu.co.kr##.right > .board-preview.board-ppomppu
 bobaedream.co.kr##.left_con_last
 arca.live##div.ad
 m.clien.net##.shop_naver
-dmitory.com,itcm.co.kr,clien.net##div[class$="_ad"]
+seoul.co.kr,dmitory.com,itcm.co.kr,clien.net##div[class$="_ad"]
 clien.net###hongboInfoList
 m.ruliweb.com##.fixed_ad_wrapper
 m.ruliweb.com##div[id^="mo_ad_"]
