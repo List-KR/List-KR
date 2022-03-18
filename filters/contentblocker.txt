@@ -12,6 +12,7 @@
 @@||1412.rest^$generichide
 !
 !
+@@||avjamak.net^$generichide
 ||1412.rest/addons/*/adblockDetector.js
 @@||adblockanalytics.com^$xmlhttprequest,domain=1412.rest
 @@||tv.kakao.com/embed/player/image/ads.png$domain=tv.kakao.com|play-tv.kakao.com|entertain.daum.net
