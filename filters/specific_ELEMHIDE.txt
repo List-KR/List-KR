@@ -1,3 +1,4 @@
+bloomingbit.io##.promotion
 money.hankyung.com,stock.hankyung.com##aside[id^="ad_"]
 segye.com##div[id^="wps_layout"][data-desc="텍스트광고"][data-box-file^="/news/box/ad"]
 avjamak.net##.widget-box.widget-img

@@ -1,3 +1,4 @@
+||bloomingbit-media.*.amazonaws.com/real/banner/
 ||hankyung.com/js/ad_top.js
 ||static.hankyung.com/img/logo/spr-footer-sponsor.svg
 ||img.segye.com/static/*_segye/resources/js/ad/
