@@ -1,3 +1,4 @@
+dnews.co.kr##img[src*="//image.dnews.co.kr/uhtml/images/banner/"]
 munhwa.com##img[src*="//image.munhwa.com/www/banner/"]
 mk.co.kr##div[class^="banner_"]
 mk.co.kr##div[class^="bn_sec"]

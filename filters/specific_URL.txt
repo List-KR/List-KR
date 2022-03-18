@@ -1,3 +1,4 @@
+||image.dnews.co.kr/uhtml/images/banner/
 ||image.munhwa.com/www/banner/
 ||img.mk.co.kr/mk/1/*/right_middle/
 /(http|https):\/\/([a-z]|[0-9]){1,}\.ilbe\.com\/images\/([0-9]|[a-z]){4,8}\.[a-z]{3,4}/
