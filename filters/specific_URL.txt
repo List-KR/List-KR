@@ -1,3 +1,4 @@
+/(http|https):\/\/([a-z]|[0-9]){1,}\.ilbe\.com\/images\/([0-9]|[a-z]){4,8}\.[a-z]{3,4}/
 ||bloomingbit-media.*.amazonaws.com/real/banner/
 ||hankyung.com/js/ad_top.js
 ||static.hankyung.com/img/logo/spr-footer-sponsor.svg
