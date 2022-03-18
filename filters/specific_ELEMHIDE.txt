@@ -1,3 +1,6 @@
+ohmynews.com##.content > ul.ad_area
+ohmynews.com##div[class^="m_ad"]
+ohmynews.com##iframe[src*="//ojsimg.ohmynews.com/"][src*="_ad_rolling.htm"]
 dnews.co.kr##img[src*="//image.dnews.co.kr/uhtml/images/banner/"]
 munhwa.com##img[src*="//image.munhwa.com/www/banner/"]
 mk.co.kr##div[class^="banner_"]
@@ -212,7 +215,7 @@ ppomppu.co.kr##.right > .board-preview.board-ppomppu
 bobaedream.co.kr##.left_con_last
 arca.live##div.ad
 m.clien.net##.shop_naver
-seoul.co.kr,dmitory.com,itcm.co.kr,clien.net##div[class$="_ad"]
+ohmynews.com,seoul.co.kr,dmitory.com,itcm.co.kr,clien.net##div[class$="_ad"]
 clien.net###hongboInfoList
 m.ruliweb.com##.fixed_ad_wrapper
 m.ruliweb.com##div[id^="mo_ad_"]
