@@ -1,3 +1,4 @@
+||stock.hankyung.com/js/ad_top.js
 ||static.hankyung.com/img/logo/spr-footer-sponsor.svg
 ||img.segye.com/static/*_segye/resources/js/ad/
 ||img.segye.com/static/*_segye/resources/js/google_AD.js
