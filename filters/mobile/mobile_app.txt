@@ -1,3 +1,4 @@
+||img.samsungapps.com/display^$app=com.samsung.android.game.gamehome
 ||adlibr.com^
 ||app.dcinside.com/api/_ad_search_link
 ||ad-display.s.zigzag.kr^
