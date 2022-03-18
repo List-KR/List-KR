@@ -1,3 +1,4 @@
+||nad.tf.co.kr^
 ||adc.ohmynews.com^
 ||ad.kmib.co.kr^
 ||ads.kmib.co.kr^

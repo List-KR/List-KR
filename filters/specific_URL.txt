@@ -1,3 +1,6 @@
+||tf.co.kr/public/layout/*/top_menu_bar_*.php
+||tf.co.kr/public/ad/
+||img.tf.co.kr/img/tfad/
 ||ojsimg.ohmynews.com/*_ad_rolling.htm
 ||ojsfile.ohmynews.com/ADSVC_FILE/
 ||image.dnews.co.kr/uhtml/images/banner/

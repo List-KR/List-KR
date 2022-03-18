@@ -1,3 +1,7 @@
+tf.co.kr##iframe[src*="tf.co.kr/public/layout/"][src*="/top_menu_bar_"][src*=".php"]
+tf.co.kr##iframe[src*="//www.tf.co.kr/public/ad/"]
+tf.co.kr##iframe[src*="//nad.tf.co.kr/"]
+tf.co.kr##div[id$="_AD"]
 ohmynews.com##.content > ul.ad_area
 ohmynews.com##div[class^="m_ad"]
 ohmynews.com##iframe[src*="//ojsimg.ohmynews.com/"][src*="_ad_rolling.htm"]
