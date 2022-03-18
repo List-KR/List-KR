@@ -1,3 +1,5 @@
+mk.co.kr##div[class^="banner_"]
+mk.co.kr##div[class^="bn_sec"]
 m.ilbe.com##article.cutin-banner
 bloomingbit.io##.promotion
 money.hankyung.com,stock.hankyung.com##aside[id^="ad_"]
