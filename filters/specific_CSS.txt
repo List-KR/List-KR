@@ -1,3 +1,4 @@
+hankyung.com#$#.inner_aside { top: 127px !important; }
 windowsforum.kr#$#.content { margin-top: 0px !important; }
 mule.co.kr#$#div.section-leftmiddle-topmiddle.cf { width: 100% !important; }
 coupang.com#$#li.search-product__ad-badge { height: 0px !important; width: 0px !important; visibility: hidden !important; }
