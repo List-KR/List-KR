@@ -1,3 +1,6 @@
+news.tf.co.kr###posLeft > div[style~="width100%;font-size:"][style~="#ececec;margin-bottom:"]
+news.tf.co.kr##iframe[id^="ADFRAME_"]
+news.tf.co.kr##iframe[src^="/public/ad/"]
 tf.co.kr##iframe[src*="tf.co.kr/public/layout/"][src*="/top_menu_bar_"][src*=".php"]
 tf.co.kr##iframe[src*="//www.tf.co.kr/public/ad/"]
 tf.co.kr##iframe[src*="//nad.tf.co.kr/"]
