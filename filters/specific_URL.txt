@@ -1,3 +1,4 @@
+||image.ajunews.com/images/site/img/ads/
 ||womennews.co.kr/bannerpop/uploads/
 ||r.yna.co.kr/ad/
 ||play.acs.wecandeo.com/html/*/player/src/ad/adManager.js

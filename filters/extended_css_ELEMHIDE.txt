@@ -1,3 +1,4 @@
+ajunews.com#?#.aside_item.banner:has(> h4[style~="font-size:13px;color:#999999;margin:0"]:contains(AD))
 meeco.kr#?#.bd > div[style].xe-widget-wrapper:has(section.w_list.swiper-container-android > ul > li > ul > li > a[href^="/Enterprise/"].list_link)
 hwbattle.com#?#tr:has(> td[colspan][rowspan] > a[href*="//prod.danawa.com/"] > img[src^="./partner/"])
 namu.wiki#?#article > p + div div[id]:has(div[id]:has(div > ul > li, div > a[href*="/w/%EB%B6%84%EB%A5%98:"])) ~ div:has(img[src*="//w.namu.la/s/"], img[src^="data:image/png;base64,"])

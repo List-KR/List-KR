@@ -1,3 +1,4 @@
+ajunews.com##div[class^="asd_"]
 yna.co.kr##img[src^="//r.yna.co.kr/ad/"]
 yna.co.kr##aside[id^="boxAds"]
 yna.co.kr##.article-ad-box
@@ -22,7 +23,7 @@ ohmynews.com##div[class^="m_ad"]
 ohmynews.com##iframe[src*="//ojsimg.ohmynews.com/"][src*="_ad_rolling.htm"]
 dnews.co.kr##img[src*="//image.dnews.co.kr/uhtml/images/banner/"]
 munhwa.com##img[src*="//image.munhwa.com/www/banner/"]
-mk.co.kr##div[class^="banner_"]
+ajunews.com,mk.co.kr##div[class^="banner_"]
 mk.co.kr##div[class^="bn_sec"]
 m.ilbe.com##article.cutin-banner
 bloomingbit.io##.promotion
