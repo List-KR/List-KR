@@ -1,3 +1,4 @@
+m.clien.net##div[class$="_ad "]
 news.tf.co.kr###posLeft > div[style~="width100%;font-size:"][style~="#ececec;margin-bottom:"]
 news.tf.co.kr##iframe[id^="ADFRAME_"]
 news.tf.co.kr##iframe[src^="/public/ad/"]
