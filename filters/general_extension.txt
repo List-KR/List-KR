@@ -1,3 +1,4 @@
+ppss.kr#%#//scriptlet("set-constant", "setInterval", "trueFunc")
 imbc.com#%#//scriptlet("set-constant", "vrixadsdk", "undefined")
 lover9.net#%#//scriptlet("set-constant", "app_domains", "emptyObj")
 ~coupang.com,~coupangcdn.com#%#//scriptlet("set-constant", "PartnersCoupang", "undefined")
