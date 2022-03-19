@@ -1,3 +1,4 @@
+5donews.co.kr##.leftad2
 asiae.co.kr##.article_view > .fl_fr
 asiae.co.kr###txt_area.article > .art_btm
 ajunews.com##div[class^="asd_"]
