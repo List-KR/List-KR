@@ -1,3 +1,4 @@
+||play.acs.wecandeo.com/html/*/player/src/ad/adManager.js
 ||ytn.co.kr/inc_banner/
 ||tf.co.kr/public/layout/*/top_menu_bar_*.php
 ||tf.co.kr/public/ad/

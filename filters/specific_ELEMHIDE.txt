@@ -1,3 +1,4 @@
+yonhapnewstv.co.kr##.cont-row > div[class^="cont-item"] > .detail-rel
 ytn.co.kr##.article > span[style] > #hns_mask
 ytn.co.kr##iframe[src^="/inc_banner/"]
 zdnet.co.kr##div[class$="_ad_box"]
