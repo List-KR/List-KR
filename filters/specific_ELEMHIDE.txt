@@ -1,8 +1,10 @@
+mediapen.com##iframe[src^="/banners/load/"]
+mediapen.com##img[src*="//img.mediapen.com/banners/"]
 biz.heraldcorp.com##.article_area > .article_right
 insight.co.kr##div.aside-popular > ul.aside-popular-wrap > li > div[style~="300px;height:"][style~="block;width:"]
 edaily.co.kr##section[id^="aside_"] > div[id$="-sticky-wrap"] > div[id$="-sticky"] > div[id^="w_read_"][class^="boxshow_"]
 edaily.co.kr##section[id^="aside_"] > div[id$="-sticky-wrap"] > div[id$="-sticky"] > div[style]:not(class):not(id)
-edaily.co.kr##div[data-ad][class][style]
+mediapen.com,edaily.co.kr##div[data-ad][class][style]
 edaily.co.kr##div[class^="gg_"], div[class$="_gg"]
 edaily.co.kr##[class$="_dable"][id^="boxshow_"]
 yeongnam.com##div[class$="-ad"]
