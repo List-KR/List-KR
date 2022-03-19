@@ -1,3 +1,4 @@
+insight.co.kr##div.aside-popular > ul.aside-popular-wrap > li > div[style~="300px;height:"][style~="block;width:"]
 edaily.co.kr##section[id^="aside_"] > div[id$="-sticky-wrap"] > div[id$="-sticky"] > div[id^="w_read_"][class^="boxshow_"]
 edaily.co.kr##section[id^="aside_"] > div[id$="-sticky-wrap"] > div[id$="-sticky"] > div[style]:not(class):not(id)
 edaily.co.kr##div[data-ad][class][style]
