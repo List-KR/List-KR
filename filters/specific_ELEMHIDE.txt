@@ -1,3 +1,4 @@
+fnnews.com##div[id^="add_view_"][style]
 mediapen.com##iframe[src^="/banners/load/"]
 mediapen.com##img[src*="//img.mediapen.com/banners/"]
 biz.heraldcorp.com##.article_area > .article_right
@@ -257,7 +258,7 @@ m.ruliweb.com##div[id^="mo_ad_"]
 m.ruliweb.com##div[id^="nbp_container"]
 ruliweb.com##div.board_main > table > tbody tr.table_body.list_inner
 ruliweb.com##.nbp_container
-land.hankyung.com,mania.kr,mosen.mt.co.kr,ruliweb.com##div[id^="ad_"]
+fnnews.com,land.hankyung.com,mania.kr,mosen.mt.co.kr,ruliweb.com##div[id^="ad_"]
 m.dcinside.com##ul.all-comment-lst > li.comment:not(li[id^="comment_cnt_"])
 m.dcinside.com##div[class^="adv-group"]
 dcinside.com##div[class^="rightbanner"]

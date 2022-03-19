@@ -1,3 +1,4 @@
+||fnnews.com/resources/js/fnnewsAd.js
 ||hoppingcall.me/ad_shoppingCallme.php
 ||mediapen.com/banners/
 ||cdn.mediatoday.co.kr/adManager/css/adManager.css
