@@ -1,3 +1,4 @@
+zdnet.co.kr##div[class$="_ad_box"]
 ppss.kr##img[id^="ppss_title_bn"]
 m.danawa.com##div.power_link
 m.coupang.com##div[id^="sdp-"][id$="-banner"]
