@@ -1,3 +1,4 @@
+||res.heraldm.com/HeraldResource/doubleuad/
 ||cdn.andongdaily.com/bannerpop/uploads/
 ||edaily.co.kr/resources/js/prebid-ads.js
 ||yeongnam.com/web/js/statAd.js
