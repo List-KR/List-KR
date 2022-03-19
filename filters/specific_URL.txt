@@ -1,3 +1,5 @@
+||idaegu.co.kr/bannerpop/uploads/
+||idaegu.co.kr/adManager/css/adManager.css
 ||cdn.todaykorea.co.kr/adManager/css/adManager.css
 ||cdn.todaykorea.co.kr/bannerpop/uploads/
 ||fnnews.com/resources/js/fnnewsAd.js
