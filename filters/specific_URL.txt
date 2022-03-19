@@ -1,3 +1,5 @@
+||cdn.todaykorea.co.kr/adManager/css/adManager.css
+||cdn.todaykorea.co.kr/bannerpop/uploads/
 ||fnnews.com/resources/js/fnnewsAd.js
 ||hoppingcall.me/ad_shoppingCallme.php
 ||mediapen.com/banners/
