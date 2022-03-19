@@ -1,3 +1,5 @@
+||cdn.bosa.co.kr/adManager/css/adManager.css
+||cdn.bosa.co.kr/bannerpop/uploads/
 ||etnews.com/tools/refresh_script.html?*src=
 ||news.imaeil.com/wcms_ad.php$document
 ||news.imaeil.com/upload/ads/
