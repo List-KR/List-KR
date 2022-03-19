@@ -1,3 +1,4 @@
+||ad.yonhapnews.co.kr^
 ||nvapi.feeldmc.com^
 ||imgnewad.ytn.co.kr^
 ||adv.zdnet.co.kr^

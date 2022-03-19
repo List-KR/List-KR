@@ -1,3 +1,7 @@
+yna.co.kr##img[src^="//r.yna.co.kr/ad/"]
+yna.co.kr##aside[id^="boxAds"]
+yna.co.kr##.article-ad-box
+yna.co.kr###asideDeepDive
 yonhapnewstv.co.kr##.cont-row > div[class^="cont-item"] > .detail-rel
 ytn.co.kr##.article > span[style] > #hns_mask
 ytn.co.kr##iframe[src^="/inc_banner/"]
