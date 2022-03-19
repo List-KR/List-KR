@@ -92,7 +92,7 @@
 ||ads.adaptv.advertising.com^
 ||ads.betweendigital.com^
 ||adnxs.com^$third-party
-||criteo.net^$third-party
+||criteo.net^
 ||pagead2.googlesyndication.com^
 ||safeframe.googlesyndication.com^
 ||googleads.g.doubleclick.net^
