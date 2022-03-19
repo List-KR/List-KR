@@ -1,3 +1,4 @@
+||etnews.com/tools/refresh_script.html?*src=
 ||news.imaeil.com/wcms_ad.php$document
 ||news.imaeil.com/upload/ads/
 ||idaegu.co.kr/bannerpop/uploads/

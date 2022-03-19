@@ -1,3 +1,5 @@
+etnews.com##div[class$="_ad_wrap"]
+etnews.com##iframe[src*="//www.etnews.com/tools/refresh_script.html?"]
 imaeil.com##.wcms_banner
 fnnews.com##div[id^="add_view_"][style]
 mediapen.com##iframe[src^="/banners/load/"]
