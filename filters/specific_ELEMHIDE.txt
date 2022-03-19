@@ -1,3 +1,4 @@
+imaeil.com##.wcms_banner
 fnnews.com##div[id^="add_view_"][style]
 mediapen.com##iframe[src^="/banners/load/"]
 mediapen.com##img[src*="//img.mediapen.com/banners/"]
