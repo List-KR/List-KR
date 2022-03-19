@@ -1,3 +1,5 @@
+ytn.co.kr##.article > span[style] > #hns_mask
+ytn.co.kr##iframe[src^="/inc_banner/"]
 zdnet.co.kr##div[class$="_ad_box"]
 ppss.kr##img[id^="ppss_title_bn"]
 m.danawa.com##div.power_link
@@ -178,7 +180,7 @@ mmzone.co.kr###main_premium_spon_block
 mmzone.co.kr##div[id$="_ad"]
 2cpu.co.kr##a[href*="./bbs/banner_link.php?"]
 ruliweb.com##div[id^="adsense_"]
-avjamak.net,kmib.co.kr,mlbpark.donga.com,search.naver.com,prod.danawa.com,news.v.daum.net,joongang.co.kr,ruliweb.com##div[class^="ad_"]
+ytn.co.kr,avjamak.net,kmib.co.kr,mlbpark.donga.com,search.naver.com,prod.danawa.com,news.v.daum.net,joongang.co.kr,ruliweb.com##div[class^="ad_"]
 m.inven.co.kr##div#page > div[style*="height:50px;"]
 m.inven.co.kr###topslideAd
 m.inven.co.kr##div[id^="mobileTailAd"]
@@ -225,7 +227,7 @@ ppomppu.co.kr##div[id^="pp_ban_"]
 ppomppu.co.kr##.left > .shopping-preview
 ppomppu.co.kr##.right > .board-preview.board-ppomppu
 bobaedream.co.kr##.left_con_last
-arca.live##div.ad
+ytn.co.kr,arca.live##div.ad
 m.clien.net##.shop_naver
 ohmynews.com,seoul.co.kr,dmitory.com,itcm.co.kr,clien.net##div[class$="_ad"]
 clien.net###hongboInfoList
