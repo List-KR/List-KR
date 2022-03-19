@@ -6,14 +6,15 @@
 ||cdn.mediatoday.co.kr/adManager/css/adManager.css
 ||cdn.mediatoday.co.kr/bannerpop/uploads/
 ||res.heraldm.com/HeraldResource/doubleuad/
-||cdn.andongdaily.com/bannerpop/uploads/
 ||edaily.co.kr/resources/js/prebid-ads.js
 ||yeongnam.com/web/js/statAd.js
 ||yeongnam.com/mnt/webdata/ad/
 ||5donews.co.kr/layouts/5donews/images/banner/
+||womennews.co.kr/adManager/css/adManager.css
 ||cdn.andongdaily.com/bannerpop/uploads/
 ||asiae.co.kr/RealMedia/ads/
 ||image.ajunews.com/images/site/img/ads/
+||womennews.co.kr/adManager/css/adManager.css
 ||womennews.co.kr/bannerpop/uploads/
 ||r.yna.co.kr/ad/
 ||play.acs.wecandeo.com/html/*/player/src/ad/adManager.js
