@@ -1,3 +1,5 @@
+||cdn.mediatoday.co.kr/adManager/css/adManager.css
+||cdn.mediatoday.co.kr/bannerpop/uploads/
 ||res.heraldm.com/HeraldResource/doubleuad/
 ||cdn.andongdaily.com/bannerpop/uploads/
 ||edaily.co.kr/resources/js/prebid-ads.js
