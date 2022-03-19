@@ -1,3 +1,5 @@
+m.danawa.com##div.power_link
+m.coupang.com##div[id^="sdp-"][id$="-banner"]
 m.clien.net##div[class$="_ad "]
 news.tf.co.kr###posLeft > div[style~="width100%;font-size:"][style~="#ececec;margin-bottom:"]
 news.tf.co.kr##iframe[id^="ADFRAME_"]
