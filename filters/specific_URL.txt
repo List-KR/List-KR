@@ -1,3 +1,4 @@
+||m.nongmin.com/m/images/main/*_banner_
 ||nongmin.com/upload/kcun/banner/
 ||nongmin.com/inc/js/app/default/viewAd.js
 ||nongmin.com/images/main/pop_

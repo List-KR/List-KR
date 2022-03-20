@@ -1,3 +1,4 @@
+m.nongmin.com##.banner_zone
 nongmin.com##div[class$="-banner-wrap"]
 newstof.com##div[id^="popup_"]
 etoland.co.kr##div[class$="_banner_div"]
