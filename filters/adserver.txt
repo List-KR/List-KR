@@ -40,12 +40,12 @@
 ||tadapi.info^$third-party
 ||clickmon.co.kr^$third-party
 ||ad.tjtune.com^
-||adplex.co.kr^$third-party
+||adplex.co.kr^
 ||thetopic.co.kr^$third-party
 ||msadsense.com^
 ||interworksmedia.co.kr^$third-party
 ||adex.ednplus.com^
-||adpnut.com^$third-party
+||adpnut.com^
 ||ad.smartmediarep.com^
 ||mobon.net^$third-party
 ||ad*.wisenut.co.kr^

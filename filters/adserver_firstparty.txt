@@ -1,3 +1,7 @@
+||yellow.contentsfeed.com^
+||adx.mocoplex.com^
+||xdsp.snadx.com^
+||gwx.adnext.co^
 ||ad.auction.co.kr^
 ||action.adoffice.11st.co.kr^
 ||adw.heraldm.com^
