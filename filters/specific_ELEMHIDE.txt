@@ -1,3 +1,5 @@
+11st.co.kr##.l_product_view_wrap > [data-log-actionid-area="relation_ad"].c_product_item_list
+11st.co.kr##.l_product_view_wrap > #recommend_top
 search.11st.co.kr##.search_content > section[data-log-actionid-area="recommend"]
 lawtimes.co.kr##a[href^="/Tracks/Banner-Log/"]
 boannews.com##div[id^="powerbiz"]
