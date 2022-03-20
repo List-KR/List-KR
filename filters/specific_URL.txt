@@ -1,3 +1,4 @@
+||nocutnews.co.kr/ad/
 ||m.nongmin.com/m/images/main/*_banner_
 ||nongmin.com/upload/kcun/banner/
 ||nongmin.com/inc/js/app/default/viewAd.js

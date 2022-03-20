@@ -1,3 +1,4 @@
+nocutnews.co.kr##div[id^="dablewidget_"]
 m.nongmin.com##.banner_zone
 nongmin.com##div[class$="-banner-wrap"]
 newstof.com##div[id^="popup_"]
