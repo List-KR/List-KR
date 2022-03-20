@@ -1,3 +1,5 @@
+||boannews.com/main_contents/main_banner_
+||boannews.com/images/banner/
 ||cdn.bosa.co.kr/adManager/css/adManager.css
 ||cdn.bosa.co.kr/bannerpop/uploads/
 ||etnews.com/tools/refresh_script.html?*src=

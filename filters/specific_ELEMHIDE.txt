@@ -1,3 +1,7 @@
+boannews.com##div[id^="powerbiz"]
+boannews.com##iframe[src^="/main_contents/main_banner_"]
+boannews.com##div[id^="scroll_banner"]
+boannews.com##article[class$="_banner"]
 etnews.com##div[class$="_ad_wrap"]
 etnews.com##iframe[src*="//www.etnews.com/tools/refresh_script.html?"]
 imaeil.com##.wcms_banner
