@@ -1,3 +1,5 @@
+||newstof.com/adManager/css/adManager.css
+||newstof.com/bannerpop/uploads/
 ||cdn.newsmc.net/adManager/css/adManager.css
 ||cdn.newsmc.net/bannerpop/uploads/
 ||etoland.co.kr/img/squidland_banner_

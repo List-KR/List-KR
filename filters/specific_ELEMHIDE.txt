@@ -1,3 +1,4 @@
+newstof.com##div[id^="popup_"]
 etoland.co.kr##div[class$="_banner_div"]
 m.humoruniv.com###comment > ul > table[style~="height:250px;padding:0px"][cellspacing="0"][cellpadding="0"]
 m.humoruniv.com##body > #mobile> div[id][style~="min-height:"][style~="100px;"]:not(class):not(id)
