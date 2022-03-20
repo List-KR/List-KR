@@ -1,3 +1,4 @@
+yna.co.kr##[class^="aside-bnr"]
 shopping.interpark.com###btnlist > .productImgList.choice
 shopping.interpark.com###btnlist > .listTitle:nth-child(1)
 shopping.interpark.com##.AdvertisingList
