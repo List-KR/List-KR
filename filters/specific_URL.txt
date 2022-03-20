@@ -1,3 +1,5 @@
+||cdn.newsmc.net/adManager/css/adManager.css
+||cdn.newsmc.net/bannerpop/uploads/
 ||etoland.co.kr/img/squidland_banner_
 ||humoruniv.com/js/adpost_adsense.js
 ||zdnet.co.kr/template_ad/
