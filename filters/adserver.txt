@@ -82,7 +82,7 @@
 ||ad.adinc.kr^
 ||ad.about.co.kr^
 ||marketingking.co.kr^$third-party
-||dable.io^$third-party
+||dable.io^
 ||adv.imadrep.co.kr^
 ||ad4989.co.kr^
 ||ad.reople.co.kr^
