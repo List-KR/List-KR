@@ -1,3 +1,4 @@
+||dadispapi.auction.co.kr/target/iac/getAd
 ||lawtimes.co.kr/data/ad/
 ||boannews.com/main_contents/main_banner_
 ||boannews.com/images/banner/
