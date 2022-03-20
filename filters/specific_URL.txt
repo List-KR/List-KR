@@ -1,3 +1,7 @@
+||shopapi.interpark.com/advertisement/*.json
+||shopping.interpark.com/resources/template/common/powerLink.html
+||shopping.interpark.com/niSearch/common/powerLink.json
+||shopping.interpark.com/static/styles/pages/powerLink.css
 ||dadispapi.auction.co.kr/target/iac/getAd
 ||lawtimes.co.kr/data/ad/
 ||boannews.com/main_contents/main_banner_
