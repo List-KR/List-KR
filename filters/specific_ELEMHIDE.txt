@@ -1,3 +1,4 @@
+search.11st.co.kr##.search_content > section[data-log-actionid-area="recommend"]
 lawtimes.co.kr##a[href^="/Tracks/Banner-Log/"]
 boannews.com##div[id^="powerbiz"]
 boannews.com##iframe[src^="/main_contents/main_banner_"]
