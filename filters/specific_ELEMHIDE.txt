@@ -1,3 +1,4 @@
+lawtimes.co.kr##a[href^="/Tracks/Banner-Log/"]
 boannews.com##div[id^="powerbiz"]
 boannews.com##iframe[src^="/main_contents/main_banner_"]
 boannews.com##div[id^="scroll_banner"]
