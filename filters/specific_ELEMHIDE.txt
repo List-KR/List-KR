@@ -1,3 +1,4 @@
+nongmin.com##div[class$="-banner-wrap"]
 newstof.com##div[id^="popup_"]
 etoland.co.kr##div[class$="_banner_div"]
 m.humoruniv.com###comment > ul > table[style~="height:250px;padding:0px"][cellspacing="0"][cellpadding="0"]
@@ -184,7 +185,7 @@ news.v.daum.net##ul.list_column > li.item_ad
 mmzone.co.kr##div[id^="scm_ban"][style*="url(/media/banner/"]
 mmzone.co.kr###scm_premium_spon_block
 ilbe.com##ul.board-body > li[id^="sponser_ad_"]
-ilbe.com##div[class$="-banner"]
+nongmin.com,ilbe.com##div[class$="-banner"]
 ilbe.com##img[src^="https://acache.ilbe.com/"]
 tgd.kr###article-list > div[id^="article-list-row-"].notice.featured:nth-child(4)
 berryjam.co.kr##div[class*="slider-banner-"]
@@ -259,7 +260,7 @@ coolenjoy.net##.simple_banner_wrap
 coolenjoy.net##img[src^="https://photo.coolenjoy.net/banner/"]
 quasarzone.com##div[class^="main-"][class$="-banner"]
 quasarzone.com##.top-banner
-hankookilbo.com,quasarzone.com##div[class^="banner-"]
+nongmin.com,hankookilbo.com,quasarzone.com##div[class^="banner-"]
 okky.kr##img[src^="//file.okky.kr/banner/"]
 m.todayhumor.co.kr##.ad_box_div
 etoland.co.kr##ul.board_list > li.subject.ad_subject

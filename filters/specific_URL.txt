@@ -1,3 +1,6 @@
+||nongmin.com/upload/kcun/banner/
+||nongmin.com/inc/js/app/default/viewAd.js
+||nongmin.com/images/main/pop_
 ||newstof.com/adManager/css/adManager.css
 ||newstof.com/bannerpop/uploads/
 ||cdn.newsmc.net/adManager/css/adManager.css
