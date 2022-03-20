@@ -1,3 +1,4 @@
+||humoruniv.com/js/adpost_adsense.js
 ||zdnet.co.kr/template_ad/
 ||shopapi.interpark.com/advertisement/*.json
 ||shopping.interpark.com/resources/template/common/powerLink.html
