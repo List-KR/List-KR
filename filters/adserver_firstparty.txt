@@ -29,7 +29,6 @@
 ||ad.tpmn.co.kr^
 ||ad.ilbe.com^
 ||acache.ilbe.com^
-||addata.mediacategory.com^
 ||displayad.zum.com^
 ||networkad.nate.com^
 ||cyad1.nate.com^
