@@ -1,3 +1,4 @@
+||etoland.co.kr/img/squidland_banner_
 ||humoruniv.com/js/adpost_adsense.js
 ||zdnet.co.kr/template_ad/
 ||shopapi.interpark.com/advertisement/*.json

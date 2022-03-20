@@ -1,3 +1,4 @@
+etoland.co.kr##div[class$="_banner_div"]
 m.humoruniv.com###comment > ul > table[style~="height:250px;padding:0px"][cellspacing="0"][cellpadding="0"]
 m.humoruniv.com##body > #mobile> div[id][style~="min-height:"][style~="100px;"]:not(class):not(id)
 instiz.net##.responsive_main > div[style] > div[style~="background-color:"][style~="center;border:"][style~="1px"]
@@ -64,7 +65,7 @@ ohmynews.com##div[class^="m_ad"]
 ohmynews.com##iframe[src*="//ojsimg.ohmynews.com/"][src*="_ad_rolling.htm"]
 dnews.co.kr##img[src*="//image.dnews.co.kr/uhtml/images/banner/"]
 munhwa.com##img[src*="//image.munhwa.com/www/banner/"]
-ajunews.com,mk.co.kr##div[class^="banner_"]
+etoland.co.kr,ajunews.com,mk.co.kr##div[class^="banner_"]
 mk.co.kr##div[class^="bn_sec"]
 m.ilbe.com##article.cutin-banner
 bloomingbit.io##.promotion
@@ -261,8 +262,8 @@ hankookilbo.com,quasarzone.com##div[class^="banner-"]
 okky.kr##img[src^="//file.okky.kr/banner/"]
 m.todayhumor.co.kr##.ad_box_div
 etoland.co.kr##ul.board_list > li.subject.ad_subject
-etoland.co.kr##.img_latest_wrap > a img[src*="_banner.png"]
-etoland.co.kr##.aside_bog_banner_wrap
+etoland.co.kr##.board_gather > .board_area > .img_latest_wrap > a > img
+etoland.co.kr##div[class$="_banner_wrap"]
 etoland.co.kr##td#mw_basic > div[style="height:90px; text-align:center; margin-top:10px; margin-bottom:10px;"]
 etoland.co.kr##.g_banner
 etoland.co.kr##center > a img[src*="//www.etoland.co.kr/data/daumeditor10/"]:not(.shrinkToFit)

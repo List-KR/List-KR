@@ -1,3 +1,4 @@
+etoland.co.kr#$#.hit_list_ul_wrap { width: 100% !important; }
 inven.co.kr#$#aside[data-cached].commu-right > div[style]:not(class):not(id) { transform: translateX(-1vh) scale(0); }
 biz.heraldcorp.com#$#.article_area > .article_left { width: 100% !important; }
 inven.co.kr#$##webzineBody aside.commu-right > *:not([class*="right-menu"]) { display: none; overflow: hidden; width: 0; height: 0; transform: translateX(-1vh) scale(0); }

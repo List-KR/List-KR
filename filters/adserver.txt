@@ -33,7 +33,7 @@
 ||ad.ajitad.co.kr^
 ||simg.imadrep.co.kr^
 ||adv.dailyissue.co.kr^
-||ad.idnad.co.kr^$third-party
+||ad.idnad.co.kr^
 ||adbiz2.co.kr^
 ||deepdive.zum.com^$third-party
 ||minishop.linkprice.com^
