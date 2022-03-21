@@ -1,6 +1,6 @@
 ! Title: List-KR
 ! Description: List-KR
-! Version: 2022.321.3
+! Version: 2022.321.4
 ! Expires: 1 day
 ! Homepage: https://github.com/List-KR/List-KR
 ! License: https://github.com/List-KR/List-KR/blob/master/LICENSE
@@ -36,10 +36,18 @@
 !#include filters/html_filtering.txt
 !#endif
 
-!#if (adguard_app_android || adguard_app_ios)
-!#include filters/mobile/allowlist_mobile_app.txt
-!#include filters/mobile/mobile_app.txt
-!#include filters/mobile/mobile_specific.txt
+!#if (adguard_app_android)
+!#include filters/mobile/android/allowlist_android_app.txt
+!#include filters/mobile/android/android_app.txt
+!#include filters/mobile/android/android_specific.txt
+!#include filters/mobile/android/antiadblock_android_app.txt
+!#endif
+
+!#if (adguard_app_ios)
+!#include filters/mobile/ios/allowlist_ios_app.txt
+!#include filters/mobile/ios/antiadblock_ios_app.txt
+!#include filters/mobile/ios/ios_app.txt
+!#include filters/mobile/ios/ios_specific.txt
 !#endif
 
 !#if (adguard_app_windows)

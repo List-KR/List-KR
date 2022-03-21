@@ -1,3 +1,3 @@
-! Rules of this file are compatible rules for only an issue that can be reproduced with AdGuard for Android/iOS/iOS Pro.
+! Rules of this file are compatible rules for only an issue that can be reproduced with AdGuard for iOS/iOS Pro.
 ! If a website, mobile version, can be reproduced on a desktop/laptop browser with AdGuard for Windows/AdGuard Browser Extension,
 ! please move into specific.txt.
