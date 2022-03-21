@@ -24,7 +24,7 @@ instiz.net##.responsive_main > div[style] > div[style~="background-color:"][styl
 instiz.net##.responsive_main > ul > li[id][class][style]
 instiz.net##.responsive_main > table > tbody > tr > td > div[style~="border:"][style~="1px"][style~="solid"]
 instiz.net##div[id$="ad"]
-m.dcinside.com##div[id^="ad"]
+m.khan.co.kr,m.dcinside.com##div[id^="ad"]
 zdnet.co.kr##iframe[src^="/template_ad/"]
 yna.co.kr##[class^="aside-bnr"]
 shopping.interpark.com###btnlist > .productImgList.choice
