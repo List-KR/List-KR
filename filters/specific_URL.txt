@@ -1,3 +1,4 @@
+||google.com/adsense/
 ||m.news1.kr/template/ads/
 ||image.news1.kr/system/ads_t/
 ||nocutnews.co.kr/ad/
