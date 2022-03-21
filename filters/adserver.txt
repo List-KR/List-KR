@@ -117,4 +117,4 @@
 ||googletagservices.com^
 ||bidr.io^
 ||bidswitch.net^
-||taboola.com^$third-party
+||taboola.com^
