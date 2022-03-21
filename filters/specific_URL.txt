@@ -1,3 +1,5 @@
+||jdsports.co.kr/analysisTag.js
+||jdsports.co.kr/collect.php
 ||image.news1.kr/system/ads_t/
 ||nocutnews.co.kr/ad/
 ||m.nongmin.com/m/images/main/*_banner_
