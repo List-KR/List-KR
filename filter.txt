@@ -1,6 +1,6 @@
 ! Title: List-KR
 ! Description: List-KR
-! Version: 2022.321.7
+! Version: 2022.321.8
 ! Expires: 1 day
 ! Homepage: https://github.com/List-KR/List-KR
 ! License: https://github.com/List-KR/List-KR/blob/master/LICENSE
