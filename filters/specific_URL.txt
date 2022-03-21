@@ -1,3 +1,6 @@
+||static.hankyung.com/ext/powerlink/
+||hankyung.com/resource/js/m/view.ads.js
+||cloudfront.net/js/hankyung_admaru_moibile_icv_*.js
 ||google.com/adsense/
 ||m.news1.kr/template/ads/
 ||image.news1.kr/system/ads_t/

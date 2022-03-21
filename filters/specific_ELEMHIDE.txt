@@ -1,3 +1,5 @@
+hankyung.com##.view > .joy_info
+hankyung.com##article.act-body > .wrap_list
 gigglehd.com##div[style~="!important;"] > .nw_box > div:not(class):not(id) > table[cellspacing="0"][class]
 gigglehd.com##.widget_banner_skin > ul.banner_list
 m.news1.kr##div[class^="banner"]
@@ -244,7 +246,7 @@ mmzone.co.kr###main_premium_spon_block
 mmzone.co.kr##div[id$="_ad"]
 2cpu.co.kr##a[href*="./bbs/banner_link.php?"]
 ruliweb.com##div[id^="adsense_"]
-news1.kr,web.humoruniv.com,m.etnews.com,itempage3.auction.co.kr,asiae.co.kr,khan.co.kr,ytn.co.kr,avjamak.net,kmib.co.kr,mlbpark.donga.com,search.naver.com,prod.danawa.com,news.v.daum.net,joongang.co.kr,ruliweb.com##div[class^="ad_"]
+hankyung.com,news1.kr,web.humoruniv.com,m.etnews.com,itempage3.auction.co.kr,asiae.co.kr,khan.co.kr,ytn.co.kr,avjamak.net,kmib.co.kr,mlbpark.donga.com,search.naver.com,prod.danawa.com,news.v.daum.net,joongang.co.kr,ruliweb.com##div[class^="ad_"]
 m.inven.co.kr##div#page > div[style*="height:50px;"]
 m.inven.co.kr###topslideAd
 m.inven.co.kr##div[id^="mobileTailAd"]
@@ -253,7 +255,7 @@ inven.co.kr###inven_reservation_box
 inven.co.kr##.menuGroup.imt_banner
 inven.co.kr##.banner_box
 inven.co.kr##iframe[src*="//zicf.inven.co.kr/RealMedia/ads/"]
-m.etnews.com,hani.co.kr,hankookilbo.com,newspim.com,inven.co.kr##div[class^="ad-"]
+hankyung.com,m.etnews.com,hani.co.kr,hankookilbo.com,newspim.com,inven.co.kr##div[class^="ad-"]
 inven.co.kr##section[class^="ad-"]
 inven.co.kr###topskyAd
 tgd.kr##div[style*="background:url(https://upload.tgd.kr/banner/320x50n.jpg)"]
