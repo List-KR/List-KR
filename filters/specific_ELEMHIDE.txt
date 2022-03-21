@@ -1,3 +1,6 @@
+news1.kr##.top_area > .wrap_sl_item > .slick-slider
+news1.kr###article_body_content > .link_news > ul > div[class] > div[style]
+news1.kr##div[data-acidx][data-kind].sideBlock
 m.nocutnews.co.kr##div[class^="ct"] > .section > .view_box > #divViewBox > .viewbox > div[style]
 m.nocutnews.co.kr###pnlContainer > div[class^="ct"] > .con_b > div[style]
 m.nocutnews.co.kr###pnlContainer > div[class^="ct"] > .section > div[style]:not(class)
@@ -235,7 +238,7 @@ mmzone.co.kr###main_premium_spon_block
 mmzone.co.kr##div[id$="_ad"]
 2cpu.co.kr##a[href*="./bbs/banner_link.php?"]
 ruliweb.com##div[id^="adsense_"]
-web.humoruniv.com,m.etnews.com,itempage3.auction.co.kr,asiae.co.kr,khan.co.kr,ytn.co.kr,avjamak.net,kmib.co.kr,mlbpark.donga.com,search.naver.com,prod.danawa.com,news.v.daum.net,joongang.co.kr,ruliweb.com##div[class^="ad_"]
+news1.kr,web.humoruniv.com,m.etnews.com,itempage3.auction.co.kr,asiae.co.kr,khan.co.kr,ytn.co.kr,avjamak.net,kmib.co.kr,mlbpark.donga.com,search.naver.com,prod.danawa.com,news.v.daum.net,joongang.co.kr,ruliweb.com##div[class^="ad_"]
 m.inven.co.kr##div#page > div[style*="height:50px;"]
 m.inven.co.kr###topslideAd
 m.inven.co.kr##div[id^="mobileTailAd"]
