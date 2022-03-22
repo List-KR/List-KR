@@ -1,3 +1,7 @@
+mobile.newsis.com##section > div[class^="listStyle"] > ul[class^="listStyle"] > li.first
+mobile.newsis.com##div[style~="padding:10px"][style~="10px;"] > div[style="height: 35px;"]
+mobile.newsis.com##article > .article > div[class][style~="100%;"][style~="250px;"][style~="padding:"]
+mobile.newsis.com##iframe[src^="/ad_list/"]
 m.daum.net##div[class][data-ad-media][data-ad-pubuser][data-ad-type][data-ad-width][data-ad-height]
 m.nocutnews.co.kr###pnlContainer > div[class^="ct"] > .section > .ct_box > div[style~="text-align:"][style~="center;"][style~="padding:"][style~="10px"]
 m.hani.co.kr##section[class^="ad"]
@@ -304,7 +308,7 @@ m.ruliweb.com##div[id^="mo_ad_"]
 m.ruliweb.com##div[id^="nbp_container"]
 ruliweb.com##div.board_main > table > tbody tr.table_body.list_inner
 ruliweb.com##.nbp_container
-zdnet.co.kr,fnnews.com,land.hankyung.com,mania.kr,mosen.mt.co.kr,ruliweb.com##div[id^="ad_"]
+mobile.newsis.com,zdnet.co.kr,fnnews.com,land.hankyung.com,mania.kr,mosen.mt.co.kr,ruliweb.com##div[id^="ad_"]
 m.dcinside.com##ul.all-comment-lst > li.comment:not(li[id^="comment_cnt_"])
 m.dcinside.com##div[class^="adv-group"]
 dcinside.com##div[class^="rightbanner"]
