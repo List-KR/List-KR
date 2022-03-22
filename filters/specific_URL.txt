@@ -1,3 +1,5 @@
+||search.danawa.com/mobile/js/powerClick.min.js
+||search.danawa.com/mobile/ajax/jehuProduct/getPowerLink.ajax.php
 ||danawa.com/NBP/powerLinkNew.js.php
 ||prod.danawa.com/bridge/loadingBridgePowerClick.php$document
 ||static.danawa.com/globaljs/static/adweb_counter_danawa.min.js
