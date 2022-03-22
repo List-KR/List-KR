@@ -1,3 +1,4 @@
+m.daum.net##div[class][data-ad-media][data-ad-pubuser][data-ad-type][data-ad-width][data-ad-height]
 m.nocutnews.co.kr###pnlContainer > div[class^="ct"] > .section > .ct_box > div[style~="text-align:"][style~="center;"][style~="padding:"][style~="10px"]
 m.hani.co.kr##section[class^="ad"]
 hankyung.com##.view > .joy_info
