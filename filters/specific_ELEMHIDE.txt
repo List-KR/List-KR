@@ -1,3 +1,5 @@
+entertain.daum.net##.aside_g.aside_ad
+entertain.daum.net##.aside_g.aside_shopping
 mobile.newsis.com##section > div[class^="listStyle"] > ul[class^="listStyle"] > li.first
 mobile.newsis.com##div[style~="padding:10px"][style~="10px;"] > div[style="height: 35px;"]
 mobile.newsis.com##article > .article > div[class][style~="100%;"][style~="250px;"][style~="padding:"]
