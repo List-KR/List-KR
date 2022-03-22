@@ -1,3 +1,5 @@
+||ads-twitter.com^
+||2mdn.net^
 ||ad.mrab.co.kr^
 ||ad.mediafarm.co.kr^
 ||contentsfeed.com^
