@@ -1,3 +1,4 @@
+danawa.com###danawa_main_container > .main-top > .main-top__center > .main-middlebnr
 entertain.daum.net##.aside_g.aside_ad
 entertain.daum.net##.aside_g.aside_shopping
 mobile.newsis.com##section > div[class^="listStyle"] > ul[class^="listStyle"] > li.first
