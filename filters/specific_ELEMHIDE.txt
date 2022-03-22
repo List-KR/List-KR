@@ -1,7 +1,6 @@
 m.hani.co.kr##section[class^="ad"]
 hankyung.com##.view > .joy_info
 hankyung.com##article.act-body > .wrap_list
-gigglehd.com##div[style~="!important;"] > .nw_box > div:not(class):not(id) > table[cellspacing="0"][class]
 gigglehd.com##.widget_banner_skin > ul.banner_list
 m.news1.kr##div[class^="banner"]
 m.news1.kr##iframe[src^="/template/ads/"]
