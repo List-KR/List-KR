@@ -76,7 +76,6 @@
 ||tvetamovie.pstatic.net^
 ||searchad-phinf.pstatic.net^
 ||ad.adjw.co.kr^
-||innorame.com^$third-party
 ||compass.adop.cc^
 ||catad5959.com^
 ||adex.ednplus.com^
