@@ -1,4 +1,4 @@
-namu.wiki##article div:has(a[href*="/w/%EB%B6%84%EB%A5%98:"]) ~ div:has(tr > td img[src*="w.namu.la"], tr > td img[src^="data:image/png;base64,"])
+namu.wiki#?#article div:has(a[href*="/w/%EB%B6%84%EB%A5%98:"]) ~ div:has(tr > td img[src*="w.namu.la"], tr > td img[src^="data:image/png;base64,"])
 gigglehd.com#?#div[style~="!important;"] > .nw_box > div:not(class):not(id) > table[cellspacing="0"][class]:not(:has(a[href*="//gigglehd.com/gg/"]))
 instiz.net#?#.responsive_main > div[style] > .grouping_title:has(> div[style][class] > div[style]:contains(광고))
 ajunews.com#?#.aside_item.banner:has(> h4[style~="font-size:13px;color:#999999;margin:0"]:contains(AD))
