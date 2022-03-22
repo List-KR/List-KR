@@ -1,3 +1,5 @@
+search.danawa.com##.main_prodlist > ul.product_list > li.prod_item:not([id])
+search.danawa.com###powerClickListArea
 danawa.com###danawa_main_container > .main-top > .main-top__center > .main-middlebnr
 entertain.daum.net##.aside_g.aside_ad
 entertain.daum.net##.aside_g.aside_shopping
