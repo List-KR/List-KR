@@ -1,3 +1,4 @@
+search.danawa.com#%#//scriptlet("set-constant", "getPowerLink", "undefined")
 search.11st.co.kr#%#//scriptlet("set-constant", "searchDataFactory.plusPrdList", "undefined")
 ygosu.com,ppss.kr#%#//scriptlet("set-constant", "setInterval", "trueFunc")
 imbc.com#%#//scriptlet("set-constant", "vrixadsdk", "undefined")

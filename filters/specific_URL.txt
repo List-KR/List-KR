@@ -1,3 +1,6 @@
+||danawa.com/NBP/powerLinkNew.js.php
+||prod.danawa.com/bridge/loadingBridgePowerClick.php$document
+||static.danawa.com/globaljs/static/adweb_counter_danawa.min.js
 ||mobile.newsis.com/ad_list/
 ||img.hani.co.kr/section-image/*/mobile/image/icon/btn_ADclose.png
 ||static.hankyung.com/ext/powerlink/
