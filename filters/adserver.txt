@@ -72,7 +72,6 @@
 ||adapi.about.co.kr^
 ||adx.turl.co.kr^
 ||tpc.googlesyndication.com^
-||securepubads.g.doubleclick.net^
 ||adservice.google.co.*
 ||ads-partners.coupang.com^
 ||naverwebtoon-phinf.pstatic.net^
@@ -102,7 +101,6 @@
 ||criteo.net^
 ||pagead2.googlesyndication.com^
 ||safeframe.googlesyndication.com^
-||googleads.g.doubleclick.net^
 ||quantserve.com^$third-party
 ||adservice.google.com^
 ||pubmatic.com^$third-party

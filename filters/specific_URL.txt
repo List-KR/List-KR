@@ -1,3 +1,4 @@
+||googlesyndication.com/pagead/
 ||shoppingcall.me/ad_shoppingCallme.php
 ||api.popin.cc/lib*-lightweight/popIn-*.min.js
 ||m.ppomppu.co.kr/banner/google_ad.html
