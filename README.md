@@ -12,11 +12,11 @@ If you want to block tracker or anti-rightclick scripts, please enable AdGuard T
 ## How to use
 In the program you would like to use, use the following url to subscribe to or import.
 
-**List-KR**:
+**List-KR** (AdGuard):
 ```
 https://github.com/List-KR/List-KR/raw/master/filter.txt
 ```
-**List-KR uBO**:
+**List-KR uBO** (uBlock Origin):
 ```
 https://github.com/List-KR/List-KR/raw/master/filter-uBO.txt
 ```
