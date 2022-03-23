@@ -1,6 +1,6 @@
 ! Title: List-KR
-! Description: List-KR
-! Version: 2022.323.7
+! Description: List-KR for AdGuard
+! Version: 2022.323.8
 ! Expires: 1 day
 ! Homepage: https://github.com/List-KR/List-KR
 ! License: https://github.com/List-KR/List-KR/blob/master/LICENSE
@@ -8,60 +8,66 @@
 ! Version must be UTC format.
 !
 
-!#include filters/adserver.txt
-!#include filters/adserver_firstparty.txt
-!#include filters/general_elemhide.txt
-!#include filters/general_url.txt
-!#include filters/specific_URL.txt
-!#include filters/specific_ELEMHIDE.txt
-!#include filters/allowlist.txt
+!#include filters-share/adserver.txt
+!#include filters-share/adserver_firstparty.txt
+!#include filters-share/general_elemhide.txt
+!#include filters-share/general_url.txt
+!#include filters-share/specific_URL.txt
+!#include filters-share/specific_ELEMHIDE.txt
+!#include filters-share/allowlist.txt
 
 !#if (adguard_ext_firefox || adguard_app_windows || adguard_app_mac || adguard_app_android || adguard_ext_chromium || adguard_ext_edge)
-!#include filters/allowlist_stealth.txt
+!#include filters-AG/allowlist_stealth.txt
 !#endif
 
 !#if (!adguard_ext_android_cb)
-!#include filters/specific_CSS.txt
-!#include filters/extended_css_ELEMHIDE.txt
-!#include filters/extended_css_INJECTION.txt
-!#include filters/general_extension.txt
-!#include filters/antiadblock.txt
+!#include filters-share/specific_CSS.txt
+!#include filters-share/extended_css_ELEMHIDE.txt
+!#include filters-share/extended_css_INJECTION.txt
+!#include filters-AG/extended_css_ELEMHIDE.txt
+!#include filters-AG/extended_css_INJECTION.txt
+!#include filters-AG/general_extension.txt
+!#include filters-AG/antiadblock.txt
+!#endif
+
+!#if (!adguard_app_ios && !adguard_ext_safari)
+!#include filters-AG/specific_REDIRECT.txt
 !#endif
 
 !#if (adguard_ext_android_cb)
-!#include filters/contentblocker.txt
+!#include filters-AG/contentblocker.txt
 !#endif
 
 !#if (adguard_ext_firefox || adguard_app_windows || adguard_app_mac || adguard_app_android)
-!#include filters/html_filtering.txt
+!#include filters-AG/html_filtering.txt
 !#endif
 
 !#if (adguard_app_android)
-!#include filters/mobile/android/allowlist_android_app.txt
-!#include filters/mobile/android/android_app.txt
-!#include filters/mobile/android/android_specific.txt
-!#include filters/mobile/android/antiadblock_android_app.txt
+!#include filters-AG/mobile/android/allowlist_android_app.txt
+!#include filters-AG/mobile/android/android_app.txt
+!#include filters-AG/mobile/android/android_specific.txt
+!#include filters-AG/mobile/android/antiadblock_android_app.txt
 !#endif
 
 !#if (adguard_app_ios)
-!#include filters/mobile/ios/allowlist_ios_app.txt
-!#include filters/mobile/ios/antiadblock_ios_app.txt
-!#include filters/mobile/ios/ios_app.txt
-!#include filters/mobile/ios/ios_specific.txt
+!#include filters-AG/mobile/ios/allowlist_ios_app.txt
+!#include filters-AG/mobile/ios/antiadblock_ios_app.txt
+!#include filters-AG/mobile/ios/ios_app.txt
+!#include filters-AG/mobile/ios/ios_specific.txt
 !#endif
 
 !#if (adguard_app_windows)
-!#include filters/desktop/windows_app/allowlist_stealth.txt
-!#include filters/desktop/windows_app/allowlist.txt
-!#include filters/desktop/windows_app/antiadblock.txt
-!#include filters/desktop/windows_app/specific_URL.txt
+!#include filters-AG/desktop/windows_app/allowlist_stealth.txt
+!#include filters-AG/desktop/windows_app/allowlist.txt
+!#include filters-AG/desktop/windows_app/antiadblock.txt
+!#include filters-AG/desktop/windows_app/specific_URL.txt
 !#endif
 
 !#if (adguard_app_mac)
-!#include filters/desktop/macos_app/allowlist_stealth.txt
-!#include filters/desktop/macos_app/allowlist.txt
-!#include filters/desktop/macos_app/antiadblock.txt
-!#include filters/desktop/macos_app/specific_URL.txt
+!#include filters-AG/desktop/macos_app/allowlist_stealth.txt
+!#include filters-AG/desktop/macos_app/allowlist.txt
+!#include filters-AG/desktop/macos_app/antiadblock.txt
+!#include filters-AG/desktop/macos_app/specific_URL.txt
 !#endif
 
 ! list-kr.github.io Detector

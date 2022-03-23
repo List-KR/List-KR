@@ -1,9 +1,9 @@
 # List-KR
-This is a web filter for websites in Korean language, to be used with [AdGuard](https://adguard.com) ad blocker.
+This is a web filter for websites in Korean language, to be used with [AdGuard](https://adguard.com) ad blocker and [uBlock Origin](https://github.com/gorhill/uBlock).
 
 This filter aims to filter ads and anti-adblock.
 
-This filter is optimized for AdGuard Windows, Mac, Android and Browser Extension. Yet most of rules are following the grammer of Adblock Plus, some rules for more difficult filtering utilizes AdGuard's advanced filtering methods, and will not be activated in other filtering tools. Also, there are slight differences in filtering methods between Adguard and ABP, and if you use it, you may see blank areas at the place of ads. uBlock Origin is known to be compatible with part of the AdGuard syntax, and can be used with this filter.
+This filter is optimized for AdGuard Windows, Mac, Android, Browser Extension and uBO. Yet most of rules are following the grammer of Adblock Plus, some rules for more difficult filtering utilizes advanced filtering methods of AdGuard and uBO, and will not be activated in other filtering tools. Also, there are slight differences in filtering methods between AdGuard and ABP, and if you use it, you may see blank areas at the place of ads. uBlock Origin is known to be compatible with part of the AdGuard syntax, and can be used with this filter.
 
 This filter is focused on Korean websites, and it is recommended to use this filter together with AdGuard Base filter.
 
@@ -15,6 +15,10 @@ In the program you would like to use, use the following url to subscribe to or i
 **List-KR**:
 ```
 https://github.com/List-KR/List-KR/raw/master/filter.txt
+```
+**List-KR uBO**:
+```
+https://github.com/List-KR/List-KR/raw/master/filter-uBO.txt
 ```
 **List-KR DNS**:
 ```

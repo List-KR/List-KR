@@ -7,3 +7,27 @@
 !
 ! Version must be UTC format.
 !
+
+!#include filters-share/adserver.txt
+!#include filters-share/adserver_firstparty.txt
+!#include filters-share/general_elemhide.txt
+!#include filters-share/general_url.txt
+!#include filters-share/specific_URL.txt
+!#include filters-share/specific_ELEMHIDE.txt
+!#include filters-share/allowlist.txt
+
+!#include filters-share/extended_css_ELEMHIDE.txt
+!#include filters-share/extended_css_INJECTION.txt
+!#include filters-uBO/specific_REDIRECT.txt
+!#include filters-uBO/extended_css_ELEMHIDE.txt
+!#include filters-uBO/extended_css_INJECTION.txt
+!#include filters-uBO/general_extension.txt
+!#include filters-uBO/antiadblock.txt
+
+!#if cap_user_stylesheet
+!#include filters-share/specific_CSS.txt
+!#endif
+
+!#if cap_html_filtering
+!#include filters-uBO/html_filtering.txt
+!#endif

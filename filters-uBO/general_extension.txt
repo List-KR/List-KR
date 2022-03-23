@@ -1,0 +1,8 @@
+search.danawa.com##+js(set, getPowerLink, undefined)
+search.11st.co.kr##+js(set, searchDataFactory.plusPrdList, undefined)
+ygosu.com,ppss.kr##+js(set, setInterval, trueFunc)
+imbc.com##+js(set, vrixadsdk, undefined)
+lover9.net##+js(set, app_domains, {})
+~coupang.com,~coupangcdn.com##+js(set, PartnersCoupang, undefined)
+m.inven.co.kr##+js(set, MOBILE.Ad, null)
+inven.co.kr##+js(set, INVEN.Ad, null)

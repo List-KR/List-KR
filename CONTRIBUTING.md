@@ -30,9 +30,21 @@ And, email one of the administrators.
  - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 
 ### Resources
+category AdGuard `Extended CSS` == category uBO `Cosmetic filter operators`
+
+
+**AdGuard**
 
 https://kb.adguard.com/en/general/how-to-create-your-own-ad-filters
 
 https://github.com/AdguardTeam/Scriptlets/blob/master/wiki/about-scriptlets.md
 
 https://github.com/AdguardTeam/Scriptlets/blob/master/wiki/about-redirects.md
+
+**uBO**
+
+https://github.com/gorhill/uBlock/wiki/Static-filter-syntax
+
+https://github.com/gorhill/uBlock/wiki/Procedural-cosmetic-filters
+
+https://github.com/gorhill/uBlock/wiki/Resources-Library#defuser-scriptlets
