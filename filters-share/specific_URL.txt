@@ -1,3 +1,5 @@
+||ojsfile.ohmynews.com/AD_FILE/
+||ojsfile.ohmynews.com/CMPT_HTM/
 ||googlesyndication.com/pagead/
 ||shoppingcall.me/ad_shoppingCallme.php
 ||api.popin.cc/lib*-lightweight/popIn-*.min.js

@@ -1,3 +1,4 @@
+##iframe[src*="//ads.mobitree.co.kr/"]
 ##iframe[src*="//www.bodnara.co.kr/advert/advert.php"]
 ##.revenue_unit_item.dable
 ##.revenue_unit_item.adfit
