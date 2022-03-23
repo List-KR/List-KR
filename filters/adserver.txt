@@ -1,3 +1,4 @@
+||piclick.kr^
 ||ads-twitter.com^
 ||2mdn.net^
 ||ad.mrab.co.kr^
@@ -40,7 +41,7 @@
 ||adv.dailyissue.co.kr^
 ||ad.idnad.co.kr^
 ||adbiz2.co.kr^
-||deepdive.zum.com^$third-party
+||deepdive.zum.com^
 ||minishop.linkprice.com^
 ||ad.linkprice.com^
 ||tadapi.info^$third-party
