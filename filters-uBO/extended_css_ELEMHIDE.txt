@@ -1,2 +1,2 @@
 namu.wiki#?#article > div:watch-attr("/data-v-/"):has(> div:watch-attr("/data-v-/") > div > iframe[src*="//arca.live/static/ad/powerlink_"])
-namu.wiki#?#div[class]:watch-attr("/data-v-/"):has(> div:watch-attr("/data-v-/"):not([class]):not(:has(> a[href^="/w/"]:watch-attr("/data-v-/"))):not(:has(> a:watch-attr("/data-v-/"))):not(:contains(/.{1,}/i)))
+namu.wiki#?#div[class]:watch-attr("/data-v-/"):not(:has(form[method][enctype] > input[name="token"][type="hidden"])):not(:has(form[action^="/diff/"])):has(> div:watch-attr("/data-v-/"):not([class]):not(:has(> a[href^="/w/"]:watch-attr("/data-v-/"))):not(:has(> a:watch-attr("/data-v-/"))):not(:contains(/.{1,}/i)))
