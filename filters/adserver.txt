@@ -50,7 +50,7 @@
 ||adplex.co.kr^
 ||thetopic.co.kr^$third-party
 ||msadsense.com^
-||interworksmedia.co.kr^$third-party
+||interworksmedia.co.kr^
 ||adex.ednplus.com^
 ||adpnut.com^
 ||ad.smartmediarep.com^

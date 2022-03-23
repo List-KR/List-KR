@@ -1,3 +1,5 @@
+dispatch.co.kr###dpArticleBlocksWrapper
+dispatch.co.kr##div[id^="ADOP_"][style]
 m.clien.net##div[id^="naverAd"]
 m.ppomppu.co.kr##iframe[src^="https://m.ppomppu.co.kr/banner/google_ad.html"]
 m.ppomppu.co.kr##div[style]#mainList.community-board-list > ul > li[id$="_ad"][style]:not([class])
