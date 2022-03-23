@@ -127,7 +127,6 @@
 ||static.afreecatv.com/asset/service/ad/
 ||image.thebell.co.kr/banner/
 ||koya-culture.com/data/banner/
-||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices-gpt
 ||api.ruliweb.com/floating_ad|
 ||img.side.mythiell.com/ocenAd*.html
 ||side.mythiell.com/readUrl.php?url=http://adv.imadrep.co.kr/
