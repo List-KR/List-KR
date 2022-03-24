@@ -1,4 +1,5 @@
 ppss.kr###custom_html-2
+ppss.kr##.google-auto-placed
 m.ohmynews.com##main#article > .arc_list
 m.ohmynews.com##div[id^="mobitree"]
 m.ohmynews.com##iframe[src*="//ojsfile.ohmynews.com/AD_FILE/"]
