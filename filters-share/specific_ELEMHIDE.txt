@@ -1,3 +1,6 @@
+search.zum.com###search_result > #powerlinkSc
+search.zum.com###search_result > .naver_power_shopping
+search.zum.com###search_result > .powercont_sc
 zum.com##section.container > .cont_wrap > .left_area > #newsMenu > .recommend_wrap
 zum.com##div[class*="_adbox"]
 zum.com##section.container > .cont_wrap > .left_area > #shoppingMenu
