@@ -1,3 +1,9 @@
+ppss.kr###custom_html-3
+ppss.kr###genesis-content > :not(div.home-top)
+ppss.kr###ppss_wing_banner_left
+ppss.kr##.ad-video
+ppss.kr##.brand-margin
+ppss.kr##div[onclick*="clickSdrcCheck"]
 m.ohmynews.com##main#article > .arc_list
 m.ohmynews.com##div[id^="mobitree"]
 m.ohmynews.com##iframe[src*="//ojsfile.ohmynews.com/AD_FILE/"]
