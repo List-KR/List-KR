@@ -1,5 +1,3 @@
-ppss.kr##+js(set, Element.prototype.removeAttribute, trueFunc)
-ppss.kr##+js(set, alert, trueFunc)
 search.danawa.com##+js(set, getPowerLink, undefined)
 search.11st.co.kr##+js(set, searchDataFactory.plusPrdList, undefined)
 ygosu.com,ppss.kr##+js(set, setInterval, trueFunc)
