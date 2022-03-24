@@ -1,3 +1,8 @@
+ppss.kr###custom_html-2
+ppss.kr###custom_html-3
+ppss.kr##.ad-video
+ppss.kr##.brand-margin
+ppss.kr##div[onclick*="clickSdrcCheck"]
 zum.com##header > .search_bar > .w_inner > .right_doodle
 search.zum.com###search_result > #powerlinkSc
 search.zum.com###search_result > .naver_power_shopping
