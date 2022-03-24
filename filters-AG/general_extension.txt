@@ -1,3 +1,5 @@
+pandora.tv#%#//scriptlet("set-constant", "isnoad_vod", "true")
+pandora.tv#%#//scriptlet("set-constant", "isnoad_banner", "true")
 search.danawa.com#%#//scriptlet("set-constant", "getPowerLink", "undefined")
 search.11st.co.kr#%#//scriptlet("set-constant", "searchDataFactory.plusPrdList", "undefined")
 ygosu.com,ppss.kr#%#//scriptlet("set-constant", "setInterval", "trueFunc")

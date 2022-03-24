@@ -1,3 +1,5 @@
+pandora.tv##+js(set, isnoad_vod, true)
+pandora.tv##+js(set, isnoad_banner, true)
 search.danawa.com##+js(set, getPowerLink, undefined)
 search.11st.co.kr##+js(set, searchDataFactory.plusPrdList, undefined)
 ygosu.com,ppss.kr##+js(set, setInterval, trueFunc)

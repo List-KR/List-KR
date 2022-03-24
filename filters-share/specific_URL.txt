@@ -1,3 +1,6 @@
+||pandora.tv/_adv_img/
+||pandora.tv/nx_pandora/*/js/chAdPlayer.js
+||pandora.tv/nx_pandora/*/player/ptvAdPlayer.min.js
 ||ojsfile.ohmynews.com/AD_FILE/
 ||ojsfile.ohmynews.com/CMPT_HTM/
 ||googlesyndication.com/pagead/
