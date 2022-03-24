@@ -1,5 +1,5 @@
 ppss.kr###custom_html-3
-ppss.kr###genesis-content > div,span:not(:has(header)):not([itemprop])
+ppss.kr###genesis-content > :not(div.home-top)
 ppss.kr###ppss_wing_banner_left
 ppss.kr##.ad-video
 ppss.kr##.brand-margin
