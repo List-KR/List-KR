@@ -1,1 +1,3 @@
+||amazon-adsystem.com/aax2/apstag.js$script,redirect=amazon-apstag
+||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices-gpt
 ||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices-gpt
