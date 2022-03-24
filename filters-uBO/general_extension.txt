@@ -1,3 +1,4 @@
+ppss.kr##+js(set, Promise.prototype.catch, noopFunc)
 pandora.tv##+js(set, isnoad_vod, true)
 pandora.tv##+js(set, isnoad_banner, true)
 search.danawa.com##+js(set, getPowerLink, undefined)

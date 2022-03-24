@@ -1,3 +1,4 @@
+ppss.kr#%#//scriptlet('set-constant', 'Promise.prototype.catch', 'noopFunc')
 pandora.tv#%#//scriptlet("set-constant", "isnoad_vod", "true")
 pandora.tv#%#//scriptlet("set-constant", "isnoad_banner", "true")
 search.danawa.com#%#//scriptlet("set-constant", "getPowerLink", "undefined")
