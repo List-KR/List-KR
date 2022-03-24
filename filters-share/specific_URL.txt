@@ -1,3 +1,4 @@
+||search.zumst.com/scripts/zum.search.power*.js
 ||pandora.tv/_adv_img/
 ||pandora.tv/nx_pandora/*/js/chAdPlayer.js
 ||pandora.tv/nx_pandora/*/player/ptvAdPlayer.min.js
