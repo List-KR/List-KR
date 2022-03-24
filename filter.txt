@@ -1,6 +1,6 @@
 ! Title: List-KR
 ! Description: List-KR for AdGuard
-! Version: 2022.324.1
+! Version: 2022.324.2
 ! Expires: 1 day
 ! Homepage: https://github.com/List-KR/List-KR
 ! License: https://github.com/List-KR/List-KR/blob/master/LICENSE
@@ -68,36 +68,4 @@
 !#include filters-AG/desktop/macos_app/allowlist.txt
 !#include filters-AG/desktop/macos_app/antiadblock.txt
 !#include filters-AG/desktop/macos_app/specific_URL.txt
-!#endif
-
-! list-kr.github.io Detector
-!#if (adguard_app_windows)
-list-kr.github.io###ListKRFilterDetectorWin
-!#endif
-!#if (adguard_app_mac)
-list-kr.github.io###ListKRFilterDetectorMac
-!#endif
-!#if (adguard_app_android)
-list-kr.github.io###ListKRFilterDetectorAnd
-!#endif
-!#if (adguard_app_ios)
-list-kr.github.io###ListKRFilterDetectoriOS
-!#endif
-!#if (adguard_ext_safari)
-list-kr.github.io###ListKRFilterDetectorSafari
-!#endif
-!#if (adguard_ext_chromium)
-list-kr.github.io###ListKRFilterDetectorChrome
-!#endif
-!#if (adguard_ext_firefox)
-list-kr.github.io###ListKRFilterDetectorFirefox
-!#endif
-!#if (adguard_ext_edge)
-list-kr.github.io###ListKRFilterDetectorEdge
-!#endif
-!#if (adguard_ext_opera)
-list-kr.github.io###ListKRFilterDetectorOpera
-!#endif
-!#if (adguard_ext_android_cb)
-list-kr.github.io###ListKRFilterDetectorCon
 !#endif
