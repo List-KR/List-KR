@@ -1,3 +1,4 @@
+start.zum.com##.main > .extension-banner
 m.ohmynews.com##main#article > .arc_list
 m.ohmynews.com##div[id^="mobitree"]
 m.ohmynews.com##iframe[src*="//ojsfile.ohmynews.com/AD_FILE/"]
