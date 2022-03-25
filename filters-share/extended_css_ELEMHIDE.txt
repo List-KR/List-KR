@@ -1,3 +1,4 @@
+namu.wiki#?#div:has(> table > tbody > tr > td span > img[src*="ww.namu.la/s/"])
 namu.wiki#?#article div:has(a[href*="/w/%EB%B6%84%EB%A5%98:"]):has(> *:contains(분류)):not([class]) ~ div:has(table > tbody > tr > td[colspan]:not([style]) div:has(img[src*="ww.namu.la/s/"][class]):not(:has(div.namuwiki-toc-ad)))
 gigglehd.com#?#div[style~="!important;"] > .nw_box > div:not(class):not(id) > table[cellspacing="0"][class]:not(:has(a[href*="//gigglehd.com/gg/"]))
 instiz.net#?#.responsive_main > div[style] > .grouping_title:has(> div[style][class] > div[style]:contains(광고))
