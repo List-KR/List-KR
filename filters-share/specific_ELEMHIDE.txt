@@ -1,3 +1,4 @@
+cuonet.com##div[style~="background-image:"][style*=".cuonet.com/data/apms/background/"].item
 op.gg##div[id$="-ad"]
 rhythmer.net##div[class$="Banner"]
 minelist.kr##.content.ad
