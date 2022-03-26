@@ -1,5 +1,5 @@
+namu.wiki#?#article div:has(a[href*="/w/%EB%B6%84%EB%A5%98:"]):has(> h2:has-text(분류)):not([class]) ~ div:not(:has(br)):has(table > tbody > tr > td[style] div:has(img[src*="ww.namu.la/s/"][class]):not(:has(div.namuwiki-toc-ad)))
 newreop.com#?#.app-board-section > ul.app-board-template-list > li.notice:has(> a[href] > span > font[color]:has-text(AD))
-namu.wiki#?#article div:has(a[href*="/w/%EB%B6%84%EB%A5%98:"]):has(> h2:has-text(분류)):not([class]) ~ div:not(:has(br)):has(table > tbody > tr > td[colspan][style] div:has(img[src*="ww.namu.la/s/"][class]):not(:has(div.namuwiki-toc-ad)))
 instiz.net#?#.responsive_main > div[style] > .grouping_title:has(> div[style][class] > div[style]:has-text(광고))
 ajunews.com#?#.aside_item.banner:has(> h4[style~="font-size:13px;color:#999999;margin:0"]:has-text(AD))
 koreaminecraft.net#?#table.table-divider > tbody > tr.notice:has(> td.title > a > strong[style]:has-text([프리미엄]))
