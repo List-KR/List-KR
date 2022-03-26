@@ -1,3 +1,4 @@
+minelist.kr##.content.ad
 koreapas.com##img[src^="athe/"]
 koreapas.com##img[src*="koreapas.com/bbs/data/"]
 koreapas.com##body > div[align] > div[style*="overflow:hidden;"][align] > div > div[class] > a[href]
