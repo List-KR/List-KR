@@ -1,6 +1,5 @@
 everytime.kr#?#div.banners:has(> a[href*="//ad.everytime.kr/"])
 everytime.kr#?#.card:has( > .banner > a[href*="//ad.everytime.kr/"])
-namu.wiki#?#article div:has(a[href*="/w/%EB%B6%84%EB%A5%98:"]):has(> *:contains(분류)):not([class]) ~ div:has(table > tbody > tr > td[colspan]:not([style]) div:has(img[src*="ww.namu.la/s/"][class]):not(:has(div.namuwiki-toc-ad)))
 gigglehd.com#?#div[style~="!important;"] > .nw_box > div:not(class):not(id) > table[cellspacing="0"][class]:not(:has(a[href*="//gigglehd.com/gg/"]))
 meeco.kr#?#.bd > div[style].xe-widget-wrapper:has(section.w_list.swiper-container-android > ul > li > ul > li > a[href^="/Enterprise/"].list_link)
 hwbattle.com#?#tr:has(> td[colspan][rowspan] > a[href*="//prod.danawa.com/"] > img[src^="./partner/"])
