@@ -1,3 +1,3 @@
-namu.wiki#?#article div:has(a[href*="/w/%EB%B6%84%EB%A5%98:"]):has(> h2:has-text(분류)):not([class]) ~ div:has(table > tbody > tr > td[colspan][style] div:has(img[src*="ww.namu.la/s/"][class]):not(:has(div.namuwiki-toc-ad)))
+namu.wiki#?#article div:has(a[href*="/w/%EB%B6%84%EB%A5%98:"]):has(> h2:has-text(분류)):not([class]) ~ div:not(:has(br)):has(table > tbody > tr > td[colspan][style] div:has(img[src*="ww.namu.la/s/"][class]):not(:has(div.namuwiki-toc-ad)))
 namu.wiki#?#article > div:watch-attr("/data-v-/"):has(> div:watch-attr("/data-v-/") > div > iframe[src*="//arca.live/static/ad/powerlink_"])
 namu.wiki#?#div[class]:watch-attr("/data-v-/"):not(:has(form[method][enctype] > input[name="token"][type="hidden"])):not(:has(form[action^="/diff/"])):has(> div:watch-attr("/data-v-/"):not([class]):not(:has(> a[href^="/w/"]:watch-attr("/data-v-/"))):not(:has(> a:watch-attr("/data-v-/"))):not(:has-text(/.{1,}/i)))
