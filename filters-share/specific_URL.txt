@@ -1,3 +1,4 @@
+||rhythmer.net/common/js/Banner.js
 ||koreapas.com/bbs/data/
 ||koreapas.com/bbs/athe/
 ||search.zumst.com/scripts/zum.search.power*.js

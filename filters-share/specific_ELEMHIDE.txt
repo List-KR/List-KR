@@ -1,3 +1,4 @@
+rhythmer.net##div[class$="Banner"]
 minelist.kr##.content.ad
 koreapas.com##img[src^="athe/"]
 koreapas.com##img[src*="koreapas.com/bbs/data/"]
