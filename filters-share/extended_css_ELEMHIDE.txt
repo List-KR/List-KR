@@ -5,7 +5,6 @@ meeco.kr#?#.bd > div[style].xe-widget-wrapper:has(section.w_list.swiper-containe
 hwbattle.com#?#tr:has(> td[colspan][rowspan] > a[href*="//prod.danawa.com/"] > img[src^="./partner/"])
 meeco.kr#?#section#cCon > div[style].xe-widget-wrapper:has(> div[style] > div > div[style] > div[style] > .c_widget > div.w_list > ul.page_unit > li > div.w_w2_con > a[style][href^="/Enterprise/"])
 koreaminecraft.net#?#.fancybox-wrap:has(> .fancybox-skin > div > div > #dialoga.wst_ad_badge)
-m.dcinside.com#?#section.gall-lst-group > ul > li:has(> div.detail-top-lnk > a[href*="//addc.dcinside.com/"].lt > span:contains(AD))
 mule.co.kr#?##section-main.cf > div[class^="section-"] > div[class^="section-"] > div:has( > a[href][alt][target="_blank"] > img[alt][src])
 postshare.co.kr#?#pre > div[style]:has(> iframe[src*=".ad4989.co.kr/"])
 postshare.co.kr#?#.news_con > div[align]:has(> a[href*="//coupa.ng/"] > img[src*="//img.knowledgepower.co.kr/uploads/cpcbanner/"])

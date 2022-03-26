@@ -3,6 +3,7 @@ instiz.net#?#.responsive_main > div[style] > .grouping_title:has(> div[style][cl
 ajunews.com#?#.aside_item.banner:has(> h4[style~="font-size:13px;color:#999999;margin:0"]:has-text(AD))
 koreaminecraft.net#?#table.table-divider > tbody > tr.notice:has(> td.title > a > strong[style]:has-text([프리미엄]))
 gall.dcinside.com#?#table.gall_list > tbody > tr:has(> td.gall_subject > b:has-text(AD)):has(> td.gall_tit > a[href*="//addc.dcinside.com/"])
+m.dcinside.com#?#section.gall-lst-group > ul > li:has(> div.detail-top-lnk > a[href*="//addc.dcinside.com/"].lt > span:has-text(AD))
 ppss.kr#?#section[id^="custom_"]:has(> div.widget_text > h3:has-text(SPONSORED).widgettitle)
 m.bunjang.co.kr#?#.app > div > div > div[class]:has(> div[class] > div[class] > div[class]:has-text(파워링크))
 m.bunjang.co.kr#?#div:has(> div > div > div:has-text(연관상품) > div:has(> div:has-text(AD)) > img[alt="AD 가이드"])
