@@ -1,4 +1,4 @@
-inven.co.kr,ppss.kr,ygosu.com,inven.co.kr,tgd.kr#%#//scriptlet("abort-current-inline-script", "document.currentScript")
+ppss.kr,ygosu.com,inven.co.kr,tgd.kr#%#//scriptlet("abort-current-inline-script", "document.currentScript")
 koreapas.com#%#//scriptlet("set-constant", "random_imglink", "noopFunc")
 pandora.tv#%#//scriptlet("set-constant", "isnoad_vod", "true")
 pandora.tv#%#//scriptlet("set-constant", "isnoad_banner", "true")
