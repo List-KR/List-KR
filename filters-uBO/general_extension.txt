@@ -1,5 +1,5 @@
+inven.co.kr,ppss.kr,ygosu.com,inven.co.kr,tgd.kr##+js(acis, document.currentScript)
 koreapas.com##+js(set, random_imglink, noopFunc)
-ppss.kr##+js(set, Promise.prototype.catch, noopFunc)
 pandora.tv##+js(set, isnoad_vod, true)
 pandora.tv##+js(set, isnoad_banner, true)
 search.danawa.com##+js(set, getPowerLink, undefined)

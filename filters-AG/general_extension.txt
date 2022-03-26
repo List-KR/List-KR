@@ -1,5 +1,5 @@
+inven.co.kr,ppss.kr,ygosu.com,inven.co.kr,tgd.kr#%#//scriptlet("abort-current-inline-script", "document.currentScript")
 koreapas.com#%#//scriptlet("set-constant", "random_imglink", "noopFunc")
-ppss.kr#%#//scriptlet('set-constant', 'Promise.prototype.catch', 'noopFunc')
 pandora.tv#%#//scriptlet("set-constant", "isnoad_vod", "true")
 pandora.tv#%#//scriptlet("set-constant", "isnoad_banner", "true")
 search.danawa.com#%#//scriptlet("set-constant", "getPowerLink", "undefined")
