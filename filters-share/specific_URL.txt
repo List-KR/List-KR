@@ -1,3 +1,4 @@
+||cdn.bizwatch.co.kr/ads/
 ||opgg-gnb.akamaized.net/static/images/banners/
 ||op.gg/scripts/ga.js
 ||rhythmer.net/common/js/Banner.js
