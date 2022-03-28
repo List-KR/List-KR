@@ -1,3 +1,5 @@
+||sisain.co.kr/adManager/css/adManager.css
+||sisain.co.kr/bannerpop/uploads/
 ||cdn.bizwatch.co.kr/ads/
 ||opgg-gnb.akamaized.net/static/images/banners/
 ||op.gg/scripts/ga.js
