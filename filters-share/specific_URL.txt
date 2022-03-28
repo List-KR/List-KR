@@ -1,3 +1,4 @@
+||kwnews.co.kr/kwnews/ad/
 ||kado.net/bannerpop/uploads/
 ||kado.net/adManager/css/adManager.css
 ||sisain.co.kr/adManager/css/adManager.css
