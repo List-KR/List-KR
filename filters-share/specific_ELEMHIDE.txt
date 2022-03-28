@@ -1,3 +1,4 @@
+m.kwnews.co.kr##iframe[src^="/html/AppBanner.asp"]
 kwnews.co.kr##td[width="100%"][valign="top"][align="center"] > table[cellspacing] > tbody > tr > td[align] > div[style~="height:170px;padding-top:20px;border:solid"]
 kwnews.co.kr##div[itemprop="articleBody"]#kwnews_body > div:not([style]):not([class]):not([id])
 bizwatch.co.kr##[class*="ad_bizwatch_"]

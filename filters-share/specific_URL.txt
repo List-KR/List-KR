@@ -1,3 +1,5 @@
+||kwnews.co.kr/html/AppBanner.asp
+||kwnews.co.kr/kwnews/AD/$document
 ||kwnews.co.kr/kwnews/ad/
 ||kado.net/bannerpop/uploads/
 ||kado.net/adManager/css/adManager.css
