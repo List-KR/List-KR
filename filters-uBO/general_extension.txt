@@ -1,4 +1,4 @@
-op.gg,etoland.co.kr,sports.donga.com,mlbpark.donga.com,ppss.kr,ygosu.com,inven.co.kr,tgd.kr##+js(acis, document.currentScript)
+op.gg,etoland.co.kr,sports.donga.com,mlbpark.donga.com,ppss.kr,inven.co.kr,tgd.kr##+js(acis, document.currentScript)
 koreapas.com##+js(set, random_imglink, noopFunc)
 pandora.tv##+js(set, isnoad_vod, true)
 pandora.tv##+js(set, isnoad_banner, true)
