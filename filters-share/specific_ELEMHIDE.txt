@@ -299,7 +299,7 @@ inven.co.kr###inven_reservation_box
 inven.co.kr##.menuGroup.imt_banner
 inven.co.kr##.banner_box
 inven.co.kr##iframe[src*="//zicf.inven.co.kr/RealMedia/ads/"]
-hankyung.com,m.etnews.com,hani.co.kr,hankookilbo.com,newspim.com,inven.co.kr##div[class^="ad-"]
+dailysecu.com,hankyung.com,m.etnews.com,hani.co.kr,hankookilbo.com,newspim.com,inven.co.kr##div[class^="ad-"]
 inven.co.kr##section[class^="ad-"]
 inven.co.kr###topskyAd
 tgd.kr##div[style*="background:url(https://upload.tgd.kr/banner/320x50n.jpg)"]
