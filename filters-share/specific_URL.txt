@@ -1,3 +1,4 @@
+||irobotnews.com/bannerManager/
 ||datanet.co.kr/adManager/css/adManager.css
 ||datanet.co.kr/bannerpop/uploads/
 ||kwnews.co.kr/html/AppBanner.asp
