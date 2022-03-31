@@ -1,3 +1,4 @@
+||hellot.net/data/banner/
 ||dailysecu.com/bannerpop/uploads/
 ||irobotnews.com/bannerManager/
 ||datanet.co.kr/adManager/css/adManager.css
