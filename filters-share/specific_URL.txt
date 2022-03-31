@@ -1,3 +1,5 @@
+||cdnews.co.kr/script/banner.js
+||cdnews.co.kr/bannerManager/
 ||hellodd.com/adManager/css/adManager.css
 ||hellodd.com/bannerpop/uploads/
 ||hellot.net/data/banner/
