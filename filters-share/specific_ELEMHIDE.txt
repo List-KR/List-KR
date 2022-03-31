@@ -1,3 +1,4 @@
+hellot.net##ins.dcmads
 m.kwnews.co.kr##iframe[src^="/html/AppBanner.asp"]
 kwnews.co.kr##td[width="100%"][valign="top"][align="center"] > table[cellspacing] > tbody > tr > td[align] > div[style~="height:170px;padding-top:20px;border:solid"]
 kwnews.co.kr##div[itemprop="articleBody"]#kwnews_body > div:not([style]):not([class]):not([id])
@@ -299,7 +300,7 @@ inven.co.kr###inven_reservation_box
 inven.co.kr##.menuGroup.imt_banner
 inven.co.kr##.banner_box
 inven.co.kr##iframe[src*="//zicf.inven.co.kr/RealMedia/ads/"]
-hankyung.com,m.etnews.com,hani.co.kr,hankookilbo.com,newspim.com,inven.co.kr##div[class^="ad-"]
+dailysecu.com,hankyung.com,m.etnews.com,hani.co.kr,hankookilbo.com,newspim.com,inven.co.kr##div[class^="ad-"]
 inven.co.kr##section[class^="ad-"]
 inven.co.kr###topskyAd
 tgd.kr##div[style*="background:url(https://upload.tgd.kr/banner/320x50n.jpg)"]

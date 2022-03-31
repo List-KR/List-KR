@@ -70,7 +70,7 @@
 ||nsclick.neoebiz.co.kr^
 ||nscreen.neoebiz.co.kr^
 ||netinsight.co.kr^$third-party
-||realclick.co.kr^$third-party
+||realclick.co.kr^
 ||googleadservices.com^
 ||adapi.about.co.kr^
 ||adx.turl.co.kr^

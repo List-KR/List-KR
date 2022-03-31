@@ -1,3 +1,12 @@
+||cdnews.co.kr/script/banner.js
+||cdnews.co.kr/bannerManager/
+||hellodd.com/adManager/css/adManager.css
+||hellodd.com/bannerpop/uploads/
+||hellot.net/data/banner/
+||dailysecu.com/bannerpop/uploads/
+||irobotnews.com/bannerManager/
+||datanet.co.kr/adManager/css/adManager.css
+||datanet.co.kr/bannerpop/uploads/
 ||kwnews.co.kr/html/AppBanner.asp
 ||kwnews.co.kr/kwnews/AD/$document
 ||kwnews.co.kr/kwnews/ad/
