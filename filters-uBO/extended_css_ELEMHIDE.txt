@@ -11,6 +11,6 @@ tgd.kr#?#div[style^="display:"][style*="flex;"] > div[style^="flex:"]:has-text(A
 m.ppomppu.co.kr#?#div#bbs_inform > ul > li span:has-text(AD):upward(1)
 !
 ! namu.wiki
-namu.wiki#?#table:not([class][style]):has(+ div[class="wiki-paragraph"]:empty)
+namu.wiki#?#div:not([class]):has(> table + .wiki-paragraph)
 namu.wiki#?#article > div:watch-attr("/data-v-/"):has(> div:watch-attr("/data-v-/") > div > iframe[src*="//arca.live/static/ad/powerlink_"])
 namu.wiki#?#div[class]:watch-attr("/data-v-/"):not(:has(form[method][enctype] > input[name="token"][type="hidden"])):not(:has(form[action^="/diff/"])):has(> div:watch-attr("/data-v-/"):not([class]):not(:has(> a[href^="/w/"]:watch-attr("/data-v-/"))):not(:has(> a:watch-attr("/data-v-/"))):not(:has-text(/.{1,}/i)))
