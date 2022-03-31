@@ -1,3 +1,5 @@
+||hellodd.com/adManager/css/adManager.css
+||hellodd.com/bannerpop/uploads/
 ||hellot.net/data/banner/
 ||dailysecu.com/bannerpop/uploads/
 ||irobotnews.com/bannerManager/
