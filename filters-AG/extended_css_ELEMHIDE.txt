@@ -11,8 +11,6 @@ tgd.kr#?#div[style^="display:"][style*="flex;"] > div[style^="flex:"]:contains(A
 m.ppomppu.co.kr#?#div#bbs_inform > ul > li span:contains(AD):upward(1)
 !
 ! namu.wiki
-namu.wiki#?#article div:has(a[href*="/w/%EB%B6%84%EB%A5%98:"]):has(> h2:contains(분류)):not([class]) ~ div:not(:has(br)):has(div:not([class]) > div:not([class]) > div:not([class]) div:has(span:not([class]) > img[src^="data:image/png;base64"][class]):not(:has(div.namuwiki-toc-ad)))
-namu.wiki#?#article div:has(a[href*="/w/%EB%B6%84%EB%A5%98:"]):has(> h2:contains(분류)):not([class]) ~ div:not(:has(br)):has(div:not([class]) > div:not([class]) > div:not([class]) div:has(span:not([class]) > img[src*="w.namu.la/s/"][class]):not(:has(div.namuwiki-toc-ad)))
-namu.wiki#?#article div:has(a[href*="/w/%EB%B6%84%EB%A5%98:"]):has(> h2:contains(분류)):not([class]) ~ div:not(:has(br)):has(table > tbody > tr > td[style] div:has(img[src*="w.namu.la/s/"][class]):not(:has(div.namuwiki-toc-ad)))
+namu.wiki#?#div:not([class]):has(> table + .wiki-paragraph)
 namu.wiki#?#article > div:matches-attr("/data-v-/"):has(> div:matches-attr("/data-v-/") > div > iframe[src*="//arca.live/static/ad/powerlink_"])
 namu.wiki#?#div[class]:matches-attr("/data-v-/"):not(:has(form[method][enctype] > input[name="token"][type="hidden"])):not(:has(form[action^="/diff/"])):has(> div:matches-attr("/data-v-/"):not([class]):not(:has(> a[href^="/w/"]:matches-attr("/data-v-/"))):not(:has(> a:matches-attr("/data-v-/"))):not(:contains(/.{1,}/i)))
