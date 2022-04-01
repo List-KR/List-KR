@@ -370,9 +370,9 @@ www.naver.com##iframe[id^="da_iframe_"]
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
-manatoki124.net,manatoki125.net,manatoki126.net,manatoki127.net,manatoki128.net,manatoki129.net,manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net##[style="margin-bottom: 20px;"].row.row-15
-manatoki124.net,manatoki125.net,manatoki126.net,manatoki127.net,manatoki128.net,manatoki129.net,manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net##.basic-banner.row.row-10
-manatoki124.net,manatoki125.net,manatoki126.net,manatoki127.net,manatoki128.net,manatoki129.net,manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net##.board-tail-banner
+manatoki126.net,manatoki127.net,manatoki128.net,manatoki129.net,manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki186.net##[style="margin-bottom: 20px;"].row.row-15
+manatoki126.net,manatoki127.net,manatoki128.net,manatoki129.net,manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki186.net##.basic-banner.row.row-10
+manatoki126.net,manatoki127.net,manatoki128.net,manatoki129.net,manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki186.net##.board-tail-banner
 103.204.13.68##.product-banner
 103.204.13.68##div[class^="mobile-m ad720_"]
 copytoon*.com##a[href*="/bbs/bannerhit.php?"]
