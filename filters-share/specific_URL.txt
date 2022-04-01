@@ -1,3 +1,5 @@
+||golfhankook.hankooki.com/adManager/css/adManager.css
+||golfhankook.hankooki.com/bannerpop/uploads/
 ||basketkorea.com/support/_updata/banner
 ||cdnews.co.kr/script/banner.js
 ||cdnews.co.kr/bannerManager/
