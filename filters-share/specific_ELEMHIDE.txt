@@ -377,6 +377,5 @@ manatoki126.net,manatoki127.net,manatoki128.net,manatoki129.net,manatoki130.net,
 103.204.13.68##div[class^="mobile-m ad720_"]
 copytoon*.com##a[href*="/bbs/bannerhit.php?"]
 torrentdia12.com##[href*=".com/bbs/bannerhit.php?"]
-torrentonly5.com##a[href^="https://www.torrentonly5.com/bbs/bannerhit.php?"]
-torrentonly5.com#?#tbody > tr:has(> td > a[href^="https://www.torrentonly5.com/bbs/bannerhit.php?"])
+torrentonly7.com,torrentonly8.com,torrentonly9.com,torrentonly10.com,torrentonly11.com,torrentonly12.com,torrentonly13.com,torrentonly14.com,torrentonly15.com,torrentonly16.com,torrentonly17.com,torrentonly18.com##a[href^="https://www.torrentonly5.com/bbs/bannerhit.php?"]
 hellven.net##a[href$="&utm_medium=hellven1&referer=internal_hellven_banner_hellven1"]

@@ -30,3 +30,9 @@ ppomppu.co.kr#?#ul#new_bbs_best > li > a.title span[style="color:#1264b1;"]:upwa
 m.bobaedream.co.kr#?#div[style^="display:flex;"] > div[id^="div-gpt-ad-"]:upward(1)
 bobaedream.co.kr#?#tr.best > td a[href*="bobaedream.co.kr/event/event_list.php?"]:upward(2)
 orbi.kr#?#a[class="tag"][href^="/list/tag/"][-ext-contains="#제휴사공지"]:upward(li.notice)
+!
+! Each domain of website in this section is forbidden by Internet censorship of S. Korea.
+! Some listed domains have been changed by their administrators regularly.
+! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
+!
+torrentonly7.com,torrentonly8.com,torrentonly9.com,torrentonly10.com,torrentonly11.com,torrentonly12.com,torrentonly13.com,torrentonly14.com,torrentonly15.com,torrentonly16.com,torrentonly17.com,torrentonly18.com#?#tbody > tr:has(> td > a[href^="https://www.torrentonly5.com/bbs/bannerhit.php?"])
