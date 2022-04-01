@@ -1,3 +1,4 @@
+||dogdrip.net/common/dload.php
 ||news.unn.net/adManager/css/adManager.css
 ||news.unn.net/bannerpop/uploads/
 ||eduyonhap.com/data/banner/
