@@ -1,3 +1,5 @@
+namu.wiki#?#div:not([class]):has(> table + .wiki-paragraph)
+namu.wiki#?#aside div[class][id] > div[id]:not([class]):not(:has(> *))
 op.gg#?#div[class]:has( > div:not([id]):not([class]):not([style]) > div[data-display-type="hybrid-banner"][data-publisher-ref="side-bar-ad"])
 everytime.kr#?#div.banners:has(> a[href*="//ad.everytime.kr/"])
 everytime.kr#?#.card:has( > .banner > a[href*="//ad.everytime.kr/"])

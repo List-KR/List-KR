@@ -1,3 +1,4 @@
+namu.wiki#?#article div[class]:not([id]):not(:has(.wiki-paragraph)):not(:has(h2:not([id]):not([class]):not(:has-text(분류)))) > div[id]:not([class])
 newreop.com#?#.app-board-section > ul.app-board-template-list > li.notice:has(> a[href] > span > font[color]:has-text(AD))
 instiz.net#?#.responsive_main > div[style] > .grouping_title:has(> div[style][class] > div[style]:has-text(광고))
 ajunews.com#?#.aside_item.banner:has(> h4[style~="font-size:13px;color:#999999;margin:0"]:has-text(AD))
@@ -9,8 +10,3 @@ m.bunjang.co.kr#?#.app > div > div > div[class]:has(> div[class] > div[class] > 
 m.bunjang.co.kr#?#div:has(> div > div > div:has-text(연관상품) > div:has(> div:has-text(AD)) > img[alt="AD 가이드"])
 tgd.kr#?#div[style^="display:"][style*="flex;"] > div[style^="flex:"]:has-text(AD):upward(2)
 m.ppomppu.co.kr#?#div#bbs_inform > ul > li span:has-text(AD):upward(1)
-!
-! namu.wiki
-namu.wiki#?#div:not([class]):has(> table + .wiki-paragraph)
-namu.wiki#?#article div[class]:not([id]):not(:has(.wiki-paragraph)):not(:has(h2:not([id]):not([class]):not(:has-text(분류)))) > div[id]:not([class])
-namu.wiki#?#aside div[class][id] > div[id]:not([class]):not(:has(> *))
