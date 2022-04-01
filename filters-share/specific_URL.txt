@@ -1,3 +1,4 @@
+||koenergy.co.kr/bannerpop/uploads/
 ||knpnews.com/adManager/css/adManager.css
 ||knpnews.com/bannerpop/uploads/
 ||golfhankook.hankooki.com/adManager/css/adManager.css
