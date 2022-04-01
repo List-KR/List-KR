@@ -1,3 +1,4 @@
+||eduyonhap.com/data/banner/
 ||dhnews.co.kr/adManager/css/adManager.css
 ||dhnews.co.kr/bannerpop/uploads/
 ||koenergy.co.kr/bannerpop/uploads/
