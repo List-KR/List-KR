@@ -9,4 +9,4 @@ ppss.kr#?#section[id^="custom_"]:has(> div.widget_text > h3:has-text(SPONSORED).
 m.bunjang.co.kr#?#.app > div > div > div[class]:has(> div[class] > div[class] > div[class]:has-text(파워링크))
 m.bunjang.co.kr#?#div:has(> div > div > div:has-text(연관상품) > div:has(> div:has-text(AD)) > img[alt="AD 가이드"])
 tgd.kr#?#div[style^="display:"][style*="flex;"] > div[style^="flex:"]:has-text(AD):upward(2)
-m.ppomppu.co.kr#?#div#bbs_inform > ul > li span:has-text(AD):upward(1)
+m.ppomppu.co.kr#?#.community-board-notice-box > #bbs_inform:has(> ul > li span:has-text(AD))
