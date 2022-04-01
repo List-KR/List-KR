@@ -1,4 +1,4 @@
-etoland.co.kr,sports.donga.com,mlbpark.donga.com,ppss.kr,inven.co.kr,tgd.kr#%#//scriptlet("abort-current-inline-script", "document.currentScript")
+etoland.co.kr,sports.donga.com,mlbpark.donga.com,inven.co.kr,tgd.kr#%#//scriptlet("abort-current-inline-script", "document.currentScript")
 koreapas.com#%#//scriptlet("set-constant", "random_imglink", "noopFunc")
 pandora.tv#%#//scriptlet("set-constant", "isnoad_vod", "true")
 pandora.tv#%#//scriptlet("set-constant", "isnoad_banner", "true")
