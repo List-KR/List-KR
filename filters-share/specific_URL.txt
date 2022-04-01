@@ -1,3 +1,5 @@
+||knpnews.com/adManager/css/adManager.css
+||knpnews.com/bannerpop/uploads/
 ||golfhankook.hankooki.com/adManager/css/adManager.css
 ||golfhankook.hankooki.com/bannerpop/uploads/
 ||basketkorea.com/support/_updata/banner
