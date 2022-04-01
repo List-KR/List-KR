@@ -1,3 +1,4 @@
+news.unn.net#$#.grid-body.g-body { width: 100% !important; }
 autopostkorea.com#$#.site-footer { padding-bottom: 0px !important; }
 etoland.co.kr#$#.hit_list_ul_wrap { width: 100% !important; }
 inven.co.kr#$#aside[data-cached].commu-right > div[style]:not(class):not(id) { transform: translateX(-1vh) scale(0); }

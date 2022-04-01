@@ -1,3 +1,5 @@
+||news.unn.net/adManager/css/adManager.css
+||news.unn.net/bannerpop/uploads/
 ||eduyonhap.com/data/banner/
 ||dhnews.co.kr/adManager/css/adManager.css
 ||dhnews.co.kr/bannerpop/uploads/
