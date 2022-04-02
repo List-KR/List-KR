@@ -1,6 +1,6 @@
 ! Title: List-KR DNS
 ! Description: List-KR DNS for AdGuard DNS
-! Version: 2022.330.2
+! Version: 2022.402.1
 ! Expires: 1 day
 ! Homepage: https://github.com/List-KR/List-KR
 ! License: https://github.com/List-KR/List-KR/blob/master/LICENSE

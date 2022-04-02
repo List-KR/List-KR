@@ -1,3 +1,4 @@
+search.tmon.co.kr#?#section.search_deallist > .deallist_wrap > ul > li[class]:has(> a[href*="//display.admonseller.com/"].anchor)
 namu.wiki#?#div:not([class]):has(> table + .wiki-paragraph)
 namu.wiki#?#aside div[class][id] > div[id]:not([class]):not(:has(> *))
 op.gg#?#div[class]:has( > div:not([id]):not([class]):not([style]) > div[data-display-type="hybrid-banner"][data-publisher-ref="side-bar-ad"])
