@@ -1,3 +1,4 @@
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$redirect=googlesyndication_adsbygoogle
 ||amazon-adsystem.com/aax2/apstag.js$script,redirect=amazon_apstag.js
 ||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices_gpt.js
 ||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices_gpt.js

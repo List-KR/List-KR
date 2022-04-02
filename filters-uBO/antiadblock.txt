@@ -13,7 +13,6 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 ||videoads.kakao.com/adserver/api/v2/vmap$redirect=noop-vmap1.0.xml,domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
 !
 noonnu.cc##+js(aopr, localStorage.getItem, adBlockMethodology)
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$redirect=googlesyndication_adsbygoogle,domain=noonnu.cc
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ko.ff14angler.com
 ko.ff14angler.com#@#ins.adsbygoogle
 lover9.net#@#.adsbygoogle
@@ -22,10 +21,8 @@ lover9.net##+js(aopr, goPage)
 lover9.net##+js(acis, setTimeout, /location/)
 ||adblockanalytics.com^$xmlhttprequest,redirect=noop.txt,domain=1412.rest
 ||1412.rest/addons/*/adblockDetector.js
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$redirect=googlesyndication_adsbygoogle.js,domain=cpsp.kr
 sajuplus.net##.adsense-alt
 tistory.com,sajuplus.net##+js(set, checkAds, noopFunc)
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$redirect=googlesyndication_adsbygoogle.js,domain=1412.rest
 1412.rest##.ADs-BG.center
 ! mbn.co.kr ( https://github.com/AdguardTeam/AdguardFilters/issues/104586 )
 ||ad.smartmediarep.com/NetInsight/video/$redirect=noop.txt,domain=mbn.co.kr
