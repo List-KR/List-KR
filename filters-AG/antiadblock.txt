@@ -3,7 +3,7 @@ avjamak.net,untitle.org,seo-marketing.co.kr#%#//scriptlet('abort-current-inline-
 ! #%#//scriptlet("prevent-setTimeout", "/\.displayMessage\(/")
 lover9.net,1412.rest,3dpchip.com#%#//scriptlet("prevent-setTimeout", "/\.displayMessage\(/")
 !  #%#//scriptlet("prevent-bab")
-!
+tistory.com#%#//scriptlet("prevent-bab")
 ! Kakao TV
 kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#ins.kakao_ad_area
 kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@##adBlockPixelTag

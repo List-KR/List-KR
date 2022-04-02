@@ -2,7 +2,8 @@
 avjamak.net,untitle.org,seo-marketing.co.kr##+js(acis, document.addEventListener, /adscale_slot_id/)
 ! ##+js(nostif, /\.displayMessage\(/)
 lover9.net,1412.rest,3dpchip.com##+js(nostif, /\.displayMessage\(/)
-!  #%#//scriptlet("prevent-bab")
+!  BlockAdBlock
+tistory.com##+js(noeval-if, /detect and block adblock users/)
 !
 ! Kakao TV
 kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#ins.kakao_ad_area
