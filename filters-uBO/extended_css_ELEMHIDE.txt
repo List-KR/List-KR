@@ -1,3 +1,5 @@
+namu.wiki#?#article div:not([class]):has(> h2:not([class]):has-text(분류)) ~ div:has(div ~ .wiki-paragraph):has(span:not([class]) > img[class][src*="w.namu.la/s/"])
+namu.wiki#?#article div:not([class]):has(> h2:not([class]):has-text(분류)) ~ div:has(div ~ .wiki-paragraph):has(span:not([class]) > img[class][src^="data:image/"])
 namu.wiki#?#article div[class]:not([id]):not(:has(.wiki-paragraph)):not(:has(h2:not([id]):not([class]):not(:has-text(분류)))) > div[id]:not([class])
 newreop.com#?#.app-board-section > ul.app-board-template-list > li.notice:has(> a[href] > span > font[color]:has-text(AD))
 instiz.net#?#.responsive_main > div[style] > .grouping_title:has(> div[style][class] > div[style]:has-text(광고))
