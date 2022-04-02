@@ -23,7 +23,7 @@ lover9.net#%#//scriptlet("abort-current-inline-script", "setTimeout", "/location
 ||1412.rest/addons/*/adblockDetector.js
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$redirect=googlesyndication-adsbygoogle,domain=cpsp.kr
 sajuplus.net##.adsense-alt
-sajuplus.net#%#//scriptlet("set-constant", "checkAds", "noopFunc")
+tistory.com,sajuplus.net#%#//scriptlet("set-constant", "checkAds", "noopFunc")
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$redirect=googlesyndication-adsbygoogle,domain=1412.rest
 1412.rest##.ADs-BG.center
 ! mbn.co.kr ( https://github.com/AdguardTeam/AdguardFilters/issues/104586 )
