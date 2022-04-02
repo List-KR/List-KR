@@ -1,3 +1,4 @@
+noonnu.cc##div[data-fonts-target="fontsContainer"] > div.group.min-h-auto:not(.duration-300):not(.justify-between)
 dogdrip.net##.ddnad-board
 hellot.net##ins.dcmads
 m.kwnews.co.kr##iframe[src^="/html/AppBanner.asp"]
