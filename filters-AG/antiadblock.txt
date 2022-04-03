@@ -3,7 +3,7 @@ avjamak.net,untitle.org,seo-marketing.co.kr#%#//scriptlet('abort-current-inline-
 ! #%#//scriptlet("prevent-setTimeout", "/\.displayMessage\(/")
 lover9.net,1412.rest,3dpchip.com#%#//scriptlet("prevent-setTimeout", "/\.displayMessage\(/")
 ! BlockAdBlock
-tistory.com#%#//scriptlet("prevent-bab")
+fafan.kr,tistory.com#%#//scriptlet("prevent-bab")
 ! FuckAdBlock
 tistory.com#%#//scriptlet("prevent-fab-3.2.0")
 tistory.com#%#//scriptlet("abort-on-property-read", "adBlockDetected")

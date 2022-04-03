@@ -3,7 +3,7 @@ avjamak.net,untitle.org,seo-marketing.co.kr##+js(acis, document.addEventListener
 ! ##+js(nostif, /\.displayMessage\(/)
 lover9.net,1412.rest,3dpchip.com##+js(nostif, /\.displayMessage\(/)
 ! BlockAdBlock
-tistory.com##+js(nobab)
+fafan.kr,tistory.com##+js(nobab)
 tistory.com##+js(nobab2)
 ! FuckAdBlock
 tistory.com##+js(nofab)
