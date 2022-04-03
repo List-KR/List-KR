@@ -1,3 +1,4 @@
+||dogdrip.net/addons/ddnetspt/js/ddnetspt_ad.js
 ||noonnu.cc/ad_banners/$document
 ||allyearcdn.com/img/guanggo/new/
 ||ppomppu.co.kr/inform_ad_click.php$document
