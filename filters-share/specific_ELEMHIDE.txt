@@ -1,3 +1,5 @@
+www.daum.net##div[class^="advert_"]
+www.daum.net##.box_shopping
 noonnu.cc##div[data-fonts-target="fontsContainer"] > div.group.min-h-auto:not(.duration-300):not(.justify-between)
 dogdrip.net##.ddnad-board
 hellot.net##ins.dcmads
