@@ -8,7 +8,8 @@ tistory.com##+js(nobab2)
 ! FuckAdBlock
 tistory.com##+js(nofab)
 tistory.com##+js(aopr, adBlockDetected)
-!
+! ai-adb
+jootc.com##+js(set, ai_run_scripts, noopFunc)
 ! Kakao TV
 kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#ins.kakao_ad_area
 kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@##adBlockPixelTag
