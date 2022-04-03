@@ -1,3 +1,4 @@
+kr-weathernews.com#?#body > article#content > article.block:has(ul#life_slider)
 search.tmon.co.kr#?#section.search_deallist > .deallist_wrap > ul > li[class]:has(> a[href*="//display.admonseller.com/"].anchor)
 namu.wiki#?#div:not([class]):has(> table + .wiki-paragraph)
 namu.wiki#?#aside div[class][id] > div[id]:not([class]):not(:has(> *))
