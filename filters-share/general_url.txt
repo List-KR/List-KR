@@ -1,3 +1,4 @@
+/jdetects.min.js
 /bannerpop/uploads/
 /media/banner/*
 /data/banner/*
