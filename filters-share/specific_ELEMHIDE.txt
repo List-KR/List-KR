@@ -1,3 +1,5 @@
+m.ytn.co.kr##div[class^="newsview_ad_"]
+m.ytn.co.kr##div[class^="text_ad_"]
 nts.go.kr##.blockUI.blockOverlay
 nts.go.kr##.blockUI.blockMsg.blockPage
 www.daum.net##div[class^="advert_"]
