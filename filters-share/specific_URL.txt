@@ -1,4 +1,4 @@
-||coupang.com/?src*addtag=*&placementid&campaignid*&subid=*&impressionid&campaigntype*&subparam=$document,domain=ppss.kr|ygosu.com|tgd.kr
+||coupang.com/?src*addtag=*&placementid&campaignid*&subid=*&impressionid&campaigntype*&subparam=$document,domain=ppss.kr|ygosu.com|tgd.kr|inven.co.kr
 /\/[0-9a-zA-Z\_?\-]{19,}\.(?!png|jpg|gif|jpeg|html|htm|txt)/$document,domain=ppss.kr|ygosu.com|tgd.kr|inven.co.kr
 ||startupn.kr/adManager/css/adManager.css
 ||startupn.kr/bannerpop/uploads/
