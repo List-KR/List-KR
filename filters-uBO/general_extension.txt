@@ -1,3 +1,4 @@
+ppss.kr##+js(set, Object.prototype.keys, undefined)
 koreapas.com##+js(set, random_imglink, noopFunc)
 pandora.tv##+js(set, isnoad_vod, true)
 pandora.tv##+js(set, isnoad_banner, true)
