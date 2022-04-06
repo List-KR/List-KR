@@ -1,4 +1,4 @@
-@@$generichide,domain=ppss.kr|ygosu.com|tgd.kr|inven.co.kr
+@@$generichide,domain=ppss.kr|ygosu.com|tgd.kr|inven.co.kr|loawa.com
 @@||weekly.chosun.com/images/banner/colm$image
 @@||adimg3.search.naver.net/adpost/adpost_show_ads_min.js$domain=search.danawa.com
 @@||ad-img.ebaykorea.com/ADS/$image,domain=auction.co.kr
