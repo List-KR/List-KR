@@ -1,3 +1,4 @@
+ppss.kr#%#//scriptlet('set-constant', 'Object.prototype.keys', 'emptyArr')
 koreapas.com#%#//scriptlet("set-constant", "random_imglink", "noopFunc")
 pandora.tv#%#//scriptlet("set-constant", "isnoad_vod", "true")
 pandora.tv#%#//scriptlet("set-constant", "isnoad_banner", "true")
