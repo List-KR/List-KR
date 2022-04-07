@@ -208,7 +208,7 @@
 ||file.okky.kr/banner/
 ||cdn.ppomppu.co.kr/zboard/data*/banner/
 ||arca.live/static/assets/js/pagead.min.js
-||ssl.pstatic.net/adimg3.search/adpost/js/adpost_show_ads_v2.min.js
+||ssl.pstatic.net/adimg3.search/adpost/js/
 ||img.ruliweb.com/view/
 ||nstatic.dcinside.com/ad/
 ||s3-class.orbi.kr/event/

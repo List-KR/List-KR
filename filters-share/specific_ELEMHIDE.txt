@@ -1,3 +1,4 @@
+m.search.naver.com##section[class*="ad_"].sp_power
 m.ytn.co.kr##div[class^="newsview_ad_"]
 m.ytn.co.kr##div[class^="text_ad_"]
 nts.go.kr##.blockUI.blockOverlay
