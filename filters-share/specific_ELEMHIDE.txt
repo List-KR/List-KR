@@ -1,4 +1,3 @@
-namu.wiki##div:not([class*="wiki"]) > div[class] > table:not([class])
 m.search.naver.com##section[class*="ad_"].sp_power
 m.ytn.co.kr##div[class^="newsview_ad_"]
 m.ytn.co.kr##div[class^="text_ad_"]
