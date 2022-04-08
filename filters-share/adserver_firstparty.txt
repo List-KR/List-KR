@@ -1,3 +1,5 @@
+||ad.a-ads.com^
+||acceptable.a-ads.com^
 ||display.admonseller.com^
 ||ad.ciokorea.com^
 ||ads.netinsight.co.kr^

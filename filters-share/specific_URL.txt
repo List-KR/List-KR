@@ -1,3 +1,7 @@
+||a.realsrv.com/ad-provider.js
+||watchfreejavonline.co/wp-content/uploads/*.gif
+||i0.wp.com/watchfreejavonline.co/wp-content/uploads/
+||static.javhd.com/h5/files/
 ||mdjournal.kr/banner/
 ||mdjournal.kr/bannerManager/
 ||coupang.com/?*addtag=*&pageType*&placementid*&impressionid&campaigntype$document

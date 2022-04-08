@@ -1,3 +1,4 @@
+##iframe[src*="//ad.a-ads.com/"]
 ##iframe[src*="//www.mediabp.kr/"]
 ##iframe[src*="//shoppingbox.zum.com/"]
 ##iframe[src*="//ads.mobitree.co.kr/"]
