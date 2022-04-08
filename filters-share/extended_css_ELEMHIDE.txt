@@ -1,5 +1,4 @@
-namu.wiki#?#article div[class]:has(> table a:not(a[title][href]) span > img[src*="//ww.namu.la/s/"][class])
-namu.wiki#?#article div[class]:has(> table a:not(a[title][href]) span > img[src^="data:image"][class])
+namu.wiki#?#div:not([class*="wiki"]) > table:not([class])
 kr-weathernews.com#?#body > article#content > article.block:has(ul#life_slider)
 search.tmon.co.kr#?#section.search_deallist > .deallist_wrap > ul > li[class]:has(> a[href*="//display.admonseller.com/"].anchor)
 namu.wiki#?#aside div[class][id] > div[id]:not([class]):not(:has(> *))
