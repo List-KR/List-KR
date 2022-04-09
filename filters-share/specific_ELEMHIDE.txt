@@ -1,5 +1,6 @@
-m.10000recipe.com##.view3_box > .sp_pdt_wrap
-m.10000recipe.com##.view3_box > div[id^="divEzadArea"]
+10000recipe.com##dl.container ul.rcp_m_list2 > ul > div:not(li.common_sp_list_li)
+10000recipe.com##div[class^="view"] > .sp_pdt_wrap
+10000recipe.com##div[id^="divEzad"]
 arca.live###namuRank
 djtimes.co.kr##iframe[src^="/banner/"]
 gginews.co.kr##center > .bn
