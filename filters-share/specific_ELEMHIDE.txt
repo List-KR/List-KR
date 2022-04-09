@@ -1,3 +1,4 @@
+arca.live###namuRank
 djtimes.co.kr##iframe[src^="/banner/"]
 gginews.co.kr##center > .bn
 mangacat.cc##.col-md-3.at-col.at-side > .row.fix-gutters-5
