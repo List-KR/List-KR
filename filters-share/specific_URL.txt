@@ -57,7 +57,7 @@
 ||ojsfile.ohmynews.com/CMPT_HTM/
 ||googlesyndication.com/pagead/
 ||shoppingcall.me/ad_shoppingCallme.php
-||api.popin.cc/lib*-lightweight/popIn-*.min.js
+||api.popin.cc/lib*-lightweight/popIn-*.min.js$domain=dispatch.co.kr
 ||m.ppomppu.co.kr/banner/google_ad.html
 ||search.danawa.com/mobile/js/powerClick.min.js
 ||search.danawa.com/mobile/ajax/jehuProduct/getPowerLink.ajax.php
