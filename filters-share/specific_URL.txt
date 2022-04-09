@@ -1,3 +1,5 @@
+||nefing.com^$document,domain=ppss.kr|ygosu.com|tgd.kr|inven.co.kr|loawa.com
+||api.linkmine.co.kr^$document,domain=ppss.kr|ygosu.com|tgd.kr|inven.co.kr|loawa.com
 ||arca.live/api/bywiki.json
 ||djtimes.co.kr/banner/
 ||djtimes.co.kr/bannerManager/
