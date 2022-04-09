@@ -1,3 +1,4 @@
+m.10000recipe.com###ad_coupang_recipe_view_top
 arca.live###namuRank
 djtimes.co.kr##iframe[src^="/banner/"]
 gginews.co.kr##center > .bn
