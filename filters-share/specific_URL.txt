@@ -1,3 +1,4 @@
+||ibuan.com/bannerpop/uploads/
 ||electimes.com/adManager/css/adManager.css
 ||electimes.com/bannerpop/uploads/
 ||greened.kr/adManager/css/adManager.css
