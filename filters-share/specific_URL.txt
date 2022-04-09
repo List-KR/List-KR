@@ -1,3 +1,4 @@
+||arca.live/api/bywiki.json
 ||djtimes.co.kr/banner/
 ||djtimes.co.kr/bannerManager/
 ||ibuan.com/bannerpop/uploads/
