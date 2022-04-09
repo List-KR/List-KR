@@ -1,3 +1,5 @@
+||womaneconomy.co.kr/adManager/css/adManager.css
+||womaneconomy.co.kr/bannerpop/uploads/
 ||laborplus.co.kr/bannerpop/uploads/
 ||gginews.co.kr/data/gginews_co_kr/banner/
 ||mangacat.cc/mainhover/
