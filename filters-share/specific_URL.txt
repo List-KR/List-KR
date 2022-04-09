@@ -1,3 +1,5 @@
+||greened.kr/adManager/css/adManager.css
+||greened.kr/bannerpop/uploads/
 ||womaneconomy.co.kr/adManager/css/adManager.css
 ||womaneconomy.co.kr/bannerpop/uploads/
 ||laborplus.co.kr/bannerpop/uploads/
