@@ -248,6 +248,8 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+||toonkor*.com/bann/
+||toonkor*.com/images/*.gif
 ||wwwimageup.angle777899.com/other/atoona/
 ||torrentdia*.com/data/to_list
 ||torrentonly*.com/data/zn_bimg/
