@@ -1,3 +1,5 @@
+##a[href*="//ad.planbplus.co.kr/"]
+##iframe[src*="//api.ezadsystem.com/"]
 ##iframe[src*="//ad.a-ads.com/"]
 ##iframe[src*="//www.mediabp.kr/"]
 ##iframe[src*="//shoppingbox.zum.com/"]
