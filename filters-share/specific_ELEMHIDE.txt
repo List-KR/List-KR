@@ -1,4 +1,5 @@
-m.10000recipe.com###ad_coupang_recipe_view_top
+m.10000recipe.com##.view3_box > .sp_pdt_wrap
+m.10000recipe.com##.view3_box > div[id^="divEzadArea"]
 arca.live###namuRank
 djtimes.co.kr##iframe[src^="/banner/"]
 gginews.co.kr##center > .bn
@@ -347,7 +348,7 @@ m.ruliweb.com##div[id^="mo_ad_"]
 m.ruliweb.com##div[id^="nbp_container"]
 ruliweb.com##div.board_main > table > tbody tr.table_body.list_inner
 ruliweb.com##.nbp_container
-pandora.tv,mobile.newsis.com,zdnet.co.kr,fnnews.com,land.hankyung.com,mania.kr,mosen.mt.co.kr,ruliweb.com##div[id^="ad_"]
+m.10000recipe.com,pandora.tv,mobile.newsis.com,zdnet.co.kr,fnnews.com,land.hankyung.com,mania.kr,mosen.mt.co.kr,ruliweb.com##div[id^="ad_"]
 m.dcinside.com##ul.all-comment-lst > li.comment:not(li[id^="comment_cnt_"])
 m.dcinside.com##div[class^="adv-group"]
 dcinside.com##div[class^="rightbanner"]
