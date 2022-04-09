@@ -1,3 +1,5 @@
+||djtimes.co.kr/banner/
+||djtimes.co.kr/bannerManager/
 ||ibuan.com/bannerpop/uploads/
 ||electimes.com/adManager/css/adManager.css
 ||electimes.com/bannerpop/uploads/
