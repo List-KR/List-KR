@@ -29,7 +29,7 @@ And, email one of the administrators.
  - [JavaScript and TypeScript Nightly](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next)
  - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 
-### Resources
+## Resources
 category AdGuard `Extended CSS` == category uBO `Cosmetic filter operators`
 
 
