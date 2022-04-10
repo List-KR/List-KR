@@ -1,3 +1,4 @@
+mitem.gmarket.co.kr###goodsDetailTab > div[id^="vipPowerClick"][id$="Layer"]
 m.humoruniv.com##div[class*="_ad"][style]:not([id])
 m.humoruniv.com##body form[id][name][action="boardexp/styleofpower.html"] + div[id][style]
 principlesofknowledge.kr###content > .sub_content > .board_view >  div[align="center"]:not([class]):not([id]):not([style])
