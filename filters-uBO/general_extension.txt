@@ -1,4 +1,3 @@
-ppss.kr##+js(acis, document.currentScript)
 watchfreejavonline.co##+js(acis, popMagic.init)
 koreapas.com##+js(set, random_imglink, noopFunc)
 pandora.tv##+js(set, isnoad_vod, true)

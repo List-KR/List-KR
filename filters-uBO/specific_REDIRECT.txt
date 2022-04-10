@@ -1,6 +1,6 @@
-$script,redirect-rule=noopjs,domain=ygosu.com|tgd.kr|inven.co.kr|loawa.com
-$image,redirect-rule=1x1.gif,domain=ygosu.com|tgd.kr|inven.co.kr|loawa.com
-$xhr,redirect-rule=noopjs,domain=ygosu.com|tgd.kr|inven.co.kr|loawa.com
+$script,redirect-rule=noopjs,domain=ppss.kr|ygosu.com|tgd.kr|inven.co.kr|loawa.com
+$image,redirect-rule=1x1.gif,domain=ppss.kr|ygosu.com|tgd.kr|inven.co.kr|loawa.com
+$xhr,redirect-rule=noopjs,domain=ppss.kr|ygosu.com|tgd.kr|inven.co.kr|loawa.com
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$redirect=googlesyndication_adsbygoogle.js
 ||amazon-adsystem.com/aax2/apstag.js$script,redirect=amazon_apstag.js
 ||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices_gpt.js
