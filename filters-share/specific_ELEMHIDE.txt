@@ -1,3 +1,4 @@
+piku.co.kr##.top-navigation .wrapper > .row.equal > div[class="col-xs-12 col-sm-6 col-lg-4"][style^="padding:"]
 m.ytn.co.kr##ul > li[class^="ad_"][id^="snsAd_area"]
 10000recipe.com##dl.container ul.rcp_m_list2 > ul > div:not(li.common_sp_list_li)
 10000recipe.com##div[class^="view"] > .sp_pdt_wrap
