@@ -1,3 +1,5 @@
+m.humoruniv.com##div[class*="_ad"][style]:not([id])
+m.humoruniv.com##body form[id][name][action="boardexp/styleofpower.html"] + div[id][style]
 principlesofknowledge.kr###content > .sub_content > .board_view >  div[align="center"]:not([class]):not([id]):not([style])
 piku.co.kr##.top-navigation .wrapper > .row.equal > div[class="col-xs-12 col-sm-6 col-lg-4"][style^="padding:"]
 m.ytn.co.kr##ul > li[class^="ad_"][id^="snsAd_area"]
@@ -83,8 +85,6 @@ m.nongmin.com##.banner_zone
 nongmin.com##div[class$="-banner-wrap"]
 newstof.com##div[id^="popup_"]
 etoland.co.kr##div[class$="_banner_div"]
-m.humoruniv.com###comment > ul > table[style~="height:250px;padding:0px"][cellspacing="0"][cellpadding="0"]
-m.humoruniv.com##body > #mobile> div[id][style~="min-height:"][style~="100px;"]:not(class):not(id)
 instiz.net##.responsive_main > div[style] > div[style~="background-color:"][style~="center;border:"][style~="1px"]
 instiz.net##.responsive_main > ul > li[id][class][style]
 instiz.net##.responsive_main > table > tbody > tr > td > div[style~="border:"][style~="1px"][style~="solid"]
@@ -312,10 +312,6 @@ mmzone.co.kr##div[id$="_ad"]
 ruliweb.com##div[id^="adsense_"]
 hankyung.com,news1.kr,web.humoruniv.com,m.etnews.com,itempage3.auction.co.kr,asiae.co.kr,khan.co.kr,ytn.co.kr,avjamak.net,kmib.co.kr,mlbpark.donga.com,search.naver.com,prod.danawa.com,news.v.daum.net,joongang.co.kr,ruliweb.com##div[class^="ad_"]
 tvchak.com,dailysecu.com,hankyung.com,m.etnews.com,hani.co.kr,hankookilbo.com,newspim.com##div[class^="ad-"]
-m.humoruniv.com##div[style^="margin:"] > div[style^="width:100%;height:250px;clear:both;"]
-m.humoruniv.com##.ad_bg
-m.humoruniv.com###comment > ul div[style="min-height:100px;"]
-m.humoruniv.com###pnut_iframe
 m.humoruniv.com##div[id^="ddn_ad_"]
 web.humoruniv.com##html > body#body div[style^="clear:both;"]
 web.humoruniv.com##a[onmouseover="ad_choo_over();"]
