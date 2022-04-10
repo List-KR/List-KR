@@ -1,3 +1,4 @@
+m.ytn.co.kr##ul > li[class^="ad_"][id^="snsAd_area"]
 10000recipe.com##dl.container ul.rcp_m_list2 > ul > div:not(li.common_sp_list_li)
 10000recipe.com##div[class^="view"] > .sp_pdt_wrap
 10000recipe.com##div[id^="divEzad"]
@@ -268,7 +269,7 @@ nongmin.com,ilbe.com##div[class$="-banner"]
 ilbe.com##img[src^="https://acache.ilbe.com/"]
 berryjam.co.kr##div[class*="slider-banner-"]
 berryjam.co.kr##img[src^="/data/skin/front/udweb_CCC/img/banner/"][alt="2021년 시마노 웹 한글 카다로그"]
-djtimes.co.kr,mdjournal.kr,zum.com,windowsforum.kr,dcnewsj.joins.com,berryjam.co.kr##div[class$="_banner"]
+m.ytn.co.kr,djtimes.co.kr,mdjournal.kr,zum.com,windowsforum.kr,dcnewsj.joins.com,berryjam.co.kr##div[class$="_banner"]
 toomics.com##img[src*="://thumb.toomics.com/upload/banner/"]
 now.rememberapp.co.kr##.now_content_ads__wrapper
 m.ilbe.com##.banner-wrap

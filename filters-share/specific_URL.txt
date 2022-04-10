@@ -1,3 +1,4 @@
+||m.ytn.co.kr/ad/
 ||ad.planbplus.co.kr^$document
 ||static.coupangcdn.com/image/vendor_inventory/$domain=10000recipe.com
 ||nefing.com^$document
