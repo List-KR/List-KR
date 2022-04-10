@@ -72,7 +72,7 @@
 ||ad.adnmore.co.kr^
 ||nsclick.neoebiz.co.kr^
 ||nscreen.neoebiz.co.kr^
-||netinsight.co.kr^$third-party
+||netinsight.co.kr^
 ||realclick.co.kr^
 ||googleadservices.com^
 ||adapi.about.co.kr^
