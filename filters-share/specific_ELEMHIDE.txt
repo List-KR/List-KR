@@ -12,7 +12,7 @@ gginews.co.kr##center > .bn
 mangacat.cc##.col-md-3.at-col.at-side > .row.fix-gutters-5
 mangacat.cc##img[src^="/mainhover/"]
 mangacat.cc##.basic-banner.row.row-10
-m.search.naver.com##section[class*="ad_"].sp_power
+m.search.naver.com##section[class*="ad_"][class*="sp_"]
 m.ytn.co.kr##div[class^="newsview_ad_"]
 m.ytn.co.kr##div[class^="text_ad_"]
 nts.go.kr##.blockUI.blockOverlay
@@ -247,7 +247,6 @@ jjang0u.com##.banner-web
 jjang0u.com##div[id^="bidrich_"]
 namu.wiki##iframe[src*="//arca.live/external/callad?"]
 search.naver.com##.brand_search
-m.search.naver.com##section[class*="ad_"].sp_brand
 thebell.co.kr##a[onclick^="goAD"][onclick$="()"]
 koya-culture.com##.com_ban
 search.shopping.naver.com##li[class^="basicList_item__"].ad
