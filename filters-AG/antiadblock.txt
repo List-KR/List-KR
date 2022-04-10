@@ -18,8 +18,8 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 ||videoads.kakao.com/adserver/api/v2/vmap$redirect=noopvmap-1.0,domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
 !
 ||googleads.g.doubleclick.net/pagead/ads?*&crui=$redirect=noopmp4-1s,domain=laftel.net
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ppss.kr|ygosu.com|tgd.kr|inven.co.kr|loawa.com
-@@$generichide,domain=ppss.kr|ygosu.com|tgd.kr|inven.co.kr|loawa.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ygosu.com|tgd.kr|inven.co.kr|loawa.com
+@@$generichide,domain=ygosu.com|tgd.kr|inven.co.kr|loawa.com
 webtv.dothome.co.kr##.adblock-on
 persnacons.tistory.com#@#.topAD
 noonnu.cc#%#//scriptlet("abort-on-property-read", "localStorage.getItem", "adBlockMethodology")

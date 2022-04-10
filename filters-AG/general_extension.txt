@@ -1,3 +1,4 @@
+ppss.kr#%#//scriptlet("abort-current-inline-script", "document.currentScript")
 watchfreejavonline.co#%#//scriptlet("abort-current-inline-script", "popMagic.init")
 koreapas.com#%#//scriptlet("set-constant", "random_imglink", "noopFunc")
 pandora.tv#%#//scriptlet("set-constant", "isnoad_vod", "true")
