@@ -1,7 +1,7 @@
 ||ad.planbplus.co.kr^$document
 ||static.coupangcdn.com/image/vendor_inventory/$domain=10000recipe.com
-||nefing.com^$document,domain=ppss.kr|ygosu.com|tgd.kr|inven.co.kr|loawa.com
-||api.linkmine.co.kr^$document,domain=ppss.kr|ygosu.com|tgd.kr|inven.co.kr|loawa.com
+||nefing.com^$document
+||api.linkmine.co.kr^$document
 ||arca.live/api/bywiki.json
 ||djtimes.co.kr/banner/
 ||djtimes.co.kr/bannerManager/
