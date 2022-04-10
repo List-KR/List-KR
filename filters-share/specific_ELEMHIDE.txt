@@ -1,3 +1,4 @@
+principlesofknowledge.kr###content > .sub_content > .board_view >  div[align="center"]:not([class]):not([id]):not([style])
 piku.co.kr##.top-navigation .wrapper > .row.equal > div[class="col-xs-12 col-sm-6 col-lg-4"][style^="padding:"]
 m.ytn.co.kr##ul > li[class^="ad_"][id^="snsAd_area"]
 10000recipe.com##dl.container ul.rcp_m_list2 > ul > div:not(li.common_sp_list_li)
@@ -205,7 +206,7 @@ mule.co.kr##div.section-leftmiddle-bottommiddle.cf
 m.moneys.mt.co.kr,basketkorea.com,m.ohmynews.com,zdnet.co.kr,biz.heraldcorp.com,slrclub.com,sports.chosun.com##div[class^="ad"]
 postshare.co.kr##div.warp > a[href*="//someblossom.co.kr/product/detail.html?"]
 postshare.co.kr##div[id^="foin_"]
-postshare.co.kr###hd_pop
+principlesofknowledge.kr,postshare.co.kr###hd_pop
 postshare.co.kr##div[id^="adMall_popup_"]
 postshare.co.kr##body > div[class^="brand-"]
 postshare.co.kr##.addot-wrapper

@@ -60,7 +60,7 @@
 ||adex.ednplus.com^
 ||adpnut.com^
 ||ad.smartmediarep.com^
-||mobon.net^$third-party
+||mobon.net^
 ||ad*.wisenut.co.kr^
 ||acrosspf.com^$third-party
 ||ad.esmplus.com^
