@@ -1,5 +1,5 @@
+namu.wiki#?#article div:has(> h2:contains(분류)) ~ div:has(span > img[src*="w.namu.la/s/"]):not(:has(span[class] > span[class]))
 browse.gmarket.co.kr#?#div[module-design-id].box__module-wrap:has(button[id^="buttonItemCardAdsLayer"][class="button__ads-layer"]):has(.box__itemcard-header > h3:contains(먼저 둘러보세요))
-namu.wiki#?#article div:has(> h2:contains(분류)) ~ div:has(span > img[src*="w.namu.la/s/"]):not(:has(span > span))
 newreop.com#?#.app-board-section > ul.app-board-template-list > li.notice:has(> a[href] > span > font[color]:contains(AD))
 instiz.net#?#.responsive_main > div[style] > .grouping_title:has(> div[style][class] > div[style]:contains(광고))
 ajunews.com#?#.aside_item.banner:has(> h4[style~="font-size:13px;color:#999999;margin:0"]:contains(AD))
