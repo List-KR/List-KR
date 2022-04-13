@@ -1,5 +1,5 @@
-namu.wiki#?#article div:has(> div:matches-css-after(content: 분류)) ~ div:has(span > img[src^="data:image/"]:not([alt])):not(:has(a[title][href][class] span > span))
-namu.wiki#?#article div:has(> div:matches-css-after(content: 분류)) ~ div:has(span > img[src*="w.namu.la/s/"]:not([alt])):not(:has(a[title][href][class] span > span))
+namu.wiki#?#article div:has(> div:matches-css-after(content: 분류)) ~ div:has(span > img[src^="data:image/"]):not(:has(a:matches-css(cursor: default) span > span))
+namu.wiki#?#article div:has(> div:matches-css-after(content: 분류)) ~ div:has(span > img[src*="w.namu.la/s/"]):not(:has(a:matches-css(cursor: default) span > span))
 browse.gmarket.co.kr#?##section__inner-content-body-container > div[module-design-id].box__module-wrap > .box__component:has(button[id^="buttonItemCardAdsLayer"][class="button__ads-layer"])
 browse.gmarket.co.kr#?##section__inner-content-body-container > div[module-design-id].box__module-wrap:has(> .box__component-bottom-da-banner)
 browse.gmarket.co.kr#?##section__inner-content-body-container > div[module-design-id].box__module-wrap:has(> .box__component-sponsor-link)
