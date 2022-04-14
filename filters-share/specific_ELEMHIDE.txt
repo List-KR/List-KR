@@ -339,7 +339,7 @@ ppomppu.co.kr##div[id^="pp_ban_"]
 ppomppu.co.kr##.left > .shopping-preview
 ppomppu.co.kr##.right > .board-preview.board-ppomppu
 bobaedream.co.kr##.left_con_last
-ytn.co.kr,arca.live##div.ad
+ytn.co.kr##div.ad
 m.clien.net##.shop_naver
 news.daum.net,instiz.net,asiae.co.kr,ohmynews.com,seoul.co.kr,dmitory.com,itcm.co.kr,clien.net##div[class$="_ad"]
 clien.net###hongboInfoList
