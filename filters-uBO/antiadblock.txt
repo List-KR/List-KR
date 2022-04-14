@@ -16,15 +16,16 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@##adBlockPixelTag
 kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 ||tv.kakao.com/embed/player/image/ads.png$redirect=32x32.png,domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
 ||videoads.kakao.com/adserver/api/v2/vmap$redirect=noop-vmap1.0.xml,domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
-!
+! Ad-Shield
 @@||api.dable.io/plugin/services/ppss.kr/prefs2?$script,domain=ppss.kr
 @@||tab2.clickmon.co.kr$script,domain=ygosu.com
 @@||static.dable.io/dist/plugin.min.js$script,xhr,domain=ppss.kr|ygosu.com|inven.co.kr|loawa.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/$script,domain=loawa.com|ppss.kr
 @@||adservice.google.*/adsid/integrator.js?domain=loawa.com$script,domain=loawa.com
-||googleads.g.doubleclick.net/pagead/ads?*&crui=$redirect=noop-1s.mp4,domain=laftel.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xhr,domain=ppss.kr|ygosu.com|tgd.kr|inven.co.kr|loawa.com
 @@$ghide,domain=ppss.kr|ygosu.com|tgd.kr|inven.co.kr|loawa.com
+!
+||googleads.g.doubleclick.net/pagead/ads?*&crui=$redirect=noop-1s.mp4,domain=laftel.net
 webtv.dothome.co.kr##.adblock-on
 persnacons.tistory.com#@#.topAD
 noonnu.cc##+js(aopr, localStorage.getItem, adBlockMethodology)
