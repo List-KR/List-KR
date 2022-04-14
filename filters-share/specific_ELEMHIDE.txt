@@ -1,3 +1,10 @@
+ohmynews.com###div10Sticky
+ohmynews.com##.AD-160x600
+ohmynews.com##.footer_club
+ohmynews.com##.support-omn
+ohmynews.com##div[class^="ad_scroll_"]
+ohmynews.com##div[class^="new_ad"]
+ohmynews.com##img[src*="/images/ohmynews/main/main_club_btn.gif"]
 mitem.gmarket.co.kr###goodsDetailTab > div[id^="vipPowerClick"][id$="Layer"]
 m.humoruniv.com##div[class*="_ad"][style]:not([id])
 m.humoruniv.com##body form[id][name][action="boardexp/styleofpower.html"] + div[id][style]
