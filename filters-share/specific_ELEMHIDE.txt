@@ -1,3 +1,4 @@
+namu.wiki##div[class] ~ div:not([class]) div:not([class]) > div[class] > table[class]:not([class*=" "]):not([style])
 mitem.gmarket.co.kr###goodsDetailTab > div[id^="vipPowerClick"][id$="Layer"]
 m.humoruniv.com##div[class*="_ad"][style]:not([id])
 m.humoruniv.com##body form[id][name][action="boardexp/styleofpower.html"] + div[id][style]
