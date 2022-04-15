@@ -17,7 +17,7 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 ||tv.kakao.com/embed/player/image/ads.png$redirect=32x32-transparent.png,domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
 ||videoads.kakao.com/adserver/api/v2/vmap$redirect=noopvmap-1.0,domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
 ! Ad-Shield
-@@||zicf.inven.co.kr/RealMedia/ads/$domain=inven.co.kr|~zicf.inven.co.kr|~m.inven.co.kr
+@@||zicf.inven.co.kr/RealMedia/ads/adstream_sx.ads/inven/webzine$subdocument,domain=inven.co.kr|~zicf.inven.co.kr|~m.inven.co.kr
 zicf.inven.co.kr##html
 @@||pagead2.googlesyndication.com/getconfig/sodar?$xhr,domain=loawa.com
 adver5.clickmon.co.kr##html
