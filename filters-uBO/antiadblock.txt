@@ -17,7 +17,7 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 ||tv.kakao.com/embed/player/image/ads.png$redirect=32x32.png,domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
 ||videoads.kakao.com/adserver/api/v2/vmap$redirect=noop-vmap1.0.xml,domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
 ! Ad-Shield
-clickmon.co.kr##html
+adver5.clickmon.co.kr##html
 googleads.g.doubleclick.net###google-center-div
 googleads.g.doubleclick.net###abgc
 googleads.g.doubleclick.net##html[i-amphtml-no-boilerplate][amp4ads][class="i-amphtml-inabox"]
