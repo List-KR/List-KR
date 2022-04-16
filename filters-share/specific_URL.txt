@@ -256,6 +256,8 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+/^https:\/\/newtoki[0-9]{3,6}\.com\/bbs\/linkbn\.php/$document
+/^https:\/\/newtoki[0-9]{3,6}\.com\/tokinbtoki\/[0-9]{3,}/
 ||toonkor*.com/bann/
 ||toonkor*.com/images/*.gif
 ||wwwimageup.angle777899.com/other/atoona/
