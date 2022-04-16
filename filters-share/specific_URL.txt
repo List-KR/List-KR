@@ -1,3 +1,4 @@
+||fs.jtbc.joins.com/home/img/banner/
 ||res.afreecatv.com/script/da/af_da_block.js
 ||res.afreecatv.com/script/da/ad_check.js
 ||ojsfile.ohmynews.com/BBS_ADM_FILE/
