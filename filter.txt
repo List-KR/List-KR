@@ -16,9 +16,7 @@
 !#include filters-share/specific_ELEMHIDE.txt
 !#include filters-share/allowlist.txt
 
-!#if (adguard_ext_firefox || adguard_app_windows || adguard_app_mac || adguard_app_android || adguard_ext_chromium || adguard_ext_edge)
 !#include filters-AG/allowlist_stealth.txt
-!#endif
 
 !#if (!adguard_ext_android_cb)
 !#include filters-share/specific_CSS.txt
