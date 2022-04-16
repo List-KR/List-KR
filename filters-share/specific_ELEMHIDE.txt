@@ -1,3 +1,4 @@
+arca.live##div.included-article-list > div.ad
 arca.live##div.board-article-list > div.ad
 arca.live##div.board-summary > div.ad
 news.jtbc.joins.com##div[id^="right_banner"]
