@@ -1,3 +1,4 @@
+www.naver.com##div[id^="veta_"]
 arca.live##div.included-article-list > div.ad
 arca.live##div.board-article-list > div.ad
 arca.live##div.board-summary > div.ad
