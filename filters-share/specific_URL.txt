@@ -1,3 +1,5 @@
+||res.afreecatv.com/script/da/af_da_block.js
+||res.afreecatv.com/script/da/ad_check.js
 ||ojsfile.ohmynews.com/BBS_ADM_FILE/
 ||hankyung.com/resource/js/w/view.ads.js
 ||adgate.gmarket.co.kr^$document
