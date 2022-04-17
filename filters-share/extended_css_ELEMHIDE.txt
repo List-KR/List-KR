@@ -1,5 +1,4 @@
-namu.wiki#?#article div:has(> div:matches-css-after(content: 분류)) ~ div:has(span > img[src^="data:image/"]):not(:has(div:matches-css(overflow: hidden) a span > span))
-namu.wiki#?#article div:has(> div:matches-css-after(content: 분류)) ~ div:has(span > img[src*="w.namu.la/s/"]):not(:has(div:matches-css(overflow: hidden) a span > span))
+namu.wiki#?#div[class] ~ div:not([class]) div:not([class]) > div[class] > table[class]:not([class*=" "]):not([style]):not(:matches-css(border-collapse: collapse))
 arca.live#?#.article-body > div[id].ad:has(> ins.adsbygoogle)
 browse.gmarket.co.kr#?##section__inner-content-body-container > div[module-design-id].box__module-wrap > .box__component:has(button[id^="buttonItemCardAdsLayer"][class="button__ads-layer"])
 browse.gmarket.co.kr#?##section__inner-content-body-container > div[module-design-id].box__module-wrap:has(> .box__component-bottom-da-banner)
