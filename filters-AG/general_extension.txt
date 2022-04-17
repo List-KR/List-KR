@@ -1,7 +1,8 @@
 ! PopMagic
 watchfreejavonline.co#%#//scriptlet("abort-current-inline-script", "popMagic.init")
 !
-newspic.kr#%#//scriptlet("remove-attr", "data-cp|data-cp-name|data-first-cp", "input#npLog", "stay")
+newspic.kr#%#//scriptlet("abort-on-property-write", "document.cookie", "init")
+newspic.kr#%#//scriptlet("remove-attr", "data-type", "[data-role=\"btnMoreRead\"]", "stay")
 jtbc.joins.com#%#//scriptlet("set-constant", "jtbcplayer.config.ad", "false")
 koreapas.com#%#//scriptlet("set-constant", "random_imglink", "noopFunc")
 pandora.tv#%#//scriptlet("set-constant", "isnoad_vod", "true")

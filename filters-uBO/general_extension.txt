@@ -1,7 +1,8 @@
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
-newspic.kr##+js(ra, data-cp|data-cp-name|data-first-cp, input#npLog, stay)
+newspic.kr##+js(aopw, document.cookie, init)
+newspic.kr##+js(ra, data-type, [data-role=\"btnMoreRead\"], stay)
 jtbc.joins.com##+js(set, jtbcplayer.config.ad, false)
 koreapas.com##+js(set, random_imglink, noopFunc)
 pandora.tv##+js(set, isnoad_vod, true)
