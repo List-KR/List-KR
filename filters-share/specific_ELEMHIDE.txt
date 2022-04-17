@@ -1,3 +1,6 @@
+www.instiz.net##table tr div.responsive_main
+www.instiz.net##body > .hot_under
+www.instiz.net##span#menufoot > .hot_under
 m.joongna.com##article[class^="SearchList_listWrap"] + div
 www.naver.com##div[id^="veta_"]
 arca.live##div.ad
