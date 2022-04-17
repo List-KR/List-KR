@@ -380,6 +380,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+torrentonly8.com,torrentonly9.com,torrentonly10.com,torrentonly11.com,torrentonly12.com,torrentonly13.com,torrentonly14.com,torrentonly15.com,torrentonly16.com,torrentonly17.com,torrentonly18.com,torrentonly19.com##a[href*="//www.torrentonly"][href*="/bbs/bannerhit.php"]
 newtoki128.com,newtoki129.com,newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newtoki135.com,newtoki136.com,newtoki137.com,newtoki178.com,newtoki179.com,newtoki180.com,newtoki181.com###hd_pop
 newtoki128.com,newtoki129.com,newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newtoki135.com,newtoki136.com,newtoki137.com,newtoki178.com,newtoki179.com,newtoki180.com,newtoki181.com##img[src^="/tokinbtoki/"]
 toonkor101.com,toonkor102.com,toonkor103.com,toonkor104.com,toonkor105.com,toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com##.bnt > div[class^="bancol"]
