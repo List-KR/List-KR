@@ -31,3 +31,5 @@
 !#if cap_html_filtering
 !#include filters-uBO/html_filtering.txt
 !#endif
+
+!#include filters-share/removeparam.txt

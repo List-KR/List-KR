@@ -42,6 +42,10 @@
 !#include filters-AG/html_filtering.txt
 !#endif
 
+!#if (adguard_app_windows || adguard_app_mac || adguard_app_android || adguard_ext_firefox || adguard_ext_chromium || adguard_ext_edge )
+!#include filters-share/removeparam.txt
+!#endif
+
 !#if (adguard_app_android)
 !#include filters-AG/mobile/android/allowlist_android_app.txt
 !#include filters-AG/mobile/android/android_app.txt
