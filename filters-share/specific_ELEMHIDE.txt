@@ -1,7 +1,5 @@
 www.naver.com##div[id^="veta_"]
-arca.live##div.included-article-list > div.ad
-arca.live##div.board-article-list > div.ad
-arca.live##div.board-summary > div.ad
+arca.live##div.ad
 news.jtbc.joins.com##div[id^="right_banner"]
 news.jtbc.joins.com###articlebody > div[style]:not([itemprop="articleBody"]).article_content
 ohmynews.com###div10Sticky

@@ -1,4 +1,3 @@
-arca.live#$#.article-body > .ad > #defaultImage { display: block !important; }
 news.unn.net#$#.grid-body.g-body { width: 100% !important; }
 autopostkorea.com#$#.site-footer { padding-bottom: 0px !important; }
 etoland.co.kr#$#.hit_list_ul_wrap { width: 100% !important; }
