@@ -1,2 +1,3 @@
+www.instiz.net#$?#.backlogo { background-image: none !important; }
 5donews.co.kr#$?#.body > .content.xe_content:not(:has(article)) { width: auto !important; }
 mule.co.kr#$?#.section-lefttop-center:has(> .mule-today) { width: 100% !important; }
