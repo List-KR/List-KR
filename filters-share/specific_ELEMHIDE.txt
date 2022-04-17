@@ -1,3 +1,4 @@
+m.joongna.com##article[class^="SearchList_listWrap"] + div
 www.naver.com##div[id^="veta_"]
 arca.live##div.ad
 news.jtbc.joins.com##div[id^="right_banner"]
