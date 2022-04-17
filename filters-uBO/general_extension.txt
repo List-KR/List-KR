@@ -1,6 +1,7 @@
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
+newspic.kr##+js(ra, data-cp|data-cp-name|data-first-cp, input#npLog, stay)
 newspic.kr##+js(set, NewspicWebLog.getCommonParameter, noopFunc)
 newspic.kr##+js(aopw, document.cookie, init)
 jtbc.joins.com##+js(set, jtbcplayer.config.ad, false)
