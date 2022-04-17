@@ -1,3 +1,4 @@
+www.instiz.net##.footad
 m.joongna.com##article[class^="SearchList_listWrap"] + div
 www.naver.com##div[id^="veta_"]
 arca.live##div.ad
