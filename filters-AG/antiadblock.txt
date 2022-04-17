@@ -17,6 +17,7 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 ||tv.kakao.com/embed/player/image/ads.png$redirect=32x32-transparent.png,domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
 ||videoads.kakao.com/adserver/api/v2/vmap$redirect=noopvmap-1.0,domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
 ! Ad-Shield
+googleads.g.doubleclick.net##html
 @@||zicf.inven.co.kr/RealMedia/ads/Creatives/default/empty.gif$image,domain=inven.co.kr|~m.inven.co.kr
 @@||zicf.inven.co.kr/RealMedia/ads/adstream_sx.ads/$subdocument,domain=inven.co.kr|~zicf.inven.co.kr|~m.inven.co.kr
 zicf.inven.co.kr##html
@@ -24,8 +25,7 @@ zicf.inven.co.kr##html
 adver5.clickmon.co.kr##html
 googleads.g.doubleclick.net###google-center-div
 googleads.g.doubleclick.net###abgc
-googleads.g.doubleclick.net##html[i-amphtml-no-boilerplate][amp4ads][class="i-amphtml-inabox"]
-@@||googleads.g.doubleclick.net/pagead/$subdocument,domain=loawa.com
+@@||googleads.g.doubleclick.net/pagead/$xhr,subdocument,domain=loawa.com
 @@||clickmon.co.kr/ad_img/$subdocument,domain=ygosu.com
 @@||ad.xc.netinsight.co.kr/xc/h/$subdocument,domain=ygosu.com
 @@||api.dable.io/plugin/services/ppss.kr/prefs2?$script,domain=ppss.kr
