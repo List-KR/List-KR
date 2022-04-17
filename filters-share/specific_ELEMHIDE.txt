@@ -1,4 +1,4 @@
-m.joongna.com##div:has(> div[class*="powerLinkWrap"])
+m.joongna.com##article[class^="SearchList_listWrap"] + div
 www.naver.com##div[id^="veta_"]
 arca.live##div.included-article-list > div.ad
 arca.live##div.board-article-list > div.ad
