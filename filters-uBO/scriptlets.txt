@@ -1,6 +1,7 @@
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
+loawa.com,ygosu.com,inven.co.kr,ppss.kr##+js(set, innerHeight, undefined)
 newspic.kr##+js(aopw, document.cookie, init)
 jtbc.joins.com##+js(set, jtbcplayer.config.ad, false)
 koreapas.com##+js(set, random_imglink, noopFunc)
