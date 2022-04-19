@@ -1,3 +1,4 @@
+||prod.danawa.com/info/ajax/getPowerClickProductList.ajax.php
 ||image.ichannela.com/images/mainbanner/
 ||image.ichannela.com/images/common/shinhan_
 ||entertainpost.com/wp/wp-content/uploads/newPS/ad/
