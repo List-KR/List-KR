@@ -1,3 +1,4 @@
+ichannela.com##.sideArea > div[style]:not([class]):not([id])
 entertainpost.com##body > div[style]:not([class])
 www.instiz.net##table tr div.responsive_main
 www.instiz.net##body > .hot_under
@@ -83,7 +84,7 @@ m.hani.co.kr##section[class^="ad"]
 hankyung.com##.view > .joy_info
 hankyung.com##article.act-body > .wrap_list
 gigglehd.com##.widget_banner_skin > ul.banner_list
-m.news1.kr##div[class^="banner"]
+ichannela.com,m.news1.kr##div[class^="banner"]
 m.news1.kr##iframe[src^="/template/ads/"]
 m.news1.kr##div[class^="das_article"][class$="_wrap"]
 talk.op.gg,m.news1.kr##div[class^="ads_"]
@@ -128,7 +129,7 @@ biz.heraldcorp.com##.article_area > .article_right
 insight.co.kr##div.aside-popular > ul.aside-popular-wrap > li > div[style~="300px;height:"][style~="block;width:"]
 edaily.co.kr##section[id^="aside_"] > div[id$="-sticky-wrap"] > div[id$="-sticky"] > div[id^="w_read_"][class^="boxshow_"]
 edaily.co.kr##section[id^="aside_"] > div[id$="-sticky-wrap"] > div[id$="-sticky"] > div[style]:not(class):not(id)
-mediapen.com,edaily.co.kr##div[data-ad][class][style]
+ichannela.com,mediapen.com,edaily.co.kr##div[data-ad][class][style]
 edaily.co.kr##div[class^="gg_"], div[class$="_gg"]
 edaily.co.kr##[class$="_dable"][id^="boxshow_"]
 yeongnam.com##div[class$="-ad"]
