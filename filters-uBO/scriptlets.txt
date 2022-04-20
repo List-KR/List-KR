@@ -1,4 +1,4 @@
-www.inven.co.kr##+js(acis, INVEN.Ad)
+
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
@@ -13,3 +13,4 @@ imbc.com##+js(set, vrixadsdk, undefined)
 lover9.net##+js(set, app_domains, {})
 ~coupang.com,~coupangcdn.com##+js(set, PartnersCoupang, undefined)
 m.inven.co.kr##+js(set, MOBILE.Ad, null)
+www.inven.co.kr##+js(set, INVEN.Ad, null)
