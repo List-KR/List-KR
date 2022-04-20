@@ -37,6 +37,9 @@ https://github.com/List-KR/List-KR/raw/master/filter_DNS.txt
 - [Create a GitHub Issue](https://github.com/List-KR/List-KR/issues/new/choose)
 - [Send an Email](https://github.com/List-KR/List-KR/issues/223)
 
+Looking for **namu.wiki** and **Ad-Shield** issue?
+Please visit [List-KR Issue](https://github.com/List-KR/List-KR/issues).
+
 ## How to contribute
 Please read CONTRIBUTING.md.
 
