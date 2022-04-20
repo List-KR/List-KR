@@ -1,4 +1,3 @@
-www.inven.co.kr##.googleSubjectAd
 prod.danawa.com###powerClickProductListArea
 ichannela.com##.sideArea > div[style]:not([class]):not([id])
 entertainpost.com##body > div[style]:not([class])
