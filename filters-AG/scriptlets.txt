@@ -1,7 +1,7 @@
 ! PopMagic
 watchfreejavonline.co#%#//scriptlet("abort-current-inline-script", "popMagic.init")
 !
-loawa.com,ygosu.com,inven.co.kr,ppss.kr#%#//scriptlet('set-constant', 'innerHeight', 'undefined')
+loawa.com,ygosu.com,inven.co.kr,ppss.kr#%#//scriptlet("set-constant", "innerHeight", "undefined")
 newspic.kr#%#//scriptlet("abort-on-property-write", "document.cookie", "init")
 jtbc.joins.com#%#//scriptlet("set-constant", "jtbcplayer.config.ad", "false")
 koreapas.com#%#//scriptlet("set-constant", "random_imglink", "noopFunc")
@@ -11,4 +11,4 @@ search.11st.co.kr#%#//scriptlet("set-constant", "searchDataFactory.plusPrdList",
 imbc.com#%#//scriptlet("set-constant", "vrixadsdk", "undefined")
 lover9.net#%#//scriptlet("set-constant", "app_domains", "emptyObj")
 ~coupang.com,~coupangcdn.com#%#//scriptlet("set-constant", "PartnersCoupang", "undefined")
-m.inven.co.kr#%#//scriptlet('set-constant', 'MOBILE.Ad', 'null')
+m.inven.co.kr#%#//scriptlet("set-constant", "MOBILE.Ad", "null")
