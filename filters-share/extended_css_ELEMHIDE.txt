@@ -1,3 +1,4 @@
+namu.wiki#?#article div:not([class]) div:not([class]) ~ div[class] > div[class]:not(:has(div:matches-css-after(content: 분류)))
 browse.gmarket.co.kr#?##section__inner-content-body-container > div[module-design-id].box__module-wrap > .box__component:has(button[id^="buttonItemCardAdsLayer"][class="button__ads-layer"])
 browse.gmarket.co.kr#?##section__inner-content-body-container > div[module-design-id].box__module-wrap:has(> .box__component-bottom-da-banner)
 browse.gmarket.co.kr#?##section__inner-content-body-container > div[module-design-id].box__module-wrap:has(> .box__component-sponsor-link)
