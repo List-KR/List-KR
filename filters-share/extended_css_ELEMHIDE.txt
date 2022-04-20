@@ -1,5 +1,5 @@
+namu.wiki#?#article div:not([class]) div:not([class]) ~ div[class] > div[class]:not(:has(div:matches-css-before(content: 목차))):not(:has(div > div ~ style)):not(:has(hr:matches-css(box-sizing: content-box)))
 namu.wiki#?#div[class] > div[id]:not([class]):has(> iframe[id^="google_ads_"])
-namu.wiki#?#article div:not([class]) div:not([class]) ~ div[class] > div[class]:not(:has(div:matches-css-before(content: 목차))):not(:has(div > div ~ style))
 browse.gmarket.co.kr#?##section__inner-content-body-container > div[module-design-id].box__module-wrap > .box__component:has(button[id^="buttonItemCardAdsLayer"][class="button__ads-layer"])
 browse.gmarket.co.kr#?##section__inner-content-body-container > div[module-design-id].box__module-wrap:has(> .box__component-bottom-da-banner)
 browse.gmarket.co.kr#?##section__inner-content-body-container > div[module-design-id].box__module-wrap:has(> .box__component-sponsor-link)
