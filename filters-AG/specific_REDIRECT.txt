@@ -1,4 +1,4 @@
-$image,redirect-rule=2x2-transparent.png,domain=ppss.kr
+$image,redirect-rule=32x32-transparent.png,domain=ppss.kr
 $subdocument,redirect-rule=noopframe,domain=ppss.kr|ygosu.com|tgd.kr|inven.co.kr|loawa.com
 /\/[0-9a-zA-Z\_?\-]{19,}\.(?!png|jpg|gif|jpeg|html|htm|txt)/$document,domain=ppss.kr|ygosu.com|tgd.kr|inven.co.kr|loawa.com
 $script,redirect-rule=noopjs,domain=ppss.kr|ygosu.com|tgd.kr|inven.co.kr|loawa.com
