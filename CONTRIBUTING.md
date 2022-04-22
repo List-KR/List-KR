@@ -2,7 +2,7 @@
 Open a PR to contribute.
 
 ## Become a Maintainer
-If you want to become a collaborator, please accept the folllowing rules:
+If you want to become a maintainer, please follow the folllowing rules:
  - Every contributors must not share an user's private information to anyone **excluding** other contributors of List-KR without their permission.
  - Every contributors must respect an user's privacy.
  - All commit that is pushed to master branch must be signed.
@@ -12,11 +12,10 @@ If you want to become a collaborator, please accept the folllowing rules:
 And, email one of the administrators.
 
 ## Become a Sub-Maintainer
-If you want to become a collaborator, please accept the folllowing rules:
- - Every contributors must not share an user's private information to anyone **excluding** other contributors of List-KR without their permission.
- - Every contributors must respect an user's privacy.
+If you want to become a sub-maintainer, please follow the folllowing rules:
+ - You have write permission (or higher) of AdguardFilters or uAssets.
+ - You are a member of [listauthorschat.slack.com](https://listauthorschat.slack.com).
  - All commit that is pushed to master branch must be signed.
- - Your email must be public.
  - Publishing your OpenPGP public key is highly recommended.
 
 And, email one of the administrators.
