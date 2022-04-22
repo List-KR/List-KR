@@ -1,7 +1,17 @@
 ## Open a PR
 Open a PR to contribute.
 
-## Become a Collaborator
+## Become a Maintainer
+If you want to become a collaborator, please accept the folllowing rules:
+ - Every contributors must not share an user's private information to anyone **excluding** other contributors of List-KR without their permission.
+ - Every contributors must respect an user's privacy.
+ - All commit that is pushed to master branch must be signed.
+ - Your email must be public.
+ - Publishing your OpenPGP public key is highly recommended.
+
+And, email one of the administrators.
+
+## Become a Sub-Maintainer
 If you want to become a collaborator, please accept the folllowing rules:
  - Every contributors must not share an user's private information to anyone **excluding** other contributors of List-KR without their permission.
  - Every contributors must respect an user's privacy.
