@@ -1,3 +1,6 @@
+! Ad-Shield
+loawa.com,ygosu.com,inven.co.kr,ppss.kr,tgd.kr##+js(set, outerHeight, 0)
+loawa.com,ygosu.com,inven.co.kr##+js(set, innerHeight, undefined)
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
@@ -8,8 +11,6 @@ humoruniv.com##+js(set, ch4_submit, noopFunc)
 humoruniv.com##+js(set, naver_adpost_ch1, noopFunc)
 humoruniv.com##+js(set, naver_adpost_ch2_backfill, noopFunc)
 humoruniv.com##+js(set, show_adpost, noopFunc)
-loawa.com,ygosu.com,inven.co.kr,ppss.kr,tgd.kr##+js(set, outerHeight, 0)
-loawa.com,ygosu.com,inven.co.kr##+js(set, innerHeight, undefined)
 newspic.kr##+js(aopw, document.cookie, init)
 jtbc.joins.com##+js(set, jtbcplayer.config.ad, false)
 koreapas.com##+js(set, random_imglink, noopFunc)
