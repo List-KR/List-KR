@@ -1,11 +1,15 @@
 # List-KR
 This is a web filter for websites in Korean language, to be used with [AdGuard](https://adguard.com) ad blocker and [uBlock Origin](https://github.com/gorhill/uBlock).
 
-This filter aims to filter ads and anti-adblock.
+List-KR aims to filter ads and anti-adblock.
 
-This filter is optimized for AdGuard Windows, Mac, Android, Browser Extension and uBO. Yet most of rules are following the grammer of Adblock Plus, some rules for more difficult filtering utilizes advanced filtering methods of AdGuard and uBO, and will not be activated in other filtering tools. Also, there are slight differences in filtering methods between AdGuard and ABP, and if you use it, you may see blank areas at the place of ads. uBlock Origin is known to be compatible with part of the AdGuard syntax, and can be used with this filter.
+List-KR is focused on Korean websites and app, and it is recommended to use List-KR together with AdGuard Base filter.
 
-This filter is focused on Korean websites, and it is recommended to use this filter together with AdGuard Base filter.
+List-KR is optimized for AdGuard Windows, Mac, Android, Browser Extension and uBO.
+Therefore, List-KR cannot be added on AdBlock Plus because AdBlock Plus does not support advanced syntax (e.g. `!#include`, `#%#//scriptlet()`, `##+js` and `$redirect`).
+
+Due to technical problem, a visitor of some website need to do some instruction.
+Please keep reading this document.
 
 If you want to block tracker or anti-rightclick scripts, please enable AdGuard Tracking Protection filter, AdGuard URL Tracking filter or AdGuard Annoyances filter.
 
@@ -44,4 +48,4 @@ Please visit [List-KR Issue](https://github.com/List-KR/List-KR/issues).
 Please read CONTRIBUTING.md.
 
 ## License
-This filter is licensed under GNU GPLv3.
+List-KR is licensed under GNU GPLv3.
