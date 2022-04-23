@@ -1,3 +1,4 @@
+ppomppu.co.kr##body .contents .container .topSub-nav
 humoruniv.com##script + div:not([id]) + div[id] div[id] > table
 prod.danawa.com###powerClickProductListArea
 ichannela.com##.sideArea > div[style]:not([class]):not([id])
