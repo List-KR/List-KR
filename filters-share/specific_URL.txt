@@ -1,3 +1,4 @@
+||dcinside.com/_js/ad.js
 ||prod.danawa.com/info/ajax/getPowerClickProductList.ajax.php
 ||image.ichannela.com/images/mainbanner/
 ||image.ichannela.com/images/common/shinhan_
