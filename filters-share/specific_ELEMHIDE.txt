@@ -1,3 +1,4 @@
+humoruniv.com##script + div:not([id]) + div[id] div[id] > table
 prod.danawa.com###powerClickProductListArea
 ichannela.com##.sideArea > div[style]:not([class]):not([id])
 entertainpost.com##body > div[style]:not([class])
@@ -13,8 +14,6 @@ ohmynews.com###div10Sticky
 ohmynews.com##div[class^="AD-"]
 ohmynews.com##div[class^="new_ad"]
 mitem.gmarket.co.kr###goodsDetailTab > div[id^="vipPowerClick"][id$="Layer"]
-m.humoruniv.com##div[class*="_ad"][style]:not([id])
-m.humoruniv.com##body form[id][name][action="boardexp/styleofpower.html"] + div[id][style]
 principlesofknowledge.kr###content > .sub_content > .board_view >  div[align="center"]:not([class]):not([id]):not([style])
 piku.co.kr##.top-navigation .wrapper > .row.equal > div[class="col-xs-12 col-sm-6 col-lg-4"][style^="padding:"]
 m.ytn.co.kr##ul > li[class^="ad_"][id^="snsAd_area"]
@@ -384,7 +383,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 ! Each domain of website in this section is forbidden by Internet censorship of S. Korea.
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
-! 
+!
 torrentonly8.com,torrentonly9.com,torrentonly10.com,torrentonly11.com,torrentonly12.com,torrentonly13.com,torrentonly14.com,torrentonly15.com,torrentonly16.com,torrentonly17.com,torrentonly18.com,torrentonly19.com##a[href*="//www.torrentonly"][href*="/bbs/bannerhit.php"]
 newtoki128.com,newtoki129.com,newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newtoki135.com,newtoki136.com,newtoki137.com,newtoki178.com,newtoki179.com,newtoki180.com,newtoki181.com###hd_pop
 newtoki128.com,newtoki129.com,newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newtoki135.com,newtoki136.com,newtoki137.com,newtoki178.com,newtoki179.com,newtoki180.com,newtoki181.com##img[src^="/tokinbtoki/"]
