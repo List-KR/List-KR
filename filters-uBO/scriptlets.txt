@@ -4,6 +4,7 @@ loawa.com,ygosu.com,inven.co.kr##+js(set, innerHeight, undefined)
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
+fmkorea.com##+js(acis, jQuery, __nbp_ad_callback_read_new)
 humoruniv.com##+js(set, ch2, noopFunc)
 humoruniv.com##+js(set, ch2_submit, noopFunc)
 humoruniv.com##+js(set, ch4, noopFunc)
