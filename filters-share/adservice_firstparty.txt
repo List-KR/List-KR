@@ -1,3 +1,4 @@
+||api.greenp.kr^
 ||adgate.gmarket.co.kr^
 ||ad-img.ebaykorea.com^
 ||api.ezadsystem.com^
