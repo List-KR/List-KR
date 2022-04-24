@@ -1,4 +1,4 @@
-namu.wiki#?#article div:not([class]) div:not([class]) ~ div[class]:not([id="toc"]) > div[class]:matches-css(overflow-x: auto):has(div:matches-css(display: none))
+namu.wiki#?#article div:not([class]) div:not([class]) ~ div[class]:not([id="toc"]) > div[class]:has(div:matches-css(display: none)):not(:has(> div:matches-css(overflow-x: hidden)))
 namu.wiki#?#div[class] > div[id]:not([class]):has(> iframe[id^="google_ads_"])
 browse.gmarket.co.kr#?##section__inner-content-body-container > div[module-design-id].box__module-wrap > .box__component:has(button[id^="buttonItemCardAdsLayer"][class="button__ads-layer"])
 browse.gmarket.co.kr#?##section__inner-content-body-container > div[module-design-id].box__module-wrap:has(> .box__component-bottom-da-banner)
