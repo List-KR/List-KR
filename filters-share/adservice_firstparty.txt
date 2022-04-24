@@ -1,3 +1,4 @@
+||cpa.greenp.kr^
 ||api.valista.io^
 ||api.linkmine.co.kr^
 ||api.greenp.kr^
