@@ -1,3 +1,5 @@
+happycampus.com##div[id^="banner"]
+happycampus.com##div[id^="power_link_"]
 sportalkorea.com###Contents > #sideBox > div[style]
 sportalkorea.com##p[class^="ad_"]
 sportalkorea.com##div[class][data-ad][style]
