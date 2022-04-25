@@ -37,6 +37,8 @@ googleads.g.doubleclick.net###abgc
 @@$generichide,domain=ppss.kr|ygosu.com|tgd.kr|inven.co.kr|loawa.com
 ! AdGlare Ad Server
 luckyquiz3.blogspot.com#%#//scriptlet("abort-current-inline-script", "document.createElement", "hasAdblock")
+! ai_front anti-adblock
+ehpub.co.kr#%#//scriptlet("abort-current-inline-script", "ai_run_scripts")
 !
 ||googleads.g.doubleclick.net/pagead/ads?*&crui=$redirect=noopmp4-1s,domain=laftel.net
 webtv.dothome.co.kr##.adblock-on
