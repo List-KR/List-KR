@@ -8,8 +8,8 @@ tistory.com##+js(nobab2)
 ! FuckAdBlock
 tistory.com##+js(nofab)
 tistory.com##+js(aopr, adBlockDetected)
-! ai-adb
-jootc.com##+js(set, ai_run_scripts, noopFunc)
+! ai_front anti-adblock
+jootc.com,ehpub.co.kr##+js(acis, ai_run_scripts)
 ! Kakao TV
 kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#ins.kakao_ad_area
 kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@##adBlockPixelTag
@@ -37,8 +37,6 @@ googleads.g.doubleclick.net###abgc
 @@$ghide,domain=ppss.kr|ygosu.com|tgd.kr|inven.co.kr|loawa.com
 ! AdGlare Ad Server
 luckyquiz3.blogspot.com##+js(acis, document.createElement, hasAdblock)
-! ai_front anti-adblock
-ehpub.co.kr##+js(acis, ai_run_scripts)
 !
 ||googleads.g.doubleclick.net/pagead/ads?*&crui=$redirect=noop-1s.mp4,domain=laftel.net
 webtv.dothome.co.kr##.adblock-on
