@@ -1,3 +1,5 @@
+||dnh523js9661q.cloudfront.net/apis/apTracker.v4.js^$domain=novelpia.com
+||fin.rainbownine.net/js/across_adn_*.js
 ||happycampus.com/images/hcBanner/
 ||sportalkorea.com/ad_new/ad_close.png
 ||dcinside.com/_js/ad.js
