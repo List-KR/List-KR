@@ -4,6 +4,7 @@ loawa.com,ygosu.com,inven.co.kr#%#//scriptlet("set-constant", "innerHeight", "un
 ! PopMagic
 watchfreejavonline.co#%#//scriptlet("abort-current-inline-script", "popMagic.init")
 !
+post.naver.com,blog.naver.com,cafe.naver.com#%#//scriptlet("set-constant", "adScriptInitialized", "true")
 fmkorea.com#%#//scriptlet("abort-current-inline-script", "jQuery", "__nbp_ad_callback_read_new")
 humoruniv.com#%#//scriptlet("set-constant", "ch2", "noopFunc")
 humoruniv.com#%#//scriptlet("set-constant", "ch2_submit", "noopFunc")
