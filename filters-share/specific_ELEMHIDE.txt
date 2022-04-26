@@ -1,3 +1,4 @@
+www.daum.net###adMain
 happycampus.com##div[id^="banner"]
 happycampus.com##div[id^="power_link_"]
 sportalkorea.com###Contents > #sideBox > div[style]
