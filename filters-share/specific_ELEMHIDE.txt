@@ -1,3 +1,4 @@
+namu.wiki##div[class] ~ div[class] > div[class] div[class]:not([style]) > table[class*=" "]:not([id]):nth-child(1)
 happycampus.com##div[id^="banner"]
 happycampus.com##div[id^="power_link_"]
 sportalkorea.com###Contents > #sideBox > div[style]
