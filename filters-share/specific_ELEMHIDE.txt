@@ -1,3 +1,10 @@
+happycampus.com##div[id^="banner"]
+happycampus.com##div[id^="power_link_"]
+sportalkorea.com###Contents > #sideBox > div[style]
+sportalkorea.com##p[class^="ad_"]
+sportalkorea.com##div[class][data-ad][style]
+sportalkorea.com##div[id^="topAd"]
+ppomppu.co.kr##body .contents .container .topSub-nav
 humoruniv.com##script + div:not([id]) + div[id] div[id] > table
 prod.danawa.com###powerClickProductListArea
 ichannela.com##.sideArea > div[style]:not([class]):not([id])
@@ -323,7 +330,7 @@ mmzone.co.kr###main_premium_spon_block
 mmzone.co.kr##div[id$="_ad"]
 2cpu.co.kr##a[href*="./bbs/banner_link.php?"]
 ruliweb.com##div[id^="adsense_"]
-news.jtbc.joins.com,ohmynews.com,hankyung.com,news1.kr,web.humoruniv.com,m.etnews.com,itempage3.auction.co.kr,asiae.co.kr,khan.co.kr,ytn.co.kr,avjamak.net,kmib.co.kr,mlbpark.donga.com,search.naver.com,prod.danawa.com,news.v.daum.net,joongang.co.kr,ruliweb.com##div[class^="ad_"]
+sportalkorea.com,news.jtbc.joins.com,ohmynews.com,hankyung.com,news1.kr,web.humoruniv.com,m.etnews.com,itempage3.auction.co.kr,asiae.co.kr,khan.co.kr,ytn.co.kr,avjamak.net,kmib.co.kr,mlbpark.donga.com,search.naver.com,prod.danawa.com,news.v.daum.net,joongang.co.kr,ruliweb.com##div[class^="ad_"]
 algumon.com,tvchak.com,dailysecu.com,hankyung.com,m.etnews.com,hani.co.kr,hankookilbo.com,newspim.com##div[class^="ad-"]
 m.humoruniv.com##div[id^="ddn_ad_"]
 web.humoruniv.com##html > body#body div[style^="clear:both;"]
@@ -384,15 +391,15 @@ www.naver.com##iframe[id^="da_iframe_"]
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 !
-torrentonly8.com,torrentonly9.com,torrentonly10.com,torrentonly11.com,torrentonly12.com,torrentonly13.com,torrentonly14.com,torrentonly15.com,torrentonly16.com,torrentonly17.com,torrentonly18.com,torrentonly19.com##a[href*="//www.torrentonly"][href*="/bbs/bannerhit.php"]
-newtoki128.com,newtoki129.com,newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newtoki135.com,newtoki136.com,newtoki137.com,newtoki178.com,newtoki179.com,newtoki180.com,newtoki181.com###hd_pop
-newtoki128.com,newtoki129.com,newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newtoki135.com,newtoki136.com,newtoki137.com,newtoki178.com,newtoki179.com,newtoki180.com,newtoki181.com##img[src^="/tokinbtoki/"]
-toonkor101.com,toonkor102.com,toonkor103.com,toonkor104.com,toonkor105.com,toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com##.bnt > div[class^="bancol"]
-toonkor101.com,toonkor102.com,toonkor103.com,toonkor104.com,toonkor105.com,toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com###containerCol .at-content .contents > a[href][target] > img[src^="/bann/"]
-toonkor101.com,toonkor102.com,toonkor103.com,toonkor104.com,toonkor105.com,toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com##div[class$="mobile-banner"][style]
-manatoki128.net,manatoki129.net,manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki186.net##[style="margin-bottom: 20px;"].row.row-15
-manatoki128.net,manatoki129.net,manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki186.net##.basic-banner.row.row-10
-manatoki128.net,manatoki129.net,manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki186.net##.board-tail-banner
+torrentonly9.com,torrentonly10.com,torrentonly11.com,torrentonly12.com,torrentonly13.com,torrentonly14.com,torrentonly15.com,torrentonly16.com,torrentonly17.com,torrentonly18.com,torrentonly19.com,torrentonly20.com##a[href*="//www.torrentonly"][href*="/bbs/bannerhit.php"]
+newtoki129.com,newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newtoki135.com,newtoki136.com,newtoki137.com,newtoki178.com,newtoki179.com,newtoki180.com,newtoki181.com,newtoki182.com###hd_pop
+newtoki129.com,newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newtoki135.com,newtoki136.com,newtoki137.com,newtoki178.com,newtoki179.com,newtoki180.com,newtoki181.com,newtoki182.com##img[src^="/tokinbtoki/"]
+toonkor104.com,toonkor105.com,toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com##.bnt > div[class^="bancol"]
+toonkor104.com,toonkor105.com,toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com###containerCol .at-content .contents > a[href][target] > img[src^="/bann/"]
+toonkor104.com,toonkor105.com,toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com##div[class$="mobile-banner"][style]
+manatoki129.net,manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net,manatoki140.net,manatoki141.net##[style="margin-bottom: 20px;"].row.row-15
+manatoki129.net,manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net,manatoki140.net,manatoki141.net##.basic-banner.row.row-10
+manatoki129.net,manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net,manatoki140.net,manatoki141.net##.board-tail-banner
 103.204.13.68##.product-banner
 103.204.13.68##div[class^="mobile-m ad720_"]
 hellven.net##a[href$="&utm_medium=hellven1&referer=internal_hellven_banner_hellven1"]

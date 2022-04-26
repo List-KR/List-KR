@@ -8,8 +8,8 @@ fafan.kr,tistory.com#%#//scriptlet("prevent-bab")
 tistory.com#%#//scriptlet("prevent-fab-3.2.0")
 tistory.com#%#//scriptlet("abort-on-property-read", "adBlockDetected")
 ||cdnjs.cloudflare.com/ajax/libs/fuckadblock/3.2.1/fuckadblock.min.js$redirect=prevent-fab-3.2.0
-! ai-adb
-jootc.com#%#//scriptlet("set-constant", "ai_run_scripts", "noopFunc")
+! ai_front anti-adblock
+jootc.com,ehpub.co.kr#%#//scriptlet("abort-current-inline-script", "ai_run_scripts")
 ! Kakao TV
 kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#ins.kakao_ad_area
 kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@##adBlockPixelTag

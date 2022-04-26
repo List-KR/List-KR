@@ -1,6 +1,10 @@
+! Ad-Shield
+loawa.com,ygosu.com,inven.co.kr,tgd.kr,ppss.kr#%#//scriptlet("set-constant", "outerHeight", "0")
+loawa.com,ygosu.com,inven.co.kr#%#//scriptlet("set-constant", "innerHeight", "undefined")
 ! PopMagic
 watchfreejavonline.co#%#//scriptlet("abort-current-inline-script", "popMagic.init")
 !
+fmkorea.com#%#//scriptlet("abort-current-inline-script", "jQuery", "__nbp_ad_callback_read_new")
 humoruniv.com#%#//scriptlet("set-constant", "ch2", "noopFunc")
 humoruniv.com#%#//scriptlet("set-constant", "ch2_submit", "noopFunc")
 humoruniv.com#%#//scriptlet("set-constant", "ch4", "noopFunc")
@@ -8,8 +12,6 @@ humoruniv.com#%#//scriptlet("set-constant", "ch4_submit", "noopFunc")
 humoruniv.com#%#//scriptlet("set-constant", "naver_adpost_ch1", "noopFunc")
 humoruniv.com#%#//scriptlet("set-constant", "naver_adpost_ch2_backfill", "noopFunc")
 humoruniv.com#%#//scriptlet("set-constant", "show_adpost", "noopFunc")
-loawa.com,ygosu.com,inven.co.kr,tgd.kr,ppss.kr#%#//scriptlet("set-constant", "outerHeight", "0")
-loawa.com,ygosu.com,inven.co.kr#%#//scriptlet("set-constant", "innerHeight", "undefined")
 newspic.kr#%#//scriptlet("abort-on-property-write", "document.cookie", "init")
 jtbc.joins.com#%#//scriptlet("set-constant", "jtbcplayer.config.ad", "false")
 koreapas.com#%#//scriptlet("set-constant", "random_imglink", "noopFunc")
