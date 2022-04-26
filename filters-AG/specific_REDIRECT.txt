@@ -1,9 +1,11 @@
+! Ad-Shield
 $image,redirect-rule=32x32-transparent.png,domain=ppss.kr
 $subdocument,redirect-rule=noopframe,domain=ppss.kr|ygosu.com|tgd.kr|inven.co.kr|loawa.com
 /\/[0-9a-zA-Z\_?\-]{19,}\.(?!png|jpg|gif|jpeg|html|htm|txt)/$document,domain=ppss.kr|ygosu.com|tgd.kr|inven.co.kr|loawa.com
 $script,redirect-rule=noopjs,domain=ppss.kr|ygosu.com|tgd.kr|inven.co.kr|loawa.com
 $image,redirect-rule=1x1-transparent.gif,domain=ygosu.com|tgd.kr|inven.co.kr|loawa.com
 $xhr,redirect-rule=noopjs,domain=ppss.kr|ygosu.com|tgd.kr|inven.co.kr|loawa.com
+!
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$redirect=googlesyndication-adsbygoogle
 ||amazon-adsystem.com/aax2/apstag.js$script,redirect=amazon-apstag
 ||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices-gpt
