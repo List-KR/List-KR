@@ -1,3 +1,5 @@
+youthassembly.kr##.w_article > div[style]:not([id]):not([class]):not([align])
+youthassembly.kr##div[itemprop="articleBody"].main_text > div[style]:not([id]):not([class]):not([align])
 namu.wiki##div ~ div[class] > div div > div:nth-of-type(1) > div > div[class*="+"] > table[class*=" "]:not([id]):not([style]):not([colspan])
 happycampus.com##div[id^="banner"]
 happycampus.com##div[id^="power_link_"]
@@ -332,7 +334,7 @@ mmzone.co.kr##div[id$="_ad"]
 2cpu.co.kr##a[href*="./bbs/banner_link.php?"]
 ruliweb.com##div[id^="adsense_"]
 sportalkorea.com,news.jtbc.joins.com,ohmynews.com,hankyung.com,news1.kr,web.humoruniv.com,m.etnews.com,itempage3.auction.co.kr,asiae.co.kr,khan.co.kr,ytn.co.kr,avjamak.net,kmib.co.kr,mlbpark.donga.com,search.naver.com,prod.danawa.com,news.v.daum.net,joongang.co.kr,ruliweb.com##div[class^="ad_"]
-algumon.com,tvchak.com,dailysecu.com,hankyung.com,m.etnews.com,hani.co.kr,hankookilbo.com,newspim.com##div[class^="ad-"]
+youthassembly.kr,algumon.com,tvchak.com,dailysecu.com,hankyung.com,m.etnews.com,hani.co.kr,hankookilbo.com,newspim.com##div[class^="ad-"]
 m.humoruniv.com##div[id^="ddn_ad_"]
 web.humoruniv.com##html > body#body div[style^="clear:both;"]
 web.humoruniv.com##a[onmouseover="ad_choo_over();"]
