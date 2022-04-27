@@ -1,3 +1,4 @@
+||centaurs-rest.coupang.com^$app=com.timespread.Timetable2
 ||img.samsungapps.com/display^$app=com.samsung.android.game.gamehome
 ||adlibr.com^
 ||app.dcinside.com/api/_ad_search_link
