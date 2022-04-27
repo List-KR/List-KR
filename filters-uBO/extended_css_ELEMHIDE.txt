@@ -1,4 +1,4 @@
-namu.wiki#?#article div[class] ~ div[class]:has(+ div:not([class])):not(:has(span:watch-attr("id"="/fn-/"))):not(:has(span[id^="s-"])):not(:has(time[datetime]))
+namu.wiki#?#article div[class] ~ div[class]:has(+ div:not([class])):not(:has(span:watch-attr(id=/fn-/))):not(:has(span[id^="s-"])):not(:has(time[datetime]))
 browse.gmarket.co.kr#?#div[module-design-id].box__module-wrap:has(button[id^="buttonItemCardAdsLayer"][class="button__ads-layer"]):has(.box__itemcard-header > h3:has-text(먼저 둘러보세요))
 newreop.com#?#.app-board-section > ul.app-board-template-list > li.notice:has(> a[href] > span > font[color]:has-text(AD))
 instiz.net#?#.responsive_main > div[style] > .grouping_title:has(> div[style][class] > div[style]:has-text(광고))
