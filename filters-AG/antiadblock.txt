@@ -34,7 +34,7 @@ googleads.g.doubleclick.net###abgc
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/$script,domain=loawa.com|ppss.kr
 @@||adservice.google.*/adsid/integrator.js?domain=loawa.com$script,domain=loawa.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xhr,domain=ppss.kr|ygosu.com|tgd.kr|inven.co.kr|loawa.com
-@@$generichide,domain=ppss.kr|ygosu.com|tgd.kr|inven.co.kr|loawa.com
+@@$generichide,domain=ygosu.com|tgd.kr|inven.co.kr
 ! AdGlare Ad Server
 luckyquiz3.blogspot.com#%#//scriptlet("abort-current-inline-script", "document.createElement", "hasAdblock")
 !
