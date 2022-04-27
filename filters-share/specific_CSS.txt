@@ -1,4 +1,4 @@
-!
+! Ad-Shield
 ppss.kr,loawa.com#$#div[style*="text-align:"][style*="position:"] { filter: opacity(0) !important; } 
 loawa.com#$#img[style="height: auto;"] { filter: opacity(0) !important; }
 !
