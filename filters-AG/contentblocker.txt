@@ -20,7 +20,6 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 @@||videoads.kakao.com/adserver/api/v2/vmap$domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
 !
 @@||a.realsrv.com/video-outstream.js$domain=lover9.net
-@@||ssl.pstatic.net/adimg3.search/adpost/js/ad.js$domain=post.naver.com|blog.naver.com|cafe.naver.com
 @@||tistory.com^$generichide
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=noonnu.cc
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ko.ff14angler.com
