@@ -31,7 +31,7 @@ https://github.com/List-KR/List-KR/raw/master/filter_DNS.txt
 
 
 ## List-KR Script and List-KR Extension
-- **[List-KR Script](https://github.com/List-KR/List-KR-Script)** blocks complicated advertisement to block on namu.wiki, website protected by ad-shield, etc.
+- **[List-KR Script](https://github.com/List-KR/List-KR-Script)** blocks complicated advertisement to block on website protected by ad-shield, etc.
 - **List-KR Extension** blocks low-quality user-made advertisement.
     ```
     https://github.com/List-KR/List-KR/raw/master/filter_Extension.txt
