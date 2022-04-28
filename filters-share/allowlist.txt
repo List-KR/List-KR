@@ -1,4 +1,4 @@
-@@||ssl.pstatic.net/adimg3.search/adpost/js/ad.js$domain=naver.com
+@@||ssl.pstatic.net/adimg*.search/adpost/js/ad.js$domain=naver.com
 @@/^https:\/\/www\.ehanex\.com\/images\/main\/[a-z]{2}_ad\.gif$/
 @@||weekly.chosun.com/images/banner/colm$image
 @@||adimg3.search.naver.net/adpost/adpost_show_ads_min.js$domain=search.danawa.com
