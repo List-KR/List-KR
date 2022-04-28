@@ -38,6 +38,7 @@ googleads.g.doubleclick.net###abgc
 ! AdGlare Ad Server
 luckyquiz3.blogspot.com#%#//scriptlet("abort-current-inline-script", "document.createElement", "hasAdblock")
 !
+||a.realsrv.com/video-outstream.js$redirect=noopjs,domain=lover9.net
 ||googleads.g.doubleclick.net/pagead/ads?*&crui=$redirect=noopmp4-1s,domain=laftel.net
 webtv.dothome.co.kr##.adblock-on
 persnacons.tistory.com#@#.topAD
@@ -46,7 +47,6 @@ noonnu.cc#%#//scriptlet("abort-on-property-read", "localStorage.getItem", "adBlo
 exey.io,ko.ff14angler.com#@#ins.adsbygoogle
 webtv.dothome.co.kr,lover9.net#@#.adsbygoogle
 lover9.net#$#.modal { position: unset !important; }
-lover9.net#%#//scriptlet("abort-on-property-read", "goPage")
 lover9.net#%#//scriptlet("abort-current-inline-script", "setTimeout", "/self\.close/")
 ||adblockanalytics.com^$xmlhttprequest,redirect=nooptext,domain=1412.rest
 ||1412.rest/addons/*/adblockDetector.js

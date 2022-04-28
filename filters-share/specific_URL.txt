@@ -1,3 +1,4 @@
+||tistory2.daumcdn.net/tistory/5193955/skin/images/cumpc.js
 ||hompgo.synology.me/banner/$domain=youthassembly.kr
 ||happycampus.com/images/hcBanner/
 ||sportalkorea.com/ad_new/ad_close.png
