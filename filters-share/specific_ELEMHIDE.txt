@@ -1,6 +1,6 @@
 youthassembly.kr##.w_article > div[style]:not([id]):not([class]):not([align])
 youthassembly.kr##div[itemprop="articleBody"].main_text > div[style]:not([id]):not([class]):not([align])
-happycampus.com##div[id^="banner"]
+socialvalue.kr,happycampus.com##div[id^="banner"]
 happycampus.com##div[id^="power_link_"]
 sportalkorea.com###Contents > #sideBox > div[style]
 sportalkorea.com##p[class^="ad_"]
@@ -172,7 +172,7 @@ ohmynews.com##div[class^="m_ad"]
 ohmynews.com##iframe[src*="//ojsimg.ohmynews.com/"][src*="_ad_rolling.htm"]
 dnews.co.kr##img[src*="//image.dnews.co.kr/uhtml/images/banner/"]
 munhwa.com##img[src*="//image.munhwa.com/www/banner/"]
-news.jtbc.joins.com,etoland.co.kr,ajunews.com,mk.co.kr##div[class^="banner_"]
+socialvalue.kr,news.jtbc.joins.com,etoland.co.kr,ajunews.com,mk.co.kr##div[class^="banner_"]
 mk.co.kr##div[class^="bn_sec"]
 m.ilbe.com##article.cutin-banner
 bloomingbit.io##.promotion
@@ -226,7 +226,7 @@ mule.co.kr##div[class^="section-"][class$="-topad"]
 mule.co.kr##div[class^="section-"][class$="-smallad"]
 mule.co.kr##div[class^="section-"][class$="ad-pc"]
 mule.co.kr##div.section-leftmiddle-bottommiddle.cf
-entertainpost.com,m.moneys.mt.co.kr,basketkorea.com,m.ohmynews.com,zdnet.co.kr,biz.heraldcorp.com,slrclub.com,sports.chosun.com##div[class^="ad"]
+socialvalue.kr,entertainpost.com,m.moneys.mt.co.kr,basketkorea.com,m.ohmynews.com,zdnet.co.kr,biz.heraldcorp.com,slrclub.com,sports.chosun.com##div[class^="ad"]
 postshare.co.kr##div.warp > a[href*="//someblossom.co.kr/product/detail.html?"]
 postshare.co.kr##div[id^="foin_"]
 principlesofknowledge.kr,postshare.co.kr###hd_pop
