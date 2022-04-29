@@ -1,9 +1,9 @@
+namu.wiki#?#div:not([class]) > div[class]:has(h2 + div) ~ div[class]
 namu.wiki#?#div[class] > div[id]:not([class]):has(> iframe[id^="google_ads_"])
 browse.gmarket.co.kr#?##section__inner-content-body-container > div[module-design-id].box__module-wrap > .box__component:has(button[id^="buttonItemCardAdsLayer"][class="button__ads-layer"])
 browse.gmarket.co.kr#?##section__inner-content-body-container > div[module-design-id].box__module-wrap:has(> .box__component-bottom-da-banner)
 browse.gmarket.co.kr#?##section__inner-content-body-container > div[module-design-id].box__module-wrap:has(> .box__component-sponsor-link)
 m.moneys.mt.co.kr#?#.one_line_article > ul.list > li.item:has(> iframe[src*="//adgrp1.ad4989.co.kr/"])
-namu.wiki#?#article div[class] > div[id]:not([class]):not(:has(> *))
 kr-weathernews.com#?#body > article#content > article.block:has(ul#life_slider)
 search.tmon.co.kr#?#section.search_deallist > .deallist_wrap > ul > li[class]:has(> a[href*="//display.admonseller.com/"].anchor)
 namu.wiki#?#aside div[class][id] > div[id]:not([class]):not(:has(> *))
