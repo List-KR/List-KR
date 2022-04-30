@@ -1,1 +1,1 @@
-@@||m.dcinside.com/movie/^$stealth,app=com.dcinside.app.android
+@@||m.dcinside.com/movie/$stealth,app=com.dcinside.app.android
