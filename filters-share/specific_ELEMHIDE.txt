@@ -1,6 +1,6 @@
 www.gmarket.co.kr###skip-navigation-container > .section__main-ad
 www.gmarket.co.kr###skip-navigation-container > .section__main-power
-www.gmarket.co.kr##.box__head-ad
+gmarket.co.kr##.box__head-ad
 inews24.com,joynews24.com##container[style~="width:100%;"][style~="position:relative;"]
 youthassembly.kr##.w_article > div[style]:not([id]):not([class]):not([align])
 youthassembly.kr##div[itemprop="articleBody"].main_text > div[style]:not([id]):not([class]):not([align])
