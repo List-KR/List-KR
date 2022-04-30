@@ -54,6 +54,7 @@
 !#include filters-AG/mobile/android/android_app.txt
 !#include filters-AG/mobile/android/android_specific.txt
 !#include filters-AG/mobile/android/antiadblock_android_app.txt
+!#include filters-AG/mobile/android/allowlist_stealth_android_app.txt
 !#endif
 
 !#if (adguard_app_ios)
