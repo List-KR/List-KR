@@ -1,3 +1,4 @@
+@@||m.dcinside.com/movie^$stealth
 @@||thumbnail*.coupangcdn.com/thumbnails/$stealth,image
 @@||asset*.coupangcdn.com^$stealth,image
 @@||cmt.kfani.app/comments/iframe.php$stealth,third-party,domain=mobikf.ncctvgroup.com
