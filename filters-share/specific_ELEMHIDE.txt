@@ -1,3 +1,4 @@
+m.danawa.com##.goods-list__ad
 www.gmarket.co.kr###skip-navigation-container > .section__main-ad
 www.gmarket.co.kr###skip-navigation-container > .section__main-power
 gmarket.co.kr##.box__head-ad
