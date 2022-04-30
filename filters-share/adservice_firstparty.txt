@@ -1,3 +1,5 @@
+||advod.sbs.co.kr^
+||adservice.sbs.co.kr^
 ||cpa.greenp.kr^
 ||api.valista.io^
 ||api.linkmine.co.kr^
