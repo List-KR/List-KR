@@ -1,5 +1,5 @@
+namu.wiki#?#article div:not([class]) > div[class]:has(div[class] + div:not([class])) ~ div[class]
 namu.wiki#?#article div[class] > div[id]:not([class]):not(:has(> *))
-namu.wiki#?#div:not([class]) > div[class]:has(h2 + div) ~ div[class]
 namu.wiki#?#div[class] > div[id]:not([class]):has(> iframe[id^="google_ads_"])
 browse.gmarket.co.kr#?##section__inner-content-body-container > div[module-design-id].box__module-wrap > .box__component:has(button[id^="buttonItemCardAdsLayer"][class="button__ads-layer"])
 browse.gmarket.co.kr#?##section__inner-content-body-container > div[module-design-id].box__module-wrap:has(> .box__component-bottom-da-banner)
