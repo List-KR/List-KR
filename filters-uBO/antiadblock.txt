@@ -36,7 +36,7 @@ googleads.g.doubleclick.net###abgc
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xhr,domain=ppss.kr|ygosu.com|tgd.kr|inven.co.kr|loawa.com
 @@$ghide,domain=ygosu.com|tgd.kr|inven.co.kr
 ! AdGlare Ad Server
-luckyquiz3.blogspot.com##+js(acis, document.createElement, hasAdblock)
+x86.co.kr,luckyquiz3.blogspot.com##+js(acis, document.createElement, hasAdblock)
 !
 ||a.realsrv.com/video-outstream.js$redirect=noop.js,domain=lover9.net
 ||googleads.g.doubleclick.net/pagead/ads?*&crui=$redirect=noop-1s.mp4,domain=laftel.net
