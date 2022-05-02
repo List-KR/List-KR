@@ -1,1 +1,2 @@
+@@||m.dcinside.com/movie/$stealth,app=com.dcinside.app
 @@||m.dcinside.com/movie/$stealth,app=com.dcinside.app.android
