@@ -1,3 +1,8 @@
+inven.co.kr###webzineBody div.right-menu
+inven.co.kr##section[class^="ad-"]
+inven.co.kr##.webzineNewsMarketModule
+inven.co.kr##.commu-body > .section_market
+inven.co.kr###modRightBrandpage
 kimpga.com##div.max-w-screen-lg > .relative > div > div[class=""]:nth-child(1)
 m.danawa.com##.goods-list__ad
 www.gmarket.co.kr###skip-navigation-container > .section__main-ad
@@ -99,7 +104,7 @@ m.hani.co.kr##section[class^="ad"]
 hankyung.com##.view > .joy_info
 hankyung.com##article.act-body > .wrap_list
 gigglehd.com##.widget_banner_skin > ul.banner_list
-ichannela.com,m.news1.kr##div[class^="banner"]
+inven.co.kr,ichannela.com,m.news1.kr##div[class^="banner"]
 m.news1.kr##iframe[src^="/template/ads/"]
 m.news1.kr##div[class^="das_article"][class$="_wrap"]
 talk.op.gg,m.news1.kr##div[class^="ads_"]
@@ -117,7 +122,7 @@ etoland.co.kr##div[class$="_banner_div"]
 instiz.net##.responsive_main > div[style] > div[style~="background-color:"][style~="center;border:"][style~="1px"]
 instiz.net##.responsive_main > ul > li[id][class][style]
 instiz.net##.responsive_main > table > tbody > tr > td > div[style~="border:"][style~="1px"][style~="solid"]
-instiz.net##div[id$="ad"]
+inven.co.kr,instiz.net##div[id$="ad"]
 m.ohmynews.com,m.khan.co.kr,m.dcinside.com##div[id^="ad"]
 zdnet.co.kr##iframe[src^="/template_ad/"]
 yna.co.kr##[class^="aside-bnr"]
@@ -339,7 +344,7 @@ mmzone.co.kr##div[id$="_ad"]
 2cpu.co.kr##a[href*="./bbs/banner_link.php?"]
 ruliweb.com##div[id^="adsense_"]
 sportalkorea.com,news.jtbc.joins.com,ohmynews.com,hankyung.com,news1.kr,web.humoruniv.com,m.etnews.com,itempage3.auction.co.kr,asiae.co.kr,khan.co.kr,ytn.co.kr,avjamak.net,kmib.co.kr,mlbpark.donga.com,search.naver.com,prod.danawa.com,news.v.daum.net,joongang.co.kr,ruliweb.com##div[class^="ad_"]
-kimpga.com,youthassembly.kr,algumon.com,tvchak.com,dailysecu.com,hankyung.com,m.etnews.com,hani.co.kr,hankookilbo.com,newspim.com##div[class^="ad-"]
+inven.co.kr,kimpga.com,youthassembly.kr,algumon.com,tvchak.com,dailysecu.com,hankyung.com,m.etnews.com,hani.co.kr,hankookilbo.com,newspim.com##div[class^="ad-"]
 m.humoruniv.com##div[id^="ddn_ad_"]
 web.humoruniv.com##html > body#body div[style^="clear:both;"]
 web.humoruniv.com##a[onmouseover="ad_choo_over();"]
