@@ -3,6 +3,7 @@ loawa.com,ygosu.com,inven.co.kr,ppss.kr,tgd.kr,algumon.com##+js(json-prune, [].s
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
+m.danawa.com##+js(aopr, callNbpData, DANAWA_MOBILE_AD_MANAGER)
 m.danawa.com##+js(set, DANAWA_MOBILE_AD_MANAGER, {})
 naver.com##+js(set, getAdcrUrl, "")
 lover9.net##+js(aopr, goPage)
