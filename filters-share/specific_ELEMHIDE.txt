@@ -1,3 +1,4 @@
+prod.danawa.com###ebayPowerClickBottomArea
 kimpga.com##div.max-w-screen-lg > .relative > div > div[class=""]:nth-child(1)
 m.danawa.com##.goods-list__ad
 www.gmarket.co.kr###skip-navigation-container > .section__main-ad
