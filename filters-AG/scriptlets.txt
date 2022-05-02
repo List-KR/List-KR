@@ -3,6 +3,7 @@ algumon.com,loawa.com,ygosu.com,inven.co.kr,tgd.kr,ppss.kr#%#//scriptlet("json-p
 ! PopMagic
 watchfreejavonline.co#%#//scriptlet("abort-current-inline-script", "popMagic.init")
 !
+m.danawa.com#%#//scriptlet("abort-on-property-read", "callNbpData", "DANAWA_MOBILE_AD_MANAGER")
 m.danawa.com#%#//scriptlet("set-constant", "DANAWA_MOBILE_AD_MANAGER", "emptyObj")
 naver.com#%#//scriptlet("set-constant", "getAdcrUrl", "")
 lover9.net#%#//scriptlet("abort-on-property-read", "goPage")
