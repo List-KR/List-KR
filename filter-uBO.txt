@@ -1,6 +1,6 @@
 ! Title: List-KR uBO
 ! Description: List-KR for uBlock Origin
-! Version: 2022.503.3
+! Version: 2022.503.4
 ! Expires: 1 hour
 ! Homepage: https://github.com/List-KR/List-KR
 ! Support: https://github.com/List-KR/List-KR/issues/223
