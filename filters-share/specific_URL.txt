@@ -1,3 +1,4 @@
+||www.ilogen.com/static/images/m/min_n_g.png
 ||danawa.com/jehu/selectNBP.json
 /^http:\/\/simage\.auction\.co\.kr\/itemimage\/[0-9a-z]{2}\/[0-9a-z]{2}\/[0-9a-z]{2}\/[0-9a-z]{8,11}\.[a-z]{3,4}$/$domain=prod.danawa.com
 ||www.danawa.com/NBP/powerLink.php
