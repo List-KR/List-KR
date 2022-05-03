@@ -1,4 +1,5 @@
 ! Ad-Shield
+ppss.kr,ygosu.com,tgd.kr,inven.co.kr,loawa.com#$#div[style="text-align: center;"] { -webkit-mask-image: linear-gradient(transparent, transparent) !important; }
 loawa.com#$#iframe[src^="https://googleads.g.doubleclick.net/pagead/ads"] { opacity: 0 !important; }
 ppss.kr,loawa.com#$#div[style*="text-align:"][style*="position:"] { filter: opacity(0) !important; } 
 loawa.com#$#img[style="height: auto;"] { filter: opacity(0) !important; }

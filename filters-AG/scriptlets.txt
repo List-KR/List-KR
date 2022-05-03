@@ -1,5 +1,3 @@
-! Ad-Shield
-! algumon.com,loawa.com,ygosu.com,inven.co.kr,tgd.kr,ppss.kr#%#//scriptlet("json-prune", "[].size")
 ! PopMagic
 watchfreejavonline.co#%#//scriptlet("abort-current-inline-script", "popMagic.init")
 !
