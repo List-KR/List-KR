@@ -1,3 +1,5 @@
+! Ad-Shield
+ppss.kr,ygosu.com,tgd.kr,inven.co.kr#%#//scriptlet("abort-on-property-read", "Node.prototype.textContent")
 ! PopMagic
 watchfreejavonline.co#%#//scriptlet("abort-current-inline-script", "popMagic.init")
 !
