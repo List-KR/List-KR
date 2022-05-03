@@ -1,5 +1,5 @@
 ! Ad-Shield
-loawa.com,ygosu.com,inven.co.kr,ppss.kr,tgd.kr,algumon.com##+js(json-prune, [].size)
+! loawa.com,ygosu.com,inven.co.kr,ppss.kr,tgd.kr,algumon.com##+js(json-prune, [].size)
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
