@@ -1,5 +1,3 @@
-! Ad-Shield
-ppss.kr,ygosu.com,tgd.kr,inven.co.kr##+js(aopr, Node.prototype.textContent)
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
