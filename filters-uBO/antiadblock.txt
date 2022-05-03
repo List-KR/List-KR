@@ -38,6 +38,7 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 ! AdGlare Ad Server
 x86.co.kr,luckyquiz3.blogspot.com##+js(acis, document.createElement, hasAdblock)
 !
+||www3.doubleclick.net/|$redirect=noop.txt,domain=blackkiwi.net
 ||a.realsrv.com/video-outstream.js$redirect=noop.js,domain=lover9.net
 ||googleads.g.doubleclick.net/pagead/ads?*&crui=$redirect=noop-1s.mp4,domain=laftel.net
 webtv.dothome.co.kr##.adblock-on
