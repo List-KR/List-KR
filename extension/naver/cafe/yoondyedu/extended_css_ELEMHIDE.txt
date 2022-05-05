@@ -1,0 +1,1 @@
+cafe.naver.com#?#.ArticleContentBox .ArticleFormBanner.bottom:has(img[src="https://cafeptthumb-phinf.pstatic.net/MjAyMjA1MDRfODIg/MDAxNjUxNTkwMTU1MjQ5.Z7aWvCna96FisPSpHj0qVsNTWw7Fnw774T8n2pIg_zcg.Eqq-P93w7NQMT8dDQ96s0z8F24UMTkabvQNZZA91SUwg.JPEG/0001_5.jpg?type=f1480_240_banner"][alt="매니저 등록 배너"])
