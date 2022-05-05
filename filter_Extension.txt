@@ -1,6 +1,6 @@
 ! Title: List-KR Extension
 ! Description: List-KR Extension blocks low-quality user-made advertisement.
-! Version: 2022.325.2
+! Version: 2022.505.0
 ! Expires: 1 day
 ! Homepage: https://github.com/List-KR/List-KR
 ! License: https://github.com/List-KR/List-KR/blob/master/LICENSE
@@ -8,6 +8,8 @@
 ! Version must be UTC format.
 !
 
+!#include extension/naver/cafe/ghdi58/specific_ELEMHIDE.txt
+!#include extension/naver/cafe/ghdi58/specific_URL.txt
 !#include extension/naver/cafe/ps3friend/specific_ELEMHIDE.txt
 !#include extension/naver/cafe/ps3friend/specific_URL.txt
 !#include extension/naver/cafe/anycallusershow/specific_ELEMHIDE.txt
@@ -15,7 +17,10 @@
 !#include extension/naver/blog/awh8806/specific_ELEMHIDE.txt
 !#include extension/naver/blog/awh8806/specific_URL.txt
 
-!#if (!adguard_ext_android_cb)
+!#if !adguard_ext_android_cb
+!#include extension/naver/cafe/ghdi58/extended_css_ELEMHIDE.txt
+!#include extension/naver/cafe/ghdi58/extended_css_INJECTION.txt
+!#include extension/naver/cafe/ghdi58/specific_CSS.txt
 !#include extension/naver/cafe/ps3friend/extended_css_ELEMHIDE.txt
 !#include extension/naver/cafe/ps3friend/extended_css_INJECTION.txt
 !#include extension/naver/cafe/ps3friend/specific_CSS.txt
