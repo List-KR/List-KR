@@ -1,3 +1,4 @@
+||allyearcdn.com/img/banner_main/
 ||coinpan.com/modules/sejin7940_banner/tpl/js/banner.js
 /^https:\/\/coinpan\.com\/(|[a-z0-9_]{3,10}\/)files\/banner\//
 ||ilogen.com/static/images/m/min_n_g.png

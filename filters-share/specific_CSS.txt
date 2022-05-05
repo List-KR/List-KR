@@ -4,6 +4,8 @@ loawa.com#$#iframe[src^="https://googleads.g.doubleclick.net/pagead/ads"] { opac
 ppss.kr,loawa.com#$#div[style*="text-align:"][style*="position:"] { filter: opacity(0) !important; } 
 loawa.com#$#img[style="height: auto;"] { filter: opacity(0) !important; }
 !
+tvchak.com#$#body { overflow-x: auto !important; overflow-y: auto !important; }
+tvchak.com#$##banner, .modal-backdrop { display: none !important; }
 news.unn.net#$#.grid-body.g-body { width: 100% !important; }
 autopostkorea.com#$#.site-footer { padding-bottom: 0px !important; }
 etoland.co.kr#$#.hit_list_ul_wrap { width: 100% !important; }
