@@ -16,4 +16,9 @@ cafe.naver.com#?##upperArticleList > table > tbody > tr._noticeArticle:has(> td.
 cafe.naver.com#?##upperArticleList > table > tbody > tr._noticeArticle:has(> td.td_article > div.board-list > div > a[href="/ArticleRead.nhn?clubid=12577306&menuid=1603&boardtype=L&page=1&specialmenutype=&userDisplay=15&articleid=1972043"].article)
 cafe.naver.com#?##upperArticleList > table > tbody > tr._noticeArticle:has(> td.td_article > div.board-list > div > a[href="/ArticleRead.nhn?clubid=12577306&menuid=1603&boardtype=L&page=1&specialmenutype=&userDisplay=15&articleid=1971123"].article)
 cafe.naver.com#?##upperArticleList > table > tbody > tr._noticeArticle:has(> td.td_article > div.board-list > div > a[href="/ArticleRead.nhn?clubid=12577306&menuid=1603&boardtype=L&page=1&specialmenutype=&userDisplay=15&articleid=1962140"].article)
-cafe.naver.com#?#table[role="presentation"] > tbody:has(> tr > td#editorMainContent > div > b > font[color="#0075c8"]:contains(배너 및 이벤트 문의 : songtree1221@naver.com))
+!#if !ext_ublock
+cafe.naver.com#?#table[role="presentation"] > tbody:has(> tr > td#editorMainContent > div > b > font[color="#0075c8"]:has-text(배너 및 이벤트 문의 : songtree1221@naver.com))
+!#endif
+!#if ext_ublock
+cafe.naver.com#?#table[role="presentation"] > tbody:has(> tr > td#editorMainContent > div > b > font[color="#0075c8"]:has-text(배너 및 이벤트 문의 : songtree1221@naver.com))
+!#endif
