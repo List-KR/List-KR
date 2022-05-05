@@ -1,5 +1,5 @@
 ! ##div[id^="ad_"]
-m.thisisgame.com,planet-times.com,m.10000recipe.com,pandora.tv,mobile.newsis.com,zdnet.co.kr,fnnews.com,land.hankyung.com,mania.kr,mosen.mt.co.kr,ruliweb.com##div[id^="ad_"]
+m.sedaily.com,m.thisisgame.com,planet-times.com,m.10000recipe.com,pandora.tv,mobile.newsis.com,zdnet.co.kr,fnnews.com,land.hankyung.com,mania.kr,mosen.mt.co.kr,ruliweb.com##div[id^="ad_"]
 ! ##div[class$="_ad"]
 news.daum.net,instiz.net,asiae.co.kr,ohmynews.com,seoul.co.kr,dmitory.com,itcm.co.kr,clien.net##div[class$="_ad"]
 ! ##div[class^="ad_"]
@@ -7,7 +7,7 @@ sedaily.com,m.danawa.com,sportalkorea.com,news.jtbc.joins.com,ohmynews.com,hanky
 ! ##div[class^="ad-"]
 m.danawa.com,kimpga.com,youthassembly.kr,algumon.com,tvchak.com,dailysecu.com,hankyung.com,m.etnews.com,hani.co.kr,hankookilbo.com,newspim.com##div[class^="ad-"]
 ! ##.banner
-bloter.net,mosen.mt.co.kr,hinfomax.kr,hinfomax.co.kr,pressian.com,kukinews.com##.banner
+m.sedaily.com,bloter.net,mosen.mt.co.kr,hinfomax.kr,hinfomax.co.kr,pressian.com,kukinews.com##.banner
 ! ##div[class$="_banner"]
 m.ytn.co.kr,djtimes.co.kr,mdjournal.kr,zum.com,windowsforum.kr,dcnewsj.joins.com,berryjam.co.kr##div[class$="_banner"]
 ! ##div[class^="ad"]
