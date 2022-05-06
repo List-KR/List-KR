@@ -1,4 +1,4 @@
-namu.wiki#?#article div:not([class]) > div[class]:has(div[id*="category-"] > h1, div[id*="category-"] > h2, div[class] + div[style]:not([class])) ~ div[class]
+namu.wiki#?#article div:not([class]) > div[class]:has(div[id*="category-"] > h1, div[id*="category-"] > h2, div[class] + div[style]) ~ div[class]
 namu.wiki#?#article div[class] > div[id]:not([class]):not(:has(> *))
 namu.wiki#?#div[class] > div[id]:not([class]):has(> iframe[id^="google_ads_"])
 browse.gmarket.co.kr#?##section__inner-content-body-container > div[module-design-id].box__module-wrap > .box__component:has(button[id^="buttonItemCardAdsLayer"][class="button__ads-layer"])
