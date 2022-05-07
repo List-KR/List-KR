@@ -30,8 +30,8 @@ https://github.com/List-KR/List-KR/raw/master/filter_DNS.txt
 ```
 
 
-## List-KR Script and List-KR Extension
-- **[List-KR Script](https://github.com/List-KR/List-KR-Script)** blocks complicated advertisement to block on website protected by ad-shield, etc.
+## microShield and List-KR Extension
+- **[microShield](https://github.com/List-KR/microShield)** blocks complicated advertisement to block on website protected by ad-shield.
 - **List-KR Extension** blocks low-quality user-made advertisement.
     ```
     https://github.com/List-KR/List-KR/raw/master/filter_Extension.txt
