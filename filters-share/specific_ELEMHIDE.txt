@@ -48,6 +48,7 @@ www.instiz.net##span#menufoot > .hot_under
 m.joongna.com##article[class^="SearchList_listWrap"] + div
 www.naver.com##div[id^="veta_"]
 arca.live##div.ad
+arca.live##div#newsRank
 news.jtbc.joins.com##div[id^="right_banner"]
 news.jtbc.joins.com###articlebody > div[style]:not([itemprop="articleBody"]).article_content
 ohmynews.com###div10Sticky
