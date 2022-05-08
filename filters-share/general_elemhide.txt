@@ -20,7 +20,7 @@
 ##iframe[src*="//ai.onepx.kr/"]
 ##a[href*="//ad-api.enuri.info/"]
 ##img[src*="//ad-api.enuri.info/"]
-##div[id^="div-gpt-ad"]
+##[id^="div-gpt-ad"]
 ##iframe[src*="//adsrv-up.mcrony.com/"]
 ##div.banner_box
 ##a[href*="//click.soonwe.com/"]
