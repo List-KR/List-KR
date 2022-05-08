@@ -44,8 +44,8 @@ x86.co.kr,luckyquiz3.blogspot.com#%#//scriptlet("abort-current-inline-script", "
 webtv.dothome.co.kr##.adblock-on
 persnacons.tistory.com#@#.topAD
 noonnu.cc#%#//scriptlet("abort-on-property-read", "localStorage.getItem", "adBlockMethodology")
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ko.ff14angler.com
-exey.io,ko.ff14angler.com#@#ins.adsbygoogle
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ff14angler.com
+exey.io,ff14angler.com#@#ins.adsbygoogle
 webtv.dothome.co.kr,lover9.net#@#.adsbygoogle
 lover9.net#$#.modal { position: unset !important; }
 lover9.net#%#//scriptlet("abort-current-inline-script", "setTimeout", "/self\.close/")
@@ -56,3 +56,5 @@ tistory.com,sajuplus.net#%#//scriptlet("set-constant", "checkAds", "noopFunc")
 1412.rest##.ADs-BG.center
 ! mbn.co.kr ( https://github.com/AdguardTeam/AdguardFilters/issues/104586 )
 ||ad.smartmediarep.com/NetInsight/video/$redirect=nooptext,domain=mbn.co.kr
+! foreign website
+downloads.descendant.me,html5.gamedistribution.com,paraphraser.io,sekai-kabuka.com,teemo.gg,xtremestream.co#@#ins.adsbygoogle
