@@ -1,3 +1,5 @@
+! Ad-Shield
+ppss.kr,ygosu.com,tgd.kr,inven.co.kr,loawa.com,feedclick.net#%#//scriptlet("prevent-addEventListener", "", "catch_error")
 ! PopMagic
 watchfreejavonline.co#%#//scriptlet("abort-current-inline-script", "popMagic.init")
 !

@@ -1,3 +1,5 @@
+! Ad-Shield
+ppss.kr,ygosu.com,tgd.kr,inven.co.kr,loawa.com,feedclick.net##+js(aeld, , catch_error)
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
