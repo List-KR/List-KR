@@ -4,7 +4,7 @@ ppss.kr,ygosu.com#$#div[style="margin-left: auto; margin-right: auto; display: b
 tgd.kr,loawa.com,feedclick.net#$#div[style="margin-left: auto; margin-right: auto; display: block;"] { background-color: black !important; }
 tgd.kr,loawa.com,feedclick.net#$#div[style="margin-left: auto; margin-right: auto; display: block;"] * { mix-blend-mode: darken !important; }
 inven.co.kr#$#div[style="margin-left: auto; margin-right: auto; display: block;"] { background-color: white !important; }
-inven.co.kr#$#div[style="margin-left: auto; margin-right: auto; display: block;"] { style(mix-blend-mode: color-burn !important; }
+inven.co.kr#$#div[style="margin-left: auto; margin-right: auto; display: block;"] { mix-blend-mode: color-burn !important; }
 !
 tvchak.com#$#body { overflow-x: auto !important; overflow-y: auto !important; }
 tvchak.com#$##banner, .modal-backdrop { display: none !important; }
