@@ -1,7 +1,7 @@
 ! Title: List-KR
 ! Description: List-KR for AdGuard
-! Version: 2022.511.0
-! Expires: 1 hour
+! Version: 2022.511.1
+! Expires: 1 day
 ! Homepage: https://github.com/List-KR/List-KR
 ! Support: https://github.com/List-KR/List-KR/issues/223
 ! License: https://github.com/List-KR/List-KR/blob/master/LICENSE
