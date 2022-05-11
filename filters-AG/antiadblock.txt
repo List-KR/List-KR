@@ -38,8 +38,9 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 ! AdGlare Ad Server
 x86.co.kr,luckyquiz3.blogspot.com#%#//scriptlet("abort-current-inline-script", "document.createElement", "hasAdblock")
 !
+lover9.net#%#//scriptlet("abort-on-property-read", "open", "/(a|d|b|l|o|c|k|[0-9]){7,}\.html/")
+$script,redirect-rule=noopjs,domain=lover9.net
 ||www3.doubleclick.net/|$redirect=nooptext,domain=blackkiwi.net
-||a.realsrv.com/video-outstream.js$redirect=noopjs,domain=lover9.net
 ||googleads.g.doubleclick.net/pagead/ads?*&crui=$redirect=noopmp4-1s,domain=laftel.net
 webtv.dothome.co.kr##.adblock-on
 persnacons.tistory.com#@#.topAD
