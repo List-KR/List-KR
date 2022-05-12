@@ -15,7 +15,6 @@ jwmx.tistory.com,thespike.co.kr,hobbyen.co.kr,socialvalue.kr,entertainpost.com,m
 ! ##div[class^="banner_"]
 auth.danawa.com,socialvalue.kr,news.jtbc.joins.com,etoland.co.kr,ajunews.com,mk.co.kr##div[class^="banner_"]
 !
-namu.wiki##div:not([class]) > div[class] ~ div[class]:not(:empty) > [class]:not([class=""]):nth-last-of-type(1):not(> div a[id^="s-"][href="#toc"])
 tcafe2a.com##.side-event-img
 chosun.com##div[class$="Ad"]
 gall.dcinside.com##.con_banner
