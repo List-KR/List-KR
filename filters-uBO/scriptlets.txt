@@ -1,3 +1,5 @@
+! Topics API for advertisement
+##+js(set, document.browsingTopics, undefined)
 ! Ad-Shield
 ppss.kr,ygosu.com,tgd.kr,inven.co.kr,loawa.com,feedclick.net##+js(aeld, , catch_error)
 ! PopMagic
