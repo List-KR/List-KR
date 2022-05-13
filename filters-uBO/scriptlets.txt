@@ -1,6 +1,7 @@
 ! Topics API for advertisement
 ##+js(set, document.browsingTopics, undefined)
 ! Ad-Shield
+inven.co.kr,ppss.kr,ygosu.com,tgd.kr##+js(nostif, eval, 1000)
 ppss.kr,ygosu.com,tgd.kr,inven.co.kr,loawa.com,feedclick.net##+js(aeld, , catch_error)
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
