@@ -6,6 +6,7 @@ ppss.kr,ygosu.com,tgd.kr,inven.co.kr,loawa.com,feedclick.net##+js(aeld, , catch_
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
+happymoney.co.kr##+js(set, topMenu_Action.bannerArray, undefined)
 cultureland.co.kr##+js(aopr, checkCookie, popup_AD)
 auth.danawa.com##+js(aopr, $, #loginAccountRelatedButton)
 m.danawa.com##+js(aopr, callNbpData, DANAWA_MOBILE_AD_MANAGER)
