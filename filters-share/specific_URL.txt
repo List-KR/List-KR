@@ -288,6 +288,7 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+/^https:\/\/newtoon[0-9]{3,4}\.com\/banner\//
 ||cloudaaaa.com^$domain=copytoon268.com|copytoon269.com|copytoon270.com|copytoon271.com|copytoon272.com|copytoon273.com|copytoon274.com|copytoon275.com|copytoon276.com|copytoon277.com
 /^https:\/\/hodu[0-9]{3,4}\.net\/_book\/_Contents\/banner\//
 /^https:\/\/bam[0-9]{3,4}co\.com\/_book\/_Contents\/banner\//

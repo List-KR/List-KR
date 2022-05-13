@@ -425,6 +425,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 !
+newtoon116.com,newtoon117.com,newtoon117.com,newtoon118.com,newtoon119.com,newtoon120.com,newtoon121.com,newtoon122.com,newtoon123.com,newtoon124.com,newtoon125.com##.ad-form > .row > div[class^="col-md-"]
 copytoon268.com,copytoon269.com,copytoon270.com,copytoon271.com,copytoon272.com,copytoon273.com,copytoon274.com,copytoon275.com,copytoon276.com,copytoon277.com##.row.w_banner
 hodu252.net,hodu253.net,hodu254.net,hodu255.net,hodu256.net,hodu257.net,hodu258.net,hodu259.net,hodu260.net,hodu261.net,hodu262.net,hodu263.net##.sub-contents > .banner
 bam256co.com,bam257co.com,bam258co.com,bam259co.com,bam260co.com,bam261co.com,bam262co.com,bam263co.com,bam264co.com,bam265co.com,bam266co.com##.sub-contents > .banner
