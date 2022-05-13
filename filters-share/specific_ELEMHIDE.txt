@@ -15,6 +15,8 @@ jwmx.tistory.com,thespike.co.kr,hobbyen.co.kr,socialvalue.kr,entertainpost.com,m
 ! ##div[class^="banner_"]
 auth.danawa.com,socialvalue.kr,news.jtbc.joins.com,etoland.co.kr,ajunews.com,mk.co.kr##div[class^="banner_"]
 !
+cultureland.co.kr##.slider > div[id$="_popup"]
+cultureland.co.kr##.main-evn > .main-visual
 tcafe2a.com##.side-event-img
 chosun.com##div[class$="Ad"]
 gall.dcinside.com##.con_banner
