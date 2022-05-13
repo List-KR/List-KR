@@ -40,7 +40,7 @@ body:
     validations:
       required: true
 
-    - type: dropdown
+  - type: dropdown
     id: os
     attributes:
       label: "Operating System"
