@@ -14,6 +14,8 @@ m.ytn.co.kr,djtimes.co.kr,mdjournal.kr,zum.com,windowsforum.kr,dcnewsj.joins.com
 jwmx.tistory.com,thespike.co.kr,hobbyen.co.kr,socialvalue.kr,entertainpost.com,m.moneys.mt.co.kr,basketkorea.com,m.ohmynews.com,zdnet.co.kr,biz.heraldcorp.com,slrclub.com,sports.chosun.com##div[class^="ad"]
 ! ##div[class^="banner_"]
 auth.danawa.com,socialvalue.kr,news.jtbc.joins.com,etoland.co.kr,ajunews.com,mk.co.kr##div[class^="banner_"]
+! div[class$="banner"]
+www.dcinside.com,rhythmer.net##div[class$="Banner"]
 !
 m.happymoney.co.kr##.topBannerUse
 happymoney.co.kr###topBnrWrap
@@ -93,7 +95,6 @@ newreop.com##.app-layout-content > #app-board > .app-board-section > .app-board-
 newreop.com##main.app-main > .app-layout-container > .app-layout-content > #app-board > div > div[style]:not([class])
 cuonet.com##div[style~="background-image:"][style*=".cuonet.com/data/apms/background/"].item
 op.gg##div[id$="-ad"]
-rhythmer.net##div[class$="Banner"]
 minelist.kr##.content.ad
 koreapas.com##img[src^="athe/"]
 koreapas.com##img[src*="koreapas.com/bbs/data/"]
