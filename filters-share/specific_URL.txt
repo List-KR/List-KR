@@ -1,3 +1,4 @@
+||cultureland.co.kr/etc/main_AD_$document
 ||allyearcdn.com/img/banner_main/
 ||coinpan.com/modules/sejin7940_banner/tpl/js/banner.js
 /^https:\/\/coinpan\.com\/(|[a-z0-9_]{3,10}\/)files\/banner\//

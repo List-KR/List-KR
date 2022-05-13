@@ -6,6 +6,7 @@ ppss.kr,ygosu.com,tgd.kr,inven.co.kr,loawa.com,feedclick.net#%#//scriptlet("prev
 ! PopMagic
 watchfreejavonline.co#%#//scriptlet("abort-current-inline-script", "popMagic.init")
 !
+cultureland.co.kr#%#//scriptlet("abort-on-property-read", "checkCookie", "popup_AD")
 auth.danawa.com#%#//scriptlet("abort-on-property-read", "$", "#loginAccountRelatedButton")
 m.danawa.com#%#//scriptlet("abort-on-property-read", "callNbpData", "DANAWA_MOBILE_AD_MANAGER")
 m.danawa.com#%#//scriptlet("set-constant", "DANAWA_MOBILE_AD_MANAGER", "emptyObj")
