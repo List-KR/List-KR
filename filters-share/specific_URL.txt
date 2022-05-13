@@ -288,6 +288,8 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+/^https:\/\/[0-9a-z\.]{1,}\.blogspot\.com\//$domain=blacktoon174.com|blacktoon178.com|blacktoon179.com|blacktoon180.com|blacktoon181.com|blacktoon182.com|blacktoon183.com|blacktoon184.com|blacktoon185.com|blacktoon186.com|blacktoon187.com|blacktoon188.com
+/^https:\/\/blacktoon[0-9]{3,4}\.com\/upload\/[0-9]{4}\/[0-9]{4}\/[0-9]{21}/
 /^https:\/\/www\.torrentonly[0-9]{1,4}\.com\/bbs\/bannerhit\.php/$document
 /^https:\/\/www\.torrentonly[0-9]{1,4}\.com\/data\/zn_bimg\//
 /^https:\/\/newtoki[0-9]{3,6}\.com\/bbs\/linkbn\.php/$document
