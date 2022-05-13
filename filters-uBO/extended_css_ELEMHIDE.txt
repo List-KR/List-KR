@@ -16,5 +16,5 @@ m.ppomppu.co.kr#?#.community-board-notice-box > #bbs_inform:has(> ul > li span:h
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
-hdhd133.net,hdhd134.net,hdhd135.net,hdhd136.net,hdhd137.net,hdhd138.net,hdhd139.net,hdhd140.net,hdhd141.net,hdhd142.net,hdhd143.net,hdhd144.net#?#.menu-ul > .menu-li:has(> a:contains(보증토토))
-blacktoon174.com,blacktoon178.com,blacktoon179.com,blacktoon180.com,blacktoon181.com,blacktoon182.com,blacktoon183.com,blacktoon184.com,blacktoon185.com,blacktoon186.com,blacktoon187.com,blacktoon188.com#?#.alert.alert-danger:has(> a:contains([AD]))
+hdhd133.net,hdhd134.net,hdhd135.net,hdhd136.net,hdhd137.net,hdhd138.net,hdhd139.net,hdhd140.net,hdhd141.net,hdhd142.net,hdhd143.net,hdhd144.net#?#.menu-ul > .menu-li:has(> a:has-text(보증토토))
+blacktoon174.com,blacktoon178.com,blacktoon179.com,blacktoon180.com,blacktoon181.com,blacktoon182.com,blacktoon183.com,blacktoon184.com,blacktoon185.com,blacktoon186.com,blacktoon187.com,blacktoon188.com#?#.alert.alert-danger:has(> a:has-text([AD]))
