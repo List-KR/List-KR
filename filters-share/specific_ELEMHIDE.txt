@@ -15,6 +15,7 @@ jwmx.tistory.com,thespike.co.kr,hobbyen.co.kr,socialvalue.kr,entertainpost.com,m
 ! ##div[class^="banner_"]
 auth.danawa.com,socialvalue.kr,news.jtbc.joins.com,etoland.co.kr,ajunews.com,mk.co.kr##div[class^="banner_"]
 !
+m.happymoney.co.kr##.topBannerUse
 happymoney.co.kr###topBnrWrap
 happymoney.co.kr###content  > .mainBanner
 cultureland.co.kr##.slider > div[id$="_popup"]
