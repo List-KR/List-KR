@@ -39,6 +39,34 @@ body:
         - (Other)
     validations:
       required: true
+
+  - type: dropdown
+    id: os
+    attributes:
+      label: "Operating System"
+      description: "What is an operating system (or operating systems) that the issue is occurred with?"
+      multiple: true
+      options:
+        - Microsoft Windows 11
+        - Microsoft Windows 10
+        - Ubuntu
+        - Kubuntu
+        - openSUSE
+        - HamoniKR
+        - Gooroom OS
+        - Pop!_OS
+        - Red Hat Linux
+        - Fedora
+        - Manjaro Linux
+        - Arch Linux
+        - Chromium OS (Chrome OS and WhaleOS are included.)
+        - Qubes OS
+        - Android
+        - Apple macOS
+        - Apple iOS
+        - (Other)
+    validations:
+      required: true
       
   - type: dropdown
     id: adblocker
