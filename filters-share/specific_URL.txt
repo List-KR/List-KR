@@ -288,6 +288,7 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+/^https:\/\/hodu[0-9]{3,4}\.net\/_book\/_Contents\/banner\//
 /^https:\/\/bam[0-9]{3,4}co\.com\/_book\/_Contents\/banner\//
 ||blogger.googleusercontent.com/img/$domain=hdhd133.net|hdhd134.net|hdhd135.net|hdhd136.net|hdhd137.net|hdhd138.net|hdhd139.net|hdhd140.net|hdhd141.net|hdhd142.net|hdhd143.net|hdhd144.net
 ||i.imgur.com^$domain=hdhd133.net|hdhd134.net|hdhd135.net|hdhd136.net|hdhd137.net|hdhd138.net|hdhd139.net|hdhd140.net|hdhd141.net|hdhd142.net|hdhd143.net|hdhd144.net
