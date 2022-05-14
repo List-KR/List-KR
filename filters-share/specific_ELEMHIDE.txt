@@ -19,6 +19,9 @@ rhythmer.net##div[class$="Banner"]
 ! div[class$="banner"]
 dcinside.com##div[class$="banner"]
 !
+m.inews24.com##main > section.inews-gallery + * + hr[class][style] + ad ~ ad
+m.inews24.com##main > section.inews-gallery + ad[alt]
+m.inews24.com##section.inews-view ad
 inews24.com##aside > hr[class]
 inews24.com##article > ad[alt] ~ container[style]
 inews24.com##article > div[style]:not([class])
