@@ -439,9 +439,9 @@ newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newtoki135.com,newto
 toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com,toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com##.bnt > div[class^="bancol"]
 toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com,toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com###containerCol .at-content .contents > a[href][target] > img[src^="/bann/"]
 toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com,toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com##div[class$="mobile-banner"][style]
-manatoki129.net,manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net,manatoki140.net,manatoki141.net##[style="margin-bottom: 20px;"].row.row-15
-manatoki129.net,manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net,manatoki140.net,manatoki141.net##.basic-banner.row.row-10
-manatoki129.net,manatoki130.net,manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net,manatoki140.net,manatoki141.net##.board-tail-banner
+manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net,manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net##[style="margin-bottom: 20px;"].row.row-15
+manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net,manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net##.basic-banner.row.row-10
+manatoki131.net,manatoki132.net,manatoki133.net,manatoki134.net,manatoki135.net,manatoki136.net,manatoki137.net,manatoki138.net,manatoki139.net,manatoki140.net,manatoki141.net,manatoki142.net,manatoki143.net##.board-tail-banner
 103.204.13.68##.product-banner
 103.204.13.68##div[class^="mobile-m ad720_"]
 hellven.net##a[href$="&utm_medium=hellven1&referer=internal_hellven_banner_hellven1"]
