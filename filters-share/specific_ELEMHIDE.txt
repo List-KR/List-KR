@@ -14,8 +14,10 @@ m.ytn.co.kr,djtimes.co.kr,mdjournal.kr,zum.com,windowsforum.kr,dcnewsj.joins.com
 jwmx.tistory.com,thespike.co.kr,hobbyen.co.kr,socialvalue.kr,entertainpost.com,m.moneys.mt.co.kr,basketkorea.com,m.ohmynews.com,zdnet.co.kr,biz.heraldcorp.com,slrclub.com,sports.chosun.com##div[class^="ad"]
 ! ##div[class^="banner_"]
 auth.danawa.com,socialvalue.kr,news.jtbc.joins.com,etoland.co.kr,ajunews.com,mk.co.kr##div[class^="banner_"]
-! div[class$="banner"]
+! div[class$="Banner"]
 dcinside.com,rhythmer.net##div[class$="Banner"]
+! div[class$="banner"]
+dcinside.com##div[class$="banner"]
 !
 poro.gg###__layout > div:not([class]) > [class]:not(footer) > div[class]:not([sm])
 m.happymoney.co.kr##.topBannerUse
