@@ -15,9 +15,8 @@ jwmx.tistory.com,thespike.co.kr,hobbyen.co.kr,socialvalue.kr,entertainpost.com,m
 ! ##div[class^="banner_"]
 auth.danawa.com,socialvalue.kr,news.jtbc.joins.com,etoland.co.kr,ajunews.com,mk.co.kr##div[class^="banner_"]
 ! div[class$="banner"]
-www.dcinside.com,rhythmer.net##div[class$="Banner"]
+dcinside.com,rhythmer.net##div[class$="Banner"]
 !
-dcinside.com##div.leftbanner
 poro.gg###__layout > div:not([class]) > [class]:not(footer) > div[class]:not([sm])
 m.happymoney.co.kr##.topBannerUse
 happymoney.co.kr###topBnrWrap
