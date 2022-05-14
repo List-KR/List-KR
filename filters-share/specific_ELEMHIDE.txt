@@ -58,7 +58,6 @@ www.instiz.net##span#menufoot > .hot_under
 m.joongna.com##article[class^="SearchList_listWrap"] + div
 www.naver.com##div[id^="veta_"]
 arca.live##div.ad
-arca.live##div#newsRank
 news.jtbc.joins.com##div[id^="right_banner"]
 news.jtbc.joins.com###articlebody > div[style]:not([itemprop="articleBody"]).article_content
 ohmynews.com###div10Sticky
@@ -71,7 +70,6 @@ m.ytn.co.kr##ul > li[class^="ad_"][id^="snsAd_area"]
 10000recipe.com##dl.container ul.rcp_m_list2 > ul > div:not(li.common_sp_list_li)
 10000recipe.com##div[class^="view"] > .sp_pdt_wrap
 10000recipe.com##div[id^="divEzad"]
-arca.live###namuRank
 djtimes.co.kr##iframe[src^="/banner/"]
 gginews.co.kr##center > .bn
 mangacat.cc##.col-md-3.at-col.at-side > .row.fix-gutters-5
