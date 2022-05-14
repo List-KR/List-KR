@@ -19,6 +19,9 @@ rhythmer.net##div[class$="Banner"]
 ! div[class$="banner"]
 dcinside.com##div[class$="banner"]
 !
+inews24.com##article > ad[alt] ~ container[style]
+inews24.com##article > div[style]:not([class])
+inews24.com##article > p + ad
 arca.live##div#newsRank
 poro.gg###__layout > div:not([class]) > [class]:not(footer) > div[class]:not([sm])
 m.happymoney.co.kr##.topBannerUse
