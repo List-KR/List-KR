@@ -425,6 +425,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 !
+torrentmode.com##a[href^="https://torrentmode.com/bbs/bannerhit.php"]
 toonsarang58.com,toonsarang59.com,toonsarang60.com,toonsarang61.com,toonsarang62.com,toonsarang63.com,toonsarang64.com,toonsarang65.com,toonsarang66.com,toonsarang67.com,toonsarang68.com##.row.w_banner
 agit140.com,agit141.com,agit142.com,agit143.com,agit144.com,agit145.com,agit146.com,agit147.com,agit148.com,agit149.com,agit150.com,agit151.com##.container.banner + .banner
 newtoon116.com,newtoon117.com,newtoon117.com,newtoon118.com,newtoon119.com,newtoon120.com,newtoon121.com,newtoon122.com,newtoon123.com,newtoon124.com,newtoon125.com##.ad-form > .row > div[class^="col-md-"]
@@ -433,7 +434,6 @@ hodu252.net,hodu253.net,hodu254.net,hodu255.net,hodu256.net,hodu257.net,hodu258.
 bam256co.com,bam257co.com,bam258co.com,bam259co.com,bam260co.com,bam261co.com,bam262co.com,bam263co.com,bam264co.com,bam265co.com,bam266co.com##.sub-contents > .banner
 wfwf207.com,wfwf207.com,wfwf208.com,wfwf209.com,wfwf210.com,wfwf211.com,wfwf212.com,wfwf213.com,wfwf214.com,wfwf215.com,wfwf216.com,wfwf217.com,wfwf218.com##.top-banner
 blacktoon174.com,blacktoon178.com,blacktoon179.com,blacktoon180.com,blacktoon181.com,blacktoon182.com,blacktoon183.com,blacktoon184.com,blacktoon185.com,blacktoon186.com,blacktoon187.com,blacktoon188.com##.banner.container > .row > .col-6
-torrentonly9.com,torrentonly10.com,torrentonly11.com,torrentonly12.com,torrentonly13.com,torrentonly14.com,torrentonly15.com,torrentonly16.com,torrentonly17.com,torrentonly18.com,torrentonly19.com,torrentonly20.com##a[href*="//www.torrentonly"][href*="/bbs/bannerhit.php"]
 newtoki129.com,newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newtoki135.com,newtoki136.com,newtoki137.com,newtoki178.com,newtoki179.com,newtoki180.com,newtoki181.com,newtoki182.com###hd_pop
 newtoki129.com,newtoki130.com,newtoki131.com,newtoki132.com,newtoki133.com,newtoki134.com,newtoki135.com,newtoki136.com,newtoki137.com,newtoki178.com,newtoki179.com,newtoki180.com,newtoki181.com,newtoki182.com##img[src^="/tokinbtoki/"]
 toonkor104.com,toonkor105.com,toonkor106.com,toonkor107.com,toonkor108.com,toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com##.bnt > div[class^="bancol"]
