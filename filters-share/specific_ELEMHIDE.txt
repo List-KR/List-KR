@@ -437,6 +437,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 !
+funbe109.com,funbe110.com,funbe111.com,funbe112.com,funbe113.com,funbe114.com,funbe115.com,funbe116.com,funbe117.com,funbe118.com,funbe119.com,funbe120.com##div[class$="mobile-banner"][style]
 toon123.com##main > section[style]:not([class])
 anilife.live##.MainBnnWrap
 manaboza01.com,manaboza02.com,manaboza03.com,manaboza04.com,manaboza05.com,manaboza06.com,manaboza07.com,manaboza08.com,manaboza09.com,manaboza10.com,manaboza11.com##.payment_fullbnr
