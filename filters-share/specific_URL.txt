@@ -288,6 +288,8 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+||toonimg.com/data/files/banner/
+/^https:\/\/[a-z]{1,}\.skytoon[0-9]{2,3}\.com\/links\/bannerlink\//$document
 /^https:\/\/frtoon[0-9]{3,4}\.com\/data\/by_banner\//
 ||i.imgur.com^$domain=buzztoon167.com|buzztoon168.com|buzztoon169.com|buzztoon170.com|buzztoon171.com|buzztoon172.com|buzztoon173.com|buzztoon174.com|buzztoon175.com|buzztoon176.com|buzztoon177.com|buzztoon178.com
 /^https:\/\/funbe[0-9]{3,4}\.com\/images\//
