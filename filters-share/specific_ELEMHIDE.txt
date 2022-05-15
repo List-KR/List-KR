@@ -19,7 +19,7 @@ rhythmer.net##div[class$="Banner"]
 ! div[class$="banner"]
 dcinside.com##div[class$="banner"]
 !
-inews24.com##section> container > .ad
+inews24.com##section > container > .ad
 hani.co.kr###laAdArea
 dpg.danawa.com###danawa-gnb-banner
 m.inews24.com##main > section.inews-gallery + * + hr[class][style] + ad ~ ad
