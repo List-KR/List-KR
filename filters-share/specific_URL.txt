@@ -288,6 +288,7 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+||anilife.live/assets/banner/
 /^(http|https):\/\/manaboza[0-9]{2,3}\.com\/static\/picture\/[0-9]{4}_[0-9]{10}\.[0-9]{4}\./
 /^(http|https):\/\/manaboza[0-9]{2,3}\.com\/static\/image\/header\//
 ||torrentmode.com/bbs/zn_bimg/bannerhit.php$document

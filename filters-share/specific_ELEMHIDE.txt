@@ -437,6 +437,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 !
+anilife.live##.MainBnnWrap
 manaboza01.com,manaboza02.com,manaboza03.com,manaboza04.com,manaboza05.com,manaboza06.com,manaboza07.com,manaboza08.com,manaboza09.com,manaboza10.com,manaboza11.com##.payment_fullbnr
 manaboza01.com,manaboza02.com,manaboza03.com,manaboza04.com,manaboza05.com,manaboza06.com,manaboza07.com,manaboza08.com,manaboza09.com,manaboza10.com,manaboza11.com##.comic_bot_bnr
 torrentmode.com##a[href^="https://torrentmode.com/bbs/bannerhit.php"]
