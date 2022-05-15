@@ -29,6 +29,16 @@ https://github.com/List-KR/List-KR/raw/master/filter-uBO.txt
 https://github.com/List-KR/List-KR/raw/master/filter_DNS.txt
 ```
 
+We're also providing the version that unblocks useful ads.
+
+**List-KR** (AdGuard):
+```
+https://github.com/List-KR/List-KR/raw/master/filter_Useful.txt
+```
+**List-KR uBO** (uBlock Origin):
+```
+https://github.com/List-KR/List-KR/raw/master/filter_Useful-uBO.txt
+```
 
 ## microShield and List-KR Extension
 - **[microShield](https://github.com/List-KR/microShield)** blocks complicated advertisement to block on website protected by ad-shield.

@@ -1,0 +1,5 @@
+! The intend of this filter is different from allowlist.txt.
+! This purpose of this filter is to unblock useful filters or self-promotion on the website, not to fix the invalid or incorrect blocking exception.
+!
+! + Also, unblocking doesn't affect to the capability of the adblockers generally, so splitting versions per adblocker will be useless effort.
+! + To make things clear, appending issue URL or simple information before adding the line is appreciated.

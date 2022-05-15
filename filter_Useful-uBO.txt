@@ -1,0 +1,39 @@
+! Title: List-KR uBO
+! Description: List-KR for uBlock Origin
+! Version: 2022.515.5
+! Expires: 1 day
+! Homepage: https://github.com/List-KR/List-KR
+! Support: https://github.com/List-KR/List-KR/issues/223
+! License: https://github.com/List-KR/List-KR/blob/master/LICENSE
+!
+! Version must be UTC format.
+!
+
+!#include filters-share/adservice.txt
+!#include filters-share/adservice_firstparty.txt
+!#include filters-share/general_elemhide.txt
+!#include filters-share/general_url.txt
+!#include filters-share/specific_URL.txt
+!#include filters-share/specific_ELEMHIDE.txt
+!#include filters-share/allowlist.txt
+!#include filters-share/useful_ads.txt
+
+!#include filters-share/extended_css_ELEMHIDE.txt
+!#include filters-share/extended_css_INJECTION.txt
+!#include filters-uBO/specific_REDIRECT.txt
+!#include filters-uBO/extended_css_ELEMHIDE.txt
+!#include filters-uBO/extended_css_INJECTION.txt
+!#include filters-uBO/scriptlets.txt
+!#include filters-share/lkscriptlet.txt
+!#include filters-share/javascript.txt
+!#include filters-uBO/antiadblock.txt
+
+!#if cap_user_stylesheet
+!#include filters-share/specific_CSS.txt
+!#endif
+
+!#if cap_html_filtering
+!#include filters-uBO/html_filtering.txt
+!#endif
+
+!#include filters-share/removeparam.txt
