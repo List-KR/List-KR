@@ -19,6 +19,7 @@ rhythmer.net##div[class$="Banner"]
 ! div[class$="banner"]
 dcinside.com##div[class$="banner"]
 !
+www.11st.co.kr###ad_benefit
 m.inews24.com##main > section.inews-gallery + * + hr[class][style] + ad ~ ad
 m.inews24.com##main > section.inews-gallery + ad[alt]
 m.inews24.com##section.inews-view ad
