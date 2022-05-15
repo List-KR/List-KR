@@ -6,6 +6,7 @@ tgd.kr,loawa.com,feedclick.net#$#div[style="margin-left: auto; margin-right: aut
 inven.co.kr#$#div[style="margin-left: auto; margin-right: auto; display: block;"] { background-color: white !important; }
 inven.co.kr#$#div[style="margin-left: auto; margin-right: auto; display: block;"] { mix-blend-mode: color-burn !important; }
 !
+inews24.com#$#header ~ header { margin-top: 100px !important; }
 tvchak.com#$#body { overflow-x: auto !important; overflow-y: auto !important; }
 tvchak.com#$##banner, .modal-backdrop { display: none !important; }
 news.unn.net#$#.grid-body.g-body { width: 100% !important; }
