@@ -16,7 +16,6 @@
 !#include filters-share/specific_URL.txt
 !#include filters-share/specific_ELEMHIDE.txt
 !#include filters-share/allowlist.txt
-!#include filters-share/useful_ads.txt
 
 !#include filters-share/extended_css_ELEMHIDE.txt
 !#include filters-share/extended_css_INJECTION.txt
@@ -27,6 +26,24 @@
 !#include filters-share/lkscriptlet.txt
 !#include filters-share/javascript.txt
 !#include filters-uBO/antiadblock.txt
+
+!#include filters-share/useful/adservice.txt
+!#include filters-share/useful/adservice_firstparty.txt
+!#include filters-share/useful/general_elemhide.txt
+!#include filters-share/useful/general_url.txt
+!#include filters-share/useful/specific_URL.txt
+!#include filters-share/useful/specific_ELEMHIDE.txt
+!#include filters-share/useful/allowlist.txt
+
+!#include filters-share/useful/extended_css_ELEMHIDE.txt
+!#include filters-share/useful/extended_css_INJECTION.txt
+!#include filters-uBO/useful/specific_REDIRECT.txt
+!#include filters-uBO/useful/extended_css_ELEMHIDE.txt
+!#include filters-uBO/useful/extended_css_INJECTION.txt
+!#include filters-uBO/useful/scriptlets.txt
+!#include filters-share/useful/lkscriptlet.txt
+!#include filters-share/useful/javascript.txt
+!#include filters-uBO/useful/antiadblock.txt
 
 !#if cap_user_stylesheet
 !#include filters-share/specific_CSS.txt

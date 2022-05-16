@@ -16,10 +16,18 @@
 !#include filters-share/specific_URL.txt
 !#include filters-share/specific_ELEMHIDE.txt
 !#include filters-share/allowlist.txt
-!#include filters-share/useful_ads.txt
+
+!#include filters-share/useful/adservice.txt
+!#include filters-share/useful/adservice_firstparty.txt
+!#include filters-share/useful/general_elemhide.txt
+!#include filters-share/useful/general_url.txt
+!#include filters-share/useful/specific_URL.txt
+!#include filters-share/useful/specific_ELEMHIDE.txt
+!#include filters-share/useful/allowlist.txt
 
 !#if (adguard_ext_firefox || adguard_app_windows || adguard_app_mac || adguard_app_android || adguard_ext_chromium || adguard_ext_edge)
 !#include filters-AG/allowlist_stealth.txt
+!#include filters-AG/useful/allowlist_stealth.txt
 !#endif
 
 !#if (!adguard_ext_android_cb)
@@ -32,22 +40,36 @@
 !#include filters-share/lkscriptlet.txt
 !#include filters-share/javascript.txt
 !#include filters-AG/antiadblock.txt
+
+!#include filters-share/useful/specific_CSS.txt
+!#include filters-share/useful/extended_css_ELEMHIDE.txt
+!#include filters-share/useful/extended_css_INJECTION.txt
+!#include filters-AG/useful/extended_css_ELEMHIDE.txt
+!#include filters-AG/useful/extended_css_INJECTION.txt
+!#include filters-AG/useful/scriptlets.txt
+!#include filters-share/useful/lkscriptlet.txt
+!#include filters-share/useful/javascript.txt
+!#include filters-AG/useful/antiadblock.txt
 !#endif
 
 !#if (!adguard_app_ios && !adguard_ext_safari)
 !#include filters-AG/specific_REDIRECT.txt
+!#include filters-AG/useful/specific_REDIRECT.txt
 !#endif
 
 !#if (adguard_ext_android_cb)
 !#include filters-AG/contentblocker.txt
+!#include filters-AG/useful/contentblocker.txt
 !#endif
 
 !#if (adguard_ext_firefox || adguard_app_windows || adguard_app_mac || adguard_app_android)
 !#include filters-AG/html_filtering.txt
+!#include filters-AG/useful/html_filtering.txt
 !#endif
 
 !#if (adguard_app_windows || adguard_app_mac || adguard_app_android || adguard_ext_firefox || adguard_ext_chromium || adguard_ext_edge )
 !#include filters-share/removeparam.txt
+!#include filters-share/useful/removeparam.txt
 !#endif
 
 !#if (adguard_app_android)
@@ -56,6 +78,12 @@
 !#include filters-AG/mobile/android/android_specific.txt
 !#include filters-AG/mobile/android/antiadblock_android_app.txt
 !#include filters-AG/mobile/android/allowlist_stealth_android_app.txt
+
+!#include filters-AG/useful/mobile/android/allowlist_android_app.txt
+!#include filters-AG/useful/mobile/android/android_app.txt
+!#include filters-AG/useful/mobile/android/android_specific.txt
+!#include filters-AG/useful/mobile/android/antiadblock_android_app.txt
+!#include filters-AG/useful/mobile/android/allowlist_stealth_android_app.txt
 !#endif
 
 !#if (adguard_app_ios)
@@ -63,6 +91,11 @@
 !#include filters-AG/mobile/ios/antiadblock_ios_app.txt
 !#include filters-AG/mobile/ios/ios_app.txt
 !#include filters-AG/mobile/ios/ios_specific.txt
+
+!#include filters-AG/useful/mobile/ios/allowlist_ios_app.txt
+!#include filters-AG/useful/mobile/ios/antiadblock_ios_app.txt
+!#include filters-AG/useful/mobile/ios/ios_app.txt
+!#include filters-AG/useful/mobile/ios/ios_specific.txt
 !#endif
 
 !#if (adguard_app_windows)
@@ -70,6 +103,11 @@
 !#include filters-AG/desktop/windows_app/allowlist.txt
 !#include filters-AG/desktop/windows_app/antiadblock.txt
 !#include filters-AG/desktop/windows_app/specific_URL.txt
+
+!#include filters-AG/useful/desktop/windows_app/allowlist_stealth.txt
+!#include filters-AG/useful/desktop/windows_app/allowlist.txt
+!#include filters-AG/useful/desktop/windows_app/antiadblock.txt
+!#include filters-AG/useful/desktop/windows_app/specific_URL.txt
 !#endif
 
 !#if (adguard_app_mac)
@@ -77,4 +115,9 @@
 !#include filters-AG/desktop/macos_app/allowlist.txt
 !#include filters-AG/desktop/macos_app/antiadblock.txt
 !#include filters-AG/desktop/macos_app/specific_URL.txt
+
+!#include filters-AG/useful/desktop/macos_app/allowlist_stealth.txt
+!#include filters-AG/useful/desktop/macos_app/allowlist.txt
+!#include filters-AG/useful/desktop/macos_app/antiadblock.txt
+!#include filters-AG/useful/desktop/macos_app/specific_URL.txt
 !#endif
