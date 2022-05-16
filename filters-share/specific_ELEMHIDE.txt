@@ -38,7 +38,21 @@ cultureland.co.kr##.slider > div[id$="_popup"]
 cultureland.co.kr##.main-evn > .main-visual
 tcafe2a.com##.side-event-img
 chosun.com##div[class$="Ad"]
+dcinside.com###dna_content
+dcinside.com##div.content_box.dcmedia
+dcinside.com##div.content_box.wiki
+gall.dcinside.com##div.content_box.r_dcmedia
+gall.dcinside.com##div.content_box.r_wiki
+gall.dcinside.com##table.gall_list > tbody > tr:has-text(이슈)
 gall.dcinside.com##.con_banner
+m.dcinside.com##section.grid.dna-group
+m.dcinside.com##section.grid.media-group
+m.dcinside.com##section.grid.wiki-group
+m.dcinside.com##div.view-btm-box:has(> div.thum-news-2-slider)
+m.dcinside.com##div.view-btm-box:has(> div.media-group)
+m.dcinside.com##div.view-btm-box:has(> div.box-tab-wrap)
+m.dcinside.com##div.view-btm-box:has(> div.wiki-wrap)
+m.dcinside.com##div.detail-top-lnk:has-text(이슈)
 tvchak.com###advertiseInPlayer
 cafe.naver.com###plugFloatingBannerDiv
 game.naver.com##div[class^="styles_Banner"]
