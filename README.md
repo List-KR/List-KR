@@ -29,7 +29,10 @@ https://github.com/List-KR/List-KR/raw/master/filter-uBO.txt
 https://github.com/List-KR/List-KR/raw/master/filter_DNS.txt
 ```
 
+### Useful ads filter
+
 We're also providing the version that unblocks useful ads.
+If you want to allow useful ads from the websites, please unsubscribe the version above and subscribe only the version that useful ads filter applied instead.
 
 **List-KR** (AdGuard):
 ```
