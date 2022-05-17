@@ -1,4 +1,3 @@
-/\/[0-9a-zA-Z\/\_?]{14,}\.(?!png|jpg|gif|jpeg|html|htm|txt|php|com|kr|net|svg)/$all,domain=ppss.kr|ygosu.com|tgd.kr|inven.co.kr|loawa.com|feedclick.net
 ||dpg.danawa.com/powerLink|
 ||image.happymoney.co.kr/extimage/mobileBanner/
 ||img.etnews.com/*/etnews/photos/ad_
