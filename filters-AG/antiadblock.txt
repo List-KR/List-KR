@@ -1,7 +1,7 @@
 ! #%#//scriptlet('abort-current-inline-script', 'document.addEventListener', '/adscale_slot_id/')
 tistory.com,love.asdn.kr,avjamak.net,untitle.org,seo-marketing.co.kr#%#//scriptlet('abort-current-inline-script', 'document.addEventListener', '/adscale_slot_id/')
 ! #%#//scriptlet("prevent-setTimeout", "/\.displayMessage\(/")
-tistory.com,lover9.net,1412.rest,3dpchip.com#%#//scriptlet("prevent-setTimeout", "/\.displayMessage\(/")
+tistory.com,lover91.net,1412.rest,3dpchip.com#%#//scriptlet("prevent-setTimeout", "/\.displayMessage\(/")
 ! BlockAdBlock
 fafan.kr,tistory.com#%#//scriptlet("prevent-bab")
 ! FuckAdBlock
@@ -39,8 +39,8 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 ! AdGlare Ad Server
 x86.co.kr,luckyquiz3.blogspot.com#%#//scriptlet("abort-current-inline-script", "document.createElement", "hasAdblock")
 !
-lover9.net#%#//scriptlet("abort-on-property-read", "open", "/(a|d|b|l|o|c|k|[0-9]){7,}\.html/")
-$script,redirect-rule=noopjs,domain=lover9.net
+lover91.net#%#//scriptlet("abort-on-property-read", "open", "/(\/|a|d|b|l|o|c|k|[0-9]){7,}\.html/")
+$script,redirect-rule=noopjs,domain=lover91.net
 ||www3.doubleclick.net/|$redirect=nooptext,domain=blackkiwi.net
 ||googleads.g.doubleclick.net/pagead/ads?*&crui=$redirect=noopmp4-1s,domain=laftel.net
 webtv.dothome.co.kr##.adblock-on
@@ -48,9 +48,9 @@ persnacons.tistory.com#@#.topAD
 noonnu.cc#%#//scriptlet("abort-on-property-read", "localStorage.getItem", "adBlockMethodology")
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ff14angler.com
 exey.io,ff14angler.com#@#ins.adsbygoogle
-webtv.dothome.co.kr,lover9.net#@#.adsbygoogle
-lover9.net#$#.modal { position: unset !important; }
-lover9.net#%#//scriptlet("abort-current-inline-script", "setTimeout", "/self\.close/")
+webtv.dothome.co.kr,lover91.net#@#.adsbygoogle
+lover91.net#$#.modal { position: unset !important; }
+lover91.net#%#//scriptlet("abort-current-inline-script", "setTimeout", "/self\.close/")
 ||adblockanalytics.com^$xmlhttprequest,redirect=nooptext,domain=1412.rest
 ||1412.rest/addons/*/adblockDetector.js
 sajuplus.net##.adsense-alt
