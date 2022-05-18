@@ -1,5 +1,5 @@
 ! Title: List-KR
-! Description: List-KR for AdGuard
+! Description: List-KR for AdGuard. Do not add this filter into your DNS filter.
 ! Version: 2022.518.2
 ! Expires: 1 day
 ! Homepage: https://github.com/List-KR/List-KR
