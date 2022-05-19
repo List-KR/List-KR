@@ -21,8 +21,8 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 @@||clickmon.co.kr/ad_img/$frame,domain=ygosu.com
 @@||ad.xc.netinsight.co.kr/xc/h/$frame,domain=ygosu.com
 @@||tab2.clickmon.co.kr$script,domain=ygosu.com
-@@||ad.doubleclick.net/ddm/adj/bkne/bdfs$xmlhttprequest,domain=ppss.kr
-@@||static.dable.io/dist/plugin.min.js$xmlhttprequest,domain=ppss.kr
+@@||ad.doubleclick.net/ddm/adj/bkne/bdfs$xhr,domain=ppss.kr
+@@||static.dable.io/dist/plugin.min.js$xhr,domain=ppss.kr
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ppss.kr
 @@||static.dable.io/dist/plugin.min.js$script,domain=ppss.kr
 @@||api.dable.io/plugin/services/ppss.kr/prefs2?$script,domain=ppss.kr
@@ -47,7 +47,7 @@ exey.io,ff14angler.com#@#ins.adsbygoogle
 webtv.dothome.co.kr,lover91.net#@#.adsbygoogle
 lover91.net#$#.modal { position: unset !important; }
 lover91.net##+js(acis, setTimeout, /self\.close/)
-||adblockanalytics.com^$xmlhttprequest,redirect=noop.txt,domain=1412.rest
+||adblockanalytics.com^$xhr,redirect=noop.txt,domain=1412.rest
 ||1412.rest/addons/*/adblockDetector.js
 sajuplus.net##.adsense-alt
 tistory.com,sajuplus.net##+js(set, checkAds, noopFunc)
