@@ -1,11 +1,3 @@
-! Ad-Shield
-ppss.kr,ygosu.com,tgd.kr,inven.co.kr,loawa.com,feedclick.net#$#div[style="margin-left: auto; margin-right: auto; display: block;"] * { cursor: default !important; }
-ppss.kr,ygosu.com#$#div[style="margin-left: auto; margin-right: auto; display: block;"] { mix-blend-mode: color-burn !important; }
-tgd.kr,loawa.com,feedclick.net#$#div[style="margin-left: auto; margin-right: auto; display: block;"] { background-color: black !important; }
-tgd.kr,loawa.com,feedclick.net#$#div[style="margin-left: auto; margin-right: auto; display: block;"] * { mix-blend-mode: darken !important; }
-inven.co.kr#$#div[style="margin-left: auto; margin-right: auto; display: block;"] { background-color: white !important; }
-inven.co.kr#$#div[style="margin-left: auto; margin-right: auto; display: block;"] { mix-blend-mode: color-burn !important; }
-!
 inews24.com#$#header ~ header { margin-top: 100px !important; }
 tvchak.com#$#body { overflow-x: auto !important; overflow-y: auto !important; }
 tvchak.com#$##banner, .modal-backdrop { display: none !important; }
