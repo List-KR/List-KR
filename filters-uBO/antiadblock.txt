@@ -30,7 +30,7 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 @@||r-log.dable.io/s/ppss.kr/u/$script,domain=ppss.kr
 @@||ad.doubleclick.net/ddm/adj/bkne/bdfs$xhr,domain=ppss.kr
 @@||r-log.dable.io/s/ppss.kr/u/$script,domain=ppss.kr
-@@$ghide,domain=ppss.kr|ygosu.com|feedclick.net|inven.co.kr
+@@$ghide,domain=ppss.kr|ygosu.com|feedclick.net|inven.co.kr|loawa.com
 ygosu.com,feedclick.net,inven.co.kr##+js(no-fetch-if, /doubleclick\.net|static\.dable\.io|adsbygoogle/)
 ! AdGlare Ad Server
 x86.co.kr,luckyquiz3.blogspot.com##+js(acis, document.createElement, hasAdblock)
