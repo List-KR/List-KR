@@ -1,8 +1,7 @@
 ! Topics API for advertisement
 #%#//scriptlet("set-constant", "document.browsingTopics", "undefined")
 ! Ad-Shield
-inven.co.kr,ppss.kr,ygosu.com,tgd.kr#%#//scriptlet("prevent-setTimeout", "eval", "1000")
-ppss.kr,ygosu.com,tgd.kr,inven.co.kr,loawa.com,feedclick.net#%#//scriptlet("prevent-addEventListener", "", "catch_error")
+ppss.kr,ygosu.com,tgd.kr,inven.co.kr,loawa.com,feedclick.net#%#//scriptlet("abort-on-property-read", "document.querySelectorAll")
 ! PopMagic
 watchfreejavonline.co#%#//scriptlet("abort-current-inline-script", "popMagic.init")
 !
