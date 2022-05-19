@@ -209,7 +209,6 @@ yonhapnewstv.co.kr##.cont-row > div[class^="cont-item"] > .detail-rel
 ytn.co.kr##.article > span[style] > #hns_mask
 ytn.co.kr##iframe[src^="/inc_banner/"]
 zdnet.co.kr##div[class$="_ad_box"]
-ppss.kr##img[id^="ppss_title_bn"]
 m.danawa.com##div.power_link
 m.coupang.com##div[id^="sdp-"][id$="-banner"]
 m.clien.net##div[class$="_ad "]
