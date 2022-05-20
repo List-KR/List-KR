@@ -1,3 +1,4 @@
+/^https:\/\/thumb\.toomics\.com\/upload\/banner\/(?!main)/
 ||ppss.kr/wp-content/uploads/2021/09/ktx_
 ||ppss.kr/wp-content/uploads/2022/02/cartax-
 ||dpg.danawa.com/powerLink|
@@ -248,7 +249,6 @@
 ||file.osen.co.kr/*/css/ad.css
 ||img.mbn.co.kr/ad/
 ||techworld.speedgabia.com/epnc.co.kr/ad/
-||thumb.toomics.com/upload/banner/
 ||s3-ap-northeast-1.amazonaws.com/*.rememberapp.co.kr/production/uploads/banner/
 /:\/\/m\.ilbe\.com\/images\/([a-z]|[0-9]|_){8,11}\.gif/
 ||clien.net/service/api/coupang/ad?
