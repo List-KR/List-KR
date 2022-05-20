@@ -35,6 +35,7 @@ ygosu.com,feedclick.net,inven.co.kr#%#//scriptlet("prevent-fetch", "/doubleclick
 ! AdGlare Ad Server
 x86.co.kr,luckyquiz3.blogspot.com#%#//scriptlet("abort-current-inline-script", "document.createElement", "hasAdblock")
 !
+@@||googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=na.op.gg
 lover91.net#%#//scriptlet("abort-on-property-read", "open", "/(\/|a|d|b|l|o|c|k|[0-9]){7,}\.html/")
 $script,redirect-rule=noopjs,domain=lover91.net
 ||www3.doubleclick.net/|$redirect=nooptext,domain=blackkiwi.net
