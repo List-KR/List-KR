@@ -24,6 +24,7 @@ toomics.com,nongmin.com,ilbe.com##div[class$="-banner"]
 m.edaily.co.kr,ichannela.com,m.news1.kr##div[class^="banner"]
 !
 login.11st.co.kr##.login_banner
+quasarzone.com##[class^="banner-"]
 m.edaily.co.kr##div[class$="_banners"]
 m.edaily.co.kr##.article_body > div[class]
 m.edaily.co.kr##.article_body > #innoramegbLodK
@@ -401,7 +402,7 @@ coolenjoy.net##.simple_banner_wrap
 coolenjoy.net##img[src^="https://photo.coolenjoy.net/banner/"]
 quasarzone.com##div[class^="main-"][class$="-banner"]
 quasarzone.com##.top-banner
-nongmin.com,hankookilbo.com,quasarzone.com##div[class^="banner-"]
+nongmin.com,hankookilbo.com##div[class^="banner-"]
 okky.kr##img[src^="//file.okky.kr/banner/"]
 m.todayhumor.co.kr##.ad_box_div
 etoland.co.kr##ul.board_list > li.subject.ad_subject
