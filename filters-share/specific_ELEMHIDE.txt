@@ -23,6 +23,7 @@ toomics.com,nongmin.com,ilbe.com##div[class$="-banner"]
 ! ##div[class^="banner"]
 m.edaily.co.kr,ichannela.com,m.news1.kr##div[class^="banner"]
 !
+login.11st.co.kr##.login_banner
 quasarzone.com##[class^="banner-"]
 m.edaily.co.kr##div[class$="_banners"]
 m.edaily.co.kr##.article_body > div[class]
