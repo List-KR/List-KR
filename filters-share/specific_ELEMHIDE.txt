@@ -1,5 +1,5 @@
 ! ##div[id^="ad_"]
-hani.co.kr,m.sedaily.com,m.thisisgame.com,planet-times.com,m.10000recipe.com,pandora.tv,mobile.newsis.com,zdnet.co.kr,fnnews.com,land.hankyung.com,mania.kr,mosen.mt.co.kr,ruliweb.com##div[id^="ad_"]
+m.edaily.co.kr,hani.co.kr,m.sedaily.com,m.thisisgame.com,planet-times.com,m.10000recipe.com,pandora.tv,mobile.newsis.com,zdnet.co.kr,fnnews.com,land.hankyung.com,mania.kr,mosen.mt.co.kr,ruliweb.com##div[id^="ad_"]
 ! ##div[class$="_ad"]
 news.daum.net,instiz.net,asiae.co.kr,ohmynews.com,seoul.co.kr,dmitory.com,itcm.co.kr,clien.net##div[class$="_ad"]
 ! ##div[class^="ad_"]
@@ -20,7 +20,12 @@ rhythmer.net##div[class$="Banner"]
 dcinside.com##div[class$="banner"]
 ! ##div[class$="-banner"]
 toomics.com,nongmin.com,ilbe.com##div[class$="-banner"]
-!
+! ##div[class^="banner"]
+m.edaily.co.kr,ichannela.com,m.news1.kr##div[class^="banner"]
+! 
+m.edaily.co.kr##div[class$="_banners"]
+m.edaily.co.kr##.article_body > div[class]
+m.edaily.co.kr##.article_body > #innoramegbLodK
 edaily.co.kr###contents > section.mt50 ~ .mt50 div[class*="width"].fl ~ div[class*="width"].fl
 edaily.co.kr###edailywrap > [style$="128px;"].special_area
 toomics.com##body.home #contents > .floating
@@ -154,7 +159,6 @@ m.hani.co.kr##section[class^="ad"]
 hankyung.com##.view > .joy_info
 hankyung.com##article.act-body > .wrap_list
 gigglehd.com##.widget_banner_skin > ul.banner_list
-ichannela.com,m.news1.kr##div[class^="banner"]
 m.news1.kr##iframe[src^="/template/ads/"]
 m.news1.kr##div[class^="das_article"][class$="_wrap"]
 talk.op.gg,m.news1.kr##div[class^="ads_"]
