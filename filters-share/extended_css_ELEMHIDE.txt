@@ -29,7 +29,6 @@ m.newspic.kr#?#.aside_wrap > div.box:has(> div > iframe[src^="https://ad.adinc.k
 mosen.mt.co.kr#?#section.textList > article.row:has(> ul.aritcle-info > li.title > a[href*="//adv.imadrep.co.kr/"])
 berryjam.co.kr#?#table[width="1200"]:has(> tbody > tr > td > div[class*="slider-banner-"])
 community.rememberapp.co.kr#?#div > a.sc-7g611p-0.cAmftz:has(> div > div > div > img[alt="배너 광고 이미지"])
-2cpu.co.kr#?#tr.is_notice:has(span:has-text((광고)))
 etoland.co.kr#?#tbody > tr > td > img[src*="/img/adland01.gif"]:upward(2)
 !
 ! Each domain of website in this section is forbidden by Internet censorship of S. Korea.
