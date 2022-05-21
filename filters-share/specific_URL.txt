@@ -1,3 +1,4 @@
+||webapi2.edaily.co.kr/BoardMgnt/popup|
 /^https:\/\/image\.edaily\.co\.kr\/images\/content\/[A-z0-9]{1,}640x100\./
 /^https:\/\/image\.edaily\.co\.kr\/images\/content\/[A-z0-9]{1,}1080x128\./
 /^https:\/\/thumb\.toomics\.com\/upload\/banner\/(?!main|cut)/
