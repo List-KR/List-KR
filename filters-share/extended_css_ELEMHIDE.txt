@@ -30,7 +30,6 @@ mosen.mt.co.kr#?#section.textList > article.row:has(> ul.aritcle-info > li.title
 berryjam.co.kr#?#table[width="1200"]:has(> tbody > tr > td > div[class*="slider-banner-"])
 community.rememberapp.co.kr#?#div > a.sc-7g611p-0.cAmftz:has(> div > div > div > img[alt="배너 광고 이미지"])
 2cpu.co.kr#?#tbody > tr > td a[href^="../ad_board/"]:upward(2)
-coolenjoy.net#?##sidebar > .tab > a img[src^="https://photo.coolenjoy.net/banner/"]:upward(2)
 etoland.co.kr#?#tbody > tr > td > img[src*="/img/adland01.gif"]:upward(2)
 !
 ! Each domain of website in this section is forbidden by Internet censorship of S. Korea.
