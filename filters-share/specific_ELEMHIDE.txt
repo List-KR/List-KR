@@ -19,6 +19,7 @@ rhythmer.net##div[class$="Banner"]
 ! div[class$="banner"]
 dcinside.com##div[class$="banner"]
 !
+toomics.com##img[src*="://thumb.toomics.com/upload/banner/"]:not([src*="/main/"])
 inven.co.kr###topskyAd
 tgd.kr###board-upper-banner-area > a[href]
 coupang.com##li.search-product__ad-badge
@@ -345,7 +346,6 @@ nongmin.com,ilbe.com##div[class$="-banner"]
 ilbe.com##img[src^="https://acache.ilbe.com/"]
 berryjam.co.kr##div[class*="slider-banner-"]
 berryjam.co.kr##img[src^="/data/skin/front/udweb_CCC/img/banner/"][alt="2021년 시마노 웹 한글 카다로그"]
-toomics.com##img[src*="://thumb.toomics.com/upload/banner/"]
 now.rememberapp.co.kr##.now_content_ads__wrapper
 m.ilbe.com##.banner-wrap
 clien.net###coupangAd
