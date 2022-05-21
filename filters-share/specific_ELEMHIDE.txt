@@ -9,7 +9,7 @@ dpg.danawa.com,m.danawa.com,kimpga.com,youthassembly.kr,algumon.com,tvchak.com,d
 ! ##.banner
 m.sedaily.com,bloter.net,mosen.mt.co.kr,hinfomax.kr,hinfomax.co.kr,pressian.com,kukinews.com##.banner
 ! ##div[class$="_banner"]
-m.ytn.co.kr,djtimes.co.kr,mdjournal.kr,zum.com,windowsforum.kr,dcnewsj.joins.com,berryjam.co.kr##div[class$="_banner"]
+toomics.com,m.ytn.co.kr,djtimes.co.kr,mdjournal.kr,zum.com,windowsforum.kr,dcnewsj.joins.com,berryjam.co.kr##div[class$="_banner"]
 ! ##div[class^="ad"]
 jwmx.tistory.com,thespike.co.kr,hobbyen.co.kr,socialvalue.kr,entertainpost.com,m.moneys.mt.co.kr,basketkorea.com,m.ohmynews.com,zdnet.co.kr,biz.heraldcorp.com,slrclub.com,sports.chosun.com##div[class^="ad"]
 ! ##div[class^="banner_"]
@@ -18,6 +18,8 @@ auth.danawa.com,socialvalue.kr,news.jtbc.joins.com,etoland.co.kr,ajunews.com,mk.
 rhythmer.net##div[class$="Banner"]
 ! div[class$="banner"]
 dcinside.com##div[class$="banner"]
+! ##div[class$="-banner"]
+toomics.com,nongmin.com,ilbe.com##div[class$="-banner"]
 !
 toomics.com##img[src*="://thumb.toomics.com/upload/banner/"]:not([src*="/main/"])
 inven.co.kr###topskyAd
@@ -342,7 +344,6 @@ news.v.daum.net##ul.list_column > li.item_ad
 mmzone.co.kr##div[id^="scm_ban"][style*="url(/media/banner/"]
 mmzone.co.kr###scm_premium_spon_block
 ilbe.com##ul.board-body > li[id^="sponser_ad_"]
-nongmin.com,ilbe.com##div[class$="-banner"]
 ilbe.com##img[src^="https://acache.ilbe.com/"]
 berryjam.co.kr##div[class*="slider-banner-"]
 berryjam.co.kr##img[src^="/data/skin/front/udweb_CCC/img/banner/"][alt="2021년 시마노 웹 한글 카다로그"]
