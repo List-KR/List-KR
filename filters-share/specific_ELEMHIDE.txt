@@ -21,6 +21,7 @@ dcinside.com##div[class$="banner"]
 ! ##div[class$="-banner"]
 toomics.com,nongmin.com,ilbe.com##div[class$="-banner"]
 !
+edaily.co.kr###contents > section.mt50 ~ .mt50 div[class*="width"].fl ~ div[class*="width"].fl
 edaily.co.kr###edailywrap > [style$="128px;"].special_area
 toomics.com##body.home #contents > .floating
 toomics.com##img[src*="://thumb.toomics.com/upload/banner/"]:not([src*="/main/"]):not([src*="/cut/"])
