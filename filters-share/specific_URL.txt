@@ -1,4 +1,4 @@
-/^https:\/\/thumb\.toomics\.com\/upload\/banner\/(?!main)/
+/^https:\/\/thumb\.toomics\.com\/upload\/banner\/(?!main|cut)/
 ||ppss.kr/wp-content/uploads/2021/09/ktx_
 ||ppss.kr/wp-content/uploads/2022/02/cartax-
 ||dpg.danawa.com/powerLink|
