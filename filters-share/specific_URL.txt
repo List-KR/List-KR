@@ -1,3 +1,4 @@
+/^https:\/\/image\.edaily\.co\.kr\/images\/content\/[A-z0-9]{1,}1080x128\./
 /^https:\/\/thumb\.toomics\.com\/upload\/banner\/(?!main|cut)/
 ||ppss.kr/wp-content/uploads/2021/09/ktx_
 ||ppss.kr/wp-content/uploads/2022/02/cartax-
