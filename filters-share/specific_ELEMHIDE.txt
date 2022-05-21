@@ -23,7 +23,6 @@ toomics.com,nongmin.com,ilbe.com##div[class$="-banner"]
 ! ##div[class^="banner"]
 m.edaily.co.kr,ichannela.com,m.news1.kr##div[class^="banner"]
 !
-m.10000recipe.com##.view_sp_banner
 m.edaily.co.kr##div[class$="_banners"]
 m.edaily.co.kr##.article_body > div[class]
 m.edaily.co.kr##.article_body > #innoramegbLodK
