@@ -2,6 +2,7 @@
 ppss.kr#$#a[href*="president.go.kr"] { pointer-events: none !important; }
 ppss.kr#$#a[href*="cartax.biz"] { pointer-events: none !important; }
 !
+toomics.com#$#.banner-open .contents { padding-top: 68px !important; }
 inews24.com#$#header ~ header { margin-top: 100px !important; }
 tvchak.com#$#body { overflow-x: auto !important; overflow-y: auto !important; }
 tvchak.com#$##banner, .modal-backdrop { display: none !important; }

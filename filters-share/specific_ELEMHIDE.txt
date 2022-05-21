@@ -21,6 +21,7 @@ dcinside.com##div[class$="banner"]
 ! ##div[class$="-banner"]
 toomics.com,nongmin.com,ilbe.com##div[class$="-banner"]
 !
+toomics.com##body.home #contents > .floating
 toomics.com##img[src*="://thumb.toomics.com/upload/banner/"]:not([src*="/main/"]):not([src*="/cut/"])
 inven.co.kr###topskyAd
 tgd.kr###board-upper-banner-area > a[href]
