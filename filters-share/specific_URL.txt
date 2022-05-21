@@ -1,3 +1,4 @@
+||recipe1.ezmember.co.kr/cache/shop/$domain=10000recipe.com
 ||webapi2.edaily.co.kr/BoardMgnt/popup|
 /^https:\/\/image\.edaily\.co\.kr\/images\/content\/[A-z0-9]{1,}640x100\./
 /^https:\/\/image\.edaily\.co\.kr\/images\/content\/[A-z0-9]{1,}1080x128\./
