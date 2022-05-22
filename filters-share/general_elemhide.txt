@@ -22,7 +22,6 @@
 ##img[src*="//ad-api.enuri.info/"]
 ##[id^="div-gpt-ad"]
 ##iframe[src*="//adsrv-up.mcrony.com/"]
-##div.banner_box
 ##a[href*="//click.soonwe.com/"]
 ##iframe[src*="//adbiz3.co.kr/"]
 ##iframe[src*="//coupa.ng/"]
