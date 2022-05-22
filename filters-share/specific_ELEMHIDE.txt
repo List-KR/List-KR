@@ -23,6 +23,7 @@ toomics.com,nongmin.com,ilbe.com##div[class$="-banner"]
 ! ##div[class^="banner"]
 m.edaily.co.kr,ichannela.com,m.news1.kr##div[class^="banner"]
 !
+thecall.co.kr##[class^="adsense"]
 coolenjoy.net###sidebar > .tab
 quasarzone.com##div.right-util-area > .top-util-box,.bot-util-box
 m.bobaedream.co.kr##.wrap > div[style$="height:100px;"]:not([class])
