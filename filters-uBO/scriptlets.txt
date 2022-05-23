@@ -2,6 +2,7 @@
 ##+js(set, document.browsingTopics, undefined)
 ! Ad-Shield
 dailian.co.kr,ppss.kr,ygosu.com,tgd.kr,loawa.com,inven.co.kr,feedclick.net##+js(nostif, , 10)
+ppss.kr##+js(aopr, document.querySelectorAll)
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
