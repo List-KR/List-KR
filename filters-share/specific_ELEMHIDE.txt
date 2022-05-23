@@ -23,6 +23,7 @@ toomics.com,nongmin.com,ilbe.com##div[class$="-banner"]
 ! ##div[class^="banner"]
 m.edaily.co.kr,ichannela.com,m.news1.kr##div[class^="banner"]
 !
+poro.gg###__layout > div:not([class]) > [class]:not(footer) > div[class]:not([sm]):not(.page-container)
 mathbang.net##.sidebar_book
 thecall.co.kr##[class^="adsense"]
 coolenjoy.net###sidebar > .tab
@@ -51,7 +52,6 @@ inews24.com##article > ad[alt] ~ container[style]
 inews24.com##article > div[style]:not([class])
 inews24.com##article > p + ad
 arca.live##div#newsRank
-poro.gg###__layout > div:not([class]) > [class]:not(footer) > div[class]:not([sm])
 m.happymoney.co.kr##.topBannerUse
 happymoney.co.kr###topBnrWrap
 happymoney.co.kr###content  > .mainBanner
