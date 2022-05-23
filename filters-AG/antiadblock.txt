@@ -21,16 +21,18 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 @@||clickmon.co.kr/ad_img/$subdocument,domain=ygosu.com
 @@||ad.xc.netinsight.co.kr/xc/h/$subdocument,domain=ygosu.com
 @@||tab2.clickmon.co.kr$script,domain=ygosu.com
-@@||static.dable.io/dist/plugin.min.js$xmlhttprequest,domain=ppss.kr
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ppss.kr
-@@||static.dable.io/dist/plugin.min.js$script,domain=ppss.kr
+@@||static.dable.io/dist/plugin.min.js$script,xmlhttprequest,domain=ppss.kr|loawa.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ppss.kr|loawa.com|feedclick.net
 @@||api.dable.io/plugin/services/ppss.kr/prefs2?$script,domain=ppss.kr
-@@||pagead2.googlesyndication.com/pagead/managed/js/adsense/$script,domain=ppss.kr
+@@||pagead2.googlesyndication.com/pagead/managed/js/adsense/$script,domain=ppss.kr|loawa.com|feedclick.net
 @@||r-log.dable.io/s/ppss.kr/u/$script,domain=ppss.kr
 @@||ad.doubleclick.net/ddm/adj/bkne/bdfs$xmlhttprequest,domain=ppss.kr
 @@||r-log.dable.io/s/ppss.kr/u/$script,domain=ppss.kr
+@@||adservice.google.*/adsid/integrator.js?domain=loawa.com$script,domain=loawa.com
+@@||googleads.g.doubleclick.net/pagead/$subdocument,domain=loawa.com
+@@||pagead2.googlesyndication.com/getconfig/sodar?$xhr,domain=loawa.com
+@@||tpc.googlesyndication.com/sodar/sodar2.js$script,domain=loawa.com
 @@$generichide,domain=ppss.kr|ygosu.com|feedclick.net|inven.co.kr|loawa.com
-ygosu.com,feedclick.net#%#//scriptlet("prevent-fetch", "/doubleclick\.net|static\.dable\.io|adsbygoogle/")
 ! AdGlare Ad Server
 x86.co.kr,luckyquiz3.blogspot.com#%#//scriptlet("abort-current-inline-script", "document.createElement", "hasAdblock")
 !
