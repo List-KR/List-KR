@@ -23,6 +23,19 @@ toomics.com,nongmin.com,ilbe.com##div[class$="-banner"]
 ! ##div[class^="banner"]
 m.edaily.co.kr,ichannela.com,m.news1.kr##div[class^="banner"]
 !
+compuzone.co.kr##form > div[id$="wing_section"][class*="wing_section"]
+compuzone.co.kr###container #content > .cpz_inner[style]
+compuzone.co.kr###content > #start_mainslide.cpz_mainslide
+compuzone.co.kr###container #content > .gradation_area
+compuzone.co.kr###rightwing_section .rightwing_boxNew > .rightwing_bnr
+compuzone.co.kr###container .cpz_inner > #brandshop
+compuzone.co.kr###container #main_five_fixbnr ul.five_fixbnr_list
+compuzone.co.kr##.cpz_inner .category_set_area div[class^="second_cate_area"] div[class^="catebnr_area"]
+compuzone.co.kr##body > #container > .cpz_inner
+compuzone.co.kr###container > #contnet > .gradation_area
+compuzone.co.kr###container > div[class][style*="/GNBBottomLineBanner_"][style^="background-image:url("]
+compuzone.co.kr##.cpz_inner .sta_rolling_banner
+compuzone.co.kr##.cpz_inner .recommend_wrap > .recommend_list
 poro.gg###__layout > div:not([class]) > [class]:not(footer) > div[class]:not([sm]):not(.page-container)
 mathbang.net##.sidebar_book
 thecall.co.kr##[class^="adsense"]
