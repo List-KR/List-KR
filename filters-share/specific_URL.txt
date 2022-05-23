@@ -1,3 +1,4 @@
+||daumcdn.net/tistory/927313/skin/images/book_300_poster.png
 ||img.peterpanz.com/images/banner/adimUpload/
 ||cdn.011st.com/browsing/banner/
 ||recipe1.ezmember.co.kr/cache/shop/$domain=10000recipe.com
