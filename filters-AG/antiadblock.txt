@@ -30,7 +30,7 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 @@||r-log.dable.io/s/ppss.kr/u/$script,domain=ppss.kr
 @@||adservice.google.*/adsid/integrator.js?domain=loawa.com$script,domain=loawa.com
 @@||googleads.g.doubleclick.net/pagead/$subdocument,domain=loawa.com
-@@||pagead2.googlesyndication.com/getconfig/sodar?$xhr,domain=loawa.com
+@@||pagead2.googlesyndication.com/getconfig/sodar?$xmlhttprequest,domain=loawa.com
 @@||tpc.googlesyndication.com/sodar/sodar2.js$script,domain=loawa.com
 @@$generichide,domain=ppss.kr|ygosu.com|feedclick.net|inven.co.kr|loawa.com
 ! AdGlare Ad Server
