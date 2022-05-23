@@ -6,7 +6,6 @@ ppss.kr##+js(aopr, document.querySelectorAll)
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
-compuzone.co.kr##+js(ra, value, input#HeadSearchKeyword, complete)
 dpg.danawa.com##+js(acis, $, /danawa-dpg-common-sponsorBanner-/)
 dpg.danawa.com##+js(acis, $, myScript[myScript.length - 1 ])
 cultureland.co.kr##+js(aopr, checkCookie, popup_AD)
