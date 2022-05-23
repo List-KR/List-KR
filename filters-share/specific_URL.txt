@@ -1,5 +1,5 @@
 ||compuzone.co.kr/img/multi_brandshop/
-/^https:\/\/image[0-9]{1,2}\.compuzone\.co\.kr\/img\/images\/main[0-9]{4}\/[A-z]{1,2}\/[A-z]{3,}Banner_(|add_)[0-9]{5,6}\./
+/^https:\/\/image[0-9]{1,2}\.compuzone\.co\.kr\/img\/images\/main[0-9]{4}\/[A-z]{1,2}\/[A-z]{3,}Banner(|[0-9])_(|add_)[0-9]{6}\./
 ||daumcdn.net/tistory/927313/skin/images/book_300_poster.png
 ||img.peterpanz.com/images/banner/adimUpload/
 ||cdn.011st.com/browsing/banner/
