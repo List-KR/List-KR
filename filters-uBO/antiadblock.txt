@@ -21,7 +21,6 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 @@||clickmon.co.kr/ad_img/$frame,domain=ygosu.com
 @@||ad.xc.netinsight.co.kr/xc/h/$frame,domain=ygosu.com
 @@||tab2.clickmon.co.kr$script,domain=ygosu.com
-@@||ad.doubleclick.net/ddm/adj/bkne/bdfs$xhr,domain=ppss.kr
 @@||static.dable.io/dist/plugin.min.js$xhr,domain=ppss.kr
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ppss.kr
 @@||static.dable.io/dist/plugin.min.js$script,domain=ppss.kr
@@ -31,7 +30,7 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 @@||ad.doubleclick.net/ddm/adj/bkne/bdfs$xhr,domain=ppss.kr
 @@||r-log.dable.io/s/ppss.kr/u/$script,domain=ppss.kr
 @@$ghide,domain=ppss.kr|ygosu.com|feedclick.net|inven.co.kr|loawa.com
-ygosu.com,feedclick.net,inven.co.kr##+js(no-fetch-if, /doubleclick\.net|static\.dable\.io|adsbygoogle/)
+ygosu.com,feedclick.net##+js(no-fetch-if, /doubleclick\.net|static\.dable\.io|adsbygoogle/)
 ! AdGlare Ad Server
 x86.co.kr,luckyquiz3.blogspot.com##+js(acis, document.createElement, hasAdblock)
 !
