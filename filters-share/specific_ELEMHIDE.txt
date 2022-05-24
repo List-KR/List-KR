@@ -23,6 +23,7 @@ toomics.com,nongmin.com,ilbe.com##div[class$="-banner"]
 ! ##div[class^="banner"]
 m.edaily.co.kr,ichannela.com,m.news1.kr##div[class^="banner"]
 !
+compuzone.co.kr###contents > #EP_Rbnr, #contents > #EP_linebnr
 compuzone.co.kr##.contentsWrap .product_list_wrap > div[class^="ad_"], .contentsWrap .product_list_wrap > div + ul.product_list
 compuzone.co.kr##.contentsWrap > .product_list_linebnr, .contentsWrap > .brand_area, .contentsWrap > .topBanner_area
 compuzone.co.kr##.pdtl_cm_detail .md_software
