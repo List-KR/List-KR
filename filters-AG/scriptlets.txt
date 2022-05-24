@@ -1,3 +1,8 @@
+! FLEDGE API for advertisement
+#%#//scriptlet("set-constant", "navigator.joinAdInterestGroup", "undefined")
+#%#//scriptlet("set-constant", "navigator.leaveAdInterestGroup", "undefined")
+#%#//scriptlet("set-constant", "navigator.runAdAuction", "undefined")
+#%#//scriptlet("set-constant", "navigator.adAuctionComponents", "undefined")
 ! Topics API for advertisement
 #%#//scriptlet("set-constant", "Document.prototype.browsingTopics", "undefined")
 #%#//scriptlet("set-constant", "document.browsingTopics", "undefined")

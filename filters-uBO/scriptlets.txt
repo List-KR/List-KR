@@ -1,3 +1,8 @@
+! FLEDGE API for advertisement
+##+js(set, navigator.joinAdInterestGroup, undefined)
+##+js(set, navigator.leaveAdInterestGroup, undefined)
+##+js(set, navigator.runAdAuction, undefined)
+##+js(set, navigator.adAuctionComponents, undefined)
 ! Topics API for advertisement
 ##+js(set, Document.prototype.browsingTopics, undefined)
 ##+js(set, document.browsingTopics, undefined)
