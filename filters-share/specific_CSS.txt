@@ -1,6 +1,8 @@
 ! Ad-Shield
 ppss.kr#$#a[href*="president.go.kr"] { pointer-events: none !important; }
 ppss.kr#$#a[href*="cartax.biz"] { pointer-events: none !important; }
+loawa.com#$#div[id^="ad_"] { position: absolute !important; top: 100% !important; }
+loawa.com#$#div[class="p-0 m-0 mb-2 d-none d-md-block text-center "] { position: absolute !important; top: 100% !important; }
 !
 compuzone.co.kr#$#.viewType_L .product_list li .prd_info { width: 700px !important; }
 compuzone.co.kr#$#.wrap_list .standard { width: 100% !important; }
