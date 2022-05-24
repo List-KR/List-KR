@@ -23,6 +23,7 @@ toomics.com,nongmin.com,ilbe.com##div[class$="-banner"]
 ! ##div[class^="banner"]
 m.edaily.co.kr,ichannela.com,m.news1.kr##div[class^="banner"]
 !
+compuzone.co.kr###gamezone .bnrList_area > ul.rollbnr_list
 compuzone.co.kr###contents > div[id^="bnrLink"].ma_visual_area.bnrContents ~ div:not(.smthp_infom):not(#productSrchListArea)
 compuzone.co.kr###eventzone_img_wrap #con_area > input[type="hidden"] + #con
 compuzone.co.kr###contents #recomN.recomend_main
