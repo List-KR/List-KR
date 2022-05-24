@@ -1,4 +1,5 @@
 ! Topics API for advertisement
+##+js(set, Document.prototype.browsingTopics, undefined)
 ##+js(set, document.browsingTopics, undefined)
 ! Ad-Shield
 dailian.co.kr,ppss.kr,ygosu.com,tgd.kr,loawa.com,inven.co.kr,feedclick.net##+js(nostif, , 10)

@@ -1,4 +1,5 @@
 ! Topics API for advertisement
+#%#//scriptlet("set-constant", "Document.prototype.browsingTopics", "undefined")
 #%#//scriptlet("set-constant", "document.browsingTopics", "undefined")
 ! Ad-Shield
 dailian.co.kr,ppss.kr,ygosu.com,tgd.kr,loawa.com,inven.co.kr,feedclick.net#%#//scriptlet("prevent-setTimeout", "", "10")
