@@ -1,3 +1,4 @@
+||kormedi.com/wp-content/uploads/ads/
 /^https:\/\/shop[0-9]\.daumcdn\.net\/shophow\/sib\/[0-9]_[0-9]{12}_[A-z]{10,}/
 ||trendpick.shopping.naver.com^$document
 ||compuzone.co.kr/img/multi_brandshop/
