@@ -7,7 +7,7 @@
 #%#//scriptlet("set-constant", "Document.prototype.browsingTopics", "undefined")
 #%#//scriptlet("set-constant", "document.browsingTopics", "undefined")
 ! Ad-Shield
-ppss.kr,feedclick.net#%#//scriptlet("abort-on-property-read", "document.writeln")
+ppss.kr,feedclick.net#%#//scriptlet("abort-on-property-write", "document.writeln")
 ! PopMagic
 watchfreejavonline.co#%#//scriptlet("abort-current-inline-script", "popMagic.init")
 !
