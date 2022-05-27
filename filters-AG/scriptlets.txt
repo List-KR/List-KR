@@ -7,8 +7,7 @@
 #%#//scriptlet("set-constant", "Document.prototype.browsingTopics", "undefined")
 #%#//scriptlet("set-constant", "document.browsingTopics", "undefined")
 ! Ad-Shield
-dailian.co.kr,ppss.kr,ygosu.com,tgd.kr,loawa.com,inven.co.kr,feedclick.net#%#//scriptlet("prevent-setTimeout", "", "10")
-ppss.kr#%#//scriptlet("abort-on-property-read", "document.querySelectorAll")
+ppss.kr,feedclick.net#%#//scriptlet("abort-on-property-read", "document.writeln")
 ! PopMagic
 watchfreejavonline.co#%#//scriptlet("abort-current-inline-script", "popMagic.init")
 !
