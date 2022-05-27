@@ -21,13 +21,12 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 @@||clickmon.co.kr/ad_img/$frame,domain=ygosu.com
 @@||ad.xc.netinsight.co.kr/xc/h/$frame,domain=ygosu.com
 @@||tab2.clickmon.co.kr$script,domain=ygosu.com
-@@||static.dable.io/dist/plugin.min.js$script,xhr,domain=ppss.kr|loawa.com|dailian.co.kr
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ppss.kr|loawa.com|feedclick.net|dailian.co.kr
+@@||static.dable.io/dist/plugin.min.js$script,xhr,domain=ppss.kr|ygosu.com|inven.co.kr|feedclick.net|loawa.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xhr,domain=ppss.kr|ygosu.com|inven.co.kr|feedclick.net|loawa.com
 @@||api.dable.io/plugin/services/ppss.kr/prefs2?$script,domain=ppss.kr
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/$script,domain=ppss.kr|loawa.com|feedclick.net|dailian.co.kr
 @@||r-log.dable.io/s/ppss.kr/u/$script,domain=ppss.kr
-@@||ad.doubleclick.net/ddm/adj/bkne/bdfs$xhr,domain=ppss.kr
-@@||r-log.dable.io/s/ppss.kr/u/$script,domain=ppss.kr
+@@||ad.doubleclick.net/ddm/adj/Bkne/Bdfs$xhr,domain=ppss.kr|ygosu.com|inven.co.kr|feedclick.net|loawa.com
 @@||adservice.google.*/adsid/integrator.js?domain=loawa.com$script,domain=loawa.com
 @@||googleads.g.doubleclick.net/pagead/$frame,domain=loawa.com
 @@||pagead2.googlesyndication.com/getconfig/sodar?$xhr,domain=loawa.com
