@@ -1,4 +1,4 @@
-||www.ilbe.com/oa/loader.js
+||ilbe.com/oa/loader.js
 ||playwares.com/api/redirectAd.php$document
 /^(http|https):\/\/playwares\.com\/files\/attach\/images\/[0-9]{8}\/[0-9]{3}\/[0-9]{3}\/[0-9]{3}\/[a-z0-9]{32}\./
 ||script.auction.co.kr/ad/arche.ad.enumtypes.js
