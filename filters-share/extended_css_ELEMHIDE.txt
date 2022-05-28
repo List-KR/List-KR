@@ -1,4 +1,4 @@
-browse.auction.co.kr#?##section--inner_content_body_container .component--item_card.type--general:has(a[href*="//adgate.auction.co.kr/"].link--itemcard, p.text--title ~ .section--advertisement)
+browse.auction.co.kr#?##section--inner_content_body_container div[class*="component--item_card type--"]:has(a[href*="//adgate.auction.co.kr/"].link--itemcard, p.text--title ~ .section--advertisement)
 m.shopping.naver.com#?#content li[role="presentation"]:has(a[href*="://trendpick.shopping.naver.com/"])
 10000recipe.com#?#body .view_sp_banner .swipe-slide:has(img[src^="https://recipe1.ezmember.co.kr/cache/shop/"])
 namu.wiki#?#article div[class] > div[class] ~ div:has(div:not([style]):matches-css(overflow-x: hidden)):has(div[class]:matches-css(display: none), table[src*=" "])
