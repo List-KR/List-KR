@@ -1,0 +1,13 @@
+! Title: List-KR Dcinside 
+! Description: List-KR 
+! Version: 2022.528.0
+! Expires: 1 day
+! Homepage: https://github.com/List-KR/List-KR
+! Support: https://github.com/List-KR/List-KR/issues/223
+! License: https://github.com/List-KR/List-KR/blob/master/LICENSE
+!
+! Version must be UTC format.
+!
+
+@@||google-analytics.com^
+@@||ssl.google-analytics.com^
