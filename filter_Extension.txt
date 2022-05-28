@@ -1,6 +1,6 @@
 ! Title: List-KR Extension
 ! Description: List-KR Extension blocks low-quality user-made advertisement.
-! Version: 2022.505.4
+! Version: 2022.528.0
 ! Expires: 1 day
 ! Homepage: https://github.com/List-KR/List-KR
 ! License: https://github.com/List-KR/List-KR/blob/master/LICENSE
@@ -19,7 +19,7 @@
 !#include extension/naver/blog/awh8806/specific_ELEMHIDE.txt
 !#include extension/naver/blog/awh8806/specific_URL.txt
 
-!#if !adguard_ext_android_cb
+!#if (!adguard_ext_android_cb)
 !#include extension/naver/cafe/yoondyedu/extended_css_ELEMHIDE.txt
 !#include extension/naver/cafe/yoondyedu/extended_css_INJECTION.txt
 !#include extension/naver/cafe/yoondyedu/specific_CSS.txt
