@@ -1,3 +1,6 @@
+||script.auction.co.kr/ad/arche.ad.enumtypes.js
+||script.auction.co.kr/style/js/ad_icon.js
+||adgate.auction.co.kr^$document
 ||kormedi.com/wp-content/uploads/ads/
 /^https:\/\/shop[0-9]\.daumcdn\.net\/shophow\/sib\/[0-9]_[0-9]{12}_[A-z]{10,}/
 ||trendpick.shopping.naver.com^$document
