@@ -1,3 +1,7 @@
+namu.wiki#?#article div[class] > div[class] ~ div:has(div:not([style]):matches-css(overflow-x: hidden)):has(div[class]:matches-css(display: none))
+namu.wiki#?#article div[class] > div[class] ~ div:has(div:not([style]):matches-css(overflow-x: hidden)):has(table[src*=" "])
+browse.auction.co.kr#?##section--inner_content_body_container div[class*="component--item_card type--"]:has(a[href*="//adgate.auction.co.kr/"].link--itemcard)
+browse.auction.co.kr#?##section--inner_content_body_container div[class*="component--item_card type--"]:has(p.text--title ~ .section--advertisement)
 2cpu.co.kr#?#tr.is_notice:has(span:has-text((광고)))
 arca.live#?#.topbar-area:has(> .badge:has-text(뉴스))
 browse.gmarket.co.kr#?#div[module-design-id].box__module-wrap:has(button[id^="buttonItemCardAdsLayer"][class="button__ads-layer"]):has(.box__itemcard-header > h3:has-text(먼저 둘러보세요))
