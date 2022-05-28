@@ -26,6 +26,7 @@ toomics.com,nongmin.com,ilbe.com##div[class$="-banner"]
 ! ##div[class^="banner"]
 m.edaily.co.kr,ichannela.com,m.news1.kr##div[class^="banner"]
 !
+playwares.com##.sub_banner_element
 browse.auction.co.kr###region--content_body .component.component--chance_shopping
 browse.auction.co.kr###region--content_body .component--sponsor_link
 kormedi.com##div[id^="better-ads-"]
