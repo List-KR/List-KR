@@ -1,0 +1,3 @@
+!#if !env_firefox
+sign.dcinside.com#$#.login_inputbox { width: 100% !important; }
+!#endif

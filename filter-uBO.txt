@@ -29,6 +29,7 @@
 
 !#if cap_user_stylesheet
 !#include filters-share/specific_CSS.txt
+!#include filters-uBO/specific_CSS.txt
 !#endif
 
 !#if cap_html_filtering
