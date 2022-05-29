@@ -5,6 +5,7 @@ loawa.com#$#div[id*="ad_"][style*="position: absolute; top:"] { top: 100% !impor
 loawa.com#$#div[class*="p-0 m-0 mb-2 d-none d-md-block text-center "] { position: relative !important; top: -200px !important; }
 loawa.com#$##ad_center_v.adsense-ch { position: relative !important; top: 420px !important; }
 !
+bbs.ruliweb.com#$##board_read .board_main_top .member_reward_wrapper { float: right !important; margin-right: 35px !important; }
 sign.dcinside.com#$#.login_inputbox .inner { width: calc(100% - 115px) !important; }
 compuzone.co.kr#$##searchArea .viewType_L .product_list li .prd_info { width: 700px !important; }
 compuzone.co.kr#$#.wrap_list .standard { width: 100% !important; }
