@@ -1,4 +1,6 @@
+! Ad-Shield
 loawa.com#?##equip-info-modal:has(> .modal-dialog > .modal-content > .modal-body > button.close + button.float-right)
+!
 m.shopping.naver.com#?#content li[role="presentation"]:has(a[href*="://trendpick.shopping.naver.com/"])
 10000recipe.com#?#body .view_sp_banner .swipe-slide:has(img[src^="https://recipe1.ezmember.co.kr/cache/shop/"])
 namu.wiki#?#article div[class] > div[id]:not([class]):not(:has(> *))
