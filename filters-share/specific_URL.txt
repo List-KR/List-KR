@@ -1,3 +1,7 @@
+! TODO: https://github.com/AdguardTeam/AdguardBrowserExtension/issues/2095
+||img.sbs.co.kr/news/ad/delay_redirect.html$document
+||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
+!
 ||weekly.chosun.com/bannerpop/uploads/
 ||ilbe.com/oa/loader.js
 ||playwares.com/api/redirectAd.php$document
