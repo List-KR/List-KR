@@ -1,3 +1,4 @@
+gall.dcinside.com#?#table.gall_list tr:has(> td:has-text(AD).gall_num)
 ~board.namu.wiki,namu.wiki#?#article div[class] > div[class] ~ div:has(> div:not([style])):has(div[class]:matches-css(display: none))
 ~board.namu.wiki,namu.wiki#?#article div[class] > div[class] ~ div:has(> div:not([style])):has(table[src*=" "])
 browse.auction.co.kr#?##section--inner_content_body_container div[class*="component--item_card type--"]:has(a[href*="//adgate.auction.co.kr/"].link--itemcard)
@@ -9,7 +10,6 @@ newreop.com#?#.app-board-section > ul.app-board-template-list > li.notice:has(> 
 instiz.net#?#.responsive_main > div[style] > .grouping_title:has(> div[style][class] > div[style]:has-text(광고))
 ajunews.com#?#.aside_item.banner:has(> h4[style~="font-size:13px;color:#999999;margin:0"]:has-text(AD))
 koreaminecraft.net#?#table.table-divider > tbody > tr.notice:has(> td.title > a > strong[style]:has-text([프리미엄]))
-gall.dcinside.com#?#table.gall_list > tbody > tr:has(> td.gall_subject > b:has-text(AD)):has(> td.gall_tit > a[href*="//addc.dcinside.com/"])
 m.dcinside.com#?#section.gall-lst-group > ul > li:has(> div.detail-top-lnk > a[href*="//addc.dcinside.com/"].lt > span:has-text(AD))
 ppss.kr#?#section[id^="custom_"]:has(> div.widget_text > h3:has-text(SPONSORED).widgettitle)
 m.bunjang.co.kr#?#.app > div > div > div[class]:has(> div[class] > div[class] > div[class]:has-text(파워링크))
@@ -21,6 +21,6 @@ m.ppomppu.co.kr#?#.community-board-notice-box > #bbs_inform:has(> ul > li span:h
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 !
-frtoon115.com,frtoon116.com,frtoon117.com,frtoon118.com,frtoon119.com,frtoon120.com,frtoon121.com,frtoon122.com,frtoon123.com,frtoon124.com,frtoon125.com,frtoon126.com,frtoon127.com#?#.alert-danger.container:contains([AD])
+frtoon115.com,frtoon116.com,frtoon117.com,frtoon118.com,frtoon119.com,frtoon120.com,frtoon121.com,frtoon122.com,frtoon123.com,frtoon124.com,frtoon125.com,frtoon126.com,frtoon127.com#?#.alert-danger.container:has-text([AD])
 hdhd133.net,hdhd134.net,hdhd135.net,hdhd136.net,hdhd137.net,hdhd138.net,hdhd139.net,hdhd140.net,hdhd141.net,hdhd142.net,hdhd143.net,hdhd144.net#?#.menu-ul > .menu-li:has(> a:has-text(보증토토))
 blacktoon174.com,blacktoon178.com,blacktoon179.com,blacktoon180.com,blacktoon181.com,blacktoon182.com,blacktoon183.com,blacktoon184.com,blacktoon185.com,blacktoon186.com,blacktoon187.com,blacktoon188.com#?#.alert.alert-danger:has(> a:has-text([AD]))
