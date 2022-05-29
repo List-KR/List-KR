@@ -26,7 +26,7 @@ https://github.com/List-KR/List-KR/raw/master/filter-uBO.txt
 ```
 **List-KR DNS**:
 ```
-https://github.com/List-KR/List-KR/raw/master/filter_DNS.txt
+https://github.com/List-KR/List-KR/raw/master/filter-DNS.txt
 ```
 
 
@@ -34,7 +34,7 @@ https://github.com/List-KR/List-KR/raw/master/filter_DNS.txt
 - **[microShield](https://github.com/List-KR/microShield)** blocks complicated advertisement to block on website protected by ad-shield.
 - **List-KR Extension** blocks low-quality user-made advertisement.
     ```
-    https://github.com/List-KR/List-KR/raw/master/filter_Extension.txt
+    https://github.com/List-KR/List-KR/raw/master/filter-Extension.txt
     ```
 
 ## Support
