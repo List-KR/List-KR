@@ -1,3 +1,4 @@
+||weekly.chosun.com/bannerpop/uploads/
 ||ilbe.com/oa/loader.js
 ||playwares.com/api/redirectAd.php$document
 /^(http|https):\/\/playwares\.com\/files\/attach\/images\/[0-9]{8}\/[0-9]{3}\/[0-9]{3}\/[0-9]{3}\/[a-z0-9]{32}\./
@@ -222,9 +223,6 @@
 ||realty.chosun.com/RealtyCommon/Promotion*.html
 ||monthly.chosun.com/common/inc/main_right_banner.asp
 ||monthly.chosun.com/images/banner/
-||weekly.chosun.com/common/inc_adver/
-||weekly.chosun.com/common/inc/right_banner_roll*.asp
-||weekly.chosun.com/images/banner/
 ||hwbattle.com/partner/
 ||hwbattle.com/img/partner/
 ||bodnara.co.kr/advert/
