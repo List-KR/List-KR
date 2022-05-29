@@ -26,6 +26,7 @@ toomics.com,nongmin.com,ilbe.com##div[class$="-banner"]
 ! ##div[class^="banner"]
 m.edaily.co.kr,ichannela.com,m.news1.kr##div[class^="banner"]
 !
+mobile.newsis.com##div[class$="adPos"][class^="listStyle"][style]
 news.sbs.co.kr###sn_banner_side_top
 sign.dcinside.com##.ban_box
 playwares.com##a[href*="../api/redirectAd.php?"]
