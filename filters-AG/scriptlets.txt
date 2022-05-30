@@ -7,7 +7,10 @@
 #%#//scriptlet("set-constant", "Document.prototype.browsingTopics", "undefined")
 #%#//scriptlet("set-constant", "document.browsingTopics", "undefined")
 ! Ad-Shield
-ppss.kr,feedclick.net,ygosu.com,tgd.kr,loawa.com,inven.co.kr#%#//scriptlet("prevent-setTimeout", "/const[A-z0-9\(\)\]\[ =;,\.?:]{1,}return[A-z0-9\(\)\]\[ =;,\.?:]{1,}typeof/")
+loawa.com#%#//scriptlet("prevent-setTimeout", "/const[A-z0-9\(\)\]\[ =;,\.?:]{1,}return[A-z0-9\(\)\]\[ =;,\.?:]{1,}typeof/", "10")
+loawa.com#%#//scriptlet("prevent-setTimeout", "/const[A-z0-9\(\)\]\[ =;,\.?:]{1,}return[A-z0-9\(\)\]\[ =;,\.?:]{1,}typeof/", "12")
+loawa.com#%#//scriptlet("prevent-setTimeout", "/const[A-z0-9\(\)\]\[ =;,\.?:]{1,}return[A-z0-9\(\)\]\[ =;,\.?:]{1,}typeof/", "4")
+ppss.kr,feedclick.net,ygosu.com,tgd.kr,inven.co.kr#%#//scriptlet("prevent-setTimeout", "/const[A-z0-9\(\)\]\[ =;,\.?:]{1,}return[A-z0-9\(\)\]\[ =;,\.?:]{1,}typeof/")
 ! PopMagic
 watchfreejavonline.co#%#//scriptlet("abort-current-inline-script", "popMagic.init")
 !

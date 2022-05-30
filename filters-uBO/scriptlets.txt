@@ -7,7 +7,10 @@
 *##+js(set, Document.prototype.browsingTopics, undefined)
 *##+js(set, document.browsingTopics, undefined)
 ! Ad-Shield (ppss.kr,ygosu.com,tgd.kr,loawa.com,inven.co.kr,feedclick.net)
-ppss.kr,feedclick.net,ygosu.com,tgd.kr,loawa.com,inven.co.kr##+js(nostif, /const[A-z0-9\(\)\]\[ =;,\.?:]{1,}return[A-z0-9\(\)\]\[ =;,\.?:]{1,}typeof/)
+loawa.com##+js(nostif, /const[A-z0-9\(\)\]\[ =;,\.?:]{1,}return[A-z0-9\(\)\]\[ =;,\.?:]{1,}typeof/, 10)
+loawa.com##+js(nostif, /const[A-z0-9\(\)\]\[ =;,\.?:]{1,}return[A-z0-9\(\)\]\[ =;,\.?:]{1,}typeof/, 12)
+loawa.com##+js(nostif, /const[A-z0-9\(\)\]\[ =;,\.?:]{1,}return[A-z0-9\(\)\]\[ =;,\.?:]{1,}typeof/, 4)
+ppss.kr,feedclick.net,ygosu.com,tgd.kr,inven.co.kr##+js(nostif, /const[A-z0-9\(\)\]\[ =;,\.?:]{1,}return[A-z0-9\(\)\]\[ =;,\.?:]{1,}typeof/)
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
