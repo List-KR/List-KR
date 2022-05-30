@@ -2,7 +2,6 @@
 ppss.kr#$#a[href*="president.go.kr"] { pointer-events: none !important; }
 ppss.kr#$#a[href*="cartax.biz"] { pointer-events: none !important; }
 loawa.com#$#div[id*="ad_"][style*="position: absolute; top:"] { top: 100% !important; position: absolute !important; }
-loawa.com#$#div[class*="p-0 m-0 mb-2 d-none d-md-block text-center "] { position: relative !important; top: -200px !important; }
 loawa.com#$##ad_center_v.adsense-ch { position: relative !important; top: 420px !important; }
 !
 bbs.ruliweb.com#$##board_read .board_main_top .member_reward_wrapper { float: right !important; margin-right: 35px !important; }
