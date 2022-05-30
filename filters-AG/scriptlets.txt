@@ -8,7 +8,7 @@
 #%#//scriptlet("set-constant", "document.browsingTopics", "undefined")
 ! Ad-Shield
 ppss.kr,feedclick.net#%#//scriptlet("abort-on-property-write", "document.writeln")
-ygosu.com,tgd.kr,loawa.com,inven.co.kr#%#//scriptlet("prevent-setTimeout", "const", "11")
+feedclick.net,ygosu.com,tgd.kr,loawa.com,inven.co.kr#%#//scriptlet("prevent-setTimeout", "/const[A-z0-9\(\)\]\[ =;,\.?:]{1,}return[A-z0-9\(\)\]\[ =;,\.?:]{1,}typeof/")
 ! PopMagic
 watchfreejavonline.co#%#//scriptlet("abort-current-inline-script", "popMagic.init")
 !
