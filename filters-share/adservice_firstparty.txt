@@ -1,3 +1,5 @@
+||ads.gamemeca.com^
+||adcdn.gamemeca.com^
 ||adgate.auction.co.kr^
 ||trendpick.shopping.naver.com^
 ||powerclick.about.co.kr^

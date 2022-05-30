@@ -25,7 +25,10 @@ dcinside.com##div[class$="banner"]
 toomics.com,nongmin.com,ilbe.com##div[class$="-banner"]
 ! ##div[class^="banner"]
 m.edaily.co.kr,ichannela.com,m.news1.kr##div[class^="banner"]
+! ##div[class$="-ad"]
+gamemeca.com,yeongnam.com##div[class$="-ad"]
 !
+gamemeca.com##iframe[src^="https://ads.gamemeca.com/"]
 mobile.newsis.com##div[class$="adPos"][class^="listStyle"][style]
 news.sbs.co.kr###sn_banner_side_top
 sign.dcinside.com##.ban_box
@@ -249,7 +252,6 @@ edaily.co.kr##section[id^="aside_"] > div[id$="-sticky-wrap"] > div[id$="-sticky
 ichannela.com,mediapen.com,edaily.co.kr##div[data-ad][class][style]
 edaily.co.kr##div[class^="gg_"], div[class$="_gg"]
 edaily.co.kr##[class$="_dable"][id^="boxshow_"]
-yeongnam.com##div[class$="-ad"]
 yeongnam.com##table[class^="ad-"]
 yeongnam.com##img[id^="ad_"]
 5donews.co.kr##.leftad2
