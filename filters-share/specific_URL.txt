@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||ch.yes24.com/Scripts/wingbanner.js
 ||newsnjoy.or.kr/bannerpop/uploads/
 ||newsnjoy.or.kr/adManager/css/adManager.css
 ||einfomax.co.kr/bannerpop/uploads/
