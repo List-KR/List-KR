@@ -1,6 +1,6 @@
+~board.namu.wiki,namu.wiki#?#article div:has( ~ footer) > div[class] ~ div:has(> div:not([style])):has(div[class]:not([style*="display"][style*="none"]):matches-css(display: none))
+~board.namu.wiki,namu.wiki#?#article div:has( ~ footer) > div[class] ~ div:has(> div:not([style])):has(table[src*=" "])
 gall.dcinside.com#?#table.gall_list tr:has(> td:has-text(AD).gall_num)
-~board.namu.wiki,namu.wiki#?#article div[class] > div[class] ~ div:has(> div:not([style])):has(div[class]:not([style^="display"][style*="none"]):matches-css(display: none))
-~board.namu.wiki,namu.wiki#?#article div[class] > div[class] ~ div:has(> div:not([style])):has(table[src*=" "])
 browse.auction.co.kr#?##section--inner_content_body_container div[class*="component--item_card type--"]:has(a[href*="//adgate.auction.co.kr/"].link--itemcard)
 browse.auction.co.kr#?##section--inner_content_body_container div[class*="component--item_card type--"]:has(p.text--title ~ .section--advertisement)
 2cpu.co.kr#?#tr.is_notice:has(span:has-text((광고)))
