@@ -1,4 +1,3 @@
-~board.namu.wiki,namu.wiki#?#article div:has(h2:contains(분류)) ~ div[class] > div[class] div[class]:has(div:matches-css(display: none)) ~ div:has(span + span + div:matches-css(display: none)):has(span + span:matches-css(display: none), table[class*=" "])
 gall.dcinside.com#?#table.gall_list tr:has(> td:contains(AD).gall_num)
 browse.auction.co.kr#?##section--inner_content_body_container div[class*="component--item_card type--"]:has(a[href*="//adgate.auction.co.kr/"].link--itemcard, p.text--title ~ .section--advertisement)
 2cpu.co.kr#?#tr.is_notice:has(span:contains((광고)))
