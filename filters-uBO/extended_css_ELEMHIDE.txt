@@ -1,4 +1,4 @@
-gall.dcinside.com#?#table.gall_list tr:has(> td:has-text(AD).gall_num)
+gall.dcinside.com#?#table.gall_list tr:has(td:has-text(AD))
 browse.auction.co.kr#?##section--inner_content_body_container div[class*="component--item_card type--"]:has(a[href*="//adgate.auction.co.kr/"].link--itemcard)
 browse.auction.co.kr#?##section--inner_content_body_container div[class*="component--item_card type--"]:has(p.text--title ~ .section--advertisement)
 2cpu.co.kr#?#tr.is_notice:has(span:has-text((광고)))
