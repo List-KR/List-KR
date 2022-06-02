@@ -2,6 +2,8 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||sjpost.co.kr/bannerpop/uploads/
+||sjpost.co.kr/adManager/
 ||images.coocha.co.kr/static/images/deal/ad.png
 ||cdn.insightkorea.co.kr/bannerpop/uploads/
 ||cdn.insightkorea.co.kr/adManager/css/adManager.css
