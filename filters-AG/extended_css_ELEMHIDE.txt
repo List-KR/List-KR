@@ -1,5 +1,5 @@
-~board.namu.wiki,namu.wiki#?#article div:has(h2:contains(분류)) ~ div[class] > div[class] div[class]:has(div:matches-css(display: none)) ~ div:has(table[class*=" "]):has(tbody > tr > td a[href*="/"] span[class^="_"] span[class^="_"] img[src*="w.namu.la/s/"])
-~board.namu.wiki,namu.wiki#?#article div:has(h2:contains(분류)) ~ div[class] > div[class] div[class]:has(div:matches-css(display: none)) ~ div:has(div:not([class]) + div:not([class]) a[href*="/"] span img[src*="w.namu.la/s/"])
+~board.namu.wiki,namu.wiki#?#article div:has(h2:contains(분류)) ~ div[class] > div[class] div[class]:not(:has(> *)) ~ div:has(div:not([class]) + div:not([class]) a[href*="/"] span img[src*="w.namu.la/s/"])
+~board.namu.wiki,namu.wiki#?#article div:has(h2:contains(분류)) ~ div[class] > div[class] div[class]:not(:has(> *)) ~ div:has(table[class*=" "]):has(tbody > tr > td a[href*="/"] span[class^="_"] span[class^="_"] img[src*="w.namu.la/s/"])
 gall.dcinside.com#?#table.gall_list tr:has(td:contains(AD))
 browse.auction.co.kr#?##section--inner_content_body_container div[class*="component--item_card type--"]:has(a[href*="//adgate.auction.co.kr/"].link--itemcard, p.text--title ~ .section--advertisement)
 2cpu.co.kr#?#tr.is_notice:has(span:contains((광고)))
