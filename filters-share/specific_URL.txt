@@ -2,6 +2,8 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||dailysecu.com/adManager/css/adManager.css
+||dailysecu.com/bannerpop/uploads/
 /^https:\/\/nng-phinf\.pstatic\.net\/[A-z0-9]{16}\/[A-z0-9.-]{110}\.[A-Z]{3,4}\/APP-/
 ||ssl.pstatic.net/melona/libs/
 /^https:\/\/s\.pstatic\.net\/static\/www\/mobile\/edit\/[0-9]{8}\/mobile_[0-9]{12}\./$domain=www.naver.com
