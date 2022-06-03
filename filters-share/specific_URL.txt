@@ -2,6 +2,8 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||ssl.pstatic.net/melona/libs/
+/^https:\/\/s\.pstatic\.net\/static\/www\/mobile\/edit\/[0-9]{8}\/mobile_[0-9]{12}\./$domain=www.naver.com
 ||sjpost.co.kr/bannerpop/uploads/
 ||sjpost.co.kr/adManager/
 ||images.coocha.co.kr/static/images/deal/ad.png
