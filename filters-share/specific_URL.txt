@@ -322,6 +322,8 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+||hcdn1.maxsocdn.net^$domain=sogirl.so
+||1.bp.blogspot.com^$domain=sogirl.so
 ||toonimg.com/data/files/banner/
 /^https:\/\/[a-z]{1,}\.skytoon[0-9]{2,3}\.com\/links\/bannerlink\//$document
 /^https:\/\/frtoon[0-9]{3,4}\.com\/data\/by_banner\//
