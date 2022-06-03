@@ -14,9 +14,6 @@
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
-~board.namu.wiki,namu.wiki##+js(json-prune, *, adcr.naver.com)
-~board.namu.wiki,namu.wiki##+js(json-prune, *, ww.namu.la)
-~board.namu.wiki,namu.wiki##+js(noeval-if, adcr.naver.com)
 dpg.danawa.com##+js(acis, $, /danawa-dpg-common-sponsorBanner-/)
 dpg.danawa.com##+js(acis, $, myScript[myScript.length - 1 ])
 cultureland.co.kr##+js(aopr, checkCookie, popup_AD)
