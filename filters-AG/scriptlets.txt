@@ -14,9 +14,8 @@
 ! PopMagic
 watchfreejavonline.co#%#//scriptlet("abort-current-inline-script", "popMagic.init")
 ! namu.wiki
-!#if (adguard_ext_firefox)
 ~board.namu.wiki,namu.wiki#%#//scriptlet("abort-on-stack-trace", "Promise", "mount")
-!#endif
+~board.namu.wiki,namu.wiki##+js(aost, Promise, a.<anonymous>)
 !
 dpg.danawa.com#%#//scriptlet("abort-current-inline-script", "$", "/danawa-dpg-common-sponsorBanner-/")
 dpg.danawa.com#%#//scriptlet("abort-current-inline-script", "$", "myScript[myScript.length - 1 ]")
