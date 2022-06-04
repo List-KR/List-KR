@@ -1,3 +1,6 @@
 !#if !env_firefox
+2cpu.co.kr#$#header .row[style] { margin-bottom: 40px !important; }
+!#endif
+!#if !env_firefox
 sign.dcinside.com#$#.login_inputbox { width: 100% !important; }
 !#endif
