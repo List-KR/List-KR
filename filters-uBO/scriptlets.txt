@@ -14,7 +14,7 @@
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 ! namu.wiki
-~board.namu.wiki,namu.wiki##+js(aost, Promise, Array.<anonymous>)
+~board.namu.wiki,namu.wiki##+js(aost, Promise, a.<anonymous>)
 ~board.namu.wiki,namu.wiki##+js(aost, Promise, mount)
 !
 dpg.danawa.com##+js(acis, $, /danawa-dpg-common-sponsorBanner-/)
