@@ -13,6 +13,8 @@
 ! ppss.kr,feedclick.net,ygosu.com,tgd.kr,inven.co.kr#%#//scriptlet("prevent-setTimeout", "/const[A-z0-9\(\)\]\[ =;,\.?:]{1,}return[A-z0-9\(\)\]\[ =;,\.?:]{1,}typeof/")
 ! PopMagic
 watchfreejavonline.co#%#//scriptlet("abort-current-inline-script", "popMagic.init")
+! namu.wiki
+~board.namu.wiki,namu.wiki#%#//scriptlet("abort-on-stack-trace", "Promise", "a.mounted")
 !
 dpg.danawa.com#%#//scriptlet("abort-current-inline-script", "$", "/danawa-dpg-common-sponsorBanner-/")
 dpg.danawa.com#%#//scriptlet("abort-current-inline-script", "$", "myScript[myScript.length - 1 ]")

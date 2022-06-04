@@ -13,6 +13,8 @@
 ! ppss.kr,feedclick.net,ygosu.com,tgd.kr,inven.co.kr##+js(nostif, /const[A-z0-9\(\)\]\[ =;,\.?:]{1,}return[A-z0-9\(\)\]\[ =;,\.?:]{1,}typeof/)
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
+! namu.wiki
+~board.namu.wiki,namu.wiki##+js(aost, Promise, a.mounted)
 !
 dpg.danawa.com##+js(acis, $, /danawa-dpg-common-sponsorBanner-/)
 dpg.danawa.com##+js(acis, $, myScript[myScript.length - 1 ])
