@@ -44,7 +44,7 @@ webtv.dothome.co.kr##.adblock-on
 persnacons.tistory.com#@#.topAD
 noonnu.cc##+js(aopr, localStorage.getItem, adBlockMethodology)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ff14angler.com
-exey.io,ff14angler.com#@#ins.adsbygoogle
+uda1004.tistory.com,exey.io,ff14angler.com#@#ins.adsbygoogle
 webtv.dothome.co.kr,lover91.net#@#.adsbygoogle
 lover91.net#$#.modal { position: unset !important; }
 lover91.net##+js(acis, setTimeout, /self\.close/)

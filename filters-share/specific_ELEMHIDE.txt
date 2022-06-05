@@ -30,6 +30,7 @@ gamemeca.com,yeongnam.com##div[class$="-ad"]
 ! ##div[id^="ad"]
 gamemeca.com,m.ohmynews.com,m.khan.co.kr,m.dcinside.com##div[id^="ad"]
 !
+tistory.com##.adsense
 www.naver.com##div[id^="NM_"][id$="_BANNER"]
 m.coocha.co.kr##.container > section#id_section_deal_list ~ section[id][class]
 coocha.co.kr##.group-deal .list > .group-power-link
