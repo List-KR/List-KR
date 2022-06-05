@@ -1,5 +1,5 @@
 ! namu.wiki
-~board.namu.wiki,namu.wiki#?#article div:has(h2:has-text(분류)) ~ div[class] > div[class] div[class]:not(:has(> *)) ~ div:has(div:not([class]) + div:not([class]) *:not(table) a[href*="/"] span:not([style*="width:"]) span:not([style*="width:"]) img[src*="w.namu.la/s/"]:not([alt^="external/"]))
+~board.namu.wiki,namu.wiki#?#article div:has(h2:has-text(분류)) ~ div[class] > div[class] div[class]:not(:has(> *)) ~ div:has(div[class] + div[class] *:not(table) a[href*="/"] span:not([style*="width:"]) img[src*="w.namu.la/s/"]:not([alt^="external/"]))
 ~board.namu.wiki,namu.wiki#?#article div:has(h2:has-text(분류)) ~ div[class] > div[class] div[class]:not(:has(> *)) ~ div:not([class*=" "]):has(table[class*=" "]):has(tbody > tr > td a[href*="/"]:not([style*="width:"]) span:not([style*="width:"]) span:not([style*="width:"]) img[src*="w.namu.la/s/"])
 !
 2cpu.co.kr#?#tr:has(> td > a[href^="../ad_board/"]:has-text(광고))
