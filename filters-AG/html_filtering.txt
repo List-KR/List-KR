@@ -1,2 +1,2 @@
-op.gg,etoland.co.kr,sports.donga.com,mlbpark.donga.com,ppss.kr,ygosu.com,inven.co.kr,tgd.kr$$ad-shield-inventory[tag-content="ad-shield-ads"]
-ppss.kr,ygosu.com,tgd.kr,inven.co.kr,loawa.com,feedclick.net,dailian.co.kr$$script[tag-content="adshield_analytics_entrypoint"]
+op.gg,etoland.co.kr,sports.donga.com,mlbpark.donga.com,ppss.kr,inven.co.kr,tgd.kr$$ad-shield-inventory[tag-content="ad-shield-ads"]
+ppss.kr,tgd.kr,inven.co.kr,loawa.com,feedclick.net,dailian.co.kr$$script[tag-content="adshield_analytics_entrypoint"]

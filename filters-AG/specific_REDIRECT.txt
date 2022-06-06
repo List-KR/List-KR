@@ -1,12 +1,12 @@
 ! Ad-Shield
 !#if (!adguard_app_android && !adguard_app_ios && !adguard_app_mac && !adguard_app_windows)
-/\/[0-9a-zA-Z\/\_?]{14,}\.(?!png|jpg|gif|jpeg|html|htm|txt|php|com|kr|net|svg|[a-zA-Z0-9\/]{5,})/$document,popup,~third-party,domain=ppss.kr|ygosu.com|tgd.kr|inven.co.kr|loawa.com|feedclick.net|dailian.co.kr
+/\/[0-9a-zA-Z\/\_?]{14,}\.(?!png|jpg|gif|jpeg|html|htm|txt|php|com|kr|net|svg|[a-zA-Z0-9\/]{5,})/$document,popup,~third-party,domain=ppss.kr|tgd.kr|inven.co.kr|loawa.com|feedclick.net|dailian.co.kr
 !#endif
 $image,redirect-rule=32x32-transparent.png,domain=ppss.kr
-$subdocument,redirect-rule=noopframe,domain=ppss.kr|ygosu.com|tgd.kr|inven.co.kr|loawa.com|feedclick.net|dailian.co.kr
-$script,redirect-rule=noopjs,domain=ppss.kr|ygosu.com|tgd.kr|inven.co.kr|loawa.com|feedclick.net|dailian.co.kr
-$image,redirect-rule=1x1-transparent.gif,domain=ygosu.com|tgd.kr|inven.co.kr|loawa.com|feedclick.net|dailian.co.kr
-$xhr,redirect-rule=noopjs,domain=ppss.kr|ygosu.com|tgd.kr|inven.co.kr|loawa.com|feedclick.net|dailian.co.kr
+$subdocument,redirect-rule=noopframe,domain=ppss.kr|tgd.kr|inven.co.kr|loawa.com|feedclick.net|dailian.co.kr
+$script,redirect-rule=noopjs,domain=ppss.kr|tgd.kr|inven.co.kr|loawa.com|feedclick.net|dailian.co.kr
+$image,redirect-rule=1x1-transparent.gif,domain=tgd.kr|inven.co.kr|loawa.com|feedclick.net|dailian.co.kr
+$xhr,redirect-rule=noopjs,domain=ppss.kr|tgd.kr|inven.co.kr|loawa.com|feedclick.net|dailian.co.kr
 !
 ||ds.11st.co.kr/NetInsight/text/11st/11st_product/product@$redirect=noopframe
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$redirect=googlesyndication-adsbygoogle
