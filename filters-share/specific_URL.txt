@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+/^https:\/\/ssp\.igaw\.io\/bak\/[0-9]{3}x[0-9]{2}\./
 ||dailysecu.com/adManager/css/adManager.css
 ||dailysecu.com/bannerpop/uploads/
 /^https:\/\/nng-phinf\.pstatic\.net\/[A-z0-9]{16}\/[A-z0-9.-]{110}\.[A-Z]{3,4}\/APP-/
