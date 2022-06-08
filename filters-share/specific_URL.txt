@@ -107,6 +107,7 @@
 ||mdjournal.kr/banner/
 ||mdjournal.kr/bannerManager/
 ||coupang.com/*&addtag=*ptag=*&redirect=landing&traceid=*&placementid=*&impressionid=&campaigntype=$document,popup
+||coupang.com/*&addtag=*ptag=*wPcid=*&wRef=*&redirect=landing&traceid=*&subid$document,popup
 ||startupn.kr/adManager/css/adManager.css
 ||startupn.kr/bannerpop/uploads/
 ||dr9xthplobr1x.cloudfront.net/smart/MWEB/img/
