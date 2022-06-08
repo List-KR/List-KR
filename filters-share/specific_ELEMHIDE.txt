@@ -1,5 +1,5 @@
 ! Ad-Shield
-inven.co.kr,loawa.com,ppss.kr,feedclick.net##style+div:nth-last-child(1)
+inven.co.kr,loawa.com,ppss.kr,feedclick.net,ygosu.com##style+div:nth-last-child(1)
 !
 ! ##div[id^="ad_"]
 m.edaily.co.kr,hani.co.kr,m.sedaily.com,m.thisisgame.com,planet-times.com,m.10000recipe.com,pandora.tv,mobile.newsis.com,zdnet.co.kr,fnnews.com,land.hankyung.com,mania.kr,mosen.mt.co.kr,ruliweb.com##div[id^="ad_"]
