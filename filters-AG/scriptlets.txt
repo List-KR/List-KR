@@ -16,7 +16,6 @@ watchfreejavonline.co#%#//scriptlet("abort-current-inline-script", "popMagic.ini
 dpg.danawa.com#%#//scriptlet("abort-current-inline-script", "$", "/danawa-dpg-common-sponsorBanner-/")
 dpg.danawa.com#%#//scriptlet("abort-current-inline-script", "$", "myScript[myScript.length - 1 ]")
 cultureland.co.kr#%#//scriptlet("abort-on-property-read", "checkCookie", "popup_AD")
-m.danawa.com#%#//scriptlet("abort-on-property-read", "callNbpData", "DANAWA_MOBILE_AD_MANAGER")
 m.danawa.com#%#//scriptlet("set-constant", "DANAWA_MOBILE_AD_MANAGER", "emptyObj")
 naver.com#%#//scriptlet("set-constant", "getAdcrUrl", "")
 lover91.net#%#//scriptlet("abort-on-property-read", "goPage")
