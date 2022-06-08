@@ -1,10 +1,10 @@
 ! namu.wiki
 ! SKT Mobile
-~board.namu.wiki,namu.wiki#?#article div:has(h2:contains(분류)) ~ div[class] > div[class] div[class]:not(:has(> *)) ~ div:has(tbody > tr + tr > td div[class] span[class]:contains(/./) ~ span:contains(.) ~ div[class]:contains(/./))
+~board.namu.wiki,namu.wiki#?#div:has(h2:contains(분류)) ~ div[class] > div[class] div[class]:not(:has(> *)) ~ div:has(tbody > tr + tr > td div[class] span[class]:contains(/./) ~ span:contains(.) ~ div[class]:contains(/./))
 ! SKT
-~board.namu.wiki,namu.wiki#?#article div:has(h2:contains(분류)) ~ div[class] > div[class] div[class]:not(:has(> *)) ~ div:has(tbody > tr + tr > td + td a[href^="/w/"] ~ span:contains(.) ~ div[class]:contains(/./))
+~board.namu.wiki,namu.wiki#?#div[class*="senkawa"] div:has(h2:contains(분류)) ~ div[class] > div[class] div[class]:not(:has(> *)) ~ div:has(tbody > tr + tr > td + td a[href^="/w/"] ~ span:contains(.) ~ span[class]:contains(/./))
 ! LG U+
-~board.namu.wiki,namu.wiki#?#article div:has(h2:contains(분류)) ~ div[class] > div[class] div[class]:not(:has(> *)) ~ div:has(div[class] ~ div[class] div:contains(/./) ~ div[class]:contains(.) ~ div[class]:contains(/./))
+~board.namu.wiki,namu.wiki#?#div[class*="senkawa"] div:has(h2:contains(분류)) ~ div[class] > div[class] div[class]:not(:has(> *)) ~ div:has(div[class] + div[class] div[class] div:contains(/./) ~ div[class]:contains(.) ~ div[class]:contains(/./))
 !
 2cpu.co.kr#?#tr:has(> td > a[href^="../ad_board/"]:contains(광고))
 2cpu.co.kr#?#ul > li:has(> a[href^="./ad_board/"]:contains(광고))
