@@ -7,7 +7,8 @@
 #%#//scriptlet("set-constant", "Document.prototype.browsingTopics", "undefined")
 #%#//scriptlet("set-constant", "document.browsingTopics", "undefined")
 ! Ad-Shield
-inven.co.kr,loawa.com,ppss.kr,ygosu.com,feedclick.net#%#//scriptlet("json-prune", "tracker_urls.[].url")
+inven.co.kr,loawa.com,ppss.kr,feedclick.net#%#//scriptlet("set-constant", "HTMLImageElement.prototype.removeAttribute", "noopFunc")
+inven.co.kr,loawa.com,ppss.kr,feedclick.net#%#//scriptlet("set-constant", "outerHeight", "0")
 ! PopMagic
 watchfreejavonline.co#%#//scriptlet("abort-current-inline-script", "popMagic.init")
 ! namu.wiki
