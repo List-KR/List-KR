@@ -1,6 +1,6 @@
 ! namu.wiki
 ! SKT Mobile
-~board.namu.wiki,namu.wiki#?#article div:has(h2:contains(분류)) ~ div[class] > div[class] div[class]:not(:has(> *)) ~ div:has(tbody > tr + tr > td div[class]:has(img[src*="w.namu.la/w/"] ~ span:contains(.)) ~ div[class]:contains(/./))
+~board.namu.wiki,namu.wiki#?#article div:has(h2:contains(분류)) ~ div[class] > div[class] div[class]:not(:has(> *)) ~ div:has(tbody > tr + tr > td div[class] span[class]:contains(/./) ~ span:contains(.) ~ div[class]:contains(/./))
 ! SKT
 ~board.namu.wiki,namu.wiki#?#article div:has(h2:contains(분류)) ~ div[class] > div[class] div[class]:not(:has(> *)) ~ div:has(tbody > tr + tr > td + td a[href^="/w/"] ~ span:contains(.) ~ div[class]:contains(/./))
 ! LG U+
