@@ -8,7 +8,6 @@
 *##+js(set, document.browsingTopics, undefined)
 ! Ad-Shield (inven.co.kr,loawa.com,ppss.kr,feedclick.net,ygosu.com)
 inven.co.kr,loawa.com,ppss.kr,feedclick.net,ygosu.com##+js(set, HTMLImageElement.prototype.removeAttribute, noopFunc)
-inven.co.kr,loawa.com,ppss.kr,feedclick.net,ygosu.com##+js(set, outerHeight, 0)
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 ! namu.wiki
