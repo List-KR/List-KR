@@ -2,7 +2,9 @@
 inven.co.kr,loawa.com,ppss.kr,feedclick.net,ygosu.com##style+div:nth-last-child(1)
 !#if adguard
 inven.co.kr##div.right-menu
-loawa.com###main>.row>.col:first-child
+loawa.com##main div[class*="p-0 m-0 mb-2 d-none d-md-block text-center"]
+loawa.com##div[id$="_v"]
+loawa.com##div[id$="_v2"]
 !#endif
 !
 ! ##div[id^="ad_"]
