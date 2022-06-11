@@ -89,7 +89,6 @@
 ||tpc.googlesyndication.com^
 ||adservice.google.co.*
 ||ads-partners.coupang.com^
-||naverwebtoon-phinf.pstatic.net^
 ||tvetamovie.pstatic.net^
 ||searchad-phinf.pstatic.net^
 ||ad.adjw.co.kr^
