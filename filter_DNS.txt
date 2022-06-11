@@ -5,6 +5,8 @@
 ! Homepage: https://github.com/List-KR/List-KR
 ! License: https://github.com/List-KR/List-KR/blob/master/LICENSE
 !
+! Version must be UTC format.
+!
 
 !#include filters-share/adservice.txt
 !#include filters-share/adservice_firstparty.txt
