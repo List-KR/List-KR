@@ -36,6 +36,7 @@ gamemeca.com,yeongnam.com##div[class$="-ad"]
 ! ##div[id^="ad"]
 gamemeca.com,m.ohmynews.com,m.khan.co.kr,m.dcinside.com##div[id^="ad"]
 !
+m.humoruniv.com##div[id^="naver_adpost_"]
 hungryapp.co.kr###cont_warp table[style]
 hungryapp.co.kr##iframe[src^="/banner/banner_"]
 m.hungryapp.co.kr###popUP_ZONE
