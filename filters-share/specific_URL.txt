@@ -2,6 +2,8 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+/^https:\/\/www\.filecity\.co\.kr\/img\/btn\/top_banner_[a-z]{4}\./
+||mimg.filecity.co.kr/mimg3/admin/banner2/
 /^https:\/\/[a-z]{1,}\.hungryapp\.co\.kr\/main\/main[0-9]{4}\/_main_event\.php$/
 ||appdata.hungryapp.co.kr//event/
 ||hungryapp.co.kr/banner/banner_*.php
