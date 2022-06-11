@@ -41,4 +41,4 @@ etoland.co.kr#?#tbody > tr > td > img[src*="/img/adland01.gif"]:upward(2)
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 !
 skytoon32.com,skytoon33.com,skytoon34.com,skytoon35.com,skytoon36.com,skytoon37.com,skytoon38.com,skytoon39.com,skytoon40.com,skytoon41.com,skytoon42.com,skytoon43.com#?#.vod > .row:has(img[src*=".toonimg.com/data/files/banner/"])
-toonkor109.com,toonkor110.com,toonkor111.com,toonkor112.com,toonkor113.com,toonkor114.com,toonkor115.com,toonkor116.com,toonkor117.com,toonkor118.com,toonkor119.com#?#.navbar-nav > li[class]:has(> a[href$="/토토보증업체"][alt="토토보증업체"])
+toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com,toonkor128.com,toonkor129.com,toonkor130.com,toonkor131.com#?#.navbar-nav > li[class]:has(> a[href$="/토토보증업체"][alt="토토보증업체"])
