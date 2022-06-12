@@ -36,6 +36,8 @@ gamemeca.com,yeongnam.com##div[class$="-ad"]
 ! ##div[id^="ad"]
 gamemeca.com,m.ohmynews.com,m.khan.co.kr,m.dcinside.com##div[id^="ad"]
 !
+webtoon.kakao.com##div > a[href^="/event?event_id="][style]
+webtoon.kakao.com##div[id^="kakao_ad_"]
 filecity.co.kr##form#head_search > li[style][class]
 filecity.co.kr##.head_bar2 > div[class]:not([id])
 m.humoruniv.com##div[id^="naver_adpost_"]
