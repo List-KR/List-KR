@@ -1,10 +1,13 @@
 ! namu.wiki
 ! SKT Mobile
-~board.namu.wiki,namu.wiki#?#div:has(h2:has-text(분류)) ~ div[class] > div[class] div[class]:not(:has(> *)) ~ div:has(tbody > tr + tr > td div[class] span[class]:has-text(/./) ~ span:has-text(.) ~ div[class]:has-text(/./))
+~board.namu.wiki,namu.wiki#?#div[class*="senkawa"] div:has(div:matches-css-after(content: 분류)) ~ div[class] > div[class] div[class]:has-text(/./) ~ div:has(tbody > tr + tr > td div[class] span[class]:has-text(/./) ~ span:has-text(/[A-z0-9- ]{2,}[\.,][A-z0-9 ]{2,}/) ~ div[class]:has-text(/./))
+~board.namu.wiki,namu.wiki#?#div[class*="senkawa"] div:has(h2:has-text(분류)) ~ div[class] > div[class] div[class]:has-text(/./) ~ div:has(tbody > tr + tr > td div[class] span[class]:has-text(/./) ~ span:has-text(/[A-z0-9- ]{2,}[\.,][A-z0-9 ]{2,}/) ~ div[class]:has-text(/./))
 ! SKT
-~board.namu.wiki,namu.wiki#?#div[class*="senkawa"] div:has(div:matches-css-after(content: 분류)) ~ div[class] > div[class] div[class]:not(:has(> *)) ~ div:has(tbody > tr + tr > td + td a[href^="/w/"] ~ span:has-text(/[A-z0-9-]{2,}\.[A-z0-9]{2,}/) ~ span[class]:has-text(/./))
+~board.namu.wiki,namu.wiki#?#div[class*="senkawa"] div:has(div:matches-css-after(content: 분류)) ~ div[class] > div[class] div[class]:has-text(/./) ~ div:has(tbody > tr + tr > td + td a[href^=\"/w/\"] ~ span:has-text(/[A-z0-9- ]{2,}[\.,][A-z0-9 ]{2,}/) ~ span[class]:has-text(/./))
+~board.namu.wiki,namu.wiki#?#div[class*="senkawa"] div:has(h2:has-text(분류)) ~ div[class] > div[class] div[class]:has-text(/./) ~ div:has(tbody > tr + tr > td + td a[href^=\"/w/\"] ~ span:has-text(/[A-z0-9- ]{2,}[\.,][A-z0-9 ]{2,}/) ~ span[class]:has-text(/./))
 ! LG U+
-~board.namu.wiki,namu.wiki#?#div[class*="senkawa"] div:has(h2:has-text(분류)) ~ div[class] > div[class] div[class]:not(:has(> *)) ~ div:has(div[class] + div[class] div[class] div:has-text(/./) ~ div[class]:has-text(/[A-z0-9-]{2,}\.[A-z0-9]{2,}/) ~ div[class]:has-text(/./))
+~board.namu.wiki,namu.wiki#?#div[class*="senkawa"] div:has(div:matches-css-after(content: 분류)) ~ div[class] > div[class] div[class]:has-text(/./) ~ div:has(div[class] + div[class] div[class] div:has-text(/./) ~ div[class]:has-text(/[A-z0-9- ]{2,}[\.,][A-z0-9 ]{2,}/) ~ div[class]:has-text(/./))
+~board.namu.wiki,namu.wiki#?#div[class*="senkawa"] div:has(h2:has-text(분류)) ~ div[class] > div[class] div[class]:has-text(/./) ~ div:has(div[class] + div[class] div[class] div:has-text(/./) ~ div[class]:has-text(/[A-z0-9- ]{2,}[\.,][A-z0-9 ]{2,}/) ~ div[class]:has-text(/./))
 !
 2cpu.co.kr#?#tr:has(> td > a[href^="../ad_board/"]:has-text(광고))
 2cpu.co.kr#?#ul > li:has(> a[href^="./ad_board/"]:has-text(광고))
