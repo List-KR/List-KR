@@ -1,10 +1,10 @@
 ! namu.wiki
 ! SKT Mobile
-~board.namu.wiki,namu.wiki#?#div[class*="senkawa"] div:has(div:matches-css-after(content: 분류), h2:contains(분류)) ~ div[class] > div[class] div[class]:contains(/./) ~ div:has(tbody > tr + tr > td div[class] span[class]:contains(/./) ~ span:contains(/[A-z0-9- ]{2,}[\.,][A-z0-9 ]{2,}/) ~ div[class]:contains(/./))
+~board.namu.wiki,namu.wiki#?#div[class*="senkawa"] div > div div[class]:contains(/./) ~ div:has(tbody > tr + tr > td div[class] span[class]:contains(/./) ~ span:contains(/[A-z0-9- \u200B]{2,}[\.,\t]{1,}[A-z0-9 \u200B]{2,}/) ~ div[class]:contains(/./)):not(:has( ~ footer a[href*="//creativecommons.org/licenses/by-nc-sa/2.0/kr"]))
 ! SKT
-~board.namu.wiki,namu.wiki#?#div[class*="senkawa"] div > div div:contains(/./) ~ div:has(tbody > tr + tr > td a[href^="/w/"] ~ span:contains(/[A-z0-9- \u200B]{2,}[\.,\t]{1,}[A-z0-9 \u200B]{2,}/) ~ span[class]:contains(/./)):not(:has(div:matches-css-after(content: 분류))):not(:has(h2:contains(분류)))
+~board.namu.wiki,namu.wiki#?#div[class*="senkawa"] div > div div:contains(/./) ~ div:has(tbody > tr + tr > td a[href^="/w/"] ~ span:contains(/[A-z0-9- \u200B]{2,}[\.,\t]{1,}[A-z0-9 \u200B]{2,}/) ~ span[class]:contains(/./)):not(:has( ~ footer a[href*="//creativecommons.org/licenses/by-nc-sa/2.0/kr"]))
 ! LG U+
-~board.namu.wiki,namu.wiki#?#div[class*="senkawa"] div > div[class] div[class]:contains(/./) ~ div:has(div[class] + div[class] div[class] div:contains(/./) ~ div[class]:contains(/[A-z0-9- \u200B]{2,}[\.,\t]{1,}[A-z0-9 \u200B]{2,}/) ~ div[class]:contains(/./)):not(:has( ~ footer a[herf*="//creativecommons.org/licenses/by-nc-sa/2.0/kr"]))
+~board.namu.wiki,namu.wiki#?#div[class*="senkawa"] div > div[class] div[class]:contains(/./) ~ div:has(div[class] + div[class] div[class] div:contains(/./) ~ div[class]:contains(/[A-z0-9- \u200B]{2,}[\.,\t]{1,}[A-z0-9 \u200B]{2,}/) ~ div[class]:contains(/./)):not(:has( ~ footer a[href*="//creativecommons.org/licenses/by-nc-sa/2.0/kr"]))
 !
 2cpu.co.kr#?#tr:has(> td > a[href^="../ad_board/"]:contains(광고))
 2cpu.co.kr#?#ul > li:has(> a[href^="./ad_board/"]:contains(광고))
