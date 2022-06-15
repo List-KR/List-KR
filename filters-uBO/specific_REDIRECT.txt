@@ -1,12 +1,12 @@
 ! Ad-Shield
 $image,redirect-rule=32x32.png,domain=ppss.kr
-$frame,redirect-rule=noopframe,domain=ppss.kr|ygosu.com|tgd.kr|loawa.com|feedclick.net|dailian.co.kr
-$script,redirect-rule=noopjs,domain=ppss.kr|ygosu.com|tgd.kr|loawa.com|feedclick.net|dailian.co.kr
-$image,redirect-rule=1x1.gif,domain=ygosu.com|tgd.kr|loawa.com|feedclick.net|dailian.co.kr
-$xhr,redirect-rule=noopjs,domain=ppss.kr|ygosu.com|tgd.kr|loawa.com|feedclick.net|dailian.co.kr
-/:\/\/[a-z\.]+\/[a-zA-Z\.\_]{1,30}\/[a-zA-Z\.\_]{1,30}\/[a-zA-Z0-9\.\_\/]+\.(eps|jar|pls|pict|xls|xlsx|mid|midi|avif|pdf|ps|webp|ppt|csv|doc|docx|tif|tiff|class|pptx)$/$doc,popup,inline-script,1p,domain=ppss.kr|ygosu.com|loawa.com|feedclick.net|dailian.co.kr
-/:\/\/[a-z\.]+\/[a-zA-Z0-9]{10,15}\.(eps|jar|pls|pict|xls|xlsx|mid|midi|avif|pdf|ps|webp|ppt|csv|doc|docx|tif|tiff|class|pptx)$/$doc,popup,inline-script,1p,domain=ppss.kr|ygosu.com|loawa.com|feedclick.net|dailian.co.kr
-/:\/\/[a-z\.]+\/[a-zA-Z\.\_]{1,15}\/[a-zA-Z0-9\.]{5,25}\.(eps|jar|pls|pict|xls|xlsx|mid|midi|avif|pdf|ps|webp|ppt|csv|doc|docx|tif|tiff|class|pptx)$/$doc,popup,inline-script,1p,domain=ppss.kr|ygosu.com|loawa.com|feedclick.net|dailian.co.kr
+$frame,redirect-rule=noopframe,domain=ppss.kr|ygosu.com|tgd.kr|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr
+$script,redirect-rule=noopjs,domain=ppss.kr|ygosu.com|tgd.kr|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr
+$image,redirect-rule=1x1.gif,domain=ygosu.com|tgd.kr|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr
+$xhr,redirect-rule=noopjs,domain=ppss.kr|ygosu.com|tgd.kr|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr
+/:\/\/[a-z\.]+\/[a-zA-Z\.\_]{1,30}\/[a-zA-Z\.\_]{1,30}\/[a-zA-Z0-9\.\_\/]+\.(eps|jar|pls|pict|xls|xlsx|mid|midi|avif|pdf|ps|webp|ppt|csv|doc|docx|tif|tiff|class|pptx)$/$doc,popup,inline-script,1p,domain=ppss.kr|ygosu.com|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr
+/:\/\/[a-z\.]+\/[a-zA-Z0-9]{10,15}\.(eps|jar|pls|pict|xls|xlsx|mid|midi|avif|pdf|ps|webp|ppt|csv|doc|docx|tif|tiff|class|pptx)$/$doc,popup,inline-script,1p,domain=ppss.kr|ygosu.com|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr
+/:\/\/[a-z\.]+\/[a-zA-Z\.\_]{1,15}\/[a-zA-Z0-9\.]{5,25}\.(eps|jar|pls|pict|xls|xlsx|mid|midi|avif|pdf|ps|webp|ppt|csv|doc|docx|tif|tiff|class|pptx)$/$doc,popup,inline-script,1p,domain=ppss.kr|ygosu.com|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr
 !
 ||ds.11st.co.kr/NetInsight/text/11st/11st_product/product@$redirect=noop.html
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$redirect=googlesyndication_adsbygoogle.js
