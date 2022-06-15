@@ -1,11 +1,3 @@
-! namu.wiki
-! SKT Mobile
-~board.namu.wiki,namu.wiki#?#div[class*="senkawa"] div > div div[class]:has-text(/./) ~ div:has(tbody > tr + tr > td div[class] span[class]:has-text(/./) ~ span:has-text(/[A-z0-9- \u200B]{2,}[\.,\t]{1,}[A-z0-9 \u200B]{2,}/) ~ div[class]:has-text(/./)):not(:has(div:matches-css-before(content: 목차)))
-! SKT
-~board.namu.wiki,namu.wiki#?#div[class*="senkawa"] div > div div:has-text(/./) ~ div:has(tbody > tr + tr > td a[href^="/w/"] ~ span:has-text(/[A-z0-9- \u200B]{2,}[\.,\t]{1,}[A-z0-9 \u200B]{2,}/) ~ span[class]:has-text(/./)):not(:has(div:matches-css-before(content: 목차)))
-! LG U+
-~board.namu.wiki,namu.wiki#?#div[class*="senkawa"] div > div[class] div[class]:has-text(/./) ~ div:has(div[class] + div[class] div[class] div:has-text(/./) ~ div[class]:has-text(/[A-z0-9- \u200B]{2,}[\.,\t]{1,}[A-z0-9 \u200B]{2,}/) ~ div[class]:has-text(/./)):not(:has(div:matches-css-before(content: 목차)))
-!
 2cpu.co.kr#?#tr:has(> td > a[href^="../ad_board/"]:has-text(광고))
 2cpu.co.kr#?#ul > li:has(> a[href^="./ad_board/"]:has-text(광고))
 gall.dcinside.com#?#table.gall_list tr:not([data-type][data-no]):has(td:has-text(AD))
