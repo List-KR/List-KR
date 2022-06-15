@@ -38,7 +38,5 @@
 
 !#include filters-share/removeparam.txt
 
-!#if (!adguard_ext_android_cb)
 !#include experimental/adshield/uBO.txt
 !#include experimental/namuwiki/uBO.txt
-!#endif
