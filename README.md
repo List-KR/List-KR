@@ -33,7 +33,7 @@ https://github.com/List-KR/List-KR/raw/master/filter_DNS.txt
 
 List-KR provides you an experimental version of List-KR to resolve problematic issues like Ad-Shield and NamuWiki without an userscript.
 
-Any problematic rules/filters can caues an incorrect blocking or false-positive.
+Any problematic rules/filters can cause an incorrect blocking or false-positive.
 
 If you want to learn more, please visit [#411](https://github.com/List-KR/List-KR/issues/411) and [#412](https://github.com/List-KR/List-KR/pull/412)
 
