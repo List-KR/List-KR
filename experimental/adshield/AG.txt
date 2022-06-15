@@ -25,8 +25,6 @@ $subdocument,redirect-rule=noopframe,domain=ppss.kr|ygosu.com|tgd.kr|loawa.com|f
 $script,redirect-rule=noopjs,domain=ppss.kr|ygosu.com|tgd.kr|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr
 $image,redirect-rule=1x1-transparent.gif,domain=ygosu.com|tgd.kr|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr
 $xhr,redirect-rule=noopjs,domain=ppss.kr|ygosu.com|tgd.kr|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr
-! ExtCSS
-loawa.com#?##equip-info-modal:has(> .modal-dialog > .modal-content > .modal-body > button.close + button.float-right)
 ! CSS
 ppss.kr#$#a[href*="president.go.kr"] { pointer-events: none !important; }
 ppss.kr#$#a[href*="cartax.biz"] { pointer-events: none !important; }

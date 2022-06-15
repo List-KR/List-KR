@@ -13,8 +13,6 @@
 @@||pagead2.googlesyndication.com/getconfig/sodar?$xhr,domain=loawa.com
 @@||tpc.googlesyndication.com/sodar/sodar2.js$script,domain=loawa.com
 @@$ghide,domain=ppss.kr|ygosu.com|feedclick.net|loawa.com|dailian.co.kr|inven.co.kr
-! ExtCSS
-loawa.com#?##equip-info-modal:has(> .modal-dialog > .modal-content > .modal-body > button.close + button.float-right)
 ! CSS
 loawa.com,ppss.kr,feedclick.net,ygosu.com#$#div[id]>div[id]>img[src] { display: none; }
 ppss.kr#$#a[href*="president.go.kr"] { pointer-events: none !important; }
