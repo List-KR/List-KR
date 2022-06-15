@@ -1,7 +1,3 @@
-! Ad-Shield
-ppss.kr#$#a[href*="president.go.kr"] { pointer-events: none !important; }
-ppss.kr#$#a[href*="cartax.biz"] { pointer-events: none !important; }
-!
 mylgid.com#$#.hasBanner header { top: 0px !important; }
 game.naver.com#$#div[class^="loungehome_event_popup_container"] { display: none !important; }
 game.naver.com#$#body { overflow: auto !important; }
