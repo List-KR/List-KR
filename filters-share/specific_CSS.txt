@@ -1,3 +1,4 @@
+signinssl.gmarket.co.kr#$#.login-cont .login { margin-left: 25% !important; }
 search.danawa.com#$#body { overflow: auto !important; }
 memberssl.auction.co.kr#$#div[class="box__login"] > * { width: 100% !important; }
 mylgid.com#$#.hasBanner header { top: 0px !important; }
