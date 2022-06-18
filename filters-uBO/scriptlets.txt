@@ -1,6 +1,7 @@
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
+memberssl.auction.co.kr##+js(acis, $, adDisp)
 dpg.danawa.com##+js(acis, $, /danawa-dpg-common-sponsorBanner-/)
 dpg.danawa.com##+js(acis, $, myScript[myScript.length - 1 ])
 cultureland.co.kr##+js(aopr, checkCookie, popup_AD)
