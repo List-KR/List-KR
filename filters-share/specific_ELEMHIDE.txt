@@ -29,6 +29,7 @@ gamemeca.com,m.ohmynews.com,m.khan.co.kr,m.dcinside.com##div[id^="ad"]
 ! ##div[id^="AD"]
 newsworker.co.kr##div[id^="AD"]
 !
+memberssl.auction.co.kr##div[id*="_AD_"]
 m.search.naver.com##section[class*="ad_"][data-ui]
 comic.naver.com##table.viewList tr.band_banner:not(.v2)
 comic.naver.com##.band_banner > a[onclick^="callWebAdBannerClick"]

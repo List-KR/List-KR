@@ -1,3 +1,4 @@
+memberssl.auction.co.kr#$#div[class="box__login"] > * { width: 100% !important; }
 mylgid.com#$#.hasBanner header { top: 0px !important; }
 game.naver.com#$#div[class^="loungehome_event_popup_container"] { display: none !important; }
 game.naver.com#$#body { overflow: auto !important; }
