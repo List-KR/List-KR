@@ -6,4 +6,3 @@
 ! LG U+
 ~board.namu.wiki,namu.wiki#?#div[class*="senkawa"] div > div[class] div[class]:has-text(/./) ~ div:has(div[class] + div[class] div[class] div:has-text(/./) ~ div[class]:has-text(/[A-z0-9- \u200B]{2,}[\.,\t]{1,}[A-z0-9 \u200B]{2,}/) ~ div[class]:has-text(/./)):not(:has(div:matches-css-before(content: 목차)))
 !
-namu.wiki##+js(set, INITIAL_STATE._12b82b61._800859d2, {})
