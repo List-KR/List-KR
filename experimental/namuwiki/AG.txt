@@ -6,4 +6,4 @@
 ! LG U+
 ~board.namu.wiki,namu.wiki#?#div[class*="senkawa"] div > div[class] div[class]:contains(/./) ~ div:has(div[class] + div[class] div[class] div:contains(/./) ~ div[class]:contains(/[A-z0-9- \u200B]{2,}[\.,\t]{1,}[A-z0-9 \u200B]{2,}/) ~ div[class]:contains(/./)):not(:has(div:matches-css-before(content: 목차)))
 !
-namu.wiki#%#//scriptlet('set-constant', "INITIAL_STATE._12b82b61._800859d2", "{}")
+namu.wiki#%#//scriptlet("set-constant", "INITIAL_STATE._12b82b61._800859d2", "{}")
