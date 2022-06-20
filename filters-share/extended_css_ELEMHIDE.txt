@@ -1,6 +1,7 @@
 ! Ad-Shield
 loawa.com#?##equip-info-modal:has(> .modal-dialog > .modal-content > .modal-body > button.close + button.float-right)
 !
+shoppinghow.kakao.com#?##contEtc > #rightContentbox:has(#SearchRightAdWrap)
 search.daum.net#?#article#mArticle [disp-attr].g_comp:has(.adLinkColl) + .line
 ygosu.com#?#table.bd_list tbody > tr:has(> td a[href^="https://ygosu.com/banner"])
 m.ygosu.com#?#ul#article_list > li.notice:has(a[href^="https://ygosu.com/banner"])

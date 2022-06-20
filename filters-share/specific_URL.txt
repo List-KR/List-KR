@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||shop-redapi.daum.net/red-apigate/shopad/
 ||t1.daumcdn.net/kas/static/ka-middle-ad-event-handler.js
 ||t1.kakaocdn.net/gamepub/daumgame/gamebar/
 ||ssl.pstatic.net/adimg3.search/*/nx_powerlink.css
