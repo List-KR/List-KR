@@ -1,6 +1,7 @@
 ! Ad-Shield
 loawa.com#?##equip-info-modal:has(> .modal-dialog > .modal-content > .modal-body > button.close + button.float-right)
 !
+search.daum.net#?#article#mArticle [disp-attr].g_comp:has(.adLinkColl) + .line
 ygosu.com#?#table.bd_list tbody > tr:has(> td a[href^="https://ygosu.com/banner"])
 m.ygosu.com#?#ul#article_list > li.notice:has(a[href^="https://ygosu.com/banner"])
 ygosu.com#?#table.bd_list tr:has(img[src^="/images/ico_ad_black.png?"])
