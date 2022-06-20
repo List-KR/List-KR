@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||t1.kakaocdn.net/gamepub/daumgame/gamebar/
 ||ssl.pstatic.net/adimg3.search/*/nx_powerlink.css
 /^https:\/\/t1\.daumcdn\.net\/b2\/creative\/[0-9]{6}\/[a-z0-9]{32}\./
 /^https:\/\/www\.filecity\.co\.kr\/img\/btn\/top_banner_[a-z]{4}\./
