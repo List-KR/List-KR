@@ -1,6 +1,9 @@
 ! Ad-Shield
 loawa.com#?##equip-info-modal:has(> .modal-dialog > .modal-content > .modal-body > button.close + button.float-right)
 !
+search.daum.net#?#body.nate article#mArticle [disp-attr].g_comp:has(iframe[src*="//ad.search.nate.com/"])
+search.daum.net#?#body.nate article#mArticle [disp-attr].g_comp:has(#bizDirtColl)
+search.daum.net#?#body.nate article#mArticle [disp-attr].g_comp:has(iframe[src*="//ad.search.nate.com/"]) + .line
 shoppinghow.kakao.com#?##contEtc > #rightContentbox:has(#SearchRightAdWrap)
 search.daum.net#?#article#mArticle [disp-attr].g_comp:has(.adLinkColl) + .line
 ygosu.com#?#table.bd_list tbody > tr:has(> td a[href^="https://ygosu.com/banner"])
