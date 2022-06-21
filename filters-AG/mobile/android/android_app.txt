@@ -1,4 +1,4 @@
-||firebaseinstallations.googleapis.com^$domain=instasaver.instagram.video.downloader.photo
+||firebaseinstallations.googleapis.com^$app=instasaver.instagram.video.downloader.photo
 ||ds.11st.co.kr/NetInsight/text/11st/11st_mobile/mobile_product
 /^https:\/\/cdn\.011st\.com\/11dims/resize/[0-9]{3,4}x[0-9]{3,4}\//
 ||centaurs-rest.coupang.com^$app=com.timespread.Timetable2
