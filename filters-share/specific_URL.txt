@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||humoruniv.com/js/adpost.kakao.ad.js
 /^https:\/\/shop\.nate\.com\/shopbox\/shopbox.{1,}&svcpage=news/
 ||shop.nate.com/shopbox/shopbox_ad_controller_
 /^https:\/\/(comm\.|m\.|)news\.nate\.com\/(etc|Etc)\/[A-z]{0,}(ad|Ad|AD)[A-z]{0,}/
