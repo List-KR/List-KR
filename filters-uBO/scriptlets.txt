@@ -1,6 +1,7 @@
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
+m.nate.com##+js(json-prune, shopping)
 shoppinghow.kakao.com##+js(json-prune, ads)
 memberssl.auction.co.kr##+js(acis, $, adDisp)
 dpg.danawa.com##+js(acis, $, /danawa-dpg-common-sponsorBanner-/)
