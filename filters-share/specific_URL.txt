@@ -4,7 +4,7 @@
 !
 /^https:\/\/shop\.nate\.com\/shopbox\/shopbox.{1,}&svcpage=news/
 ||shop.nate.com/shopbox/shopbox_ad_controller_
-/^https:\/\/(comm\.|)news\.nate\.com\/(etc|Etc)\/[A-z]{0,}(ad|Ad|AD)[A-z]{0,}/
+/^https:\/\/(comm\.|m\.|)news\.nate\.com\/(etc|Etc)\/[A-z]{0,}(ad|Ad|AD)[A-z]{0,}/
 ||clien.net/service/api/hongbo/
 ||shop-redapi.daum.net/red-apigate/shopad/
 ||t1.daumcdn.net/kas/static/ka-middle-ad-event-handler.js

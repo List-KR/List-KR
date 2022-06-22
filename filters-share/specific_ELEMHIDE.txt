@@ -29,8 +29,8 @@ gamemeca.com,m.ohmynews.com,m.khan.co.kr,m.dcinside.com##div[id^="ad"]
 ! ##div[id^="AD"]
 newsworker.co.kr##div[id^="AD"]
 !
+news.nate.com##div[class*="ad"]
 news.nate.com###newsSidebar > div[class$="AD"]
-news.nate.com###newsSidebar > div[class*="ad"]
 news.nate.com###newsSidebar > div[id$="Banner"]
 m.nate.com###mainContainer #content  .ct2 > section ~ *
 search.daum.net##iframe[src*="//ad.search.nate.com/"]
