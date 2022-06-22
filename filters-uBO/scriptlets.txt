@@ -1,6 +1,7 @@
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
+m.humoruniv.com##+js(acis, spwp, spwp.addAdUnits)
 m.nate.com##+js(json-prune, shopping)
 shoppinghow.kakao.com##+js(json-prune, ads)
 memberssl.auction.co.kr##+js(acis, $, adDisp)
