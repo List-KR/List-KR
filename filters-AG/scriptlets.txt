@@ -1,6 +1,7 @@
 ! PopMagic
 watchfreejavonline.co#%#//scriptlet("abort-current-inline-script", "popMagic.init")
 !
+11st.co.kr#%#//scriptlet("json-prune", "[].displayBeginDate [].displayEndDate")
 m.humoruniv.com#%#//scriptlet("abort-current-inline-script", "spwp", "spwp.addAdUnits")
 m.nate.com#%#//scriptlet("json-prune", "shopping")
 shoppinghow.kakao.com#%#//scriptlet("json-prune", "ads")
