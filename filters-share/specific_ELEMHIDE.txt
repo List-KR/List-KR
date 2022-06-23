@@ -29,6 +29,7 @@ gamemeca.com,m.ohmynews.com,m.khan.co.kr,m.dcinside.com##div[id^="ad"]
 ! ##div[id^="AD"]
 newsworker.co.kr##div[id^="AD"]
 !
+11st.co.kr##.b_main_md_recommend
 11st.co.kr###rcmdPrd.rcmd_prd
 11st.co.kr##[data-log-actionid-area][data-is-ab-send].hotClick_wrap
 11st.co.kr##.top_favorite.cfix
