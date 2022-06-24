@@ -1,6 +1,7 @@
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
+m.dcinside.com##+js(set, reple_dori, noopFunc)
 gall.dcinside.com##+js(ra, src, .comment_box li.ub-content.dory img, asap stay)
 11st.co.kr##+js(json-prune, [].displayBeginDate [].displayEndDate)
 m.humoruniv.com##+js(acis, spwp, spwp.addAdUnits)
