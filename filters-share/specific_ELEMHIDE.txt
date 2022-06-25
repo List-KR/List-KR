@@ -29,6 +29,7 @@ gamemeca.com,m.ohmynews.com,m.khan.co.kr,m.dcinside.com##div[id^="ad"]
 ! ##div[id^="AD"]
 newsworker.co.kr##div[id^="AD"]
 !
+dpg.danawa.com##.rnb_banner
 m.humoruniv.com##body > div[style^="margin:"]:not([class]):not([id]) > div[style^="width:"]:not([class]):not([id])
 thelec.kr##div[onclick^="wcs.event("]
 m.star.mt.co.kr###content > div[style^="background:"][class]
