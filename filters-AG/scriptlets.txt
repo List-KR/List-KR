@@ -1,6 +1,7 @@
 ! PopMagic
 watchfreejavonline.co#%#//scriptlet("abort-current-inline-script", "popMagic.init")
 !
+op.gg#%#//scriptlet("json-prune", "text_banner image_banner")
 dpg.danawa.com#%#//scriptlet("set-constant", "COMMUNITY_AD_UTILS", "emptyObj")
 m.dcinside.com#%#//scriptlet("set-constant", "reple_dori", "noopFunc")
 gall.dcinside.com#%#//scriptlet("remove-attr", "src", ".comment_box li.ub-content.dory img", "asap stay")
