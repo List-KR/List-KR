@@ -1,3 +1,4 @@
+edufindkorea.com#$##body_wrap > #body_main > div[style]:nth-child(1), #body_wrap > #body_main > div[style]:nth-child(3) { width: calc(50% - 5px) !important; }
 bbs.ruliweb.com#$##board_read .board_main_top .member_reward_wrapper { margin-top: 20px !important; float: right !important; margin-right: 20px !important; }
 www.nate.com#$#.area_ranking { top: 400px !important; }
 www.nate.com#$##header { margin-bottom: 0px !important; }
