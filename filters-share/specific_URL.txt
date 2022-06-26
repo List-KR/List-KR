@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||ekn.kr/mnt/webdata/ad/
 ||junggi.co.kr/data/__banner/
 ||junggi.co.kr/image/banner/
 ||photo.coolenjoy.co.kr/banner/
