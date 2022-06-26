@@ -2,6 +2,8 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||junggi.co.kr/data/__banner/
+||junggi.co.kr/image/banner/
 ||photo.coolenjoy.co.kr/banner/
 ||s.pstatic.net/imgshopping/static/sb/shoppingbox/
 ||json*.dcinside.com/json*/comment_boy_v*.php
