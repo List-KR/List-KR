@@ -1,3 +1,4 @@
+eggrank.com#?##right-sidebar > .inside-right-sidebar > div[class]:not(:has-text(Hi there, I'm EGG.))
 2cpu.co.kr#?#tr:has(> td > a[href^="../ad_board/"]:has-text(광고))
 2cpu.co.kr#?#ul > li:has(> a[href^="./ad_board/"]:has-text(광고))
 gall.dcinside.com#?#table.gall_list tr:not([data-type][data-no]):has(td:has-text(AD))
