@@ -29,6 +29,7 @@ gamemeca.com,m.ohmynews.com,m.khan.co.kr,m.dcinside.com##div[id^="ad"]
 ! ##div[id^="AD"]
 newsworker.co.kr##div[id^="AD"]
 !
+h5.dcinside.com##.side .login-box ~ .img-wrap
 mbiz.heraldcorp.com##a[class^="ad_"]
 echrecipe.co.kr##div[id*="_adsense_"]
 edufindkorea.com###body_wrap > #body_main > div[style]:nth-child(2)
