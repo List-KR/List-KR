@@ -28,3 +28,5 @@ $xhr,redirect-rule=noopjs,domain=ppss.kr|ygosu.com|tgd.kr|loawa.com|feedclick.ne
 /:\/\/[a-z\.]+\/[a-zA-Z\.\_]{1,30}\/[a-zA-Z\.\_]{1,30}\/[a-zA-Z0-9\.\_\/]+\.(eps|jar|pls|pict|xls|xlsx|mid|midi|avif|pdf|ps|webp|ppt|csv|doc|docx|tif|tiff|class|pptx)$/$doc,popup,inline-script,1p,domain=ppss.kr|ygosu.com|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr
 /:\/\/[a-z\.]+\/[a-zA-Z0-9]{10,15}\.(eps|jar|pls|pict|xls|xlsx|mid|midi|avif|pdf|ps|webp|ppt|csv|doc|docx|tif|tiff|class|pptx)$/$doc,popup,inline-script,1p,domain=ppss.kr|ygosu.com|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr
 /:\/\/[a-z\.]+\/[a-zA-Z\.\_]{1,15}\/[a-zA-Z0-9\.]{5,25}\.(eps|jar|pls|pict|xls|xlsx|mid|midi|avif|pdf|ps|webp|ppt|csv|doc|docx|tif|tiff|class|pptx)$/$doc,popup,inline-script,1p,domain=ppss.kr|ygosu.com|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr
+! Scriptlets
+ygosu.com,inven.co.kr##+js(aopr, Array.prototype.some)

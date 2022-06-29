@@ -30,3 +30,5 @@ ppss.kr#$#a[href*="president.go.kr"] { pointer-events: none !important; }
 ppss.kr#$#a[href*="cartax.biz"] { pointer-events: none !important; }
 ! Elemhide
 loawa.com,ppss.kr,feedclick.net,ygosu.com##style+div:nth-last-child(1)
+! Scriptlets
+ygosu.com,inven.co.kr#%#//scriptlet("abort-on-property-read", "Array.prototype.some")
