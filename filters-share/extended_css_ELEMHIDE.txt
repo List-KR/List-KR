@@ -1,6 +1,7 @@
 ! Ad-Shield
 loawa.com#?##equip-info-modal:has(> .modal-dialog > .modal-content > .modal-body > button.close + button.float-right)
 !
+pedia.watcha.com#?#div[class*="-ContentSections"] div[class^="css-"] section:has(section[class*="-ContentSection"] div[class*="-AdContainer"])
 search.daum.net#?#body.nate article#mArticle [disp-attr].g_comp:has(iframe[src*="//ad.search.nate.com/"])
 search.daum.net#?#body.nate article#mArticle [disp-attr].g_comp:has(#bizDirtColl)
 search.daum.net#?#body.nate article#mArticle [disp-attr].g_comp:has(iframe[src*="//ad.search.nate.com/"]) + .line
