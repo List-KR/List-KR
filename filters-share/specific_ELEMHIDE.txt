@@ -543,6 +543,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 !
+moviepang.net##.sidebar[style] > aside[id^="text-"][class] ~ aside[id^="text-"][class]
 frtoon119.com,frtoon120.com,frtoon121.com,frtoon122.com,frtoon123.com,frtoon124.com,frtoon125.com,frtoon126.com,frtoon127.com,frtoon128.com,frtoon129.com,frtoon130.com,frtoon131.com##.ad-form > .row > div[class^="col-md-"]
 buzztoon167.com,buzztoon168.com,buzztoon169.com,buzztoon170.com,buzztoon171.com,buzztoon172.com,buzztoon173.com,buzztoon174.com,buzztoon175.com,buzztoon176.com,buzztoon177.com,buzztoon178.com##.container-lg:not(.mt-2) > .row:nth-child(1)
 funbe117.com,funbe118.com,funbe119.com,funbe120.com,funbe121.com,funbe122.com,funbe123.com,funbe124.com,funbe125.com,funbe126.com,funbe127.com,funbe128.com##div[class$="mobile-banner"][style]
