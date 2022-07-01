@@ -31,6 +31,7 @@ newsworker.co.kr##div[id^="AD"]
 !
 newstomato.com##.mn_banner
 newstomato.com##.rns_bn
+sumpic.com##section.content .thumbnail-area
 h5.dcinside.com##.side .login-box ~ .img-wrap
 mbiz.heraldcorp.com##a[class^="ad_"]
 echrecipe.co.kr##div[id*="_adsense_"]

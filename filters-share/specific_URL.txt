@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||sumpic.com/shop/upload/banner/
 /^https:\/\/h5\.dcinside\.com\/assets\/(aaa%20|banner|[%A-F0-9]{20,})/
 ||res.heraldm.com/banner/
 ||ilbe.com/oa/ad_bbs_list.js
