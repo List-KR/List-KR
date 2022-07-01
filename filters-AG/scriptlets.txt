@@ -1,6 +1,7 @@
 ! PopMagic
 watchfreejavonline.co#%#//scriptlet("abort-current-inline-script", "popMagic.init")
 !
+newstomato.com#%#//scriptlet("abort-current-inline-script", "getAdvertise")
 m.search.naver.com#%#//scriptlet("abort-on-property-read", "Element.prototype.className", "_initializePlayer")
 pedia.watcha.com#%#//scriptlet("remove-attr", "class|src", "a[class*='-StylelessHref-AdImage']", "asap stay")
 op.gg#%#//scriptlet("json-prune", "text_banner image_banner")
