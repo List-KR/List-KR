@@ -1,6 +1,7 @@
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
+m.search.naver.com##+js(aopr, Element.prototype.className, _initializePlayer)
 pedia.watcha.com##+js(ra, class|src, a[class*='-StylelessHref-AdImage'], asap stay)
 op.gg##+js(json-prune, text_banner image_banner)
 dpg.danawa.com##+js(set, COMMUNITY_AD_UTILS, {})
