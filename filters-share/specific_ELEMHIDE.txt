@@ -29,6 +29,8 @@ gamemeca.com,m.ohmynews.com,m.khan.co.kr,m.dcinside.com##div[id^="ad"]
 ! ##div[id^="AD"]
 newsworker.co.kr##div[id^="AD"]
 !
+newstomato.com##.mn_banner
+newstomato.com##.rns_bn
 h5.dcinside.com##.side .login-box ~ .img-wrap
 mbiz.heraldcorp.com##a[class^="ad_"]
 echrecipe.co.kr##div[id*="_adsense_"]
