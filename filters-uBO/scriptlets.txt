@@ -1,7 +1,7 @@
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
-newstomato.com##+js(set, getAdvertise, noopFunc)
+newstomato.com##+js(acis, getAdvertise)
 m.search.naver.com##+js(aopr, Element.prototype.className, _initializePlayer)
 pedia.watcha.com##+js(ra, class|src, a[class*='-StylelessHref-AdImage'], asap stay)
 op.gg##+js(json-prune, text_banner image_banner)
