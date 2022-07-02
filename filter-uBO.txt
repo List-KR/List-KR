@@ -1,6 +1,6 @@
 ! Title: List-KR uBO
 ! Description: List-KR for uBlock Origin. Do not add this filter into your DNS filter.
-! Version: 2022.702.0
+! Version: 2022.702.1
 ! Expires: 1 day
 ! Homepage: https://github.com/List-KR/List-KR
 ! Support: https://github.com/List-KR/List-KR/issues/223
@@ -25,6 +25,7 @@
 !#include filters-uBO/scriptlets.txt
 !#include filters-share/lkscriptlet.txt
 !#include filters-share/javascript.txt
+!#include filters-uBO/javascript.txt
 !#include filters-uBO/antiadblock.txt
 
 !#if cap_user_stylesheet

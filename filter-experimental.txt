@@ -1,6 +1,6 @@
 ! Title: List-KR Experimental
 ! Description: List-KR for AdGuard. Do not add this filter into your DNS filter.
-! Version: 2022.702.0
+! Version: 2022.702.1
 ! Expires: 1 day
 ! Homepage: https://github.com/List-KR/List-KR
 ! Support: https://github.com/List-KR/List-KR/issues/223
@@ -31,6 +31,7 @@
 !#include filters-AG/scriptlets.txt
 !#include filters-share/lkscriptlet.txt
 !#include filters-share/javascript.txt
+!#include filters-AG/javascript.txt
 !#include filters-AG/antiadblock.txt
 !#endif
 
