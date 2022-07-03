@@ -29,6 +29,8 @@ newstomato.com,gamemeca.com,m.ohmynews.com,m.khan.co.kr,m.dcinside.com##div[id^=
 ! ##div[id^="AD"]
 newsworker.co.kr##div[id^="AD"]
 !
+etoland.co.kr##div[id^="mobile_banner_"]
+etoland.co.kr###mw_mobile > style ~ center >  a[href] > img[src]
 newstomato.com##.rns_bn
 sumpic.com##section.content .thumbnail-area
 h5.dcinside.com##.side .login-box ~ .img-wrap
