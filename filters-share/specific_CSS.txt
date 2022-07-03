@@ -1,3 +1,11 @@
+kyobobook.co.kr#$#.search_input > input#searchKeyword { background-image: none !important; }
+kyobobook.co.kr#$#.box_welcome_kyobo.type_2, .box_welcome_kyobo.type_2 .list_welcome_kyobo { width: 100% !important; }
+kyobobook.co.kr#$#.box_welcome_kyobo.type_2 .list_welcome_kyobo .layer { width: 237% !important; }
+kyobobook.co.kr#$#.box_welcome_kyobo.type_2 .list_welcome_kyobo .cover { left: 221.5px !important; }
+kyobobook.co.kr#$#.box_welcome_kyobo.type_2 .tab_welcome_round { left: 160px !important; }
+kyobobook.co.kr#$#.tab_welcome_kyobo li.book_3 { left: 172.5px !important; }
+kyobobook.co.kr#$#.tab_welcome_kyobo li.book_1 { left: 207.5px !important; }
+kyobobook.co.kr#$#.tab_welcome_kyobo li.book_2 { left: 273.5px !important; }
 edufindkorea.com#$##body_wrap > #body_main > div[style]:nth-child(1), #body_wrap > #body_main > div[style]:nth-child(3) { width: calc(50% - 5px) !important; }
 bbs.ruliweb.com#$##board_read .board_main_top .member_reward_wrapper { margin-top: 20px !important; float: right !important; margin-right: 20px !important; }
 www.nate.com#$#.area_ranking { top: 400px !important; }

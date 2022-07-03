@@ -29,6 +29,12 @@ newstomato.com,gamemeca.com,m.ohmynews.com,m.khan.co.kr,m.dcinside.com##div[id^=
 ! ##div[id^="AD"]
 newsworker.co.kr##div[id^="AD"]
 !
+kyobobook.co.kr##body.welcome .content_middle div[class^="ad_"]
+kyobobook.co.kr##body.welcome #container > div[class^="bg_welcome_"]:not([style]):nth-child(-n+3)
+kyobobook.co.kr##body.welcome #wing_ad
+kyobobook.co.kr##body.welcome .box_welcome_best
+kyobobook.co.kr##body.welcome #mainEventDiv
+kyobobook.co.kr##.top_header > .searchbook_main_new
 etoland.co.kr##div[id^="mobile_banner_"]
 etoland.co.kr###mw_mobile > style ~ center >  a[href] > img[src]
 newstomato.com##.rns_bn

@@ -1,6 +1,8 @@
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
+kyobobook.co.kr##+js(acis, jQuery, #mainEventDiv)
+kyobobook.co.kr##+js(acis, shuffleItsbest, itsbestArray)
 newstomato.com##+js(acis, getAdvertise)
 m.search.naver.com##+js(aopr, Element.prototype.className, _initializePlayer)
 pedia.watcha.com##+js(ra, class|src, a[class*='-StylelessHref-AdImage'], asap stay)
