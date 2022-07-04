@@ -29,6 +29,8 @@ newstomato.com,gamemeca.com,m.ohmynews.com,m.khan.co.kr,m.dcinside.com##div[id^=
 ! ##div[id^="AD"]
 newsworker.co.kr##div[id^="AD"]
 !
+pping.kr##.HAdLine
+pping.kr##iframe[src*="//ad.pping.kr/"]
 kyobobook.co.kr##.box_login_inner > div[class^="popup_content"]
 kyobobook.co.kr##body.welcome .content_middle div[class^="ad_"]
 kyobobook.co.kr##body.welcome #container > div[class^="bg_welcome_"]:not([style]):nth-child(-n+3)

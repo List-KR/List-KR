@@ -2,6 +2,11 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||api.pping.kr/front/*/ad/
+||cdnjs.happyshopping.kr/_*/css/*/pages/adv.css
+||api.pping.kr/front/*/ads/
+||api.pping.kr/front/*/curation/
+||cdnimg.happyshopping.kr/img_ad/
 ||image.kyobobook.co.kr//ink/images/prom/
 ||imac.kyobobook.co.kr/html/INK/$subdocument
 ||image.kyobobook.co.kr/ink/images/prom/

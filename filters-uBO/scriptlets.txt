@@ -1,6 +1,7 @@
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
+pping.kr##+js(ra, placeholder, input.search_input, asap stay)
 kyobobook.co.kr##+js(acis, jQuery, #mainEventDiv)
 kyobobook.co.kr##+js(acis, shuffleItsbest, itsbestArray)
 newstomato.com##+js(acis, getAdvertise)
