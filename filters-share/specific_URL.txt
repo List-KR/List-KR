@@ -2,7 +2,6 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
-||e-himart.co.kr/app/display/searchInduceAjax|
 ||resources-rmcnmv.pstatic.net/ditto/c/
 ||search.pstatic.net/common/?src=https%3A%2F%2Fditto-phinf.pstatic.net%2F
 ||ssl.pstatic.net/adimg3.search/o/ditto/
