@@ -556,30 +556,30 @@ www.naver.com##iframe[id^="da_iframe_"]
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 !
 moviepang.net##.sidebar[style] > aside[id^="text-"][class] ~ aside[id^="text-"][class]
-frtoon119.com,frtoon120.com,frtoon121.com,frtoon122.com,frtoon123.com,frtoon124.com,frtoon125.com,frtoon126.com,frtoon127.com,frtoon128.com,frtoon129.com,frtoon130.com,frtoon131.com##.ad-form > .row > div[class^="col-md-"]
+frtoon122.com,frtoon123.com,frtoon124.com,frtoon125.com,frtoon126.com,frtoon127.com,frtoon128.com,frtoon129.com,frtoon130.com,frtoon131.com,frtoon132.com,frtoon132.com,frtoon134.com##.ad-form > .row > div[class^="col-md-"]
 buzztoon167.com,buzztoon168.com,buzztoon169.com,buzztoon170.com,buzztoon171.com,buzztoon172.com,buzztoon173.com,buzztoon174.com,buzztoon175.com,buzztoon176.com,buzztoon177.com,buzztoon178.com##.container-lg:not(.mt-2) > .row:nth-child(1)
-funbe117.com,funbe118.com,funbe119.com,funbe120.com,funbe121.com,funbe122.com,funbe123.com,funbe124.com,funbe125.com,funbe126.com,funbe127.com,funbe128.com##div[class$="mobile-banner"][style]
+funbe124.com,funbe125.com,funbe126.com,funbe127.com,funbe128.com,funbe129.com,funbe130.com,funbe131.com,funbe132.com,funbe133.com,funbe134.com,funbe135.com,funbe136.com##div[class$="mobile-banner"][style]
 toon123.com##main > section[style]:not([class])
 anilife.live##.MainBnnWrap
-manaboza01.com,manaboza02.com,manaboza03.com,manaboza04.com,manaboza05.com,manaboza06.com,manaboza07.com,manaboza08.com,manaboza09.com,manaboza10.com,manaboza11.com##.payment_fullbnr
-manaboza01.com,manaboza02.com,manaboza03.com,manaboza04.com,manaboza05.com,manaboza06.com,manaboza07.com,manaboza08.com,manaboza09.com,manaboza10.com,manaboza11.com##.comic_bot_bnr
+manaboza09.com,manaboza10.com,manaboza11.com,manaboza12.com,manaboza13.com,manaboza14.com,manaboza15.com,manaboza16.com,manaboza17.com,manaboza18.com,manaboza19.com,manaboza20.com##.payment_fullbnr
+manaboza09.com,manaboza10.com,manaboza11.com,manaboza12.com,manaboza13.com,manaboza14.com,manaboza15.com,manaboza16.com,manaboza17.com,manaboza18.com,manaboza19.com,manaboza20.com##.comic_bot_bnr
 torrentmode.com##a[href^="https://torrentmode.com/bbs/bannerhit.php"]
-toonsarang62.com,toonsarang63.com,toonsarang64.com,toonsarang65.com,toonsarang66.com,toonsarang67.com,toonsarang68.com,toonsarang69.com,toonsarang70.com,toonsarang71.com,toonsarang72.com##.row.w_banner
-agit144.com,agit145.com,agit146.com,agit147.com,agit148.com,agit149.com,agit150.com,agit151.com,agit152.com,agit153.com,agit154.com,agit155.com##.container.banner + .banner
-newtoon120.com,newtoon121.com,newtoon122.com,newtoon123.com,newtoon124.com,newtoon125.com,newtoon126.com,newtoon127.com,newtoon128.com,newtoon129.com,newtoon130.com##.ad-form > .row > div[class^="col-md-"]
-copytoon272.com,copytoon273.com,copytoon274.com,copytoon275.com,copytoon276.com,copytoon277.com,copytoon278.com,copytoon279.com,copytoon280.com,copytoon281.com##.row.w_banner
+toonsarang65.com,toonsarang66.com,toonsarang67.com,toonsarang68.com,toonsarang69.com,toonsarang70.com,toonsarang71.com,toonsarang72.com,toonsarang73.com,toonsarang74.com,toonsarang75.com##.row.w_banner
+agit147.com,agit148.com,agit149.com,agit150.com,agit151.com,agit152.com,agit153.com,agit154.com,agit155.com,agit156.com,agit157.com,agit158.com##.container.banner + .banner
+newtoon123.com,newtoon124.com,newtoon125.com,newtoon126.com,newtoon127.com,newtoon128.com,newtoon129.com,newtoon130.com,newtoon131.com,newtoon132.com,newtoon133.com##.ad-form > .row > div[class^="col-md-"]
+copytoon275.com,copytoon276.com,copytoon277.com,copytoon278.com,copytoon279.com,copytoon280.com,copytoon281.com,copytoon282.com,copytoon283.com,copytoon284.com##.row.w_banner
 hodu252.net,hodu253.net,hodu254.net,hodu255.net,hodu256.net,hodu257.net,hodu258.net,hodu259.net,hodu260.net,hodu261.net,hodu262.net,hodu263.net##.sub-contents > .banner
 bam256co.com,bam257co.com,bam258co.com,bam259co.com,bam260co.com,bam261co.com,bam262co.com,bam263co.com,bam264co.com,bam265co.com,bam266co.com##.sub-contents > .banner
-wfwf211.com,wfwf212.com,wfwf213.com,wfwf214.com,wfwf215.com,wfwf216.com,wfwf217.com,wfwf218.com,wfwf219.com,wfwf220.com,wfwf221.com,wfwf222.com,wfwf223.com##.top-banner
+wfwf214.com,wfwf215.com,wfwf216.com,wfwf217.com,wfwf218.com,wfwf219.com,wfwf220.com,wfwf221.com,wfwf222.com,wfwf223.com,wfwf224.com,wfwf225.com,wfwf226.com##.top-banner
 blacktoon174.com,blacktoon178.com,blacktoon179.com,blacktoon180.com,blacktoon181.com,blacktoon182.com,blacktoon183.com,blacktoon184.com,blacktoon185.com,blacktoon186.com,blacktoon187.com,blacktoon188.com##.banner.container > .row > .col-6
-newtoki141.com,newtoki142.com,newtoki143.com,newtoki144.com,newtoki145.com,newtoki146.com,newtoki147.com,newtoki148.com,newtoki149.com,newtoki150.com,newtoki151.com,newtoki152.com,newtoki153.com,newtoki154.com###hd_pop
-newtoki141.com,newtoki142.com,newtoki143.com,newtoki144.com,newtoki145.com,newtoki146.com,newtoki147.com,newtoki148.com,newtoki149.com,newtoki150.com,newtoki151.com,newtoki152.com,newtoki153.com,newtoki154.com##img[src^="/tokinbtoki/"]
-toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com,toonkor128.com,toonkor129.com,toonkor130.com,toonkor131.com##.bnt > div[class^="bancol"]
-toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com,toonkor128.com,toonkor129.com,toonkor130.com,toonkor131.com###containerCol .at-content .contents > a[href][target] > img[src^="/bann/"]
-toonkor118.com,toonkor119.com,toonkor120.com,toonkor121.com,toonkor122.com,toonkor123.com,toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com,toonkor128.com,toonkor129.com,toonkor130.com,toonkor131.com##div[class$="mobile-banner"][style]
-manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net,manatoki150.net,manatoki151.net,manatoki152.net,manatoki153.net##[style="margin-bottom: 20px;"].row.row-15
-manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net,manatoki150.net,manatoki151.net,manatoki152.net,manatoki153.net##.basic-banner.row.row-10
-manatoki141.net,manatoki142.net,manatoki143.net,manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net,manatoki150.net,manatoki151.net,manatoki152.net,manatoki153.net##.board-tail-banner
+newtoki144.com,newtoki145.com,newtoki146.com,newtoki147.com,newtoki148.com,newtoki149.com,newtoki150.com,newtoki151.com,newtoki152.com,newtoki153.com,newtoki154.com,newtoki155.com,newtoki156.com,newtoki157.com###hd_pop
+newtoki144.com,newtoki145.com,newtoki146.com,newtoki147.com,newtoki148.com,newtoki149.com,newtoki150.com,newtoki151.com,newtoki152.com,newtoki153.com,newtoki154.com,newtoki155.com,newtoki156.com,newtoki157.com##img[src^="/tokinbtoki/"]
+toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com,toonkor128.com,toonkor129.com,toonkor130.com,toonkor131.com,toonkor132.com,toonkor133.com,toonkor134.com,toonkor135.com,toonkor136.com,toonkor137.com##.bnt > div[class^="bancol"]
+toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com,toonkor128.com,toonkor129.com,toonkor130.com,toonkor131.com,toonkor132.com,toonkor133.com,toonkor134.com,toonkor135.com,toonkor136.com,toonkor137.com###containerCol .at-content .contents > a[href][target] > img[src^="/bann/"]
+toonkor124.com,toonkor125.com,toonkor126.com,toonkor127.com,toonkor128.com,toonkor129.com,toonkor130.com,toonkor131.com,toonkor132.com,toonkor133.com,toonkor134.com,toonkor135.com,toonkor136.com,toonkor137.com##div[class$="mobile-banner"][style]
+manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net,manatoki150.net,manatoki151.net,manatoki152.net,manatoki153.net,manatoki154.net,manatoki155.net,manatoki156.net##[style="margin-bottom: 20px;"].row.row-15
+manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net,manatoki150.net,manatoki151.net,manatoki152.net,manatoki153.net,manatoki154.net,manatoki155.net,manatoki156.net##.basic-banner.row.row-10
+manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,manatoki149.net,manatoki150.net,manatoki151.net,manatoki152.net,manatoki153.net,manatoki154.net,manatoki155.net,manatoki156.net##.board-tail-banner
 103.204.13.68##.product-banner
 103.204.13.68##div[class^="mobile-m ad720_"]
 hellven.net##a[href$="&utm_medium=hellven1&referer=internal_hellven_banner_hellven1"]
