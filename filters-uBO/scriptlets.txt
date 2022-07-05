@@ -1,6 +1,12 @@
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
+search.11st.co.kr##+js(set, searchDataFactory.bottomFocusPrdList, undefined)
+search.11st.co.kr##+js(set, searchDataFactory.focusPrdList, undefined)
+search.11st.co.kr##+js(set, searchDataFactory.DABanner, undefined)
+search.11st.co.kr##+js(set, searchDataFactory.JBPBanner, undefined)
+search.11st.co.kr##+js(set, searchDataFactory.lnbAdBanner, undefined)
+search.11st.co.kr##+js(set, searchDataFactory.powerPrdList, undefined)
 pping.kr##+js(ra, placeholder, input.search_input, asap stay)
 kyobobook.co.kr##+js(acis, jQuery, #mainEventDiv)
 kyobobook.co.kr##+js(acis, shuffleItsbest, itsbestArray)

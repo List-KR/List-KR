@@ -1,6 +1,12 @@
 ! PopMagic
 watchfreejavonline.co#%#//scriptlet("abort-current-inline-script", "popMagic.init")
 !
+search.11st.co.kr#%#//scriptlet("set-constant", "searchDataFactory.bottomFocusPrdList", "undefined")
+search.11st.co.kr#%#//scriptlet("set-constant", "searchDataFactory.focusPrdList", "undefined")
+search.11st.co.kr#%#//scriptlet("set-constant", "searchDataFactory.DABanner", "undefined")
+search.11st.co.kr#%#//scriptlet("set-constant", "searchDataFactory.JBPBanner", "undefined")
+search.11st.co.kr#%#//scriptlet("set-constant", "searchDataFactory.lnbAdBanner", "undefined")
+search.11st.co.kr#%#//scriptlet("set-constant", "searchDataFactory.powerPrdList", "undefined")
 pping.kr#%#//scriptlet("remove-attr", "placeholder", "input.search_input", "asap stay")
 kyobobook.co.kr#%#//scriptlet("abort-current-inline-script", "jQuery", "#mainEventDiv")
 kyobobook.co.kr#%#//scriptlet("abort-current-inline-script", "shuffleItsbest", "itsbestArray")
