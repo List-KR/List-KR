@@ -20,6 +20,7 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 ! AdGlare Ad Server
 x86.co.kr,luckyquiz3.blogspot.com#%#//scriptlet("abort-current-inline-script", "document.createElement", "hasAdblock")
 !
+||fundingchoicesmessages.google.com^$domain=mksports.co.kr
 ||cdn.kollhong.com/wp-content/custom-js/fuckadblock.min.js
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=noopjs,domain=game.hotsharegames.com
 @@||googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=na.op.gg
