@@ -28,6 +28,8 @@ gamemeca.com,yeongnam.com##div[class$="-ad"]
 newstomato.com,gamemeca.com,m.ohmynews.com,m.khan.co.kr,m.dcinside.com##div[id^="ad"]
 ! ##div[id^="AD"]
 newsworker.co.kr##div[id^="AD"]
+! ##div[class^="Banner"]
+moyoplan.com##div[class^="Banner"]
 !
 mksports.co.kr###container_right > div[id^="slot"]
 oracionspace.com##aside > .revenue_unit_wrap
