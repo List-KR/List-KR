@@ -11,6 +11,9 @@ tistory.com#%#//scriptlet("abort-on-property-read", "adBlockDetected")
 ! ai_front anti-adblock
 jootc.com,ehpub.co.kr#%#//scriptlet("abort-current-inline-script", "ai_run_scripts")
 ! Kakao TV
+!#if (adguard_app_android || adguard_app_ios || adguard_app_mac || adguard_app_windows)
+$csp=connect-src "self" *.kakaopage.com *.kakaocdn.net *.kakao.com *.daum.net *.daumcdn.net,domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
+!#endif
 ||kakaotv.daum.net/embed/player/image/ads.png$redirect=32x32-transparent.png,domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
 kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#ins.kakao_ad_area
 kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@##adBlockPixelTag
