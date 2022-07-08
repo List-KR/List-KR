@@ -5,8 +5,8 @@ tistory.com,lover91.net,1412.rest,3dpchip.com#%#//scriptlet("prevent-setTimeout"
 ! BlockAdBlock
 shana.pe.kr,fafan.kr,tistory.com#%#//scriptlet("prevent-bab")
 ! FuckAdBlock
-tistory.com#%#//scriptlet("prevent-fab-3.2.0")
-tistory.com#%#//scriptlet("abort-on-property-read", "adBlockDetected")
+te31.com,tistory.com#%#//scriptlet("prevent-fab-3.2.0")
+te31.com,tistory.com#%#//scriptlet("abort-on-property-read", "adBlockDetected")
 ||cdnjs.cloudflare.com/ajax/libs/fuckadblock/3.2.1/fuckadblock.min.js$redirect=prevent-fab-3.2.0
 ! ai_front anti-adblock
 jootc.com,ehpub.co.kr#%#//scriptlet("abort-current-inline-script", "ai_run_scripts")
@@ -20,6 +20,7 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 ! AdGlare Ad Server
 x86.co.kr,luckyquiz3.blogspot.com#%#//scriptlet("abort-current-inline-script", "document.createElement", "hasAdblock")
 !
+te31.com#@#.adsbygoogle
 ||fundingchoicesmessages.google.com^$domain=mksports.co.kr
 ||cdn.kollhong.com/wp-content/custom-js/fuckadblock.min.js
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=noopjs,domain=game.hotsharegames.com

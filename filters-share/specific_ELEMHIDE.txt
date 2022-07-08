@@ -31,6 +31,11 @@ newsworker.co.kr##div[id^="AD"]
 ! ##div[class^="Banner"]
 moyoplan.com##div[class^="Banner"]
 !
+te31.com##table.adsbygoogle ~ table #honey > div[style^="background-color:"]:not([class])
+te31.com###contentmemo ~ .adsbygoogle > div[style^="background-color:"]
+te31.com###menu_right.adsbygoogle
+te31.com##table.adsbygoogle ~ table[style^="min-height:"]
+te31.com###bbs > table[style^="color:#"] ~ div[style*="padding:"][style*="border-left"]
 mksports.co.kr###container_right > div[id^="slot"]
 oracionspace.com##aside > .revenue_unit_wrap
 search.11st.co.kr##.search_content section.search_section[data-log-actionid-area="recommend"]

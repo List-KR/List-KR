@@ -6,8 +6,8 @@ tistory.com,lover91.net,1412.rest,3dpchip.com##+js(nostif, /\.displayMessage\(/)
 shana.pe.kr,fafan.kr,tistory.com##+js(nobab)
 tistory.com##+js(nobab2)
 ! FuckAdBlock
-tistory.com##+js(nofab)
-tistory.com##+js(aopr, adBlockDetected)
+te31.com,tistory.com##+js(nofab)
+te31.com,tistory.com##+js(aopr, adBlockDetected)
 ! ai_front anti-adblock
 jootc.com,ehpub.co.kr##+js(acis, ai_run_scripts)
 ! Kakao TV
@@ -20,6 +20,7 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 ! AdGlare Ad Server
 x86.co.kr,luckyquiz3.blogspot.com##+js(acis, document.createElement, hasAdblock)
 !
+te31.com#@#.adsbygoogle
 ||fundingchoicesmessages.google.com^$domain=mksports.co.kr
 ||cdn.kollhong.com/wp-content/custom-js/fuckadblock.min.js
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=noop.js,domain=game.hotsharegames.com
