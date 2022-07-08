@@ -3,7 +3,7 @@ tistory.com,love.asdn.kr,avjamak.net,untitle.org,seo-marketing.co.kr##+js(acis, 
 ! ##+js(nostif, /\.displayMessage\(/)
 tistory.com,lover91.net,1412.rest,3dpchip.com##+js(nostif, /\.displayMessage\(/)
 ! BlockAdBlock
-fafan.kr,tistory.com##+js(nobab)
+shana.pe.kr,fafan.kr,tistory.com##+js(nobab)
 tistory.com##+js(nobab2)
 ! FuckAdBlock
 tistory.com##+js(nofab)
