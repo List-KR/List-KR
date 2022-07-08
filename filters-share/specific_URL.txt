@@ -2,6 +2,8 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||cdn.funshop.co.kr/BannerImage/
+||amazonaws.com/adpick.co.kr/apis/adpick_cps.js
 ||static.uni1id.com/resource/adver.config.json|
 ||search.danawa.com/ajax/getAdSmartProductList.ajax.php|
 /^https:\/\/moyo-cdn\.[a-z0-9]{2,3}\.[a-z0-9-]{12,15}\.amazonaws\.com\/img\/banner\//
