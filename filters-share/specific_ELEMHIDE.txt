@@ -31,6 +31,7 @@ newsworker.co.kr##div[id^="AD"]
 ! ##div[class^="Banner"]
 moyoplan.com##div[class^="Banner"]
 !
+m.fmkorea.com##.adpost
 te31.com##table.adsbygoogle ~ table #honey > div[style^="background-color:"]:not([class])
 te31.com###contentmemo ~ .adsbygoogle > div[style^="background-color:"]
 te31.com###menu_right.adsbygoogle
