@@ -1,3 +1,4 @@
+news.naver.com#$##section_body { border-top: none !important; }
 sso.pping.kr#$#.content_join { margin-left: calc(50% - 200px) !important; }
 kyobobook.co.kr#$#.box_login_inner > div[class^="login_content"] { margin-left: calc(50% - 166px) !important; }
 kyobobook.co.kr#$#.search_input > input#searchKeyword { background-image: none !important; }
