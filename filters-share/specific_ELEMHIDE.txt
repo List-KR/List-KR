@@ -32,6 +32,8 @@ newsworker.co.kr##div[id^="AD"]
 moyoplan.com##div[class^="Banner"]
 ! ##table[class^="ad_"]
 m.humoruniv.com##table[class^="ad_"]
+! ##div[class*="_ad"]
+m.clien.net##div[class*="_ad"]
 !
 m.fmkorea.com##.adpost
 te31.com##table.adsbygoogle ~ table #honey > div[style^="background-color:"]:not([class])
