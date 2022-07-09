@@ -33,7 +33,7 @@ moyoplan.com##div[class^="Banner"]
 ! ##table[class^="ad_"]
 m.humoruniv.com##table[class^="ad_"]
 ! ##div[class*="_ad"]
-m.kmib.co.kr,m.clien.net##div[class*="_ad"]
+buy.11st.co.kr,m.kmib.co.kr,m.clien.net##div[class*="_ad"]
 !
 fmkorea.com###sidebar div[style^="height:"]:not(.li)
 fmkorea.com##.adpost
