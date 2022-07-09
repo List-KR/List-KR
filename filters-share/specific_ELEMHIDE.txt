@@ -35,7 +35,8 @@ m.humoruniv.com##table[class^="ad_"]
 ! ##div[class*="_ad"]
 m.kmib.co.kr,m.clien.net##div[class*="_ad"]
 !
-m.fmkorea.com##.adpost
+fmkorea.com###sidebar div[style^="height:"]:not(.li)
+fmkorea.com##.adpost
 te31.com##table.adsbygoogle ~ table #honey > div[style^="background-color:"]:not([class])
 te31.com###contentmemo ~ .adsbygoogle > div[style^="background-color:"]
 te31.com###menu_right.adsbygoogle

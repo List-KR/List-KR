@@ -1,6 +1,7 @@
 ! PopMagic
 watchfreejavonline.co#%#//scriptlet("abort-current-inline-script", "popMagic.init")
 !
+fmkorea.com#%#//scriptlet("set-constant", "link_url", "")
 search.11st.co.kr#%#//scriptlet("set-constant", "searchDataFactory.bottomFocusPrdList", "undefined")
 search.11st.co.kr#%#//scriptlet("set-constant", "searchDataFactory.focusPrdList", "undefined")
 search.11st.co.kr#%#//scriptlet("set-constant", "searchDataFactory.DABanner", "undefined")
