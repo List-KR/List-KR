@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||ssl.pstatic.net/static/kin/*/promotion/
 ||image.fmkorea.com/images/ad/
 ||cdn.funshop.co.kr/BannerImage/
 ||amazonaws.com/adpick.co.kr/apis/adpick_cps.js

@@ -34,6 +34,8 @@ moyoplan.com##div[class^="Banner"]
 m.humoruniv.com##table[class^="ad_"]
 ! ##div[class*="_ad"]
 buy.11st.co.kr,m.kmib.co.kr,m.clien.net##div[class*="_ad"]
+! ##div[id*="Banner"]
+kin.naver.com##div[id*="Banner"]
 !
 fmkorea.com###sidebar div[style^="height:"]:not(.li)
 fmkorea.com##.adpost
