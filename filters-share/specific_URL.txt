@@ -2,6 +2,9 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||3p.ampproject.net/*/vendor/dable.js
+||cdn.ampproject.org/v0/amp-ad-*.js
+||cdn.ampproject.org/rtv/*/v0/amp-ad-*.js
 ||ssl.pstatic.net/static/kin/*/promotion/
 ||image.fmkorea.com/images/ad/
 ||cdn.funshop.co.kr/BannerImage/
