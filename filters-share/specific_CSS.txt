@@ -1,3 +1,4 @@
+m.humoruniv.com#$##read_menu_btn_div > div[style][class] { margin-top: 0px !important; }
 kin.naver.com#$#.wrap_home .section_spot { width: 100% !important; }
 kin.naver.com#$#.wrap_home .section_spot .best_qna_wrap { width: 100% !important; }
 te31.com#$##contentmemo ~ .adsbygoogle > div[style^="font-size:"] { width: 100% !important; }
