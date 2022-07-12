@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+/^https:\/\/ohli24\.net\/img\/[0-9]{4}\/[A-z]{1,}\.[a-z]{3}$/
 ||dpg.danawa.com/news/powerLink|
 ||cdn.jayupress.com/adManager/
 ||cdn.jayupress.com/bannerpop/uploads/
@@ -330,7 +331,6 @@
 ||danawa.com/NBP/powerLink.js.php
 ||image.ruliweb.com/view/view.js?zoneid=
 ||noonoo-images.studiouniversal.net/banner/
-||ohli24.net/img/*/*.gif
 ||vogue.co.kr/wp-content/plugins/wppas/
 ||sslimg.appstory.co.kr/@files/snc/eventbanner/
 ||shop-redapi.daum.net/red-apigate/daumtop/

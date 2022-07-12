@@ -37,6 +37,7 @@ m.munhwa.com,buy.11st.co.kr,m.kmib.co.kr,m.clien.net##div[class*="_ad"]
 ! ##div[id*="Banner"]
 kin.naver.com##div[id*="Banner"]
 !
+ohli24.net##nav ~ .at-title
 aagag.com##.la
 m.nocutnews.co.kr###pnlContainer .con_b >.ct_box:not([style])
 m.munhwa.com###news_content > div[style]
@@ -440,7 +441,6 @@ ggoorr.net##.content > div.bd > div > center
 m.comic.naver.com##[id^="flex_ad_"]
 comic.naver.com##div[id^="ppl_"][id$="_section"]
 noonoo.tv##.partner-banner-wrap
-ohli24.net##img[src^="/img/"][src$=".gif"]
 m.newspic.kr##div[style^="text-align"][style*="z-index:999999999999;"]
 newspic.kr###dionAdArea
 1412.rest##div[id^="plusad_"]
