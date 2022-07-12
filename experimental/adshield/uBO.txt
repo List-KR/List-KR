@@ -1,32 +1,31 @@
 ! Allow filters
-@@||clickmon.co.kr/ad_img/$frame,domain=ygosu.com
-@@||ad.xc.netinsight.co.kr/xc/h/$frame,domain=ygosu.com
-@@||tab2.clickmon.co.kr$script,domain=ygosu.com
-@@||static.dable.io/dist/plugin.min.js$script,xhr,domain=ppss.kr|ygosu.com|feedclick.net|loawa.com|inven.co.kr
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xhr,domain=ppss.kr|ygosu.com|feedclick.net|loawa.com|inven.co.kr
-@@||api.dable.io/plugin/services/ppss.kr/prefs2?$script,domain=ppss.kr
-@@||pagead2.googlesyndication.com/pagead/managed/js/adsense/$script,domain=ppss.kr|loawa.com|feedclick.net|dailian.co.kr
-@@||r-log.dable.io/s/ppss.kr/u/$script,domain=ppss.kr
-@@||ad.doubleclick.net/ddm/adj/Bkne/Bdfs$xhr,domain=ppss.kr|ygosu.com|feedclick.net|loawa.com|inven.co.kr
+!#if env_chromium
+@@||static.dable.io/dist/plugin.min.js$xhr,domain=ygosu.com|feedclick.net|loawa.com|inven.co.kr|algumon.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,domain=ygosu.com|inven.co.kr
+@@||ad.doubleclick.net/ddm/adj/Bkne/Bdfs$xhr,domain=ppss.kr|ygosu.com|feedclick.net|loawa.com|inven.co.kr|algumon.com
+!#endif
+@@||pagead2.googlesyndication.com/pagead/managed/js/adsense/$script,domain=loawa.com|feedclick.net|ppss.kr|algumon.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xhr,domain=loawa.com|feedclick.net|ppss.kr|algumon.com
 @@||adservice.google.*/adsid/integrator.js?domain=loawa.com$script,domain=loawa.com
-@@||googleads.g.doubleclick.net/pagead/$frame,domain=loawa.com
-@@||pagead2.googlesyndication.com/getconfig/sodar?$xhr,domain=loawa.com
 @@||tpc.googlesyndication.com/sodar/sodar2.js$script,domain=loawa.com
+@@||googleads.g.doubleclick.net/pagead/$frame,domain=loawa.com
+@@||wcs.naver.net/wcslog.js$script,domain=loawa.com
+@@||api.dable.io/plugin/services/ppss.kr/prefs2?$script,domain=ppss.kr
+@@||static.dable.io/dist/plugin.min.js$script,xhr,domain=ppss.kr
+@@||tab2.clickmon.co.kr/pop/$script,domain=ygosu.com
 @@$ghide,domain=ppss.kr|ygosu.com|feedclick.net|loawa.com|dailian.co.kr|inven.co.kr
 ! CSS
-loawa.com,ppss.kr,feedclick.net,ygosu.com#$#div[id]>div[id]>img[src] { display: none; }
 ppss.kr#$#a[href*="president.go.kr"] { pointer-events: none !important; }
 ppss.kr#$#a[href*="cartax.biz"] { pointer-events: none !important; }
 ! Elemhide
-loawa.com,ppss.kr,feedclick.net,ygosu.com##style+div:nth-last-child(1)
+
 ! Redirect
 $image,redirect-rule=32x32.png,domain=ppss.kr
-$frame,redirect-rule=noopframe,domain=ppss.kr|ygosu.com|tgd.kr|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr
-$script,redirect-rule=noopjs,domain=ppss.kr|ygosu.com|tgd.kr|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr
-$image,redirect-rule=1x1.gif,domain=ygosu.com|tgd.kr|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr
-$xhr,redirect-rule=noopjs,domain=ppss.kr|ygosu.com|tgd.kr|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr
-/:\/\/[a-z\.]+\/[a-zA-Z\.\_]{1,30}\/[a-zA-Z\.\_]{1,30}\/[a-zA-Z0-9\.\_\/]+\.(eps|jar|pls|pict|xls|xlsx|mid|midi|avif|pdf|ps|webp|ppt|csv|doc|docx|tif|tiff|class|pptx)$/$doc,popup,inline-script,1p,domain=ppss.kr|ygosu.com|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr
-/:\/\/[a-z\.]+\/[a-zA-Z0-9]{10,15}\.(eps|jar|pls|pict|xls|xlsx|mid|midi|avif|pdf|ps|webp|ppt|csv|doc|docx|tif|tiff|class|pptx)$/$doc,popup,inline-script,1p,domain=ppss.kr|ygosu.com|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr
-/:\/\/[a-z\.]+\/[a-zA-Z\.\_]{1,15}\/[a-zA-Z0-9\.]{5,25}\.(eps|jar|pls|pict|xls|xlsx|mid|midi|avif|pdf|ps|webp|ppt|csv|doc|docx|tif|tiff|class|pptx)$/$doc,popup,inline-script,1p,domain=ppss.kr|ygosu.com|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr
+$frame,redirect-rule=noopframe,domain=ppss.kr|ygosu.com|tgd.kr|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr|algumon.com
+$script,redirect-rule=noopjs,domain=ppss.kr|ygosu.com|tgd.kr|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr|algumon.com
+$image,redirect-rule=1x1.gif,domain=ygosu.com|tgd.kr|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr|algumon.com
+$xhr,redirect-rule=noopjs,domain=ppss.kr|ygosu.com|tgd.kr|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr|algumon.com
+/:\/\/[a-z\.]+\/[a-zA-Z\.\_]{1,30}\/[a-zA-Z\.\_]{1,30}\/[a-zA-Z0-9\.\_\/]+\.(eps|jar|pls|pict|xls|xlsx|mid|midi|avif|pdf|ps|webp|ppt|csv|doc|docx|tif|tiff|class|pptx)$/$doc,popup,inline-script,1p,domain=ppss.kr|ygosu.com|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr|algumon.com
+/:\/\/[a-z\.]+\/[a-zA-Z0-9]{10,15}\.(eps|jar|pls|pict|xls|xlsx|mid|midi|avif|pdf|ps|webp|ppt|csv|doc|docx|tif|tiff|class|pptx)$/$doc,popup,inline-script,1p,domain=ppss.kr|ygosu.com|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr|algumon.com
+/:\/\/[a-z\.]+\/[a-zA-Z\.\_]{1,15}\/[a-zA-Z0-9\.]{5,25}\.(eps|jar|pls|pict|xls|xlsx|mid|midi|avif|pdf|ps|webp|ppt|csv|doc|docx|tif|tiff|class|pptx)$/$doc,popup,inline-script,1p,domain=ppss.kr|ygosu.com|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr|algumon.com
 ! Scriptlets
-ygosu.com,inven.co.kr##+js(aopr, Array.prototype.some)
