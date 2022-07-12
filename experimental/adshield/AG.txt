@@ -11,7 +11,7 @@
 @@||googleads.g.doubleclick.net/pagead/$subdocument,domain=loawa.com
 @@||wcs.naver.net/wcslog.js$script,domain=loawa.com
 @@||api.dable.io/plugin/services/ppss.kr/prefs2?$script,domain=ppss.kr
-@@||static.dable.io/dist/plugin.min.js$script,xhr,domain=ppss.kr
+@@||static.dable.io/dist/plugin.min.js$script,xmlhttprequest,domain=ppss.kr
 @@||tab2.clickmon.co.kr/pop/$script,domain=ygosu.com
 @@$generichide,domain=ppss.kr|ygosu.com|feedclick.net|loawa.com|dailian.co.kr|inven.co.kr
 googleads.g.doubleclick.net##html
@@ -25,7 +25,7 @@ $image,redirect-rule=32x32-transparent.png,domain=ppss.kr
 $subdocument,redirect-rule=noopframe,domain=ppss.kr|ygosu.com|tgd.kr|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr|algumon.com
 $script,redirect-rule=noopjs,domain=ppss.kr|ygosu.com|tgd.kr|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr|algumon.com
 $image,redirect-rule=1x1-transparent.gif,domain=ygosu.com|tgd.kr|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr|algumon.com
-$xhr,redirect-rule=noopjs,domain=ppss.kr|ygosu.com|tgd.kr|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr|algumon.com
+$xmlhttprequest,redirect-rule=noopjs,domain=ppss.kr|ygosu.com|tgd.kr|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr|algumon.com
 ! CSS
 ppss.kr#$#a[href*="president.go.kr"] { pointer-events: none !important; }
 ppss.kr#$#a[href*="cartax.biz"] { pointer-events: none !important; }
