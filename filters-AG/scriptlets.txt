@@ -1,6 +1,7 @@
 ! PopMagic
 watchfreejavonline.co#%#//scriptlet("abort-current-inline-script", "popMagic.init")
 !
+search.11st.co.kr#%#//scriptlet("remove-attr", "src", "section.search_section[data-log-actionid-area='plus'] img", "asap stay")
 11st.co.kr#%#//scriptlet("remove-attr", "src", "#rcmdPrd img", "asap stay")
 11st.co.kr#%#//scriptlet("remove-attr", "src", ".hotClick_wrap img", "asap stay")
 11st.co.kr#%#//scriptlet("remove-attr", "src", ".top_favorite.cfix img", "asap stay")

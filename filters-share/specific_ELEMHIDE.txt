@@ -37,6 +37,7 @@ m.munhwa.com,buy.11st.co.kr,m.kmib.co.kr,m.clien.net##div[class*="_ad"]
 ! ##div[id*="Banner"]
 kin.naver.com##div[id*="Banner"]
 !
+search.11st.co.kr##section.search_section[data-log-actionid-area="plus"]
 11st.co.kr###rcmdPrd
 11st.co.kr##.hotClick_wrap
 11st.co.kr##.top_favorite.cfix

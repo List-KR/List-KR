@@ -1,6 +1,7 @@
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
+search.11st.co.kr##+js(ra, src, section.search_section[data-log-actionid-area="plus"] img, asap stay)
 11st.co.kr##+js(ra, src, #rcmdPrd img, asap stay)
 11st.co.kr##+js(ra, src, .hotClick_wrap img, asap stay)
 11st.co.kr##+js(ra, src, .top_favorite.cfix img, asap stay)
