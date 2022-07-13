@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||m.11st.co.kr/MW/html/nc/getGNBTextListAjax.js|
 ||image-comic.pstatic.net/mobilewebimg/*/*/contents_banner_MOBILE_$image
 ||image-comic.pstatic.net/webtoon/*/*/contents_banner_$image
 /^https:\/\/ohli24\.net\/img\/[0-9]{4}\/[A-z]{1,}\.[a-z]{3}$/

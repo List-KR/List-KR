@@ -1,6 +1,7 @@
 ! Ad-Shield
 loawa.com#?##equip-info-modal:has(> .modal-dialog > .modal-content > .modal-body > button.close + button.float-right)
 !
+m.11st.co.kr#?#article#puiWrap div[id^="carrier_"] li.swiper-slide:has(a[href^="https://ds.11st.co.kr/click/11st/11st_mobile/"][href*="?ads_id"])
 webtoon.kakao.com#?#div[class^="left"] ~ div[class]:not([style]):has(ins.kakao_ad_area)
 pping.kr#?#.main_contents > div[class^="sc-"]:has(img[src*="//cdnimg.happyshopping.kr/img_ad/"])
 pedia.watcha.com#?#div[class*="-ContentSections"] div[class^="css-"] section:has(section[class*="-ContentSection"] div[class*="-AdContainer"])
