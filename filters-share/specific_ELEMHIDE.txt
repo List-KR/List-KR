@@ -37,6 +37,11 @@ m.munhwa.com,buy.11st.co.kr,m.kmib.co.kr,m.clien.net##div[class*="_ad"]
 ! ##div[id*="Banner"]
 kin.naver.com##div[id*="Banner"]
 !
+11st.co.kr###rcmdPrd
+11st.co.kr##.hotClick_wrap
+11st.co.kr##.top_favorite.cfix
+11st.co.kr###product_listing .power_prd
+11st.co.kr###product_listing .plus_prd
 11st.co.kr##.s_main > .l_main_wide[data-carr-sn]:not([class*=" "])
 11st.co.kr##.s_main > .l_main:not([data-carr-sn])
 m.comic.naver.com###ct div[class^="ly_"]
