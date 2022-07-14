@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+/^https:\/\/ohlitv\.com\/img\/[0-9]{4}\/[a-z]{1,}\.gif$/
 ||reurl.kr/data/bbs/
 ||m.11st.co.kr/MW/api/app/elevenst/ad/
 ||m.11st.co.kr/MW/html/nc/getGNBTextListAjax.js|
