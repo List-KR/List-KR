@@ -1,3 +1,4 @@
+##iframe[src*="//ad.3dpop.kr/"]
 ##div[id^="div-gpt-"]
 ##iframe[src*="//tab2.clickmon.co.kr/"]
 ##a[href*="//ad.planbplus.co.kr/"]
