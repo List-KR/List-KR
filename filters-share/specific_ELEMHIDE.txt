@@ -37,6 +37,8 @@ m.munhwa.com,buy.11st.co.kr,m.kmib.co.kr,m.clien.net##div[class*="_ad"]
 ! ##div[id*="Banner"]
 kin.naver.com##div[id*="Banner"]
 !
+polinews.co.kr##.news_con div[style]:not([class])
+polinews.co.kr###news_body_area > div[style]:not([class])
 tipsandtrickskorea.com##.thecontent > .in-article-container
 tipsandtrickskorea.com##aside#sidebar > div[id^="text-"]
 search.11st.co.kr##section#cts.main ._SearchProductAd
