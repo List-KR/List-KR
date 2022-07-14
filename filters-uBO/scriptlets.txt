@@ -1,8 +1,9 @@
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
+search.11st.co.kr##+js(ra, src, section#cts.main div[class='l-grid l-grid--nobg'] ul > li:not([class*="_common"]) img, asap stay)
+search.11st.co.kr##+js(ra, src, section#cts.main ._SearchProductAd img, asap stay)
 search.11st.co.kr##+js(ra, src, section#cts.main .l-grid._searchHotProduct img, asap stay)
-search.11st.co.kr##+js(ra, src, section#cts.main div[class="l-grid l-grid--nobg"] img, asap stay)
 search.11st.co.kr##+js(ra, src, section.search_section[data-log-actionid-area="plus"] img, asap stay)
 11st.co.kr##+js(ra, src, #rcmdPrd img, asap stay)
 11st.co.kr##+js(ra, src, .hotClick_wrap img, asap stay)

@@ -37,12 +37,12 @@ m.munhwa.com,buy.11st.co.kr,m.kmib.co.kr,m.clien.net##div[class*="_ad"]
 ! ##div[id*="Banner"]
 kin.naver.com##div[id*="Banner"]
 !
+search.11st.co.kr##section#cts.main ._SearchProductAd
 m.11st.co.kr###dtl01 #brandingBannerDiv
 m.11st.co.kr###productImgWrap ~ #hotclick-recm-container-top
 ohlitv.com##img[src^="/img/"][src$=".gif"]
 reurl.kr##a[onclick^="go_banner"]
 search.11st.co.kr##section#cts.main .l-grid._searchHotProduct
-search.11st.co.kr##section#cts.main div[class="l-grid l-grid--nobg"]
 search.11st.co.kr##section.search_section[data-log-actionid-area="plus"]
 11st.co.kr###rcmdPrd
 11st.co.kr##.hotClick_wrap
