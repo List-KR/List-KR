@@ -2,6 +2,8 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||cdn.khgames.co.kr/bannerpop/uploads/
+||cdn.khgames.co.kr/adManager/
 ||polinews.co.kr/data/banner/
 ||m.11st.co.kr/products/v1/mw/recommend/branding-banner/
 ||m.11st.co.kr/MW/api/app/elevenst/product/getProductHotClkRcmListJSON.tmall
