@@ -37,6 +37,7 @@ m.munhwa.com,buy.11st.co.kr,m.kmib.co.kr,m.clien.net##div[class*="_ad"]
 ! ##div[id*="Banner"]
 kin.naver.com##div[id*="Banner"]
 !
+tfreeca22.com##a[target="_blank"][href^="http://"]>img[border="0"]
 m.11st.co.kr##section#cts:not(.main) .ctg_loc ~ section#powerLink
 m.11st.co.kr##section#cts:not(.main) .ctg_loc ~ section#plusPrdArea
 m.11st.co.kr##section#cts:not(.main) .ctg_loc ~ section[style][id$="PrdSection"]
