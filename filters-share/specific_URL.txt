@@ -399,6 +399,12 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+||filetender.com/mobon.html|
+/^https:\/\/(www\.|)filetender\.com\/images\/[0-9]{3,}(X|x)[0-9]{3,}-[0-9]{4}/
+||filetender.com/images/*.gif
+/^https:\/\/(www\.|)tfreeca[0-9]{1,}\.com\/images\/[0-9]{3,}(X|x)[0-9]{3,}-[0-9]{4}/
+/^https:\/\/(www\.|)tfreeca[0-9]{1,}\.com\/ad\//
+||i.uuoobe.com/ad/
 /^https:\/\/booktoki[0-9]{3,4}\.com\/tokinbtoki\/[0-9]{2,}/
 ||hcdn1.maxsocdn.net^$domain=sogirl.so
 ||1.bp.blogspot.com^$domain=sogirl.so
