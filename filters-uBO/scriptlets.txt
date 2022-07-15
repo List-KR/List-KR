@@ -1,6 +1,7 @@
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
+filetender.com##+js(nostif, , 15000)
 fmkorea.com##+js(set, link_url, "")
 search.11st.co.kr##+js(set, searchDataFactory.bottomFocusPrdList, undefined)
 search.11st.co.kr##+js(set, searchDataFactory.focusPrdList, undefined)
