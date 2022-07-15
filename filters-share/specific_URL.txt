@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+/^(https|http):\/\/(www|)\.stockinfo7\.com\/img\/(banner\/|%E)/
 ||cdn.khgames.co.kr/bannerpop/uploads/
 ||cdn.khgames.co.kr/adManager/
 ||polinews.co.kr/data/banner/
