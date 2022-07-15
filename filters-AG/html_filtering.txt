@@ -1,3 +1,1 @@
-op.gg,etoland.co.kr,sports.donga.com,mlbpark.donga.com,ppss.kr,ygosu.com,inven.co.kr,tgd.kr$$ad-shield-inventory[tag-content="ad-shield-ads"]
-ppss.kr,ygosu.com,tgd.kr,inven.co.kr,loawa.com,feedclick.net,dailian.co.kr$$script[tag-content="Fingerprint"]
-ppss.kr,ygosu.com,tgd.kr,inven.co.kr,loawa.com,feedclick.net,dailian.co.kr$$script[tag-content="_0x51"]
+!
