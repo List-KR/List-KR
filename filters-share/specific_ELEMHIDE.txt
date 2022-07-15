@@ -593,6 +593,8 @@ www.naver.com##iframe[id^="da_iframe_"]
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 !
+uuoobe.com##td[valign="top"] ~ td[width][valign][bgcolor][align] table[width][height][border][cellpadding]
+uuoobe.com##table[width][cellspacing] td[valign="top"] table[width][border="0"] td[height="100"]
 tfreeca22.com,tfreeca23.com,tfreeca24.com,tfreeca25.com,tfreeca26.com,tfreeca27.com,tfreeca28.com,tfreeca29.com,tfreeca30.com,tfreeca31.com,tfreeca32.com,tfreeca33.com,filetender.com##a[target="_blank"][href^="http://"]>img[border="0"]
 filetender.com###banner
 filetender.com##iframe[src="https://filetender.com/mobon.html"]
