@@ -2,6 +2,8 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+/^https:\/\/static[0-9]\.e-himart\.co\.kr\/contents\/content\/display\/cornerContents\/imageBanner\/[0-9]{3}\/imageBanner_/
+||e-himart.co.kr/contents/content/display/special/
 /^(https|http):\/\/(www|)\.stockinfo7\.com\/img\/(banner\/|%E)/
 ||cdn.khgames.co.kr/bannerpop/uploads/
 ||cdn.khgames.co.kr/adManager/
