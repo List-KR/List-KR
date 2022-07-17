@@ -629,3 +629,4 @@ manatoki144.net,manatoki145.net,manatoki146.net,manatoki147.net,manatoki148.net,
 103.204.13.68##.product-banner
 103.204.13.68##div[class^="mobile-m ad720_"]
 hellven.net##a[href$="&utm_medium=hellven1&referer=internal_hellven_banner_hellven1"]
+casa21.me###topads1
