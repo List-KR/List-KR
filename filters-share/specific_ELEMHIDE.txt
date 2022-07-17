@@ -595,6 +595,8 @@ www.naver.com##iframe[id^="da_iframe_"]
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 !
+torrentsir62.com,torrentsir63.com,torrentsir64.com,torrentsir65.com,torrentsir66.com,torrentsir67.com,torrentsir68.com,torrentsir69.com,torrentsir70.com,torrentsir71.com,torrentsir72.com,torrentsir73.com,torrentsir74.com,torrentsir75.com##img[src*=".imgbox.com/"]
+torrentsir62.com,torrentsir63.com,torrentsir64.com,torrentsir65.com,torrentsir66.com,torrentsir67.com,torrentsir68.com,torrentsir69.com,torrentsir70.com,torrentsir71.com,torrentsir72.com,torrentsir73.com,torrentsir74.com,torrentsir75.com###hd_pop
 torrentreel96.top,torrentreel97.top,torrentreel98.top,torrentreel99.top,torrentreel100.top,torrentreel101.top,torrentreel102.top,torrentreel103.top,torrentreel104.top,torrentreel105.top,torrentreel106.top,torrentreel107.top,torrentreel108.top##div[class^="ad-"]
 torrentsee118.com,torrentsee119.com,torrentsee120.com,torrentsee121.com,torrentsee122.com,torrentsee123.com,torrentsee124.com,torrentsee125.com,torrentsee126.com,torrentsee127.com,torrentsee128.com,torrentsee129.com,torrentsee130.com##a[href^="/go/"][target="_blank"]
 zoazoa7.me,zoazoa8.me,zoazoa9.me,zoazoa10.me,zoazoa11.me,zoazoa12.me,zoazoa13.me,zoazoa14.me,zoazoa15.me,zoazoa16.me,zoazoa17.me,zoazoa18.me,zoazoa19.me##img[src^="imgad/"]
