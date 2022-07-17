@@ -402,6 +402,7 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+||imgbox.com^$domain=ktxtorrent48.com|ktxtorrent49.com|ktxtorrent50.com|ktxtorrent51.com|ktxtorrent52.com|ktxtorrent53.com|ktxtorrent54.com|ktxtorrent55.com|ktxtorrent56.com|ktxtorrent57.com|ktxtorrent58.com|ktxtorrent59.com|ktxtorrent60.com|ktxtorrent61.com
 /^https:\/\/torrentj[0-9]{1,}\.com\/img\/bannar[0-9]{1,}/
 ||static.filesbest.xyz^$domain=torrentsome46.com|torrentsome47.com|torrentsome48.com|torrentsome49.com|torrentsome50.com|torrentsome51.com|torrentsome52.com|torrentsome53.com|torrentsome54.com|torrentsome55.com|torrentsome56.com|torrentsome57.com|torrentsome58.com|torrentrj44.com|torrentrj45.com|torrentrj46.com|torrentrj47.com|torrentrj48.com|torrentrj49.com|torrentrj50.com|torrentrj51.com|torrentrj52.com|torrentrj53.com|torrentrj54.com|torrentrj55.com|torrentrj56.com|torrentrj57.com|torrentrj58.com
 ||imgbox.com^$domain=torrentj67.com|torrentj68.com|torrentj69.com|torrentj70.com|torrentj71.com|torrentj72.com|torrentj73.com|torrentj74.com|torrentj75.com|torrentj76.com|torrentj77.com|torrentj78.com|torrentj79.com|torrentj80.com|torrentsir62.com|torrentsir63.com|torrentsir64.com|torrentsir65.com|torrentsir66.com|torrentsir67.com|torrentsir68.com|torrentsir69.com|torrentsir70.com|torrentsir71.com|torrentsir72.com|torrentsir73.com|torrentsir74.com|torrentsir75.com
