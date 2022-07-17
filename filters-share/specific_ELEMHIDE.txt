@@ -595,6 +595,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 !
+zoazoa7.me,zoazoa8.me,zoazoa9.me,zoazoa10.me,zoazoa11.me,zoazoa12.me,zoazoa13.me,zoazoa14.me,zoazoa15.me,zoazoa16.me,zoazoa17.me,zoazoa18.me,zoazoa19.me##img[src^="imgad/"]
 casa21.me,casa22.me,casa23.me,casa24.me,casa25.me,casa26.me,casa27.me,casa28.me,casa29.me,casa30.me,casa31.me,casa32.me,casa33.me,casa34.me,casa35.me,casa36.me,casa37.me,casa38.me##div[id*="ads"]
 bobaelink14.xyz,bobaelink15.xyz,bobaelink16.xyz,bobaelink17.xyz,bobaelink18.xyz,bobaelink19.xyz,bobaelink20.xyz,bobaelink21.xyz,bobaelink22.xyz,bobaelink23.xyz,bobaelink24.xyz##a[href^="/ad-"]
 uuoobe.com##td[valign="top"] ~ td[width][valign][bgcolor][align] table[width][height][border][cellpadding]
