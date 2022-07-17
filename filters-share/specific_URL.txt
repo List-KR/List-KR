@@ -402,6 +402,7 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+||i.imgur.com^$domain=torrentjuju6.com|torrentjuju7.com|torrentjuju8.com|torrentjuju9.com|torrentjuju10.com|torrentjuju11.com|torrentjuju12.com|torrentjuju13.com|torrentjuju14.com|torrentjuju15.com|torrentjuju16.com|torrentjuju17.com|torrentjuju18.com
 ||i.imgur.com^$domain=torrentview63.com|torrentview64.com|torrentview65.com|torrentview66.com|torrentview67.com|torrentview68.com|torrentview69.com|torrentview70.com|torrentview71.com|torrentview72.com|torrentview73.com|torrentview74.com|torrentview75.com
 /^https:\/\/(www\.|)torrentreel[0-9]{1,}\.top\/ad\//
 /^https:\/\/(www\.|)tfreeca[0-9]{1,}\.top\/images\/[0-9]{3,}(X|x)[0-9]{3,}-[0-9]{4}/
