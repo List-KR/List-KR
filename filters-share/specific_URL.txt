@@ -402,6 +402,7 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+||static.filesbest.xyz^$domain=torrentrj44.com|torrentrj45.com|torrentrj46.com|torrentrj47.com|torrentrj48.com|torrentrj49.com|torrentrj50.com|torrentrj51.com|torrentrj52.com|torrentrj53.com|torrentrj54.com|torrentrj55.com|torrentrj56.com|torrentrj57.com|torrentrj58.com
 ||imgbox.com^$domain=torrentsir62.com|torrentsir63.com|torrentsir64.com|torrentsir65.com|torrentsir66.com|torrentsir67.com|torrentsir68.com|torrentsir69.com|torrentsir70.com|torrentsir71.com|torrentsir72.com|torrentsir73.com|torrentsir74.com|torrentsir75.com
 ||i.imgur.com^$domain=torrentjuju6.com|torrentjuju7.com|torrentjuju8.com|torrentjuju9.com|torrentjuju10.com|torrentjuju11.com|torrentjuju12.com|torrentjuju13.com|torrentjuju14.com|torrentjuju15.com|torrentjuju16.com|torrentjuju17.com|torrentjuju18.com
 ||i.imgur.com^$domain=torrentview63.com|torrentview64.com|torrentview65.com|torrentview66.com|torrentview67.com|torrentview68.com|torrentview69.com|torrentview70.com|torrentview71.com|torrentview72.com|torrentview73.com|torrentview74.com|torrentview75.com
