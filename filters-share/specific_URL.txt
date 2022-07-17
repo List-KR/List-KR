@@ -402,6 +402,8 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+/^https:\/\/(www\.|)tfreeca[0-9]{1,}\.top\/images\/[0-9]{3,}(X|x)[0-9]{3,}-[0-9]{4}/
+/^https:\/\/(www\.|)tfreeca[0-9]{1,}\.top\/ad\//
 /^https:\/\/torrentsee[0-9]{1,}\.com\/uploadfile\/[A-z0-9]{18,19}\.gif$/
 /^https:\/\/(www\.|)zoazoa[0-9]{1,}\.me\/imgad\//
 /^https:\/\/(www\.|)casa[0-9]{1,}\.me\/ad\//
