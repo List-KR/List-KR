@@ -402,6 +402,7 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+/^https:\/\/(www\.|)casa[0-9]{1,}\.me\/ad\//
 ||i.imgur.com^$domain=bobaelink14.xyz|bobaelink15.xyz|bobaelink16.xyz|bobaelink17.xyz|bobaelink18.xyz|bobaelink19.xyz|bobaelink20.xyz|bobaelink21.xyz|bobaelink22.xyz|bobaelink23.xyz|bobaelink24.xyz|bobaelink25.xyz
 ||filetender.com/mobon.html|
 /^https:\/\/(www\.|)filetender\.com\/images\/[0-9]{3,}(X|x)[0-9]{3,}-[0-9]{4}/
@@ -444,4 +445,3 @@
 ||wwwimageup.angle777899.com/other/atoona/
 ||hellven.net/data/apms/banner/
 ||hellven.net/data/apms/adver_photo/
-||casa*.me/ad/
