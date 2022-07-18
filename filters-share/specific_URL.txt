@@ -402,6 +402,7 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+||i.imgur.com^$domain=torrentq2.com|torrentq3.com|torrentq4.com|torrentq5.com|torrentq6.com|torrentq7.com|torrentq8.com|torrentq9.com|torrentq10.com|torrentq11.com|torrentq12.com|torrentq13.com|torrentq14.com|torrentq15.com|torrentq16.com|torrentq17.com
 /^https:\/\/torrentbot[0-9]{1,}\.com\/uploadfile\/up[a-z0-9]{1,}\.gif$/
 ||imgbox.com^$domain=ktxtorrent48.com|ktxtorrent49.com|ktxtorrent50.com|ktxtorrent51.com|ktxtorrent52.com|ktxtorrent53.com|ktxtorrent54.com|ktxtorrent55.com|ktxtorrent56.com|ktxtorrent57.com|ktxtorrent58.com|ktxtorrent59.com|ktxtorrent60.com|ktxtorrent61.com
 /^https:\/\/torrentj[0-9]{1,}\.com\/img\/bannar[0-9]{1,}/
