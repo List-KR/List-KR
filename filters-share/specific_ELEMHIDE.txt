@@ -595,6 +595,8 @@ www.naver.com##iframe[id^="da_iframe_"]
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 !
+torrentgram43.com,torrentgram44.com,torrentgram45.com,torrentgram46.com,torrentgram47.com,torrentgram48.com,torrentgram49.com,torrentgram50.com,torrentgram51.com,torrentgram52.com,torrentgram53.com,torrentgram54.com,torrentgram55.com,torrentgram56.com,torrentgram57.com,torrentgram58.com##.npia-board-gallery
+torrentgram43.com,torrentgram44.com,torrentgram45.com,torrentgram46.com,torrentgram47.com,torrentgram48.com,torrentgram49.com,torrentgram50.com,torrentgram51.com,torrentgram52.com,torrentgram53.com,torrentgram54.com,torrentgram55.com,torrentgram56.com,torrentgram57.com,torrentgram58.com###body_text > .at-main.at-col[style]
 torrentbam31.com,torrentbam32.com,torrentbam33.com,torrentbam34.com,torrentbam35.com,torrentbam36.com,torrentbam37.com,torrentbam38.com,torrentbam39.com,torrentbam40.com,torrentbam41.com,torrentbam42.com,torrentbam43.com,torrentbam44.com,torrentbam45.com,torrentbam46.com##a[href*="/ad/"][target="_blank"]
 torrentq2.com,torrentq3.com,torrentq4.com,torrentq5.com,torrentq6.com,torrentq7.com,torrentq8.com,torrentq9.com,torrentq10.com,torrentq11.com,torrentq12.com,torrentq13.com,torrentq14.com,torrentq15.com,torrentq16.com,torrentq17.com##div[id*="banner"]
 torrentbot40.com,torrentbot41.com,torrentbot42.com,torrentbot43.com,torrentbot44.com,torrentbot45.com,torrentbot46.com,torrentbot47.com,torrentbot48.com,torrentbot49.com,torrentbot50.com,torrentbot51.com,torrentbot52.com,torrentbot53.com##a[href^="/go/"][target="_blank"]
