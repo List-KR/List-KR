@@ -1,7 +1,7 @@
 ! ##+js(acis, document.addEventListener, /adscale_slot_id/)
 tistory.com,love.asdn.kr,avjamak.net,untitle.org,seo-marketing.co.kr##+js(acis, document.addEventListener, /adscale_slot_id/)
 ! ##+js(nostif, /\.displayMessage\(/)
-tistory.com,lover91.net,1412.rest,3dpchip.com##+js(nostif, /\.displayMessage\(/)
+iphonedev.co.kr,tistory.com,lover91.net,1412.rest,3dpchip.com##+js(nostif, /\.displayMessage\(/)
 ! BlockAdBlock
 shana.pe.kr,fafan.kr,tistory.com##+js(nobab)
 tistory.com##+js(nobab2)
