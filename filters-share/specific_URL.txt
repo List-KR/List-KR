@@ -402,6 +402,7 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+/^https:\/\/torrentlee[0-9]{1,}\.com\/data\/editor\/[0-9]{4}\/[0-9A-z_]{1,}\.gif$/
 /^https:\/\/dc\.filesbest\.xyz\/uploadfile\/images\/[a-z0-9]{1,}\.gif$/
 ||i.imgur.com^$domain=torrentwiz47.com|torrentwiz48.com|torrentwiz49.com|torrentwiz50.com|torrentwiz51.com|torrentwiz52.com|torrentwiz53.com|torrentwiz54.com|torrentwiz55.com|torrentwiz56.com|torrentwiz57.com|torrentwiz58.com|torrentwiz59.com|torrentwiz60.com|torrentwiz61.com
 /^https:\/\/torrentwiz[0-9]{1,}\.com\/data\/editor\/[0-9]{4}\//

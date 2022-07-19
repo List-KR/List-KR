@@ -21,6 +21,7 @@ m.ppomppu.co.kr#?#.community-board-notice-box > #bbs_inform:has(> ul > li span:c
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 !
+torrentlee37.com,torrentlee38.com,torrentlee39.com,torrentlee40.com,torrentlee41.com,torrentlee42.com,torrentlee43.com,torrentlee44.com,torrentlee45.com,torrentlee46.com,torrentlee47.com,torrentlee48.com,torrentlee49.com,torrentlee50.com,torrentlee51.com#?#.w-box:has(> div:contains(보증업체) ~ div img[src*="/data/editor/"][src$=".gif"])
 frtoon122.com,frtoon123.com,frtoon124.com,frtoon125.com,frtoon126.com,frtoon127.com,frtoon128.com,frtoon129.com,frtoon130.com,frtoon131.com,frtoon132.com,frtoon132.com,frtoon134.com#?#.alert-danger.container:contains([AD])
 hdhd146.net,hdhd147.net,hdhd148.net,hdhd149.net,hdhd150.net,hdhd151.net,hdhd152.net,hdhd153.net,hdhd154.net,hdhd155.net,hdhd156.net,hdhd157.net,hdhd158.net,hdhd159.net,hdhd160.net,hdhd161.net#?#.menu-ul > .menu-li:has(> a:contains(보증토토))
 blacktoon174.com,blacktoon178.com,blacktoon179.com,blacktoon180.com,blacktoon181.com,blacktoon182.com,blacktoon183.com,blacktoon184.com,blacktoon185.com,blacktoon186.com,blacktoon187.com,blacktoon188.com#?#.alert.alert-danger:has(> a:contains([AD]))
