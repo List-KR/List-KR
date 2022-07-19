@@ -595,6 +595,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 !
+torrentgram43.com,torrentgram44.com,torrentgram45.com,torrentgram46.com,torrentgram47.com,torrentgram48.com,torrentgram49.com,torrentgram50.com,torrentgram51.com,torrentgram52.com,torrentgram53.com,torrentgram54.com,torrentgram55.com,torrentgram56.com,torrentgram57.com,torrentgram58.com##.panel-default ~ .row > .col-sm-6
 torrentgram43.com,torrentgram44.com,torrentgram45.com,torrentgram46.com,torrentgram47.com,torrentgram48.com,torrentgram49.com,torrentgram50.com,torrentgram51.com,torrentgram52.com,torrentgram53.com,torrentgram54.com,torrentgram55.com,torrentgram56.com,torrentgram57.com,torrentgram58.com##.npia-board-gallery
 torrentgram43.com,torrentgram44.com,torrentgram45.com,torrentgram46.com,torrentgram47.com,torrentgram48.com,torrentgram49.com,torrentgram50.com,torrentgram51.com,torrentgram52.com,torrentgram53.com,torrentgram54.com,torrentgram55.com,torrentgram56.com,torrentgram57.com,torrentgram58.com###body_text > .at-main.at-col[style]
 torrentbam31.com,torrentbam32.com,torrentbam33.com,torrentbam34.com,torrentbam35.com,torrentbam36.com,torrentbam37.com,torrentbam38.com,torrentbam39.com,torrentbam40.com,torrentbam41.com,torrentbam42.com,torrentbam43.com,torrentbam44.com,torrentbam45.com,torrentbam46.com##a[href*="/ad/"][target="_blank"]
