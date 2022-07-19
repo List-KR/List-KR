@@ -402,6 +402,9 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+/^https:\/\/torpang[0-9]{1,}\.com\/thema\/Basic\/assets\/img\//
+||imgbox.com^$domain=torpang19.com|torpang20.com|torpang21.com|torpang22.com|torpang23.com|torpang24.com|torpang25.com|torpang26.com|torpang27.com|torpang28.com|torpang29.com|torpang30.com|torpang31.com|torpang32.com|torpang33.com|torpang34.com|torpang35.com|torpang36.com|torpang37.com|torpang38.com
+/^https:\/\/torpang[0-9]{1,}\.com\/data\/apms\/background\//
 ||i.imgur.com^$domain=torrentgram43.com|torrentgram44.com|torrentgram45.com|torrentgram46.com|torrentgram47.com|torrentgram48.com|torrentgram49.com|torrentgram50.com|torrentgram51.com|torrentgram52.com|torrentgram53.com|torrentgram54.com|torrentgram55.com|torrentgram56.com|torrentgram57.com|torrentgram58.com
 /^https:\/\/torrentlee[0-9]{1,}\.com\/data\/editor\/[0-9]{4}\/[0-9A-z_]{1,}\.gif$/
 /^https:\/\/dc\.filesbest\.xyz\/uploadfile\/images\/[a-z0-9]{1,}\.gif$/
