@@ -21,6 +21,7 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 ! AdGlare Ad Server
 x86.co.kr,luckyquiz3.blogspot.com#%#//scriptlet("abort-current-inline-script", "document.createElement", "hasAdblock")
 !
+meeco.kr#%#//scriptlet("abort-current-inline-script", "adsBlocked", ".adsbygoogle")
 stockinfo7.com#%#//scriptlet("prevent-setTimeout", "ad.innerHTML.replace")
 te31.com#@#.adsbygoogle
 ||fundingchoicesmessages.google.com^$domain=mksports.co.kr
