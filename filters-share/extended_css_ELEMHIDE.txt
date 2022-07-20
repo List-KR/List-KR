@@ -1,6 +1,7 @@
 ! Ad-Shield
 loawa.com#?##equip-info-modal:has(> .modal-dialog > .modal-content > .modal-body > button.close + button.float-right)
 !
+0db.co.kr#?#.wrap_body .clearBoth ~ div[class^="margin_bottom"]:not(:has(+ *))
 tipsandtrickskorea.com#?#div.article ~ aside#sidebar:has(.facebook_like:matches-css(display: none))
 search.11st.co.kr#?#section#cts.main div[class="l-grid l-grid--nobg"]:has(ul > li:not([class*="_common"]))
 m.11st.co.kr#?#article#puiWrap div[id^="carrier_"] li.swiper-slide:has(a[href^="https://ds.11st.co.kr/click/11st/11st_mobile/"][href*="?ads_id"])

@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+/https:\/\/(www|)\.0db\.co\.kr\/files\/attach\/images\/[0-9]{5}\/[a-z0-9]{32}\.jpg$/
 ||e-himart.co.kr/app/goods/getBannerAjax|
 /^https:\/\/static[0-9]\.e-himart\.co\.kr\/contents\/content\/display\/cornerContents\/imageBanner\/[0-9]{3}\/imageBanner_/
 ||e-himart.co.kr/contents/content/display/special/

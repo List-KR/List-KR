@@ -36,6 +36,8 @@ m.humoruniv.com##table[class^="ad_"]
 m.munhwa.com,buy.11st.co.kr,m.kmib.co.kr,m.clien.net##div[class*="_ad"]
 ! ##div[id*="Banner"]
 e-himart.co.kr,kin.naver.com##div[id*="Banner"]
+! ##div[class*="_AD"]
+0db.co.kr##div[class*="_AD"]
 !
 e-himart.co.kr##input ~ .searchRolling
 m.11st.co.kr##section#cts:not(.main) .ctg_loc ~ section.list_bx.hotclick
