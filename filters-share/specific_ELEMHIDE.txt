@@ -38,7 +38,10 @@ m.munhwa.com,buy.11st.co.kr,m.kmib.co.kr,m.clien.net##div[class*="_ad"]
 e-himart.co.kr,kin.naver.com##div[id*="Banner"]
 ! ##div[class*="_AD"]
 0db.co.kr##div[class*="_AD"]
+! ##section[class$="-ads"]
+soccerline.kr##section[class$="-ads"]
 !
+soccerline.kr##div[class$="Bann"]
 e-himart.co.kr##input ~ .searchRolling
 m.11st.co.kr##section#cts:not(.main) .ctg_loc ~ section.list_bx.hotclick
 m.11st.co.kr##section#cts:not(.main) .ctg_loc ~ section#powerLink
