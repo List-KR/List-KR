@@ -2,6 +2,8 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||i.incru.it/ui/static/image/common/banner/
+||i.incru.it/ui/static/image/edit/login_new_bn2_
 ||soccerline.kr/ads/
 /https:\/\/(www|)\.0db\.co\.kr\/files\/attach\/images\/[0-9]{5}\/[a-z0-9]{32}\.jpg$/
 ||e-himart.co.kr/app/goods/getBannerAjax|
