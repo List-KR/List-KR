@@ -1,6 +1,7 @@
 ! Ad-Shield
 loawa.com#?##equip-info-modal:has(> .modal-dialog > .modal-content > .modal-body > button.close + button.float-right)
 !
+www.incruit.com#?#.cPrdlists_wrap > .cPrdlists_rows:has(script[src*="//nvapi.feeldmc.com/"])
 coupang.com#?#li.search-product__ad-badge:remove()
 0db.co.kr#?#.wrap_body .clearBoth ~ div[class^="margin_bottom"]:not(:has(+ *))
 tipsandtrickskorea.com#?#div.article ~ aside#sidebar:has(.facebook_like:matches-css(display: none))
