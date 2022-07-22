@@ -107,7 +107,7 @@ edufindkorea.com###body_wrap > #body_main > div[style]:nth-child(2)
 junggi.co.kr##img[src^="/data/__banner/"]
 junggi.co.kr##img[src^="/image/banner/"]
 op.gg##header ~ div[class^="css-"] > div.search-contaienr ~ div[class^="css-"]
-www.danawa.com##.main__grid.main__grid--line .main__grid__right
+~search.danawa.com,~m.danawa.com,~prod.danawa.com,~dpg.danawa.com,danawa.com,www.danawa.com##.main__grid.main__grid--line .main__grid__right
 dpg.danawa.com##div[id*="_ad_"] ~ div[style^="min-height"]
 dpg.danawa.com##div[id*="-ad-"]
 news.naver.com,dpg.danawa.com##div[id*="_ad_"]
