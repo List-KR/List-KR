@@ -1,6 +1,7 @@
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
+inven.co.kr,~m.inven.co.kr##+js(set, INVEN.Ad, undefined)
 lover91.net##+js(nano-stb, count, , 0.001)
 filetender.com##+js(nostif, , 15000)
 fmkorea.com##+js(set, link_url, "")

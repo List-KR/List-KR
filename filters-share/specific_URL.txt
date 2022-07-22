@@ -2,6 +2,8 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||inven.co.kr/common/lib/style/ad.css
+||static.marketinven.com/data/brand/
 ||panel.co.kr/user/img/banner/
 ||meeco.kr/files/thumbnails/*/*/*/400x100.crop.jpg
 ||i.incru.it/ui/static/image/common/banner/

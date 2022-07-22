@@ -7,7 +7,7 @@ nocutnews.co.kr,news.sbs.co.kr,kyobobook.co.kr,mbiz.heraldcorp.com,m.star.mt.co.
 ! ##div[class^="ad-"]
 dpg.danawa.com,m.danawa.com,kimpga.com,youthassembly.kr,algumon.com,tvchak.com,dailysecu.com,hankyung.com,m.etnews.com,hani.co.kr,hankookilbo.com,newspim.com##div[class^="ad-"]
 ! ##.banner
-funshop.co.kr,m.sedaily.com,bloter.net,mosen.mt.co.kr,hinfomax.kr,hinfomax.co.kr,pressian.com,kukinews.com##.banner
+inven.co.kr,~m.inven.co.kr,funshop.co.kr,m.sedaily.com,bloter.net,mosen.mt.co.kr,hinfomax.kr,hinfomax.co.kr,pressian.com,kukinews.com##.banner
 ! ##div[class$="_banner"]
 order.kyobobook.co.kr,newstomato.com,newsen.com,toomics.com,m.ytn.co.kr,djtimes.co.kr,mdjournal.kr,zum.com,windowsforum.kr,dcnewsj.joins.com,berryjam.co.kr##div[class$="_banner"]
 ! ##div[class^="ad"]
@@ -43,6 +43,12 @@ soccerline.kr##section[class$="-ads"]
 ! ##div[class*="Banner"]
 edit.incruit.com##div[class*="Banner"]
 !
+www.inven.co.kr###commonpart_invenpc
+inven.co.kr,~m.inven.co.kr##.section_market_line
+inven.co.kr,~m.inven.co.kr###modRightBrandpage
+inven.co.kr,~m.inven.co.kr###inven_reservation_box
+inven.co.kr,~m.inven.co.kr##.commu-content div[style].sh-wrap
+inven.co.kr,~m.inven.co.kr##aside div[style]:not([class])
 tgd.kr###header-top-notice
 tgd.kr###main-menu div[style][align]
 hunnek.tistory.com##a[href^="https://www.panel.co.kr/user/join/etcpath/"]
