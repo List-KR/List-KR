@@ -21,13 +21,14 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 ! AdGlare Ad Server
 x86.co.kr,luckyquiz3.blogspot.com##+js(acis, document.createElement, hasAdblock)
 !
+||opgg-gnb.akamaized.net/static/images/banners/$redirect=1x1.gif
+@@||googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=op.gg
 meeco.kr##+js(acis, adsBlocked, .adsbygoogle)
 stockinfo7.com##+js(nostif, ad.innerHTML.replace)
 te31.com#@#.adsbygoogle
 ||fundingchoicesmessages.google.com^$domain=mksports.co.kr
 ||cdn.kollhong.com/wp-content/custom-js/fuckadblock.min.js
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=noop.js,domain=game.hotsharegames.com
-@@||googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=na.op.gg
 $script,redirect-rule=noop.js,domain=lover91.net
 ||www3.doubleclick.net/|$redirect=noop.txt,domain=blackkiwi.net
 ||googleads.g.doubleclick.net/pagead/ads?*&crui=$redirect=noop-1s.mp4,domain=laftel.net
