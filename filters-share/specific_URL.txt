@@ -406,6 +406,7 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+/^https:\/\/manamoa[0-9]{1,}\.com\/data\/apms\/background\//
 /^https:\/\/namedtoon[0-9]{1,}\.com\/Uploads\/\/images\/[0-9]{4}-[0-9]{2}-[0-9]{2}\/[a-z0-9]{13}/
 /^https:\/\/imgcloud[0-9]{2,}\.net\//$domain=fxfx134.com|fxfx135.com|fxfx136.com|fxfx137.com|fxfx138.com|fxfx139.com|fxfx140.com|fxfx141.com|fxfx142.com|fxfx143.com|fxfx144.com|fxfx145.com|fxfx146.com|fxfx147.com|fxfx148.com|fxfx149.com|fxfx150.com|fxfx151.com|fxfx152.com|fxfx153.com|fxfx154.com|fxfx155.com
 /^https:\/\/mkmk[0-9]{1,}\.link\/data\/file\/banner\//
