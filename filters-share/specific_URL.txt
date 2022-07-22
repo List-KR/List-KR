@@ -321,8 +321,7 @@
 ||pandalive.co.kr/code:pandatv/partner/banner/
 ||kmib.co.kr/images/main/bnr
 ||hani.co.kr/section-homepage/svc3/js/navtivead.js
-||seoul.co.kr/ad/*.php
-||seoul.co.kr/ad/*.html
+||seoul.co.kr/ad/
 ||realty.chosun.com/RealtyCommon/Promotion*.html
 ||monthly.chosun.com/common/inc/main_right_banner.asp
 ||monthly.chosun.com/images/banner/
