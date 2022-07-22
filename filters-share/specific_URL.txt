@@ -406,6 +406,7 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+/^https:\/\/(www\.|)race[0-9]{1,}\.xyz\/images\/spon\//
 /^https:\/\/imgcloud[0-9]{2,}\.net\//$domain=wtwt144.com|wtwt145.com|wtwt146.com|wtwt147.com|wtwt148.com|wtwt149.com|wtwt150.com|wtwt151.com|wtwt152.com|wtwt153.com|wtwt154.com|wtwt155.com|wtwt156.com|wtwt157.com|wtwt158.com|wtwt159.com|wtwt160.com|wtwt161.com|wtwt162.com|wtwt163.com|wtwt164.com|wtwt165.com
 /^https:\/\/torpang[0-9]{1,}\.com\/thema\/Basic\/assets\/img\//
 ||imgbox.com^$domain=torpang19.com|torpang20.com|torpang21.com|torpang22.com|torpang23.com|torpang24.com|torpang25.com|torpang26.com|torpang27.com|torpang28.com|torpang29.com|torpang30.com|torpang31.com|torpang32.com|torpang33.com|torpang34.com|torpang35.com|torpang36.com|torpang37.com|torpang38.com
