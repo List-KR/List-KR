@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||meeco.kr/files/thumbnails/*/*/*/400x100.crop.jpg
 ||i.incru.it/ui/static/image/common/banner/
 ||i.incru.it/ui/static/image/edit/login_new_bn2_
 ||soccerline.kr/ads/
