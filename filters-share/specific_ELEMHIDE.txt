@@ -43,6 +43,7 @@ soccerline.kr##section[class$="-ads"]
 ! ##div[class*="Banner"]
 edit.incruit.com##div[class*="Banner"]
 !
+hunnek.tistory.com##a[href^="https://www.panel.co.kr/user/join/etcpath/"]
 m.seoul.co.kr,m.nownews.seoul.co.kr###contentsBodyDiv > table[width]
 seoul.co.kr###articleContent > table[width][height][border]
 !#if (!adguard_ext_android_cb)
