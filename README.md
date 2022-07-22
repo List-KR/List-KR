@@ -26,7 +26,7 @@ https://github.com/List-KR/List-KR/raw/master/filter-uBO.txt
 ```
 **List-KR DNS**:
 ```
-https://github.com/List-KR/List-KR/raw/master/filter_DNS.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_25.txt
 ```
 <details>
 <summary>List-KR Experimental</summary>
