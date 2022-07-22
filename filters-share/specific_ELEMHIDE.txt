@@ -43,6 +43,9 @@ soccerline.kr##section[class$="-ads"]
 ! ##div[class*="Banner"]
 edit.incruit.com##div[class*="Banner"]
 !
+!#if (!adguard_ext_android_cb)
+lover91.net##.xe_content span ~ div[style]
+!#endif
 soccerline.kr##div[class$="Bann"]
 e-himart.co.kr##input ~ .searchRolling
 m.11st.co.kr##section#cts:not(.main) .ctg_loc ~ section.list_bx.hotclick

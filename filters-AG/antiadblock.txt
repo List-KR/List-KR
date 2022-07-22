@@ -28,7 +28,6 @@ te31.com#@#.adsbygoogle
 ||cdn.kollhong.com/wp-content/custom-js/fuckadblock.min.js
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=noopjs,domain=game.hotsharegames.com
 @@||googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=na.op.gg
-lover91.net#%#//scriptlet("abort-on-property-read", "open", "/(\/|a|d|b|l|o|c|k|[0-9]){7,}\.html/")
 $script,redirect-rule=noopjs,domain=lover91.net
 ||www3.doubleclick.net/|$redirect=nooptext,domain=blackkiwi.net
 ||googleads.g.doubleclick.net/pagead/ads?*&crui=$redirect=noopmp4-1s,domain=laftel.net
@@ -39,7 +38,6 @@ noonnu.cc#%#//scriptlet("abort-on-property-read", "localStorage.getItem", "adBlo
 uda1004.tistory.com,exey.io,ff14angler.com#@#ins.adsbygoogle
 webtv.dothome.co.kr,lover91.net#@#.adsbygoogle
 lover91.net#$#.modal { position: unset !important; }
-lover91.net#%#//scriptlet("abort-current-inline-script", "setTimeout", "/self\.close/")
 ||adblockanalytics.com^$xmlhttprequest,redirect=nooptext,domain=1412.rest
 ||1412.rest/addons/*/adblockDetector.js
 sajuplus.net##.adsense-alt

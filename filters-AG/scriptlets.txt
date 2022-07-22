@@ -1,6 +1,7 @@
 ! PopMagic
 watchfreejavonline.co#%#//scriptlet("abort-current-inline-script", "popMagic.init")
 !
+lover91.net#%#//scriptlet("adjust-setTimeout", "count", "*", "0.001")
 filetender.com#%#//scriptlet("prevent-setTimeout", "", "15000")
 fmkorea.com#%#//scriptlet("set-constant", "link_url", "")
 search.11st.co.kr#%#//scriptlet("set-constant", "searchDataFactory.bottomFocusPrdList", "undefined")
@@ -25,7 +26,6 @@ dpg.danawa.com#%#//scriptlet("abort-current-inline-script", "$", "myScript[myScr
 cultureland.co.kr#%#//scriptlet("abort-on-property-read", "checkCookie", "popup_AD")
 m.danawa.com#%#//scriptlet("set-constant", "DANAWA_MOBILE_AD_MANAGER", "emptyObj")
 naver.com#%#//scriptlet("set-constant", "getAdcrUrl", "")
-lover91.net#%#//scriptlet("abort-on-property-read", "goPage")
 humoruniv.com#%#//scriptlet("set-constant", "ch2", "noopFunc")
 humoruniv.com#%#//scriptlet("set-constant", "ch2_submit", "noopFunc")
 humoruniv.com#%#//scriptlet("set-constant", "ch4", "noopFunc")
@@ -40,6 +40,5 @@ pandora.tv#%#//scriptlet("set-constant", "isnoad_vod", "true")
 pandora.tv#%#//scriptlet("set-constant", "isnoad_banner", "true")
 search.11st.co.kr#%#//scriptlet("set-constant", "searchDataFactory.plusPrdList", "undefined")
 imbc.com#%#//scriptlet("set-constant", "vrixadsdk", "undefined")
-lover91.net#%#//scriptlet("set-constant", "app_domains", "emptyObj")
 ~coupang.com,~coupangcdn.com#%#//scriptlet("set-constant", "PartnersCoupang", "undefined")
 m.inven.co.kr#%#//scriptlet("set-constant", "MOBILE.Ad", "null")
