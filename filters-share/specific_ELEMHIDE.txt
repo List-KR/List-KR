@@ -23,7 +23,7 @@ item.gmarket.co.kr,toomics.com,nongmin.com,ilbe.com##div[class$="-banner"]
 ! ##div[class^="banner"]
 edit.incruit.com,signinssl.gmarket.co.kr,m.hungryapp.co.kr,m.edaily.co.kr,ichannela.com,m.news1.kr##div[class^="banner"]
 ! ##div[class$="-ad"]
-tipsandtrickskorea.com,gamemeca.com,yeongnam.com##div[class$="-ad"]
+m.inven.co.kr,tipsandtrickskorea.com,gamemeca.com,yeongnam.com##div[class$="-ad"]
 ! ##div[id^="ad"]
 newstomato.com,gamemeca.com,m.ohmynews.com,m.khan.co.kr,m.dcinside.com##div[id^="ad"]
 ! ##div[id^="AD"]
@@ -42,7 +42,12 @@ e-himart.co.kr,kin.naver.com##div[id*="Banner"]
 soccerline.kr##section[class$="-ads"]
 ! ##div[class*="Banner"]
 edit.incruit.com##div[class*="Banner"]
+! ##section[class*="-ad"]
+m.inven.co.kr##section[class*="-ad"]
 !
+m.inven.co.kr##section.mo-top-nav ~ div[class^="mobileDaNs"]
+m.inven.co.kr##section.mo-top-nav ~ div[style]:not([id])
+m.inven.co.kr##div[id^="mobileTailAd"]
 www.inven.co.kr###commonpart_invenpc
 inven.co.kr,~m.inven.co.kr##.section_market_line
 inven.co.kr,~m.inven.co.kr###modRightBrandpage
@@ -202,7 +207,7 @@ coolenjoy.net###sidebar > .tab
 quasarzone.com##div.right-util-area > .top-util-box,.bot-util-box
 m.bobaedream.co.kr##.wrap > div[style$="height:100px;"]:not([class])
 login.11st.co.kr##.login_banner
-quasarzone.com##[class^="banner-"]
+m.inven.co.kr,quasarzone.com##[class^="banner-"]
 m.edaily.co.kr##div[class$="_banners"]
 m.edaily.co.kr##.article_body > div[class]
 m.edaily.co.kr##.article_body > #innoramegbLodK
