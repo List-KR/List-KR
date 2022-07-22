@@ -43,6 +43,8 @@ soccerline.kr##section[class$="-ads"]
 ! ##div[class*="Banner"]
 edit.incruit.com##div[class*="Banner"]
 !
+tgd.kr###header-top-notice
+tgd.kr###main-menu div[style][align]
 hunnek.tistory.com##a[href^="https://www.panel.co.kr/user/join/etcpath/"]
 m.seoul.co.kr,m.nownews.seoul.co.kr###contentsBodyDiv > table[width]
 seoul.co.kr###articleContent > table[width][height][border]
@@ -203,7 +205,6 @@ edaily.co.kr###edailywrap > [style$="128px;"].special_area
 toomics.com##body.home #contents > .floating
 toomics.com##img[src*="://thumb.toomics.com/upload/banner/"]:not([src*="/main/"]):not([src*="/cut/"])
 inven.co.kr###topskyAd
-tgd.kr###board-upper-banner-area > a[href]
 coupang.com##li.search-product__ad-badge
 inews24.com##section > container > .ad
 hani.co.kr###laAdArea
