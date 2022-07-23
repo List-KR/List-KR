@@ -409,6 +409,7 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+/^https:\/\/www\.jinyi[0-9]{1,}\.me\/imgad\//
 /^https:\/\/www\.redsun[0-9]{1,}\.me\/ad\//
 /^https:\/\/manamoa[0-9]{1,}\.com\/data\/apms\/background\//
 /^https:\/\/namedtoon[0-9]{1,}\.com\/Uploads\/\/images\/[0-9]{4}-[0-9]{2}-[0-9]{2}\/[a-z0-9]{13}/
