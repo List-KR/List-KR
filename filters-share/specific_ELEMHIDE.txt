@@ -620,6 +620,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 !
+redsun22.me,redsun23.me,redsun24.me,redsun25.me,redsun26.me,redsun27.me,redsun28.me,redsun29.me,redsun30.me,redsun31.me,redsun32.me,redsun33.me,redsun34.me,redsun35.me,redsun36.me,redsun37.me,redsun38.me,redsun39.me,redsun40.me,redsun41.me,redsun42.me,redsun43.me,redsun44.me,redsun45.me,redsun46.me##div[id*="ads"]
 manamoa21.com,manamoa22.com,manamoa23.com,manamoa24.com,manamoa25.com,manamoa26.com,manamoa27.com,manamoa28.com,manamoa29.com,manamoa30.com,manamoa31.com,manamoa32.com,manamoa33.com,manamoa34.com,manamoa35.com,manamoa36.com,manamoa37.com,manamoa38.com,manamoa39.com,manamoa40.com,manamoa41.com##div[class*="banner"]
 mkmk26.link,mkmk27.link,mkmk28.link,mkmk29.link,mkmk30.link,mkmk31.link,mkmk32.link,mkmk33.link,mkmk34.link,mkmk35.link,mkmk36.link,mkmk37.link,mkmk38.link,mkmk39.link,mkmk40.link,mkmk41.link,mkmk42.link,mkmk43.link,mkmk44.link,mkmk45.link,mkmk46.link,mkmk47.link##div[class^="baner_"]
 wtwt144.com,wtwt145.com,wtwt146.com,wtwt147.com,wtwt148.com,wtwt149.com,wtwt150.com,wtwt151.com,wtwt152.com,wtwt153.com,wtwt154.com,wtwt155.com,wtwt156.com,wtwt157.com,wtwt158.com,wtwt159.com,wtwt160.com,wtwt161.com,wtwt162.com,wtwt163.com,wtwt164.com,wtwt165.com##.banner
