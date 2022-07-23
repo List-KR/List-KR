@@ -45,6 +45,8 @@ edit.incruit.com##div[class*="Banner"]
 ! ##section[class*="-ad"]
 m.inven.co.kr##section[class*="-ad"]
 !
+quasarzone.com##.mid-content-area .left-util-wrap .bot-util-area
+quasarzone.com##.bot-content-area .mid-util-wrap .right-util-area
 quasarzone.com###container .logo-area
 m.inven.co.kr##section.mo-top-nav ~ div[class^="mobileDaNs"]
 m.inven.co.kr##section.mo-top-nav ~ div[style]:not([id])
@@ -205,7 +207,6 @@ poro.gg###__layout > div:not([class]) > [class]:not(footer) > div[class]:not([sm
 mathbang.net##.sidebar_book
 thecall.co.kr##[class^="adsense"]
 coolenjoy.net###sidebar > .tab
-quasarzone.com##div.right-util-area > .top-util-box,.bot-util-box
 m.bobaedream.co.kr##.wrap > div[style$="height:100px;"]:not([class])
 login.11st.co.kr##.login_banner
 m.inven.co.kr,quasarzone.com##[class^="banner-"]

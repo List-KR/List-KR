@@ -1,3 +1,4 @@
+quasarzone.com#$#.bot-content-area .mid-util-wrap > div { width: calc(50% - 5px) !important; }
 m.inven.co.kr#$##mainSlider { padding-bottom: 0px !important; }
 tgd.kr#$##header-menu-left { border-right: none !important; }
 tgd.kr#$##header-menu-right { float: right !important; border-left: none !important; }
