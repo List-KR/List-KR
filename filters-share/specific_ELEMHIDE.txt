@@ -45,6 +45,7 @@ edit.incruit.com##div[class*="Banner"]
 ! ##section[class*="-ad"]
 m.inven.co.kr##section[class*="-ad"]
 !
+quasarzone.com###container .logo-area
 m.inven.co.kr##section.mo-top-nav ~ div[class^="mobileDaNs"]
 m.inven.co.kr##section.mo-top-nav ~ div[style]:not([id])
 m.inven.co.kr##div[id^="mobileTailAd"]
