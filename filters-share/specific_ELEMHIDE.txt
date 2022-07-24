@@ -45,6 +45,7 @@ edit.incruit.com##div[class*="Banner"]
 ! ##section[class*="-ad"]
 m.inven.co.kr##section[class*="-ad"]
 !
+lolchess.gg##.ap_top
 duo.op.gg##section[class=""] > div[class^="bg-gray"][class~="justify-center"]
 bada.io##div[id*="amazon_shopping"]
 quasarzone.com##div[class*="search-"] > .price-compare-srch
