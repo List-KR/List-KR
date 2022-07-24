@@ -1,6 +1,7 @@
 ! Ad-Shield
 loawa.com#?##equip-info-modal:has(> .modal-dialog > .modal-content > .modal-body > button.close + button.float-right)
 !
+namu.wiki#?#div[class*="senkawa"] div[class] > div[id]:not([class]):not(:has(> *))
 op.gg#?#div:not([id]):has(> div:not([class]):not([id]) > div[data-publisher-ref$="-ad"])
 m.inven.co.kr#?#.swiper-slide-active .part-visible-normal:has(img[src*="//static.marketinven.com/data/brand/"])
 www.incruit.com#?#.cPrdlists_wrap > .cPrdlists_rows:has(script[src*="//nvapi.feeldmc.com/"])
@@ -23,7 +24,6 @@ ygosu.com#?#table.bd_list tr:has(img[src^="/images/ico_ad_black.png?"])
 coocha.co.kr#?#.group-deal .list > div:has(span.ad:matches-css(background-image: /images\/deal\/ad\.png/))
 m.shopping.naver.com#?#content li[role="presentation"]:has(a[href*="://trendpick.shopping.naver.com/"])
 10000recipe.com#?#body .view_sp_banner .swipe-slide:has(img[src^="https://recipe1.ezmember.co.kr/cache/shop/"])
-namu.wiki#?#article div[class] > div[id]:not([class]):not(:has(> *))
 namu.wiki#?#div[class] > div[id]:not([class]):has(> iframe[id^="google_ads_"])
 browse.gmarket.co.kr#?##section__inner-content-body-container > div[module-design-id].box__module-wrap > .box__component:has(button[id^="buttonItemCardAdsLayer"][class="button__ads-layer"])
 browse.gmarket.co.kr#?##section__inner-content-body-container > div[module-design-id].box__module-wrap:has(> .box__component-bottom-da-banner)
