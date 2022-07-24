@@ -45,6 +45,7 @@ edit.incruit.com##div[class*="Banner"]
 ! ##section[class*="-ad"]
 m.inven.co.kr##section[class*="-ad"]
 !
+bada.io##div[id*="amazon_shopping"]
 quasarzone.com##div[class*="search-"] > .price-compare-srch
 quasarzone.com##.mid-content-area .left-util-wrap .bot-util-area
 quasarzone.com##.bot-content-area .mid-util-wrap .right-util-area
@@ -270,7 +271,7 @@ www.instiz.net##body > .hot_under
 www.instiz.net##span#menufoot > .hot_under
 m.joongna.com##article[class^="SearchList_listWrap"] + div
 www.naver.com##div[id^="veta_"]
-arca.live##div.ad
+bada.io,arca.live##div.ad
 news.jtbc.joins.com##div[id^="right_banner"]
 news.jtbc.joins.com###articlebody > div[style]:not([itemprop="articleBody"]).article_content
 ohmynews.com###div10Sticky

@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||backstage.bada.io/vueController/getAmazonProductCode|
 ||inven.co.kr/common/lib/style/ad.css
 ||static.marketinven.com/data/brand/
 ||panel.co.kr/user/img/banner/
