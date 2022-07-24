@@ -49,8 +49,11 @@ https://github.com/List-KR/List-KR/raw/master/filter-uBO-experimental.txt
 
 </details>
 
-## microShield and List-KR Extension
+## microShield and NamuLink
 - **[microShield](https://github.com/List-KR/microShield)** blocks complicated advertisement to block on website protected by ad-shield.
+- **[NamuLink](https://github.com/List-KR/NamuLink)** blocks license-abused PowerLink advertisement on NamuWiki.
+
+## List-KR Extension
 - **List-KR Extension** blocks low-quality user-made advertisement.
     ```
     https://github.com/List-KR/List-KR/raw/master/filter_Extension.txt
@@ -59,9 +62,6 @@ https://github.com/List-KR/List-KR/raw/master/filter-uBO-experimental.txt
 ## Support
 - [Create a GitHub Issue](https://github.com/List-KR/List-KR/issues/new/choose)
 - [Send an Email](https://github.com/List-KR/List-KR/issues/223)
-
-Looking for **namu.wiki** and **Ad-Shield** issue?
-Please visit [List-KR Issue](https://github.com/List-KR/List-KR/issues).
 
 ## How to contribute
 Please read CONTRIBUTING.md.
