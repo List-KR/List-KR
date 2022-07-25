@@ -2,6 +2,10 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||image.newsis.com/h_www/common/*_banner_
+||image.newsis.com/new_www/banner/
+||newsis.com/view/ad/
+||image.newsis.com/h_www/advertise/
 ||backstage.bada.io/vueController/getAmazonProductCode|
 ||inven.co.kr/common/lib/style/ad.css
 ||static.marketinven.com/data/brand/
