@@ -45,6 +45,7 @@ edit.incruit.com##div[class*="Banner"]
 ! ##section[class*="-ad"]
 m.inven.co.kr##section[class*="-ad"]
 !
+funissu.com##aside[id^="ai_widget-"]
 poro.gg##div[class^="flex"][class$="h-[250px]"]
 lolchess.gg##.ap_top
 duo.op.gg##section[class=""] > div[class^="bg-gray"][class~="justify-center"]
