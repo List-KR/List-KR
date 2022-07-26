@@ -273,7 +273,6 @@ sportalkorea.com##p[class^="ad_"]
 sportalkorea.com##div[class][data-ad][style]
 sportalkorea.com##div[id^="topAd"]
 ppomppu.co.kr##body .contents .container .topSub-nav
-humoruniv.com##script + div:not([id]) + div[id] div[id] > table
 prod.danawa.com###powerClickProductListArea
 ichannela.com##.sideArea > div[style]:not([class]):not([id])
 entertainpost.com##body > div[style]:not([class])
