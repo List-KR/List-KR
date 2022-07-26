@@ -414,6 +414,8 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+/^https:\/\/yagong[0-9]{1,}\.com\/storage\/upload\/banners\//
+/^https:\/\/yagong[0-9]{1,}\.com\/images\/[A-z0-9-]{1,}\.gif$/
 /^https:\/\/www\.xcity[0-9]{1,}\.me\/imgad\//
 /^https:\/\/www\.jinyi[0-9]{1,}\.me\/imgad\//
 /^https:\/\/www\.redsun[0-9]{1,}\.me\/ad\//
