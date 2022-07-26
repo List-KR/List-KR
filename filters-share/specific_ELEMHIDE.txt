@@ -45,6 +45,7 @@ edit.incruit.com##div[class*="Banner"]
 ! ##section[class*="-ad"]
 m.inven.co.kr##section[class*="-ad"]
 !
+megabox.co.kr##div[class*="-ad"]:not(.container):not([style])
 newsis.com##.articleView div[class^="botBox"]:not(.twinBox)
 newsis.com##.articleView + .aside .smallbox
 newsis.com##div[id][style~="height:100px;"]

@@ -1,3 +1,4 @@
+megabox.co.kr#$#header.main-header { top: 0px !important; }
 newsis.com#$#.articleView + .aside .asideBox.line { border-top: none !important; }
 quasarzone.com#$#.bot-content-area .mid-util-wrap > div { width: calc(50% - 5px) !important; }
 m.inven.co.kr#$##mainSlider { padding-bottom: 0px !important; }
