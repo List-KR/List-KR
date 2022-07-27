@@ -2,6 +2,8 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||boannews.com/images/event
+||boannews.com/media/include/*_banner.asp
 ||image.newsis.com/h_www/common/*_banner_
 ||image.newsis.com/new_www/banner/
 ||newsis.com/view/ad/
