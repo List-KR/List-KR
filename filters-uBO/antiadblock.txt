@@ -21,7 +21,7 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 ! AdGlare Ad Server
 x86.co.kr,luckyquiz3.blogspot.com##+js(acis, document.createElement, hasAdblock)
 !
-meeco.kr##+js(acis, $, .adsbygoogle)
+meeco.kr##+js(aeld, DOMContentLoaded, .adsbygoogle)
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=noop.txt,domain=spotvnow.co.kr
 ||opgg-gnb.akamaized.net/static/images/banners/$redirect=1x1.gif
 @@||googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=op.gg
