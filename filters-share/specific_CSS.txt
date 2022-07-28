@@ -1,4 +1,4 @@
-gyeomipang.co.kr#$##primary { width: 100% !important }
+googlewph.com,gyeomipang.co.kr#$##primary { width: 100% !important }
 www.ebs.co.kr#$#.ebs_item .inner > div[class] { width: 50% !important; }
 megabox.co.kr#$#header.main-header { top: 0px !important; }
 newsis.com#$#.articleView + .aside .asideBox.line { border-top: none !important; }
