@@ -11,9 +11,9 @@ funshop.co.kr,m.sedaily.com,bloter.net,mosen.mt.co.kr,hinfomax.kr,hinfomax.co.kr
 ! ##div[class$="_banner"]
 order.kyobobook.co.kr,newstomato.com,newsen.com,toomics.com,m.ytn.co.kr,djtimes.co.kr,mdjournal.kr,zum.com,windowsforum.kr,dcnewsj.joins.com,berryjam.co.kr##div[class$="_banner"]
 ! ##div[class^="ad"]
-newsis.com,search.danawa.com,ppomppu.co.kr,m.newsen.com,peterpanz.com,jwmx.tistory.com,thespike.co.kr,hobbyen.co.kr,socialvalue.kr,entertainpost.com,m.moneys.mt.co.kr,basketkorea.com,m.ohmynews.com,zdnet.co.kr,biz.heraldcorp.com,slrclub.com,sports.chosun.com##div[class^="ad"]
+www.ebs.co.kr,newsis.com,search.danawa.com,ppomppu.co.kr,m.newsen.com,peterpanz.com,jwmx.tistory.com,thespike.co.kr,hobbyen.co.kr,socialvalue.kr,entertainpost.com,m.moneys.mt.co.kr,basketkorea.com,m.ohmynews.com,zdnet.co.kr,biz.heraldcorp.com,slrclub.com,sports.chosun.com##div[class^="ad"]
 ! ##div[class^="banner_"]
-search.11st.co.kr,prod.danawa.com,auth.danawa.com,socialvalue.kr,news.jtbc.joins.com,etoland.co.kr,ajunews.com,mk.co.kr##div[class^="banner_"]
+www.ebs.co.kr,search.11st.co.kr,prod.danawa.com,auth.danawa.com,socialvalue.kr,news.jtbc.joins.com,etoland.co.kr,ajunews.com,mk.co.kr##div[class^="banner_"]
 ! ##div[class$="Banner"]
 hungryapp.co.kr,rhythmer.net##div[class$="Banner"]
 ! ##div[class$="banner"]
@@ -45,6 +45,9 @@ edit.incruit.com##div[class*="Banner"]
 ! ##section[class*="-ad"]
 m.inven.co.kr##section[class*="-ad"]
 !
+www.ebs.co.kr##div[class^="codad_ban"]
+www.ebs.co.kr##.evt_area
+www.ebs.co.kr##div[class$="_popup"]
 inven.co.kr,~m.inven.co.kr##div[id^="imid_"].banner
 boannews.com##div[style~="#D5D5D5;"][style~="border-bottom:1px"]
 boannews.com##div[id$="_bn_area"]
@@ -153,7 +156,7 @@ m.humoruniv.com##body > div[style^="margin:"]:not([class]):not([id]) > div[style
 thelec.kr##div[onclick^="wcs.event("]
 m.star.mt.co.kr###content > div[style^="background:"][class]
 m.humoruniv.com###comment > ul > div[id][style]
-m.nocutnews.co.kr,news.nate.com##div[class*="ad"]
+www.ebs.co.kr,m.nocutnews.co.kr,news.nate.com##div[class*="ad"]
 news.nate.com###newsSidebar > div[class$="AD"]
 news.nate.com###newsSidebar > div[id$="Banner"]
 m.nate.com###mainContainer #content  .ct2 > section ~ *
@@ -548,7 +551,7 @@ now.rememberapp.co.kr##.now_content_ads__wrapper
 m.ilbe.com##.banner-wrap
 clien.net###coupangAd
 ppomppu.co.kr##tr > td div.bridge
-search.kyobobook.co.kr,news.nate.com,boribori.co.kr##div[class*="_banner"]
+www.ebs.co.kr,search.kyobobook.co.kr,news.nate.com,boribori.co.kr##div[class*="_banner"]
 boribori.co.kr##.bFloatingBanner
 ondisk.co.kr##div[id^="wingBanner-"]
 enuri.com##ul#evt_banner
