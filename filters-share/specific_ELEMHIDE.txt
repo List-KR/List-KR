@@ -45,6 +45,7 @@ edit.incruit.com##div[class*="Banner"]
 ! ##section[class*="-ad"]
 m.inven.co.kr##section[class*="-ad"]
 !
+club.pdpop.com##div[id^="lftwing"]
 www.ebs.co.kr##div[class^="codad_ban"]
 www.ebs.co.kr##.evt_area
 www.ebs.co.kr##div[class$="_popup"]

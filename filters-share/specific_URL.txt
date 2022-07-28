@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||pdpop.com/images/images_re/banner/
 /^https:\/\/dvdprime\.com\/g2\/data\/cheditor[0-9]\/[0-9]{4}\/[0-9]{14}_[a-z]{8}\./
 ||boannews.com/images/event
 ||boannews.com/media/include/*_banner.asp
