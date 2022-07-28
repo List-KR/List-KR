@@ -418,6 +418,7 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+/^https:\/\/jgmoa[0-9]{1,}\.com\/upload_files\/banner\//
 /https:\/\/www\.sexzoa[0-9]{1,}\.me\/imgad\//
 /^https:\/\/yagong[0-9]{1,}\.com\/storage\/upload\/banners\//
 /^https:\/\/yagong[0-9]{1,}\.com\/images\/[A-z0-9-]{1,}\.gif$/
