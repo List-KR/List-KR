@@ -2,6 +2,8 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||ohmytaxi.cafe24.com/banner/
+||ohmytaxi.cafe24.com/img/spontitile.gif
 ||ggjil.com/happy_banner_scroll.php
 ||ggjil.com/master/banner/
 ||cadgraphics.co.kr/UPLOAD/board/
