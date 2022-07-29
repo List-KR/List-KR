@@ -2,6 +2,8 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||ggjil.com/happy_banner_scroll.php
+||ggjil.com/master/banner/
 ||cadgraphics.co.kr/UPLOAD/board/
 ||mt.co.kr/news/articleBanner/
 ||mt.co.kr/news/wingBanner/

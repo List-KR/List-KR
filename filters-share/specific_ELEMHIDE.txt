@@ -45,6 +45,7 @@ edit.incruit.com##div[class*="Banner"]
 ! ##section[class*="-ad"]
 m.inven.co.kr##section[class*="-ad"]
 !
+ggjil.com##iframe[id^="happy_banner_scroll_"]
 cadgraphics.co.kr##header > div[style].wrap
 googlewph.com,gyeomipang.co.kr###right-sidebar
 club.pdpop.com##div[id^="lftwing"]
