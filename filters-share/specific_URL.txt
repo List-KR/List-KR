@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||cadgraphics.co.kr/UPLOAD/board/
 ||mt.co.kr/news/articleBanner/
 ||mt.co.kr/news/wingBanner/
 ||pdpop.com/images/images_re/banner/
