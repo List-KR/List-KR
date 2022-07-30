@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||hompgo.synology.me/banner/
 ||gyeryongilbo.com/script/ad.control.js
 ||gyeryongilbo.com/script/banner.js
 ||gyeryongilbo.com/bannerManager/
@@ -180,7 +181,6 @@
 ||socialvalue.kr/support/_updata/banner
 ||tcafe2a.com/ad/
 ||tistory2.daumcdn.net/tistory/5193955/skin/images/cumpc.js
-||hompgo.synology.me/banner/$domain=youthassembly.kr
 ||happycampus.com/images/hcBanner/
 ||sportalkorea.com/ad_new/ad_close.png
 ||dcinside.com/_js/ad.js
