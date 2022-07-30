@@ -2,6 +2,9 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||pohangnews.co.kr/m_images/*_ban.
+||pohangnews.co.kr/phpads/
+||pohangnews.co.kr/banner/
 ||ohmytaxi.cafe24.com/banner/
 ||ohmytaxi.cafe24.com/img/spontitile.gif
 ||ggjil.com/happy_banner_scroll.php

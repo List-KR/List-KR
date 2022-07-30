@@ -1,6 +1,7 @@
 ! Ad-Shield
 loawa.com#?##equip-info-modal:has(> .modal-dialog > .modal-content > .modal-body > button.close + button.float-right)
 !
+pohangnews.co.kr#?#table td[valign][width] table > tbody > tr:not([bgcolor]) > td[height]:has(a[target="_blank"])
 ohmytaxinews.com#?#table[bgcolor][cellspacing] td[bgcolor] table[width][cellspacing]:not([bgcolor]):has(tr marquee#innovationGA)
 dvdprime.com#?##view_warning .relative:has(ins.adsbygoogle):not([class*="_content"])
 namu.wiki#?#div[class*="senkawa"] div[class] > div[id]:not([class]):not(:has(> *))
