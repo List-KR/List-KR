@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||sports.chosun.com/update/$image
 ||technoa.co.kr/bannerManager/
 ||pohangnews.co.kr/m_images/*_ban.
 ||pohangnews.co.kr/phpads/

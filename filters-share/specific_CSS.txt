@@ -1,3 +1,4 @@
+sports.chosun.com#$#div[style].row.no-gutters > .col-6 { max-width: 75% !important; flex-basis: 75% !important; }
 googlewph.com,gyeomipang.co.kr#$##primary { width: 100% !important }
 www.ebs.co.kr#$#.ebs_item .inner > div[class] { width: 50% !important; }
 megabox.co.kr#$#header.main-header { top: 0px !important; }
