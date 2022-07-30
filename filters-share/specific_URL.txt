@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||nursenews.co.kr/popup/
 ||gapyeongnow.kr/script/banner.js
 ||gapyeongnow.kr/bannerManager/
 ||ignnews.kr/bannerManager/
