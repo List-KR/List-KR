@@ -2,6 +2,9 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||gyeryongilbo.com/script/ad.control.js
+||gyeryongilbo.com/script/banner.js
+||gyeryongilbo.com/bannerManager/
 ||bgchang.co.kr/data/file/banner/
 ||bgchang.co.kr/news/img/*_banner.
 ||nursenews.co.kr/popup/
