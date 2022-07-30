@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||namwon.net/files/attach/banner_images/
 ||goseong114.com/img/
 ||goseong114.com/slide_*/index.html|
 ||hompgo.synology.me/banner/
