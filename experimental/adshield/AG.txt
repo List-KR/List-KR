@@ -30,7 +30,9 @@ $xmlhttprequest,redirect-rule=noopjs,domain=ppss.kr|ygosu.com|loawa.com|feedclic
 ppss.kr#$#a[href*="president.go.kr"] { pointer-events: none !important; }
 ppss.kr#$#a[href*="cartax.biz"] { pointer-events: none !important; }
 ! Elemhide
+
+! Scriptlets
+ppss.kr,ygosu.com,tgd.kr,inven.co.kr,loawa.com,feedclick.net,dailian.co.kr,algumon.com,sportalkorea.com#%#//scriptlet("prevent-addEventListener", "DOMContentLoaded", "_0x")
 ! HTML filtering
 op.gg,etoland.co.kr,sports.donga.com,mlbpark.donga.com,ppss.kr,ygosu.com,inven.co.kr,sportalkorea.com$$ad-shield-inventory[tag-content="ad-shield-ads"]
-ppss.kr,ygosu.com,inven.co.kr,loawa.com,feedclick.net,dailian.co.kr,sportalkorea.com$$script[tag-content="Fingerprint"]
-ppss.kr,ygosu.com,inven.co.kr,loawa.com,feedclick.net,dailian.co.kr,sportalkorea.com$$script[tag-content="_0x51"]
+ppss.kr,ygosu.com,inven.co.kr,loawa.com,feedclick.net,dailian.co.kr,sportalkorea.com$$script[tag-content="ad-shield"]
