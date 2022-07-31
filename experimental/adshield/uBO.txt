@@ -1,8 +1,8 @@
 ! Allow filters
 !#if env_chromium
-@@||static.dable.io/dist/plugin.min.js$xhr,domain=ygosu.com|feedclick.net|loawa.com|inven.co.kr|algumon.com|sportalkorea.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,domain=ygosu.com|inven.co.kr|sportalkorea.com
-@@||ad.doubleclick.net/ddm/adj/Bkne/Bdfs$xhr,domain=ppss.kr|ygosu.com|feedclick.net|loawa.com|inven.co.kr|algumon.com|sportalkorea.com
+@@||static.dable.io/dist/plugin.min.js$xhr,domain=ygosu.com|feedclick.net|loawa.com|algumon.com|sportalkorea.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xhr,domain=ygosu.com|sportalkorea.com
+@@||ad.doubleclick.net/ddm/adj/Bkne/Bdfs$xhr,domain=ppss.kr|ygosu.com|feedclick.net|loawa.com|algumon.com|sportalkorea.com
 !#endif
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/$script,domain=loawa.com|feedclick.net|ppss.kr|algumon.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xhr,domain=loawa.com|feedclick.net|ppss.kr|algumon.com
@@ -13,7 +13,7 @@
 @@||api.dable.io/plugin/services/ppss.kr/prefs2?$script,domain=ppss.kr
 @@||static.dable.io/dist/plugin.min.js$script,xhr,domain=ppss.kr
 @@||tab2.clickmon.co.kr/pop/$script,domain=ygosu.com
-@@$ghide,domain=ppss.kr|ygosu.com|feedclick.net|loawa.com|dailian.co.kr|inven.co.kr|sportalkorea.com
+@@$ghide,domain=ppss.kr|ygosu.com|feedclick.net|loawa.com|sportalkorea.com
 ! CSS
 ppss.kr#$#a[href*="president.go.kr"] { pointer-events: none !important; }
 ppss.kr#$#a[href*="cartax.biz"] { pointer-events: none !important; }
@@ -21,15 +21,15 @@ ppss.kr#$#a[href*="cartax.biz"] { pointer-events: none !important; }
 
 ! Redirect
 $image,redirect-rule=32x32.png,domain=ppss.kr
-$frame,redirect-rule=noopframe,domain=ppss.kr|ygosu.com|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr|algumon.com|sportalkorea.com
-$script,redirect-rule=noopjs,domain=ppss.kr|ygosu.com|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr|algumon.com|sportalkorea.com
-$image,redirect-rule=1x1.gif,domain=ygosu.com|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr|algumon.com|sportalkorea.com
-$xhr,redirect-rule=noopjs,domain=ppss.kr|ygosu.com|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr|algumon.com|sportalkorea.com
-/:\/\/[a-z\.]+\/[a-zA-Z\.\_]{1,30}\/[a-zA-Z\.\_]{1,30}\/[a-zA-Z0-9\.\_\/]+\.(eps|jar|pls|pict|xls|xlsx|mid|midi|avif|pdf|ps|webp|ppt|csv|doc|docx|tif|tiff|class|pptx)$/$doc,popup,inline-script,1p,domain=ppss.kr|ygosu.com|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr|algumon.com|sportalkorea.com
-/:\/\/[a-z\.]+\/[a-zA-Z0-9]{10,15}\.(eps|jar|pls|pict|xls|xlsx|mid|midi|avif|pdf|ps|webp|ppt|csv|doc|docx|tif|tiff|class|pptx)$/$doc,popup,inline-script,1p,domain=ppss.kr|ygosu.com|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr|algumon.com|sportalkorea.com
-/:\/\/[a-z\.]+\/[a-zA-Z\.\_]{1,15}\/[a-zA-Z0-9\.]{5,25}\.(eps|jar|pls|pict|xls|xlsx|mid|midi|avif|pdf|ps|webp|ppt|csv|doc|docx|tif|tiff|class|pptx)$/$doc,popup,inline-script,1p,domain=ppss.kr|ygosu.com|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr|algumon.com|sportalkorea.com
+$frame,redirect-rule=noopframe,domain=ppss.kr|ygosu.com|loawa.com|feedclick.net|algumon.com|sportalkorea.com
+$script,redirect-rule=noopjs,domain=ppss.kr|ygosu.com|loawa.com|feedclick.net|algumon.com|sportalkorea.com
+$image,redirect-rule=1x1.gif,domain=ygosu.com|loawa.com|feedclick.net|algumon.com|sportalkorea.com
+$xhr,redirect-rule=noopjs,domain=ppss.kr|ygosu.com|loawa.com|feedclick.net|algumon.com|sportalkorea.com
+/:\/\/[a-z\.]+\/[a-zA-Z\.\_]{1,30}\/[a-zA-Z\.\_]{1,30}\/[a-zA-Z0-9\.\_\/]+\.(eps|jar|pls|pict|xls|xlsx|mid|midi|avif|pdf|ps|webp|ppt|csv|doc|docx|tif|tiff|class|pptx)$/$doc,popup,inline-script,1p,domain=ppss.kr|ygosu.com|loawa.com|feedclick.net|algumon.com|sportalkorea.com
+/:\/\/[a-z\.]+\/[a-zA-Z0-9]{10,15}\.(eps|jar|pls|pict|xls|xlsx|mid|midi|avif|pdf|ps|webp|ppt|csv|doc|docx|tif|tiff|class|pptx)$/$doc,popup,inline-script,1p,domain=ppss.kr|ygosu.com|loawa.com|feedclick.net|algumon.com|sportalkorea.com
+/:\/\/[a-z\.]+\/[a-zA-Z\.\_]{1,15}\/[a-zA-Z0-9\.]{5,25}\.(eps|jar|pls|pict|xls|xlsx|mid|midi|avif|pdf|ps|webp|ppt|csv|doc|docx|tif|tiff|class|pptx)$/$doc,popup,inline-script,1p,domain=ppss.kr|ygosu.com|loawa.com|feedclick.net|algumon.com|sportalkorea.com
 ! Scriptlets
-ppss.kr,ygosu.com,tgd.kr,inven.co.kr,loawa.com,feedclick.net,dailian.co.kr,algumon.com,sportalkorea.com##+js(aeld, DOMContentLoaded, _0x)
+ppss.kr,ygosu.com,loawa.com,feedclick.net,algumon.com,sportalkorea.com##+js(aeld, DOMContentLoaded, _0x)
 ! HTML filtering
-op.gg,etoland.co.kr,sports.donga.com,mlbpark.donga.com,ppss.kr,ygosu.com,inven.co.kr,sportalkorea.com##^ad-shield-inventory
-ppss.kr,ygosu.com,tgd.kr,inven.co.kr,loawa.com,feedclick.net,dailian.co.kr,algumon.com,sportalkorea.com##^script:has-text(ad-shield)
+op.gg,etoland.co.kr,sports.donga.com,mlbpark.donga.com,ppss.kr,ygosu.com,sportalkorea.com##^ad-shield-inventory
+ppss.kr,ygosu.com,loawa.com,feedclick.net,algumon.com,sportalkorea.com##^script:has-text(ad-shield)
