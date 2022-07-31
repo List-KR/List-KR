@@ -29,7 +29,7 @@ $xhr,redirect-rule=noopjs,domain=ppss.kr|ygosu.com|loawa.com|feedclick.net|daili
 /:\/\/[a-z\.]+\/[a-zA-Z0-9]{10,15}\.(eps|jar|pls|pict|xls|xlsx|mid|midi|avif|pdf|ps|webp|ppt|csv|doc|docx|tif|tiff|class|pptx)$/$doc,popup,inline-script,1p,domain=ppss.kr|ygosu.com|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr|algumon.com|sportalkorea.com
 /:\/\/[a-z\.]+\/[a-zA-Z\.\_]{1,15}\/[a-zA-Z0-9\.]{5,25}\.(eps|jar|pls|pict|xls|xlsx|mid|midi|avif|pdf|ps|webp|ppt|csv|doc|docx|tif|tiff|class|pptx)$/$doc,popup,inline-script,1p,domain=ppss.kr|ygosu.com|loawa.com|feedclick.net|dailian.co.kr|inven.co.kr|algumon.com|sportalkorea.com
 ! Scriptlets
+ppss.kr,ygosu.com,tgd.kr,inven.co.kr,loawa.com,feedclick.net,dailian.co.kr,algumon.com,sportalkorea.com##+js(aeld, DOMContentLoaded, _0x)
 ! HTML filtering
 op.gg,etoland.co.kr,sports.donga.com,mlbpark.donga.com,ppss.kr,ygosu.com,inven.co.kr,sportalkorea.com##^ad-shield-inventory
-ppss.kr,ygosu.com,inven.co.kr,loawa.com,feedclick.net,dailian.co.kr,sportalkorea.com##^script:has-text(Fingerprint)
-ppss.kr,ygosu.com,inven.co.kr,loawa.com,feedclick.net,dailian.co.kr,sportalkorea.com##^script:has-text(_0x51)
+ppss.kr,ygosu.com,tgd.kr,inven.co.kr,loawa.com,feedclick.net,dailian.co.kr,algumon.com,sportalkorea.com##^script:has-text(ad-shield)
