@@ -299,7 +299,7 @@ www.instiz.net##body > .hot_under
 www.instiz.net##span#menufoot > .hot_under
 m.joongna.com##article[class^="SearchList_listWrap"] + div
 www.naver.com##div[id^="veta_"]
-bada.io,arca.live##div.ad
+mimint.co.kr,bada.io,arca.live##div.ad
 news.jtbc.joins.com##div[id^="right_banner"]
 news.jtbc.joins.com###articlebody > div[style]:not([itemprop="articleBody"]).article_content
 ohmynews.com###div10Sticky
