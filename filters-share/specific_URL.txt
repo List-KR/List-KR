@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||arca.live/external/callad
 ||noteforum.co.kr/file/_banner/
 ||susailbo.com/banner/
 ||esuwon.net/data/esuwon_net/banner/
@@ -399,7 +400,6 @@
 ||shop-redapi.daum.net/red-apigate/daumtop/
 ||jjang0u.com/banner_wrap
 ||arca.live/api/pagead
-||arca.live/external/callad?
 ||deapi.afreecatv.com/api/*/recommend/
 ||static.afreecatv.com/asset/service/ad/
 ||image.thebell.co.kr/banner/
