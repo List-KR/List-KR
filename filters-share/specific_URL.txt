@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||susailbo.com/banner/
 ||esuwon.net/data/esuwon_net/banner/
 ||cgeimage.commutil.kr/phpwas/restmb_allidxmake.php
 ||cgeimage.commutil.kr/smartfn_www/img/*/*_banner*.
