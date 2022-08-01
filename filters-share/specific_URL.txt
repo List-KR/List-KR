@@ -2,6 +2,8 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||cgeimage.commutil.kr/phpwas/restmb_allidxmake.php
+||cgeimage.commutil.kr/smartfn_www/img/*/*_banner*.
 ||db-times.com/banner/
 ||dailymedipharm.com/bannerManager/
 ||djmail.co.kr/data/intnews_net/banner/
