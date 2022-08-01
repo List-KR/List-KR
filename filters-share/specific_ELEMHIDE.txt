@@ -45,6 +45,7 @@ edit.incruit.com##div[class*="Banner"]
 ! ##section[class*="-ad"]
 m.inven.co.kr##section[class*="-ad"]
 !
+esuwon.net###r_aside center > div[class="bn"]
 smartfn.co.kr##.mt30 .con_rt > style + div[style]:not([class])
 smartfn.co.kr##div[class*="Ad"]
 miraetv.net##div[id*="-banner-"]
