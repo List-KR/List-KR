@@ -26,7 +26,6 @@ x86.co.kr,luckyquiz3.blogspot.com#%#//scriptlet("abort-current-inline-script", "
 !#endif
 meeco.kr#%#//scriptlet("abort-current-inline-script", "$", ".adsbygoogle")
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=nooptext,domain=spotvnow.co.kr
-||opgg-gnb.akamaized.net/static/images/banners/$redirect=1x1-transparent.gif
 @@||googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=op.gg
 stockinfo7.com#%#//scriptlet("prevent-setTimeout", "ad.innerHTML.replace")
 te31.com#@#.adsbygoogle

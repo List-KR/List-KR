@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||opgg-gnb.akamaized.net/static/images/banners/$image
 ||k-today.com/bannerManager/
 ||k-today.com/script/banner.js
 ||ybcmediagroup.com/banner/
@@ -280,7 +281,6 @@
 ||sisain.co.kr/adManager/css/adManager.css
 ||sisain.co.kr/bannerpop/uploads/
 ||cdn.bizwatch.co.kr/ads/
-||opgg-gnb.akamaized.net/static/images/banners/
 ||op.gg/scripts/ga.js
 ||rhythmer.net/common/js/Banner.js
 ||koreapas.com/bbs/data/
