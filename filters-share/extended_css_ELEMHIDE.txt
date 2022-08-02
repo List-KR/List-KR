@@ -1,6 +1,7 @@
 ! Ad-Shield
 loawa.com#?##equip-info-modal:has(> .modal-dialog > .modal-content > .modal-body > button.close + button.float-right)
 !
+dak.gg#?#main[class^="py-"] div[class]:has(> div[id^="div-gpt-ad-"])
 noteforum.co.kr#?#table[style][width][cellspacing][cellpadding] tr[valign] > td[style]:has(img[src^="/file/_banner/"])
 sports.chosun.com#?#.popular-news-widget:has(> *:matches-css(display: none))
 pohangnews.co.kr#?#table td[valign][width] table > tbody > tr:not([bgcolor]) > td[height]:has(a[target="_blank"])
