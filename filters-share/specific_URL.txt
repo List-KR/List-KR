@@ -2,6 +2,8 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||k-today.com/bannerManager/
+||k-today.com/script/banner.js
 ||ybcmediagroup.com/banner/
 ||ourtoday.co.kr/data/banner/
 ||wonjutoday.co.kr/script/ad.control.js
