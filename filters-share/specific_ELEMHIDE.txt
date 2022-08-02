@@ -651,6 +651,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 !
+agit519.xyz,agit520.xyz,agit521.xyz,agit522.xyz,agit523.xyz,agit524.xyz,agit525.xyz,agit526.xyz,agit527.xyz,agit528.xyz,agit529.xyz,agit530.xyz,agit531.xyz,agit532.xyz,agit533.xyz,agit534.xyz,agit535.xyz,agit536.xyz,agit537.xyz,agit538.xyz,agit539.xyz,agit540.xyz,agit541.xyz,agit542.xyz,agit543.xyz##.banner
 yagong40.com,yagong41.com,yagong42.com,yagong43.com,yagong44.com,yagong45.com,yagong46.com,yagong47.com,yagong48.com,yagong49.com,yagong50.com,yagong51.com,yagong52.com,yagong53.com,yagong54.com,yagong55.com,yagong56.com,yagong57.com,yagong58.com,yagong59.com,yagong60.com,yagong61.com,yagong62.com##div[x-data="popups()"]
 redsun22.me,redsun23.me,redsun24.me,redsun25.me,redsun26.me,redsun27.me,redsun28.me,redsun29.me,redsun30.me,redsun31.me,redsun32.me,redsun33.me,redsun34.me,redsun35.me,redsun36.me,redsun37.me,redsun38.me,redsun39.me,redsun40.me,redsun41.me,redsun42.me,redsun43.me,redsun44.me,redsun45.me,redsun46.me##div[id*="ads"]
 manamoa21.com,manamoa22.com,manamoa23.com,manamoa24.com,manamoa25.com,manamoa26.com,manamoa27.com,manamoa28.com,manamoa29.com,manamoa30.com,manamoa31.com,manamoa32.com,manamoa33.com,manamoa34.com,manamoa35.com,manamoa36.com,manamoa37.com,manamoa38.com,manamoa39.com,manamoa40.com,manamoa41.com##div[class*="banner"]
