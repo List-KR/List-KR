@@ -1,3 +1,4 @@
+modoodoc.com#$#div[class~="hospital-images-box"] ~ .row > .col-8 { max-width: 100% !important; flex: none !important; }
 noteforum.co.kr#$#table[style][width][cellspacing][cellpadding] tr[valign] > td[style] > div[style] { width: 100% !important; }
 miraetv.net#$#.gdl-page-item { width: 100% !important; }
 sports.chosun.com#$#div[style].row.no-gutters > .col-6 { max-width: 75% !important; flex-basis: 75% !important; }

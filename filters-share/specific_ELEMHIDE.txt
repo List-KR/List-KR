@@ -45,6 +45,8 @@ edit.incruit.com##div[class*="Banner"]
 ! ##section[class*="-ad"]
 m.inven.co.kr##section[class*="-ad"]
 !
+modoodoc.com##a[id^="ad-"]
+modoodoc.com##div[class~="hospital-images-box"] ~ .row > .col-4
 namu.wiki##iframe[src*="//arca.live/external/callad"]
 noteforum.co.kr##table[width][cellspacing][cellpadding][border] tr:not([height]) > td[width]:not([id]) ~ td[id]
 esuwon.net###r_aside center > div[class="bn"]
