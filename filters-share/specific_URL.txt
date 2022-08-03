@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||ytn.co.kr/img/banner/
 ||d23zwvh2kbhdec.cloudfront.net/media/public/sale/
 ||opgg-gnb.akamaized.net/static/images/banners/$image
 ||k-today.com/bannerManager/
