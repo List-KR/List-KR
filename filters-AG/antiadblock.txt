@@ -20,12 +20,13 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 ||tv.kakao.com/embed/player/image/ads.png$redirect=32x32-transparent.png,domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
 ! AdGlare Ad Server
 x86.co.kr,luckyquiz3.blogspot.com#%#//scriptlet("abort-current-inline-script", "document.createElement", "hasAdblock")
+! meeco.kr
+meeco.kr#$#.xe_content { opacity: 1 !important; }
+meeco.kr#%#//scriptlet("abort-current-inline-script", "$", ".adsbygoogle")
 !
-meeco.kr#%#//scriptlet("prevent-setTimeout", "$('.adsbygoogle')")
 !#if (adguard_app_ios || adguard_ext_safari)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=1412.rest
 !#endif
-meeco.kr#%#//scriptlet("abort-current-inline-script", "$", ".adsbygoogle")
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=nooptext,domain=spotvnow.co.kr
 @@||googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=op.gg
 stockinfo7.com#%#//scriptlet("prevent-setTimeout", "ad.innerHTML.replace")
