@@ -2,6 +2,8 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||ycehn.net/bannerManager/
+||ycehn.net/popupManagerVer2/
 ||osannews.net/data/osannews_net/banner/
 ||ytn.co.kr/img/banner/
 ||d23zwvh2kbhdec.cloudfront.net/media/public/sale/
