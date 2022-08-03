@@ -1,3 +1,4 @@
+hankyung.com#$#.article ~ aside > .aside-inner { bottom: 25% !important; }
 modoodoc.com#$#div[class~="hospital-images-box"] ~ .row > .col-8 { max-width: 100% !important; flex: none !important; }
 noteforum.co.kr#$#table[style][width][cellspacing][cellpadding] tr[valign] > td[style] > div[style] { width: 100% !important; }
 miraetv.net#$#.gdl-page-item { width: 100% !important; }
@@ -60,5 +61,4 @@ web.humoruniv.com#$##wrap_ctgr_new { width: 100%!important; }
 quasarzone.com#$#div#con-body { padding-top: 60px!important; }
 etoland.co.kr#$#.list_content { width: 100%!important; }
 ppomppu.co.kr#$#.top-keyword { width: 100%!important; }
-hankyung.com#$#.module_wrap.poll { width: 100%!important; }
 orbi.kr#$#.global-top { top: 0px!important; }

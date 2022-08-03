@@ -66,7 +66,7 @@ www.ebs.co.kr##div[class$="_popup"]
 inven.co.kr,~m.inven.co.kr##div[id^="imid_"].banner
 boannews.com##div[style~="#D5D5D5;"][style~="border-bottom:1px"]
 boannews.com##div[id$="_bn_area"]
-megabox.co.kr##div[class*="-ad"]:not(.container):not([style])
+hankyung.com,megabox.co.kr##div[class*="-ad"]:not(.container):not([style])
 newsis.com##.articleView div[class^="botBox"]:not(.twinBox)
 newsis.com##.articleView + .aside .smallbox
 newsis.com##div[id][style~="height:100px;"]
@@ -636,10 +636,6 @@ m.dcinside.com##ul.all-comment-lst > li.comment:not(li[id^="comment_cnt_"])
 m.dcinside.com##div[class^="adv-group"]
 dcinside.com##div[class^="rightbanner"]
 dcinside.com##ul.cmt_list > li[id^="comment_li_"].ub-content.dory
-hankyung.com##.ad_img
-hankyung.com##.articlebanner
-hankyung.com##.inner_aside > .asidemodule.info_time
-hankyung.com##.ad_top
 orbi.kr##div.panel.class-event-wrap
 orbi.kr##a[href^="https://ads.orbi.kr/"]
 osen.mt.co.kr##div#close_mask
