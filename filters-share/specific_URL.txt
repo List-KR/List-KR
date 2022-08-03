@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||fs.jtbc.co.kr/home/img/banner/
 ||yonhapnewsi.com/n_news/nad/
 ||yhinews.com/cms_images/banner/
 ||ycehn.net/bannerManager/
@@ -218,7 +219,6 @@
 ||image.ichannela.com/images/common/shinhan_
 ||entertainpost.com/wp/wp-content/uploads/newPS/ad/
 ||entertainpost.com/wp/wp-content/uploads/newPS/css/sub/right_ad.css
-||fs.jtbc.joins.com/home/img/banner/
 ||res.afreecatv.com/script/da/af_da_block.js
 ||res.afreecatv.com/script/da/ad_check.js
 ||ojsfile.ohmynews.com/BBS_ADM_FILE/

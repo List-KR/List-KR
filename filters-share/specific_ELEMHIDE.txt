@@ -3,7 +3,7 @@ dvdprime.com,news.nate.com,m.nate.com,www.nate.com,m.edaily.co.kr,hani.co.kr,m.s
 ! ##div[class$="_ad"]
 kyobobook.co.kr,news.naver.com,news.daum.net,instiz.net,asiae.co.kr,ohmynews.com,seoul.co.kr,dmitory.com,itcm.co.kr,clien.net,busan.com##div[class$="_ad"]
 ! ##div[class^="ad_"]
-dvdprime.com,nocutnews.co.kr,news.sbs.co.kr,kyobobook.co.kr,mbiz.heraldcorp.com,m.star.mt.co.kr,m.humoruniv.com,xportsnews.com,etnews.com,sedaily.com,m.danawa.com,sportalkorea.com,news.jtbc.joins.com,ohmynews.com,hankyung.com,news1.kr,web.humoruniv.com,m.etnews.com,itempage3.auction.co.kr,asiae.co.kr,khan.co.kr,avjamak.net,kmib.co.kr,mlbpark.donga.com,search.naver.com,prod.danawa.com,news.v.daum.net,joongang.co.kr,ruliweb.com##div[class^="ad_"]
+dvdprime.com,nocutnews.co.kr,news.sbs.co.kr,kyobobook.co.kr,mbiz.heraldcorp.com,m.star.mt.co.kr,m.humoruniv.com,xportsnews.com,etnews.com,sedaily.com,m.danawa.com,sportalkorea.com,news.jtbc.co.kr,ohmynews.com,hankyung.com,news1.kr,web.humoruniv.com,m.etnews.com,itempage3.auction.co.kr,asiae.co.kr,khan.co.kr,avjamak.net,kmib.co.kr,mlbpark.donga.com,search.naver.com,prod.danawa.com,news.v.daum.net,joongang.co.kr,ruliweb.com##div[class^="ad_"]
 ! ##div[class^="ad-"]
 police112.co.kr,dpg.danawa.com,m.danawa.com,kimpga.com,youthassembly.kr,algumon.com,tvchak.com,dailysecu.com,hankyung.com,m.etnews.com,hani.co.kr,hankookilbo.com,newspim.com##div[class^="ad-"]
 ! ##.banner
@@ -13,7 +13,7 @@ order.kyobobook.co.kr,newstomato.com,newsen.com,toomics.com,m.ytn.co.kr,djtimes.
 ! ##div[class^="ad"]
 ytn.co.kr,www.ebs.co.kr,newsis.com,search.danawa.com,ppomppu.co.kr,m.newsen.com,peterpanz.com,jwmx.tistory.com,thespike.co.kr,hobbyen.co.kr,socialvalue.kr,entertainpost.com,m.moneys.mt.co.kr,basketkorea.com,m.ohmynews.com,zdnet.co.kr,biz.heraldcorp.com,slrclub.com##div[class^="ad"]
 ! ##div[class^="banner_"]
-www.ebs.co.kr,search.11st.co.kr,prod.danawa.com,auth.danawa.com,socialvalue.kr,news.jtbc.joins.com,etoland.co.kr,ajunews.com,mk.co.kr##div[class^="banner_"]
+www.ebs.co.kr,search.11st.co.kr,prod.danawa.com,auth.danawa.com,socialvalue.kr,news.jtbc.co.kr,etoland.co.kr,ajunews.com,mk.co.kr##div[class^="banner_"]
 ! ##div[class$="Banner"]
 hungryapp.co.kr,rhythmer.net##div[class$="Banner"]
 ! ##div[class$="banner"]
@@ -45,6 +45,8 @@ edit.incruit.com##div[class*="Banner"]
 ! ##section[class*="-ad"]
 m.inven.co.kr##section[class*="-ad"]
 !
+news.jtbc.co.kr##div[id^="right_banner"]
+news.jtbc.co.kr###articlebody > div[style]:not([itemprop="articleBody"]).article_content
 modoodoc.com##a[id^="ad-"]
 modoodoc.com##div[class~="hospital-images-box"] ~ .row > .col-4
 namu.wiki##iframe[src*="//arca.live/external/callad"]
@@ -303,8 +305,6 @@ www.instiz.net##span#menufoot > .hot_under
 m.joongna.com##article[class^="SearchList_listWrap"] + div
 www.naver.com##div[id^="veta_"]
 mimint.co.kr,bada.io,arca.live##div.ad
-news.jtbc.joins.com##div[id^="right_banner"]
-news.jtbc.joins.com###articlebody > div[style]:not([itemprop="articleBody"]).article_content
 ohmynews.com###div10Sticky
 ohmynews.com##div[class^="AD-"]
 ohmynews.com##div[class^="new_ad"]
