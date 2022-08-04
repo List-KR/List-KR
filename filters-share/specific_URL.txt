@@ -2,6 +2,8 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||hn-morning.com/banner/
+||hn-morning.com/event/popup.php3
 ||cast.imp.joins.com/bid/
 ||fs.jtbc.co.kr/home/img/banner/
 ||yonhapnewsi.com/n_news/nad/
