@@ -11,6 +11,7 @@ te31.com,tistory.com##+js(aopr, adBlockDetected)
 ! ai_front anti-adblock
 jootc.com,ehpub.co.kr##+js(acis, ai_run_scripts)
 ! Kakao TV
+/kakaotv/monet/*/embed/player/image/ads.png$redirect=2x2.png,domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
 ||videoads.kakao.com/adserver/api/v2/vmap$redirect=noop-vmap1.0.xml,domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
 tv.kakao.com,play-tv.kakao.com,kakaotv.daum.net##+js(no-fetch-if, /^https.\/\/videoads\.kakao\.com\/adserver\/api\/v[0-9]{1,2}\/vmap$/)
 ||kakaotv.daum.net/embed/player/image/ads.png$redirect=32x32.png,domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
