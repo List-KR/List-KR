@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||areyou.co.kr/bannerManager/
 ||hn-morning.com/banner/
 ||hn-morning.com/event/popup.php3
 ||cast.imp.joins.com/bid/
