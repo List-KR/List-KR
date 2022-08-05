@@ -15,7 +15,6 @@ jootc.com,ehpub.co.kr#%#//scriptlet("abort-current-inline-script", "ai_run_scrip
 @@/embed/player/image/ads.png$domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
 !#endif
 /embed/player/image/ads.png$redirect=2x2-transparent.png,domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
-||videoads.kakao.com/adserver/api/v2/vmap$redirect=noopvmap-1.0,domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
 tv.kakao.com,play-tv.kakao.com,kakaotv.daum.net#%#//scriptlet("prevent-fetch", "/^https.\/\/videoads\.kakao\.com\/adserver\/api\/v[0-9]{1,2}\/vmap$/")
 kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#ins.kakao_ad_area
 kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@##adBlockPixelTag
