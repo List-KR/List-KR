@@ -3,7 +3,7 @@ tistory.com,love.asdn.kr,avjamak.net,untitle.org,seo-marketing.co.kr#%#//scriptl
 ! #%#//scriptlet("prevent-setTimeout", "/\.displayMessage\(/")
 iphonedev.co.kr,tistory.com,lover91.net,1412.rest,3dpchip.com#%#//scriptlet("prevent-setTimeout", "/\.displayMessage\(/")
 ! BlockAdBlock
-svrforum.com,shana.pe.kr,fafan.kr,tistory.com#%#//scriptlet("prevent-bab")
+blog.dalso.org,svrforum.com,shana.pe.kr,fafan.kr,tistory.com#%#//scriptlet("prevent-bab")
 ! FuckAdBlock
 te31.com,tistory.com#%#//scriptlet("prevent-fab-3.2.0")
 te31.com,tistory.com#%#//scriptlet("abort-on-property-read", "adBlockDetected")
