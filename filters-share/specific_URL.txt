@@ -2,6 +2,9 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||ombudsmannews.com/data/designImages/BANNER_
+/http(s|):\/\/www\.ombudsmannews\.com\/default\/image\/[a-z]{1,}\.gif/
+||mediaindex.co.kr/DABanner.php
 ||kpja.kr/PEG/banner/
 ||kpja.kr/rankup_module/rankup_banner
 ||kpja.kr/template/rankup_module/rankup_banner/
