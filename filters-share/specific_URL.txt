@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||daebusinmun.com/data/ansanj_com/banner/
 ||ibjnews.kr/modules//banner/
 ||anewsa.com/master/banner/
 ||kcilbo.com/gears/banner_pds/
