@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||jjang0u.com/js/jjang_banner.js
 /http(s|):\/\/www\.ajl\.co\.kr\/[0-9A-z_]{1,}\./
 ||sjtoday.kr/upload/userfiles/
 ||areyou.co.kr/bannerManager/
