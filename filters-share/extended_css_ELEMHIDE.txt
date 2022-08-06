@@ -1,6 +1,7 @@
 ! Ad-Shield
 loawa.com#?##equip-info-modal:has(> .modal-dialog > .modal-content > .modal-body > button.close + button.float-right)
 !
+namu.wiki#?#div[class*="senkawa"] div[class] > div:has(> div[class] > iframe[src*="//arca.live/external/callad"])
 cocstorage.com#?#div[class^="css-"]:has(> ins.adsbygoogle)
 modoodoc.com#?#div:not([class$="-mobile"]) > div[class]:has(> [class*="_ad_"]):not([data-review-count])
 dak.gg#?#main[class^="py-"] div[class]:has(> div[id^="div-gpt-ad-"])
