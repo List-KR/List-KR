@@ -1,6 +1,7 @@
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
+cfnews.kr##+js(acis, window.open, /gears/popup/default.aspx)
 sjtoday.kr##+js(acis, window.open, notice_view_html.php)
 inven.co.kr,~m.inven.co.kr##+js(set, INVEN.Ad, undefined)
 lover91.net##+js(nano-stb, count, , 0.001)
