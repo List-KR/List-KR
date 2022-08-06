@@ -289,7 +289,7 @@ gmarket.co.kr##.box__head-ad
 inews24.com,joynews24.com##container[style~="width:100%;"][style~="position:relative;"]
 youthassembly.kr##.w_article > div[style]:not([id]):not([class]):not([align])
 youthassembly.kr##div[itemprop="articleBody"].main_text > div[style]:not([id]):not([class]):not([align])
-hungryapp.co.kr,usjournal.kr,socialvalue.kr,happycampus.com##div[id^="banner"]
+kpja.kr,hungryapp.co.kr,usjournal.kr,socialvalue.kr,happycampus.com##div[id^="banner"]
 happycampus.com##div[id^="power_link_"]
 sportalkorea.com###Contents > #sideBox > div[style]
 sportalkorea.com##p[class^="ad_"]
