@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||kcilbo.com/gears/banner_pds/
 ||interfootball.co.kr/adManager/
 ||interfootball.co.kr/bannerpop/uploads/
 ||jjang0u.com/js/jjang_banner.js
