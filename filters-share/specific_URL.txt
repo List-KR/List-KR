@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||usnews.co.kr/bannerManager/
 ||ombudsmannews.com/data/designImages/BANNER_
 /http(s|):\/\/www\.ombudsmannews\.com\/default\/image\/[a-z]{1,}\.gif/
 ||mediaindex.co.kr/DABanner.php
