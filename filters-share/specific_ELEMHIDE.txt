@@ -11,7 +11,7 @@ ajl.co.kr,yhinews.com,funshop.co.kr,m.sedaily.com,bloter.net,mosen.mt.co.kr,hinf
 ! ##div[class$="_banner"]
 order.kyobobook.co.kr,newstomato.com,newsen.com,toomics.com,m.ytn.co.kr,djtimes.co.kr,mdjournal.kr,zum.com,windowsforum.kr,dcnewsj.joins.com,berryjam.co.kr##div[class$="_banner"]
 ! ##div[class^="ad"]
-maple.gg,ytn.co.kr,www.ebs.co.kr,newsis.com,search.danawa.com,ppomppu.co.kr,m.newsen.com,peterpanz.com,jwmx.tistory.com,thespike.co.kr,hobbyen.co.kr,socialvalue.kr,entertainpost.com,m.moneys.mt.co.kr,basketkorea.com,m.ohmynews.com,zdnet.co.kr,biz.heraldcorp.com,slrclub.com##div[class^="ad"]
+m.fmkorea.com,maple.gg,ytn.co.kr,www.ebs.co.kr,newsis.com,search.danawa.com,ppomppu.co.kr,m.newsen.com,peterpanz.com,jwmx.tistory.com,thespike.co.kr,hobbyen.co.kr,socialvalue.kr,entertainpost.com,m.moneys.mt.co.kr,basketkorea.com,m.ohmynews.com,zdnet.co.kr,biz.heraldcorp.com,slrclub.com##div[class^="ad"]
 ! ##div[class^="banner_"]
 newspic.kr,www.ebs.co.kr,search.11st.co.kr,prod.danawa.com,auth.danawa.com,socialvalue.kr,news.jtbc.co.kr,etoland.co.kr,ajunews.com,mk.co.kr##div[class^="banner_"]
 ! ##div[class$="Banner"]
@@ -25,7 +25,7 @@ bgchang.co.kr,edit.incruit.com,signinssl.gmarket.co.kr,m.hungryapp.co.kr,m.edail
 ! ##div[class$="-ad"]
 m.inven.co.kr,tipsandtrickskorea.com,gamemeca.com,yeongnam.com##div[class$="-ad"]
 ! ##div[id^="ad"]
-newstomato.com,gamemeca.com,m.ohmynews.com,m.khan.co.kr,m.dcinside.com##div[id^="ad"]
+fmkorea.com,newstomato.com,gamemeca.com,m.ohmynews.com,m.khan.co.kr,m.dcinside.com##div[id^="ad"]
 ! ##div[id^="AD"]
 mediatoday.co.kr,newsworker.co.kr##div[id^="AD"]
 ! ##div[class^="Banner"]
@@ -133,7 +133,6 @@ aagag.com##.la
 m.nocutnews.co.kr###pnlContainer .con_b >.ct_box:not([style])
 m.munhwa.com###news_content > div[style]
 fmkorea.com###sidebar div[style^="height:"]:not(.li)
-fmkorea.com##.adpost
 te31.com##table.adsbygoogle ~ table #honey > div[style^="background-color:"]:not([class])
 te31.com###contentmemo ~ .adsbygoogle > div[style^="background-color:"]
 te31.com###menu_right.adsbygoogle
@@ -636,7 +635,6 @@ dcinside.com##ul.cmt_list > li[id^="comment_li_"].ub-content.dory
 orbi.kr##div.panel.class-event-wrap
 orbi.kr##a[href^="https://ads.orbi.kr/"]
 osen.mt.co.kr##div#close_mask
-fmkorea.com###adpost
 www.naver.com##div.column_fix_wrap > div#shopcast
 www.naver.com###contents_productAd
 www.naver.com##iframe[id^="da_iframe_"]
