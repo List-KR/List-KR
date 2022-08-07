@@ -2,6 +2,8 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||lol.ps/file/lol-ps/static/js/ad_script.js
+||lol.ps/file/lol-ps/static/img/topbanner/
 ||cfnews.kr/gears/banner_pds/
 ||usnews.co.kr/bannerManager/
 ||ombudsmannews.com/data/designImages/BANNER_

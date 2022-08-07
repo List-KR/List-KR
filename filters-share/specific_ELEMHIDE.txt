@@ -638,7 +638,6 @@ orbi.kr##a[href^="https://ads.orbi.kr/"]
 osen.mt.co.kr##div#close_mask
 fmkorea.com###adpost
 www.naver.com##div.column_fix_wrap > div#shopcast
-lol.ps##.ad-banner_wide
 www.naver.com###contents_productAd
 www.naver.com##iframe[id^="da_iframe_"]
 !
