@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+/^https:\/\/etoland\.co\.kr\/data\/daumeditor10\/[0-9]{6}\/[0-9]{17}\.png$/
 ||lol.ps/file/lol-ps/static/js/ad_script.js
 ||lol.ps/file/lol-ps/static/img/topbanner/
 ||cfnews.kr/gears/banner_pds/
@@ -348,7 +349,6 @@
 ||newstof.com/bannerpop/uploads/
 ||cdn.newsmc.net/adManager/css/adManager.css
 ||cdn.newsmc.net/bannerpop/uploads/
-||etoland.co.kr/img/squidland_banner_
 ||humoruniv.com/js/adpost_adsense.js
 ||zdnet.co.kr/template_ad/
 ||shopapi.interpark.com/advertisement/*.json
