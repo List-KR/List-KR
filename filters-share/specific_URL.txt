@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||maxsocdn.net/images/$domain=kr1.4kjav.co
 ||jejusori.net/adManager/
 ||jejusori.net/bannerpop/uploads/
 /^https:\/\/etoland\.co\.kr\/data\/daumeditor10\/[0-9]{6}\/[0-9]{17}\.png$/

@@ -24,6 +24,12 @@ x86.co.kr,luckyquiz3.blogspot.com#%#//scriptlet("abort-current-inline-script", "
 ! meeco.kr
 meeco.kr#$#.xe_content { opacity: 1 !important; }
 meeco.kr#%#//scriptlet("abort-current-inline-script", "$", ".adsbygoogle")
+! adde_modal_detector
+!#if (adguard_app_ios)
+kr1.4kjav.co##.adde_modal_detector
+kr1.4kjav.co##.adde_modal-overlay
+!#endif
+kr1.4kjav.co#%#//scriptlet("abort-on-property-read", "adsBlocked")
 !
 !#if (adguard_app_ios || adguard_ext_safari)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=1412.rest
