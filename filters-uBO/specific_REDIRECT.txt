@@ -1,3 +1,5 @@
+||bigkinds.or.kr/resources/files/banner/$redirect=2x2.png
+||bigkinds.or.kr/assets/*/img/content/*banner$redirect=2x2.png
 ||ds.11st.co.kr/NetInsight/text/11st/11st_product/product@$redirect=noop.html
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$redirect=googlesyndication_adsbygoogle.js
 ||amazon-adsystem.com/aax2/apstag.js$script,redirect=amazon_apstag.js

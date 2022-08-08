@@ -15,11 +15,11 @@ m.fmkorea.com,maple.gg,ytn.co.kr,www.ebs.co.kr,newsis.com,search.danawa.com,ppom
 ! ##div[class^="banner_"]
 newspic.kr,www.ebs.co.kr,search.11st.co.kr,prod.danawa.com,auth.danawa.com,socialvalue.kr,news.jtbc.co.kr,etoland.co.kr,ajunews.com,mk.co.kr##div[class^="banner_"]
 ! ##div[class$="Banner"]
-hungryapp.co.kr,rhythmer.net##div[class$="Banner"]
+bigkinds.or.kr,hungryapp.co.kr,rhythmer.net##div[class$="Banner"]
 ! ##div[class$="banner"]
 sports.chosun.com,dcinside.com##div[class$="banner"]
 ! ##div[class$="-banner"]
-item.gmarket.co.kr,toomics.com,nongmin.com,ilbe.com##div[class$="-banner"]
+bigkinds.or.kr,item.gmarket.co.kr,toomics.com,nongmin.com,ilbe.com##div[class$="-banner"]
 ! ##div[class^="banner"]
 bgchang.co.kr,edit.incruit.com,signinssl.gmarket.co.kr,m.hungryapp.co.kr,m.edaily.co.kr,ichannela.com,m.news1.kr##div[class^="banner"]
 ! ##div[class$="-ad"]
@@ -45,6 +45,7 @@ edit.incruit.com##div[class*="Banner"]
 ! ##section[class*="-ad"]
 m.inven.co.kr##section[class*="-ad"]
 !
+bigkinds.or.kr##.news-cont ~ .news-special
 etoland.co.kr##a[href] > img[src*="./data/daumeditor10/"]
 news.jtbc.co.kr##div[id^="right_banner"]
 news.jtbc.co.kr###articlebody > div[style]:not([itemprop="articleBody"]).article_content
