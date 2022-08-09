@@ -1,6 +1,7 @@
 ! Ad-Shield
 loawa.com#?##equip-info-modal:has(> .modal-dialog > .modal-content > .modal-body > button.close + button.float-right)
 !
+m.nocutnews.co.kr#?#div[class$="con_b"]:has(> *:matches-css(display: none))
 namu.wiki#?#div[class*="senkawa"] div[class] ~ div[class] div:matches-css(padding-bottom: /^[0-9]{2}/):has(iframe[src*="//arca.live/external/callad"])
 op.gg#?#div:not([class]) + div[class^="css-"]:has(div[data-format="isvideo"])
 etoland.co.kr#?#tbody > tr:has(> td > img[src*="/img/adland01.gif"])

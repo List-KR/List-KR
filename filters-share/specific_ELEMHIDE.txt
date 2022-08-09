@@ -1,7 +1,7 @@
 ! ##div[id^="ad_"]
 dvdprime.com,news.nate.com,m.nate.com,www.nate.com,m.edaily.co.kr,hani.co.kr,m.sedaily.com,m.thisisgame.com,planet-times.com,m.10000recipe.com,pandora.tv,mobile.newsis.com,zdnet.co.kr,fnnews.com,land.hankyung.com,mania.kr,mosen.mt.co.kr,ruliweb.com##div[id^="ad_"]
 ! ##div[class$="_ad"]
-kyobobook.co.kr,news.naver.com,news.daum.net,instiz.net,asiae.co.kr,ohmynews.com,seoul.co.kr,dmitory.com,itcm.co.kr,clien.net,busan.com##div[class$="_ad"]
+m.nocutnews.co.kr,kyobobook.co.kr,news.naver.com,news.daum.net,instiz.net,asiae.co.kr,ohmynews.com,seoul.co.kr,dmitory.com,itcm.co.kr,clien.net,busan.com##div[class$="_ad"]
 ! ##div[class^="ad_"]
 m.cafe.naver.com,dvdprime.com,nocutnews.co.kr,news.sbs.co.kr,kyobobook.co.kr,mbiz.heraldcorp.com,m.star.mt.co.kr,m.humoruniv.com,xportsnews.com,etnews.com,sedaily.com,m.danawa.com,sportalkorea.com,news.jtbc.co.kr,ohmynews.com,hankyung.com,news1.kr,web.humoruniv.com,m.etnews.com,itempage3.auction.co.kr,asiae.co.kr,khan.co.kr,avjamak.net,kmib.co.kr,mlbpark.donga.com,search.naver.com,prod.danawa.com,news.v.daum.net,joongang.co.kr,ruliweb.com##div[class^="ad_"]
 ! ##div[class^="ad-"]
@@ -47,6 +47,7 @@ m.inven.co.kr##section[class*="-ad"]
 ! ##div[id*="-ad"]
 m.hani.co.kr##div[id*="-ad"]
 !
+m.nocutnews.co.kr##.section div[class$="con_b"][style]
 kr1.4kjav.co##a[href][target="_blank"] > img[src*="maxsocdn.net/images/"]
 bigkinds.or.kr##.news-cont ~ .news-special
 etoland.co.kr##a[href] > img[src*="./data/daumeditor10/"]
