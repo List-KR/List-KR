@@ -44,6 +44,8 @@ soccerline.kr##section[class$="-ads"]
 edit.incruit.com##div[class*="Banner"]
 ! ##section[class*="-ad"]
 m.inven.co.kr##section[class*="-ad"]
+! ##div[id*="-ad"]
+m.hani.co.kr##div[id*="-ad"]
 !
 kr1.4kjav.co##a[href][target="_blank"] > img[src*="maxsocdn.net/images/"]
 bigkinds.or.kr##.news-cont ~ .news-special
