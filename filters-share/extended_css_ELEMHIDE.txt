@@ -1,6 +1,7 @@
 ! Ad-Shield
 loawa.com#?##equip-info-modal:has(> .modal-dialog > .modal-content > .modal-body > button.close + button.float-right)
 !
+op.gg#?#div:not([class]) + div[class^="css-"]:has(div[data-format="isvideo"])
 etoland.co.kr#?#tbody > tr:has(> td > img[src*="/img/adland01.gif"])
 namu.wiki#?#div[class*="senkawa"] div[class] > div:has(> div[class] > iframe[src*="//arca.live/external/callad"])
 cocstorage.com#?#div[class^="css-"]:has(> ins.adsbygoogle)
