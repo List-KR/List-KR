@@ -12,8 +12,10 @@ te31.com,tistory.com#%#//scriptlet("abort-on-property-read", "adBlockDetected")
 jootc.com,ehpub.co.kr#%#//scriptlet("abort-current-inline-script", "ai_run_scripts")
 ! Kakao TV
 !#if (adguard_app_ios || adguard_ext_safari)
+@@||videoads.kakao.com/adserver/api/v*/vmap|$domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
 @@/embed/player/image/ads.png$domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
 !#endif
+tv.kakao.com,play-tv.kakao.com,kakaotv.daum.net#%#//scriptlet("prevent-xhr", "/^https.\/\/videoads\.kakao\.com\/adserver\/api\/v[0-9]{1,2}\/vmap$/")
 /embed/player/image/ads.png$redirect=2x2-transparent.png,domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
 tv.kakao.com,play-tv.kakao.com,kakaotv.daum.net#%#//scriptlet("prevent-fetch", "/^https.\/\/videoads\.kakao\.com\/adserver\/api\/v[0-9]{1,2}\/vmap$/")
 kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#ins.kakao_ad_area
