@@ -51,6 +51,7 @@ m.seoul.co.kr##div[id*="Ad"]
 ! ##div[class*="ad_"]
 paxnet.co.kr##div[class*="ad_"]
 !
+star.mt.co.kr###wrap > div[style^="overflow:"][style$="background:#ddd;"]
 op.gg##.vm-placement
 m.nocutnews.co.kr##.section div[class$="con_b"][style]
 kr1.4kjav.co##a[href][target="_blank"] > img[src*="maxsocdn.net/images/"]
@@ -314,7 +315,7 @@ www.instiz.net##body > .hot_under
 www.instiz.net##span#menufoot > .hot_under
 m.joongna.com##article[class^="SearchList_listWrap"] + div
 www.naver.com##div[id^="veta_"]
-mimint.co.kr,bada.io,arca.live##div.ad
+star.mt.co.kr,mimint.co.kr,bada.io,arca.live##div.ad
 ohmynews.com###div10Sticky
 ohmynews.com##div[class^="AD-"]
 ohmynews.com##div[class^="new_ad"]
