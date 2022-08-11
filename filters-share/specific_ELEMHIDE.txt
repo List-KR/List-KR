@@ -46,6 +46,8 @@ edit.incruit.com##div[class*="Banner"]
 m.inven.co.kr##section[class*="-ad"]
 ! ##div[id*="-ad"]
 m.hani.co.kr##div[id*="-ad"]
+! ##div[id*="Ad"]
+m.seoul.co.kr##div[id*="Ad"]
 !
 op.gg##.vm-placement
 m.nocutnews.co.kr##.section div[class$="con_b"][style]
