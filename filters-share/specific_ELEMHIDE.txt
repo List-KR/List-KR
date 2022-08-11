@@ -47,6 +47,7 @@ m.inven.co.kr##section[class*="-ad"]
 ! ##div[id*="-ad"]
 m.hani.co.kr##div[id*="-ad"]
 !
+op.gg##.vm-placement
 m.nocutnews.co.kr##.section div[class$="con_b"][style]
 kr1.4kjav.co##a[href][target="_blank"] > img[src*="maxsocdn.net/images/"]
 bigkinds.or.kr##.news-cont ~ .news-special

@@ -1,3 +1,4 @@
+op.gg#$##content-header form.FormItem { width: 100% !important; }
 bigkinds.or.kr#$#.news-cate + .news-box { padding-right: 0px !important; }
 hankyung.com#$#.article ~ aside > .aside-inner { bottom: 25% !important; }
 modoodoc.com#$#div[class~="hospital-images-box"] ~ .row > .col-8 { max-width: 100% !important; flex: none !important; }
