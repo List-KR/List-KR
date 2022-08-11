@@ -2,6 +2,9 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||paxnet.co.kr/banner/
+||image.paxnet.co.kr/rpan/common/js/mobile_ad.js
+||paxnet.co.kr/common/*BannerAjax|
 ||sisajournal.com/bannerpop/uploads/
 ||maxsocdn.net/images/$domain=kr1.4kjav.co
 ||jejusori.net/adManager/

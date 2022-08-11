@@ -1,3 +1,7 @@
+paxnet.co.kr#$#html[class*="pc-size"] .m-contents > .side-area > div:nth-child(-n+4) { top: auto !important; left: auto !important; }
+paxnet.co.kr#$#html[class*="pc-size"] .m-contents > .side-area > .analysis-ranking1 { top: 475px !important; left: auto !important; width: 100% !important; }
+paxnet.co.kr#$#html[class*="pc-size"] .av-area-fot { display: none !important; }
+paxnet.co.kr#$#html[class*="pc-size"] .side-area + .m-guide { margin-bottom: 150px !important; }
 op.gg#$##content-header form.FormItem { width: 100% !important; }
 bigkinds.or.kr#$#.news-cate + .news-box { padding-right: 0px !important; }
 hankyung.com#$#.article ~ aside > .aside-inner { bottom: 25% !important; }
