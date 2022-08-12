@@ -1,8 +1,7 @@
+!#if (adguard_app_ios)
+meeco.kr##[style*="opacity"] { opacity: 1 !important; }
+!#endif
 !#if (!adguard_ext_firefox)
 2cpu.co.kr#$#header .row[style] { margin-bottom: 35px !important; }
 sign.dcinside.com#$#.login_inputbox { width: 100% !important; }
-!#endif
-
-!#if (adguard_app_ios)
-meeco.kr##[style*="opacity"] { opacity: 1 !important; }
 !#endif
