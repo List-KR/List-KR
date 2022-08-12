@@ -51,6 +51,7 @@ m.seoul.co.kr##div[id*="Ad"]
 ! ##div[class*="ad_"]
 paxnet.co.kr##div[class*="ad_"]
 !
+m.ppomppu.co.kr###bbs_inform li[class^="bbs_ad"]
 eomisae.co.kr##.eq.section div[class^="col-md-"] > center
 star.mt.co.kr###wrap > div[style^="overflow:"][style$="background:#ddd;"]
 op.gg##.vm-placement
