@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||talk.gamemarket.kr/images/*%EB%B0%B0%EB%84%88
 /^https:\/\/coolenjoy\.net\/data\/editor\/[0-9]{4}\/[0-9]{14}_[a-z]{8}\./
 ||paxnet.co.kr/banner/
 ||image.paxnet.co.kr/rpan/common/js/mobile_ad.js
