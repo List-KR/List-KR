@@ -26,6 +26,7 @@ x86.co.kr,luckyquiz3.blogspot.com#%#//scriptlet("abort-current-inline-script", "
 ! meeco.kr
 !#if (adguard_app_ios)
 meeco.kr##div[style*="absolute"]:not([class]):not([id])
+meeco.kr#$#[style*="opacity"] { opacity: 1 !important; }
 !#endif
 meeco.kr#$#.xe_content { opacity: 1 !important; }
 meeco.kr#%#//scriptlet("abort-current-inline-script", "$", ".adsbygoogle")
