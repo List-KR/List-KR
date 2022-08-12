@@ -24,6 +24,9 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 ! AdGlare Ad Server
 x86.co.kr,luckyquiz3.blogspot.com#%#//scriptlet("abort-current-inline-script", "document.createElement", "hasAdblock")
 ! meeco.kr
+!#if (adguard_app_ios)
+meeco.kr##div[style*="absolute"]:not([class]):not([id])
+!#endif
 meeco.kr#$#.xe_content { opacity: 1 !important; }
 meeco.kr#%#//scriptlet("abort-current-inline-script", "$", ".adsbygoogle")
 ! adde_modal_detector
