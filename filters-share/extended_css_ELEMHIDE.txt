@@ -1,6 +1,7 @@
 ! Ad-Shield
 loawa.com#?##equip-info-modal:has(> .modal-dialog > .modal-content > .modal-body > button.close + button.float-right)
 !
+coolenjoy.net#?#div[class^="floating"]:has(a[target="_blank"] > img[src])
 op.gg#?#div:not([class]) + div[class^="css-"]:has(> div[data-format="isvideo"])
 m.nocutnews.co.kr#?#div[class$="con_b"]:has(> *:matches-css(display: none))
 etoland.co.kr#?#tbody > tr:has(> td > img[src*="/img/adland01.gif"])
