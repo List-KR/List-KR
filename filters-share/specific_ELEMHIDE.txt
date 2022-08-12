@@ -51,6 +51,7 @@ m.seoul.co.kr##div[id*="Ad"]
 ! ##div[class*="ad_"]
 paxnet.co.kr##div[class*="ad_"]
 !
+mule.co.kr##.modal-login-wrapper .right-box
 ppomppu.co.kr##table .list-notice-alarm-sponsor-tr
 m.ppomppu.co.kr###bbs_inform li[class^="bbs_ad"]
 eomisae.co.kr##.eq.section div[class^="col-md-"] > center
