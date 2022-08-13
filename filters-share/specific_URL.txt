@@ -499,6 +499,7 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+/^https:\/\/torrentwiz[0-9]{1,}\.com\/[A-z0-9]{1,}\.gif$/
 ||i.uuoobe.com/images/$domain=todawa79.top|todawa80.top|todawa81.top|todawa82.top|todawa83.top|todawa84.top|todawa85.top|todawa86.top|todawa87.top|todawa88.top|todawa89.top
 /^https:\/\/agit[0-9]{1,}\.xyz\/data\/file\/novel\/banner\//
 /^https:\/\/jgmoa[0-9]{1,}\.com\/upload_files\/banner\//
