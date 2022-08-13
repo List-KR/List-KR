@@ -51,6 +51,8 @@ m.seoul.co.kr##div[id*="Ad"]
 ! ##div[class*="ad_"]
 paxnet.co.kr##div[class*="ad_"]
 !
+wiki.hash.kr##div[class^="bann_"]
+wiki.hash.kr##div[class^="bnn_"]
 all-mice.co.kr###main_visual
 cgv.co.kr##div[class$="ad"][style]
 cgv.co.kr##div[id$="_PlaceHolderContent_divMovieSelection_wrap"][class]
