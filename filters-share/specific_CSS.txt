@@ -1,3 +1,4 @@
+all-mice.co.kr#$##main_sec { margin-top: 100px !important; }
 cgv.co.kr#$#.wrap-login > .sect-login { margin-left: calc(50% - 270px) !important; }
 cgv.co.kr#$#.sect-movie-chart > ol:nth-child(2) > li { margin-left: 130px !important; }
 paxnet.co.kr#$#html[class*="pc-size"] .m-contents > .side-area > div:nth-child(-n+4) { top: auto !important; left: auto !important; }

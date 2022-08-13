@@ -51,6 +51,7 @@ m.seoul.co.kr##div[id*="Ad"]
 ! ##div[class*="ad_"]
 paxnet.co.kr##div[class*="ad_"]
 !
+all-mice.co.kr###main_visual
 cgv.co.kr##div[class$="ad"][style]
 cgv.co.kr##div[id$="_PlaceHolderContent_divMovieSelection_wrap"][class]
 quasarplay.com##div[class^="panel_img_bottom_"][style]
@@ -566,7 +567,7 @@ pcmap.place.naver.com###_pcmap_list_scroll_container > ul > li[data-laim-exp-id=
 map.kakao.com##ul[id="info.search.place.list"] > li.AdItem
 playcraft.tistory.com##.module.module_plugin > a[href^="https://coupa.ng/"]
 dcnewsj.joins.com##div[class^="ab_ad"]
-dvdprime.com,hwbattle.com,mbn.co.kr##div[id$="_banner"]
+all-mice.co.kr,dvdprime.com,hwbattle.com,mbn.co.kr##div[id$="_banner"]
 prod.danawa.com##div[class$="_ad_prodlist"]
 epnc.co.kr##div[id^="floating_banner_"]
 epnc.co.kr##div[onmousedown*="'event_label': 'AD'"]
