@@ -499,6 +499,7 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+/^https:\/\/torrentview[0-9]{1,}\.com\/img\/0\/0_[0-9A-z]{8}_[a-z0-9]{40}\./
 /^https:\/\/torrentjuju[0-9]{1,}\.com\/data\/editor\/[0-9]{4}\/[A-z0-9_]{1,}\./
 /^https:\/\/torrentwiz[0-9]{1,}\.com\/[A-z0-9]{1,}\.gif$/
 ||i.uuoobe.com/images/$domain=todawa79.top|todawa80.top|todawa81.top|todawa82.top|todawa83.top|todawa84.top|todawa85.top|todawa86.top|todawa87.top|todawa88.top|todawa89.top
@@ -529,7 +530,6 @@
 ||imgbox.com^$domain=ktxtorrent50.com|ktxtorrent51.com|ktxtorrent52.com|ktxtorrent53.com|ktxtorrent54.com|ktxtorrent55.com|ktxtorrent56.com|ktxtorrent57.com|ktxtorrent58.com|ktxtorrent59.com|ktxtorrent60.com|ktxtorrent61.com|ktxtorrent62.com|ktxtorrent6.com
 ||static.filesbest.xyz^$domain=torrentsome50.com|torrentsome51.com|torrentsome52.com|torrentsome53.com|torrentsome54.com|torrentsome55.com|torrentsome56.com|torrentsome57.com|torrentsome58.com|torrentsome59.com|torrentsome60.com|torrentsome61.com|torrentsome62.com
 ||static.filesbest.xyz^$domain=torrentrj49.com|torrentrj50.com|torrentrj51.com|torrentrj52.com|torrentrj53.com|torrentrj54.com|torrentrj55.com|torrentrj56.com|torrentrj57.com|torrentrj58.com|torrentrj59.com|torrentrj60.com|torrentrj61.com|torrentrj62.com|torrentrj63.com|torrentrj64.com
-||i.imgur.com^$domain=torrentview63.com|torrentview64.com|torrentview65.com|torrentview66.com|torrentview67.com|torrentview68.com|torrentview69.com|torrentview70.com|torrentview71.com|torrentview72.com|torrentview73.com|torrentview74.com|torrentview75.com
 /^https:\/\/(www\.|)torrentreel[0-9]{1,}\.top\/ad\//
 /^https:\/\/(www\.|)tfreeca[0-9]{1,}\.top\/images\/[0-9]{3,}(X|x)[0-9]{3,}-[0-9]{4}/
 /^https:\/\/(www\.|)tfreeca[0-9]{1,}\.top\/ad\//
