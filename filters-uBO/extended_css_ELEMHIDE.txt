@@ -1,3 +1,4 @@
+~www.hogaeng.co.kr,hogaeng.co.kr#?##container > .latest_box:has(span.lt_title:has-text(스폰서광고))
 dailymedipharm.com#?#table:has(> tbody > tr > td:has-text(bannerManager):not(:has(> *)))
 tgd.kr#?#div[style] > div[style]:has(div[style]:has-text(AD))
 eggrank.com#?##right-sidebar > .inside-right-sidebar > div[class]:not(:has-text(Hi there, I'm EGG.))
