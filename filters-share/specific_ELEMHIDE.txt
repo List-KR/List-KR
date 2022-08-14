@@ -51,6 +51,7 @@ m.seoul.co.kr##div[id*="Ad"]
 ! ##div[class*="ad_"]
 paxnet.co.kr##div[class*="ad_"]
 !
+quasarplay.com##[class^="img_wrapper"]
 ~www.hogaeng.co.kr,hogaeng.co.kr##.tbl_wrap ul > li:not([class])
 www.hogaeng.co.kr###main_con > .latest1
 www.hogaeng.co.kr##div[class$="_bn"]
@@ -61,7 +62,6 @@ all-mice.co.kr###main_visual
 cgv.co.kr##div[class$="ad"][style]
 cgv.co.kr##div[id$="_PlaceHolderContent_divMovieSelection_wrap"][class]
 quasarplay.com##div[class^="panel_img_bottom_"][style]
-quasarplay.com##div[style].img_wrapper
 mule.co.kr##.modal-login-wrapper .right-box
 ppomppu.co.kr##table .list-notice-alarm-sponsor-tr
 m.ppomppu.co.kr###bbs_inform li[class^="bbs_ad"]
