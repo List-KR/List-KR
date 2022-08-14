@@ -499,6 +499,7 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+/^https:\/\/torrentlee[0-9]{1,}\.com\/[A-z_0-9]{1,}\.gif$/
 /^https:\/\/torrentview[0-9]{1,}\.com\/img\/0\/0_[0-9A-z]{8}_[a-z0-9]{40}\./
 /^https:\/\/torrentjuju[0-9]{1,}\.com\/data\/editor\/[0-9]{4}\/[A-z0-9_]{1,}\./
 /^https:\/\/torrentwiz[0-9]{1,}\.com\/[A-z0-9]{1,}\.gif$/
@@ -521,7 +522,6 @@
 ||imgbox.com^$domain=torpang22.com|torpang23.com|torpang24.com|torpang25.com|torpang26.com|torpang27.com|torpang28.com|torpang29.com|torpang30.com|torpang31.com|torpang32.com|torpang33.com|torpang34.com|torpang35.com|torpang36.com|torpang37.com|torpang38.com|torpang39.com|torpang40.com|torpang41.com
 /^https:\/\/torpang[0-9]{1,}\.com\/data\/apms\/background\//
 ||i.imgur.com^$domain=torrentgram43.com|torrentgram44.com|torrentgram45.com|torrentgram46.com|torrentgram47.com|torrentgram48.com|torrentgram49.com|torrentgram50.com|torrentgram51.com|torrentgram52.com|torrentgram53.com|torrentgram54.com|torrentgram55.com|torrentgram56.com|torrentgram57.com|torrentgram58.com
-/^https:\/\/torrentlee[0-9]{1,}\.com\/data\/editor\/[0-9]{4}\/[0-9A-z_]{1,}\.gif$/
 /^https:\/\/dc\.filesbest\.xyz\/uploadfile\/images\/[a-z0-9]{1,}\.gif$/
 ||i.imgur.com^$domain=torrentwiz48.com|torrentwiz49.com|torrentwiz50.com|torrentwiz51.com|torrentwiz52.com|torrentwiz53.com|torrentwiz54.com|torrentwiz55.com|torrentwiz56.com|torrentwiz57.com|torrentwiz58.com|torrentwiz59.com|torrentwiz60.com|torrentwiz61.com|torrentwiz62.com
 /^https:\/\/torrentwiz[0-9]{1,}\.com\/data\/editor\/[0-9]{4}\//
