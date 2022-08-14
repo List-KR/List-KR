@@ -1,6 +1,7 @@
 ! Ad-Shield
 loawa.com#?##equip-info-modal:has(> .modal-dialog > .modal-content > .modal-body > button.close + button.float-right)
 !
+tgd.kr#?#.row > div[class^="col-xs-"]:not([id]):has(#focus-area > div[id^="div-gpt-ad-"])
 hogaeng.co.kr#?#.tbl_wrap .bo_notice:has(span[class^="spon_b_icon"])
 issuelink.co.kr#?#table.table-stripped tr:has(.ad)
 coolenjoy.net#?#div[class^="floating"]:has(a[target="_blank"] > img[src])

@@ -1,3 +1,4 @@
+tgd.kr#$#div[align="center"] + .row > .col-xs-6 { width: 100% !important; }
 ppomppu.co.kr#$#div[class^="ppom_newSub"] .top_newSub .left_wt { width: 100% !important; }
 all-mice.co.kr#$##main_sec { margin-top: 100px !important; }
 cgv.co.kr#$#.wrap-login > .sect-login { margin-left: calc(50% - 270px) !important; }
