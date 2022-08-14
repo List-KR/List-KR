@@ -1,6 +1,7 @@
 ! Ad-Shield
 loawa.com#?##equip-info-modal:has(> .modal-dialog > .modal-content > .modal-body > button.close + button.float-right)
 !
+www.hogaeng.co.kr#?#thead + tbody > tr.bo_notice:has(span[class^="spon_b_icon"])
 issuelink.co.kr#?#table.table-stripped tr:has(.ad)
 coolenjoy.net#?#div[class^="floating"]:has(a[target="_blank"] > img[src])
 op.gg#?#div:not([class]) + div[class^="css-"]:has(> div[data-format="isvideo"])
