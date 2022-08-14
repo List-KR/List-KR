@@ -1,3 +1,5 @@
+||adcastmarket.com^
+||api.botad.kr^
 ||adimg.cgv.co.kr^
 ||ad.cgv.co.kr^
 ||veta.naver.com^
