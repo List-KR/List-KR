@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||image.ichannela.com/images/common/overray_onair
 ||img.tvchosun.com/upload_img/*/ad/
 ||civicnews.com/adManager/
 ||civicnews.com/bannerpop/uploads/
