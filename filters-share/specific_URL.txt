@@ -2,6 +2,8 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||civicnews.com/adManager/
+||civicnews.com/bannerpop/uploads/
 ||cdn.mhns.co.kr/adManager/
 ||res.heraldm.com/js/adjson_disp.js
 ||hogaeng.co.kr/data/file/sponsor_
