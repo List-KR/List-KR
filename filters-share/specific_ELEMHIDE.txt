@@ -51,6 +51,8 @@ m.seoul.co.kr##div[id*="Ad"]
 ! ##div[class*="ad_"]
 paxnet.co.kr##div[class*="ad_"]
 !
+www.hogaeng.co.kr###wrapper .slide_box
+www.hogaeng.co.kr##div[class^="main_banner"]
 quasarplay.com##[class^="img_wrapper"]
 ~www.hogaeng.co.kr,hogaeng.co.kr##.tbl_wrap ul > li:not([class])
 www.hogaeng.co.kr###main_con > .latest1
