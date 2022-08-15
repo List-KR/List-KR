@@ -274,7 +274,7 @@
 ||ibuan.com/bannerpop/uploads/
 ||electimes.com/adManager/css/adManager.css
 ||electimes.com/bannerpop/uploads/
-||greened.kr/adManager/css/adManager.css
+||greened.kr/adManager/
 ||greened.kr/bannerpop/uploads/
 ||womaneconomy.co.kr/adManager/css/adManager.css
 ||womaneconomy.co.kr/bannerpop/uploads/
