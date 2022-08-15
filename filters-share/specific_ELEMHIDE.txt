@@ -51,6 +51,8 @@ m.seoul.co.kr##div[id*="Ad"]
 ! ##div[class*="ad_"]
 paxnet.co.kr##div[class*="ad_"]
 !
+m.g-enews.com##.mwrap > div[style]:not([class])
+m.g-enews.com##div[class*="AD"]
 hyundaenews.com##a[href^="/ad_link.php?"]
 www.hogaeng.co.kr###wrapper .slide_box
 www.hogaeng.co.kr##div[class^="main_banner"]
@@ -83,7 +85,7 @@ namu.wiki##iframe[src*="//arca.live/external/callad"]
 noteforum.co.kr##table[width][cellspacing][cellpadding][border] tr:not([height]) > td[width]:not([id]) ~ td[id]
 esuwon.net###r_aside center > div[class="bn"]
 smartfn.co.kr##.mt30 .con_rt > style + div[style]:not([class])
-smartfn.co.kr##div[class*="Ad"]
+m.g-enews.com,smartfn.co.kr##div[class*="Ad"]
 miraetv.net##div[id*="-banner-"]
 miraetv.net##.gdl-left-sidebar
 ddengle.com###content > .article > div[class][style]
