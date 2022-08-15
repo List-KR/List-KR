@@ -64,7 +64,7 @@ hogaeng.co.kr##div[class^="sponsor"]
 wiki.hash.kr##div[class^="bann_"]
 wiki.hash.kr##div[class^="bnn_"]
 all-mice.co.kr###main_visual
-cgv.co.kr##div[class$="ad"][style]
+g-enews.com,cgv.co.kr##div[class$="ad"][style]
 cgv.co.kr##div[id$="_PlaceHolderContent_divMovieSelection_wrap"][class]
 quasarplay.com##div[class^="panel_img_bottom_"][style]
 mule.co.kr##.modal-login-wrapper .right-box
