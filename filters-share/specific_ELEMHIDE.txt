@@ -51,6 +51,7 @@ m.seoul.co.kr##div[id*="Ad"]
 ! ##div[class*="ad_"]
 paxnet.co.kr##div[class*="ad_"]
 !
+hyundaenews.com##a[href^="/ad_link.php?"]
 www.hogaeng.co.kr###wrapper .slide_box
 www.hogaeng.co.kr##div[class^="main_banner"]
 quasarplay.com##[class^="img_wrapper"]
