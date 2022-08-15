@@ -38,7 +38,7 @@ kr1.4kjav.co##.adde_modal-overlay
 kr1.4kjav.co#%#//scriptlet("abort-on-property-read", "adsBlocked")
 !
 focuskr.tistory.com#%#//scriptlet("abort-current-inline-script", "document.getElementById", "ad_blocks")
-news.jtbc.co.kr,mnews.jtbc.co.kr#@#.adBanner
+jtbc.co.kr#@#.adBanner
 !#if (adguard_app_ios || adguard_ext_safari)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=1412.rest
 !#endif

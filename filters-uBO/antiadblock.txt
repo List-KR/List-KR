@@ -26,7 +26,7 @@ meeco.kr##+js(acis, $, .adsbygoogle)
 kr1.4kjav.co##+js(aopr, adsBlocked)
 !
 focuskr.tistory.com##+js(acis, document.getElementById, ad_blocks)
-news.jtbc.co.kr,mnews.jtbc.co.kr#@#.adBanner
+jtbc.co.kr#@#.adBanner
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=noop.txt,domain=spotvnow.co.kr
 @@||googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=op.gg
 stockinfo7.com##+js(nostif, ad.innerHTML.replace)
