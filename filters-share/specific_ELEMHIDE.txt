@@ -21,7 +21,7 @@ sports.chosun.com,dcinside.com##div[class$="banner"]
 ! ##div[class$="-banner"]
 paxnet.co.kr,bigkinds.or.kr,item.gmarket.co.kr,toomics.com,nongmin.com,ilbe.com##div[class$="-banner"]
 ! ##div[class^="banner"]
-bgchang.co.kr,edit.incruit.com,signinssl.gmarket.co.kr,m.hungryapp.co.kr,m.edaily.co.kr,ichannela.com,m.news1.kr##div[class^="banner"]
+bgchang.co.kr,edit.incruit.com,signinssl.gmarket.co.kr,m.hungryapp.co.kr,m.edaily.co.kr,m.news1.kr##div[class^="banner"]
 ! ##div[class$="-ad"]
 cgv.co.kr,m.inven.co.kr,tipsandtrickskorea.com,gamemeca.com,yeongnam.com##div[class$="-ad"]
 ! ##div[id^="ad"]
@@ -51,6 +51,8 @@ m.seoul.co.kr##div[id*="Ad"]
 ! ##div[class*="ad_"]
 paxnet.co.kr##div[class*="ad_"]
 !
+ichannela.com##.main_visual .main_ban
+ichannela.com##div[class^="banner"]:not([id^="img"])
 ichannela.com###gaOverRay
 m.g-enews.com##.mwrap > div[style]:not([class])
 m.g-enews.com##div[class*="AD"]
