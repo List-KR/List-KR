@@ -1,7 +1,7 @@
 ! PopMagic
 watchfreejavonline.co#%#//scriptlet("abort-current-inline-script", "popMagic.init")
 !
-broadcast.tvchosun.com#%#//scriptlet("set-constant", "player.advertisement_finished", "true")
+tvchosun.com#%#//scriptlet("set-constant", "player.advertisement_finished", "true")
 cfnews.kr#%#//scriptlet("abort-current-inline-script", "window.open", "/gears/popup/default.aspx")
 sjtoday.kr#%#//scriptlet("abort-current-inline-script", "window.open", "notice_view_html.php")
 inven.co.kr,~m.inven.co.kr#%#//scriptlet("set-constant", "INVEN.Ad", "undefined")
