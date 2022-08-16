@@ -21,9 +21,8 @@ feedclick.net##div[style="position: absolute; right: 2px; top: 2px; z-index: 3; 
 loawa.com##div[style="position: absolute; right: 2px; top: 2px; z-index: 3; line-height: 0;"]::before:style(content: ''; display: block !important; position: absolute; background-color: #0e1015; width: 100%; height: 100%; top: -2px; right: -2px;)
 ppss.kr,ygosu.com,sportalkorea.com##div[style="position: absolute; right: 2px; top: 2px; z-index: 3; line-height: 0;"]::before:style(content: ''; display: block !important; position: absolute; background-color: white; width: 100%; height: 100%; top: -2px; right: -2px;)
 ppss.kr,ygosu.com,loawa.com,feedclick.net,sportalkorea.com##div[style="position: absolute; right: 2px; top: 2px; z-index: 3; line-height: 0;"]:style(width: 100%; height: 100%;)
-ppss.kr,ygosu.com,loawa.com,feedclick.net,sportalkorea.com##div[style="position: absolute; right: 2px; top: 2px; z-index: 3; line-height: 0;"] div
 ! Elemhide
-
+ppss.kr,ygosu.com,loawa.com,feedclick.net,sportalkorea.com##div[style="position: absolute; right: 2px; top: 2px; z-index: 3; line-height: 0;"] div
 ! Redirect
 $image,redirect-rule=32x32.png,domain=ppss.kr
 $frame,redirect-rule=noopframe,domain=ppss.kr|ygosu.com|loawa.com|feedclick.net|algumon.com|sportalkorea.com
