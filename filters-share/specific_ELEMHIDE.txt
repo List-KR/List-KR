@@ -51,6 +51,7 @@ m.seoul.co.kr##div[id*="Ad"]
 ! ##div[class*="ad_"]
 paxnet.co.kr##div[class*="ad_"]
 !
+manhwa.co.kr##.container > div[style][id^="slider"]
 m.mt.co.kr###container.atcpage div[style]:not([class]):not([id])
 m.mt.co.kr##[class^="ad"]
 ichannela.com##.main_visual .main_ban
