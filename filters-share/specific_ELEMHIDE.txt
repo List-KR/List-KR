@@ -51,6 +51,8 @@ m.seoul.co.kr##div[id*="Ad"]
 ! ##div[class*="ad_"]
 paxnet.co.kr##div[class*="ad_"]
 !
+mnews.jtbc.co.kr##.shopping_wrap div[class$="_ad"]
+mnews.jtbc.co.kr##.news > div[class$="_ad"][style]
 manhwa.co.kr##.container > div[style][id^="slider"]
 m.mt.co.kr###container.atcpage div[style]:not([class]):not([id])
 m.mt.co.kr##[class^="ad"]
