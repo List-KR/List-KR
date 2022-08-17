@@ -1,6 +1,6 @@
+tgd.kr#?#div[style*="padding:"]:has(div[style] div[style]:has-text(AD))
 ~www.hogaeng.co.kr,hogaeng.co.kr#?##container > .latest_box:has(span.lt_title:has-text(스폰서광고))
 dailymedipharm.com#?#table:has(> tbody > tr > td:has-text(bannerManager):not(:has(> *)))
-tgd.kr#?#div[style] > div[style]:has(div[style]:has-text(AD))
 eggrank.com#?##right-sidebar > .inside-right-sidebar > div[class]:not(:has-text(Hi there, I'm EGG.))
 2cpu.co.kr#?#tr:has(> td > a[href^="../ad_board/"]:has-text(광고))
 2cpu.co.kr#?#ul > li:has(> a[href^="./ad_board/"]:has-text(광고))
