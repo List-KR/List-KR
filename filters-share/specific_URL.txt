@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||m.sportschosun.com/ad/
 ||sportschosun.com/data/file/scad/
 ||sportschosun.com/update/$image
 ||manhwa.co.kr/xml/*banner_*_json.php
