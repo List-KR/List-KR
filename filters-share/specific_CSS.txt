@@ -1,3 +1,4 @@
+unsin.co.kr#$#.content_area .todayBox { width: 100% !important; }
 fnnews.com#$#.inner_contents { margin-bottom: 0px !important; }
 tgd.kr#$#div[align="center"] + .row > .col-xs-6 { width: 100% !important; }
 ppomppu.co.kr#$#div[class^="ppom_newSub"] .top_newSub .left_wt { width: 100% !important; }
