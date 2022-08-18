@@ -9,6 +9,7 @@
 @@||pstatic.net^$stealth,media,image,other
 @@||player*.studiouniversal.net/video/$stealth,domain=noonoo.tv
 ! Referrer
+@@||kmcert.com^$stealth
 @@||dcinside.co.kr/viewimage.php?$stealth
 ! https://github.com/AdguardTeam/AdguardFilters/issues/98466 [Stealth Mode - Referrer]
 @@||ac*.namu.la^$domain=arca.live,media,image,stealth
