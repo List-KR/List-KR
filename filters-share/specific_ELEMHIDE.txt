@@ -51,6 +51,7 @@ m.seoul.co.kr##div[id*="Ad"]
 ! ##div[class*="ad_"]
 paxnet.co.kr##div[class*="ad_"]
 !
+m.mbn.co.kr###news_main_all_wrp .today_issue ~ section[class="today_issue"]
 biz.chosun.com,www.chosun.com###fusion-app footer
 biz.chosun.com,www.chosun.com##.flex-chain-wrapper[class*="-pad-top-"][class*="-margin-"][class*="-bg-grey-"]
 m.sportschosun.com###footer_container
