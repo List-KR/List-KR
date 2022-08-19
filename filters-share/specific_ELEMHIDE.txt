@@ -51,6 +51,7 @@ m.seoul.co.kr##div[id*="Ad"]
 ! ##div[class*="ad_"]
 paxnet.co.kr##div[class*="ad_"]
 !
+fmkorea.com,~m.fmkorea.com##.adpost
 mobile.newsis.com##.article > div[style][class]
 m.fmkorea.com##.fm_vote ~ div[style*="max-width:"]
 m.mbn.co.kr###news_main_all_wrp .today_issue ~ section[class="today_issue"]
