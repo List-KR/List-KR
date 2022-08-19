@@ -116,7 +116,6 @@ boannews.com##div[style~="#D5D5D5;"][style~="border-bottom:1px"]
 boannews.com##div[id$="_bn_area"]
 hankyung.com,megabox.co.kr##div[class*="-ad"]:not(.container):not([style])
 newsis.com##.articleView div[class^="botBox"]:not(.twinBox)
-newsis.com##.articleView + .aside .smallbox
 newsis.com##div[id][style~="height:100px;"]
 newsis.com##iframe[src^="/view/ad/"]
 newsis.com##div[class^="w_header_"]:nth-child(1)
