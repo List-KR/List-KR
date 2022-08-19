@@ -1,3 +1,4 @@
+newsis.com#$#.articleView + .aside .smallbox + .smallbox { border-top: none !important; }
 unsin.co.kr#$#.content_area .todayBox { width: 100% !important; }
 fnnews.com#$#.inner_contents { margin-bottom: 0px !important; }
 tgd.kr#$#div[align="center"] + .row > .col-xs-6 { width: 100% !important; }
@@ -19,7 +20,6 @@ sports.chosun.com#$#div[style].row.no-gutters > .col-6 { max-width: 75% !importa
 googlewph.com,gyeomipang.co.kr#$##primary { width: 100% !important }
 www.ebs.co.kr#$#.ebs_item .inner > div[class] { width: 50% !important; }
 megabox.co.kr#$#header.main-header { top: 0px !important; }
-newsis.com#$#.articleView + .aside .asideBox.line { border-top: none !important; }
 quasarzone.com#$#.bot-content-area .mid-util-wrap > div { width: calc(50% - 5px) !important; }
 m.inven.co.kr#$##mainSlider { padding-bottom: 0px !important; }
 tgd.kr#$##header-menu-left { border-right: none !important; }
