@@ -218,7 +218,7 @@ m.humoruniv.com##body > div[style^="margin:"]:not([class]):not([id]) > div[style
 thelec.kr##div[onclick^="wcs.event("]
 m.star.mt.co.kr###content > div[style^="background:"][class]
 m.humoruniv.com###comment > ul > div[id][style]
-www.ebs.co.kr,news.nate.com##div[class*="ad"]
+news.nate.com##div[class*="ad"]
 news.nate.com###newsSidebar > div[class$="AD"]
 news.nate.com###newsSidebar > div[id$="Banner"]
 m.nate.com###mainContainer #content  .ct2 > section ~ *
