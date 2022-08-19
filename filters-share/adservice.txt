@@ -83,7 +83,7 @@
 ||ad.esmplus.com^
 ||adcheck.about.co.kr^
 ||ads.mncmedia.co.kr^
-||advimg.ad-mapps.com^
+||ad-mapps.com^
 ||mtag.mman.kr^
 ||ssp.meba.kr^
 ||ad.adnmore.co.kr^
