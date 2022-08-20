@@ -652,7 +652,7 @@ mlbpark.donga.com##.naver_power
 mlbpark.donga.com###advertise_naver
 coolenjoy.net##.simple_banner_wrap
 coolenjoy.net##img[src^="https://photo.coolenjoy.co.kr/banner/"]
-quasarzone.com##div[class^="main-"][class$="-banner"]
+quasarzone.com##*:not(footer) > div[class^="main-"][class$="-banner"]
 quasarzone.com##.top-banner
 nongmin.com,hankookilbo.com##div[class^="banner-"]
 okky.kr##img[src^="//file.okky.kr/banner/"]
