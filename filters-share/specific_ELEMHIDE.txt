@@ -51,6 +51,10 @@ m.seoul.co.kr##div[id*="Ad"]
 ! ##div[class*="ad_"]
 paxnet.co.kr##div[class*="ad_"]
 !
+m.tf.co.kr###artContent > div[style]:not([class])
+m.tf.co.kr##div[class^="AD_"]
+m.tf.co.kr##ul[class$="Ad"]
+m.tf.co.kr##div[class^="swiper-topbanner"]
 news.tf.co.kr###tfHeader > div[style]:not([class])
 cm.asiae.co.kr##div[class^="fortune_module"]
 mbiz.heraldcorp.com###articleText > section[style*="height:"]
