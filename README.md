@@ -6,7 +6,7 @@ List-KR aims to filter ads and anti-adblock.
 List-KR is focused on Korean websites and app, and it is recommended to use List-KR together with AdGuard Base filter.
 
 List-KR is optimized for AdGuard Windows, Mac, Android, Browser Extension and uBO.
-Therefore, List-KR cannot be added on AdBlock Plus and [Unicorn Pro adblocker](https://getunicorn.app/en) because they do not support advanced syntax (e.g. `!#include`, `#%#//scriptlet()`, `##+js` and `$redirect`).
+Therefore, List-KR cannot be added on AdBlock Plus and [Unicorn Pro adblocker](https://getunicorn.app/en) because they do not support advanced syntax (e.g. `!#include`, `#%#//scriptlet()`, [`$removeparam`](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#removeparam), `##+js` and `$redirect`).
 Furthermore, Unicorn Pro Adblocker does not support its filter editor that is necessary to debug.
 
 Due to technical problem, a visitor of some website need to do some instruction.
