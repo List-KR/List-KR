@@ -1,6 +1,7 @@
 ! Ad-Shield
 loawa.com#?##equip-info-modal:has(> .modal-dialog > .modal-content > .modal-body > button.close + button.float-right)
 !
+velog.io#?#div[class]:has(> ins.adsbygoogle)
 tgd.kr#?#div[style^="display:"]:has(div[style*="width:"] > div[id^="div-gpt-ad-"])
 newsis.com#?#.articleView + .aside .smallbox:has(iframe[src^="/view/ad/"])
 danawa.com#?##danawa_main_container ul.prod-list.swiper-slide > li:has(span.ad)
