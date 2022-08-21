@@ -50,6 +50,8 @@ m.hani.co.kr##div[id*="-ad"]
 m.seoul.co.kr##div[id*="Ad"]
 ! ##div[class*="ad_"]
 paxnet.co.kr##div[class*="ad_"]
+! ##div[class*="ad-"]
+lol.ps##div[class*="ad-"]
 !
 www.clien.net##.section_list.hongbo
 m.joynews24.com##hr[style].blank
