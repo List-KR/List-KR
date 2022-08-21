@@ -2,6 +2,8 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||iframe.inews24.com/ad/
+||api-zero.livere.com/*/comments/list/ad
 ||djf7qc4xvps5h.cloudfront.net/ad/
 /^http(s|):\/\/img.tf.co.kr\/ss\/[0-9]{4}\/fns\/ads_/
 ||newsis.com/assets/js/ad.js
