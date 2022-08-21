@@ -51,6 +51,8 @@ m.seoul.co.kr##div[id*="Ad"]
 ! ##div[class*="ad_"]
 paxnet.co.kr##div[class*="ad_"]
 !
+minimap.net##div[class*="-ad"]:not(.container):not([style])
+minimap.net##.feed-list-wrap .feed-item-wrap-SPONSORED
 mediatoday.co.kr##div[id^="popup_"][style]
 www.inven.co.kr##.invenbanner
 m.tf.co.kr###artContent > div[style]:not([class])

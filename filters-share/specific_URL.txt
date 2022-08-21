@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||djf7qc4xvps5h.cloudfront.net/ad/
 /^http(s|):\/\/img.tf.co.kr\/ss\/[0-9]{4}\/fns\/ads_/
 ||newsis.com/assets/js/ad.js
 ||m.sportschosun.com/ad/
