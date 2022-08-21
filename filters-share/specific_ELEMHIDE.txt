@@ -51,6 +51,7 @@ m.seoul.co.kr##div[id*="Ad"]
 ! ##div[class*="ad_"]
 paxnet.co.kr##div[class*="ad_"]
 !
+www.clien.net##.section_list.hongbo
 m.joynews24.com##hr[style].blank
 joynews24.com,inews24.com##ad
 playcraft.tistory.com##.module.module_plugin a[href*="//coinone.co.kr/user/signup?ref="]
