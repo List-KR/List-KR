@@ -1,4 +1,4 @@
-~m.inews24.com,inews24.com#$#header ~ header { margin-top: 50px !important; }
+~m.joynews24.com,joynews24.com,~m.inews24.com,inews24.com#$#header ~ header { margin-top: 50px !important; }
 newsis.com#$#.articleView + .aside .smallbox + .smallbox { border-top: none !important; }
 unsin.co.kr#$#.content_area .todayBox { width: 100% !important; }
 fnnews.com#$#.inner_contents { margin-bottom: 0px !important; }

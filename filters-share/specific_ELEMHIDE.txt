@@ -51,6 +51,7 @@ m.seoul.co.kr##div[id*="Ad"]
 ! ##div[class*="ad_"]
 paxnet.co.kr##div[class*="ad_"]
 !
+m.joynews24.com##hr[style].blank
 joynews24.com,inews24.com##ad
 playcraft.tistory.com##.module.module_plugin a[href*="//coinone.co.kr/user/signup?ref="]
 playcraft.tistory.com##.module.module_plugin a[href*="//link.coupang.com/"]
@@ -321,7 +322,7 @@ hani.co.kr###laAdArea
 dpg.danawa.com###danawa-gnb-banner
 joynews24.com,inews24.com##aside > hr[class]
 inews24.com##article > ad[alt] ~ container[style]
-inews24.com##article > div[style]:not([class])
+m.joynews24.com,inews24.com##article > div[style]:not([class])
 arca.live##div#newsRank
 m.happymoney.co.kr##.topBannerUse
 happymoney.co.kr###topBnrWrap
