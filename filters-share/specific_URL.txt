@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||iframe.joynews24.com/ad/
 ||iframe.inews24.com/ad/
 ||api-zero.livere.com/*/comments/list/ad
 ||djf7qc4xvps5h.cloudfront.net/ad/
