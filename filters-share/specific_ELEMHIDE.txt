@@ -57,6 +57,8 @@ jobkorea.co.kr##div[id^="Banner"]
 ! ##section[id*="_ads_"]
 eegosa.com##section[id*="_ads_"]
 !
+themomstory.co.kr##.ezmob-footer
+themomstory.co.kr##.ezoic-ad
 eegosa.com##section[id^="block-"].widget_block
 jobkorea.co.kr##.grand_banner_wrap li.item_adagency
 jobkorea.co.kr##.byWd div[id^="bl_"]
