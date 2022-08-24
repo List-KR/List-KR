@@ -2,6 +2,8 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||jobkorea.co.kr/*/ADLink/Banner/
+||jobkorea.co.kr/Banner/
 ||cdn.epnc.co.kr/adManager/
 ||etnews.com/static/js/hns_ad.js
 ||iframe.joynews24.com/ad/
