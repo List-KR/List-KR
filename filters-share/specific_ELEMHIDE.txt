@@ -54,7 +54,10 @@ paxnet.co.kr##div[class*="ad_"]
 lol.ps##div[class*="ad-"]
 ! ##div[id^="Banner"]
 jobkorea.co.kr##div[id^="Banner"]
+! ##section[id*="_ads_"]
+eegosa.com##section[id*="_ads_"]
 !
+eegosa.com##section[id^="block-"].widget_block
 jobkorea.co.kr##.grand_banner_wrap li.item_adagency
 jobkorea.co.kr##.byWd div[id^="bl_"]
 meeco.kr##.adsbygoogle
