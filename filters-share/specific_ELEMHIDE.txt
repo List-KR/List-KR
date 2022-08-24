@@ -52,6 +52,8 @@ m.seoul.co.kr##div[id*="Ad"]
 paxnet.co.kr##div[class*="ad_"]
 ! ##div[class*="ad-"]
 lol.ps##div[class*="ad-"]
+! ##div[id^="Banner"]
+jobkorea.co.kr##div[id^="Banner"]
 !
 jobkorea.co.kr##.grand_banner_wrap li.item_adagency
 jobkorea.co.kr##.byWd div[id^="bl_"]

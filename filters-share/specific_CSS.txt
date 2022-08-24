@@ -1,3 +1,4 @@
+jobkorea.co.kr#$##loginFormWrite { margin-left: 25% !important; }
 jobkorea.co.kr#$#.byWd .matchingContWrap { margin-top: 0px !important; }
 ~m.joynews24.com,joynews24.com,~m.inews24.com,inews24.com#$#header ~ header { margin-top: 50px !important; }
 newsis.com#$#.articleView + .aside .smallbox + .smallbox { border-top: none !important; }
