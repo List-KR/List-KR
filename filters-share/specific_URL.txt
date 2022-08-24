@@ -2,6 +2,8 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||cdn.aitimes.kr/adManager/
+||cdn.aitimes.kr/bannerpop/uploads/
 ||cdn.edujin.co.kr/adManager/
 ||cdn.edujin.co.kr/bannerpop/uploads/
 ||jobkorea.co.kr/*/ADLink/Banner/
