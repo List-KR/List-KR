@@ -57,6 +57,7 @@ jobkorea.co.kr##div[id^="Banner"]
 ! ##section[id*="_ads_"]
 eegosa.com##section[id*="_ads_"]
 !
+coupang.com##div[data-use-adzerk][id$="-banner"]
 themomstory.co.kr##.ezmob-footer
 themomstory.co.kr##.ezoic-ad
 eegosa.com##section[id^="block-"].widget_block
