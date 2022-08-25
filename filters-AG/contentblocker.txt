@@ -33,7 +33,6 @@ jtbc.co.kr#@#.adBanner
 @@||blog.dalso.org^$generichide
 @@||svrforum.com^$generichide
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=meeco.kr
-@@||cdn.tapioni.com/vast-im.js$domain=lover91.net
 meeco.kr#@#ins.adsbygoogle
 @@||iphonedev.co.kr^$generichide
 @@||iphonedev.co.kr/files/attach/images/*/*#ad&adv_keywords=-page-peel

@@ -1,7 +1,7 @@
 ! ##+js(acis, document.addEventListener, /adscale_slot_id/)
 tistory.com,love.asdn.kr,avjamak.net,untitle.org,seo-marketing.co.kr##+js(acis, document.addEventListener, /adscale_slot_id/)
 ! ##+js(nostif, /\.displayMessage\(/)
-iphonedev.co.kr,tistory.com,lover91.net,1412.rest,3dpchip.com##+js(nostif, /\.displayMessage\(/)
+iphonedev.co.kr,tistory.com,1412.rest,3dpchip.com##+js(nostif, /\.displayMessage\(/)
 ! BlockAdBlock
 blog.dalso.org,svrforum.com,shana.pe.kr,fafan.kr,tistory.com##+js(nobab)
 tistory.com##+js(nobab2)
@@ -36,7 +36,6 @@ te31.com#@#.adsbygoogle
 ||fundingchoicesmessages.google.com^$domain=mksports.co.kr|sisamagazine.co.kr|dreamrail.co.kr|tistory.com
 ||cdn.kollhong.com/wp-content/custom-js/fuckadblock.min.js
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=noop.js,domain=game.hotsharegames.com
-$script,redirect-rule=noop.js,domain=lover91.net
 ||www3.doubleclick.net/|$redirect=noop.txt,domain=blackkiwi.net
 ||googleads.g.doubleclick.net/pagead/ads?*&crui=$redirect=noop-1s.mp4,domain=laftel.net
 webtv.dothome.co.kr##.adblock-on
@@ -44,8 +43,7 @@ persnacons.tistory.com#@#.topAD
 noonnu.cc##+js(aopr, localStorage.getItem, adBlockMethodology)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ff14angler.com
 uda1004.tistory.com,exey.io,ff14angler.com#@#ins.adsbygoogle
-webtv.dothome.co.kr,lover91.net#@#.adsbygoogle
-lover91.net#$#.modal { position: unset !important; }
+webtv.dothome.co.kr#@#.adsbygoogle
 ||adblockanalytics.com^$xhr,redirect=noop.txt,domain=1412.rest
 ||1412.rest/addons/*/adblockDetector.js
 sajuplus.net##.adsense-alt
@@ -55,3 +53,9 @@ tistory.com,sajuplus.net##+js(set, checkAds, noopFunc)
 ||ad.smartmediarep.com/NetInsight/video/$redirect=noop.txt,domain=mbn.co.kr
 ! foreign website
 play.aidungeon.io,tamrieltradecentre.com,downloads.descendant.me,html5.gamedistribution.com,paraphraser.io,sekai-kabuka.com,teemo.gg,xtremestream.co#@#ins.adsbygoogle
+!
+! Each domain of website in this section is forbidden by Internet censorship of S. Korea.
+! Some listed domains have been changed by their administrators regularly.
+! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
+!
+$redirect-rule=noop.txt,domain=lover92.net|lover93.net|lover94.net|lover95.net|lover96.net|lover97.net|lover98.net|lover99.net|lover100.net|lover101.net

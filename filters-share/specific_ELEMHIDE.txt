@@ -178,9 +178,6 @@ tgd.kr###main-menu div[style][align]
 hunnek.tistory.com##a[href^="https://www.panel.co.kr/user/join/etcpath/"]
 m.seoul.co.kr,m.nownews.seoul.co.kr###contentsBodyDiv > table[width]
 seoul.co.kr###articleContent > table[width][height][border]
-!#if (!adguard_ext_android_cb)
-lover91.net##.xe_content span ~ div[style]
-!#endif
 soccerline.kr##div[class$="Bann"]
 e-himart.co.kr##input ~ .searchRolling
 m.11st.co.kr##section#cts:not(.main) .ctg_loc ~ section.list_bx.hotclick
@@ -710,6 +707,9 @@ www.naver.com##iframe[id^="da_iframe_"]
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 !
+!#if (!adguard_ext_android_cb)
+lover92.net,lover93.net,lover94.net,lover95.net,lover96.net,lover97.net,lover98.net,lover99.net,lover100.net,lover101.net##.xe_content span ~ div[style]
+!#endif
 todawa79.top,todawa80.top,todawa81.top,todawa82.top,todawa83.top,todawa84.top,todawa85.top,todawa86.top,todawa87.top,todawa88.top,todawa89.top##.sub-contener-wraper > div:not(.sub-cont)
 agit521.xyz,agit522.xyz,agit523.xyz,agit524.xyz,agit525.xyz,agit526.xyz,agit527.xyz,agit528.xyz,agit529.xyz,agit530.xyz,agit531.xyz,agit532.xyz,agit533.xyz,agit534.xyz,agit535.xyz,agit536.xyz,agit537.xyz,agit538.xyz,agit539.xyz,agit540.xyz,agit541.xyz,agit542.xyz,agit543.xyz,agit544.xyz,agit545.xyz##.banner
 yagong42.com,yagong43.com,yagong44.com,yagong45.com,yagong46.com,yagong47.com,yagong48.com,yagong49.com,yagong50.com,yagong51.com,yagong52.com,yagong53.com,yagong54.com,yagong55.com,yagong56.com,yagong57.com,yagong58.com,yagong59.com,yagong60.com,yagong61.com,yagong62.com,yagong63.com,yagong64.com##div[x-data="popups()"]

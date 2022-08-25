@@ -5,7 +5,6 @@ tvchosun.com#%#//scriptlet("set-constant", "player.advertisement_finished", "tru
 cfnews.kr#%#//scriptlet("abort-current-inline-script", "window.open", "/gears/popup/default.aspx")
 sjtoday.kr#%#//scriptlet("abort-current-inline-script", "window.open", "notice_view_html.php")
 inven.co.kr,~m.inven.co.kr#%#//scriptlet("set-constant", "INVEN.Ad", "undefined")
-lover91.net#%#//scriptlet("adjust-setTimeout", "count", "*", "0.001")
 filetender.com#%#//scriptlet("prevent-setTimeout", "", "15000")
 fmkorea.com#%#//scriptlet("set-constant", "link_url", "")
 search.11st.co.kr#%#//scriptlet("set-constant", "searchDataFactory.bottomFocusPrdList", "undefined")
@@ -45,3 +44,10 @@ search.11st.co.kr#%#//scriptlet("set-constant", "searchDataFactory.plusPrdList",
 imbc.com#%#//scriptlet("set-constant", "vrixadsdk", "undefined")
 ~coupang.com,~coupangcdn.com#%#//scriptlet("set-constant", "PartnersCoupang", "undefined")
 m.inven.co.kr#%#//scriptlet("set-constant", "MOBILE.Ad", "null")
+!
+! Each domain of website in this section is forbidden by Internet censorship of S. Korea.
+! Some listed domains have been changed by their administrators regularly.
+! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
+!
+lover92.net#%#//scriptlet("adjust-setTimeout", "count", "*", "0.001")
+lover92.net#%#//scriptlet("abort-current-inline-script", "popMagic.init")

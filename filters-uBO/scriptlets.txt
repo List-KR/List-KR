@@ -5,7 +5,6 @@ tvchosun.com##+js(set, player.advertisement_finished, true)
 cfnews.kr##+js(acis, window.open, /gears/popup/default.aspx)
 sjtoday.kr##+js(acis, window.open, notice_view_html.php)
 inven.co.kr,~m.inven.co.kr##+js(set, INVEN.Ad, undefined)
-lover91.net##+js(nano-stb, count, , 0.001)
 filetender.com##+js(nostif, , 15000)
 fmkorea.com##+js(set, link_url, "")
 search.11st.co.kr##+js(set, searchDataFactory.bottomFocusPrdList, undefined)
@@ -45,3 +44,10 @@ search.11st.co.kr##+js(set, searchDataFactory.plusPrdList, undefined)
 imbc.com##+js(set, vrixadsdk, undefined)
 ~coupang.com,~coupangcdn.com##+js(set, PartnersCoupang, undefined)
 m.inven.co.kr##+js(set, MOBILE.Ad, null)
+!
+! Each domain of website in this section is forbidden by Internet censorship of S. Korea.
+! Some listed domains have been changed by their administrators regularly.
+! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
+!
+lover92.net,lover93.net,lover94.net,lover95.net,lover96.net,lover97.net,lover98.net,lover99.net,lover100.net,lover101.net##+js(nano-stb, count, , 0.001)
+lover92.net,lover93.net,lover94.net,lover95.net,lover96.net,lover97.net,lover98.net,lover99.net,lover100.net,lover101.net##+js(acis, popMagic.init)
