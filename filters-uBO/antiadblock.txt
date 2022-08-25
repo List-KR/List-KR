@@ -24,6 +24,8 @@ meeco.kr#$#.xe_content { opacity: 1 !important; }
 meeco.kr##+js(acis, $, .adsbygoogle)
 ! adde_modal_detector
 kr1.4kjav.co##+js(aopr, adsBlocked)
+! namu.wiki
+@@||arca.live/static/ad/$frame,domain=namu.wiki
 !
 focuskr.tistory.com##+js(acis, document.getElementById, ad_blocks)
 jtbc.co.kr#@#.adBanner

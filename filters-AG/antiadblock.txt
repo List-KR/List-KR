@@ -36,6 +36,8 @@ kr1.4kjav.co##.adde_modal_detector
 kr1.4kjav.co##.adde_modal-overlay
 !#endif
 kr1.4kjav.co#%#//scriptlet("abort-on-property-read", "adsBlocked")
+! namu.wiki
+@@||arca.live/static/ad/$subdocument,domain=namu.wiki
 !
 focuskr.tistory.com#%#//scriptlet("abort-current-inline-script", "document.getElementById", "ad_blocks")
 jtbc.co.kr#@#.adBanner
