@@ -57,6 +57,7 @@ jobkorea.co.kr##div[id^="Banner"]
 ! ##section[id*="_ads_"]
 eegosa.com##section[id*="_ads_"]
 !
+svrforum.com###xt_sticker_wrap
 m.daum.net##.mtop_adfit
 clien.net##div[class*="_outline"]
 coupang.com##div[data-use-adzerk][id$="-banner"]
