@@ -23,10 +23,10 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 kr1.4kjav.co##.adde_modal_detector
 kr1.4kjav.co##.adde_modal-overlay
 ! namu.wiki
-@@||newliweb.com/$subdocument,domain=namu.wiki|~board.namu.wiki
-@@||arca.live/$subdocument,domain=namu.wiki|~board.namu.wiki
-@@||namu.news/$subdocument,domain=namu.wiki|~board.namu.wiki
-@@||namu.wiki/$subdocument,domain=namu.wiki|~board.namu.wiki
+@@||newliweb.com/$subdocument,script,domain=namu.wiki|~board.namu.wiki
+@@||arca.live/$subdocument,script,domain=namu.wiki|~board.namu.wiki
+@@||namu.news/$subdocument,script,domain=namu.wiki|~board.namu.wiki
+@@||namu.wiki/$subdocument,script,domain=namu.wiki|~board.namu.wiki
 !
 meeco.kr#@#.adsbygoogle
 ||fundingchoicesmessages.google.com^$domain=mksports.co.kr|sisamagazine.co.kr|dreamrail.co.kr

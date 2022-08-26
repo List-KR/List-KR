@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||arca.live/static/assets/*/external_call_ad.
 ||cdn.topstarnews.net/adManager/
 ||cdn.topstarnews.net/bannerpop/
 ||news.chungbuk.go.kr/adManager/
