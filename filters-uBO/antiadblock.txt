@@ -25,7 +25,10 @@ meeco.kr##+js(acis, $, .adsbygoogle)
 ! adde_modal_detector
 kr1.4kjav.co##+js(aopr, adsBlocked)
 ! namu.wiki
-@@/^https:\/\/[A-z0-9\.-]{0,}(namu\.wiki|arca\.live|namu\.news|newliweb\.com)\//$frame,domain=namu.wiki|~board.namu.wiki
+@@||newliweb.com/$frame,domain=namu.wiki|~board.namu.wiki
+@@||arca.live/$frame,domain=namu.wiki|~board.namu.wiki
+@@||namu.news/$frame,domain=namu.wiki|~board.namu.wiki
+@@||namu.wiki/$frame,domain=namu.wiki|~board.namu.wiki
 !
 focuskr.tistory.com##+js(acis, document.getElementById, ad_blocks)
 jtbc.co.kr#@#.adBanner
