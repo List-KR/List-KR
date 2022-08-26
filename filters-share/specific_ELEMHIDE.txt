@@ -59,6 +59,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+serieamania.com###index > div[class^="box_shadow_"][style]
 sports.donga.com##.today_sportnews
 m.search.naver.com##.shop_default_list > li._ad
 svrforum.com###xt_sticker_wrap
