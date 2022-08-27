@@ -321,7 +321,6 @@
 ||coupang.com/*&addtag=*ptag=*wPcid=*&wRef=*&redirect=landing&traceid=*&subid$document,popup
 ||startupn.kr/adManager/css/adManager.css
 ||startupn.kr/bannerpop/uploads/
-||dr9xthplobr1x.cloudfront.net/smart/MWEB/img/
 ||nts.go.kr/images/ad/lgnm/popup/popup_img_openinfo_high.jpg
 ||dogdrip.net/addons/ddnetspt/js/ddnetspt_ad.js
 ||noonnu.cc/ad_banners/$document
