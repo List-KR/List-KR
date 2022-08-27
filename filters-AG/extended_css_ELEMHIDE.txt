@@ -10,7 +10,6 @@ browse.auction.co.kr#?##section--inner_content_body_container div[class*="compon
 arca.live#?#.topbar-area:has(> .badge:contains(뉴스))
 browse.gmarket.co.kr#?#div[module-design-id].box__module-wrap:has(button[id^="buttonItemCardAdsLayer"][class="button__ads-layer"]):has(.box__itemcard-header > h3:contains(먼저 둘러보세요))
 newreop.com#?#.app-board-section > ul.app-board-template-list > li.notice:has(> a[href] > span > font[color]:contains(AD))
-instiz.net#?#.responsive_main > div[style] > .grouping_title:has(> div[style][class] > div[style]:contains(광고))
 ajunews.com#?#.aside_item.banner:has(> h4[style~="font-size:13px;color:#999999;margin:0"]:contains(AD))
 koreaminecraft.net#?#table.table-divider > tbody > tr.notice:has(> td.title > a > strong[style]:contains([프리미엄]))
 m.dcinside.com#?#section.gall-lst-group > ul > li:has(> div.detail-top-lnk > a[href*="//addc.dcinside.com/"].lt > span:contains(AD))

@@ -11,7 +11,6 @@ browse.auction.co.kr#?##section--inner_content_body_container div[class*="compon
 arca.live#?#.topbar-area:has(> .badge:has-text(뉴스))
 browse.gmarket.co.kr#?#div[module-design-id].box__module-wrap:has(button[id^="buttonItemCardAdsLayer"][class="button__ads-layer"]):has(.box__itemcard-header > h3:has-text(먼저 둘러보세요))
 newreop.com#?#.app-board-section > ul.app-board-template-list > li.notice:has(> a[href] > span > font[color]:has-text(AD))
-instiz.net#?#.responsive_main > div[style] > .grouping_title:has(> div[style][class] > div[style]:has-text(광고))
 ajunews.com#?#.aside_item.banner:has(> h4[style~="font-size:13px;color:#999999;margin:0"]:has-text(AD))
 koreaminecraft.net#?#table.table-divider > tbody > tr.notice:has(> td.title > a > strong[style]:has-text([프리미엄]))
 m.dcinside.com#?#section.gall-lst-group > ul > li:has(> div.detail-top-lnk > a[href*="//addc.dcinside.com/"].lt > span:has-text(AD))
