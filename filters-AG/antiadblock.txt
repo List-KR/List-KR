@@ -76,4 +76,5 @@ play.aidungeon.io,tamrieltradecentre.com,downloads.descendant.me,html5.gamedistr
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 !
+||daumcdn.net/tistory/$domain=lover92.net|lover93.net|lover94.net|lover95.net|lover96.net|lover97.net|lover98.net|lover99.net|lover100.net|lover101.net
 $redirect-rule=nooptext,domain=lover92.net|lover93.net|lover94.net|lover95.net|lover96.net|lover97.net|lover98.net|lover99.net|lover100.net|lover101.net

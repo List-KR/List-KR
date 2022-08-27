@@ -50,4 +50,3 @@ m.inven.co.kr##+js(set, MOBILE.Ad, null)
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 !
 lover92.net,lover93.net,lover94.net,lover95.net,lover96.net,lover97.net,lover98.net,lover99.net,lover100.net,lover101.net##+js(nano-stb, count, , 0.001)
-lover92.net,lover93.net,lover94.net,lover95.net,lover96.net,lover97.net,lover98.net,lover99.net,lover100.net,lover101.net##+js(acis, popMagic.init)
