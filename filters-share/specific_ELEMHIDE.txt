@@ -457,7 +457,7 @@ mobile.newsis.com##article > .article > div[class][style~="100%;"][style~="250px
 mobile.newsis.com##iframe[src^="/ad_list/"]
 m.daum.net##div[class][data-ad-media][data-ad-pubuser][data-ad-type][data-ad-width][data-ad-height]
 m.nocutnews.co.kr###pnlContainer > div[class^="ct"] > .section > .ct_box > div[style~="text-align:"][style~="center;"][style~="padding:"][style~="10px"]
-m.hani.co.kr##section[class^="ad"]
+m.bobaedream.co.kr,m.hani.co.kr##section[class^="ad"]
 hankyung.com##.view > .joy_info
 hankyung.com##article.act-body > .wrap_list
 gigglehd.com##.widget_banner_skin > ul.banner_list
