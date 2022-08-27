@@ -1,3 +1,4 @@
+##iframe[src*="//ra.ntwoad.co.kr/"]
 ##iframe[src*="//stt.pltapad.com/"]
 ##iframe[src*="//mediaindex.co.kr/DABanner.php"]
 ##ins[class^="MediaIndex_AD_"]
