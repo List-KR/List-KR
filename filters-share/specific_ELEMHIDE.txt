@@ -59,6 +59,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+bobaedream.co.kr,~m.bobaedream.co.kr##body.body-community div[class*="Car"]
 www.instiz.net,m.instiz.net###menufoot .content div[class*="ad"][style*="padding:"]
 m.instiz.net##body > div[style^="min-height:"]:not([class]):not([id])
 www.instiz.net,m.instiz.net##div[id^="div-"][style*="min-height:"]:not([class])

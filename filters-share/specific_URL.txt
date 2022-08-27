@@ -2,6 +2,8 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||bobaedream.co.kr/direct/special/
+||bobaedream.co.kr/partner/special/
 ||img.mbong.kr/files/thumbnails/
 ||arca.live/static/assets/*/external_call_ad.
 ||cdn.topstarnews.net/adManager/
