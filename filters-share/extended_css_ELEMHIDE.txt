@@ -1,6 +1,10 @@
 ! Ad-Shield
 loawa.com#?##equip-info-modal:has(> .modal-dialog > .modal-content > .modal-body > button.close + button.float-right)
 !
+www.instiz.net#?#div[style].responsive_main div[style~="background-color:"]:not([class]):has(div[id^="ad"][style] > ins.adsbygoogle)
+www.instiz.net#?#.board_img_foot div[style] > .responsive_main:has(div[id^="ad"][style] > ins.adsbygoogle)
+www.instiz.net#?#div[style] > .responsive_main div[class*="ad"][style]:has(div[id^="ad"][style] > ins.adsbygoogle)
+www.instiz.net#?#.responsive_main .responsive_main:has(div[id^="ad"][style] > ins.adsbygoogle)
 extmovie.com#?#div[style].xe-widget-wrapper:has(a[href^="/sisaing"])
 velog.io#?#div[class]:has(> ins.adsbygoogle)
 tgd.kr#?#div[style^="display:"]:has(div[style*="width:"] > div[id^="div-gpt-ad-"])
