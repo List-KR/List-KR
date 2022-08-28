@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||m.pann.nate.com/da/$subdocument
 ||bobaedream.co.kr/direct/special/
 ||bobaedream.co.kr/partner/special/
 ||img.mbong.kr/files/thumbnails/
