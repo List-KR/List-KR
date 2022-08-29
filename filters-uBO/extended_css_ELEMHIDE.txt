@@ -1,3 +1,4 @@
+hogangnono.com#?#.offer-container > .suggestion-item:has(a[href="#"] > span:has-text(광고))
 tgd.kr#?#div[style*="padding:"]:has(div[style] div[style]:has-text(AD))
 ~www.hogaeng.co.kr,hogaeng.co.kr#?##container > .latest_box:has(span.lt_title:has-text(스폰서광고))
 dailymedipharm.com#?#table:has(> tbody > tr > td:has-text(bannerManager):not(:has(> *)))
