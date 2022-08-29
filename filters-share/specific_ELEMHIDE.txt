@@ -627,7 +627,7 @@ search.daum.net##.adLinkColl
 pcmap.place.naver.com###_pcmap_list_scroll_container > ul > li[data-laim-exp-id="undefined*e"]
 map.kakao.com##ul[id="info.search.place.list"] > li.AdItem
 dcnewsj.joins.com##div[class^="ab_ad"]
-epnc.co.kr,all-mice.co.kr,dvdprime.com,hwbattle.com,mbn.co.kr##div[id$="_banner"]
+pushoong.com,epnc.co.kr,all-mice.co.kr,dvdprime.com,hwbattle.com,mbn.co.kr##div[id$="_banner"]
 prod.danawa.com##div[class$="_ad_prodlist"]
 epnc.co.kr##div[id^="floating_banner_"]
 epnc.co.kr##div[onmousedown*="'event_label': 'AD'"]

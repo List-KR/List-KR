@@ -1,3 +1,5 @@
+pushoong.com#$#html { overflow: auto !important; }
+pushoong.com#$##fullscreen-overlay { display: none !important; }
 serieamania.com#$##index > div[id^="index_box"][class]:not(.index_row_full) { margin-left: calc(50% - 145.5px) !important; }
 jobkorea.co.kr#$##loginFormWrite { margin-left: 25% !important; }
 jobkorea.co.kr#$#.byWd .matchingContWrap { margin-top: 0px !important; }
