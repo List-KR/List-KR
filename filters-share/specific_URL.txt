@@ -2,6 +2,8 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||newsworker.co.kr/adManager/
+||newsworker.co.kr/bannerpop/uploads/
 ||image.hogangnono.com/image/nowatermark/original/ad/
 ||d29dbfyawlamz6.cloudfront.net/media/ad/
 ||d29dbfyawlamz6.cloudfront.net/media/ask/fullscreen_ad/

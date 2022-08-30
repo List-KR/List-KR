@@ -59,6 +59,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+newsworker.co.kr##.user-content > .user-aside
 m.pann.nate.com##iframe[src^="/da/"]
 earlyadopter.co.kr##div[itemprop="articleBody"] > div[class][style]
 m.search.daum.net##body.nate .section_cont [disp-attr] > div[style*="height:"]
