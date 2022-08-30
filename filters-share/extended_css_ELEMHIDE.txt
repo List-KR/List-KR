@@ -1,6 +1,7 @@
 ! Ad-Shield
 loawa.com#?##equip-info-modal:has(> .modal-dialog > .modal-content > .modal-body > button.close + button.float-right)
 !
+kayak.co.kr#?#.Ui-Hotels-Results-List-Components-RheaLiteWrapper-container div:not([class]):has(div[class$="-sponsored"])
 m.yna.co.kr#?##container aside[class^="aside-"]:has(ul[id^="ad"]) + aside
 m.search.daum.net#?#body.nate .section_cont [disp-attr]:has(> div:matches-css(display: none))
 www.instiz.net#?#div[style].responsive_main div[style~="background-color:"]:not([class]):has(div[id^="ad"][style] > ins.adsbygoogle)
