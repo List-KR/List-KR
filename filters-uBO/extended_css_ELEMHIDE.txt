@@ -1,3 +1,4 @@
+kayak.co.kr#?#.layout-main-list-content div:not([class]):has(~ pagination):has(span.kn-label-photo:has-text(광고))
 m.yna.co.kr#?##container aside[class^="aside-"]:has(ul[id^="ad"])
 m.yna.co.kr#?##container aside[class^="aside-"]:has(iframe:matches-css(display: none))
 hogangnono.com#?#.offer-container > .suggestion-item:has(a[href="#"] > span:has-text(광고))

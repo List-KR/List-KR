@@ -1,3 +1,4 @@
+kayak.co.kr#?#.layout-main-list-content div:not([class]):has(~ pagination):has(span.kn-label-photo:contains(광고))
 m.yna.co.kr#?##container aside[class^="aside-"]:has(ul[id^="ad"], iframe:matches-css(display: none))
 hogangnono.com#?#.offer-container > .suggestion-item:has(a[href="#"] > span:contains(광고))
 tgd.kr#?#div[style*="padding:"]:has(div[style] div[style]:contains(AD))
