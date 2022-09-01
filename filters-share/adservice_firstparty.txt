@@ -34,7 +34,6 @@
 ||ad-img.ebaykorea.com^
 ||api.ezadsystem.com^
 ||ad.planbplus.co.kr^
-||api.linkmine.co.kr^
 ||poweredby.jads.co^
 ||ad.a-ads.com^
 ||acceptable.a-ads.com^
