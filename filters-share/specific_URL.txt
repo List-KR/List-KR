@@ -354,7 +354,6 @@
 ||hellodd.com/adManager/css/adManager.css
 ||hellodd.com/bannerpop/uploads/
 ||hellot.net/data/banner/
-||dailysecu.com/bannerpop/uploads/
 ||irobotnews.com/bannerManager/
 ||datanet.co.kr/adManager/css/adManager.css
 ||datanet.co.kr/bannerpop/uploads/
@@ -431,7 +430,6 @@
 ||yeongnam.com/web/js/statAd.js
 ||yeongnam.com/mnt/webdata/ad/
 ||5donews.co.kr/layouts/5donews/images/banner/
-||womennews.co.kr/adManager/css/adManager.css
 ||cdn.andongdaily.com/bannerpop/uploads/
 ||asiae.co.kr/RealMedia/ads/
 ||image.ajunews.com/images/site/img/ads/
