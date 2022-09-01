@@ -115,7 +115,6 @@
 ||ad.adjw.co.kr^
 ||compass.adop.cc^
 ||catad5959.com^
-||adex.ednplus.com^
 ||targetpush.co.kr^$third-party
 ||ad.adinc.kr^
 ||ad.about.co.kr^
