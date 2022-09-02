@@ -59,6 +59,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+cjlogistics.com##a[target="_blank"][href][onclick][class*="Banner"]
 alltimelegend.net##ul > a[href*="/0ad"].visittag
 alltimelegend.net##a[href][target="_blank"][referrerpolicy="unsafe-url"]
 itworld.co.kr,ciokorea.com##div[class*="-banner"]
