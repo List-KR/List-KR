@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||dqwc99gnfppi1.cloudfront.net/media/banner/
 ||dn.nextplay.kr/adManager/
 ||loader.fmkorea.com//_loader/
 ||image.alltimelegend.net/ad/
