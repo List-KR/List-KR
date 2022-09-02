@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||loader.fmkorea.com//_loader/
 ||image.alltimelegend.net/ad/
 ||kayak.co.kr/ads/dfp/*/ads.js|
 ||newsworker.co.kr/adManager/
@@ -534,7 +535,7 @@
 ||mediacategory.com/servlet/
 ||t1.daumcdn.net/adfit/
 ||loader2.fmkorea.com/_myphp/adpost/content_new.php
-||loader.fmkorea.com/_loader/loader.php
+||loader.fmkorea.com/_loader/
 ||castbox.shopping.naver.com/shoppingboxnew/main.
 ||ssl.pstatic.net/tveta/libs/
 ||static-whale.pstatic.net/main/$image,domain=www.naver.com
