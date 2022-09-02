@@ -49,7 +49,7 @@ uda1004.tistory.com,exey.io,ff14angler.com#@#ins.adsbygoogle
 webtv.dothome.co.kr#@#.adsbygoogle
 ||adblockanalytics.com^$xhr,redirect=noop.txt,domain=1412.rest
 ||1412.rest/addons/*/adblockDetector.js
-sajuplus.net##.adsense-alt
+singingdalong.blogspot.com,sajuplus.net##.adsense-alt
 tistory.com,sajuplus.net##+js(set, checkAds, noopFunc)
 1412.rest##.ADs-BG.center
 ! mbn.co.kr ( https://github.com/AdguardTeam/AdguardFilters/issues/104586 )
