@@ -42,6 +42,7 @@ kr1.4kjav.co#%#//scriptlet("abort-on-property-read", "adsBlocked")
 @@||namu.news/$subdocument,script,domain=namu.wiki|~board.namu.wiki
 @@||namu.wiki/$subdocument,script,domain=namu.wiki|~board.namu.wiki
 !
+singingdalong.blogspot.com#%#//scriptlet("abort-current-inline-script", "$", "#ad_center")
 focuskr.tistory.com#%#//scriptlet("abort-current-inline-script", "document.getElementById", "ad_blocks")
 jtbc.co.kr#@#.adBanner
 !#if (adguard_app_ios || adguard_ext_safari)
