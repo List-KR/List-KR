@@ -1,3 +1,5 @@
+chuing.net#?#.newmenubar ~ div[style] td[width]:has(ins.adsbygoogle)
+chuing.net#?#.newmenubar ~ div[style] td[width]:has(div[id^="mobonDivBanner"])
 alltimelegend.net#?#section > div[class*=" "]:has(ins.adsbygoogle)
 alltimelegend.net#?#section > div[class*=" "]:has(a[href][target="_blank"][referrerpolicy="unsafe-url"])
 kayak.co.kr#?#.layout-main-list-content div:not([class]):has(~ pagination):has(span.kn-label-photo:has-text(광고))
