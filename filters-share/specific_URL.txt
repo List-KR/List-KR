@@ -2,6 +2,8 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||ssl.pstatic.net/static/kin/*/promotion/mobile/
+||ssl.pstatic.net/static/kin/*/promotion/main/
 ||dqwc99gnfppi1.cloudfront.net/media/banner/
 ||dn.nextplay.kr/adManager/
 ||loader.fmkorea.com//_loader/
@@ -177,7 +179,6 @@
 ||3p.ampproject.net/*/vendor/dable.js
 ||cdn.ampproject.org/v0/amp-ad-*.js
 ||cdn.ampproject.org/rtv/*/v0/amp-ad-*.js
-||ssl.pstatic.net/static/kin/*/promotion/
 ||image.fmkorea.com/images/ad/
 ||cdn.funshop.co.kr/BannerImage/
 ||amazonaws.com/adpick.co.kr/apis/adpick_cps.js
