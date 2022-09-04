@@ -59,6 +59,8 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+m.zum.com##.layout-panel > .no-margin-top
+m.zum.com##div[type^="Advertise"].shopping-box
 zum.com##div[class$="_banner"] + .shoplink_wrap
 cuonet.com##div[style^="max-width:"].bx-wrapper > div[aria-live="polite"][style].bx-viewport
 m.news.zum.com##section[id$="_shopping_box"]
