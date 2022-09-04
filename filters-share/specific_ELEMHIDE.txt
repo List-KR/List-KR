@@ -59,6 +59,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+m.fpn119.co.kr###top_src > div[style]
 fpn119.co.kr###r_aside > center > .bn
 [$path=/\?clubid=27842958$/]cafe.naver.com##table[role="presentation"] #editorMainContent div[style^="text-align"]:nth-child(n+6)
 [$path=/&clubid=27842958(&|$)/]cafe.naver.com##img[src][alt="매니저 등록 배너"]
@@ -461,7 +462,7 @@ zum.com##div[class*="_adbox"]
 zum.com##section.container > .cont_wrap > .left_area > #shoppingMenu
 zum.com##section.container > .cont_wrap > .right_area > div:not([class])
 m.ohmynews.com##main#article > .arc_list
-m.ohmynews.com##div[id^="mobitree"]
+m.fpn119.co.kr,m.ohmynews.com##div[id^="mobitree"]
 m.ohmynews.com##iframe[src*="//ojsfile.ohmynews.com/AD_FILE/"]
 dispatch.co.kr###dpArticleBlocksWrapper
 dispatch.co.kr##div[id^="ADOP_"][style]
