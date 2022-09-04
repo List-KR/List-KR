@@ -59,6 +59,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+invest.zum.com##.main.article_layout .gdn_wrap
 narutong.com##.widget-side > .widget-box > div[style]
 japanout.kr##.widget-side-box > div[class^="main-box main-"]
 cjlogistics.com##a[target="_blank"][href][onclick][class*="Banner"]
