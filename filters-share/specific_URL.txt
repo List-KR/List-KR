@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||shop.zumst.com/upload/shoppingbox/
 ||zumst.com/scripts/adDefence.js
 ||srv-asiatime.kr.object.ncloudstorage.com/*/resources/banner/
 ||ssl.pstatic.net/static/kin/*/promotion/mobile/
