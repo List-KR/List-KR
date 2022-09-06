@@ -1,3 +1,4 @@
+@@||ad2.shoplinker.co.kr^
 mnews.jtbc.co.kr#@#.ad_bottom
 @@||muirim.com/admin/data/banner/
 @@/^(http|https):\/\/image\.kyobobook\.co\.kr\/ink\/images\/prom\/[0-9]{4}\/general\/[0-9]{6}_dailyCheck\//
