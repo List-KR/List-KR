@@ -275,7 +275,7 @@ newstomato.com##.rns_bn
 sumpic.com##section.content .thumbnail-area
 h5.dcinside.com##.side .login-box ~ .img-wrap
 mbiz.heraldcorp.com##a[class^="ad_"]
-echrecipe.co.kr##div[id*="_adsense_"]
+techrecipe.co.kr##div[id*="_adsense_"]
 edufindkorea.com###body_wrap > #body_main > div[style]:nth-child(2)
 junggi.co.kr##img[src^="/data/__banner/"]
 junggi.co.kr##img[src^="/image/banner/"]
