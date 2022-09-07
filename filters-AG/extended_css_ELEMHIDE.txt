@@ -1,3 +1,4 @@
+www.enuri.com#?#.trendpickup__container > div[id^="trendPick"].trendtab-cont:contains(AD):remove()
 chuing.net#?#.newmenubar ~ div[style] td[width]:has(ins.adsbygoogle, div[id^="mobonDivBanner"])
 alltimelegend.net#?#section > div[class*=" "]:has(ins.adsbygoogle, a[href][target="_blank"][referrerpolicy="unsafe-url"])
 kayak.co.kr#?#.layout-main-list-content div:not([class]):has(~ pagination):has(span.kn-label-photo:contains(광고))

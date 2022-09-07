@@ -2,6 +2,9 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||enuri.com/*/api/ad/$xmlhttprequest
+||enuri.com/*/script_min/ad/$script
+||enuri.com/*/ajax/getNewBrandThema_ajax.jsp
 ||fpn119.co.kr/data/*/banner/
 ||static.coupangcdn.com/image/$domain=shopping.zum.com
 ||shopping-phinf.pstatic.net^$domain=shopping.zum.com
