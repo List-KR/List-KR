@@ -59,6 +59,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+m.enuri.com##.m_trend_pickup
 www.enuri.com##span[class$="-ad"]
 m.seoul.co.kr###Article > .Line_gray ~ div[style]:not([class]):not([id])
 buy.11st.co.kr##div[class^="bnr_ad"]
@@ -661,7 +662,7 @@ now.rememberapp.co.kr##.now_content_ads__wrapper
 m.ilbe.com##.banner-wrap
 clien.net###coupangAd
 ppomppu.co.kr##tr > td div.bridge
-asiatime.co.kr,www.ebs.co.kr,search.kyobobook.co.kr,news.nate.com,boribori.co.kr##div[class*="_banner"]
+m.enuri.com,asiatime.co.kr,www.ebs.co.kr,search.kyobobook.co.kr,news.nate.com,boribori.co.kr##div[class*="_banner"]
 boribori.co.kr##.bFloatingBanner
 ondisk.co.kr##div[id^="wingBanner-"]
 enuri.com##ul#evt_banner
