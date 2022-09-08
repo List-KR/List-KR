@@ -59,6 +59,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+wiki.hash.kr##.wkbn_bk.tp
 m.enuri.com##.m_trend_pickup
 www.enuri.com##span[class$="-ad"]
 m.seoul.co.kr###Article > .Line_gray ~ div[style]:not([class]):not([id])
