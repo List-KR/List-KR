@@ -59,6 +59,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+www.tmon.co.kr##ul#_dealListContainer.list > li.item.type_admon[data-maincategoryno]
 wiki.hash.kr##.wkbn_bk.tp
 m.enuri.com##.m_trend_pickup
 www.enuri.com##span[class$="-ad"]
