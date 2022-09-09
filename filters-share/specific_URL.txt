@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||prod.danawa.com/list/ajax/getAdBrandHall.ajax.php
 ||m.enuri.com/m/api/main/m_trendJson_
 ||m.enuri.com/*/ajax/getSponsor
 ||m.enuri.com/mobilefirst/http/json/banMobileSrchKeyword.json|
