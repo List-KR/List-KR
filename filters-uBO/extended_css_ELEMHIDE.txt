@@ -1,3 +1,5 @@
+ypbooks.co.kr#?#.section-intro > .m-latest-renew:has(h3:has-text(오늘의 책))
+ypbooks.co.kr#?#.section-intro > .m-latest-renew:has(h3:has-text(MD 추천도서))
 ypbooks.co.kr#?#div[style]#cenArea > h2[style]:has-text(오늘의 책)
 www.enuri.com#?#.trendpickup__container > div[id^="trendPick"].trendtab-cont:has-text(AD):remove()
 chuing.net#?#.newmenubar ~ div[style] td[width]:has(ins.adsbygoogle)
