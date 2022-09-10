@@ -1,3 +1,4 @@
+ypbooks.co.kr#?#div[style]#cenArea > h2[style]:has-text(오늘의 책)
 www.enuri.com#?#.trendpickup__container > div[id^="trendPick"].trendtab-cont:has-text(AD):remove()
 chuing.net#?#.newmenubar ~ div[style] td[width]:has(ins.adsbygoogle)
 chuing.net#?#.newmenubar ~ div[style] td[width]:has(div[id^="mobonDivBanner"])
