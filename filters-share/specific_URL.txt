@@ -158,7 +158,6 @@
 ||mt.co.kr/news/articleBanner/
 ||mt.co.kr/news/wingBanner/
 ||pdpop.com/images/images_re/banner/
-/^https:\/\/dvdprime\.com\/g2\/data\/cheditor[0-9]\/[0-9]{4}\/[0-9]{14}_[a-z]{8}\./
 ||boannews.com/images/event
 ||boannews.com/media/include/*_banner.asp
 ||image.newsis.com/h_www/common/*_banner_
