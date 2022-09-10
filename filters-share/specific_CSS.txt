@@ -1,3 +1,4 @@
+ypbooks.co.kr#$#form[name="loginForm"][action*="login.yp"] > table { margin-left: calc(25% - 27px) !important; }
 start.zum.com#$#div[id^="dablewidget_"] + section[class*="-item_"] { width: calc(58% + 5px) !important; }
 pushoong.com#$#html { overflow: auto !important; }
 pushoong.com#$##fullscreen-overlay { display: none !important; }
