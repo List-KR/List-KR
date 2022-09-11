@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||zdnet.co.kr/template_ad/
 ||zdnet.co.kr/ads/
 ||nextdaily.co.kr/adManager/
 ||nextdaily.co.kr/bannerpop/uploads/
