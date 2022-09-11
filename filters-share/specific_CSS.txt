@@ -1,3 +1,7 @@
+interpark.com#$#.welcomeWrapper .rankWrapper .rankingInner { left: -230% !important; width: 330% !important; }
+interpark.com#$#.welcomeWrapper .rankingInner .rankingContent { background-color: white !important; }
+interpark.com#$#.welcomeWrapper .rankingInner .rankList { margin-left: 35% !important; }
+interpark.com#$#.welcomeWrapper  .rankingInner .rankList ol li a { max-width: 270px !important; }
 ypbooks.co.kr#$#form[name="loginForm"][action*="login.yp"] > table { margin-left: calc(25% - 27px) !important; }
 start.zum.com#$#div[id^="dablewidget_"] + section[class*="-item_"] { width: calc(58% + 5px) !important; }
 pushoong.com#$#html { overflow: auto !important; }
