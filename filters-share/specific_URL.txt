@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||zdnet.co.kr/ads/
 ||nextdaily.co.kr/adManager/
 ||nextdaily.co.kr/bannerpop/uploads/
 ||img.ypbooks.co.kr/ypbooks_mobile/event/
@@ -426,7 +427,6 @@
 ||cdn.newsmc.net/adManager/css/adManager.css
 ||cdn.newsmc.net/bannerpop/uploads/
 ||humoruniv.com/js/adpost_adsense.js
-||zdnet.co.kr/template_ad/
 ||shopapi.interpark.com/advertisement/*.json
 ||shopping.interpark.com/resources/template/common/powerLink.html
 ||shopping.interpark.com/niSearch/common/powerLink.json

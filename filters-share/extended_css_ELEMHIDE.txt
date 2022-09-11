@@ -1,3 +1,4 @@
+zdnet.co.kr#?#.power_box div[class^="asset"]:has(iframe[src*="//adv.zdnet.co.kr/"])
 dvdprime.com#?##sidebar_container .relative:has([class*="_ad_"]) ~ div[class^="spacer"]
 m.11st.co.kr#?#article div[id^="carrier_"][style][class]:has(button[class*="-ad"])
 www.enuri.com#?#.trendtabs__list > li[data-adv_yn="Y"].trendtab-item:remove()
