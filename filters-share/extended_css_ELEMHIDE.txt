@@ -1,6 +1,3 @@
-! Ad-Shield
-loawa.com#?##equip-info-modal:has(> .modal-dialog > .modal-content > .modal-body > button.close + button.float-right)
-!
 dvdprime.com#?##sidebar_container .relative:has([class*="_ad_"]) ~ div[class^="spacer"]
 m.11st.co.kr#?#article div[id^="carrier_"][style][class]:has(button[class*="-ad"])
 www.enuri.com#?#.trendtabs__list > li[data-adv_yn="Y"].trendtab-item:remove()
