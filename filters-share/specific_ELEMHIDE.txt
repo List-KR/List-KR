@@ -59,6 +59,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+interpark.com##.welcomeWrapper .interparkInner .eventWrapper
 interpark.com##.welcomeWrapper .showRoom
 interpark.com##div[class$="Banners"]
 interpark.com##span[class$="AD"]
