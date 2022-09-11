@@ -1,3 +1,4 @@
+interpark.com#$##loginAllWrap .loginFormWrap { width: 100% !important; }
 interpark.com#$#.welcomeWrapper .interparkInner .hotCornerWrapper { width: 100% !important; }
 interpark.com#$#.welcomeWrapper .hotCornerContent .hotCornerBanner { margin-left: 150px !important; }
 interpark.com#$#.welcomeWrapper .rankWrapper .rankingInner { left: -230% !important; width: 330% !important; }
