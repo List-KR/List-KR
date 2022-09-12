@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||naver.com/shoppingbox/
 ||zdnet.co.kr/template_ad/
 ||zdnet.co.kr/ads/
 ||nextdaily.co.kr/adManager/
@@ -558,9 +559,7 @@
 ||t1.daumcdn.net/adfit/
 ||loader2.fmkorea.com/_myphp/adpost/content_new.php
 ||loader.fmkorea.com/_loader/
-||castbox.shopping.naver.com/shoppingboxnew/main.
 ||ssl.pstatic.net/tveta/libs/
-||static-whale.pstatic.net/main/$image,domain=www.naver.com
 !
 ! Each domain of website in this section is forbidden by Internet censorship of S. Korea.
 ! Some listed domains have been changed by their administrators regularly.
