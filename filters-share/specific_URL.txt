@@ -2,6 +2,8 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||cdn.labortoday.co.kr/bannerpop/uploads/
+||cdn.labortoday.co.kr/adManager/
 ||m.ceoscoredaily.com/upload/*_banner_
 ||ceoscoredaily.com/upload/ads/
 ||seoulfn.com/bannerpop/uploads/
