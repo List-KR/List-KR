@@ -17,7 +17,6 @@ tgd.kr#?#div[style^="display:"]:has(div[style*="width:"] > div[id^="div-gpt-ad-"
 newsis.com#?#.articleView + .aside .smallbox:has(iframe[src^="/view/ad/"])
 danawa.com#?##danawa_main_container ul.prod-list.swiper-slide > li:has(span.ad)
 tgd.kr#?#.row > div[class^="col-xs-"]:not([id]):has(#focus-area > div[id^="div-gpt-ad-"])
-hogaeng.co.kr#?#.tbl_wrap .bo_notice:has(span[class^="spon_b_icon"])
 issuelink.co.kr#?#table.table-stripped tr:has(.ad)
 coolenjoy.net#?#div[class^="floating"]:has(a[target="_blank"] > img[src])
 op.gg#?#div:not([class]) + div[class^="css-"]:has(> div[data-format="isvideo"])

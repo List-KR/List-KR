@@ -7,7 +7,6 @@ alltimelegend.net#?#section > div[class*=" "]:has(ins.adsbygoogle, a[href][targe
 m.yna.co.kr#?##container aside[class^="aside-"]:has(ul[id^="ad"], iframe:matches-css(display: none))
 hogangnono.com#?#.offer-container > .suggestion-item:has(a[href="#"] > span:contains(광고))
 tgd.kr#?#div[style*="padding:"]:has(div[style] div[style]:contains(AD))
-~www.hogaeng.co.kr,hogaeng.co.kr#?##container > .latest_box:has(span.lt_title:contains(스폰서광고))
 dailymedipharm.com#?#table:has(> tbody > tr > td:contains(bannerManager):not(:has(> *)))
 eggrank.com#?##right-sidebar > .inside-right-sidebar > div[class]:not(:contains(Hi there, I'm EGG.))
 2cpu.co.kr#?#tr:has(> td > a[href^="../ad_board/"]:contains(광고))
