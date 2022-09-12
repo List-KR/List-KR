@@ -1,3 +1,4 @@
+hogaeng.co.kr#?##main_con > div[class^="latest"]:contains(스폰서광고)
 ypbooks.co.kr#?#.section-intro > .m-latest-renew:has(h3:contains(오늘의 책))
 ypbooks.co.kr#?#.section-intro > .m-latest-renew:has(h3:contains(MD 추천도서))
 ypbooks.co.kr#?#div[style]#cenArea > h2[style]:contains(오늘의 책)

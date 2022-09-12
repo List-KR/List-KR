@@ -3,7 +3,7 @@ zdnet.co.kr,fpn119.co.kr,serieamania.com,dvdprime.com,news.nate.com,m.nate.com,w
 ! ##div[class$="_ad"]
 zdnet.co.kr,mbn.co.kr,goodgag.net,v.daum.net,www.instiz.net,ppomppu.co.kr,m.nocutnews.co.kr,kyobobook.co.kr,news.naver.com,news.daum.net,asiae.co.kr,ohmynews.com,seoul.co.kr,dmitory.com,itcm.co.kr,clien.net##div[class$="_ad"]
 ! ##div[class^="ad_"]
-zdnet.co.kr,news.zum.com,m.search.daum.net,sports.donga.com,teamblind.com,unsin.co.kr,m.mk.co.kr,m.cafe.naver.com,dvdprime.com,nocutnews.co.kr,news.sbs.co.kr,kyobobook.co.kr,mbiz.heraldcorp.com,m.star.mt.co.kr,m.humoruniv.com,xportsnews.com,etnews.com,sedaily.com,m.danawa.com,sportalkorea.com,news.jtbc.co.kr,ohmynews.com,hankyung.com,news1.kr,web.humoruniv.com,m.etnews.com,itempage3.auction.co.kr,asiae.co.kr,khan.co.kr,avjamak.net,kmib.co.kr,mlbpark.donga.com,search.naver.com,prod.danawa.com,news.v.daum.net,joongang.co.kr,ruliweb.com##div[class^="ad_"]
+hogaeng.co.kr,zdnet.co.kr,news.zum.com,m.search.daum.net,sports.donga.com,teamblind.com,unsin.co.kr,m.mk.co.kr,m.cafe.naver.com,dvdprime.com,nocutnews.co.kr,news.sbs.co.kr,kyobobook.co.kr,mbiz.heraldcorp.com,m.star.mt.co.kr,m.humoruniv.com,xportsnews.com,etnews.com,sedaily.com,m.danawa.com,sportalkorea.com,news.jtbc.co.kr,ohmynews.com,hankyung.com,news1.kr,web.humoruniv.com,m.etnews.com,itempage3.auction.co.kr,asiae.co.kr,khan.co.kr,avjamak.net,kmib.co.kr,mlbpark.donga.com,search.naver.com,prod.danawa.com,news.v.daum.net,joongang.co.kr,ruliweb.com##div[class^="ad_"]
 ! ##div[class^="ad-"]
 cnet.co.kr,hogangnono.com,ppomppu.co.kr,interfootball.co.kr,police112.co.kr,dpg.danawa.com,m.danawa.com,kimpga.com,youthassembly.kr,algumon.com,tvchak.com,dailysecu.com,hankyung.com,m.etnews.com,hani.co.kr,hankookilbo.com,newspim.com##div[class^="ad-"]
 ! ##.banner
@@ -59,6 +59,8 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+hogaeng.co.kr###aside > div[class$="_bn"]
+hogaeng.co.kr##div[id^="container_"] .slide_box
 mlbpark.donga.com##.contents > .left_cont > div[style]
 shopping.interpark.com##.contentsWrap #idRecommendWrap
 zdnet.co.kr##div[class*="_bn_"][style]
@@ -669,7 +671,7 @@ now.rememberapp.co.kr##.now_content_ads__wrapper
 m.ilbe.com##.banner-wrap
 clien.net###coupangAd
 ppomppu.co.kr##tr > td div.bridge
-ypbooks.co.kr,m.enuri.com,asiatime.co.kr,www.ebs.co.kr,search.kyobobook.co.kr,news.nate.com,boribori.co.kr##div[class*="_banner"]
+hogaeng.co.kr,ypbooks.co.kr,m.enuri.com,asiatime.co.kr,www.ebs.co.kr,search.kyobobook.co.kr,news.nate.com,boribori.co.kr##div[class*="_banner"]
 boribori.co.kr##.bFloatingBanner
 ondisk.co.kr##div[id^="wingBanner-"]
 enuri.com##ul#evt_banner
