@@ -59,6 +59,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+koya-culture.com##div[itemprop="articleBody"] ~ div[style]
 eroun.net##body > div[style]:not([class]):not([id])
 eroun.net###layer-popups
 hogaeng.co.kr###aside > div[class$="_bn"]
@@ -649,7 +650,6 @@ jjang0u.com##.banner-web
 jjang0u.com##div[id^="bidrich_"]
 search.naver.com##.brand_search
 thebell.co.kr##a[onclick^="goAD"][onclick$="()"]
-koya-culture.com##.com_ban
 search.shopping.naver.com##li[class^="basicList_item__"].ad
 msearch.shopping.naver.com##div[class^="brandAd_brand_ad"]
 search.daum.net###splinkColl
