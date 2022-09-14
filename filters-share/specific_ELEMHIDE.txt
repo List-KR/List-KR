@@ -59,6 +59,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+diningcode.com##.MapMain > #map ~ div[class]:not([id]):not([style])
 koya-culture.com##div[itemprop="articleBody"] ~ div[style]
 eroun.net##body > div[style]:not([class]):not([id])
 eroun.net###layer-popups

@@ -1,3 +1,4 @@
+diningcode.com#$#.MapMain > #map { width: 100% !important; }
 interpark.com#$##loginAllWrap .loginFormWrap { width: 100% !important; }
 interpark.com#$#.welcomeWrapper .interparkInner .hotCornerWrapper { width: 100% !important; }
 interpark.com#$#.welcomeWrapper .hotCornerContent .hotCornerBanner { margin-left: 150px !important; }
