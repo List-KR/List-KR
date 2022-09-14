@@ -23,7 +23,7 @@ paxnet.co.kr,bigkinds.or.kr,item.gmarket.co.kr,toomics.com,nongmin.com,ilbe.com#
 ! ##div[class^="banner"]
 bgchang.co.kr,edit.incruit.com,signinssl.gmarket.co.kr,m.hungryapp.co.kr,m.edaily.co.kr,m.news1.kr##div[class^="banner"]
 ! ##div[class$="-ad"]
-m.invest.zum.com,insight.co.kr,cgv.co.kr,m.inven.co.kr,tipsandtrickskorea.com,gamemeca.com,yeongnam.com##div[class$="-ad"]
+m.diningcode.com,m.invest.zum.com,insight.co.kr,cgv.co.kr,m.inven.co.kr,tipsandtrickskorea.com,gamemeca.com,yeongnam.com##div[class$="-ad"]
 ! ##div[id^="ad"]
 moneys.mt.co.kr,fmkorea.com,newstomato.com,gamemeca.com,m.ohmynews.com,m.khan.co.kr,m.dcinside.com##div[id^="ad"]
 ! ##div[id^="AD"]
@@ -59,6 +59,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+m.diningcode.com##div[class$="-ad"] ~ .section.naver
 diningcode.com##.MapMain > #map ~ div[class]:not([id]):not([style])
 koya-culture.com##div[itemprop="articleBody"] ~ div[style]
 eroun.net##body > div[style]:not([class]):not([id])
