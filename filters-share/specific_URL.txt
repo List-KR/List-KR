@@ -2,6 +2,8 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||cdn.news.bbsi.co.kr/bannerpop/uploads/
+||cdn.news.bbsi.co.kr/adManager/
 ||cdn.huffingtonpost.kr/adManager/
 ||geo.dailymotion.com^$domain=huffingtonpost.kr
 ||cdn.eroun.net/adManager/
