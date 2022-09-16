@@ -1,3 +1,4 @@
+chuing.net#?#div[style] table[width] td[width]:has(> ins.adsbygoogle)
 community.rememberapp.co.kr#?#div[class*=" "]:has(> a[class*=" "][href][target="_blank"] img[src*="/_next/image?url="][src*="%2Fuploads%2Fbanner%2F"])
 fntimes.com#?#.con_rt > div[class^="lcrt"] ~ div[class^="mcrt"]:has(img[src*="/common/ad_"].ad)
 ceoscoredaily.com#?#.wcms_bestnews ~ div[class]:has(~ div[class] ~ .side_major_company)
