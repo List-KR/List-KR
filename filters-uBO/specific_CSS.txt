@@ -1,3 +1,6 @@
+!#if env_firefox
+tgd.kr#$##article-info > h2 { overflow: visible !important; }
+!#endif
 !#if !env_firefox
 2cpu.co.kr#$#header .row[style] { margin-bottom: 35px !important; }
 sign.dcinside.com#$#.login_inputbox { width: 100% !important; }
