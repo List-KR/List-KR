@@ -1,6 +1,7 @@
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
+laftel.net##+js(no-xhr-if, \/api\/avods\/v[0-9]{1,}\/advertisement\/)
 uwayapply.com##+js(set, admode, 0)
 tvchosun.com##+js(set, player.advertisement_finished, true)
 cfnews.kr##+js(acis, window.open, /gears/popup/default.aspx)
