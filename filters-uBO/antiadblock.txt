@@ -32,7 +32,7 @@ kr1.4kjav.co##+js(aopr, adsBlocked)
 !
 @@||t1.daumcdn.net/adfit/static/kp.js$domain=laftel.net
 @@||asset.laftel.net/static/assets/googleads-advertisement.js$domain=laftel.net
-||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=google-ima3,domain=laftel.net
+||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=google-ima3.js,domain=laftel.net
 focuskr.tistory.com##+js(acis, addEventListener, fuckadblock.min.js)
 singingdalong.blogspot.com##+js(acis, $, #ad_center)
 jtbc.co.kr#@#.adBanner
