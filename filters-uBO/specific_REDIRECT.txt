@@ -1,3 +1,4 @@
+||news.mobfeed.co.kr/front/personal/coupang$redirect=noop.txt
 ||openimage.interpark.com/dia/images/$redirect=2x2.png
 ||bigkinds.or.kr/resources/files/banner/$redirect=2x2.png
 ||bigkinds.or.kr/assets/*/img/content/*banner$redirect=2x2.png
