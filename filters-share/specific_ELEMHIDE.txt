@@ -59,6 +59,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+mbong.kr##.carousel
 mbong.kr##div[role="main"]#content div[data-pswp-uid].rhymix_content:not([class^="document_"]):not([class^="comment_"])
 m.diningcode.com##div[class$="-ad"] ~ .section.naver
 diningcode.com##.MapMain > #map ~ div[class]:not([id]):not([style])
