@@ -1,4 +1,5 @@
 ! Protect from DPI
+@@||seoulland.co.kr^$stealth
 @@||clms.dankook.ac.kr^$stealth
 @@||lghellovision.net^$stealth
 !
