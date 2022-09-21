@@ -1,3 +1,4 @@
+pervsi.com#?#tbody > tr[bgcolor] ~ tr:has(ins.adsbygoogle)
 m.shop.interpark.com#?#[class] ~ [class*="Wrap"] [class*="BannerWrap"]:has(li img[src*="//openimage.interpark.com/dia/"])
 chuing.net#?#div[style] table[width] td[width]:has(> ins.adsbygoogle)
 community.rememberapp.co.kr#?#div[class*=" "]:has(> a[class*=" "][href][target="_blank"] img[src*="/_next/image?url="][src*="%2Fuploads%2Fbanner%2F"])
