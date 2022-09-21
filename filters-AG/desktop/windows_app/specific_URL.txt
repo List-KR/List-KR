@@ -1,3 +1,4 @@
+||smysoft.com:8090/advert/
 ||ahnlab.com/v3lite/ad_popup.jsp
 ||dtapp-player.op.gg/adsense.
 ||admin.clipdown.co.kr/app/advert.php
