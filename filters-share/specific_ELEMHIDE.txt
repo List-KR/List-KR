@@ -59,6 +59,13 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+uwayapply.com###frameBox
+uwayapply.com###login_box ~ .roll
+uwayapply.com###login_box ~ #rightBox
+uwayapply.com##.primiumList
+uwayapply.com##ul[class$="_banner"]
+uwayapply.com###contentsBox #mainCon #top_area
+uwayapply.com##div[id$="_bn"]
 mbong.kr##div[role="main"]#content div[data-pswp-uid].rhymix_content:not([class^="document_"]):not([class^="comment_"])
 m.diningcode.com##div[class$="-ad"] ~ .section.naver
 diningcode.com##.MapMain > #map ~ div[class]:not([id]):not([style])
