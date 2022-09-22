@@ -42,6 +42,7 @@ kr1.4kjav.co#%#//scriptlet("abort-on-property-read", "adsBlocked")
 @@||namu.news/$subdocument,script,domain=namu.wiki|~board.namu.wiki
 @@||namu.wiki/$subdocument,script,domain=namu.wiki|~board.namu.wiki
 !
+||adimg.nate.com/img/*?n=$redirect=2x2-transparent.png,domain=tv.nate.com
 noonnu.cc#%#//scriptlet("prevent-xhr", "pagead2.googlesyndication.com/pagead/js/adsbygoogle.js")
 @@||t1.daumcdn.net/adfit/static/kp.js$domain=laftel.net
 @@||asset.laftel.net/static/assets/googleads-advertisement.js$domain=laftel.net

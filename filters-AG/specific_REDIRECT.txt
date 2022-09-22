@@ -1,3 +1,4 @@
+||smrmembers-smr.smartmediarep.com^$redirect=noopmp4-1s,domain=tv.nate.com
 ||news.mobfeed.co.kr/front/personal/coupang$redirect=nooptext
 ||openimage.interpark.com/dia/images/$redirect=2x2-transparent.png
 ||bigkinds.or.kr/resources/files/banner/$redirect=2x2-transparent.png
