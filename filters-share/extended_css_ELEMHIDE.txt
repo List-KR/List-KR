@@ -1,3 +1,4 @@
+infosori.com#?#table[id][width] tr[bgcolor] ~ tr:not([bgcolor]):has(td > ins.adsbygoogle)
 pervsi.com#?#tbody > tr[bgcolor] ~ tr:has(ins.adsbygoogle)
 m.shop.interpark.com#?#[class] ~ [class*="Wrap"] [class*="BannerWrap"]:has(li img[src*="//openimage.interpark.com/dia/"])
 chuing.net#?#div[style] table[width] td[width]:has(> ins.adsbygoogle)
