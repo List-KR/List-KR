@@ -59,6 +59,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+1412.rest##.fancybox-wrap
 infosori.com##center > div[style] ~ center ~ div[style^="margin-top:"]
 pervsi.com###bottom_sit_handmade
 uwayapply.com###frameBox

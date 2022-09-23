@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||1412.rest/addons/layerpopup/source/jquery.fancybox.
 ||cdn.ppomppu.co.kr/zboard/data/_thumb/pmarket/
 ||tv.nate.com/adv/
 ||pervsi.com/info/skin_board/m/img/coupang.jpeg
