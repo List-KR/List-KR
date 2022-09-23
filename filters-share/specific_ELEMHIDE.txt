@@ -59,6 +59,8 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+tiendeo.co.kr##[class$="-advert"]
+tiendeo.co.kr##section[class*=" "]#header-standard-container
 1412.rest##.fancybox-wrap
 infosori.com##center > div[style] ~ center ~ div[style^="margin-top:"]
 pervsi.com###bottom_sit_handmade
