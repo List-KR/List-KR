@@ -2,6 +2,10 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||m.ppomppu.co.kr/new/*.php?id=ppomppu2$document
+||m.ppomppu.co.kr/new/*.php?id=ppomppu7$document
+||m.ppomppu.co.kr/new/*.php?id=pmarket$document
+||m.ppomppu.co.kr/new/*.php?id=card_market$document
 ||ppomppu.co.kr/zboard/*.php?id=ppomppu2$document
 ||ppomppu.co.kr/zboard/*.php?id=ppomppu7$document
 ||ppomppu.co.kr/zboard/*.php?id=pmarket$document

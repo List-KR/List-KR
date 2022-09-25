@@ -1,3 +1,4 @@
+m.ppomppu.co.kr#?#.main-menu-group ~ .ct:has(h3:contains(뽐뿌)) .ppList li:has(> a[href*="market"], > a[href*="ppomppu2"], > a[href*="ppomppu7"])
 ~m.ppomppu.co.kr,ppomppu.co.kr#?#.top-nav a[href*="?id=ppomppu"] ~ .sub-menu li:has(> a[href*="market"], > a[href*="ppomppu2"], > a[href*="ppomppu7"])
 tgd.kr#?##article-list > .notice:has(.list-header:contains(AD))
 m.shop.interpark.com#?#.productListWrapper > .listWrap:has(.helpGuideWrap:contains(광고))
