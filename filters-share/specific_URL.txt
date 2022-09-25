@@ -2,6 +2,10 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||ppomppu.co.kr/zboard/*.php?id=ppomppu2$document
+||ppomppu.co.kr/zboard/*.php?id=ppomppu7$document
+||ppomppu.co.kr/zboard/*.php?id=pmarket$document
+||ppomppu.co.kr/zboard/*.php?id=card_market$document
 ||1412.rest/addons/layerpopup/source/jquery.fancybox.$stylesheet
 ||cdn.ppomppu.co.kr/zboard/data/_thumb/pmarket/
 ||tv.nate.com/adv/

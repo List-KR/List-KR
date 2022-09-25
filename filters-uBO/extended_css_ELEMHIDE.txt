@@ -1,3 +1,6 @@
+~m.ppomppu.co.kr,ppomppu.co.kr#?#.top-nav a[href*="?id=ppomppu"] ~ .sub-menu li:has(> a[href*="market"])
+~m.ppomppu.co.kr,ppomppu.co.kr#?#.top-nav a[href*="?id=ppomppu"] ~ .sub-menu li:has(> a[href*="ppomppu2"])
+~m.ppomppu.co.kr,ppomppu.co.kr#?#.top-nav a[href*="?id=ppomppu"] ~ .sub-menu li:has(> a[href*="ppomppu7"])
 tgd.kr#?##article-list > .notice:has(.list-header:has-text(AD))
 m.shop.interpark.com#?#.productListWrapper > .listWrap:has(.helpGuideWrap:contains(광고))
 hogaeng.co.kr#?##main_con > div[class^="latest"]:has-text(스폰서광고)
