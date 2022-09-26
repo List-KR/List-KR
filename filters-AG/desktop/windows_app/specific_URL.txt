@@ -5,7 +5,7 @@
 ||admin.helpstart.co.kr/app/shortcut_bookmark_config.php
 ||cf-xdn.altools.co.kr/Ex_image/alyac/EndBanner/
 ||bandisoft.com/bandizip/ad/
-||polink-static-contents.polarisoffice.com^
+||polink-static-contents.polarisoffice.com^$app=msedgewebview2.exe
 ||advert.estsoft.com/?event=$other
 ||v3contents.ahnlab.com/client/ad_toast.jsp
 ||ko-kr.alupdateadd.altools.com/icon/wemakeprice_
