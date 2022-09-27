@@ -1,3 +1,4 @@
+m.search.daum.net#?#.section_cont div[disp-attr]:has(.adLinkColl)
 m.ppomppu.co.kr#?#.main-menu-group ~ .ct:has(> h3[style] > a[href^="bbs_list.php?id=ppomppu"]) li:has(> a[href*="pmarket"])
 ~m.ppomppu.co.kr,ppomppu.co.kr#?#.top-nav:has(.menu01.active) ~ .container .bbs_title p a[href*="market"]
 ~m.ppomppu.co.kr,ppomppu.co.kr#?#.top-nav:has(.menu01.active) ~ .container .bbs_title p a[href*="ppomppu2"]
