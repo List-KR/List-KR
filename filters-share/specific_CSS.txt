@@ -1,3 +1,4 @@
+news.daum.net#$#.main-content > .content-article { width: 100% !important; }
 uwayapply.com#$##contentsBox #login_box { width: 350px !important; float: right !important; border-bottom: solid 2px #da3b40 !important; border-left: solid 2px #da3b40 !important; }
 encar.com#$#.feature_index .box_user { width: 100% !important; }
 shoppinghow.kakao.com#$#.wide_layout .wrap_srch_res .wrap_tab { width: 100% !important; }
