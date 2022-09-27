@@ -59,6 +59,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+ddaily.co.kr##.space_layout ~ div[class^="section_"] > div:not([style*="solid"]) + div[style]:not([class])
 m.search.naver.com##select-contents li._pwr_content
 enuri.com##div[class*="-ad-"]
 loawa.com##a[target="_blank"][data-href][data-banner-statics]
