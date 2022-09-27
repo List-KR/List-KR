@@ -59,6 +59,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+m.search.naver.com##select-contents li._pwr_content
 enuri.com##div[class*="-ad-"]
 loawa.com##a[target="_blank"][data-href][data-banner-statics]
 m.ppomppu.co.kr##.main-menu-group ~ .ct #board-cate ul[style] li[onclick^="location.href="][onclick*="/bbs_list.php?id=ppomppu2"]
