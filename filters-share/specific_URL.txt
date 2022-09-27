@@ -2,6 +2,8 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||enuri.com/*/ajax/connectApiPowerlink.jsp
+||enuri.com/ebayCpc/jsp/connectApi2.jsp
 ||m.ppomppu.co.kr/new/*.php?id=ppomppu2$document
 ||m.ppomppu.co.kr/new/*.php?id=ppomppu7$document
 ||m.ppomppu.co.kr/new/*.php?id=pmarket$document
@@ -46,7 +48,6 @@
 ||m.enuri.com/*/ajax/connectApiPowerlink.jsp
 ||m.enuri.com/*/ajax/get*Sponsor_ajax.jsp
 ||enuri.com/*/api/ad/$xmlhttprequest
-||enuri.com/*/script_min/ad/$script
 ||enuri.com/*/ajax/getNewBrandThema_ajax.jsp
 ||fpn119.co.kr/data/*/banner/
 ||static.coupangcdn.com/image/$domain=shopping.zum.com
