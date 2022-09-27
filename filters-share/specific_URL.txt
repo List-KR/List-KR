@@ -2,6 +2,9 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+!#if !adguard_ext_android_cb
+||t1.daumcdn.net/kas/static/ba.min.js
+!#endif
 ||enuri.com/*/ajax/connectApiPowerlink.jsp
 ||enuri.com/ebayCpc/jsp/connectApi2.jsp
 ||m.ppomppu.co.kr/new/*.php?id=ppomppu2$document
