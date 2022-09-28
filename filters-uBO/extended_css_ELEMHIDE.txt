@@ -1,3 +1,5 @@
+clien.net#?#* ~ div:watch-attr("class"="/[a-z]{1,}_[a-z]{1,}_[a-z]{1,}/"):has(script:has-text(googletag.cmd.push))
+clien.net#?#* ~ div:watch-attr("class"="/[a-z]{1,}_[a-z]{1,}_[a-z]{1,}/"):has(ad-shield-ads)
 m.ppomppu.co.kr#?#.main-menu-group ~ .ct:has(h3:has-text(뽐뿌)) .ppList li:has(> a[href*="market"])
 m.ppomppu.co.kr#?#.main-menu-group ~ .ct:has(h3:has-text(뽐뿌)) .ppList li:has(> a[href*="ppomppu2"])
 m.ppomppu.co.kr#?#.main-menu-group ~ .ct:has(h3:has-text(뽐뿌)) .ppList li:has(> a[href*="ppomppu7"])
