@@ -1,3 +1,4 @@
+m.ruliweb.com#?#div[id^="list_read_"] ul[class*="_list"] > li:has(a[href][target="_blank"])
 m.ruliweb.com#?#.main_center .line_deco_bottom:has(div[class^="ad_"])
 bbs.ruliweb.com#?#div[id$="_best"] ul[class*="best_list"] li:has(a[href][target="_blank"])
 m.search.daum.net#?#.section_cont div[disp-attr]:has(.adLinkColl)
