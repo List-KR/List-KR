@@ -24,7 +24,7 @@ dailymedipharm.com#?#table:has(> tbody > tr > td:has-text(bannerManager):not(:ha
 eggrank.com#?##right-sidebar > .inside-right-sidebar > div[class]:not(:has-text(Hi there, I'm EGG.))
 2cpu.co.kr#?#tr:has(> td > a[href^="../ad_board/"]:has-text(광고))
 2cpu.co.kr#?#ul > li:has(> a[href^="./ad_board/"]:has-text(광고))
-gall.dcinside.com#?#table.gall_list tr:not([data-type][data-no]):has(td:has-text(AD))
+game.dcinside.com,gall.dcinside.com#?#table.gall_list tr:not([data-type][data-no]):has(td:has-text(AD))
 browse.auction.co.kr#?##section--inner_content_body_container div[class*="component--item_card type--"]:has(a[href*="//adgate.auction.co.kr/"].link--itemcard)
 browse.auction.co.kr#?##section--inner_content_body_container div[class*="component--item_card type--"]:has(p.text--title ~ .section--advertisement)
 2cpu.co.kr#?#tr.is_notice:has(span:has-text((광고)))

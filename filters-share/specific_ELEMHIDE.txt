@@ -422,7 +422,7 @@ cultureland.co.kr##.slider > div[id$="_popup"]
 cultureland.co.kr##.main-evn > .main-visual
 tcafe2a.com##.side-event-img
 paxnet.co.kr,chosun.com##div[class$="Ad"]
-gall.dcinside.com##.con_banner
+game.dcinside.com,gall.dcinside.com##.con_banner
 tvchak.com###advertiseInPlayer
 cafe.naver.com###plugFloatingBannerDiv
 game.naver.com##div[class^="styles_Banner"]
