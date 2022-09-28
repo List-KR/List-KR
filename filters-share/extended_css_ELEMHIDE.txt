@@ -1,3 +1,5 @@
+~m.search.daum.net,search.daum.net#?#div[class] > div[disp-attr] ~ div[disp-attr]:has(a[href*="//brandsearch.ad.daum.net/"][onclick^="smartLog"]) + .line
+search.daum.net#?#div[class] > div[disp-attr] ~ div[disp-attr]:has(a[href*="//brandsearch.ad.daum.net/"][onclick^="smartLog"])
 m.ruliweb.com#?#div[id^="list_read_"] ul[class*="_list"] > li:has(a[href][target="_blank"])
 m.ruliweb.com#?#.main_center .line_deco_bottom:has(div[class^="ad_"])
 bbs.ruliweb.com#?#div[id$="_best"] ul[class*="best_list"] li:has(a[href][target="_blank"])
