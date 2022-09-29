@@ -243,10 +243,6 @@
 ||search.danawa.com/ajax/getAdSmartProductList.ajax.php|
 /^https:\/\/moyo-cdn\.[a-z0-9]{2,3}\.[a-z0-9-]{12,15}\.amazonaws\.com\/img\/banner\//
 ||file.mk.co.kr/sports/AD/
-||resources-rmcnmv.pstatic.net/ditto/c/
-||search.pstatic.net/common/?src=https%3A%2F%2Fditto-phinf.pstatic.net%2F
-||ssl.pstatic.net/adimg3.search/o/ditto/
-/^https:\/\/[a-z0-9]{3,4}-g-naver-vod\.pstatic\.net\/ditto\/c\/read\/v[0-9]{1,3}\/VOD_ALPHA\/ditto_/
 ||api.pping.kr/front/*/ad/
 ||cdnjs.happyshopping.kr/_*/css/*/pages/adv.css
 ||api.pping.kr/front/*/ads/
@@ -583,7 +579,6 @@
 ||file.okky.kr/banner/
 ||cdn.ppomppu.co.kr/zboard/data*/banner/
 ||arca.live/static/assets/js/pagead.min.js
-||ssl.pstatic.net/adimg3.search/adpost/js/
 ||img.ruliweb.com/view/
 ||nstatic.dcinside.com/ad/
 ||s3-class.orbi.kr/event/

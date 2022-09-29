@@ -3,7 +3,7 @@ dprime.kr,zdnet.co.kr,fpn119.co.kr,serieamania.com,dvdprime.com,news.nate.com,m.
 ! ##div[class$="_ad"]
 encar.com,fntimes.com,zdnet.co.kr,mbn.co.kr,goodgag.net,v.daum.net,www.instiz.net,ppomppu.co.kr,m.nocutnews.co.kr,kyobobook.co.kr,news.naver.com,news.daum.net,asiae.co.kr,ohmynews.com,seoul.co.kr,dmitory.com,itcm.co.kr,clien.net##div[class$="_ad"]
 ! ##div[class^="ad_"]
-dprime.kr,encar.com,m.todayhumor.co.kr,hogaeng.co.kr,zdnet.co.kr,news.zum.com,m.search.daum.net,sports.donga.com,teamblind.com,unsin.co.kr,m.mk.co.kr,m.cafe.naver.com,dvdprime.com,nocutnews.co.kr,news.sbs.co.kr,kyobobook.co.kr,mbiz.heraldcorp.com,m.star.mt.co.kr,m.humoruniv.com,xportsnews.com,etnews.com,sedaily.com,m.danawa.com,sportalkorea.com,news.jtbc.co.kr,ohmynews.com,hankyung.com,news1.kr,web.humoruniv.com,m.etnews.com,itempage3.auction.co.kr,asiae.co.kr,khan.co.kr,avjamak.net,kmib.co.kr,mlbpark.donga.com,search.naver.com,prod.danawa.com,news.v.daum.net,joongang.co.kr,ruliweb.com##div[class^="ad_"]
+dprime.kr,encar.com,m.todayhumor.co.kr,hogaeng.co.kr,zdnet.co.kr,news.zum.com,m.search.daum.net,sports.donga.com,teamblind.com,unsin.co.kr,m.mk.co.kr,m.cafe.naver.com,dvdprime.com,nocutnews.co.kr,news.sbs.co.kr,kyobobook.co.kr,mbiz.heraldcorp.com,m.star.mt.co.kr,m.humoruniv.com,xportsnews.com,etnews.com,sedaily.com,m.danawa.com,sportalkorea.com,news.jtbc.co.kr,ohmynews.com,hankyung.com,news1.kr,web.humoruniv.com,m.etnews.com,itempage3.auction.co.kr,asiae.co.kr,khan.co.kr,avjamak.net,kmib.co.kr,mlbpark.donga.com,prod.danawa.com,news.v.daum.net,joongang.co.kr,ruliweb.com##div[class^="ad_"]
 ! ##div[class^="ad-"]
 huffingtonpost.kr,eroun.net,cnet.co.kr,hogangnono.com,ppomppu.co.kr,interfootball.co.kr,police112.co.kr,dpg.danawa.com,m.danawa.com,kimpga.com,youthassembly.kr,algumon.com,tvchak.com,dailysecu.com,hankyung.com,m.etnews.com,hani.co.kr,hankookilbo.com,newspim.com##div[class^="ad-"]
 ! ##.banner
@@ -60,7 +60,6 @@ eegosa.com##section[id*="_ads_"]
 sports.donga.com##div[id*="_AD"]
 !
 ddaily.co.kr##.space_layout ~ div[class^="section_"] > div:not([style*="solid"]) + div[style]:not([class])
-m.search.naver.com##select-contents li._pwr_content
 enuri.com##div[class*="-ad-"]
 loawa.com##a[target="_blank"][data-href][data-banner-statics]
 m.ppomppu.co.kr##.main-menu-group ~ .ct #board-cate ul[style] li[onclick^="location.href="][onclick*="/bbs_list.php?id=ppomppu2"]
@@ -139,7 +138,6 @@ mbong.kr##center a[href*="//mbong.kr/banner"]
 news.g-enews.com,m.g-enews.com##a[href^="/extcont/adclick.php"]
 serieamania.com###index > div[class^="box_shadow_"][style]
 sports.donga.com##.today_sportnews
-m.search.naver.com##.shop_default_list > li._ad
 svrforum.com###xt_sticker_wrap
 m.daum.net##.mtop_adfit
 clien.net##div[class*="_outline"]
@@ -336,7 +334,6 @@ www.nate.com###breakingNews.overlay_break
 shoppinghow.kakao.com###contEtc > #nativeAdWrap
 pubg.game.daum.net##.ggb-bnr
 memberssl.auction.co.kr##div[id*="_AD_"]
-m.search.naver.com##section[class*="ad_"][data-ui]
 comic.naver.com##table.viewList tr.band_banner:not(.v2)
 comic.naver.com##.band_banner > a[onclick^="callWebAdBannerClick"]
 webtoon.kakao.com##div > a[href^="/event?event_id="][style]
@@ -466,7 +463,6 @@ gginews.co.kr##center > .bn
 mangacat.cc##.col-md-3.at-col.at-side > .row.fix-gutters-5
 mangacat.cc##img[src^="/mainhover/"]
 mangacat.cc##.basic-banner.row.row-10
-m.search.naver.com##section[class*="ad_"][class*="sp_"]
 m.ytn.co.kr##div[class^="newsview_ad_"]
 m.ytn.co.kr##div[class^="text_ad_"]
 nts.go.kr##.blockUI.blockOverlay
@@ -640,9 +636,6 @@ principlesofknowledge.kr,postshare.co.kr###hd_pop
 postshare.co.kr##div[id^="adMall_popup_"]
 postshare.co.kr##body > div[class^="brand-"]
 postshare.co.kr##.addot-wrapper
-m.search.naver.com##section._nshopping_trendview > div > div > div._product_root > div > ul > li.square_bx._ad
-search.naver.com##section._shopping_root > div > div > div > div > ul > li.box._ad
-search.naver.com##.api_banner
 m.naver.com##div.brick-vowel > div[data-block-code="AD-SMART-CHANNEL"].MM_DA_SMARTCHANNEL
 m.coupang.com##.plp-default__item.search-product__cmg-badge
 m.coupang.com##div[data-page-type="brandSDP"][id$="carousel-products"]
@@ -669,7 +662,6 @@ mground.kr##[data-postid].ultp-shortcode
 daum.net##iframe[src^="//shop-redapi.daum.net/red-apigate/daumtop/"]
 jjang0u.com##.banner-web
 jjang0u.com##div[id^="bidrich_"]
-search.naver.com##.brand_search
 thebell.co.kr##a[onclick^="goAD"][onclick$="()"]
 search.shopping.naver.com##li[class^="basicList_item__"].ad
 msearch.shopping.naver.com##div[class^="brandAd_brand_ad"]
