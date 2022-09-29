@@ -59,6 +59,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+~m.search.naver.com,search.naver.com##div[class*="_fashion"].more_prod
 m.search.naver.com##section[class*="ad_"]
 search.naver.com##li[data-nvmid]._ad
 ddaily.co.kr##.space_layout ~ div[class^="section_"] > div:not([style*="solid"]) + div[style]:not([class])
