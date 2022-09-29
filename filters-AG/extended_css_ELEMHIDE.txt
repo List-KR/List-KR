@@ -1,4 +1,4 @@
-clien.net#?#* ~ div:matches-attr("class"="/[a-z]{1,}_[a-z]{1,}_[a-z]{1,}/"):has(script:contains(googletag.cmd.push), ad-shield-ads)
+clien.net#?#div[class]:matches-attr("class"="/[a-z]{1,}_[a-z]{1,}_[a-z]{1,}/"):has(ad-shield-ads):not(:has([class*=" "]))
 m.ppomppu.co.kr#?#.main-menu-group ~ .ct:has(h3:contains(뽐뿌)) .ppList li:has(> a[href*="market"], > a[href*="ppomppu2"], > a[href*="ppomppu7"])
 ~m.ppomppu.co.kr,ppomppu.co.kr#?#.top-nav a[href*="?id=ppomppu"] ~ .sub-menu li:has(> a[href*="market"], > a[href*="ppomppu2"], > a[href*="ppomppu7"])
 tgd.kr#?##article-list > .notice:has(.list-header:contains(AD))
