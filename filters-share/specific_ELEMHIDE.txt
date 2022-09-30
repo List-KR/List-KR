@@ -768,6 +768,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 !
+qooqootv.fun##div[class^="banner_"]
 !#if !adguard_ext_android_cb
 lover92.net,lover93.net,lover94.net,lover95.net,lover96.net,lover97.net,lover98.net,lover99.net,lover100.net,lover101.net##.xe_content span ~ div[style]
 !#endif
