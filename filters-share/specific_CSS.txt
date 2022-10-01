@@ -1,3 +1,5 @@
+hashcode.co.kr#$#[class][itemtype*="//schema.org/"] > .center { width: 100% !important; flex-basis: 100% !important; }
+hashcode.co.kr#$#[class][itemtype*="//schema.org/"] .markdown { max-width: 100% !important; }
 pinpointnews.co.kr#$#.box-skin .mobile-popular { border-top: none !important; }
 news.nate.com#$#.thisTimeNews > ul { border-right: none !important; width: 100% !important; }
 v.daum.net#$#.inner-main [data-cloud*="_ad_"] + .box_news_recomm { margin-top: 0px !important; }
