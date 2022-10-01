@@ -59,6 +59,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+okky.kr##main div[class*="space-"].hidden.flex-none
 pinpointnews.co.kr###article-view div[style].float-center .clearfix > div[class^="box-margin"]
 pinpointnews.co.kr###article-view div[style].float-center .clearfix > center[style]
 news.nate.com##.thisTimeNews > div[class^="bn"]
@@ -737,7 +738,6 @@ coolenjoy.net##img[src^="https://photo.coolenjoy.co.kr/banner/"]
 quasarzone.com##*:not(footer) > div[class^="main-"][class$="-banner"]
 quasarzone.com##.top-banner
 phdkim.net,nongmin.com,hankookilbo.com##div[class^="banner-"]
-okky.kr##img[src^="//file.okky.kr/banner/"]
 etoland.co.kr##ul.board_list > li.subject.ad_subject
 etoland.co.kr##td#mw_basic > div[style="height:90px; text-align:center; margin-top:10px; margin-bottom:10px;"]
 etoland.co.kr##center > a img[src*="//www.etoland.co.kr/data/daumeditor10/"]:not(.shrinkToFit)
