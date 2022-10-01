@@ -59,6 +59,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+news.nate.com##.thisTimeNews > div[class^="bn"]
 ~m.search.naver.com,search.naver.com##.brand_search
 search.naver.com##li[data-cr-area][data-cr-gdid^="nad-"]._svp_item
 ~m.search.naver.com,search.naver.com##div[class*="_fashion"].more_prod
