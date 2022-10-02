@@ -59,6 +59,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+orbi.kr##.oxad
 hashcode.co.kr##[class][itemtype*="//schema.org/"] > .right
 okky.kr##main div[class*="space-"].hidden.flex-none
 pinpointnews.co.kr###article-view div[style].float-center .clearfix > div[class^="box-margin"]
