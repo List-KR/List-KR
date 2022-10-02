@@ -2,6 +2,8 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||chosunlatimes.com/thema/Miso-Basic*/assets/img/developer_
+||chosunlatimes.com/data/file/banner/
 ||onechurch.nz/banners/
 /^https:\/\/upload\.acmicpc\.net\/[a-z0-9]{8}-[a-z0-9]{4}-[a-z0-9]{4}-[a-z0-9]{4}-[a-z0-9]{12}\/$/
 ||grepp-programmers.*.amazonaws.com/production/file_resource/$domain=hashcode.co.kr,image
