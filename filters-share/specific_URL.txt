@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||nzkoreapost.com/banners/
 ||koreadaily.com/assets/js/*/kd_adviedo
 ||koreadaily.com/newkd_css/ad_$stylesheet
 ||koreadaily.com/resources/css/koreadaily/*/ad_
