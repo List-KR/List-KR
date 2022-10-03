@@ -1,1 +1,1 @@
-@@||static.dable.io/dist/plugin.min.js$script,domain=algumon.com
+!
