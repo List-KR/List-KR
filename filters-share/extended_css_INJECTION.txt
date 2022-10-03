@@ -1,3 +1,4 @@
+algumon.com#$?#.nav-mobile:matches-css(display: none) ~ .base  > .main { width: calc(100% - 240px) !important; }
 news.op.gg#$?#header + div[class] div[class^="css-"] > div[class^="css-"] > div[class^="css-"]:has( ~ .youtube-iframe) { margin-top: 8px !important; }
 5donews.co.kr#$?#.body > .content.xe_content:not(:has(article)) { width: auto !important; }
 mule.co.kr#$?#.section-lefttop-center:has(> .mule-today) { width: 100% !important; }

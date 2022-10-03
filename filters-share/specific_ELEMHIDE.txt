@@ -59,6 +59,8 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+algumon.com##.base > .dashboard:not(.sidebar-left)
+algumon.com##ul.post-list > li[class^="post-"]:not([id]):not([data-post-id])
 nzkoreapost.com##div[id^="agnb-"][class^="agnb-"][style]
 nzkoreapost.com##li[class$="-ad"]
 nzkoreapost.com##div[id^="article"].miso-post-gallery
