@@ -1,3 +1,5 @@
+~news.koreadaily.com,koreadaily.com#$#.contentBox > .topNews > .con-L { border-top: none !important; }
+~news.koreadaily.com,koreadaily.com#$#.contentBox > .topNews .icon-list { border-top: none !important; }
 hashcode.co.kr#$#[class][itemtype*="//schema.org/"] > .center { width: 100% !important; flex-basis: 100% !important; }
 hashcode.co.kr#$#[class][itemtype*="//schema.org/"] .markdown { max-width: 100% !important; flex-basis: 100% !important; }
 pinpointnews.co.kr#$#.box-skin .mobile-popular { border-top: none !important; }

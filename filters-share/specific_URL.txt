@@ -2,6 +2,10 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||koreadaily.com/assets/js/*/kd_adviedo
+||koreadaily.com/newkd_css/ad_$stylesheet
+||koreadaily.com/resources/css/koreadaily/*/ad_
+||news.koreadaily.com/ad/
 ||thistime.ca/wp-content/uploads/thistime/banners/
 /^https:\/\/thistime\.ca\/wp-content\/uploads\/[0-9]{4}\/[0-9]{2}\/(.{0,}-ad-|.{0,}-banner-|.{0,}[0-9]{3}x[0-9]{3}_|[0-9]{3}x[0-9]{3}-)/
 ||chosunlatimes.com/thema/Miso-Basic*/assets/img/developer_
