@@ -267,10 +267,6 @@
 ||api.pping.kr/front/*/ads/
 ||api.pping.kr/front/*/curation/
 ||cdnimg.happyshopping.kr/img_ad/
-||image.kyobobook.co.kr//ink/images/prom/
-||imac.kyobobook.co.kr/html/INK/$subdocument
-||image.kyobobook.co.kr/ink/images/prom/
-||kyobobook.co.kr/newimages/adcenter/
 ||sumpic.com/shop/upload/banner/
 /^https:\/\/h5\.dcinside\.com\/assets\/(aaa%20|banner|[%A-F0-9]{20,})/
 ||res.heraldm.com/banner/

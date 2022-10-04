@@ -1,9 +1,9 @@
 ! ##div[id^="ad_"]
 dprime.kr,zdnet.co.kr,fpn119.co.kr,serieamania.com,dvdprime.com,news.nate.com,m.nate.com,www.nate.com,m.edaily.co.kr,hani.co.kr,m.sedaily.com,m.thisisgame.com,planet-times.com,m.10000recipe.com,pandora.tv,mobile.newsis.com,fnnews.com,land.hankyung.com,mania.kr,mosen.mt.co.kr,ruliweb.com##div[id^="ad_"]
 ! ##div[class$="_ad"]
-encar.com,fntimes.com,zdnet.co.kr,mbn.co.kr,goodgag.net,v.daum.net,www.instiz.net,ppomppu.co.kr,m.nocutnews.co.kr,kyobobook.co.kr,news.naver.com,news.daum.net,asiae.co.kr,ohmynews.com,seoul.co.kr,dmitory.com,itcm.co.kr,clien.net##div[class$="_ad"]
+encar.com,fntimes.com,zdnet.co.kr,mbn.co.kr,goodgag.net,v.daum.net,www.instiz.net,ppomppu.co.kr,m.nocutnews.co.kr,news.naver.com,news.daum.net,asiae.co.kr,ohmynews.com,seoul.co.kr,dmitory.com,itcm.co.kr,clien.net##div[class$="_ad"]
 ! ##div[class^="ad_"]
-~m.search.naver.com,search.naver.com,dprime.kr,encar.com,m.todayhumor.co.kr,hogaeng.co.kr,zdnet.co.kr,news.zum.com,m.search.daum.net,sports.donga.com,teamblind.com,unsin.co.kr,m.mk.co.kr,m.cafe.naver.com,dvdprime.com,nocutnews.co.kr,news.sbs.co.kr,kyobobook.co.kr,mbiz.heraldcorp.com,m.star.mt.co.kr,m.humoruniv.com,xportsnews.com,etnews.com,sedaily.com,m.danawa.com,sportalkorea.com,news.jtbc.co.kr,ohmynews.com,hankyung.com,news1.kr,web.humoruniv.com,m.etnews.com,itempage3.auction.co.kr,asiae.co.kr,khan.co.kr,avjamak.net,kmib.co.kr,mlbpark.donga.com,prod.danawa.com,news.v.daum.net,joongang.co.kr,ruliweb.com##div[class^="ad_"]
+~m.search.naver.com,search.naver.com,dprime.kr,encar.com,m.todayhumor.co.kr,hogaeng.co.kr,zdnet.co.kr,news.zum.com,m.search.daum.net,sports.donga.com,teamblind.com,unsin.co.kr,m.mk.co.kr,m.cafe.naver.com,dvdprime.com,nocutnews.co.kr,news.sbs.co.kr,mbiz.heraldcorp.com,m.star.mt.co.kr,m.humoruniv.com,xportsnews.com,etnews.com,sedaily.com,m.danawa.com,sportalkorea.com,news.jtbc.co.kr,ohmynews.com,hankyung.com,news1.kr,web.humoruniv.com,m.etnews.com,itempage3.auction.co.kr,asiae.co.kr,khan.co.kr,avjamak.net,kmib.co.kr,mlbpark.donga.com,prod.danawa.com,news.v.daum.net,joongang.co.kr,ruliweb.com##div[class^="ad_"]
 ! ##div[class^="ad-"]
 nzkoreapost.com,pinpointnews.co.kr,huffingtonpost.kr,eroun.net,cnet.co.kr,hogangnono.com,ppomppu.co.kr,interfootball.co.kr,police112.co.kr,dpg.danawa.com,m.danawa.com,kimpga.com,youthassembly.kr,algumon.com,tvchak.com,dailysecu.com,hankyung.com,m.etnews.com,hani.co.kr,hankookilbo.com,newspim.com##div[class^="ad-"]
 ! ##.banner
@@ -313,13 +313,6 @@ search.11st.co.kr##.search_content section.search_section[data-log-actionid-area
 search.11st.co.kr##.search_content section.search_section[data-log-actionid-area="focus_bottom"]
 pping.kr##.HAdLine
 pping.kr##iframe[src*="//ad.pping.kr/"]
-kyobobook.co.kr##.box_login_inner > div[class^="popup_content"]
-kyobobook.co.kr##body.welcome .content_middle div[class^="ad_"]
-kyobobook.co.kr##body.welcome #container > div[class^="bg_welcome_"]:not([style]):nth-child(-n+3)
-kyobobook.co.kr##body.welcome #wing_ad
-kyobobook.co.kr##body.welcome .box_welcome_best
-kyobobook.co.kr###mainEventDiv
-kyobobook.co.kr##.top_header > .searchbook_main_new
 etoland.co.kr##div[id^="mobile_banner_"]
 etoland.co.kr###mw_mobile > style ~ center >  a[href] > img[src]
 newstomato.com##.rns_bn
@@ -701,7 +694,7 @@ now.rememberapp.co.kr##.now_content_ads__wrapper
 m.ilbe.com##.banner-wrap
 clien.net###coupangAd
 ppomppu.co.kr##tr > td div.bridge
-hogaeng.co.kr,ypbooks.co.kr,m.enuri.com,asiatime.co.kr,www.ebs.co.kr,search.kyobobook.co.kr,news.nate.com,boribori.co.kr##div[class*="_banner"]
+hogaeng.co.kr,ypbooks.co.kr,m.enuri.com,asiatime.co.kr,www.ebs.co.kr,news.nate.com,boribori.co.kr##div[class*="_banner"]
 boribori.co.kr##.bFloatingBanner
 ondisk.co.kr##div[id^="wingBanner-"]
 enuri.com##ul#evt_banner
