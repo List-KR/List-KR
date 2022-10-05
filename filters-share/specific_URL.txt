@@ -2,6 +2,8 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||cdn.emetro.co.kr/data1/resources/banner/
+||cdn.emetro.co.kr/data1/resources/popup/
 ||cdn.ekoreanews.co.kr/bannerpop/uploads/
 ||cdn.ikpnews.net/bannerpop/uploads/
 ||nzkoreapost.com/banners/
