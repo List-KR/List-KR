@@ -2,6 +2,9 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||mjmedi.com/bannerpop/popup.html$document
+||mjmedi.com/bannerpop/uploads/
+||mjmedi.com/adManager/
 ||cdn.emetro.co.kr/data1/resources/banner/
 ||cdn.emetro.co.kr/data1/resources/popup/
 ||cdn.ekoreanews.co.kr/bannerpop/uploads/
