@@ -2,6 +2,8 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||goodmorningcc.com/adManager/
+||goodmorningcc.com/bannerpop/uploads/
 ||cdn.lecturernews.com/adManager/
 ||cdn.lecturernews.com/bannerpop/uploads/
 ||ikbn.news/data/banner/
