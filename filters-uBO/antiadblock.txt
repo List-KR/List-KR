@@ -30,6 +30,7 @@ kr1.4kjav.co##+js(aopr, adsBlocked)
 @@||namu.news/$frame,script,domain=namu.wiki|~board.namu.wiki
 @@||namu.wiki/$frame,script,domain=namu.wiki|~board.namu.wiki
 !
+@@||op.gg^$generichide
 1412.rest##+js(acis, hideAll)
 1412.rest#$#[class^="document_"].xe_content { height: auto !important; overflow: auto !important; }
 ||adimg.nate.com/img/*?n=$redirect=2x2.png,domain=tv.nate.com
