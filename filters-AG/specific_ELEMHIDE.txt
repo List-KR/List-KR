@@ -1,2 +1,2 @@
-[$path=/\?clubid=27842958$/]cafe.naver.com##table[role="presentation"] #editorMainContent div[style^="text-align"]:nth-child(n+6)
+[$path=/(&|\\.|\\?)clubid=13764661($|&)/]cafe.naver.com##table[role="presentation"] #editorMainContent div[style^="text-align"]:nth-child(n+6)
 [$path=/&clubid=27842958(&|$)/]cafe.naver.com##img[src][alt="매니저 등록 배너"]
