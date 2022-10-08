@@ -1,2 +1,3 @@
-[$path=/(&|\\.|\\?)clubid=27842958($|&)/]cafe.naver.com##table[role="presentation"] #editorMainContent div[style^="text-align"]:nth-child(n+6)
-[$path=/&clubid=27842958(&|$)/]cafe.naver.com##img[src][alt="매니저 등록 배너"]
+[$path=/ca-fe\\/web\\/cafes\\/steamindiegame\\//]m.cafe.naver.com##.banner_add.bottom
+[$path=/(&|\\.|\\?)clubid=27842958($|&)/]~m.cafe.naver.com,cafe.naver.com##table[role="presentation"] #editorMainContent div[style^="text-align"]:nth-child(n+6)
+[$path=/&clubid=27842958(&|$)/]~m.cafe.naver.com,cafe.naver.com##img[src][alt="매니저 등록 배너"]
