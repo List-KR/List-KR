@@ -30,6 +30,10 @@ m.bunjang.co.kr#?#.app > div > div > div[class]:has(> div[class] > div[class] > 
 m.bunjang.co.kr#?#div:has(> div > div > div:contains(연관상품) > div:has(> div:contains(AD)) > img[alt="AD 가이드"])
 m.ppomppu.co.kr#?#.community-board-notice-box > #bbs_inform:has(> ul > li span:contains(AD))
 !
+[$path=/(&|\\.|\\?)clubid=10050146($|&)/]~m.cafe.naver.com,cafe.naver.com#?##content-area #upperArticleList tr.board-notice:not(:has(td.p-nick > a:contains(중고나라스태프))):not(:has(td.p-nick > a:contains(중나중나지기)))
+[$path=/joonggonara($|\\/)/]~m.cafe.naver.com,cafe.naver.com#?##cafe-menu .cafe-menu-tit:contains(AD) + ul
+[$path=/joonggonara($|\\/)/]~m.cafe.naver.com,cafe.naver.com#?##cafe-menu .cafe-menu-tit:contains(AD)
+[$path=/(&|\\.|\\?)clubid=10050146($|&)/]~m.cafe.naver.com,cafe.naver.com#?##editorMainContent *:has(~ div[title][style]:has(a[target="_blank"][href*=".police.go.kr/"]))
 [$path=/ca-fe\\/anycallusershow(\\?|$)/]m.cafe.naver.com#?#.location_bar:has(.active:contains(전체공지)) ~ .location_fix li.board_box:has(a[href].txt_area span.nick:contains(삼성스마트폰카페운영))
 [$path=/(&|\\.|\\?)clubid=13764661($|&)/]~m.cafe.naver.com,cafe.naver.com#?##upperArticleList ._noticeArticle:has(a[href][class][onclick]):has(.td_name a[onclick][href][class]:contains(삼성스마트폰카페운영))
 [$path=/(&|\\.|\\?)clubid=13764661($|&)/]~m.cafe.naver.com,cafe.naver.com#?##editorMainContent div[title][style^="color"]:not(:has(a[target="_blank"])) ~ *:has(a[target="_blank"])
