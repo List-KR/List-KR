@@ -1,3 +1,4 @@
+[$path=/(&|\\.|\\?)clubid=28173877($|&)/]~m.cafe.naver.com,cafe.naver.com###cafe-data > #cafe-intro
 [$path=/(&|\\.|\\?)clubid=29560217($|&)/]~m.cafe.naver.com,cafe.naver.com###editorMainContent a[href*="//cafe.naver.com/eyejoker7?iframe"][target="_blank"] ~ *
 [$path=/ca-fe\\/web\\/cafes\\/steamindiegame\\//]m.cafe.naver.com##.banner_add.bottom
 [$path=/(&|\\.|\\?)clubid=27842958($|&)/]~m.cafe.naver.com,cafe.naver.com##table[role="presentation"] #editorMainContent div[style^="text-align"]:nth-child(n+6)
