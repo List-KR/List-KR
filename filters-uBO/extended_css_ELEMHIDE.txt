@@ -38,6 +38,7 @@ m.bunjang.co.kr#?#.app > div > div > div[class]:has(> div[class] > div[class] > 
 m.bunjang.co.kr#?#div:has(> div > div > div:has-text(연관상품) > div:has(> div:has-text(AD)) > img[alt="AD 가이드"])
 m.ppomppu.co.kr#?#.community-board-notice-box > #bbs_inform:has(> ul > li span:has-text(AD))
 !
+m.cafe.naver.com#?#.location_bar:has(.active:contains(전체공지)) ~ .location_fix li.board_box:not(:has(a[href].txt_area span.nick:contains(/중고나라스태프|중나중나지기/))):matches-path(/ca-fe\\/joonggonara/)
 ~m.cafe.naver.com,cafe.naver.com#?##content-area #upperArticleList tr.board-notice:not(:has(td.p-nick > a:has-text(중고나라스태프))):not(:has(td.p-nick > a:has-text(중나중나지기))):matches-path((&|\\.|\\?)clubid=10050146($|&)/)
 ~m.cafe.naver.com,cafe.naver.com#?##cafe-menu .cafe-menu-tit:has-text(AD) + ul:matches-path(/joonggonara($|\\/)/)
 ~m.cafe.naver.com,cafe.naver.com#?##cafe-menu .cafe-menu-tit:has-text(AD):matches-path(/joonggonara($|\\/)/)
