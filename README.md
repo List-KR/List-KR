@@ -4,6 +4,7 @@ This is a web filter for websites in Korean language, to be used with [AdGuard](
 List-KR aims to filter ads [^1] and anti-adblock.
 
 List-KR is focused on Korean websites and app, and it is recommended to use List-KR together with AdGuard Base filter.
+If you want to block any advertisement managed by a cafe manager on Naver Cafe, rank of the cafe is fruit 1 or higher.
 
 List-KR is optimized for AdGuard Windows, Mac, Android, Browser Extension and uBO.
 Therefore, List-KR cannot be added on AdBlock Plus and [Unicorn Pro adblocker](https://getunicorn.app/en) because they do not support advanced syntax (e.g. `$$`, `#%#//scriptlet()`, [`$removeparam`](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#removeparam) and `##+js`).
