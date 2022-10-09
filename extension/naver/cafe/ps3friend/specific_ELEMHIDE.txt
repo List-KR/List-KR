@@ -1,1 +1,0 @@
-cafe.naver.com##div[onclick="window.top.location.href='/ps3friend/1522161'"]#cafe-banner

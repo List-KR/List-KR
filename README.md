@@ -33,36 +33,10 @@ https://github.com/List-KR/List-KR/raw/master/filter-uBO.txt
 ```
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_25.txt
 ```
-<details>
-<summary>List-KR Experimental</summary>
-
-List-KR provides you an experimental version of List-KR to resolve problematic issues like Ad-Shield and NamuWiki without an userscript.
-
-Any problematic rules/filters can cause an incorrect blocking or false-positive.
-
-If you want to learn more, please visit [#411](https://github.com/List-KR/List-KR/issues/411) and [#412](https://github.com/List-KR/List-KR/pull/412)
-
-**List-KR Experimental** (AdGuard):
-```
-https://github.com/List-KR/List-KR/raw/master/filter-experimental.txt
-```
-
-**List-KR uBO Experimental** (uBlock Origin):
-```
-https://github.com/List-KR/List-KR/raw/master/filter-uBO-experimental.txt
-```
-
-</details>
 
 ## microShield and NamuLink
 - **[microShield](https://github.com/List-KR/microShield)** blocks complicated advertisement to block on website protected by ad-shield.
 - **[NamuLink](https://github.com/List-KR/NamuLink)** blocks license-abused PowerLink advertisement on NamuWiki.
-
-## List-KR Extension
-- **List-KR Extension** blocks low-quality user-made advertisement.
-    ```
-    https://github.com/List-KR/List-KR/raw/master/filter_Extension.txt
-    ```
 
 ## Support
 - [Create a GitHub Issue](https://github.com/List-KR/List-KR/issues/new/choose)
