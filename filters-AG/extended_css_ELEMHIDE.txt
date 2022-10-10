@@ -30,6 +30,7 @@ m.bunjang.co.kr#?#.app > div > div > div[class]:has(> div[class] > div[class] > 
 m.bunjang.co.kr#?#div:has(> div > div > div:contains(연관상품) > div:has(> div:contains(AD)) > img[alt="AD 가이드"])
 m.ppomppu.co.kr#?#.community-board-notice-box > #bbs_inform:has(> ul > li span:contains(AD))
 !
+[$path=/(&|\\.|\\?)clubid=14605461($|&)/]~m.cafe.naver.com,cafe.naver.com#?##editorMainContent div[style^="margin-bottom:"]:has(~ div[style]:has(> a[href*=".youtube.com/channel/"]))
 [$path=/fx8300($|\\/|\\?)/]~m.cafe.naver.com,cafe.naver.com#?##cafe-menu .cafe-menu-tit:contains(우리카페 협력업체) + ul
 [$path=/fx8300($|\\/|\\?)/]~m.cafe.naver.com,cafe.naver.com#?##cafe-menu .cafe-menu-tit:contains(우리카페 협력업체)
 [$path=/(&|\\.|\\?)clubid=28173877($|&)/]~m.cafe.naver.com,cafe.naver.com#?#.article-board tr.type_main:not(:has(.td_name .m-tcol-c:contains(/(카페지기|매니저)/)))
