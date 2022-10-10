@@ -59,6 +59,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+m.inven.co.kr###boardPart > div[style]:not([class])
 m.yna.co.kr##section[class*="main-major-news"] li[class]
 lecturernews.com##div[style].text-center
 metroseoul.co.kr##div[id^="layerPopup_"]
