@@ -1,3 +1,5 @@
+[$path=/ca-fe\\/web\\/cafes\\/(anycallusershow|13764661)(\\/|\\?)/]m.cafe.naver.com##.banner_add.bottom
+[$path=/(&|\\.|\\?)clubid=13764661(&|$)/]~m.cafe.naver.com,cafe.naver.com##img[src][alt="매니저 등록 배너"]
 [$path=/(&|\\.|\\?)clubid=14605461($|&)/]~m.cafe.naver.com,cafe.naver.com###editorMainContent div[style^="margin-bottom:"] a[href*=".youtube.com/channel/"][target="_blank"]
 [$path=/(&|\\.|\\?)clubid=14605461(&|$)/]~m.cafe.naver.com,cafe.naver.com##img[src][alt="매니저 등록 배너"]
 [$path=/(&|\\.|\\?)clubid=28173877($|&)/]~m.cafe.naver.com,cafe.naver.com###cafe-data > #cafe-intro
