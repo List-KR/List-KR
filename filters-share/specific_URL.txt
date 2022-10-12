@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||medipana.com/upload/banner/
 ||pds.dailypharm.com/ADManager_
 ||vod.dailypharm.com/tv_AdVOD/
 ||dailypharm.com/Users/Event/

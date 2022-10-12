@@ -1,3 +1,4 @@
+medipana.com#$#header .artc_ad { height: 130px !important; }
 ~m.dailypharm.com,dailypharm.com#$#header { height: 100px !important; }
 drapt.com#$#li.area_guide { width: 96% !important; }
 drapt.com#$#.cs_news_area .cs_area { width: calc(100% - 2px) !important; }
