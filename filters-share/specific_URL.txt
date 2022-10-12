@@ -2,6 +2,9 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||pds.dailypharm.com/ADManager_
+||vod.dailypharm.com/tv_AdVOD/
+||dailypharm.com/Users/Event/
 /^https:\/\/(www\.|)kookje\.co\.kr\/(mobile\/|)design\/(?!(bn_what300|.{0,}naver|popup|series\/)).{0,}/
 ||drapt.com/banner/
 ||drapt.com/index/img/*_bnn
