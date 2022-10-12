@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||medifonews.com/data/banner/
 ||r114.com/?*&banner=*_ad
 ||r114.com/?*&_a=*Ad
 ||r114.com/?*&_a=*Advertise
