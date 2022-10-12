@@ -2,6 +2,8 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||lawtalk.co.kr/api/beta?categories=
+||lawtalk.co.kr/api/adcategories/
 ||kpanews.co.kr/common_files/upload_files/banner/
 ||medipana.com/upload/banner/
 ||pds.dailypharm.com/ADManager_

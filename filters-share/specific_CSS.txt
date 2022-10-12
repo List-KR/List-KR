@@ -1,3 +1,4 @@
+lawtalk.co.kr#$#div[ng-if] > .lawyers-section.has-border-bottom { height: 250px !important; }
 medipana.com#$#header .artc_ad { height: 130px !important; }
 ~m.dailypharm.com,dailypharm.com#$#header { height: 100px !important; }
 drapt.com#$#li.area_guide { width: 96% !important; }
