@@ -2,6 +2,9 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||gameinsight.co.kr/banner/
+||gameinsight.co.kr/Autobox/
+||gameinsight.co.kr/bannerManager/
 ||medifonews.com/data/banner/
 ||r114.com/?*&banner=*_ad
 ||r114.com/?*&_a=*Ad
