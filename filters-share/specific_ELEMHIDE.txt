@@ -59,6 +59,8 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+kookje.co.kr##.box_skitter
+kookje.co.kr##div[id$="_bnr"]
 realty.chosun.com##.bnr_area a[target]:not([href*="//realty.chosun.com/"])
 r114.com###divMemulRight > div:not([id]):not([class])
 m.r114.com##.google_bn
