@@ -2,6 +2,8 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||drapt.com/banner/
+||drapt.com/index/img/*_bnn
 ||realty.chosun.com/RealtyCommon/
 ||gameinsight.co.kr/banner/
 ||gameinsight.co.kr/Autobox/
