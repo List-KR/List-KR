@@ -1,6 +1,8 @@
 ! PopMagic
 watchfreejavonline.co#%#//scriptlet("abort-current-inline-script", "popMagic.init")
 !
+kyobobook.co.kr#%#//scriptlet("remove-class", "dialog_open", "html")
+kyobobook.co.kr#%#//scriptlet("remove-attr", "placeholder", "input#searchMainKeyword")
 kyobobook.co.kr#%#//scriptlet("remove-attr", "placeholder", "input#searchKeyword")
 mjmedi.com#%#//scriptlet("abort-current-inline-script", "bannerpop.popup")
 laftel.net#%#//scriptlet("prevent-xhr", "\/api\/avods\/v[0-9]{1,}\/advertisement\/")
