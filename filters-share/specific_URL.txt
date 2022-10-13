@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+/http(s|):\/\/(www\.|)defensetimes\.kr\/imgs\/[A-z_]{1,}[0-9]{2,3}x[0-9]{2,3}\./
 ||lawnb.com/lbimg/Banner/
 ||mediapen.com/banner
 /^https:\/\/tbc\.imgdl\.xcache\.kinxcdn\.com\/cdn[0-9]{3}\/[0-9]{8}\/[0-9%A-z_]{1,}\([0-9]{3,4}x[0-9]{3,4}\)/

@@ -1,3 +1,4 @@
+defensetimes.kr#?#table[id^="index_"] tr:has(ins.adsbygoogle)
 m.compuzone.co.kr#?#div[class^="contents"] > div[class^="main_area"]:has(img[src*="ADRollingBanner_"])
 pinpointnews.co.kr#?##article-view div[style].float-center div[class^="m-view-"]:not(:has(> article))
 ~m.clien.net,clien.net#?#div[class*="_"]:has(> ad-shield-inventory)
