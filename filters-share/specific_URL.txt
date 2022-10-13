@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||mediapen.com/banner
 /^https:\/\/tbc\.imgdl\.xcache\.kinxcdn\.com\/cdn[0-9]{3}\/[0-9]{8}\/[0-9%A-z_]{1,}\([0-9]{3,4}x[0-9]{3,4}\)/
 /^https:\/\/static\.wixstatic\.com\/media\/[0-9a-z]{6}_[a-z0-9]{32}~(?!.{1,}doc).{1,}/$domain=ponh.info
 ||lawtalk.co.kr/api/beta?categories=
@@ -528,7 +529,6 @@
 ||cdn.todaykorea.co.kr/bannerpop/uploads/
 ||fnnews.com/resources/js/fnnewsAd.js
 ||hoppingcall.me/ad_shoppingCallme.php
-||mediapen.com/banners/
 ||cdn.mediatoday.co.kr/adManager/css/adManager.css
 ||cdn.mediatoday.co.kr/bannerpop/uploads/
 ||res.heraldm.com/HeraldResource/doubleuad/
