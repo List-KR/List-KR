@@ -1,6 +1,7 @@
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
+kyobobook.co.kr##+js(ra, placeholder, input#searchKeyword)
 mjmedi.com##+js(acis, bannerpop.popup)
 laftel.net##+js(no-xhr-if, \/api\/avods\/v[0-9]{1,}\/advertisement\/)
 uwayapply.com##+js(set, admode, 0)
