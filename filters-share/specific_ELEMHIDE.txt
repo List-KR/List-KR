@@ -59,6 +59,8 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+itworld.co.kr##.section-content > .border-bottom ~ h5[class^="font-color-primary-"]
+itworld.co.kr##.section-content > .border-bottom ~ .node-list
 kyobobook.co.kr##div[class^="search_banner_"]
 kyobobook.co.kr##body > div[class*="_banner_"]
 kyobobook.co.kr##main div[id*="_banner"][id^="welcome_"][class$="_area"]
