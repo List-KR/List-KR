@@ -1,3 +1,4 @@
+programmers.co.kr#?#div[class*="Banner"] div[data-swiper-slide-index].swiper-slide:has(a[href^="/banners/"]):remove()
 kyobobook.co.kr##.banner_control_inner li[data-target="#75"].banner_group_item:remove()
 kyobobook.co.kr#?#.welcome_banner_inner li.swiper-slide:has(img[src*="image.kyobobook.co.kr/newimages/adcenter/"]):remove()
 defensetimes.kr#?#table[id^="index_"] tr:has(ins.adsbygoogle)
