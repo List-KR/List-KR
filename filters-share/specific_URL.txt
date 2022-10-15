@@ -2,6 +2,7 @@
 ||img.sbs.co.kr/news/ad/delay_redirect.html$document
 ||img.sbs.co.kr/news/ad/delay_redirect.html$subdocument
 !
+||programs.sbs.co.kr/show/advertise_ch/
 ||image.kyobobook.co.kr/newimages/adcenter/
 /http(s|):\/\/(www\.|)defensetimes\.kr\/imgs\/[A-z_]{1,}[0-9]{2,3}x[0-9]{2,3}\./
 ||lawnb.com/lbimg/Banner/
