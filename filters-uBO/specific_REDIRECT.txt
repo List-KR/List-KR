@@ -1,5 +1,5 @@
 ||advod.sbs.co.kr/sbsad/$media,redirect=noop-1s.mp4
-||smrmembers-smr.smartmediarep.com^$redirect=noop-1s.mp4
+||smrmembers-smr.smartmediarep.com/smc/smrmembers/$redirect=noop-1s.mp4
 ||news.mobfeed.co.kr/front/personal/coupang$redirect=noop.txt
 ||openimage.interpark.com/dia/images/$redirect=2x2.png
 ||bigkinds.or.kr/resources/files/banner/$redirect=2x2.png
