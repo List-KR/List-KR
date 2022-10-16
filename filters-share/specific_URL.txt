@@ -1,3 +1,4 @@
+||newstap.co.kr/bannerManager/
 ||cdn.newspenguin.com/bannerpop/uploads/
 ||cdn.newspenguin.com/adManager/
 ||img.sbs.co.kr/news/ad/
