@@ -1,3 +1,13 @@
+yes24.com#$##loginFormWrap > .loginCont { width: 100% !important; }
+yes24.com#$##mbnRoll_001 > div:nth-child(1) > .yPagen { width: 185px !important; }
+yes24.com#$##mbnRoll_001 > div:nth-child(2) > .yPagen { width: 185px !important; left: 185px !important; }
+yes24.com#$##mbnRoll_001 > div:nth-child(3) > .yPagen { width: 185px !important; left: 370px !important; }
+yes24.com#$##mbnRoll_001 > div:nth-child(4) > .yPagen { width: 185px !important; left: 555px !important; }
+yes24.com#$##mbnRoll_yNow > div:nth-child(1) > .yPagen { width: 290px !important; }
+yes24.com#$##mbnRoll_yNow > div:nth-child(2) > .yPagen { width: 290px !important; left: 290px !important; }
+yes24.com#$##mbnRoll_yNow > div:nth-child(3) > .yPagen { width: 290px !important; left: 580px !important; }
+yes24.com#$##yWelMid > .yWelNowBook { width: 100% !important; }
+yes24.com#$##yWelMid > .yWelNowBook ul { margin-left: 10% !important; }
 v.daum.net#$#.inner-main [data-cloud*="_ad_"] + div { margin-top: 0px !important; }
 kyobobook.co.kr#$#div[id^="bodyDialog"].open { display: none !important; }
 lawtalk.co.kr#$#div[class^="premium-lawyer"] ~ a.goto-all-lawyers { margin-top: 40px !important; }

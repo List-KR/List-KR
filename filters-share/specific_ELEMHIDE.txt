@@ -33,7 +33,7 @@ moyoplan.com##div[class^="Banner"]
 ! ##table[class^="ad_"]
 m.humoruniv.com##table[class^="ad_"]
 ! ##div[class*="_ad"]
-kpanews.co.kr,mlbpark.donga.com,sports.donga.com,busan.com,fnnews.com,m.munhwa.com,m.kmib.co.kr,m.clien.net##div[class*="_ad"]
+yes24.com,kpanews.co.kr,mlbpark.donga.com,sports.donga.com,busan.com,fnnews.com,m.munhwa.com,m.kmib.co.kr,m.clien.net##div[class*="_ad"]
 ! ##div[id*="Banner"]
 www.enuri.com,e-himart.co.kr,kin.naver.com##div[id*="Banner"]
 ! ##div[class*="_AD"]
@@ -58,7 +58,15 @@ jobkorea.co.kr##div[id^="Banner"]
 eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
+! ##div[id$="_Ad"]
+yes24.com##div[id$="_Ad"]
 !
+yes24.com##.loginSocialLi a.adOn
+yes24.com###ySkyWrap
+yes24.com###mbnRoll_001 > .mbnRollUnit:nth-child(n+5)
+yes24.com##.yHeaderMid > .hotIssueDl
+yes24.com##.yPartnerPop
+yes24.com###yWelMid > .yWelPubBook
 ~m.joseilbo.com,joseilbo.com##div[class*="_bn_"]
 m.nownews.seoul.co.kr###Article > div[style]:not([class])
 itworld.co.kr##.section-content > .border-bottom ~ h5[class^="font-color-primary-"]
@@ -250,7 +258,7 @@ namu.wiki##iframe[src*="//arca.live/external/callad"]
 noteforum.co.kr##table[width][cellspacing][cellpadding][border] tr:not([height]) > td[width]:not([id]) ~ td[id]
 esuwon.net###r_aside center > div[class="bn"]
 smartfn.co.kr##.mt30 .con_rt > style + div[style]:not([class])
-dailypharm.com,m.g-enews.com,smartfn.co.kr##div[class*="Ad"]
+yes24.com,dailypharm.com,m.g-enews.com,smartfn.co.kr##div[class*="Ad"]
 tgd.kr,miraetv.net##div[id*="-banner-"]
 miraetv.net##.gdl-left-sidebar
 ddengle.com###content > .article > div[class][style]
