@@ -61,6 +61,10 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+yes24.com##.mContRT .mbnRT
+yes24.com##div[id^="goods"][id$="SponLnkArea"]
+yes24.com##div[id^="y"][id$="BnWrap"]
+yes24.com##.sGoodsSec div[id$="Banner"]
 yes24.com##.loginSocialLi a.adOn
 yes24.com###ySkyWrap
 yes24.com###mbnRoll_001 > .mbnRollUnit:nth-child(n+5)

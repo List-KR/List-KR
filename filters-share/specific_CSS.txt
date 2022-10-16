@@ -1,3 +1,12 @@
+yes24.com#$##mbnRoll_book.mbnRollWrap .pagen_6 { left: 629px !important; }
+yes24.com#$##mbnRoll_book.mbnRollWrap .pagen_5 { left: 506px !important; }
+yes24.com#$##mbnRoll_book.mbnRollWrap .pagen_4 { left: 383px !important; }
+yes24.com#$##mbnRoll_book.mbnRollWrap .pagen_3 { left: 260px !important; }
+yes24.com#$##mbnRoll_book.mbnRollWrap .pagen_2 { left: 137px !important; }
+yes24.com#$##mbnRoll_book.mbnRollWrap .yPagen { width: 123px !important; }
+yes24.com#$##mbnRoll_book.mbnRollWrap a[class^="mbnC_"] { margin-left: calc(50% - 289.5px) !important; }
+yes24.com#$##mbnRoll_book.mbnRollWrap { width: 768px !important; }
+yes24.com#$##nomiG_buy.nomiGoodsRow { margin-top: 100px !important; }
 yes24.com#$##loginFormWrap > .loginCont { width: 100% !important; }
 yes24.com#$##mbnRoll_001 > div:nth-child(1) > .yPagen { width: 185px !important; }
 yes24.com#$##mbnRoll_001 > div:nth-child(2) > .yPagen { width: 185px !important; left: 185px !important; }
