@@ -59,6 +59,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+~m.joseilbo.com,joseilbo.com##div[class*="_bn_"]
 m.nownews.seoul.co.kr###Article > div[style]:not([class])
 itworld.co.kr##.section-content > .border-bottom ~ h5[class^="font-color-primary-"]
 itworld.co.kr##.section-content > .border-bottom ~ .node-list
