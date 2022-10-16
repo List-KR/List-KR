@@ -1,3 +1,4 @@
+||medicaltimes.com/Banner/
 ||newstap.co.kr/bannerManager/
 ||cdn.newspenguin.com/bannerpop/uploads/
 ||cdn.newspenguin.com/adManager/

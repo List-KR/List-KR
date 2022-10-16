@@ -33,7 +33,7 @@ moyoplan.com##div[class^="Banner"]
 ! ##table[class^="ad_"]
 m.humoruniv.com##table[class^="ad_"]
 ! ##div[class*="_ad"]
-yes24.com,kpanews.co.kr,mlbpark.donga.com,sports.donga.com,busan.com,fnnews.com,m.munhwa.com,m.kmib.co.kr,m.clien.net##div[class*="_ad"]
+medicaltimes.com,yes24.com,kpanews.co.kr,mlbpark.donga.com,sports.donga.com,busan.com,fnnews.com,m.munhwa.com,m.kmib.co.kr,m.clien.net##div[class*="_ad"]
 ! ##div[id*="Banner"]
 www.enuri.com,e-himart.co.kr,kin.naver.com##div[id*="Banner"]
 ! ##div[class*="_AD"]
@@ -400,7 +400,7 @@ tistory.com##.adsense
 www.naver.com##div[id^="NM_"][id$="_BANNER"]
 m.coocha.co.kr##.container > section#id_section_deal_list ~ section[id][class]
 coocha.co.kr##.group-deal .list > .group-power-link
-gamemeca.com##div[id$="AD"]
+medicaltimes.com,gamemeca.com##div[id$="AD"]
 gamemeca.com##iframe[src^="https://ads.gamemeca.com/"]
 mobile.newsis.com##div[class$="adPos"][class^="listStyle"][style]
 news.sbs.co.kr###sn_banner_side_top
