@@ -697,7 +697,6 @@ ggoorr.net##.side > .widget_div > .content > center
 ggoorr.net##.content > div.bd > div > center
 m.comic.naver.com##[id^="flex_ad_"]
 comic.naver.com##div[id^="ppl_"][id$="_section"]
-noonoo.tv##.partner-banner-wrap
 1412.rest##div[id^="plusad_"]
 1412.rest##.custom_code.board_top
 news.appstory.co.kr###shopping_wrap

@@ -1,3 +1,4 @@
+||images.nstatic.org/br/
 ||nesin.com/images/Ad_img/
 ||kharn.kr/data/banner/
 ||kharn.kr/data/cache/public/banner/
