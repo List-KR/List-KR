@@ -61,6 +61,8 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+m.yes24.com###welcomeTodayPop
+m.yes24.com##div[class^="ad"][id^="ad"]
 yes24.com##.mContRT .mbnRT
 yes24.com##div[id^="goods"][id$="SponLnkArea"]
 yes24.com##div[id^="y"][id$="BnWrap"]
