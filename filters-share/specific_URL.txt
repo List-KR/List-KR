@@ -1,3 +1,4 @@
+||nesin.com/images/Ad_img/
 ||kharn.kr/data/banner/
 ||kharn.kr/data/cache/public/banner/
 ||medicaltimes.com/Banner/

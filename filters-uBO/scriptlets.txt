@@ -1,6 +1,7 @@
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
+nesin.com##+js(acis, open, /\/popup\//)
 kyobobook.co.kr##+js(rc, dialog_open, html)
 kyobobook.co.kr##+js(ra, placeholder, input#searchMainKeyword)
 kyobobook.co.kr##+js(ra, placeholder, input#searchKeyword)
