@@ -1,3 +1,4 @@
+kharn.kr#$#div[class*="inner"].column > div { width: 100% !important; }
 yes24.com#$##mbnRoll_book.mbnRollWrap .pagen_6 { left: 629px !important; }
 yes24.com#$##mbnRoll_book.mbnRollWrap .pagen_5 { left: 506px !important; }
 yes24.com#$##mbnRoll_book.mbnRollWrap .pagen_4 { left: 383px !important; }

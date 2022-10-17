@@ -1,3 +1,5 @@
+||kharn.kr/data/banner/
+||kharn.kr/data/cache/public/banner/
 ||medicaltimes.com/Banner/
 ||newstap.co.kr/bannerManager/
 ||cdn.newspenguin.com/bannerpop/uploads/
