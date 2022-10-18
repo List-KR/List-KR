@@ -6,7 +6,6 @@ kyobobook.co.kr#?#.welcome_banner_inner li.swiper-slide:has(img[src*="image.kyob
 defensetimes.kr#?#table[id^="index_"] tr:has(ins.adsbygoogle)
 m.compuzone.co.kr#?#div[class^="contents"] > div[class^="main_area"]:has(img[src*="ADRollingBanner_"])
 pinpointnews.co.kr#?##article-view div[style].float-center div[class^="m-view-"]:not(:has(> article))
-~m.clien.net,clien.net#?#div[class*="_"]:has(> ad-shield-inventory)
 ~m.search.daum.net,search.daum.net#?#div[class] > div[disp-attr] ~ div[disp-attr]:has(a[href*="//brandsearch.ad.daum.net/"][onclick^="smartLog"]) + .line
 search.daum.net#?#div[class] > div[disp-attr] ~ div[disp-attr]:has(a[href*="//brandsearch.ad.daum.net/"][onclick^="smartLog"])
 m.ruliweb.com#?#div[id^="list_read_"] ul[class*="_list"] > li:has(a[href][target="_blank"])

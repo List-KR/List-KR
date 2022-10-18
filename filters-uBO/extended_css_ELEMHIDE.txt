@@ -1,5 +1,3 @@
-m.clien.net#?#div[class*="_"]:has(> div[class*="_"] > ad-shield-inventory)
-m.clien.net#?#div[class*="_"] ~ div[class*="_"]:has(> div[class*="_"] > div[id] > script:has-text(googletag.cmd.push))
 m.ppomppu.co.kr#?#.main-menu-group ~ .ct:has(h3:has-text(뽐뿌)) .ppList li:has(> a[href*="market"])
 m.ppomppu.co.kr#?#.main-menu-group ~ .ct:has(h3:has-text(뽐뿌)) .ppList li:has(> a[href*="ppomppu2"])
 m.ppomppu.co.kr#?#.main-menu-group ~ .ct:has(h3:has-text(뽐뿌)) .ppList li:has(> a[href*="ppomppu7"])
