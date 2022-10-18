@@ -42,6 +42,7 @@ kr1.4kjav.co#%#//scriptlet("abort-on-property-read", "adsBlocked")
 @@||namu.news/$subdocument,script,domain=namu.wiki|~board.namu.wiki
 @@||namu.wiki/$subdocument,script,domain=namu.wiki|~board.namu.wiki
 !
+@@||clien.net^$generichide
 @@||ad.smartmediarep.com/NetInsight/video/smr$domain=programs.sbs.co.kr
 @@||op.gg^$generichide
 1412.rest#%#//scriptlet("abort-current-inline-script", "hideAll")
