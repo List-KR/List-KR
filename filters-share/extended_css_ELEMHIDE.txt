@@ -1,3 +1,5 @@
+m.clien.net#?#div[class*="_"] div[class*="_"]:has(> div[class$="_mid"] > div[class^="ad_"])
+m.clien.net#?#div[class*="_"] div[class*="_"]:has(> div[class*="_"] > div[id*="-"][class^="ad_"])
 ~m.clien.net,clien.net#?#div[class*="content"][id*="content"] div[class*="_"]:has(> div[class^="ad_"])
 kharn.kr#?#div[class*="inner"].column > div:has(a[href*="/banner_click.php"])
 m.danawa.com#?##mdnw-main-recommend-realCuration-swipeContainer > div[id*="-ad-"]:remove()
