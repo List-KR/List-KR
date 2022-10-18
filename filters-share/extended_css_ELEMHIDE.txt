@@ -1,3 +1,4 @@
+~m.clien.net,clien.net#?#div[class*="content"][id*="content"] div[class*="_"]:not([class*=" "]):not([class*="contents"]):not([id]):not([class^="post_"]):has(div[class^="ad_"])
 kharn.kr#?#div[class*="inner"].column > div:has(a[href*="/banner_click.php"])
 m.danawa.com#?##mdnw-main-recommend-realCuration-swipeContainer > div[id*="-ad-"]:remove()
 programmers.co.kr#?#div[class*="Banner"] div[data-swiper-slide-index].swiper-slide:has(a[href^="/banners/"]):remove()
