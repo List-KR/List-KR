@@ -31,7 +31,7 @@ kr1.4kjav.co##+js(aopr, adsBlocked)
 @@||namu.wiki/$frame,script,domain=namu.wiki|~board.namu.wiki
 !
 @@||clien.net^$generichide
-@@||ad.smartmediarep.com/NetInsight/video/smr$domain=programs.sbs.co.kr|allclip.sbs.co.kr
+@@||ad.smartmediarep.com/NetInsight/video/smr$domain=programs.sbs.co.kr|allclip.sbs.co.kr|mplay.mk.co.kr
 @@||op.gg^$generichide
 1412.rest##+js(acis, hideAll)
 1412.rest#$#[class^="document_"].xe_content { height: auto !important; overflow: auto !important; }
