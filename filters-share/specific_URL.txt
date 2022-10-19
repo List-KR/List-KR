@@ -1,3 +1,4 @@
+||image.dizzo.com/dizzo2/banner/
 ||ppss.kr/wp-content/uploads/2022/10/pacey
 ||external-api.impression-neo.naver.com/api/v*/ads/search-jsonp
 /https:\/\/[a-z0-9]+\.wp\.com\/wowtale\.net\/wp-content\/uploads\/[0-9]{4}\/[0-9]{2}\/wowtale\.net-.+[0-9]{2,}(x|-)[0-9]{2,}\./
