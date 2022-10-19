@@ -1,3 +1,8 @@
+||image.aladin.co.kr/img/bn/book/*_search
+||image.aladin.co.kr/img/bn/book/*_best
+/^https:\/\/image\.aladin\.co\.kr\/img\/banner\/flash\/welcome\/nav\/(?!181010)[0-9]+_tab/
+||image.aladin.co.kr/img/adbn/
+||image.aladin.co.kr/img/bn/wflash/*_ad
 ||image.dizzo.com/dizzo2/banner/
 ||ppss.kr/wp-content/uploads/2022/10/pacey
 ||external-api.impression-neo.naver.com/api/v*/ads/search-jsonp

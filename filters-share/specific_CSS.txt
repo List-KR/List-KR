@@ -1,3 +1,6 @@
+aladin.co.kr#$##popupBody #nonmember_all .button_login2 { width: 100% !important; }
+aladin.co.kr#$##popupBody #nonmember_all .left1 { width: 100% !important; }
+aladin.co.kr#$##welcomeMainBanner_welcome_tab { left: calc(50% - 186px) !important; }
 kharn.kr#$#div[class*="inner"].column > div { width: 100% !important; }
 yes24.com#$##mbnRoll_book.mbnRollWrap .pagen_6 { left: 629px !important; }
 yes24.com#$##mbnRoll_book.mbnRollWrap .pagen_5 { left: 506px !important; }
