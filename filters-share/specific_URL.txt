@@ -1,3 +1,4 @@
+||cams.com/images/cams/lib/camslivebanner-
 ||image.aladin.co.kr/img/bn/book/*_search
 ||image.aladin.co.kr/img/bn/book/*_best
 /^https:\/\/image\.aladin\.co\.kr\/img\/banner\/flash\/welcome\/nav\/(?!181010)[0-9]+_tab/
@@ -659,6 +660,8 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+/^https:\/\/toonkor[0-9]+\.com\/images\/[a-z-]*[0-9]{3,}(x|X)[0-9]{3,}/
+/^https:\/\/toonkor[0-9]+\.com\/bann\//
 /^https:\/\/torrentlee[0-9]{1,}\.com\/[A-z_0-9]{1,}\.gif$/
 /^https:\/\/torrentview[0-9]{1,}\.com\/img\/0\/0_[0-9A-z]{8}_[a-z0-9]{40}\./
 /^https:\/\/torrentjuju[0-9]{1,}\.com\/data\/editor\/[0-9]{4}\/[A-z0-9_]{1,}\./
