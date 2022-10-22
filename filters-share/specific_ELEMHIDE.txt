@@ -61,6 +61,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+plankim.com###primary-content > .magic-item-w
 poketory.com##article > .revenue_unit_wrap
 poketory.com##article > .inner ~ b
 aladin.co.kr###welcome_center > div:not([class]):not([style]):not([id])
