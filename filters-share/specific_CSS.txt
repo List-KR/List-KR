@@ -1,3 +1,5 @@
+ydailynewsis.blogspot.com#$#a[href*="//link.coupang.com/"][type] { display: none !important; }
+ydailynewsis.blogspot.com#$##hidden1 { display: block !important; }
 aladin.co.kr#$##popupBody #nonmember_all .button_login2 { width: 100% !important; }
 aladin.co.kr#$##popupBody #nonmember_all .left1 { width: 100% !important; }
 aladin.co.kr#$##welcomeMainBanner_welcome_tab { left: calc(50% - 186px) !important; }
