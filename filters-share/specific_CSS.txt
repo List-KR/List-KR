@@ -1,3 +1,5 @@
+news.oasisfeed.com#$#.hideBtn { display: none !important; }
+news.oasisfeed.com#$##newsBody { height: auto !important; }
 ydailynewsis.blogspot.com#$#a[href*="//link.coupang.com/"][type] { display: none !important; }
 ydailynewsis.blogspot.com#$##hidden1 { display: block !important; }
 aladin.co.kr#$##popupBody #nonmember_all .button_login2 { width: 100% !important; }

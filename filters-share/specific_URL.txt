@@ -1,3 +1,5 @@
+||cdn.oasisfeed.com/js/ad/
+||news.oasisfeed.com/banner/
 ||ppss.kr/wp-content/uploads/2022/10/spacey
 ||cams.com/images/cams/lib/camslivebanner-
 ||image.aladin.co.kr/img/bn/book/*_search
