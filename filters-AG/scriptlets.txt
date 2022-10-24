@@ -13,7 +13,6 @@ cfnews.kr#%#//scriptlet("abort-current-inline-script", "window.open", "/gears/po
 sjtoday.kr#%#//scriptlet("abort-current-inline-script", "window.open", "notice_view_html.php")
 inven.co.kr,~m.inven.co.kr#%#//scriptlet("set-constant", "INVEN.Ad", "undefined")
 filetender.com#%#//scriptlet("prevent-setTimeout", "", "15000")
-fmkorea.com#%#//scriptlet("set-constant", "link_url", "")
 search.11st.co.kr#%#//scriptlet("set-constant", "searchDataFactory.bottomFocusPrdList", "undefined")
 search.11st.co.kr#%#//scriptlet("set-constant", "searchDataFactory.focusPrdList", "undefined")
 search.11st.co.kr#%#//scriptlet("set-constant", "searchDataFactory.DABanner", "undefined")
