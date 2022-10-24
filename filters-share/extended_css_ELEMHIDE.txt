@@ -1,3 +1,4 @@
+koreatimes.net#?#.obituaries-wrapper:has(img[src^="/images/AdImage/"])
 koreatimes.net#?#*:has(> a[target="_blank"] img[src^="/images/KTImage/"])
 aladin.co.kr#?##welcomeMainBanner_welcomeMain div[id*="_containerWrap_"]:has(img[src$="Banner/ad.jpg"]):remove()
 aladin.co.kr#?##welcomeMainBanner_welcome_tab li[id]:has(img[src*="/img/banner/flash/welcome/nav/"]:not([src*="/nav/181010_"]))

@@ -1,4 +1,3 @@
-koreatimes.net#$#.headding-news .col-md-8 { margin-left: calc(50% - 384px) !important; }
 news.oasisfeed.com#$#.hideBtn { display: none !important; }
 news.oasisfeed.com#$##newsBody { height: auto !important; }
 ydailynewsis.blogspot.com#$#a[href*="//link.coupang.com/"][type] { display: none !important; }

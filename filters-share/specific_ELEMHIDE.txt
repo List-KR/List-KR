@@ -788,7 +788,7 @@ coolenjoy.net##.simple_banner_wrap
 coolenjoy.net##img[src^="https://photo.coolenjoy.co.kr/banner/"]
 quasarzone.com##*:not(footer) > div[class^="main-"][class$="-banner"]
 quasarzone.com##.top-banner
-phdkim.net,nongmin.com,hankookilbo.com##div[class^="banner-"]
+koreatimes.net,phdkim.net,nongmin.com,hankookilbo.com##div[class^="banner-"]
 etoland.co.kr##ul.board_list > li.subject.ad_subject
 etoland.co.kr##td#mw_basic > div[style="height:90px; text-align:center; margin-top:10px; margin-bottom:10px;"]
 etoland.co.kr##center > a img[src*="//www.etoland.co.kr/data/daumeditor10/"]:not(.shrinkToFit)
