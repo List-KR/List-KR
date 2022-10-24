@@ -28,6 +28,7 @@ kr1.4kjav.co##.adde_modal-overlay
 @@||namu.news/$subdocument,script,domain=namu.wiki|~board.namu.wiki
 @@||namu.wiki/$subdocument,script,domain=namu.wiki|~board.namu.wiki
 !
+plankim.com##body > div:not([class]):not([id])
 @@||clien.net^$generichide
 @@||op.gg^$generichide
 @@||withukor.com^$generichide
