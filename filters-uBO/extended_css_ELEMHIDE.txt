@@ -1,3 +1,4 @@
+koreatimes.net#?#.container .recent_news_inner:has(> h3:has-text(AD))
 namu.wiki#?#div[class*="senkawa"] div[class] > div[id]:not([class]):has-text(/^(|[​\n\t ]+)$/)
 m.ppomppu.co.kr#?#.main-menu-group ~ .ct:has(h3:has-text(뽐뿌)) .ppList li:has(> a[href*="market"])
 m.ppomppu.co.kr#?#.main-menu-group ~ .ct:has(h3:has-text(뽐뿌)) .ppList li:has(> a[href*="ppomppu2"])

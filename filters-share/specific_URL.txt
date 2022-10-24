@@ -1,3 +1,6 @@
+/https:\/\/(www\.|)koreatimes\.net\/images\/attach\/[A-Z0-9]+-[0-9]+\//
+||koreatimes.net/images/AdImage/
+/^https:\/\/(www\.|)koreatimes\.net\/images\/attach\/[a-z]+[0-9]+\//
 ||cdn.oasisfeed.com/js/ad/
 ||news.oasisfeed.com/banner/
 ||ppss.kr/wp-content/uploads/2022/10/spacey
