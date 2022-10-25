@@ -1,3 +1,5 @@
+||m.health.chosun.com/images/banner/
+||m.health.chosun.com/img/*_banner_
 /^https:\/\/health\.chosun\.com\/images\/[0-9]+x[0-9]+/
 ||health.chosun.com/js/*_banner.js
 ||health.chosun.com/images/*_banner_

@@ -61,6 +61,9 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+m.health.chosun.com##.M_contents > .thumb ~ div[style^="width:"]
+m.health.chosun.com##a[class$="_ad"]
+m.health.chosun.com##.sub_article > div[style]
 health.chosun.com##.aside_doctor .tour_box
 koreatimes.net##.ads + div:not([class])
 koreatimes.net##.pop-layer
