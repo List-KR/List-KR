@@ -61,6 +61,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+m.10000recipe.com##.container > div[style]:not([class])
 bemil.chosun.com##div[class^="AD"]
 bemil.chosun.com##div[class$="AD"]
 aladin.co.kr##.banner_wrap .swiper-wrapper
