@@ -61,6 +61,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+health.chosun.com##.aside_doctor .tour_box
 koreatimes.net##.ads + div:not([class])
 koreatimes.net##.pop-layer
 koreatimes.net##div[class] > div[class^="post-style"] ~ .rn_block + hr
@@ -161,7 +162,7 @@ interpark.com##.welcomeWrapper .showRoom
 interpark.com##div[class$="Banners"]
 interpark.com##span[class$="AD"]
 dprime.kr.dvdprime.com##div[style~="height:"][style~="border-top:"].relative
-dprime.kr,dvdprime.com##[class*="_ad_"]
+health.chosun.com,dprime.kr,dvdprime.com##[class*="_ad_"]
 ypbooks.co.kr##td[id^="divBn_"]
 uwayapply.com,ypbooks.co.kr##div[id$="Banner"]
 ypbooks.co.kr##div[style]#cenArea > .today
