@@ -1,3 +1,4 @@
+||cdn.snunews.com/adManager/
 ||bemil.chosun.com/bemil/resources/js/ad/
 ||cdn.topclass.chosun.com/bannerpop/uploads/
 ||m.health.chosun.com/images/banner/
