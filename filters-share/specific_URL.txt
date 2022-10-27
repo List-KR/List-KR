@@ -672,6 +672,7 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+/^https:\/\/torrentmode[0-9]+\.com\/data\/zn_bimg\//
 ||video.twimg.com/ext_tw_video/*/pu/vid/$domain=topgirl.co
 ||az-cdn.com/banners/
 /^https:\/\/toonkor[0-9]+\.com\/images\/[a-z-]*[0-9]{3,}(x|X)[0-9]{2,}/
@@ -732,8 +733,6 @@
 ||anilife.live/assets/banner/
 /^(http|https):\/\/manaboza[0-9]{2,3}\.com\/static\/picture\/[0-9]{4}_[0-9]{10}\.[0-9]{4}\./
 /^(http|https):\/\/manaboza[0-9]{2,3}\.com\/static\/image\/header\//
-||torrentmode.com/bbs/zn_bimg/bannerhit.php$document
-||torrentmode.com/data/zn_bimg/
 ||cloudaaaa.com^$domain=toonsarang94.com|toonsarang95.com|toonsarang96.com|toonsarang97.com|toonsarang98.com|toonsarang99.com|toonsarang100.com|toonsarang101.com|toonsarang102.com|toonsarang103.com
 /^https:\/\/toonsarang[0-9]{2,4}\.com\/bbs\/bannerhit\.php/$document
 /^https:\/\/agit[0-9]{3,4}\.com\/upload\/[0-9]{4}\/[0-9]{4}\/[0-9]{21}/
