@@ -672,6 +672,8 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+||video.twimg.com/ext_tw_video/*/pu/vid/$domain=topgirl.co
+||az-cdn.com/banners/
 /^https:\/\/toonkor[0-9]+\.com\/images\/[a-z-]*[0-9]{3,}(x|X)[0-9]{2,}/
 /^https:\/\/toonkor[0-9]+\.com\/bann\//
 /^https:\/\/torrentlee[0-9]{1,}\.com\/[A-z_0-9]{1,}\.gif$/
