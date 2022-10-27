@@ -277,7 +277,6 @@ eomisae.co.kr##.eq.section div[class^="col-md-"] > center
 star.mt.co.kr###wrap > div[style^="overflow:"][style$="background:#ddd;"]
 op.gg##.vm-placement
 m.nocutnews.co.kr##.section div[class$="con_b"][style]
-kr1.4kjav.co##a[href][target="_blank"] > img[src*="maxsocdn.net/images/"]
 bigkinds.or.kr##.news-cont ~ .news-special
 etoland.co.kr##a[href] > img[src*="./data/daumeditor10/"]
 news.jtbc.co.kr##div[id^="right_banner"]

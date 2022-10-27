@@ -23,8 +23,6 @@ x86.co.kr,luckyquiz3.blogspot.com##+js(acis, document.createElement, hasAdblock)
 ! meeco.kr
 meeco.kr#$#.xe_content { opacity: 1 !important; }
 meeco.kr##+js(acis, $, .adsbygoogle)
-! adde_modal_detector
-kr1.4kjav.co##+js(aopr, adsBlocked)
 ! namu.wiki
 @@||newliweb.com/$frame,script,domain=namu.wiki|~board.namu.wiki
 @@||arca.live/$frame,script,domain=namu.wiki|~board.namu.wiki

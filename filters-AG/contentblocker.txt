@@ -19,9 +19,6 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@##adBlockPixelTag
 kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 @@||tv.kakao.com/embed/player/image/ads.png$domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
 @@||videoads.kakao.com/adserver/api/v2/vmap$domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
-! adde_modal_detector
-kr1.4kjav.co##.adde_modal_detector
-kr1.4kjav.co##.adde_modal-overlay
 ! namu.wiki
 @@||newliweb.com/$subdocument,script,domain=namu.wiki|~board.namu.wiki
 @@||arca.live/$subdocument,script,domain=namu.wiki|~board.namu.wiki
