@@ -203,7 +203,6 @@
 ||image.paxnet.co.kr/rpan/common/js/mobile_ad.js
 ||paxnet.co.kr/common/*BannerAjax|
 ||sisajournal.com/bannerpop/uploads/
-||maxsocdn.net/images/$domain=kr1.4kjav.co
 ||jejusori.net/adManager/
 ||jejusori.net/bannerpop/uploads/
 /^https:\/\/etoland\.co\.kr\/data\/daumeditor10\/[0-9]{6}\/[0-9]{17}\.png$/
