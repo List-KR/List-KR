@@ -3,7 +3,7 @@ r114.com,dprime.kr,zdnet.co.kr,fpn119.co.kr,serieamania.com,dvdprime.com,news.na
 ! ##div[class$="_ad"]
 bemil.chosun.com,aladin.co.kr,nesin.com,encar.com,fntimes.com,zdnet.co.kr,mbn.co.kr,goodgag.net,v.daum.net,www.instiz.net,ppomppu.co.kr,m.nocutnews.co.kr,news.naver.com,news.daum.net,asiae.co.kr,ohmynews.com,seoul.co.kr,dmitory.com,itcm.co.kr,clien.net##div[class$="_ad"]
 ! ##div[class^="ad_"]
-nesin.com,~m.search.naver.com,search.naver.com,dprime.kr,encar.com,m.todayhumor.co.kr,hogaeng.co.kr,zdnet.co.kr,news.zum.com,m.search.daum.net,sports.donga.com,teamblind.com,unsin.co.kr,m.mk.co.kr,m.cafe.naver.com,dvdprime.com,nocutnews.co.kr,news.sbs.co.kr,mbiz.heraldcorp.com,m.star.mt.co.kr,m.humoruniv.com,xportsnews.com,etnews.com,sedaily.com,m.danawa.com,sportalkorea.com,news.jtbc.co.kr,ohmynews.com,hankyung.com,news1.kr,web.humoruniv.com,m.etnews.com,itempage3.auction.co.kr,asiae.co.kr,khan.co.kr,avjamak.net,kmib.co.kr,mlbpark.donga.com,prod.danawa.com,news.v.daum.net,joongang.co.kr,ruliweb.com##div[class^="ad_"]
+nesin.com,search.naver.com,dprime.kr,encar.com,m.todayhumor.co.kr,hogaeng.co.kr,zdnet.co.kr,news.zum.com,m.search.daum.net,sports.donga.com,teamblind.com,unsin.co.kr,m.mk.co.kr,m.cafe.naver.com,dvdprime.com,nocutnews.co.kr,news.sbs.co.kr,mbiz.heraldcorp.com,m.star.mt.co.kr,m.humoruniv.com,xportsnews.com,etnews.com,sedaily.com,m.danawa.com,sportalkorea.com,news.jtbc.co.kr,ohmynews.com,hankyung.com,news1.kr,web.humoruniv.com,m.etnews.com,itempage3.auction.co.kr,asiae.co.kr,khan.co.kr,avjamak.net,kmib.co.kr,mlbpark.donga.com,prod.danawa.com,news.v.daum.net,joongang.co.kr,ruliweb.com##div[class^="ad_"]
 ! ##div[class^="ad-"]
 weekly.chosun.com,nzkoreapost.com,pinpointnews.co.kr,huffingtonpost.kr,eroun.net,cnet.co.kr,hogangnono.com,ppomppu.co.kr,interfootball.co.kr,police112.co.kr,dpg.danawa.com,m.danawa.com,kimpga.com,youthassembly.kr,algumon.com,tvchak.com,dailysecu.com,hankyung.com,m.etnews.com,hani.co.kr,hankookilbo.com,newspim.com##div[class^="ad-"]
 ! ##.banner
@@ -85,7 +85,7 @@ poketory.com##article > .inner ~ b
 aladin.co.kr###welcome_center > div:not([class]):not([style]):not([id])
 aladin.co.kr###welcome_Right > .evntall
 digitalchosun.dizzo.com##div[class*="banner"]
-~m.clien.net,clien.net##.aside div[id*="_"][class*="_"]
+clien.net##.aside div[id*="_"][class*="_"]
 m.yes24.com###welcomeTodayPop
 m.yes24.com##div[class^="ad"][id^="ad"]
 yes24.com##.mContRT .mbnRT
@@ -98,7 +98,7 @@ yes24.com###mbnRoll_001 > .mbnRollUnit:nth-child(n+5)
 yes24.com##.yHeaderMid > .hotIssueDl
 yes24.com##.yPartnerPop
 yes24.com###yWelMid > .yWelPubBook
-~m.joseilbo.com,joseilbo.com##div[class*="_bn_"]
+joseilbo.com##div[class*="_bn_"]
 m.nownews.seoul.co.kr###Article > div[style]:not([class])
 itworld.co.kr##.section-content > .border-bottom ~ h5[class^="font-color-primary-"]
 itworld.co.kr##.section-content > .border-bottom ~ .node-list
@@ -134,9 +134,9 @@ okky.kr##main div[class*="space-"].hidden.flex-none
 pinpointnews.co.kr###article-view div[style].float-center .clearfix > div[class^="box-margin"]
 pinpointnews.co.kr###article-view div[style].float-center .clearfix > center[style]
 news.nate.com##.thisTimeNews > div[class^="bn"]
-~m.search.naver.com,search.naver.com##.brand_search
+search.naver.com##.brand_search
 search.naver.com##li[data-cr-area][data-cr-gdid^="nad-"]._svp_item
-~m.search.naver.com,search.naver.com##div[class*="_fashion"].more_prod
+search.naver.com##div[class*="_fashion"].more_prod
 m.search.naver.com##section[class*="ad_"]
 search.naver.com##li[data-nvmid]._ad
 ddaily.co.kr##.space_layout ~ div[class^="section_"] > div:not([style*="solid"]) + div[style]:not([class])
@@ -207,7 +207,7 @@ m.search.daum.net##body.nate .section_cont [disp-attr] > div[style*="height:"]
 m.search.daum.net##body.nate .section_cont [disp-attr] > #specialMColl
 sundayjournalusa.com##div[style] > a[href][target="_blank"]
 search.daum.net##.content_sponsor
-bobaedream.co.kr,~m.bobaedream.co.kr##body.body-community div[class*="Car"]
+bobaedream.co.kr##body.body-community div[class*="Car"]
 www.instiz.net,m.instiz.net###menufoot .content div[class*="ad"][style*="padding:"]
 m.instiz.net##body > div[style^="min-height:"]:not([class]):not([id])
 www.instiz.net,m.instiz.net##div[id^="div-"][style*="min-height:"]:not([class])
@@ -245,7 +245,7 @@ m.tf.co.kr##div[class^="swiper-topbanner"]
 news.tf.co.kr###tfHeader > div[style]:not([class])
 cm.asiae.co.kr##div[class^="fortune_module"]
 mbiz.heraldcorp.com###articleText > section[style*="height:"]
-fmkorea.com,~m.fmkorea.com##.adpost
+fmkorea.com##.adpost
 mobile.newsis.com##.article > div[style][class]
 m.fmkorea.com##.fm_vote ~ div[style*="max-width:"]
 m.mbn.co.kr###news_main_all_wrp .today_issue ~ section[class="today_issue"]
@@ -300,7 +300,7 @@ club.pdpop.com##div[id^="lftwing"]
 www.ebs.co.kr##div[class^="codad_ban"]
 www.ebs.co.kr##.evt_area
 www.ebs.co.kr##div[class$="_popup"]
-inven.co.kr,~m.inven.co.kr##div[id^="imid_"].banner
+inven.co.kr##div[id^="imid_"].banner
 boannews.com##div[style~="#D5D5D5;"][style~="border-bottom:1px"]
 boannews.com##div[id$="_bn_area"]
 hankyung.com,megabox.co.kr##div[class*="-ad"]:not(.container):not([style])
@@ -322,11 +322,11 @@ m.inven.co.kr##section.mo-top-nav ~ div[class^="mobileDaNs"]
 m.inven.co.kr##section.mo-top-nav ~ div[style]:not([id])
 m.inven.co.kr##div[id^="mobileTailAd"]
 www.inven.co.kr###commonpart_invenpc
-inven.co.kr,~m.inven.co.kr##.section_market_line
-inven.co.kr,~m.inven.co.kr###modRightBrandpage
-inven.co.kr,~m.inven.co.kr###inven_reservation_box
-inven.co.kr,~m.inven.co.kr##.commu-content div[style].sh-wrap
-inven.co.kr,~m.inven.co.kr##aside div[style]:not([class])
+inven.co.kr##.section_market_line
+inven.co.kr###modRightBrandpage
+inven.co.kr###inven_reservation_box
+inven.co.kr##.commu-content div[style].sh-wrap
+inven.co.kr##aside div[style]:not([class])
 tgd.kr###header-top-notice
 tgd.kr###main-menu div[style][align]
 hunnek.tistory.com##a[href^="https://www.panel.co.kr/user/join/etcpath/"]
@@ -388,7 +388,7 @@ edufindkorea.com###body_wrap > #body_main > div[style]:nth-child(2)
 junggi.co.kr##img[src^="/data/__banner/"]
 junggi.co.kr##img[src^="/image/banner/"]
 op.gg##header ~ div[class^="css-"] > div.search-contaienr ~ div[class^="css-"]
-~search.danawa.com,~m.danawa.com,~prod.danawa.com,~dpg.danawa.com,danawa.com,www.danawa.com##.main__grid.main__grid--line .main__grid__right
+danawa.com##.main__grid.main__grid--line .main__grid__right
 dpg.danawa.com##div[id*="_ad_"] ~ div[style^="min-height"]
 thistime.ca,dpg.danawa.com##div[id*="-ad-"]
 news.zum.com,news.naver.com,dpg.danawa.com##div[id*="_ad_"]

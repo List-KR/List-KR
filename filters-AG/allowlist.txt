@@ -1,1 +1,4 @@
-!
+!#if adguard_ext_safari
+@@/^https:\/\/ad-img\.ebaykorea\.com\/ADS\/Contents_\/[0-9_]{19}\/[a-z0-9]{16}\.[A-Za-z]{3,4}$/$domain=gmarket.co.kr
+/^https:\/\/ad-img\.ebaykorea\.com\/ADS\/Contents_\/[0-9_]{19}\/[a-z0-9]{16}\.[A-Za-z]{3,4}$/$domain=signinssl.gmarket.co.kr,important
+!#endif

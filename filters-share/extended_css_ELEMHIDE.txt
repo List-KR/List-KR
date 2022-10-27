@@ -5,7 +5,7 @@ aladin.co.kr#?##welcomeMainBanner_welcome_tab li[id]:has(img[src*="/img/banner/f
 aladin.co.kr#?##welcomeMainBanner_welcome_tab li[id]:has(img[src*="/img/banner/flash/welcome/nav/"]:not([src*="/nav/181010_"])) + li[style]
 m.clien.net#?#div[class*="_"] div[class*="_"]:has(> div[class$="_mid"] > div[class^="ad_"])
 m.clien.net#?#div[class*="_"] div[class*="_"]:has(> div[class*="_"] > div[id*="-"][class^="ad_"])
-~m.clien.net,clien.net#?#div[class*="content"][id*="content"] div[class*="_"]:has(> div[class^="ad_"])
+clien.net#?#div[class*="content"][id*="content"] div[class*="_"]:has(> div[class^="ad_"])
 kharn.kr#?#div[class*="inner"].column > div:has(a[href*="/banner_click.php"])
 m.danawa.com#?##mdnw-main-recommend-realCuration-swipeContainer > div[id*="-ad-"]:remove()
 programmers.co.kr#?#div[class*="Banner"] div[data-swiper-slide-index].swiper-slide:has(a[href^="/banners/"]):remove()
@@ -14,18 +14,18 @@ kyobobook.co.kr#?#.welcome_banner_inner li.swiper-slide:has(img[src*="image.kyob
 defensetimes.kr#?#table[id^="index_"] tr:has(ins.adsbygoogle)
 m.compuzone.co.kr#?#div[class^="contents"] > div[class^="main_area"]:has(img[src*="ADRollingBanner_"])
 pinpointnews.co.kr#?##article-view div[style].float-center div[class^="m-view-"]:not(:has(> article))
-~m.search.daum.net,search.daum.net#?#div[class] > div[disp-attr] ~ div[disp-attr]:has(a[href*="//brandsearch.ad.daum.net/"][onclick^="smartLog"]) + .line
+search.daum.net#?#div[class] > div[disp-attr] ~ div[disp-attr]:has(a[href*="//brandsearch.ad.daum.net/"][onclick^="smartLog"]) + .line
 search.daum.net#?#div[class] > div[disp-attr] ~ div[disp-attr]:has(a[href*="//brandsearch.ad.daum.net/"][onclick^="smartLog"])
 m.ruliweb.com#?#div[id^="list_read_"] ul[class*="_list"] > li:has(a[href][target="_blank"])
 m.ruliweb.com#?#.main_center .line_deco_bottom:has(div[class^="ad_"])
 bbs.ruliweb.com#?#div[id$="_best"] ul[class*="best_list"] li:has(a[href][target="_blank"])
 m.search.daum.net#?#.section_cont div[disp-attr]:has(.adLinkColl)
 m.ppomppu.co.kr#?#.main-menu-group ~ .ct:has(> h3[style] > a[href^="bbs_list.php?id=ppomppu"]) li:has(> a[href*="pmarket"])
-~m.ppomppu.co.kr,ppomppu.co.kr#?#.top-nav:has(.menu01.active) ~ .container .bbs_title p a[href*="market"]
-~m.ppomppu.co.kr,ppomppu.co.kr#?#.top-nav:has(.menu01.active) ~ .container .bbs_title p a[href*="ppomppu2"]
-~m.ppomppu.co.kr,ppomppu.co.kr#?#.top-nav:has(.menu01.active) ~ .container .bbs_title p a[href*="ppomppu7"]
-~m.ppomppu.co.kr,ppomppu.co.kr#?##header_box:has(.bbs_title a[href$="?id=ppomppu"]) ~ table#revolution_main_table tr[class^="list"]:has(table a[href*="?id=pmarket&"])
-~m.ppomppu.co.kr,ppomppu.co.kr#?##header_box:has(.bbs_title a[href$="?id=ppomppu"]) ~ table#revolution_main_table tr[class]:matches-css(display: none) + tr:not([class])
+ppomppu.co.kr#?#.top-nav:has(.menu01.active) ~ .container .bbs_title p a[href*="market"]
+ppomppu.co.kr#?#.top-nav:has(.menu01.active) ~ .container .bbs_title p a[href*="ppomppu2"]
+ppomppu.co.kr#?#.top-nav:has(.menu01.active) ~ .container .bbs_title p a[href*="ppomppu7"]
+ppomppu.co.kr#?##header_box:has(.bbs_title a[href$="?id=ppomppu"]) ~ table#revolution_main_table tr[class^="list"]:has(table a[href*="?id=pmarket&"])
+ppomppu.co.kr#?##header_box:has(.bbs_title a[href$="?id=ppomppu"]) ~ table#revolution_main_table tr[class]:matches-css(display: none) + tr:not([class])
 infosori.com#?#table[id][width] tr[bgcolor] ~ tr:not([bgcolor]):has(td > ins.adsbygoogle)
 pervsi.com#?#tbody > tr[bgcolor] ~ tr:has(ins.adsbygoogle)
 m.shop.interpark.com#?#[class] ~ [class*="Wrap"] [class*="BannerWrap"]:has(li img[src*="//openimage.interpark.com/dia/"])

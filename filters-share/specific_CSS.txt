@@ -33,8 +33,8 @@ medipana.com#$#header .artc_ad { height: 130px !important; }
 ~m.dailypharm.com,dailypharm.com#$#header { height: 100px !important; }
 drapt.com#$#li.area_guide { width: 96% !important; }
 drapt.com#$#.cs_news_area .cs_area { width: calc(100% - 2px) !important; }
-~news.koreadaily.com,koreadaily.com#$#.contentBox > .topNews > .con-L { border-top: none !important; }
-~news.koreadaily.com,koreadaily.com#$#.contentBox > .topNews .icon-list { border-top: none !important; }
+koreadaily.com#$#.contentBox > .topNews > .con-L { border-top: none !important; }
+koreadaily.com#$#.contentBox > .topNews .icon-list { border-top: none !important; }
 hashcode.co.kr#$#[class][itemtype*="//schema.org/"] > .center { width: 100% !important; flex-basis: 100% !important; }
 hashcode.co.kr#$#[class][itemtype*="//schema.org/"] .markdown { max-width: 100% !important; flex-basis: 100% !important; }
 pinpointnews.co.kr#$#.box-skin .mobile-popular { border-top: none !important; }

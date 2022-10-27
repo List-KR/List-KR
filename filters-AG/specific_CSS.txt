@@ -1,3 +1,9 @@
+!#if adguard_ext_safari
+joynews24.com,inews24.com#$#header ~ header { margin-top: 50px !important; }
+m.joynews24.com,m.inews24.com#@$#header ~ header { margin-top: 50px !important; }
+dailypharm.com#$#header { height: 100px !important; }
+dailypharm.com#@$#header { height: 100px !important; }
+!#endif
 !#if adguard_ext_firefox
 tgd.kr#$##article-info > h2 { overflow: visible !important; }
 !#endif
