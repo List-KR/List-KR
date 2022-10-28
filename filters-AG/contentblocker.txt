@@ -25,6 +25,7 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 @@||namu.news/$subdocument,script,domain=namu.wiki|~board.namu.wiki
 @@||namu.wiki/$subdocument,script,domain=namu.wiki|~board.namu.wiki
 !
+@@||sogirl.so/wp-content/plugins/dh-anti-adblocker/public/js/ads-prebid.js
 plankim.com##body > div:not([class]):not([id])
 @@||clien.net^$generichide
 @@||op.gg^$generichide
