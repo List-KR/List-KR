@@ -1,3 +1,5 @@
+||cosinkorea.com/data/banner/
+||cosinkorea.com/data/skin/content_custom/*/ban_
 ||cdn.snunews.com/adManager/
 ||bemil.chosun.com/bemil/resources/js/ad/
 ||cdn.topclass.chosun.com/bannerpop/uploads/
