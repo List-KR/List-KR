@@ -61,6 +61,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+clien.net##.aside > div[class*="_"][class^="side_"]
 m.newspic.kr##div[data-widget="recommend"].box
 m.10000recipe.com##.container > div[style]:not([class])
 bemil.chosun.com##div[class^="AD"]
@@ -85,7 +86,6 @@ poketory.com##article > .inner ~ b
 aladin.co.kr###welcome_center > div:not([class]):not([style]):not([id])
 aladin.co.kr###welcome_Right > .evntall
 digitalchosun.dizzo.com##div[class*="banner"]
-clien.net##.aside div[id*="_"][class*="_"]
 m.yes24.com###welcomeTodayPop
 m.yes24.com##div[class^="ad"][id^="ad"]
 yes24.com##.mContRT .mbnRT
