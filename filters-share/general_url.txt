@@ -1,6 +1,5 @@
 /bannerpop/uploads/
 /media/banner/*
-/data/banner/*
 /data/banner.json?
 /ad-manager.min.js
 /RealMedia/ads/
