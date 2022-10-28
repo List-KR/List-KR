@@ -1,3 +1,5 @@
+||cdn.greenpostkorea.co.kr/adManager/
+||cdn.greenpostkorea.co.kr/bannerpop/uploads/
 ||gametoc.co.kr/adManager/
 ||cosinkorea.com/data/banner/
 ||cosinkorea.com/data/skin/content_custom/*/ban_
