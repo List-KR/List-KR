@@ -1,3 +1,4 @@
+genshin.gamedot.org#$##mapsContent > .maps-content { top: 125px !important; }
 news.oasisfeed.com#$#.hideBtn { display: none !important; }
 news.oasisfeed.com#$##newsBody { height: auto !important; }
 ydailynewsis.blogspot.com#$#a[href*="//link.coupang.com/"][type] { display: none !important; }
