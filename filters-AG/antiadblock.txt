@@ -43,6 +43,11 @@ meeco.kr#%#//scriptlet("abort-current-inline-script", "$", ".adsbygoogle")
 @@||namu.wiki/$subdocument,script,domain=namu.wiki
 !#endif
 !
+genshin.gamedot.org#%#//scriptlet("prevent-setTimeout", "timerAdChecker")
+genshin.gamedot.org##div[class$="-banner"]
+genshin.gamedot.org##[style*="background-image:"][style*="module/genshinmaps/asset/image/"]:not([id]):not([class])
+||genshin.gamedot.org/module/genshinmaps/asset/image/adblock-line
+||genshin.gamedot.org/module/genshinmaps/asset/image/ab-line
 sogirl.so#%#//scriptlet("set-constant", "DHAntiAdBlocker", "true")
 !#if adguard_app_ios
 @@||sogirl.so/wp-content/plugins/dh-anti-adblocker/public/js/ads-prebid.js

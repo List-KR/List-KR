@@ -29,6 +29,11 @@ meeco.kr##+js(acis, $, .adsbygoogle)
 @@||namu.news/$frame,script,domain=namu.wiki|~board.namu.wiki
 @@||namu.wiki/$frame,script,domain=namu.wiki|~board.namu.wiki
 !
+genshin.gamedot.org##+js(nostif, timerAdChecker)
+genshin.gamedot.org##div[class$="-banner"]
+genshin.gamedot.org##[style*="background-image:"][style*="module/genshinmaps/asset/image/"]:not([id]):not([class])
+||genshin.gamedot.org/module/genshinmaps/asset/image/adblock-line
+||genshin.gamedot.org/module/genshinmaps/asset/image/ab-line
 sogirl.so##+js(set, DHAntiAdBlocker, true)
 @@||clien.net^$generichide
 @@||ad.smartmediarep.com/NetInsight/video/smr$domain=programs.sbs.co.kr|allclip.sbs.co.kr|mplay.mk.co.kr|static.cloud.sbs.co.kr
