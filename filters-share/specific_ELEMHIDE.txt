@@ -65,7 +65,6 @@ cosinkorea.com##.con_primary hr.skin_margin
 cosinkorea.com##div[style] > div[class^="ban_"]
 cosinkorea.com##div[style] > hr.spc
 cosinkorea.com##div[style] > div[class^="arl_"] ~ hr.skin_margin
-clien.net##.aside > div[class*="_"][class^="side_"]
 m.newspic.kr##div[data-widget="recommend"].box
 m.10000recipe.com##.container > div[style]:not([class])
 bemil.chosun.com##div[class^="AD"]
