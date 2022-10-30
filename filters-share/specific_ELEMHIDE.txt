@@ -61,6 +61,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+prod.danawa.com###naverPowerShoppingArea
 cosinkorea.com##.con_primary hr.skin_margin
 cosinkorea.com##div[style] > div[class^="ban_"]
 cosinkorea.com##div[style] > hr.spc
