@@ -1,3 +1,4 @@
+sundaynewsusa.com#?#div[style] > .td_block_wrap:has(a[target="blank"])
 clien.net#?#.aside > div[class*="_"]:has(div[data-spy][data-offset-top][id])
 koreatimes.net#?#.obituaries-wrapper:has(img[src^="/images/AdImage/"])
 koreatimes.net#?#*:has(> a[target="_blank"] img[src^="/images/KTImage/"])

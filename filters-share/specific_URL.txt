@@ -1,3 +1,4 @@
+||sundaynewsusa.com/wp-content/uploads/*_ad
 ||cdn.greenpostkorea.co.kr/adManager/
 ||cdn.greenpostkorea.co.kr/bannerpop/uploads/
 ||gametoc.co.kr/adManager/
