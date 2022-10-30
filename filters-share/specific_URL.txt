@@ -1,3 +1,4 @@
+||link.coupang.com^$object,domain=tistory.com
 ||sundaynewsusa.com/wp-content/uploads/*_ad
 ||cdn.greenpostkorea.co.kr/adManager/
 ||cdn.greenpostkorea.co.kr/bannerpop/uploads/
