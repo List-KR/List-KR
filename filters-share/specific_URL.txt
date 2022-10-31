@@ -1,3 +1,4 @@
+||image.kmib.co.kr/css/www/ad.css
 ||m.etoday.co.kr/common/js/ad/
 ||link.coupang.com^$object,domain=tistory.com
 ||sundaynewsusa.com/wp-content/uploads/*_ad
