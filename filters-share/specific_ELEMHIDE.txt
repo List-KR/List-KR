@@ -61,6 +61,9 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+m.etoday.co.kr##.containerWrap > section[style^="padding"]:not([class])
+m.etoday.co.kr##body > div[style]:not([class]):not([id])
+m.etoday.co.kr##.contents_body > div[style]
 etoday.co.kr##ul[class^="bn_"]
 prod.danawa.com###naverPowerShoppingArea
 cosinkorea.com##.con_primary hr.skin_margin
@@ -788,7 +791,7 @@ newspim.com##.topbanner
 dcinside.com###ad-layer
 namu.wiki##iframe[src*="//arca.live/static/ad/"]
 mmzone.co.kr###main_premium_spon_block
-mnews.sbs.co.kr,mbn.co.kr,cgv.co.kr,mmzone.co.kr##div[id$="_ad"]
+m.etoday.co.kr,mnews.sbs.co.kr,mbn.co.kr,cgv.co.kr,mmzone.co.kr##div[id$="_ad"]
 2cpu.co.kr##a[href*="./bbs/banner_link.php?"]
 ruliweb.com##div[id^="adsense_"]
 m.humoruniv.com##div[id^="ddn_ad_"]
