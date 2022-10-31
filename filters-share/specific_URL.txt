@@ -473,8 +473,6 @@
 ||static.javhd.com/h5/files/
 ||mdjournal.kr/banner/
 ||mdjournal.kr/bannerManager/
-||coupang.com/*&addtag=*ptag=*&redirect=landing&traceid=*&placementid=*&impressionid=&campaigntype=$document,popup
-||coupang.com/*&addtag=*ptag=*wPcid=*&wRef=*&redirect=landing&traceid=*&subid$document,popup
 ||startupn.kr/adManager/css/adManager.css
 ||startupn.kr/bannerpop/uploads/
 ||nts.go.kr/images/ad/lgnm/popup/popup_img_openinfo_high.jpg
