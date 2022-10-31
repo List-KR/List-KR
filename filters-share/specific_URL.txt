@@ -598,7 +598,6 @@
 ||avjamak.net/thema/ryan_rainbow/widget/iw-adsense/
 ||avjamak.net/data/by_banner/
 ||pandalive.co.kr/code:pandatv/partner/banner/
-||kmib.co.kr/images/main/bnr
 ||hani.co.kr/section-homepage/svc3/js/navtivead.js
 ||seoul.co.kr/ad/
 ||realty.chosun.com/RealtyCommon/Promotion*.html

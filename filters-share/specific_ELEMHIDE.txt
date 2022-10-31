@@ -669,7 +669,6 @@ money.hankyung.com,stock.hankyung.com##aside[id^="ad_"]
 segye.com##div[id^="wps_layout"][data-desc="텍스트광고"][data-box-file^="/news/box/ad"]
 avjamak.net##.widget-box.widget-img
 kmib.co.kr##.mn_ad
-kmib.co.kr##iframe[src^="https://ads.kmib.co.kr/"]
 hankookilbo.com##.side-ad-box
 nownews.seoul.co.kr##.naside > div[style*="width:"][style*="height:"]
 nownews.seoul.co.kr##.naside > div[style].Rad
