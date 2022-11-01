@@ -663,7 +663,6 @@ munhwa.com##img[src*="//image.munhwa.com/www/banner/"]
 mk.co.kr##div[class^="bn_sec"]
 m.ilbe.com##article.cutin-banner
 bloomingbit.io##.promotion
-money.hankyung.com,stock.hankyung.com##aside[id^="ad_"]
 segye.com##div[id^="wps_layout"][data-desc="텍스트광고"][data-box-file^="/news/box/ad"]
 avjamak.net##.widget-box.widget-img
 kmib.co.kr##.mn_ad
