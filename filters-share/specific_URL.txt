@@ -534,9 +534,7 @@
 ||static.danawa.com/globaljs/static/adweb_counter_danawa.min.js
 ||mobile.newsis.com/ad_list/
 ||img.hani.co.kr/section-image/*/mobile/image/icon/btn_ADclose.png
-||static.hankyung.com/ext/powerlink/
 ||hankyung.com/resource/js/m/view.ads.js
-||cloudfront.net/js/hankyung_admaru_moibile_icv_*.js
 ||google.com/adsense/
 ||m.news1.kr/template/ads/
 ||image.news1.kr/system/ads_t/

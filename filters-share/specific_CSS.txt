@@ -77,7 +77,6 @@ paxnet.co.kr#$#html[class*="pc-size"] .av-area-fot { display: none !important; }
 paxnet.co.kr#$#html[class*="pc-size"] .side-area + .m-guide { margin-bottom: 150px !important; }
 op.gg#$##content-header form.FormItem { width: 100% !important; }
 bigkinds.or.kr#$#.news-cate + .news-box { padding-right: 0px !important; }
-hankyung.com#$#.article ~ aside > .aside-inner { bottom: 25% !important; }
 modoodoc.com#$#div[class~="hospital-images-box"] ~ .row > .col-8 { max-width: 100% !important; flex: none !important; }
 noteforum.co.kr#$#table[style][width][cellspacing][cellpadding] tr[valign] > td[style] > div[style] { width: 100% !important; }
 miraetv.net#$#.gdl-page-item { width: 100% !important; }
@@ -117,7 +116,6 @@ news.unn.net#$#.grid-body.g-body { width: 100% !important; }
 autopostkorea.com#$#.site-footer { padding-bottom: 0px !important; }
 etoland.co.kr#$#.hit_list_ul_wrap { width: 100% !important; }
 biz.heraldcorp.com#$#.article_area > .article_left { width: 100% !important; }
-hankyung.com#$#.inner_aside { top: 127px !important; }
 windowsforum.kr#$#.content { margin-top: 0px !important; }
 mule.co.kr#$#div.section-leftmiddle-topmiddle.cf { width: 100% !important; }
 ruliweb.com#$##board_top > div > .top_best.best_list { width: 100% !important; }
