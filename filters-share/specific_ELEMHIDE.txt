@@ -61,6 +61,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+m.yna.co.kr##.article > aside[data-position]
 m.kmib.co.kr##.article_wrap ~ div[class^="nwbx"]
 m.etoday.co.kr##.containerWrap > section[style^="padding"]:not([class])
 m.etoday.co.kr##body > div[style]:not([class]):not([id])
