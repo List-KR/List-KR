@@ -641,9 +641,6 @@ ekn.kr,yeongnam.com##img[id^="ad_"]
 asiae.co.kr##.article_view > .fl_fr
 asiae.co.kr###txt_area.article > .art_btm
 ajunews.com##div[class^="asd_"]
-yna.co.kr##aside[id^="boxAds"]
-yna.co.kr##.article-ad-box
-yna.co.kr###asideDeepDive
 yonhapnewstv.co.kr##.cont-row > div[class^="cont-item"] > .detail-rel
 ytn.co.kr##.article > span[style] > #hns_mask
 ytn.co.kr##iframe[src^="/inc_banner/"]
