@@ -1,3 +1,4 @@
+||dbr.donga.com/upload_dir/banner/
 ||m.segye.com/static/*_segyeMobile/resources/js/commonAD.js
 ||segye.com/static/*_segye/resources/js/common_AD_
 ||img.segye.com/static/*_segye/resources/js/banner.js
