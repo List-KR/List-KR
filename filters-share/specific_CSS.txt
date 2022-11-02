@@ -125,6 +125,5 @@ ruliweb.com#$#.user_view { width: 100%!important; }
 web.humoruniv.com#$##wrap_winfo { width: 100%!important; }
 web.humoruniv.com#$##wrap_ctgr_new { width: 100%!important; }
 quasarzone.com#$#div#con-body { padding-top: 60px!important; }
-etoland.co.kr#$#.list_content { width: 100%!important; }
 ppomppu.co.kr#$#.top-keyword { width: 100%!important; }
 orbi.kr#$#.global-top { top: 0px!important; }

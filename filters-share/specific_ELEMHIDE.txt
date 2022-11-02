@@ -293,7 +293,6 @@ star.mt.co.kr###wrap > div[style^="overflow:"][style$="background:#ddd;"]
 op.gg##.vm-placement
 m.nocutnews.co.kr##.section div[class$="con_b"][style]
 bigkinds.or.kr##.news-cont ~ .news-special
-etoland.co.kr##a[href] > img[src*="./data/daumeditor10/"]
 news.jtbc.co.kr##div[id^="right_banner"]
 news.jtbc.co.kr###articlebody > div[style]:not([itemprop="articleBody"]).article_content
 modoodoc.com##a[id^="ad-"]
@@ -391,7 +390,6 @@ search.11st.co.kr##.search_content section.search_section[data-log-actionid-area
 search.11st.co.kr##.search_content section.search_section[data-log-actionid-area="focus_bottom"]
 pping.kr##.HAdLine
 pping.kr##iframe[src*="//ad.pping.kr/"]
-etoland.co.kr##div[id^="mobile_banner_"]
 etoland.co.kr###mw_mobile > style ~ center >  a[href] > img[src]
 newstomato.com##.rns_bn
 sumpic.com##section.content .thumbnail-area
@@ -805,8 +803,6 @@ quasarzone.com##*:not(footer) > div[class^="main-"][class$="-banner"]
 quasarzone.com##.top-banner
 koreatimes.net,phdkim.net,nongmin.com,hankookilbo.com##div[class^="banner-"]
 etoland.co.kr##ul.board_list > li.subject.ad_subject
-etoland.co.kr##td#mw_basic > div[style="height:90px; text-align:center; margin-top:10px; margin-bottom:10px;"]
-etoland.co.kr##center > a img[src*="//www.etoland.co.kr/data/daumeditor10/"]:not(.shrinkToFit)
 m.ppomppu.co.kr##ul.board-sponsor
 m.ppomppu.co.kr##.google-ad
 m.ppomppu.co.kr##section.shopping-board
