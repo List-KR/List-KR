@@ -61,6 +61,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+m.weekly.khan.co.kr##div[class$="_bn"]
 dbr.donga.com###overlay
 dbr.donga.com###div_laypopup
 jootc.com###ai_widget-2
