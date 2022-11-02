@@ -1,3 +1,4 @@
+bbs.ruliweb.com#?#.row.relative .main_aside:has(div.aside_background + div[id^="ad_main"])
 m.etoday.co.kr#?#.maj_list_wrap > .majnews_list:has(iframe[src*="//ads.mncmedia.co.kr/"])
 sundaynewsusa.com#?#div[style] > .td_block_wrap:has(a[target="blank"])
 clien.net#?#.aside > div[class*="_"]:has(div[data-spy][data-offset-top][id])
