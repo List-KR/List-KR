@@ -1,3 +1,4 @@
+/^https:\/\/etoland\.co\.kr\/data\/file[0-9]+\/store\/thumb-[A-z0-9_]+[0-9]+x[0-9]+\./
 ||cdn.newsclaim.co.kr/adManager/
 ||cdn.newsclaim.co.kr/bannerpop/uploads/
 /^https:\/\/dbr\.donga\.com\/upload_dir\/source\/.+\([0-9]+x[0-9]+\)\./
