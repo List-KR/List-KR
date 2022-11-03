@@ -122,6 +122,7 @@ berryjam.co.kr#?#table[width="1200"]:has(> tbody > tr > td > div[class*="slider-
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 !
+torrentwiz50.com,torrentwiz51.com,torrentwiz52.com,torrentwiz53.com,torrentwiz54.com,torrentwiz55.com,torrentwiz56.com,torrentwiz57.com,torrentwiz58.com,torrentwiz59.com,torrentwiz60.com,torrentwiz61.com,torrentwiz62.com,torrentwiz63.com,torrentwiz64.com,torrentwiz65.com,torrentwiz66.com#?#div[class] > div[class="row"]:has(i + a[href][target="_blank"])
 torrentjuju13.com,torrentjuju14.com,torrentjuju15.com,torrentjuju16.com,torrentjuju17.com,torrentjuju18.com,torrentjuju19.com,torrentjuju20.com,torrentjuju21.com,torrentjuju22.com,torrentjuju23.com,torrentjuju24.com,torrentjuju25.com,torrentjuju26.com,torrentjuju12.com#?##at_main .w1-box:has(.img > a[href][target="_blank"] > img[src])
 yagong47.com,yagong48.com,yagong49.com,yagong50.com,yagong51.com,yagong52.com,yagong53.com,yagong54.com,yagong55.com,yagong56.com,yagong57.com,yagong58.com,yagong59.com,yagong60.com,yagong61.com,yagong62.com,yagong63.com,yagong64.com,yagong65.com,yagong66.com,yagong67.com,yagong68.com,yagong69.com#?#div[class*="border"]:has(> a[href][target*="_blank"])
 toonkor156.com,toonkor157.com,toonkor158.com,toonkor159.com,toonkor160.com,toonkor161.com,toonkor162.com,toonkor163.com,toonkor164.com,toonkor167.com,toonkor168.com,toonkor169.com#?#.navbar-nav > li[class]:has(> a[href$="/토토보증업체"][alt="토토보증업체"])
