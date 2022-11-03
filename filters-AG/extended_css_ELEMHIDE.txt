@@ -50,7 +50,7 @@ m.ppomppu.co.kr#?#.community-board-notice-box > #bbs_inform:has(> ul > li span:c
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 !
-todawa79.top,todawa80.top,todawa81.top,todawa82.top,todawa83.top,todawa84.top,todawa85.top,todawa86.top,todawa87.top,todawa88.top,todawa89.top#?#.sub-cont table tr:has(> td:contains(광고))
-frtoon128.com,frtoon129.com,frtoon130.com,frtoon131.com,frtoon132.com,frtoon132.com,frtoon133.com,frtoon134.com,frtoon135.com,frtoon136.com,frtoon137.com,frtoon138.com,frtoon139.com,frtoon140.com#?#.alert-danger.container:contains([AD])
-hdhd156.net,hdhd157.net,hdhd158.net,hdhd159.net,hdhd160.net,hdhd161.net,hdhd162.net,hdhd163.net,hdhd164.net,hdhd165.net,hdhd166.net,hdhd167.net,hdhd168.net,hdhd169.net,hdhd170.net#?#.menu-ul > .menu-li:has(> a:contains(보증토토))
-blacktoon174.com,blacktoon178.com,blacktoon179.com,blacktoon180.com,blacktoon181.com,blacktoon182.com,blacktoon183.com,blacktoon184.com,blacktoon185.com,blacktoon186.com,blacktoon187.com,blacktoon188.com#?#.alert.alert-danger:has(> a:contains([AD]))
+todawa91.top,todawa92.top,todawa93.top,todawa94.top,todawa95.top,todawa96.top,todawa97.top,todawa98.top,todawa99.top,todawa100.top,todawa101.top#?#.sub-cont table tr:has(> td:contains(광고))
+frtoon139.com,frtoon140.com,frtoon141.com,frtoon142.com,frtoon143.com,frtoon144.com,frtoon145.com,frtoon146.com,frtoon147.com,frtoon148.com,frtoon149.com,frtoon150.com,frtoon151.com,frtoon152.com#?#.alert-danger.container:contains([AD])
+hdhd180.net,hdhd181.net,hdhd182.net,hdhd183.net,hdhd184.net,hdhd185.net,hdhd186.net,hdhd187.net,hdhd188.net,hdhd189.net,hdhd190.net,hdhd191.net,hdhd192.net,hdhd193.net,hdhd194.net#?#.menu-ul > .menu-li:has(> a:contains(보증토토))
+blacktoon199.com,blacktoon200.com,blacktoon201.com,blacktoon202.com,blacktoon203.com,blacktoon204.com,blacktoon205.com,blacktoon206.com,blacktoon207.com,blacktoon208.com,blacktoon209.com,blacktoon210.com#?#.alert.alert-danger:has(> a:contains([AD]))

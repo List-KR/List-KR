@@ -52,4 +52,4 @@ m.inven.co.kr#%#//scriptlet("set-constant", "MOBILE.Ad", "null")
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 !
-lover92.net,lover93.net,lover94.net,lover95.net,lover96.net,lover97.net,lover98.net,lover99.net,lover100.net,lover101.net#%#//scriptlet("adjust-setTimeout", "count", "*", "0.001")
+lover900.net,lover901.net,lover902.net,lover903.net,lover904.net,lover905.net,lover906.net,lover907.net,lover908.net,lover909.net#%#//scriptlet("adjust-setTimeout", "count", "*", "0.001")
