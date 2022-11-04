@@ -36,7 +36,9 @@ https://adguardteam.github.io/HostlistsRegistry/assets/filter_25.txt
 
 ## microShield and NamuLink
 - **[microShield](https://github.com/List-KR/microShield)** blocks complicated advertisement to block on website protected by ad-shield.
+[한국어로 설치하는 방법을 알아보기](https://github.com/List-KR/microShield/blob/main/README.ko.md)
 - **[NamuLink](https://github.com/List-KR/NamuLink)** blocks license-abused PowerLink advertisement on NamuWiki.
+[한국어로 설치하는 방법을 알아보기](https://github.com/List-KR/NamuLink/blob/main/README.ko.md)
 
 ## Support
 - [Create a GitHub Issue](https://github.com/List-KR/List-KR/issues/new/choose)
