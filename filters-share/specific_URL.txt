@@ -1,3 +1,4 @@
+||upinews.kr/data/upi/banner/
 ||cdn.shinailbo.co.kr/adManager/
 ||cdn.shinailbo.co.kr/bannerpop/uploads/
 ||static-whale.pstatic.net/main/$image,domain=www.naver.com
