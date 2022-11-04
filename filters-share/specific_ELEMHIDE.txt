@@ -61,6 +61,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+isplus.com##div[id$="Ad"]
 idaegu.com###wrap_index ~ div[style]
 m.mydaily.co.kr###viewarea ~ br ~ div[style*="height:"]
 datanews.co.kr##a[href][target="_blank"] > img[src^="/data/banner/"]
