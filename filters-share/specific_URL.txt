@@ -1,3 +1,5 @@
+||cdn.mstoday.co.kr/bannerpop/uploads/
+||mstoday.co.kr/adManager/
 ||m.mydaily.co.kr/new/img/*.gif|
 ||mydaily.co.kr/ad/adimage/
 ||mydaily.co.kr/new_yk/html/images_mj/*.gif|
