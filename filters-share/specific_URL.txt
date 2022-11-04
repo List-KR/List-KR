@@ -1,3 +1,5 @@
+||dt.co.kr/ad.html
+/^http(s|):\/\/img\.dt\.co\.kr\/images\/[0-9]+x[0-9]+\./
 ||knnews.co.kr/edb/banner/
 ||cdn.mstoday.co.kr/bannerpop/uploads/
 ||mstoday.co.kr/adManager/
