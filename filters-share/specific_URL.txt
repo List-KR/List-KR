@@ -1,3 +1,4 @@
+||knnews.co.kr/edb/banner/
 ||cdn.mstoday.co.kr/bannerpop/uploads/
 ||mstoday.co.kr/adManager/
 ||m.mydaily.co.kr/new/img/*.gif|
