@@ -1,3 +1,5 @@
+||cdn.shinailbo.co.kr/adManager/
+||cdn.shinailbo.co.kr/bannerpop/uploads/
 ||static-whale.pstatic.net/main/$image,domain=www.naver.com
 ||isplus.com/data/json/main/banner.json
 ||dt.co.kr/ad.html
