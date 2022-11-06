@@ -1,4 +1,5 @@
 ! Protect from DPI
+@@||cov19ent.kdca.go.kr^$stealth
 @@||comsclub.com^$stealth
 @@||korail.com^$stealth
 @@||seoulland.co.kr^$stealth
