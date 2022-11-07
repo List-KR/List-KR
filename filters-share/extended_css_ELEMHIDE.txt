@@ -1,3 +1,4 @@
+redflame.co.kr#?##wrapper div[class$="contents_box"]:has(ins.adsbygoogle)
 cineaste.co.kr#?#.widget-main-box ~ .widget-main-box:has(script[src*="//static.criteo.net/"])
 bbs.ruliweb.com#?#.row.relative .main_aside:has(div.aside_background + div[id^="ad_main"])
 m.etoday.co.kr#?#.maj_list_wrap > .majnews_list:has(iframe[src*="//ads.mncmedia.co.kr/"])
