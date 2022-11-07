@@ -698,6 +698,8 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+||xn--8-o68e16s35etqj.com/data/apms/background/
+/^https:\/\/xn--8-o68e16s35etqj\.com\/data\/editor\/[0-9]+\/[a-z0-9]+_[a-z0-9]+_[a-z0-9]+\./
 ||i.uuoobe.com/images/$domain=torrentreel1.site|torrentreel2.site|torrentreel3.site|torrentreel4.site|torrentreel5.site|torrentreel6.site|torrentreel7.site|torrentreel8.site|torrentreel9.site|torrentreel10.site|torrentreel11.site|torrentreel12.site|torrentreel13.site|torrentreel14.site|torrentreel15.site|torrentreel16.site
 ||pixhost.to^$domain=torrentwiz50.com|torrentwiz51.com|torrentwiz52.com|torrentwiz53.com|torrentwiz54.com|torrentwiz55.com|torrentwiz56.com|torrentwiz57.com|torrentwiz58.com|torrentwiz59.com|torrentwiz60.com|torrentwiz61.com|torrentwiz62.com|torrentwiz63.com|torrentwiz64.com|torrentwiz65.com|torrentwiz66.com
 /^https:\/\/torrentmode[0-9]+\.com\/data\/zn_bimg\//
