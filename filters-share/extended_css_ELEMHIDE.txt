@@ -1,3 +1,5 @@
+fntoday.co.kr#?#div[style]#side-scroll-in article + .box-margins ~ div[class]:has(~ article.box-skin ~ article ~ article)
+fntoday.co.kr#?#aside.user-aside > article.box-skin + .box-margins:not(.box-solid-x) ~ div[class]:has(~ article)
 redflame.co.kr#?##wrapper div[class$="contents_box"]:has(ins.adsbygoogle)
 cineaste.co.kr#?#.widget-main-box ~ .widget-main-box:has(script[src*="//static.criteo.net/"])
 bbs.ruliweb.com#?#.row.relative .main_aside:has(div.aside_background + div[id^="ad_main"])

@@ -1,3 +1,5 @@
+||fntoday.co.kr/adManager/
+||fntoday.co.kr/bannerpop/uploads/
 ||cdn.econovill.com/adManager/
 ||cdn.econovill.com/bannerpop/uploads/
 /^https:\/\/haninvegas\.com\/wp-content\/uploads\/[0-9]+\/[0-9]+\/[%A-Z0-9-]+-[0-9]+x[0-9]+/
