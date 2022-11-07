@@ -704,8 +704,6 @@ thisisgame.com###divMsnAD
 thisisgame.com##iframe[src^="//ad"][src*=".thisisgame.com/ad"]
 dschool.co.kr##a[href^="/ws/include/banner_link.asp?"][target="_blank"]
 ddanzi.com##.add_display
-redflame.co.kr###sidebar > div[style="padding:15px 18px; width:300px; height:250px; margin-bottom:8px;"].sidebar_contents_box
-redflame.co.kr##section#content > div[style="height:90px; width:728px; padding:0px; margin:0 0 8px 0;"].main_contents_box
 m.naver.com##.ISSUE-BANNER-AD
 1412.rest###plusad_widget_wrap
 slrclub.com##ins[class^="adsbyadop_"]
