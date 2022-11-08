@@ -1,3 +1,5 @@
+||veritas-a.com/adManager/
+||veritas-a.com/bannerpop/uploads/
 ||cdn.newspost.kr/adManager/
 ||cdn.newspost.kr/bannerpop/uploads/
 /^https:\/\/nimage\.g-enews\.com\/phpwas\/restmb_allidxmake\.php\?idx=999&simg=[a-f0-9]+_0\./
