@@ -93,7 +93,6 @@ tgd.kr#$##header-menu-left { border-right: none !important; }
 tgd.kr#$##header-menu-right { float: right !important; border-left: none !important; }
 edit.incruit.com#$#.errorlay .new-login-warp { padding-top: 20px !important; margin-left: calc(50% - 232.5px) !important; }
 m.nocutnews.co.kr#$##pnlContainer .con_b > .reply_b { margin: 0px auto !important; }
-m.humoruniv.com#$##read_menu_btn_div > div[style][class] { margin-top: 0px !important; }
 kin.naver.com#$#.wrap_home .section_spot { width: 100% !important; }
 kin.naver.com#$#.wrap_home .section_spot .best_qna_wrap { width: 100% !important; }
 te31.com#$##contentmemo ~ .adsbygoogle > div[style^="font-size:"] { width: 100% !important; }
@@ -125,8 +124,6 @@ ruliweb.com#$##board_top > div > .top_best.best_list { width: 100% !important; }
 berryjam.co.kr#$#.goods_list_tit { padding-top: 0px !important; }
 community.rememberapp.co.kr#$#div.sc-64vosk-0.jIkGEl { margin-bottom: 10px !important; }
 ruliweb.com#$#.user_view { width: 100%!important; }
-web.humoruniv.com#$##wrap_winfo { width: 100%!important; }
-web.humoruniv.com#$##wrap_ctgr_new { width: 100%!important; }
 quasarzone.com#$#div#con-body { padding-top: 60px!important; }
 ppomppu.co.kr#$#.top-keyword { width: 100%!important; }
 orbi.kr#$#.global-top { top: 0px!important; }

@@ -386,7 +386,6 @@
 ||thelec.kr/adManager/css/adManager.css
 ||menu.mt.co.kr/js/AdsDispatcher.js
 ||dcinside.com/_js/ad_context_powLink.js
-||humoruniv.com/js/adpost.kakao.ad.js
 /^https:\/\/shop\.nate\.com\/shopbox\/shopbox.{1,}&svcpage=news/
 ||shop.nate.com/shopbox/shopbox_ad_controller_
 /^https:\/\/(comm\.|m\.|)news\.nate\.com\/(etc|Etc)\/[A-z]{0,}(ad|Ad|AD)[A-z]{0,}/
@@ -572,7 +571,6 @@
 ||newstof.com/bannerpop/uploads/
 ||cdn.newsmc.net/adManager/css/adManager.css
 ||cdn.newsmc.net/bannerpop/uploads/
-||humoruniv.com/js/adpost_adsense.js
 ||shopapi.interpark.com/advertisement/*.json
 ||shopping.interpark.com/resources/template/common/powerLink.html
 ||shopping.interpark.com/niSearch/common/powerLink.json
@@ -679,12 +677,9 @@
 ||img.newspim.com/banner/
 ||img.newspim.com/ad/
 ||arca.live/static/ad/
-||timg.humoruniv.com/thumb_crop_resize*.php?url=*://i.011st.com/t/
 ||img.ruliweb.net/view/
 ||kukinews.com/data/kuk/banner/
 ||mmzone.co.kr/menu/top_ad.php
-||m.humoruniv.com/banner/
-||m.humoruniv.com/board/boardexp/styleofpower.html
 ||img*.quasarzone.com/banner/
 ||img*.quasarzone.co.kr/banner/
 ||file.okky.kr/banner/
