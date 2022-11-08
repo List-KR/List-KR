@@ -126,6 +126,5 @@ ruliweb.com#$##board_top > div > .top_best.best_list { width: 100% !important; }
 berryjam.co.kr#$#.goods_list_tit { padding-top: 0px !important; }
 community.rememberapp.co.kr#$#div.sc-64vosk-0.jIkGEl { margin-bottom: 10px !important; }
 ruliweb.com#$#.user_view { width: 100%!important; }
-quasarzone.com#$#div#con-body { padding-top: 60px!important; }
 ppomppu.co.kr#$#.top-keyword { width: 100%!important; }
 orbi.kr#$#.global-top { top: 0px!important; }

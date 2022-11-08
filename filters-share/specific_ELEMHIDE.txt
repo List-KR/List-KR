@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+quasarzone.com##div[id*="_"][class*="-"][class^="bidrich-"]
 asked.kr##div[id$="ad"][class$="ad"]
 asked.kr##div[id^="ads"][style]
 asked.kr###cards > div[class*="_"]:not([id]).card
