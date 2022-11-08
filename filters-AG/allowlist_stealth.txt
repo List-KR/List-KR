@@ -5,6 +5,8 @@
 @@||seoulland.co.kr^$stealth
 @@||clms.dankook.ac.kr^$stealth
 @@||lghellovision.net^$stealth
+! Hide your IP address
+@@||noonoo.tv^$stealth
 !
 @@||dcinside.co.kr/viewmovie.php?$media,image,stealth
 @@||thumbnail*.coupangcdn.com/thumbnails/$stealth,image
