@@ -1,3 +1,4 @@
+/^https:\/\/nimage\.g-enews\.com\/phpwas\/restmb_allidxmake\.php\?idx=999&simg=[a-f0-9]+_0\./
 ||humoruniv.com/board/boardexp/z.html?enc=
 ||humoruniv.com/js/adpost.kakao.ad.js
 ||humoruniv.com/js/adpost_adsense.js
