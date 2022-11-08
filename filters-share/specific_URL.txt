@@ -1,3 +1,5 @@
+/^http(s|):\/\/timg\.humoruniv\.com\/thumb_crop_resize\.php\?url=.+[0-9]+x[0-9]+.+\?SIZE=/
+||humoruniv.com/c/banner/
 ||img.principlesofknowledge.kr/images/cpcbanner/
 ||idsn.co.kr/support/_updata/banner
 ||fntoday.co.kr/adManager/
