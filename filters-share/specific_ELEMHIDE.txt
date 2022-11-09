@@ -256,7 +256,7 @@ www.instiz.net##.content table#mainboard.mainboard tr:not([id^="list"])
 www.instiz.net##div[style].content ~ div[class$="ad"][style*="min-height:"]
 www.instiz.net##div[class$="ad"][id$="ad"]
 mbong.kr##center a[href*="//mbong.kr/banner"]
-news.g-enews.com,m.g-enews.com##a[href^="/extcont/adclick.php"]
+cmobile.g-enews.com,news.g-enews.com,m.g-enews.com##a[href^="/extcont/adclick.php"]
 serieamania.com###index > div[class^="box_shadow_"][style]
 sports.donga.com##.today_sportnews
 svrforum.com###xt_sticker_wrap
@@ -302,8 +302,8 @@ m.mt.co.kr##[class^="ad"]
 ichannela.com##.main_visual .main_ban
 ichannela.com##div[class^="banner"]:not([id^="img"])
 ichannela.com###gaOverRay
-m.g-enews.com##.mwrap > div[style]:not([class])
-asiatime.co.kr,m.g-enews.com##div[class*="AD"]
+cmobile.g-enews.com,m.g-enews.com##.mwrap > div[style]:not([class])
+cmobile.g-enews.com,asiatime.co.kr,m.g-enews.com##div[class*="AD"]
 hyundaenews.com##a[href^="/ad_link.php?"]
 quasarplay.com##[class^="img_wrapper"]
 wiki.hash.kr##div[class^="bann_"]
@@ -328,7 +328,7 @@ namu.wiki##iframe[src*="//arca.live/external/callad"]
 noteforum.co.kr##table[width][cellspacing][cellpadding][border] tr:not([height]) > td[width]:not([id]) ~ td[id]
 esuwon.net###r_aside center > div[class="bn"]
 smartfn.co.kr##.mt30 .con_rt > style + div[style]:not([class])
-yes24.com,dailypharm.com,m.g-enews.com,smartfn.co.kr##div[class*="Ad"]
+cmobile.g-enews.com,yes24.com,dailypharm.com,m.g-enews.com,smartfn.co.kr##div[class*="Ad"]
 tgd.kr,miraetv.net##div[id*="-banner-"]
 miraetv.net##.gdl-left-sidebar
 ddengle.com###content > .article > div[class][style]
