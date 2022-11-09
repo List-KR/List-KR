@@ -1,3 +1,6 @@
+orbi.kr#$#.layout-main .panel.no-margin { padding-top: 50px !important; }
+orbi.kr#$#.layout-main .main-menu { top: 0px !important; }
+orbi.kr#$#div[class*="-banner-"] { display: none !important; }
 web.humoruniv.com#$##wrap_cnts td[valign="top"] #wrap_ctgr_new { width: 100% !important; }
 web.humoruniv.com#$##wrap_cnts td[valign="top"] #wrap_ctgr_new > div[id] { width: 100% !important; }
 haninvegas.com#$#body[data-elementor-device-mode="desktop"] div[itemprop="mainContentOfPage"] { width: 100% !important; }
