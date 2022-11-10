@@ -1,3 +1,4 @@
+auction.co.kr#$#.mod-top > .main-promo { margin-left: calc(50% - 205px) !important; }
 auction.co.kr#$##body > .hp_allkill { margin-top: 375px !important; }
 auction.co.kr#$#.modrow-top > div[class$="_banner"][id$="Banner"] { display: none !important; }
 orbi.kr#$#.layout-main .panel.no-margin { padding-top: 50px !important; }
