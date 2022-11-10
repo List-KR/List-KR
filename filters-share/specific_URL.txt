@@ -437,9 +437,6 @@
 ||ilbe.com/oa/loader.js
 ||playwares.com/api/redirectAd.php$document
 /^(http|https):\/\/playwares\.com\/files\/attach\/images\/[0-9]{8}\/[0-9]{3}\/[0-9]{3}\/[0-9]{3}\/[a-z0-9]{32}\./
-||script.auction.co.kr/ad/arche.ad.enumtypes.js
-||script.auction.co.kr/style/js/ad_icon.js
-||adgate.auction.co.kr^$document
 ||kormedi.com/wp-content/uploads/ads/
 /^https:\/\/shop[0-9]\.daumcdn\.net\/shophow\/sib\/[0-9]_[0-9]{12}_[A-z]{10,}/
 ||trendpick.shopping.naver.com^$document
@@ -464,7 +461,6 @@
 /^https:\/\/coinpan\.com\/(|[a-z0-9_]{3,10}\/)files\/banner\//
 ||ilogen.com/static/images/m/min_n_g.png
 ||danawa.com/jehu/selectNBP.json
-/^http:\/\/simage\.auction\.co\.kr\/itemimage\/[0-9a-z]{2}\/[0-9a-z]{2}\/[0-9a-z]{2}\/[0-9a-z]{8,11}\.[a-z]{3,4}$/$domain=prod.danawa.com
 ||www.danawa.com/NBP/powerLink.php
 ||zicf.inven.co.kr/RealMedia/ads/
 ||firebasestorage.googleapis.com/v0/b/kimchi-premium.appspot.com/o/banner-imgs
@@ -591,7 +587,6 @@
 ||shopping.interpark.com/resources/template/common/powerLink.html
 ||shopping.interpark.com/niSearch/common/powerLink.json
 ||shopping.interpark.com/static/styles/pages/powerLink.css
-||dadispapi.auction.co.kr/target/iac/getAd
 ||lawtimes.co.kr/data/ad/
 ||boannews.com/main_contents/main_banner_
 ||boannews.com/images/banner/

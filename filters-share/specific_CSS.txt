@@ -108,7 +108,6 @@ bbs.ruliweb.com#$##board_read .board_main_top .member_reward_wrapper { margin-to
 www.nate.com#$#.area_ranking { top: 400px !important; }
 www.nate.com#$##header { margin-bottom: 0px !important; }
 signinssl.gmarket.co.kr#$#.login-cont .login { margin-left: 25% !important; }
-memberssl.auction.co.kr#$#div[class="box__login"] > * { width: 100% !important; }
 mylgid.com#$#.hasBanner header { top: 0px !important; }
 game.naver.com#$#div[class^="loungehome_event_popup_container"] { display: none !important; }
 game.naver.com#$#body { overflow: auto !important; }
