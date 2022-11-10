@@ -1,4 +1,4 @@
-browse.auction.co.kr#?#div[module-design-id] ~ div > .component:has(~ div:has(.text--smiledelivery_slogan))
+browse.auction.co.kr#?#div[module-design-id] ~ div > .component.type--general:has(~ div:has(.text--smiledelivery_slogan))
 browse.auction.co.kr#?#div[module-design-id] ~ div[module-design-id]:has(> .component--sponsor_link .link--ask_sponsor)
 web.humoruniv.com#?##wrap_cnts td[align="center"]:has(img[src$="_ad.gif"])
 fntoday.co.kr#?#div[style]#side-scroll-in article + .box-margins ~ div[class]:has(~ article.box-skin ~ article ~ article)
