@@ -1,3 +1,5 @@
+||cdn.globale.co.kr/adManager/
+||cdn.globale.co.kr/bannerpop/uploads/
 ||script.auction.co.kr/style/css/ad/
 ||script.auction.co.kr/ad/
 /^https:\/\/[a-z0-9-]+\.orbi\.kr\/[0-9]+\/[a-z0-9]+\./
