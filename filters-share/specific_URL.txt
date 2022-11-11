@@ -1,3 +1,4 @@
+||thesegye.com/support/_updata/banner
 ||cdn.globale.co.kr/adManager/
 ||cdn.globale.co.kr/bannerpop/uploads/
 ||script.auction.co.kr/style/css/ad/
