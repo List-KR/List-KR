@@ -33,7 +33,7 @@ plankim.com##body > div:not([class]):not([id])
 @@||op.gg^$generichide
 @@||withukor.com^$generichide
 meeco.kr#@#.adsbygoogle
-||fundingchoicesmessages.google.com^$domain=mksports.co.kr|sisamagazine.co.kr|dreamrail.co.kr
+||fundingchoicesmessages.google.com^$domain=mksports.co.kr|sisamagazine.co.kr|dreamrail.co.kr|webtool.cusis.net
 jtbc.co.kr#@#.adBanner
 @@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.min.js$domain=focuskr.tistory.com
 @@||focuskr.tistory.com^$generichide
