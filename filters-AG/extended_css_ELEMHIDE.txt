@@ -22,7 +22,6 @@ eggrank.com#?##right-sidebar > .inside-right-sidebar > div[class]:not(:contains(
 game.dcinside.com,gall.dcinside.com#?#table.gall_list tr:not([data-type][data-no]):has(td:contains(AD))
 2cpu.co.kr#?#tr.is_notice:has(span:contains((광고)))
 arca.live#?#.topbar-area:has(> .badge:contains(뉴스))
-browse.gmarket.co.kr#?#div[module-design-id].box__module-wrap:has(button[id^="buttonItemCardAdsLayer"][class="button__ads-layer"]):has(.box__itemcard-header > h3:contains(먼저 둘러보세요))
 newreop.com#?#.app-board-section > ul.app-board-template-list > li.notice:has(> a[href] > span > font[color]:contains(AD))
 ajunews.com#?#.aside_item.banner:has(> h4[style~="font-size:13px;color:#999999;margin:0"]:contains(AD))
 koreaminecraft.net#?#table.table-divider > tbody > tr.notice:has(> td.title > a > strong[style]:contains([프리미엄]))

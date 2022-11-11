@@ -424,7 +424,6 @@
 ||hungryapp.co.kr/banner/banner_*.php
 ||appdata.hungryapp.co.kr/banner/
 ||appdata.hungryapp.co.kr/event/mobi/
-/^(http|https):\/\/image\.gmarket\.co\.kr\/service_image\/[0-9]{4}\/[0-9]{2}\/[0-9]{2}\/[0-9]{20}/
 ||image.ygosu.com/images/ico_ad_black.png
 /^https:\/\/ssp\.igaw\.io\/bak\/[0-9]{3}x[0-9]{2}\./
 ||dailysecu.com/adManager/css/adManager.css
@@ -494,7 +493,6 @@
 ||res.afreecatv.com/script/da/ad_check.js
 ||ojsfile.ohmynews.com/BBS_ADM_FILE/
 ||hankyung.com/resource/js/w/view.ads.js
-||adgate.gmarket.co.kr^$document
 ||issue.dcinside.com/wp-content/plugins/advanced-ads
 ||upto.tk/ads.html
 ||m.ytn.co.kr/ad/

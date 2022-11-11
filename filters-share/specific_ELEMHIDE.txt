@@ -19,9 +19,9 @@ bigkinds.or.kr,hungryapp.co.kr,rhythmer.net##div[class$="Banner"]
 ! ##div[class$="banner"]
 sports.chosun.com,dcinside.com##div[class$="banner"]
 ! ##div[class$="-banner"]
-cineaste.co.kr,jpaxnet.co.kr,bigkinds.or.kr,item.gmarket.co.kr,toomics.com,nongmin.com,ilbe.com##div[class$="-banner"]
+cineaste.co.kr,jpaxnet.co.kr,bigkinds.or.kr,toomics.com,nongmin.com,ilbe.com##div[class$="-banner"]
 ! ##div[class^="banner"]
-bgchang.co.kr,edit.incruit.com,signinssl.gmarket.co.kr,m.hungryapp.co.kr,m.edaily.co.kr,m.news1.kr##div[class^="banner"]
+bgchang.co.kr,edit.incruit.com,m.hungryapp.co.kr,m.edaily.co.kr,m.news1.kr##div[class^="banner"]
 ! ##div[class$="-ad"]
 kpenews.com,m.diningcode.com,m.invest.zum.com,insight.co.kr,cgv.co.kr,m.inven.co.kr,tipsandtrickskorea.com,gamemeca.com,yeongnam.com##div[class$="-ad"]
 ! ##div[id^="ad"]
@@ -458,8 +458,6 @@ m.hungryapp.co.kr###popUP_ZONE
 m.hungryapp.co.kr##a[href^="javascript:"][onclick^="banner_open("]
 newsen.com##table table > tbody table[width][cellspacing][cellpadding].black > tbody td[height="90"]
 m.newsen.com##.googlead
-mitem.gmarket.co.kr##div[class^="box__item-detailinfo"] .plcc_banner
-mitem.gmarket.co.kr##article#detailView div[class$="_banner"]
 mylgid.com##.mainTopBanner
 tistory.com##.adsense
 www.naver.com##div[id^="NM_"][id$="_BANNER"]
@@ -538,9 +536,6 @@ auth.danawa.com###loginBottomBanner
 prod.danawa.com###ebayPowerClickBottomArea
 kimpga.com##div.max-w-screen-lg > .relative > div > div[class=""]:nth-child(1)
 m.danawa.com##.goods-list__ad
-www.gmarket.co.kr###skip-navigation-container > .section__main-ad
-www.gmarket.co.kr###skip-navigation-container > .section__main-power
-gmarket.co.kr##.box__head-ad
 inews24.com,joynews24.com##container[style~="width:100%;"][style~="position:relative;"]
 youthassembly.kr##.w_article > div[style]:not([id]):not([class]):not([align])
 youthassembly.kr##div[itemprop="articleBody"].main_text > div[style]:not([id]):not([class]):not([align])
@@ -560,7 +555,6 @@ ppomppu.co.kr,star.mt.co.kr,mimint.co.kr,bada.io,arca.live##div.ad
 ohmynews.com###div10Sticky
 ohmynews.com##div[class^="AD-"]
 ohmynews.com##div[class^="new_ad"]
-mitem.gmarket.co.kr###goodsDetailTab > div[id^="vipPowerClick"][id$="Layer"]
 principlesofknowledge.kr###content > .sub_content > .board_view >  div[align="center"]:not([class]):not([id]):not([style])
 piku.co.kr##.top-navigation .wrapper > .row.equal > div[class="col-xs-12 col-sm-6 col-lg-4"][style^="padding:"]
 m.ytn.co.kr##ul > li[class^="ad_"][id^="snsAd_area"]
