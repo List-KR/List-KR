@@ -23,7 +23,7 @@ cineaste.co.kr,jpaxnet.co.kr,bigkinds.or.kr,toomics.com,nongmin.com,ilbe.com##di
 ! ##div[class^="banner"]
 bgchang.co.kr,edit.incruit.com,m.hungryapp.co.kr,m.edaily.co.kr,m.news1.kr##div[class^="banner"]
 ! ##div[class$="-ad"]
-kpenews.com,m.diningcode.com,m.invest.zum.com,insight.co.kr,cgv.co.kr,m.inven.co.kr,tipsandtrickskorea.com,gamemeca.com,yeongnam.com##div[class$="-ad"]
+gmarket.co.kr,kpenews.com,m.diningcode.com,m.invest.zum.com,insight.co.kr,cgv.co.kr,m.inven.co.kr,tipsandtrickskorea.com,gamemeca.com,yeongnam.com##div[class$="-ad"]
 ! ##div[id^="ad"]
 nzkoreapost.com,moneys.mt.co.kr,fmkorea.com,newstomato.com,gamemeca.com,m.ohmynews.com,m.khan.co.kr,m.dcinside.com##div[id^="ad"]
 ! ##div[id^="AD"]
@@ -59,6 +59,8 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+www.gmarket.co.kr##.section__main-power
+www.gmarket.co.kr##.section__main-inner > .box__promotion .box__item > *
 item.gmarket.co.kr,mitem.auction.co.kr##div[class$="-togetheritems"]
 m.auction.co.kr##div[class^="box__layer-"][style]
 browse.auction.co.kr##.component--chance_shopping
