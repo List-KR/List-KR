@@ -1,3 +1,5 @@
+category.gmarket.co.kr#?#.cate-search-result > .title:has(+ #powerPlus)
+category.gmarket.co.kr#?#.cate-search-result > .title:has(+ #plusItem)
 browse.auction.co.kr#?##region--content_floating ~ #region--content_body div[module-design-id]:has(.button--power_click)
 browse.auction.co.kr#?#div[module-design-id] ~ div > .type--smiledelivery:has(+ .type--general .section--advertisement) ~ .component.type--general:not(:has(~ .type--general .text--smiledelivery_slogan))
 browse.auction.co.kr#?#div[module-design-id] ~ div > .component.type--general:has(~ div:has(.text--smiledelivery_slogan))
