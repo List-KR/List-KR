@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+browse.auction.co.kr##.component--chance_shopping
 auction.co.kr##.today-smart-shopping
 chaegeon.com##[id][class] > div[style].panel-default
 quasarzone.com##div[id*="_"][class*="-"][class^="bidrich-"]
