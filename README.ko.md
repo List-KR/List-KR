@@ -39,7 +39,7 @@ https://github.com/List-KR/List-KR/raw/master/filter-uBO.txt
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_25.txt
 ```
 
-## microShield and NamuLink
+## microShield와 NamuLink
 - **[microShield](https://github.com/List-KR/microShield)** 유저스크립트는 애드쉴드에 보호된 웹 사이트에 있는 차단하기 복잡한 광고를 차단합니다.
 [한국어로 설치하는 방법을 알아보기](https://github.com/List-KR/microShield/blob/main/README.ko.md)
 - **[NamuLink](https://github.com/List-KR/NamuLink)** 유저스크립트는 나무위키에 있는 라이선스를 위반한 파워링크 광고를 차단합니다.
