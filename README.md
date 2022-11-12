@@ -1,13 +1,22 @@
 # List-KR
-This is a web filter for websites in Korean language, to be used with [AdGuard](https://adguard.com) ad blocker and [uBlock Origin](https://github.com/gorhill/uBlock).
+<details>
+<summary>Other Language - 다른 언어</summary>
 
-List-KR aims to filter ads [^1] and anti-adblock.
+한국어: https://github.com/List-KR/List-KR/blob/master/README.ko.md
 
-List-KR is focused on Korean websites and app, and it is recommended to use List-KR together with AdGuard Base filter.
-If you want to block any advertisement managed by a cafe manager on Naver Cafe, rank of the cafe is fruit 1 or higher.
+</details>
 
-List-KR is optimized for AdGuard Windows, Mac, Android, Browser Extension and uBO.
-Therefore, List-KR cannot be added on AdBlock Plus and [Unicorn Pro adblocker](https://getunicorn.app/en) because they do not support advanced syntax (e.g. `$$`, `#%#//scriptlet()`, [`$removeparam`](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#removeparam) and `##+js`).
+---
+
+List-KR filter is a filter for websites in Korean language, to be used with [AdGuard](https://adguard.com) ad blocker and [uBlock Origin](https://github.com/gorhill/uBlock).
+
+List-KR filter aims to filter ads [^1] and anti-adblock.
+
+List-KR filter is focused on Korean websites and app, and it is recommended to use List-KR filter together with AdGuard Base filter.
+If you want to block any advertisement managed by a cafe manager on Naver Cafe, rank of the cafe must be fruit 1 or higher.
+
+List-KR filter is optimized for AdGuard products and uBO.
+Therefore, List-KR filter cannot be added on AdBlock Plus and [Unicorn Pro adblocker](https://getunicorn.app/en) because they do not support advanced syntax (e.g. `$$`, `#%#//scriptlet()`, [`$removeparam`](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#removeparam) and `##+js`).
 Furthermore, Unicorn Pro Adblocker does not support its filter editor that is necessary to debug.
 Also, Unicornsoft, owner of Unicorn Pro Adblocker, does not share their own filters for the adblock community, and they are proprietary. [Learn more](https://velog.io/@piquark6046/truth-of-unicorn-pro)
 
@@ -16,7 +25,9 @@ Please keep reading this document.
 
 If you want to block tracker or anti-rightclick scripts, please enable AdGuard Tracking Protection filter, AdGuard URL Tracking filter or AdGuard Annoyances filter.
 
-[^1]: Definition of advertisement: https://github.com/List-KR/List-KR/issues/512
+If you want to get supported or know email address of each maintainer, please read [this issue](https://github.com/List-KR/List-KR/issues/223).
+
+[^1]: Definition of advertisement in List-KR filter: https://github.com/List-KR/List-KR/issues/512
 
 ## How to use
 In the program you would like to use, use the following url to subscribe to or import.
@@ -35,17 +46,11 @@ https://adguardteam.github.io/HostlistsRegistry/assets/filter_25.txt
 ```
 
 ## microShield and NamuLink
-- **[microShield](https://github.com/List-KR/microShield)** blocks complicated advertisement to block on website protected by ad-shield.
-[한국어로 설치하는 방법을 알아보기](https://github.com/List-KR/microShield/blob/main/README.ko.md)
-- **[NamuLink](https://github.com/List-KR/NamuLink)** blocks license-abused PowerLink advertisement on NamuWiki.
-[한국어로 설치하는 방법을 알아보기](https://github.com/List-KR/NamuLink/blob/main/README.ko.md)
-
-## Support
-- [Create a GitHub Issue](https://github.com/List-KR/List-KR/issues/new/choose)
-- [Send an Email](https://github.com/List-KR/List-KR/issues/223)
+- **[microShield](https://github.com/List-KR/microShield)** userscript blocks complicated advertisement to block on website protected by ad-shield.
+- **[NamuLink](https://github.com/List-KR/NamuLink)** userscript blocks license-abused PowerLink advertisement on NamuWiki.
 
 ## How to contribute
 Please read CONTRIBUTING.md.
 
 ## License
-List-KR is licensed under GNU GPLv3.
+List-KR filter is licensed under GNU GPLv3.
