@@ -23,7 +23,7 @@ m.yna.co.kr#?##container aside[class^="aside-"]:has(iframe:matches-css(display: 
 hogangnono.com#?#.offer-container > .suggestion-item:has(a[href="#"] > span:has-text(광고))
 tgd.kr#?#div[style*="padding:"]:has(div[style] div[style]:has-text(AD))
 dailymedipharm.com#?#table:has(> tbody > tr > td:has-text(bannerManager):not(:has(> *)))
-eggrank.com#?##right-sidebar > .inside-right-sidebar > div[class]:not(:has-text(Hi there, I'm EGG.))
+eggrank.com#?##right-sidebar > .inside-right-sidebar > div[class]:not(:has-text(Hi there, I\'m EGG.))
 2cpu.co.kr#?#tr:has(> td > a[href^="../ad_board/"]:has-text(광고))
 2cpu.co.kr#?#ul > li:has(> a[href^="./ad_board/"]:has-text(광고))
 game.dcinside.com,gall.dcinside.com#?#table.gall_list tr:not([data-type][data-no]):has(td:has-text(AD))
