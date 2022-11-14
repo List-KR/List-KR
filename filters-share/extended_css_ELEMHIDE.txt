@@ -1,3 +1,4 @@
+blockmedia.co.kr#?#div[id^="shortcodes-ultimate-"]:has(div[id^="block-"][class^="block-content-"][style])
 category.gmarket.co.kr#?#.cate-search-result > .title:has(+ #powerPlus)
 category.gmarket.co.kr#?#.cate-search-result > .title:has(+ #plusItem)
 browse.auction.co.kr#?##region--content_floating ~ #region--content_body div[module-design-id]:has(.button--power_click)

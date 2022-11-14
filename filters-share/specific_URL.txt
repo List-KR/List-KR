@@ -1,3 +1,5 @@
+||blockmedia.co.kr/wp-content/plugins/advanced-ads/
+||blockmedia.co.kr/wp-content/uploads/*/Blockfesta_*uprise.
 ||coronaboard.kr/images/square-banner
 ||cdn.4th.kr/adManager/
 ||cdn.4th.kr/bannerpop/uploads/
