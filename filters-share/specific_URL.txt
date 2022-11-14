@@ -1,3 +1,5 @@
+||cdn.4th.kr/adManager/
+||cdn.4th.kr/bannerpop/uploads/
 ||gmarket.co.kr/Nbp/NbpInfo
 ||thesegye.com/support/_updata/banner
 ||cdn.globale.co.kr/adManager/
