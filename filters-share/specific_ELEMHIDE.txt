@@ -849,6 +849,7 @@ www.naver.com##iframe[id^="da_iframe_"]
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 !
+anilife.life##div[class$="-banner"]
 xn--8-o68e16s35etqj.com###hd_pop
 torrentwiz50.com,torrentwiz51.com,torrentwiz52.com,torrentwiz53.com,torrentwiz54.com,torrentwiz55.com,torrentwiz56.com,torrentwiz57.com,torrentwiz58.com,torrentwiz59.com,torrentwiz60.com,torrentwiz61.com,torrentwiz62.com,torrentwiz63.com,torrentwiz64.com,torrentwiz65.com,torrentwiz66.com##.panel-default ~ .widget-box .row
 torrentwiz50.com,torrentwiz51.com,torrentwiz52.com,torrentwiz53.com,torrentwiz54.com,torrentwiz55.com,torrentwiz56.com,torrentwiz57.com,torrentwiz58.com,torrentwiz59.com,torrentwiz60.com,torrentwiz61.com,torrentwiz62.com,torrentwiz63.com,torrentwiz64.com,torrentwiz65.com,torrentwiz66.com##.at-side > .hidden-xs ~ .row ~ .hidden-sm

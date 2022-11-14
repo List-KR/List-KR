@@ -714,6 +714,7 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+||anilife.life/assets/banner/
 ||xn--8-o68e16s35etqj.com/data/apms/background/
 /^https:\/\/xn--8-o68e16s35etqj\.com\/data\/editor\/[0-9]+\/[a-z0-9]+_[a-z0-9]+_[a-z0-9]+\./
 ||i.uuoobe.com/images/$domain=torrentreel1.site|torrentreel2.site|torrentreel3.site|torrentreel4.site|torrentreel5.site|torrentreel6.site|torrentreel7.site|torrentreel8.site|torrentreel9.site|torrentreel10.site|torrentreel11.site|torrentreel12.site|torrentreel13.site|torrentreel14.site|torrentreel15.site|torrentreel16.site
