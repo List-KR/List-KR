@@ -1,3 +1,5 @@
+||cdn.digitaltoday.co.kr/adManager/
+||cdn.digitaltoday.co.kr/bannerpop/uploads/
 ||blockmedia.co.kr/wp-content/plugins/advanced-ads/
 ||blockmedia.co.kr/wp-content/uploads/*/Blockfesta_*uprise.
 ||coronaboard.kr/images/square-banner
