@@ -513,9 +513,6 @@ login.11st.co.kr##.login_banner
 m.inven.co.kr,quasarzone.com##[class^="banner-"]
 m.edaily.co.kr##div[class$="_banners"]
 m.edaily.co.kr##.article_body > div[class]
-m.edaily.co.kr##.article_body > #innoramegbLodK
-edaily.co.kr###contents > section.mt50 ~ .mt50 div[class*="width"].fl ~ div[class*="width"].fl
-edaily.co.kr###edailywrap > [style$="128px;"].special_area
 toomics.com##body.home #contents > .floating
 toomics.com##img[src*="://thumb.toomics.com/upload/banner/"]:not([src*="/main/"]):not([src*="/cut/"])
 inven.co.kr###topskyAd
