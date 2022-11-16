@@ -721,7 +721,7 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
-||torrenthaja.com/data/banner/
+/^https:\/\/torrenthaja[0-9]*\.com\/data\/banner\//
 /^https:\/\/viewtorrent[0-9]+\.com\/data\/editor\//
 /^https:\/\/viewtorrent[0-9]+\.com\/img\/[0-9]\/[0-9]_[0-9A-z]{8}_[a-z0-9]+\./
 ||pixhost.to^$domain=viewtorrent1.com|viewtorrent2.com|viewtorrent3.com|viewtorrent4.com|viewtorrent5.com|viewtorrent6.com|viewtorrent7.com|viewtorrent8.com|viewtorrent9.com|viewtorrent10.com|viewtorrent11.com|viewtorrent12.com|viewtorrent13.com|viewtorrent14.com|viewtorrent15.com|viewtorrent16.com|viewtorrent17.com
