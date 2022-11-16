@@ -662,7 +662,6 @@
 ||t1.daumcdn.net/tistory_admin/static/revenue/dable.png
 ||t1.daumcdn.net/tistory_admin/static/revenue/adfit.svg
 ||koreaminecraft.net/serverad/$document
-||manatoki*.net/tokinbtoki/*.gif
 ||bloter.net/data/blt/banner/
 ||was.livere.me/api/ad|
 ||itcm.co.kr/files/thumbnails
@@ -801,8 +800,7 @@
 /^https:\/\/blacktoon[0-9]+\.com\/upload\/[0-9]{4}\/[0-9]{4}\/[0-9]{21}/
 /^https:\/\/newtoki[0-9]+\.com\/bbs\/linkbn\.php/$document
 /^https:\/\/newtoki[0-9]+\.com\/tokinbtoki\/[0-9]{2,}/
-/^https:\/\/manatoki[0-9]+\.com\/bbs\/linkbn\.php/$document
-/^https:\/\/manatoki[0-9]+\.com\/tokinbtoki\/[0-9]{3,}/
+/^https:\/\/manatoki[0-9]+\.net\/tokinbtoki\/[0-9]{3,}/
 ||toonkor*.com/images/*.gif
 ||wwwimageup.angle777899.com/other/atoona/
 ||hellven.net/data/apms/banner/
