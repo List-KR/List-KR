@@ -136,3 +136,9 @@ community.rememberapp.co.kr#$#div.sc-64vosk-0.jIkGEl { margin-bottom: 10px !impo
 ruliweb.com#$#.user_view { width: 100%!important; }
 ppomppu.co.kr#$#.top-keyword { width: 100%!important; }
 orbi.kr#$#.global-top { top: 0px!important; }
+!
+! Each domain of website in this section is forbidden by Internet censorship of S. Korea.
+! Some listed domains have been changed by their administrators regularly.
+! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
+!
+newtoki160.com,newtoki161.com,newtoki162.com,newtoki163.com,newtoki164.com,newtoki165.com,newtoki166.com,newtoki167.com,newtoki168.com,newtoki169.com,newtoki170.com,newtoki171.com#$#body { overflow: auto !important; }
