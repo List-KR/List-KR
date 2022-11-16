@@ -1,3 +1,4 @@
+||serv.ds.kakao.com^
 ||ad.auction.co.kr^
 ||dadispapi.auction.co.kr^
 ||infolinks.com^
