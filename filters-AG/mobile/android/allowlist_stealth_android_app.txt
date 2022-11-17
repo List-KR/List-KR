@@ -1,3 +1,0 @@
-@@||om-apis.sk-pay.co.kr^$stealth,app=com.elevenst
-@@||m.dcinside.com/movie/$stealth,app=com.dcinside.app
-@@||m.dcinside.com/movie/$stealth,app=com.dcinside.app.android
