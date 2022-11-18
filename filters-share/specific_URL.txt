@@ -1,3 +1,7 @@
+||gamefocus.co.kr/bncode2/banner_
+||gamefocus.co.kr/taboolacode/
+||gamefocus.co.kr/img_mobile/bn_main_*_m.
+/^http(s|):\/\/gamefocus\.co\.kr\/img_mobile\/bn_[a-z0-9_]+[0-9]+\./
 ||t1.daumcdn.net/kas/static/na.min.js
 ||api.wikitree.co.kr/api/v1/getArticles.php?*&type=11&
 ||cdn.digitaltoday.co.kr/adManager/
