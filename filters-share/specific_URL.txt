@@ -1,3 +1,4 @@
+||imnews.imbc.com/operate/common/view/ad/
 ||image.dnews.co.kr/uhtml/images/art/*_banner_
 ||gamefocus.co.kr/bncode2/banner_
 ||gamefocus.co.kr/taboolacode/
