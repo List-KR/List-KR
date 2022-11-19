@@ -27,8 +27,9 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 x86.co.kr,luckyquiz3.blogspot.com#%#//scriptlet("abort-current-inline-script", "document.createElement", "hasAdblock")
 ! meeco.kr
 !#if (adguard_app_ios)
-meeco.kr##div[style*="absolute"]:not([class]):not([id])
-meeco.kr#$#[style*="opacity"] { opacity: 1 !important; }
+meeco.kr#@#ins.adsbygoogle
+meeco.kr#@#.adsbygoogle
+meeco.kr#?#.adsbygoogle:remove()
 !#endif
 meeco.kr#$#.xe_content { opacity: 1 !important; }
 meeco.kr#%#//scriptlet("abort-current-inline-script", "$", ".adsbygoogle")
