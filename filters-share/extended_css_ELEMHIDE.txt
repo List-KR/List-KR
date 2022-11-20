@@ -1,3 +1,4 @@
+cnbnews.com#?#.section_h3 > div:has(~ .m01_arl46)
 blockmedia.co.kr#?#div[id^="shortcodes-ultimate-"]:has(div[id^="block-"][class^="block-content-"][style])
 category.gmarket.co.kr#?#.cate-search-result > .title:has(+ #powerPlus)
 category.gmarket.co.kr#?#.cate-search-result > .title:has(+ #plusItem)
