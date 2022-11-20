@@ -1,3 +1,5 @@
+||cdn.spochoo.com/adManager/
+||cdn.spochoo.com/bannerpop/uploads/
 ||assets.repress.co.kr/covers/*/original.
 ||cnbnews.com/data/banner/
 ||image.ajunews.com/content/ads/
