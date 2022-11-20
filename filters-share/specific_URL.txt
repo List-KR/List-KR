@@ -1,3 +1,4 @@
+||assets.repress.co.kr/covers/*/original.
 ||cnbnews.com/data/banner/
 ||image.ajunews.com/content/ads/
 ||bizhankook.com/upload/NPFILE/
