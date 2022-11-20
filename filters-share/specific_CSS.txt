@@ -1,3 +1,4 @@
+newdaily.co.kr#$#div[style].clearfix > .nd-by-line { width: 100% !important; }
 mk.co.kr#$#.news_synthesis_sec .col.col_4 { width: 100% !important; }
 memberssl.auction.co.kr#$#.box__login #login_tab { width: 100% !important; }
 memberssl.auction.co.kr#$#.box__login .box__login-member { width: 100% !important; }
