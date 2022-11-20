@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+bizhankook.com##div[style*="/upload/NPFILE/"]
 time.navyism.com###navyismMainContainer > div[style] + div:not([style*=" "]):not([id])j
 m.yonhapnewstv.co.kr##main > div[style*=" "].section
 gamefocus.co.kr##iframe[src^="bncode2/banner_"]
