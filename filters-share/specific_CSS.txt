@@ -1,3 +1,5 @@
+autopostkorea.com#$#.td-pb-span8 { width: 100% !important; }
+autopostkorea.com#$#body .td-header-wrap { margin-top: 0px !important; }
 newdaily.co.kr#$#div[style].clearfix > .nd-by-line { width: 100% !important; }
 mk.co.kr#$#.news_synthesis_sec .col.col_4 { width: 100% !important; }
 memberssl.auction.co.kr#$#.box__login #login_tab { width: 100% !important; }

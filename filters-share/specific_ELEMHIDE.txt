@@ -59,6 +59,9 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+autopostkorea.com##.tagdiv-type .best_news_wrap_mo
+autopostkorea.com##.td-pb-span4.td-main-sidebar
+autopostkorea.com##div[class^="adsense_"]
 m.boannews.com##section[class^="banner-"]
 newdaily.co.kr###article_conent > div[style].clearfix
 bizhankook.com##div[style*="/upload/NPFILE/"]

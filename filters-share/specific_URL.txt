@@ -1,3 +1,4 @@
+||autopostkorea.com/wp-content/cache/min/*-ad.js
 ||cdn.spochoo.com/adManager/
 ||cdn.spochoo.com/bannerpop/uploads/
 ||assets.repress.co.kr/covers/*/original.
