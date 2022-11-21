@@ -1,3 +1,5 @@
+||cdn.foodnews.co.kr/adManager/
+||cdn.foodnews.co.kr/bannerpop/uploads/
 ||ksg.co.kr/upload/banner/
 ||ksg.co.kr/upload/ad_html/
 ||cdn.sportsq.co.kr/bannerpop/uploads/
