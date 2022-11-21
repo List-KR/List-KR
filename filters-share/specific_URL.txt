@@ -1,3 +1,5 @@
+||cdn.sportsq.co.kr/bannerpop/uploads/
+||sportsq.co.kr/adManager/
 ||autopostkorea.com/wp-content/cache/min/*-ad.js
 ||cdn.spochoo.com/adManager/
 ||cdn.spochoo.com/bannerpop/uploads/
