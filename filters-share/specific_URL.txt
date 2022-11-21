@@ -1,3 +1,5 @@
+||cdn.incheontoday.com/bannerpop/uploads/
+||cdn.incheontoday.com/adManager/
 ||cdn.gjdream.com/adManager/
 ||cdn.gjdream.com/bannerpop/uploads/
 ||ibabynews.com/bannerpop/uploads/
