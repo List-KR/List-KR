@@ -1,3 +1,5 @@
+||seoulwire.com/adManager/
+||seoulwire.com/bannerpop/uploads/
 ||cdn.foodnews.co.kr/adManager/
 ||cdn.foodnews.co.kr/bannerpop/uploads/
 ||ksg.co.kr/upload/banner/
