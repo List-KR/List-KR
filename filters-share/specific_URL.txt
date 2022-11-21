@@ -1,3 +1,5 @@
+||ksg.co.kr/upload/banner/
+||ksg.co.kr/upload/ad_html/
 ||cdn.sportsq.co.kr/bannerpop/uploads/
 ||sportsq.co.kr/adManager/
 ||autopostkorea.com/wp-content/cache/min/*-ad.js
