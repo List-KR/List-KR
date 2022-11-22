@@ -1,3 +1,5 @@
+/^http(s|):\/\/timg\.humoruniv\.com\/thumb_crop_resize\.php\?url=http(s|):\/\/((?![a-z0-9\.]+\.humoruniv\.com)[a-z\.0-9]+)/
+||humoruniv.com/board/boardexp/*.html?enc=
 ||cdn.incheontoday.com/bannerpop/uploads/
 ||cdn.incheontoday.com/adManager/
 ||cdn.gjdream.com/adManager/
@@ -53,10 +55,8 @@
 ||cdn.newspost.kr/adManager/
 ||cdn.newspost.kr/bannerpop/uploads/
 /^https:\/\/nimage\.g-enews\.com\/phpwas\/restmb_allidxmake\.php\?idx=999&simg=[a-f0-9]+_0\./
-||humoruniv.com/board/boardexp/z.html?enc=
 ||humoruniv.com/js/adpost.kakao.ad.js
 ||humoruniv.com/js/adpost_adsense.js
-/^http(s|):\/\/timg\.humoruniv\.com\/thumb_crop_resize\.php\?url=.+\/resize\/[0-9]{3,}.+\?SIZE=/
 ||humoruniv.com/c/banner/
 ||img.principlesofknowledge.kr/images/cpcbanner/
 ||idsn.co.kr/support/_updata/banner
