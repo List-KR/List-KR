@@ -3,7 +3,6 @@ watchfreejavonline.co#%#//scriptlet("abort-current-inline-script", "popMagic.ini
 !
 www.naver.com#%#//scriptlet("set-cookie", "NM_TOP_PROMOTION", "1")
 nesin.com#%#//scriptlet("abort-current-inline-script", "open", "/\/popup\//")
-kyobobook.co.kr#%#//scriptlet("remove-class", "dialog_open", "html")
 kyobobook.co.kr#%#//scriptlet("remove-attr", "placeholder", "input#searchMainKeyword")
 kyobobook.co.kr#%#//scriptlet("remove-attr", "placeholder", "input#searchKeyword")
 mjmedi.com#%#//scriptlet("abort-current-inline-script", "bannerpop.popup")
