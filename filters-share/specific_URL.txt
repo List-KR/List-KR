@@ -1,3 +1,4 @@
+||timg.humoruniv.com/thumb.php?url=https://file.ggeal.com/
 /^http(s|):\/\/timg\.humoruniv\.com\/thumb_crop_resize\.php\?url=http(s|):\/\/((?![a-z0-9\.]+\.humoruniv\.com)[a-z\.0-9]+)/
 ||humoruniv.com/board/boardexp/*.html?enc=
 ||cdn.incheontoday.com/bannerpop/uploads/
