@@ -1,3 +1,4 @@
+||deapi.afreecatv.com/api/v*/recommend?
 ||url.kr/data/banner/
 /^http(s|):\/\/(m\.|)humoruniv\.com\/[a-z0-9\/]+\.[a-z0-9]+\?enc=.{10,}/$xmlhttprequest
 /^https:\/\/sports-phinf\.pstatic\.net\/[0-9]{8}_[0-9]{3}\/[A-z0-9]+_PNG\/[A-Z0-9%\._]+\./
@@ -711,7 +712,6 @@
 ||shop-redapi.daum.net/red-apigate/daumtop/
 ||jjang0u.com/banner_wrap
 ||arca.live/api/pagead
-||deapi.afreecatv.com/api/*/recommend/
 ||static.afreecatv.com/asset/service/ad/
 ||image.thebell.co.kr/banner/
 ||koya-culture.com/data/banner/
