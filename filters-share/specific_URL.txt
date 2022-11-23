@@ -1,3 +1,4 @@
+||url.kr/data/banner/
 /^http(s|):\/\/(m\.|)humoruniv\.com\/[a-z0-9\/]+\.[a-z0-9]+\?enc=.{10,}/$xmlhttprequest
 /^https:\/\/sports-phinf\.pstatic\.net\/[0-9]{8}_[0-9]{3}\/[A-z0-9]+_PNG\/[A-Z0-9%\._]+\./
 ||timg.humoruniv.com/thumb.php?url=https://file.ggeal.com/
