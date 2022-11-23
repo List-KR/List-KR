@@ -59,6 +59,8 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+m.humoruniv.com###mobile > div[style*="height:"][id^="window"]
+m.humoruniv.com##div[style^="margin:"] > div[style^="width:"]
 m.humoruniv.com##div[id^="ggeal_"][style]
 humoruniv.com###wrap_mdd ~ div[style*="height:"]
 humoruniv.com###wrap_cnts > div[style^="margin:"]
