@@ -1,3 +1,4 @@
+m.humoruniv.com#?##mobile > #list_top ~ *:matches-css(min-height: /^[0-9]{2,}/)
 sports.hankooki.com#?#aside .box-margins:has(~ .box-skin.point-title)
 cnbnews.com#?#.section_h3 > div:has(~ .m01_arl46)
 blockmedia.co.kr#?#div[id^="shortcodes-ultimate-"]:has(div[id^="block-"][class^="block-content-"][style])
