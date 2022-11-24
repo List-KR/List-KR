@@ -1,3 +1,4 @@
+||daenews.co.kr/data/banner/
 ||mtnews.net/data/file/banner/
 ||mtnews.net/data/file/banner_fixed/
 ||cdn.cbinews.co.kr/bannerpop/uploads/
