@@ -1,3 +1,4 @@
+focus.daum.net#$#div[data-tiara-layer]:not([id]) { margin-top: 0px !important; position: relative !important; }
 autopostkorea.com#$#.td-pb-span8 { width: 100% !important; }
 autopostkorea.com#$#body .td-header-wrap { margin-top: 0px !important; }
 newdaily.co.kr#$#div[style].clearfix > .nd-by-line { width: 100% !important; }
