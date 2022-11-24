@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: List-KR uBO
 ! Description: List-KR for uBlock Origin. Do not add this filter into your DNS filter and other adblocker like Unicorn Pro adblocker.
-! Version: 2022.1124.9
+! Version: 2022.1124.10
 ! Expires: 1 day
 ! Homepage: https://github.com/List-KR/List-KR
 ! Support: https://github.com/List-KR/List-KR/issues/223
@@ -11,8 +11,8 @@
 !
 
 !#if ext_ublock
-!#include filters-share/adservice.txt
-!#include filters-share/adservice_firstparty.txt
+!#include filters-share/3rd_domains.txt
+!#include filters-share/1st_domains.txt
 !#include filters-share/general_elemhide.txt
 !#include filters-uBO/specific_ELEMHIDE.txt
 !#include filters-share/general_url.txt
