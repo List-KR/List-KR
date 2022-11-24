@@ -3,7 +3,7 @@ klauncher.kr,poketory.com,withukor.com,tistory.com,love.asdn.kr,avjamak.net,unti
 ! ##+js(nostif, /\.displayMessage\(/)
 iphonedev.co.kr,tistory.com,3dpchip.com##+js(nostif, /\.displayMessage\(/)
 ! BlockAdBlock
-fafan.kr,blog.dalso.org,svrforum.com,shana.pe.kr,tistory.com##+js(nobab)
+fafan.kr,blog.dalso.org,svrforum.com,tistory.com##+js(nobab)
 tistory.com##+js(nobab2)
 ! FuckAdBlock
 te31.com,tistory.com##+js(nofab)
