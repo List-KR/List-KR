@@ -1,3 +1,4 @@
+||cdn.ksilbo.co.kr/adManager/
 ||cdn.cctoday.co.kr/adManager/
 ||cdn.cctoday.co.kr/bannerpop/uploads/
 ||cdn.kbmaeil.com/adManager/
