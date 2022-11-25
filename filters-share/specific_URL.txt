@@ -1,3 +1,5 @@
+||cdn.cctoday.co.kr/adManager/
+||cdn.cctoday.co.kr/bannerpop/uploads/
 ||cdn.kbmaeil.com/adManager/
 ||cdn.kbmaeil.com/bannerpop/uploads/
 ||inews365.com/data/banner/
