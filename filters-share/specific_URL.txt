@@ -1,3 +1,5 @@
+||cdn.kbmaeil.com/adManager/
+||cdn.kbmaeil.com/bannerpop/uploads/
 ||inews365.com/data/banner/
 ||cdn.jemin.com/adManager/
 ||cdn.jemin.com/bannerpop/uploads/
