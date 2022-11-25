@@ -27,12 +27,12 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 x86.co.kr,luckyquiz3.blogspot.com#%#//scriptlet("abort-current-inline-script", "document.createElement", "hasAdblock")
 ! meeco.kr
 !#if (adguard_app_ios)
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=meeco.kr
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=meeco.kr,redirect=googlesyndication-adsbygoogle,important
 meeco.kr#@#ins.adsbygoogle
 meeco.kr#@#.adsbygoogle
-meeco.kr#?#.adsbygoogle:remove()
 !#endif
-meeco.kr#$#.xe_content { opacity: 1 !important; }
-meeco.kr#%#//scriptlet("abort-current-inline-script", "$", ".adsbygoogle")
+meeco.kr#?#.adsbygoogle:remove()
 ! namu.wiki
 @@||newliweb.com/$subdocument,script,domain=namu.wiki|~board.namu.wiki
 @@||arca.live/$subdocument,script,domain=namu.wiki|~board.namu.wiki
