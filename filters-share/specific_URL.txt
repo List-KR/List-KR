@@ -1,3 +1,5 @@
+||cdn.kihoilbo.co.kr/adManager/
+||dn.kihoilbo.co.kr/bannerpop/uploads/
 ||cdn.ksilbo.co.kr/adManager/
 ||cdn.cctoday.co.kr/adManager/
 ||cdn.cctoday.co.kr/bannerpop/uploads/
