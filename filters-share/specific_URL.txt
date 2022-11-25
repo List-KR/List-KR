@@ -1,3 +1,4 @@
+||inews365.com/data/banner/
 ||cdn.jemin.com/adManager/
 ||cdn.jemin.com/bannerpop/uploads/
 ||idomin.com/adManager/
