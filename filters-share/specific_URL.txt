@@ -1,3 +1,5 @@
+||idomin.com/adManager/
+||idomin.com/bannerpop/uploads/
 ||cdn.joongboo.com/bannerpop/uploads/
 ||cdn.joongboo.com/adManager/
 ||domin.co.kr/adManager/
