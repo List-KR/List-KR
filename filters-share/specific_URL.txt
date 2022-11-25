@@ -1,3 +1,5 @@
+||domin.co.kr/adManager/
+||domin.co.kr/bannerpop/
 ||mediajeju.com/bannerpop/uploads/
 ||maxmovie.com/ad/
 /^http(s|):\/\/(m\.|)humoruniv\.com\/[a-z0-9\/]+\.[a-z0-9]+\?[a-z0-9]+=(.{10,}|[0-9]+)/$xmlhttprequest
