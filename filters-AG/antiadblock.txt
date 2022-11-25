@@ -27,12 +27,10 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 x86.co.kr,luckyquiz3.blogspot.com#%#//scriptlet("abort-current-inline-script", "document.createElement", "hasAdblock")
 ! meeco.kr
 !#if (adguard_app_ios)
-!#safari_cb_affinity(general,privacy)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=meeco.kr
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=meeco.kr,redirect=googlesyndication-adsbygoogle,important
 meeco.kr#@#ins.adsbygoogle
 meeco.kr#@#.adsbygoogle
-!#safari_cb_affinity
 !#endif
 !#if (adguard_ext_safari)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=meeco.kr
