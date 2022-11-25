@@ -1,3 +1,5 @@
+||cdn.joongboo.com/bannerpop/uploads/
+||cdn.joongboo.com/adManager/
 ||domin.co.kr/adManager/
 ||domin.co.kr/bannerpop/
 ||mediajeju.com/bannerpop/uploads/
