@@ -1,3 +1,4 @@
+||popco.net/openx/www/delivery/ajs.php
 /^http(s|):\/\/(m\.|)humoruniv\.com\/[a-z0-9\/]+\.[a-z0-9]+/$xmlhttprequest
 ||cdn.kihoilbo.co.kr/adManager/
 ||dn.kihoilbo.co.kr/bannerpop/uploads/
