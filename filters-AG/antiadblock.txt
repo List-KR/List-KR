@@ -35,6 +35,8 @@ meeco.kr#@#.adsbygoogle
 !#if (adguard_ext_safari)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=meeco.kr
 !#endif
+meeco.kr#$#.xe_content { opacity: 1 !important; }
+meeco.kr#%#//scriptlet("abort-current-inline-script", "$", ".adsbygoogle")
 meeco.kr#?#.adsbygoogle:remove()
 ! namu.wiki
 @@||newliweb.com/$subdocument,script,domain=namu.wiki|~board.namu.wiki
