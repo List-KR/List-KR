@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+blog.naver.com###ssp-adpost
 ujnews.co.kr###navigation-cnt > div[style*=" "]:not([style*="margin-bottom:"])
 ujnews.co.kr###viewConts > div[id^="articleBody"]
 popco.net##div[class$="_ban"]
