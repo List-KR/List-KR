@@ -1,3 +1,4 @@
+/^https:\/\/([a-z0-9\.]+|)torrentdia[0-9]+\.com\/data\/to_list\//
 ||ibric.org/about/banner/
 ||gene.postech.ac.kr/upload/board/files/banner/
 ||ibric.org/upload/board/files/banner
