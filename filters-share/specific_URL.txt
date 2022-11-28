@@ -781,6 +781,7 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+/^https:\/\/hohotoon[0-9]+\.com\/data\/banner\//
 /^http(s|):\/\/(www\.|)spotv[0-9]+\.com\/theme\/basic\/img\/[a-z]+_ad_/
 /^https:\/\/torrenthaja[0-9]*\.com\/data\/banner\//
 /^https:\/\/viewtorrent[0-9]+\.com\/data\/editor\//
