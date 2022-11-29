@@ -1,3 +1,4 @@
+ibric.org#?#table[bgcolor][align] table[cellspacing][align] tr:has(table table strong > a[href*="?Board=enterprise"])
 ibric.org#?#table[align] table[border] table[align]:has(td[align] img[alt="검색광고"])
 ibric.org#?#table[width] table[width] td[width][height]:has(a[target="_blank"] img[alt="배너광고안내"])
 ibric.org#?#table[width] table[width] tr:has(> td[colspan] td[width][height] > img[alt="스폰서광고"])
