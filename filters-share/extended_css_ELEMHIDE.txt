@@ -68,8 +68,6 @@ kayak.co.kr#?#.Ui-Hotels-Results-List-Components-RheaLiteWrapper-container div:n
 m.yna.co.kr#?##container aside[class^="aside-"]:has(ul[id^="ad"]) + aside
 m.search.daum.net#?#body.nate .section_cont [disp-attr]:has(> div:matches-css(display: none))
 www.instiz.net#?#div[style].responsive_main div[style~="background-color:"]:not([class]):has(div[id^="ad"][style] > ins.adsbygoogle)
-www.instiz.net#?#.board_img_foot div[style] > .responsive_main:has(div[id^="ad"][style] > ins.adsbygoogle)
-www.instiz.net#?#div[style] > .responsive_main div[class*="ad"][style]:has(div[id^="ad"][style] > ins.adsbygoogle)
 www.instiz.net#?#.responsive_main .responsive_main:has(div[id^="ad"][style] > ins.adsbygoogle)
 extmovie.com#?#div[style].xe-widget-wrapper:has(a[href^="/sisaing"])
 velog.io#?#div[class]:has(> ins.adsbygoogle)

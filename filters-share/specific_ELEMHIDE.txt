@@ -59,6 +59,9 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+instiz.net##table#mboard.mboard tr:not([id])
+instiz.net###menufoot > .hot_under
+instiz.net##div[id^="sidead"]
 ibric.org##table[align] table[align] td[valign] table[cellspacing] tr > td[colspan][height][bgcolor]
 m.ibric.org##.row > div[style=""].col-xs-12 ~ div[id] + div[style]
 ibric.org##[id*="Ad"]
@@ -297,7 +300,6 @@ bobaedream.co.kr##body.body-community div[class*="Car"]
 www.instiz.net,m.instiz.net###menufoot .content div[class*="ad"][style*="padding:"]
 m.instiz.net##body > div[style^="min-height:"]:not([class]):not([id])
 www.instiz.net,m.instiz.net##div[id^="div-"][style*="min-height:"]:not([class])
-www.instiz.net##.content table#mainboard.mainboard tr:not([id^="list"])
 www.instiz.net##div[style].content ~ div[class$="ad"][style*="min-height:"]
 www.instiz.net##div[class$="ad"][id$="ad"]
 mbong.kr##center a[href*="//mbong.kr/banner"]
