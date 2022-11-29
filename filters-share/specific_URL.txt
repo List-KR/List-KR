@@ -1,3 +1,4 @@
+/^http(s|):\/\/(m\.|)humoruniv\.com\/\?[^\n\r\t\/\.]+=[^\n\r\t\/\.]+/$xmlhttprequest
 ||ibric.org/upload/board/files/enterprise/
 ||ibric.org/upload/board/files/new_protech_pri/
 /^https:\/\/([a-z0-9\.]+|)torrentdia[0-9]+\.com\/data\/to_list\//
@@ -5,7 +6,6 @@
 ||gene.postech.ac.kr/upload/board/files/banner/
 ||ibric.org/upload/board/files/banner
 ||cdn.footballist.co.kr/adManager/
-/^http(s|):\/\/m\.humoruniv\.com\/\?[a-z0-9]+=[0-9a-z]+/$xmlhttprequest
 ||ujnews.co.kr/support/_updata/banner
 ||popco.net/openx/www/delivery/ajs.php
 /^http(s|):\/\/(m\.|)humoruniv\.com\/[a-z0-9\/]+\.[a-z0-9]+/$xmlhttprequest
