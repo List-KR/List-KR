@@ -1,3 +1,5 @@
+||cdn.spotvnews.co.kr/adManager/
+||cdn.spotvnews.co.kr/bannerpop/uploads/
 /^http(s|):\/\/(m\.|)humoruniv\.com\/\?[^\n\r\t\/\.]+/$xmlhttprequest
 ||ibric.org/upload/board/files/enterprise/
 ||ibric.org/upload/board/files/new_protech_pri/
