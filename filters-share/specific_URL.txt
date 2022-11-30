@@ -1,4 +1,4 @@
-/^http(s|):\/\/(m\.|)humoruniv\.com\/\?[^\n\r\t\/\.]+=[^\n\r\t\/\.]+/$xmlhttprequest
+/^http(s|):\/\/(m\.|)humoruniv\.com\/\?[^\n\r\t\/\.]+/$xmlhttprequest
 ||ibric.org/upload/board/files/enterprise/
 ||ibric.org/upload/board/files/new_protech_pri/
 /^https:\/\/([a-z0-9\.]+|)torrentdia[0-9]+\.com\/data\/to_list\//
