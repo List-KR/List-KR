@@ -32,7 +32,7 @@ meeco.kr#?#.adsbygoogle:remove()
 @@||namu.wiki/$frame,script,domain=namu.wiki|~board.namu.wiki
 !
 web1907.tistory.com##+js(acis, $, div.adsbygoogle)
-web1907.tistory.com#@#.adsbygoogle
+maniac-game.tistory.com,web1907.tistory.com#@#.adsbygoogle
 genshin.gamedot.org##+js(nostif, timerAdChecker)
 genshin.gamedot.org##[style*="background-image:"][style*="module/genshinmaps/asset/image/"]:not([id]):not([class])
 ||genshin.gamedot.org/module/genshinmaps/asset/image/adblock-line
