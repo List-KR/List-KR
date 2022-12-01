@@ -31,6 +31,8 @@ meeco.kr#?#.adsbygoogle:remove()
 @@||namu.news/$frame,script,domain=namu.wiki|~board.namu.wiki
 @@||namu.wiki/$frame,script,domain=namu.wiki|~board.namu.wiki
 !
+ilsangt.tistory.com##.adblock-on
+ilsangt.tistory.com##+js(acis, $, .adsense-area)
 web1907.tistory.com##+js(acis, $, div.adsbygoogle)
 maniac-game.tistory.com,web1907.tistory.com#@#.adsbygoogle
 genshin.gamedot.org##+js(nostif, timerAdChecker)

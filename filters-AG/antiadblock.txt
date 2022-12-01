@@ -50,6 +50,8 @@ meeco.kr#?#.adsbygoogle:remove()
 @@||namu.wiki/$subdocument,script,domain=namu.wiki
 !#endif
 !
+ilsangt.tistory.com##.adblock-on
+ilsangt.tistory.com#%#//scriptlet("abort-current-inline-script", "$", ".adsense-area")
 web1907.tistory.com#%#//scriptlet("abort-current-inline-script", "$", "div.adsbygoogle")
 maniac-game.tistory.com,web1907.tistory.com#@#.adsbygoogle
 genshin.gamedot.org#%#//scriptlet("prevent-setTimeout", "timerAdChecker")
