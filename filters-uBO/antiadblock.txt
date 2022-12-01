@@ -33,7 +33,7 @@ meeco.kr#?#.adsbygoogle:remove()
 !
 ilsangt.tistory.com##.adblock-on
 ilsangt.tistory.com##+js(acis, $, .adsense-area)
-foodvaccine.tistory.com,dailyhoroscope.tistory.com,web1907.tistory.com##+js(acis, $, div.adsbygoogle)
+tistory.com##+js(acis, $, div.adsbygoogle)
 maniac-game.tistory.com,web1907.tistory.com#@#.adsbygoogle
 genshin.gamedot.org##+js(nostif, timerAdChecker)
 genshin.gamedot.org##[style*="background-image:"][style*="module/genshinmaps/asset/image/"]:not([id]):not([class])
