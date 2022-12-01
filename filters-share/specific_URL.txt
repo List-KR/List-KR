@@ -1,6 +1,8 @@
+/^http(s|):\/\/timg\.humoruniv\.com\/thumb_crop_resize\.php\?url_enc=[^\/\r\t\n\?]+\?SIZE=.+\?OPT=none/
+||gdimg.gmarket.co.kr/*/still/300|$domain=humoruniv.com
+/^http(s|):\/\/(m\.|)humoruniv\.com\/.+\?[^\r\t\n\/]+/$xmlhttprequest
 ||cdn.spotvnews.co.kr/adManager/
 ||cdn.spotvnews.co.kr/bannerpop/uploads/
-/^http(s|):\/\/(m\.|)humoruniv\.com\/\?[^\n\r\t\/\.]+/$xmlhttprequest
 ||ibric.org/upload/board/files/enterprise/
 ||ibric.org/upload/board/files/new_protech_pri/
 /^https:\/\/([a-z0-9\.]+|)torrentdia[0-9]+\.com\/data\/to_list\//
@@ -10,7 +12,6 @@
 ||cdn.footballist.co.kr/adManager/
 ||ujnews.co.kr/support/_updata/banner
 ||popco.net/openx/www/delivery/ajs.php
-/^http(s|):\/\/(m\.|)humoruniv\.com\/[a-z0-9\/]+\.[a-z0-9]+/$xmlhttprequest
 ||cdn.kihoilbo.co.kr/adManager/
 ||dn.kihoilbo.co.kr/bannerpop/uploads/
 ||cdn.ksilbo.co.kr/adManager/
@@ -40,7 +41,6 @@
 ||deapi.afreecatv.com/api/v*/recommend?
 ||url.kr/data/banner/
 ||timg.humoruniv.com/thumb.php?url=https://file.ggeal.com/
-/^http(s|):\/\/timg\.humoruniv\.com\/thumb_crop_resize\.php\?url=http(s|):\/\/((?![a-z0-9\.]+\.humoruniv\.com)[a-z\.0-9]+)/
 ||cdn.incheontoday.com/bannerpop/uploads/
 ||cdn.incheontoday.com/adManager/
 ||cdn.gjdream.com/adManager/
