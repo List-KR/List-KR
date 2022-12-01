@@ -1,3 +1,4 @@
+||daumcdn.net/tistory/1999484/skin/images/bal.jpg
 /^http(s|):\/\/timg\.humoruniv\.com\/thumb_crop_resize\.php\?url_enc=[^\/\r\t\n\?]+\?SIZE=.+\?OPT=none/
 ||gdimg.gmarket.co.kr/*/still/300|$domain=humoruniv.com
 /^http(s|):\/\/(m\.|)humoruniv\.com\/.+\?[^\r\t\n\/]+/$xmlhttprequest
