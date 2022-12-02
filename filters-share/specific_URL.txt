@@ -1,4 +1,4 @@
-/^http(s|):\/\/(m\.|)humoruniv\.com\/.+\.[a-z0-9]+/$xmlhttprequest
+/^http(s|):\/\/(m\.|)humoruniv\.com\/.+\?[a-z0-9]+=/$xmlhttprequest
 ||cliimage.commutil.kr/phpwas/restmb_allidxmake.php
 ||daumcdn.net/tistory/1999484/skin/images/bal.jpg
 /^http(s|):\/\/timg\.humoruniv\.com\/thumb_crop_resize\.php\?url_enc=[^\/\r\t\n\?]+\?SIZE=.+\?OPT=none/
