@@ -25,6 +25,8 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 @@||namu.news/$subdocument,script,domain=namu.wiki|~board.namu.wiki
 @@||namu.wiki/$subdocument,script,domain=namu.wiki|~board.namu.wiki
 !
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=detegice.github.io
+@@||t1.daumcdn.net/kas/static/ba.min.js$domain=detegice.github.io
 ilsangt.tistory.com#@#.adsense-area
 @@||tab2.clickmon.co.kr/pop/wp_ad_$script,domain=ilsangt.tistory.com
 @@||clickmon.co.kr/ADVER_server/ad_view/pop_ad.php$subdocument,domain=ilsangt.tistory.com

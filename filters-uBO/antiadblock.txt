@@ -31,6 +31,7 @@ meeco.kr#?#.adsbygoogle:remove()
 @@||namu.news/$frame,script,domain=namu.wiki|~board.namu.wiki
 @@||namu.wiki/$frame,script,domain=namu.wiki|~board.namu.wiki
 !
+detegice.github.io##+js(aopr, $.prototype.fadeIn)
 ilsangt.tistory.com##.adblock-on
 ilsangt.tistory.com##+js(acis, $, .adsense-area)
 tistory.com##+js(acis, $, div.adsbygoogle)

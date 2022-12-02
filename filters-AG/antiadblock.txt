@@ -50,6 +50,7 @@ meeco.kr#?#.adsbygoogle:remove()
 @@||namu.wiki/$subdocument,script,domain=namu.wiki
 !#endif
 !
+detegice.github.io#%#//scriptlet("abort-on-property-read", "$.prototype.fadeIn")
 ilsangt.tistory.com##.adblock-on
 ilsangt.tistory.com#%#//scriptlet("abort-current-inline-script", "$", ".adsense-area")
 tistory.com#%#//scriptlet("abort-current-inline-script", "$", "div.adsbygoogle")
