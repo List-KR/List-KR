@@ -1,7 +1,7 @@
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
-m.humoruniv.com##+js(nostif, /height.+replace.+px/)
+m.humoruniv.com##+js(nostif, /height.+replace.+px[^]+min-height/)
 domin.co.kr##+js(set, bannerpop.popup, noopFunc)
 nesin.com##+js(acis, open, /\/popup\//)
 kyobobook.co.kr##+js(ra, placeholder, input#searchMainKeyword)
