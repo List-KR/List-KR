@@ -54,7 +54,7 @@ detegice.github.io#%#//scriptlet("abort-on-property-read", "$.prototype.fadeIn")
 ilsangt.tistory.com##.adblock-on
 ilsangt.tistory.com#%#//scriptlet("abort-current-inline-script", "$", ".adsense-area")
 tistory.com#%#//scriptlet("abort-current-inline-script", "$", "div.adsbygoogle")
-koreapas.com,maniac-game.tistory.com,web1907.tistory.com#@#.adsbygoogle
+webtv.dothome.co.kr,te31.com,koreapas.com,maniac-game.tistory.com,web1907.tistory.com#@#.adsbygoogle
 genshin.gamedot.org#%#//scriptlet("prevent-setTimeout", "timerAdChecker")
 genshin.gamedot.org##[style*="background-image:"][style*="module/genshinmaps/asset/image/"]:not([id]):not([class])
 ||genshin.gamedot.org/module/genshinmaps/asset/image/adblock-line
@@ -82,7 +82,6 @@ jtbc.co.kr#@#.adBanner
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=nooptext,domain=spotvnow.co.kr
 @@||googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=op.gg
 stockinfo7.com#%#//scriptlet("prevent-setTimeout", "ad.innerHTML.replace")
-te31.com#@#.adsbygoogle
 ||fundingchoicesmessages.google.com^$domain=creativestudio.kr|gamejay.net|mksports.co.kr|sisamagazine.co.kr|dreamrail.co.kr|tistory.com|gukjenews.com|issuelink.co.kr|webtool.cusis.net|koreaminecraft.net
 ||cdn.kollhong.com/wp-content/custom-js/fuckadblock.min.js
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=noopjs,domain=game.hotsharegames.com
@@ -91,7 +90,6 @@ webtv.dothome.co.kr##.adblock-on
 persnacons.tistory.com#@#.topAD
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ff14angler.com
 uda1004.tistory.com,exey.io,ff14angler.com#@#ins.adsbygoogle
-webtv.dothome.co.kr#@#.adsbygoogle
 ||1412.rest/addons/*/adblockDetector.js
 singingdalong.blogspot.com,sajuplus.net##.adsense-alt
 tistory.com,sajuplus.net#%#//scriptlet("set-constant", "checkAds", "noopFunc")
