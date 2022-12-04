@@ -1,3 +1,4 @@
+||bikesell.co.kr/site/images/ban/
 ||yakup.com/data/banner/
 /^http(s|):\/\/(m\.|)humoruniv\.com\/.+\?[a-z0-9]+=/$xmlhttprequest
 ||cliimage.commutil.kr/phpwas/restmb_allidxmake.php
