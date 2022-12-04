@@ -11,6 +11,8 @@ te31.com,tistory.com#%#//scriptlet("abort-on-property-read", "adBlockDetected")
 ! ai_front anti-adblock
 plankim.com#%#//scriptlet("abort-current-inline-script", "ai_adb.init")
 jootc.com,ehpub.co.kr#%#//scriptlet("abort-current-inline-script", "ai_run_scripts")
+! fundingchoicesmessages.google.com
+||fundingchoicesmessages.google.com^$domain=tailstar.net|creativestudio.kr|gamejay.net|mksports.co.kr|sisamagazine.co.kr|dreamrail.co.kr|tistory.com|gukjenews.com|issuelink.co.kr|webtool.cusis.net|koreaminecraft.net
 ! Kakao TV
 !#if (adguard_app_ios || adguard_ext_safari)
 @@||videoads.kakao.com/adserver/api/v*/vmap|$domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
@@ -82,7 +84,6 @@ jtbc.co.kr#@#.adBanner
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=nooptext,domain=spotvnow.co.kr
 @@||googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=op.gg
 stockinfo7.com#%#//scriptlet("prevent-setTimeout", "ad.innerHTML.replace")
-||fundingchoicesmessages.google.com^$domain=creativestudio.kr|gamejay.net|mksports.co.kr|sisamagazine.co.kr|dreamrail.co.kr|tistory.com|gukjenews.com|issuelink.co.kr|webtool.cusis.net|koreaminecraft.net
 ||cdn.kollhong.com/wp-content/custom-js/fuckadblock.min.js
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=noopjs,domain=game.hotsharegames.com
 ||www3.doubleclick.net/|$redirect=nooptext,domain=blackkiwi.net
