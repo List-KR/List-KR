@@ -1,5 +1,5 @@
 ! ##+js(acis, document.addEventListener, /adscale_slot_id/)
-remiz.co.kr,enjoytaiwan.co.kr,klauncher.kr,poketory.com,withukor.com,tistory.com,love.asdn.kr,avjamak.net,untitle.org,seo-marketing.co.kr##+js(acis, document.addEventListener, /adscale_slot_id/)
+bikesell.co.kr,remiz.co.kr,enjoytaiwan.co.kr,klauncher.kr,poketory.com,withukor.com,tistory.com,love.asdn.kr,avjamak.net,untitle.org,seo-marketing.co.kr##+js(acis, document.addEventListener, /adscale_slot_id/)
 ! ##+js(nostif, /\.displayMessage\(/)
 iphonedev.co.kr,tistory.com,3dpchip.com##+js(nostif, /\.displayMessage\(/)
 ! BlockAdBlock
