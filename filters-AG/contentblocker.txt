@@ -27,6 +27,7 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 @@||namu.news/$subdocument,script,domain=namu.wiki|~board.namu.wiki
 @@||namu.wiki/$subdocument,script,domain=namu.wiki|~board.namu.wiki
 !
+@@||daumcdn.net/tistory/2903718/attach/*#ad&adv_keywords=
 @@||daumcdn.net/tistory/3522240/skin/images/ic_menu_white_48dp_2x.png#ad&adv_keywords=
 @@||bikesell.co.kr^$generichide
 @@||bikesell.co.kr/site/images/main_top1.gif#ad&adv_keywords=
