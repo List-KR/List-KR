@@ -1,3 +1,4 @@
+||daumcdn.net/tistory/2120872/skin/images/adsense_
 ||bikesell.co.kr/site/images/ban/
 ||yakup.com/data/banner/
 /^http(s|):\/\/(m\.|)humoruniv\.com\/.+\?[a-z0-9]+=/$xmlhttprequest
