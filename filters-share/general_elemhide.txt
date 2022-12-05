@@ -1,5 +1,4 @@
 ##ins.viewus-ad
-##iframe[src*="//ra.ntwoad.co.kr/"]
 ##iframe[src*="//stt.pltapad.com/"]
 ##iframe[src*="//mediaindex.co.kr/DABanner.php"]
 ##ins[class^="MediaIndex_AD_"]
@@ -30,7 +29,6 @@
 ##[id^="div-gpt-ad"]
 ##iframe[src*="//adsrv-up.mcrony.com/"]
 ##a[href*="//click.soonwe.com/"]
-##iframe[src*="//adbiz3.co.kr/"]
 ##iframe[src*="//coupa.ng/"]
 ##img[src^="/bannerpop/"]
 ##iframe[src*="//ads.priel.co.kr/"]
@@ -40,7 +38,6 @@
 ##iframe[src*="//ad.aceplanet.co.kr/"]
 ##iframe[src*="//ad.ajitad.co.kr/"]
 ##iframe[src*="//vod.shoppingcall.me/ad_shoppingCallme.php"]
-##iframe[src*="//adbiz2.co.kr/"]
 ##iframe[src*="//deepdive.zum.com/widget/"]
 ##iframe[src*="//minishop.linkprice.com/"]
 ##iframe[src*="//ad.linkprice.com/"]

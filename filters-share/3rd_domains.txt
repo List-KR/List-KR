@@ -9,7 +9,6 @@
 ||andbeyond.media^
 ||adlooxtracking.com^
 ||aniview.com^
-||ntwoad.co.kr^
 ||tnkad.net^
 ||advertising.com^
 ||contextweb.com^
@@ -72,7 +71,6 @@
 ||adx-exchange.toast.com^
 ||adhooah.com^$third-party
 ||adsrv-up.mcrony.com^
-||adbiz3.co.kr^
 ||keywordsconnect.com^$third-party
 ||ads.priel.co.kr^
 ||mrep.kr^$third-party
@@ -84,7 +82,6 @@
 ||simg.imadrep.co.kr^
 ||adv.dailyissue.co.kr^
 ||ad.idnad.co.kr^
-||adbiz2.co.kr^
 ||deepdive.zum.com^
 ||minishop.linkprice.com^
 ||ad.linkprice.com^
@@ -108,8 +105,6 @@
 ||mtag.mman.kr^
 ||ssp.meba.kr^
 ||ad.adnmore.co.kr^
-||nsclick.neoebiz.co.kr^
-||nscreen.neoebiz.co.kr^
 ||netinsight.co.kr^
 ||realclick.co.kr^
 ||googleadservices.com^
