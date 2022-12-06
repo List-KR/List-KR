@@ -26,6 +26,16 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 @@||arca.live/$subdocument,script,domain=namu.wiki|~board.namu.wiki
 @@||namu.news/$subdocument,script,domain=namu.wiki|~board.namu.wiki
 @@||namu.wiki/$subdocument,script,domain=namu.wiki|~board.namu.wiki
+! FuckAdBlock
+te31.com#@#.pub_300x250
+te31.com#@#.pub_300x250m
+te31.com#@#.pub_728x90
+te31.com#@#.text-ad
+te31.com#@#.text-ad-links
+te31.com#@#.text-ads
+te31.com#@#.textAd
+te31.com#@#.text_ad
+te31.com#@#.text_ads
 !
 @@||daumcdn.net/tistory/2903718/attach/*#ad&adv_keywords=
 @@||daumcdn.net/tistory/3522240/skin/images/ic_menu_white_48dp_2x.png#ad&adv_keywords=
