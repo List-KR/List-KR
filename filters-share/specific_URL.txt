@@ -1,3 +1,5 @@
+||evape.kr/data/editor/
+/^https:\/\/evape\.kr\/data\/file[0-9]+\/client\//
 ||xetown.com/|$xmlhttprequest
 ||daumcdn.net/tistory/2120872/skin/images/adsense_
 ||bikesell.co.kr/site/images/ban/
