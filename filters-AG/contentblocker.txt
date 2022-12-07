@@ -37,6 +37,8 @@ te31.com#@#.textAd
 te31.com#@#.text_ad
 te31.com#@#.text_ads
 !
+@@||ad.smartmediarep.com/NetInsight/video/$domain=mbn.co.kr
+@@||smrmembers-smr.smartmediarep.com/smc/smrmembers/$domain=mbn.co.kr
 @@||daumcdn.net/tistory/2903718/attach/*#ad&adv_keywords=
 @@||daumcdn.net/tistory/3522240/skin/images/ic_menu_white_48dp_2x.png#ad&adv_keywords=
 @@||bikesell.co.kr^$generichide

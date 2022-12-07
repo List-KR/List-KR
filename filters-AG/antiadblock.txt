@@ -52,6 +52,12 @@ meeco.kr#?#.adsbygoogle:remove()
 @@||namu.wiki/$subdocument,script,domain=namu.wiki
 !#endif
 !
+!#if (adguard_app_ios || adguard_ext_safari)
+@@||ad.smartmediarep.com/NetInsight/video/$domain=mbn.co.kr
+||ad.smartmediarep.com/NetInsight/video/$redirect=nooptext,domain=mbn.co.kr,important
+@@||smrmembers-smr.smartmediarep.com/smc/smrmembers/$domain=mbn.co.kr
+!#endif
+||ad.smartmediarep.com/NetInsight/video/$redirect=nooptext,domain=mbn.co.kr
 detegice.github.io#%#//scriptlet("abort-on-property-read", "$.prototype.fadeIn")
 ilsangt.tistory.com##.adblock-on
 ilsangt.tistory.com#%#//scriptlet("abort-current-inline-script", "$", ".adsense-area")
@@ -94,8 +100,6 @@ uda1004.tistory.com,exey.io,ff14angler.com#@#ins.adsbygoogle
 ||1412.rest/addons/*/adblockDetector.js
 singingdalong.blogspot.com,sajuplus.net##.adsense-alt
 tistory.com,sajuplus.net#%#//scriptlet("set-constant", "checkAds", "noopFunc")
-! mbn.co.kr ( https://github.com/AdguardTeam/AdguardFilters/issues/104586 )
-||ad.smartmediarep.com/NetInsight/video/$redirect=nooptext,domain=mbn.co.kr
 ! foreign website
 play.aidungeon.io,tamrieltradecentre.com,downloads.descendant.me,html5.gamedistribution.com,paraphraser.io,sekai-kabuka.com,teemo.gg,xtremestream.co#@#ins.adsbygoogle
 !

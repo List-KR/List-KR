@@ -33,6 +33,7 @@ meeco.kr#?#.adsbygoogle:remove()
 @@||namu.news/$frame,script,domain=namu.wiki|~board.namu.wiki
 @@||namu.wiki/$frame,script,domain=namu.wiki|~board.namu.wiki
 !
+||ad.smartmediarep.com/NetInsight/video/$redirect=noop.txt,domain=mbn.co.kr
 detegice.github.io##+js(aopr, $.prototype.fadeIn)
 ilsangt.tistory.com##.adblock-on
 ilsangt.tistory.com##+js(acis, $, .adsense-area)
@@ -69,8 +70,6 @@ uda1004.tistory.com,exey.io,ff14angler.com#@#ins.adsbygoogle
 ||1412.rest/addons/*/adblockDetector.js
 singingdalong.blogspot.com,sajuplus.net##.adsense-alt
 tistory.com,sajuplus.net##+js(set, checkAds, noopFunc)
-! mbn.co.kr ( https://github.com/AdguardTeam/AdguardFilters/issues/104586 )
-||ad.smartmediarep.com/NetInsight/video/$redirect=noop.txt,domain=mbn.co.kr
 ! foreign website
 play.aidungeon.io,tamrieltradecentre.com,downloads.descendant.me,html5.gamedistribution.com,paraphraser.io,sekai-kabuka.com,teemo.gg,xtremestream.co#@#ins.adsbygoogle
 !
