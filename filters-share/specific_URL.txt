@@ -785,7 +785,6 @@
 ||nstatic.dcinside.com/ad/
 ||s3-class.orbi.kr/event/
 ||livere.me/ad?
-||mediacategory.com/servlet/
 ||t1.daumcdn.net/adfit/
 ||loader2.fmkorea.com/_myphp/adpost/content_new.php
 ||loader.fmkorea.com/_loader/

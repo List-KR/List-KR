@@ -7,7 +7,6 @@
 ||ad-display.s.zigzag.kr^
 ||d35kivqzqn1ftb.cloudfront.net^
 ||d131nj8pwjizfu.cloudfront.net^
-||www.mediacategory.com^$app=com.ahnlab.v3mobilesecurity.soda
 ||adpies.com^
 ||ssp-ad.momento.dev^
 ||sdk-bid.exelbid.com^
