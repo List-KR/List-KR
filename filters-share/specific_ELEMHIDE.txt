@@ -354,7 +354,7 @@ mnews.jtbc.co.kr##.shopping_wrap div[class$="_ad"]
 mnews.jtbc.co.kr##.news > div[class$="_ad"][style]
 manhwa.co.kr##.container > div[style][id^="slider"]
 m.mt.co.kr###container.atcpage div[style]:not([class]):not([id])
-m.mt.co.kr##[class^="ad"]
+xetown.com,m.mt.co.kr##[class^="ad"]
 ichannela.com##.main_visual .main_ban
 ichannela.com##div[class^="banner"]:not([id^="img"])
 ichannela.com###gaOverRay
@@ -774,8 +774,6 @@ principlesofknowledge.kr,postshare.co.kr###hd_pop
 postshare.co.kr##div[id^="adMall_popup_"]
 postshare.co.kr##body > div[class^="brand-"]
 postshare.co.kr##.addot-wrapper
-xetown.com##tr.ads
-xetown.com##li.adsense
 m.naver.com##div.brick-vowel > div[data-block-code="AD-SMART-CHANNEL"].MM_DA_SMARTCHANNEL
 m.coupang.com##.plp-default__item.search-product__cmg-badge
 m.coupang.com##div[data-page-type="brandSDP"][id$="carousel-products"]
