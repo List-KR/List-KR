@@ -1,3 +1,4 @@
+@@||ssl.pstatic.net/adimg3.search/adpost/js/adpost_show_ads_v2.min.js$domain=m.clien.net|danawa.com
 @@||vrixon.com/adsdk/zum/vrixadsdk.js$domain=pip-player.zum.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=1alpha1.com
 @@||khcu.ac.kr/resources/include/ad/
@@ -14,7 +15,6 @@ x86.co.kr#@#.download_ad
 @@/^https:\/\/www\.ehanex\.com\/images\/main\/[a-z]{2}_ad\.gif$/
 @@||adimg3.search.naver.net/adpost/adpost_show_ads_min.js$domain=search.danawa.com
 @@||t1.daumcdn.net/adfit/static/kp.js$domain=pindirectshop.com|dongbanmall.com
-@@||ssl.pstatic.net/adimg3.search/adpost/js/adpost_show_ads_v2.min.js$domain=m.clien.net|m.danawa.com
 !
 ! Each domain of website in this section is forbidden by Internet censorship of S. Korea.
 ! Some listed domains have been changed by their administrators regularly.
