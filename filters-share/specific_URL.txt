@@ -43,7 +43,6 @@
 ||mtnews.net/data/file/banner_fixed/
 ||cdn.cbinews.co.kr/bannerpop/uploads/
 ||cdn.cbinews.co.kr/adManager/
-||deapi.afreecatv.com/api/v*/recommend?
 ||url.kr/data/banner/
 ||timg.humoruniv.com/thumb.php?url=https://file.ggeal.com/
 ||cdn.incheontoday.com/bannerpop/uploads/
