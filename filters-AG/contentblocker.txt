@@ -1,14 +1,3 @@
-@@ad&adv_keywords=$domain=3dpchip.com
-@@-page-peel/$domain=3dpchip.com
-@@/adchain.$domain=3dpchip.com
-@@/adfootright.$domain=3dpchip.com
-@@/adsxml/ad$domain=3dpchip.com
-@@/adyard300.$domain=3dpchip.com
-@@/impopup/ad$domain=3dpchip.com
-@@/loadadsparam.$domain=3dpchip.com
-@@/meme_ad.$domain=3dpchip.com
-@@_adshare.$domain=3dpchip.com
-@@||3dpchip.com^$generichide
 @@||1412.rest^$generichide
 !
 !
