@@ -52,6 +52,8 @@ meeco.kr#?#.adsbygoogle:remove()
 @@||namu.wiki/$subdocument,script,domain=namu.wiki
 !#endif
 !
+||ssulwar.com/dev/modules/board/skins/*/js/adblockblock.js$redirect=noopjs
+ssulwar.com#%#//scriptlet("abort-current-inline-script", "document.getElementById", "adblock")
 !#if (adguard_app_ios || adguard_ext_safari)
 @@||ad.smartmediarep.com/NetInsight/video/$domain=mbn.co.kr
 ||ad.smartmediarep.com/NetInsight/video/$redirect=nooptext,domain=mbn.co.kr,important

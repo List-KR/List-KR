@@ -26,6 +26,7 @@ te31.com#@#.textAd
 te31.com#@#.text_ad
 te31.com#@#.text_ads
 !
+@@||ssulwar.com/dev/modules/board/skins/*/js/adblockblock.js
 @@||ad.smartmediarep.com/NetInsight/video/$domain=mbn.co.kr
 @@||smrmembers-smr.smartmediarep.com/smc/smrmembers/$domain=mbn.co.kr
 @@||daumcdn.net/tistory/2903718/attach/*#ad&adv_keywords=
