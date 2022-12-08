@@ -47,7 +47,7 @@ dpg.danawa.com,m.hani.co.kr##div[id*="-ad"]
 ! ##div[id*="Ad"]
 m.seoul.co.kr##div[id*="Ad"]
 ! ##div[class*="ad_"]
-paxnet.co.kr##div[class*="ad_"]
+donga.com,paxnet.co.kr##div[class*="ad_"]
 ! ##div[class*="ad-"]
 lol.ps##div[class*="ad-"]
 ! ##div[id^="Banner"]
@@ -59,7 +59,6 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
-donga.com##.viewad_top
 ruliweb.com##div[class^="nbp_container"]
 fomos.kr##.board_view .related_content > ul > a
 tailstar.net###wrap_right > #right
