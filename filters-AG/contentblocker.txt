@@ -26,6 +26,7 @@ te31.com#@#.textAd
 te31.com#@#.text_ad
 te31.com#@#.text_ads
 !
+@@||ad.smartmediarep.com/NetInsight/video/smr1/smr1/$domain=allvod.sbs.co.kr
 @@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.min.js$domain=1004lucifer.blogspot.com
 @@||ssulwar.com/dev/modules/board/skins/*/js/adblockblock.js
 @@||ad.smartmediarep.com/NetInsight/video/$domain=mbn.co.kr
