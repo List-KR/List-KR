@@ -6,7 +6,7 @@ iphonedev.co.kr,tistory.com#%#//scriptlet("prevent-setTimeout", "/\.displayMessa
 fafan.kr,blog.dalso.org,svrforum.com,tistory.com#%#//scriptlet("prevent-bab")
 ! FuckAdBlock
 te31.com,tistory.com#%#//scriptlet("prevent-fab-3.2.0")
-te31.com,tistory.com#%#//scriptlet("abort-on-property-read", "adBlockDetected")
+1004lucifer.blogspot.com,te31.com,tistory.com#%#//scriptlet("abort-on-property-read", "adBlockDetected")
 ||cdnjs.cloudflare.com/ajax/libs/fuckadblock/3.2.1/fuckadblock.min.js$redirect=prevent-fab-3.2.0
 ! ai_front anti-adblock
 plankim.com#%#//scriptlet("abort-current-inline-script", "ai_adb.init")
