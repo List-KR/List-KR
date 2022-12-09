@@ -1,3 +1,4 @@
+||m.humoruniv.com/banner/
 ||mzthinks.com/app/data/file/article/banner/
 /^https:\/\/evape\.kr\/data\/editor\/[0-9]+\/[a-z0-9]+_[a-z0-9]+_[a-z0-9]+\./
 /^https:\/\/evape\.kr\/data\/file[0-9]+\/client\//
@@ -104,9 +105,7 @@
 ||cdn.newspost.kr/adManager/
 ||cdn.newspost.kr/bannerpop/uploads/
 /^https:\/\/nimage\.g-enews\.com\/phpwas\/restmb_allidxmake\.php\?idx=999&simg=[a-f0-9]+_0\./
-||humoruniv.com/js/adpost.kakao.ad.js
-||humoruniv.com/js/adpost_adsense.js
-||humoruniv.com/c/banner/
+||humoruniv.com/js/adpost*.js
 ||img.principlesofknowledge.kr/images/cpcbanner/
 ||idsn.co.kr/support/_updata/banner
 ||fntoday.co.kr/adManager/
