@@ -59,6 +59,8 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+mongri.net##.entry-content > div[id^="top"]
+mongri.net###sidebartop
 ruliweb.com##div[class^="nbp_container"]
 fomos.kr##.board_view .related_content > ul > a
 tailstar.net###wrap_right > #right
