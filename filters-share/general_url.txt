@@ -1,5 +1,4 @@
 ! ndsoft.co.kr - An internet press hosting service
-/^http(s|):\/\/([a-z0-9-\.]+|)+[a-z0-9-]+\.[a-z]+\/adManager\/(css|js)\/[A-z]+\.(css|js)$/
 /^http(s|):\/\/([a-z0-9-\.]+|)+[a-z0-9-]+\.[a-z]+\/bannerpop\/uploads\//
 !
 /media/banner/*

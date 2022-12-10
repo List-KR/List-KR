@@ -1,7 +1,7 @@
 [AdGuard]
 ! Title: List-KR
 ! Description: List-KR for AdGuard. Maintained by the adblock community and AdGuard.
-! Version: 2022.1209.6 
+! Version: 2022.1210.0
 ! Expires: 1 day
 ! Homepage: https://github.com/List-KR/List-KR
 ! Support: https://github.com/List-KR/List-KR/issues/223
@@ -16,6 +16,7 @@
 !#include filters-share/general_elemhide.txt
 !#include filters-AG/specific_ELEMHIDE.txt
 !#include filters-share/general_url.txt
+!#include filters-AG/general_url.txt
 !#include filters-share/specific_URL.txt
 !#include filters-share/specific_ELEMHIDE.txt
 !#include filters-share/allowlist.txt

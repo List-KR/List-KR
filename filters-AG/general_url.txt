@@ -1,0 +1,6 @@
+! ndsoft.co.kr - An internet press hosting service
+! https://github.com/AdguardTeam/AdguardBrowserExtension/issues/2240
+!#if !adguard_ext_chromium
+/^http(s|):\/\/([a-z0-9-\.]+|)+[a-z0-9-]+\.[a-z]+\/adManager\/(css|js)\/[A-z]+\.(css|js)$/
+!#endif
+!
