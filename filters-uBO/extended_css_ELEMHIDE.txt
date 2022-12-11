@@ -57,6 +57,7 @@ m.cafe.naver.com#?#.location_bar:has(.active:has-text(전체공지)) ~ .location
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 !
+torrentsee140.com,torrentsee141.com,torrentsee142.com,torrentsee143.com,torrentsee144.com,torrentsee145.com,torrentsee146.com,torrentsee147.com,torrentsee148.com,torrentsee149.com,torrentsee150.com,torrentsee151.com,torrentsee152.com,torrentsee153.com,torrentsee154.com,torrentsee155.com,torrentsee156.com,torrentsee157.com#?#.nplr div[class=""] li:has(li:has-text(AD))
 todawa91.top,todawa92.top,todawa93.top,todawa94.top,todawa95.top,todawa96.top,todawa97.top,todawa98.top,todawa99.top,todawa100.top,todawa101.top#?#.sub-cont table tr:has(> td:has-text(광고))
 frtoon139.com,frtoon140.com,frtoon141.com,frtoon142.com,frtoon143.com,frtoon144.com,frtoon145.com,frtoon146.com,frtoon147.com,frtoon148.com,frtoon149.com,frtoon150.com,frtoon151.com,frtoon152.com#?#.alert-danger.container:has-text([AD])
 hdhd180.net,hdhd181.net,hdhd182.net,hdhd183.net,hdhd184.net,hdhd185.net,hdhd186.net,hdhd187.net,hdhd188.net,hdhd189.net,hdhd190.net,hdhd191.net,hdhd192.net,hdhd193.net,hdhd194.net#?#.menu-ul > .menu-li:has(> a:has-text(보증토토))
