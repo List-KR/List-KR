@@ -7,7 +7,7 @@ fafan.kr,blog.dalso.org,svrforum.com,tistory.com##+js(nobab)
 tistory.com##+js(nobab2)
 ! FuckAdBlock
 te31.com,tistory.com##+js(nofab)
-1004lucifer.blogspot.com,te31.com,tistory.com##+js(aopr, adBlockDetected)
+x86.co.kr,1004lucifer.blogspot.com,te31.com,tistory.com##+js(aopr, adBlockDetected)
 ! ai_front anti-adblock
 plankim.com##+js(acis, ai_adb.init)
 jootc.com,ehpub.co.kr##+js(acis, ai_run_scripts)
