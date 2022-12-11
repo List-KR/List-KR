@@ -6,10 +6,10 @@
 ||daumcdn.net/tistory/2120872/skin/images/adsense_
 ||bikesell.co.kr/site/images/ban/
 ||yakup.com/data/banner/
-/^http(s|):\/\/(m\.|)humoruniv\.com\/.+\?[a-z0-9]+=/$xmlhttprequest
+/^https?:\/\/(m\.|)humoruniv\.com\/.+\?[a-z0-9]+=/$xmlhttprequest
 ||cliimage.commutil.kr/phpwas/restmb_allidxmake.php
 ||daumcdn.net/tistory/1999484/skin/images/bal.jpg
-/^http(s|):\/\/timg\.humoruniv\.com\/thumb_crop_resize\.php\?url_enc=[^\/\r\t\n\?]+\?SIZE=.+\?OPT=none/
+/^https?:\/\/timg\.humoruniv\.com\/thumb_crop_resize\.php\?url_enc=[^\/\r\t\n\?]+\?SIZE=.+\?OPT=none/
 ||gdimg.gmarket.co.kr/*/still/300|$domain=humoruniv.com
 ||ibric.org/upload/board/files/enterprise/
 ||ibric.org/upload/board/files/new_protech_pri/
@@ -43,7 +43,7 @@
 ||gamefocus.co.kr/bncode2/banner_
 ||gamefocus.co.kr/taboolacode/
 ||gamefocus.co.kr/img_mobile/bn_main_*_m.
-/^http(s|):\/\/gamefocus\.co\.kr\/img_mobile\/bn_[a-z0-9_]+[0-9]+\./
+/^https?:\/\/gamefocus\.co\.kr\/img_mobile\/bn_[a-z0-9_]+[0-9]+\./
 ||t1.daumcdn.net/kas/static/na.min.js
 ||api.wikitree.co.kr/api/v1/getArticles.php?*&type=11&
 ||blockmedia.co.kr/wp-content/plugins/advanced-ads/
@@ -55,10 +55,10 @@
 ||script.auction.co.kr/ad/
 /^https:\/\/[a-z0-9-]+\.orbi\.kr\/[0-9]+\/[a-z0-9]+\./
 ||eleccar.co.kr/images/main/type3/dummy_banner
-/^http(s|):\/\/(www\.|)eleccar\.co\.kr\/Files\/[0-9]+\/Template\/[0-9]+\/[0-9]+_[0-9]+\./
+/^https?:\/\/(www\.|)eleccar\.co\.kr\/Files\/[0-9]+\/Template\/[0-9]+\/[0-9]+_[0-9]+\./
 ||kpenews.com/images/main/banner/
-/^http(s|):\/\/kpenews\.com\/images\/main\/[a-z]+_[0-9]+\./
-/^http(s|):\/\/kpenews\.com\/Files\/[0-9]\/Template\/[0-9]+\/[0-9]+_[0-9]+\./
+/^https?:\/\/kpenews\.com\/images\/main\/[a-z]+_[0-9]+\./
+/^https?:\/\/kpenews\.com\/Files\/[0-9]\/Template\/[0-9]+\/[0-9]+_[0-9]+\./
 /^https:\/\/nimage\.g-enews\.com\/phpwas\/restmb_allidxmake\.php\?idx=999&simg=[a-f0-9]+_0\./
 ||humoruniv.com/js/adpost*.js
 ||img.principlesofknowledge.kr/images/cpcbanner/
@@ -68,7 +68,7 @@
 ||static-whale.pstatic.net/main/$image,domain=www.naver.com
 ||isplus.com/data/json/main/banner.json
 ||dt.co.kr/ad.html
-/^http(s|):\/\/img\.dt\.co\.kr\/images\/[0-9]+x[0-9]+\./
+/^https?:\/\/img\.dt\.co\.kr\/images\/[0-9]+x[0-9]+\./
 ||knnews.co.kr/edb/banner/
 ||m.mydaily.co.kr/new/img/*.gif|
 ||mydaily.co.kr/ad/adimage/
@@ -115,7 +115,7 @@
 ||img.sbs.co.kr/news/ad/
 ||programs.sbs.co.kr/show/advertise_ch/
 ||image.kyobobook.co.kr/newimages/adcenter/
-/http(s|):\/\/(www\.|)defensetimes\.kr\/imgs\/[A-z_]{1,}[0-9]{2,3}x[0-9]{2,3}\./
+/https?:\/\/(www\.|)defensetimes\.kr\/imgs\/[A-z_]{1,}[0-9]{2,3}x[0-9]{2,3}\./
 ||lawnb.com/lbimg/Banner/
 ||mediapen.com/banner
 /^https:\/\/tbc\.imgdl\.xcache\.kinxcdn\.com\/cdn[0-9]{3}\/[0-9]{8}\/[0-9%A-z_]{1,}\([0-9]{3,4}x[0-9]{3,4}\)/
@@ -231,7 +231,7 @@
 ||iframe.inews24.com/ad/
 ||api-zero.livere.com/*/comments/list/ad
 ||djf7qc4xvps5h.cloudfront.net/ad/
-/^http(s|):\/\/img.tf.co.kr\/ss\/[0-9]{4}\/fns\/ads_/
+/^https?:\/\/img.tf.co.kr\/ss\/[0-9]{4}\/fns\/ads_/
 ||newsis.com/assets/js/ad.js
 ||m.sportschosun.com/ad/
 ||sportschosun.com/data/file/scad/
@@ -254,7 +254,7 @@
 ||cfnews.kr/gears/banner_pds/
 ||usnews.co.kr/bannerManager/
 ||ombudsmannews.com/data/designImages/BANNER_
-/http(s|):\/\/www\.ombudsmannews\.com\/default\/image\/[a-z]{1,}\.gif/
+/https?:\/\/www\.ombudsmannews\.com\/default\/image\/[a-z]{1,}\.gif/
 ||mediaindex.co.kr/DABanner.php
 ||kpja.kr/PEG/banner/
 ||kpja.kr/rankup_module/rankup_banner
@@ -265,7 +265,7 @@
 ||anewsa.com/master/banner/
 ||kcilbo.com/gears/banner_pds/
 ||jjang0u.com/js/jjang_banner.js
-/http(s|):\/\/www\.ajl\.co\.kr\/[0-9A-z_]{1,}\./
+/https?:\/\/www\.ajl\.co\.kr\/[0-9A-z_]{1,}\./
 ||sjtoday.kr/upload/userfiles/
 ||areyou.co.kr/bannerManager/
 ||hn-morning.com/banner/
@@ -636,7 +636,7 @@
 ||hellven.net/data/apms/imgb/
 ||toonthe.com/img/banner/
 /^https:\/\/hohotoon[0-9]+\.com\/data\/banner\//
-/^http(s|):\/\/(www\.|)spotv[0-9]+\.com\/theme\/basic\/img\/[a-z]+_ad_/
+/^https?:\/\/(www\.|)spotv[0-9]+\.com\/theme\/basic\/img\/[a-z]+_ad_/
 /^https:\/\/torrenthaja[0-9]*\.com\/data\/banner\//
 /^https:\/\/viewtorrent[0-9]+\.com\/data\/editor\//
 /^https:\/\/viewtorrent[0-9]+\.com\/img\/[0-9]\/[0-9]_[0-9A-z]{8}_[a-z0-9]+\./
