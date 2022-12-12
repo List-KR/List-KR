@@ -1,3 +1,4 @@
+/^https:\/\/cdn[0-9]+\.boribori\.co\.kr\/rimg\/(0|110x250)\/cdn\/contents\/disp_corner_conts\//
 ||m.humoruniv.com/banner/
 ||mzthinks.com/app/data/file/article/banner/
 /^https:\/\/evape\.kr\/data\/editor\/[0-9]+\/[a-z0-9]+_[a-z0-9]+_[a-z0-9]+\./
@@ -598,9 +599,7 @@
 ||file.osen.co.kr/*/css/ad.css
 ||img.mbn.co.kr/ad/
 ||techworld.speedgabia.com/epnc.co.kr/ad/
-/:\/\/m\.ilbe\.com\/images\/([a-z]|[0-9]|_){8,11}\.gif/
 ||clien.net/service/api/coupang/ad?
-/cdn\.boribori\.co\.kr(\/|\/rimg\/(0|110x250)\/)cdn\/contents\/disp_corner_conts\//
 ||cdn.halfclub.com/images_web/Etc/banner/
 ||cimage.ondisk.co.kr/data/mdns_bigbanner/
 ||ygosu.com/banner_img/
@@ -629,7 +628,7 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
-/^https:\/\/([a-z0-9\.]+)?torrentdia[0-9]+\.com\/data\/to_list\//
+/^https:\/\/[a-z0-9\.]*torrentdia[0-9]+\.com\/data\/to_list\//
 /^https:\/\/torrentsee[0-9]+\.com\/uploadfile\/up[a-z0-9]+\.gif$/
 ||hellven.net/data/apms/imgb/
 ||toonthe.com/img/banner/
