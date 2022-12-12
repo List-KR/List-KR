@@ -1,3 +1,4 @@
+||danawa.com/*/NBP/powerLink.js.php
 /^https:\/\/cdn[0-9]+\.boribori\.co\.kr\/rimg\/(0|110x250)\/cdn\/contents\/disp_corner_conts\//
 ||m.humoruniv.com/banner/
 ||mzthinks.com/app/data/file/article/banner/
@@ -580,7 +581,6 @@
 ||knowledgepower.co.kr/uploads/cpcbanner/
 ||img.entertainpost.com/uploads/someblossom/$domain=postshare.co.kr
 ||img.postshare.co.kr/images/banner/
-||danawa.com/NBP/powerLink.js.php
 ||image.ruliweb.com/view/view.js?zoneid=
 ||vogue.co.kr/wp-content/plugins/wppas/
 ||sslimg.appstory.co.kr/@files/snc/eventbanner/
