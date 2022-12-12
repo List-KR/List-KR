@@ -500,7 +500,6 @@
 ||ojsfile.ohmynews.com/AD_FILE/
 ||ojsfile.ohmynews.com/CMPT_HTM/
 ||googlesyndication.com/pagead/
-||shoppingcall.me/ad_shoppingCallme.php
 ||api.popin.cc/lib*-lightweight/popIn-*.min.js$domain=dispatch.co.kr
 ||m.ppomppu.co.kr/banner/google_ad.html
 ||search.danawa.com/mobile/js/powerClick.min.js
@@ -578,8 +577,6 @@
 ||was.livere.me/api/ad|
 ||itcm.co.kr/files/thumbnails
 ||adshort.co/toolfp.js
-||api.popin.cc/iframe/piuid.html
-||api.popin.cc/popin_discovery
 ||knowledgepower.co.kr/uploads/cpcbanner/
 ||img.entertainpost.com/uploads/someblossom/$domain=postshare.co.kr
 ||img.postshare.co.kr/images/banner/

@@ -62,7 +62,7 @@
 ||exelbid.com^
 ||adinc.co.kr^
 ||innity.net^
-||shoppingcall.me^$third-party
+||shoppingcall.me^
 ||kodcad.kr^
 ||hancomad.com^
 ||ahnlabad.com^
@@ -88,7 +88,7 @@
 ||minishop.linkprice.com^
 ||ad.linkprice.com^
 ||tadapi.info^$third-party
-||clickmon.co.kr^$third-party
+||clickmon.co.kr^
 ||ad.tjtune.com^
 ||adplex.co.kr^
 ||thetopic.co.kr^$third-party
@@ -120,7 +120,7 @@
 ||ad.adjw.co.kr^
 ||compass.adop.cc^
 ||catad5959.com^
-||targetpush.co.kr^$third-party
+||targetpush.co.kr^
 ||ad.adinc.kr^
 ||ad.about.co.kr^
 ||marketingking.co.kr^$third-party
