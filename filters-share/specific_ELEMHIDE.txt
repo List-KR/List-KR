@@ -822,7 +822,6 @@ mmzone.co.kr###scm_premium_spon_block
 ilbe.com##ul.board-body > li[id^="sponser_ad_"]
 ilbe.com##img[src^="https://acache.ilbe.com/"]
 berryjam.co.kr##div[class*="slider-banner-"]
-berryjam.co.kr##img[src^="/data/skin/front/udweb_CCC/img/banner/"][alt="2021년 시마노 웹 한글 카다로그"]
 now.rememberapp.co.kr##.now_content_ads__wrapper
 m.ilbe.com##.banner-wrap
 clien.net###coupangAd
