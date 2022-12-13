@@ -601,14 +601,12 @@
 ||img.newspim.com/banner/
 ||img.newspim.com/ad/
 ||arca.live/static/ad/
-||img.ruliweb.net/view/
 ||kukinews.com/data/kuk/banner/
 ||mmzone.co.kr/menu/top_ad.php
 ||img*.quasarzone.com/banner/
 ||img*.quasarzone.co.kr/banner/
 ||file.okky.kr/banner/
 ||arca.live/static/assets/js/pagead.min.js
-||img.ruliweb.com/view/
 ||nstatic.dcinside.com/ad/
 ||s3-class.orbi.kr/event/
 ||livere.me/ad?
