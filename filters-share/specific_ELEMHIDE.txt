@@ -59,6 +59,8 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+sellclub.co.kr##table[valign="top"] div[id^="left_body"] > table td[align="center"] > div[style*=" "]
+sellclub.co.kr###floating_bottom
 mongri.net##.entry-content > div[id^="top"]
 mongri.net###sidebartop
 ruliweb.com##div[class^="nbp_container"]
