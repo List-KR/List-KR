@@ -5,6 +5,9 @@ iphonedev.co.kr,tistory.com#%#//scriptlet("prevent-setTimeout", "/\.displayMessa
 ! BlockAdBlock
 fafan.kr,blog.dalso.org,svrforum.com,tistory.com#%#//scriptlet("prevent-bab")
 ! FuckAdBlock
+!#if (adguard_app_windows || adguard_app_mac || adguard_ext_safari)
+x86.co.kr#$?##google_ads { remove: true; }
+!#endif
 te31.com,tistory.com#%#//scriptlet("prevent-fab-3.2.0")
 x86.co.kr,1004lucifer.blogspot.com,te31.com,tistory.com#%#//scriptlet("abort-on-property-read", "adBlockDetected")
 ||cdnjs.cloudflare.com/ajax/libs/fuckadblock/3.2.1/fuckadblock.min.js$redirect=prevent-fab-3.2.0
