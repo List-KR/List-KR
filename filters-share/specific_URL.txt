@@ -591,8 +591,6 @@
 ||image.thebell.co.kr/banner/
 ||koya-culture.com/data/banner/
 ||api.ruliweb.com/floating_ad|
-||img.side.mythiell.com/ocenAd*.html
-||side.mythiell.com/readUrl.php?url=http://adv.imadrep.co.kr/
 ||file.osen.co.kr/*/css/ad.css
 ||img.mbn.co.kr/ad/
 ||techworld.speedgabia.com/epnc.co.kr/ad/
