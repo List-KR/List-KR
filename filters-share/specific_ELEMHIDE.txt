@@ -535,8 +535,7 @@ compuzone.co.kr###contents > div[id^="bnrLink"].ma_visual_area.bnrContents ~ div
 compuzone.co.kr###eventzone_img_wrap #con_area > input[type="hidden"] + #con
 compuzone.co.kr###contents #recomN.recomend_main
 compuzone.co.kr###contents > #EP_Rbnr, #contents > #EP_linebnr
-compuzone.co.kr##.contentsWrap .product_list_wrap > div[class^="ad_"], .contentsWrap .product_list_wrap > div + ul.product_list
-compuzone.co.kr##.contentsWrap > .product_list_linebnr, .contentsWrap > .brand_area, .contentsWrap > .topBanner_area
+compuzone.co.kr##.contentsWrap > .topBanner_area
 compuzone.co.kr##.pdtl_cm_detail .md_software
 compuzone.co.kr###searchArea #side_ad
 compuzone.co.kr##form > div[id$="wing_section"][class*="wing_section"]
@@ -548,7 +547,6 @@ compuzone.co.kr###container .cpz_inner > #brandshop
 compuzone.co.kr###container #main_five_fixbnr ul.five_fixbnr_list
 compuzone.co.kr##.cpz_inner .category_set_area div[class^="second_cate_area"] div[class^="catebnr_area"]
 compuzone.co.kr##body > #container > .cpz_inner
-compuzone.co.kr###container > #contnet > .gradation_area
 compuzone.co.kr###container > div[class][style*="/GNBBottomLineBanner_"][style^="background-image:url("]
 compuzone.co.kr##.cpz_inner .sta_rolling_banner
 compuzone.co.kr##.cpz_inner .recommend_wrap > .recommend_list
