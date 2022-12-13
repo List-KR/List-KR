@@ -888,8 +888,6 @@ orbi.kr##div.panel.class-event-wrap
 orbi.kr##a[href^="https://ads.orbi.kr/"]
 osen.mt.co.kr##div#close_mask
 www.naver.com##div.column_fix_wrap > div#shopcast
-www.naver.com###contents_productAd
-www.naver.com##iframe[id^="da_iframe_"]
 !
 ! Each domain of website in this section is forbidden by Internet censorship of S. Korea.
 ! Some listed domains have been changed by their administrators regularly.

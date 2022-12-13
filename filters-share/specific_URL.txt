@@ -380,7 +380,6 @@
 ||junggi.co.kr/data/__banner/
 ||junggi.co.kr/image/banner/
 ||photo.coolenjoy.co.kr/banner/
-||s.pstatic.net/imgshopping/static/sb/shoppingbox/
 ||json*.dcinside.com/json*/comment_boy_v*.php
 ||menu.mt.co.kr/js/AdsDispatcher.js
 ||dcinside.com/_js/ad_context_powLink.js
