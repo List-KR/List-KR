@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+soccerline.kr##div[data-ads-url]
 lotteon.com##.productDetailInfo ~ div[style*=" "].emptyComponent
 lotteon.com##.rankListType > li[class][data-object*="&ad="]:not([data-object*="&ad=n&"])
 sellclub.co.kr##table[valign="top"] div[id^="left_body"] > table td[align="center"] > div[style*=" "]
@@ -596,7 +597,7 @@ ombudsmannews.com,kpja.kr,hungryapp.co.kr,usjournal.kr,socialvalue.kr,happycampu
 happycampus.com##div[id^="power_link_"]
 sportalkorea.com###Contents > #sideBox > div[style]
 sportalkorea.com##p[class^="ad_"]
-sportalkorea.com##div[class][data-ad][style]
+soccerline.kr,sportalkorea.com##div[class][data-ad][style]
 sportalkorea.com##div[id^="topAd"]
 ppomppu.co.kr##body .contents .container .topSub-nav
 prod.danawa.com###powerClickProductListArea
