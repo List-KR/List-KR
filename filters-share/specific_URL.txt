@@ -1,3 +1,5 @@
+||pbf.lotteon.com/product/*/detail/advertisement/
+||pbf.lotteon.com/display/*/dpShop/seltDpCorn
 ||sellclub.co.kr/community/data/ad-pay/
 ||danawa.com/*/NBP/powerLink.js.php
 /^https:\/\/cdn[0-9]+\.boribori\.co\.kr\/rimg\/(0|110x250)\/cdn\/contents\/disp_corner_conts\//
