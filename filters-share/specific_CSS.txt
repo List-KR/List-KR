@@ -1,3 +1,4 @@
+lotteon.com#$#.productDetailWrap > .contentsWrap { padding-bottom: 0px !important; }
 evape.kr#$##hotPlace.myBox { margin-left: calc(50% - 65px) !important; }
 fomos.kr#$#.board_view .related_area { height: 300px !important; }
 focus.daum.net#$#div[data-tiara-layer]:not([id]) { margin-top: 0px !important; position: relative !important; }
