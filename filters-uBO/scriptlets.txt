@@ -1,6 +1,7 @@
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
+tgd.kr##+js(ra, style, html[style^='background-image:'][style*='upload.tgd.kr'])
 sbs.co.kr##+js(set, player.renderAdSequence, undefined)
 m.humoruniv.com##+js(nostif, /height.+replace.+px[^]+min-height/)
 domin.co.kr##+js(set, bannerpop.popup, noopFunc)
