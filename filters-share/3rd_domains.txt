@@ -100,7 +100,7 @@
 ||ad.smartmediarep.com^
 ||mobon.net^
 ||ad*.wisenut.co.kr^
-||acrosspf.com^
+||acrosspf.com^$third-party
 ||ad.esmplus.com^
 ||adcheck.about.co.kr^
 ||ads.mncmedia.co.kr^
