@@ -1,3 +1,4 @@
+||newsprime.co.kr//data/banner/
 ||pbf.lotteon.com/product/*/detail/advertisement/
 ||pbf.lotteon.com/display/*/dpShop/seltDpCorn
 ||sellclub.co.kr/community/data/ad-pay/
