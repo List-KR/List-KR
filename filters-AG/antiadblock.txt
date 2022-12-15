@@ -55,6 +55,7 @@ meeco.kr#?#.adsbygoogle:remove()
 @@||namu.wiki/$subdocument,script,domain=namu.wiki
 !#endif
 !
+jimnong.tistory.com##.adblock-on
 ||ssulwar.com/dev/modules/board/skins/*/js/adblockblock.js$redirect=noopjs
 ssulwar.com#%#//scriptlet("abort-current-inline-script", "document.getElementById", "adblock")
 !#if (adguard_app_ios || adguard_ext_safari)
@@ -67,7 +68,7 @@ detegice.github.io#%#//scriptlet("abort-on-property-read", "$.prototype.fadeIn")
 ilsangt.tistory.com##.adblock-on
 ilsangt.tistory.com#%#//scriptlet("abort-current-inline-script", "$", ".adsense-area")
 tistory.com#%#//scriptlet("abort-current-inline-script", "$", "div.adsbygoogle")
-uda1004.tistory.com,webtv.dothome.co.kr,te31.com,koreapas.com,maniac-game.tistory.com,web1907.tistory.com#@#.adsbygoogle
+jimnong.tistory.com,uda1004.tistory.com,webtv.dothome.co.kr,te31.com,koreapas.com,maniac-game.tistory.com,web1907.tistory.com#@#.adsbygoogle
 genshin.gamedot.org#%#//scriptlet("prevent-setTimeout", "timerAdChecker")
 genshin.gamedot.org##[style*="background-image:"][style*="module/genshinmaps/asset/image/"]:not([id]):not([class])
 ||genshin.gamedot.org/module/genshinmaps/asset/image/adblock-line

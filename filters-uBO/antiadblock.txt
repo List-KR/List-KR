@@ -33,6 +33,7 @@ meeco.kr#?#.adsbygoogle:remove()
 @@||namu.news/$frame,script,domain=namu.wiki|~board.namu.wiki
 @@||namu.wiki/$frame,script,domain=namu.wiki|~board.namu.wiki
 !
+jimnong.tistory.com##.adblock-on
 ||ssulwar.com/dev/modules/board/skins/*/js/adblockblock.js
 ssulwar.com##+js(acis, document.getElementById, adblock)
 ||ad.smartmediarep.com/NetInsight/video/$redirect=noop.txt,domain=mbn.co.kr
@@ -40,7 +41,7 @@ detegice.github.io##+js(aopr, $.prototype.fadeIn)
 ilsangt.tistory.com##.adblock-on
 ilsangt.tistory.com##+js(acis, $, .adsense-area)
 tistory.com##+js(acis, $, div.adsbygoogle)
-uda1004.tistory.com,te31.com,webtv.dothome.co.kr,koreapas.com,maniac-game.tistory.com,web1907.tistory.com#@#.adsbygoogle
+jimnong.tistory.com,uda1004.tistory.com,te31.com,webtv.dothome.co.kr,koreapas.com,maniac-game.tistory.com,web1907.tistory.com#@#.adsbygoogle
 genshin.gamedot.org##+js(nostif, timerAdChecker)
 genshin.gamedot.org##[style*="background-image:"][style*="module/genshinmaps/asset/image/"]:not([id]):not([class])
 ||genshin.gamedot.org/module/genshinmaps/asset/image/adblock-line
