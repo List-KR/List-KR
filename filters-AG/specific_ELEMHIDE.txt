@@ -2,6 +2,8 @@
 funbe185.com,funbe186.com,funbe187.com,funbe188.com,funbe189.com,funbe190.com,funbe191.com,funbe192.com,funbe193.com,funbe194.com,funbe195.com,funbe196.com,funbe197.com,funbe198.com,funbe199.com,funbe200.com,funbe201.com,funbe202.com,funbe203.com##img[src^="/images/"]
 !#endif
 !
+[$path=/(&|\\.|\\?)clubid=12789486(&|$)/]~m.cafe.naver.com,cafe.naver.com##img[src][alt="매니저 등록 배너"]
+[$path=/(&|\\.|\\?)clubid=12789486(&|$)/]~m.cafe.naver.com,cafe.naver.com###editorMainContent table:not([width$="%"]) > tbody > tr > td[width][valign]
 [$path=/ca-fe\\/web\\/cafes\\/(ghdi58|14062859)(\\/|\\?)/]m.cafe.naver.com##.banner_add.bottom
 [$path=/(&|\\.|\\?)clubid=14062859(&|$)/]~m.cafe.naver.com,cafe.naver.com###editorMainContent > div:nth-child(1)
 [$path=/(&|\\.|\\?)clubid=14062859(&|$)/]~m.cafe.naver.com,cafe.naver.com##.ArticleFormBanner

@@ -1,3 +1,5 @@
+~m.cafe.naver.com,cafe.naver.com##img[src][alt="매니저 등록 배너"]:matches-path(/(&|\\.|\\?)clubid=12789486(&|$)/)
+~m.cafe.naver.com,cafe.naver.com###editorMainContent table:not([width$="%"]) > tbody > tr > td[width][valign]:matches-path(/(&|\\.|\\?)clubid=12789486(&|$)/)
 m.cafe.naver.com##.banner_add.bottom:matches-path(/ca-fe\\/web\\/cafes\\/(ghdi58|14062859)(\\/|\\?)/)
 ~m.cafe.naver.com,cafe.naver.com###editorMainContent > div:nth-child(1):matches-path(/(&|\\.|\\?)clubid=14062859(&|$)/)
 ~m.cafe.naver.com,cafe.naver.com##.ArticleFormBanner:matches-path(/(&|\\.|\\?)clubid=14062859(&|$)/)
