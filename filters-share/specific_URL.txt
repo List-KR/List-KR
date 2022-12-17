@@ -1,3 +1,4 @@
+||colormytree.me/ad/
 ||bobaedream.co.kr/adsmov/
 /^https:\/\/haninpost\.com\/wp-content\/uploads\/[0-9]{4}\/[0-9]{2}\/.*(webbanner-|%EA%B4%91%EA%B3%A0|.{1}banner.{1}[0-9]+x[0-9]+)/
 /^https:\/\/haninpost\.com\/wp-content\/uploads\/[0-9]{4}\/[0-9]{2}\/[A-Z0-9_]+\./$match-case
