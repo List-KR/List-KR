@@ -894,6 +894,7 @@ www.naver.com##div.column_fix_wrap > div#shopcast
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 !
+krav221.xyz,krav222.xyz,krav223.xyz,krav224.xyz,krav225.xyz,krav226.xyz,krav227.xyz,krav228.xyz,krav229.xyz,krav230.xyz,krav231.xyz,krav232.xyz,krav233.xyz,krav234.xyz,krav235.xyz,krav236.xyz,krav237.xyz,krav238.xyz,krav239.xyz,krav240.xyz,krav241.xyz,krav242.xyz##div[class^="banner_"]
 booktoki167.com,booktoki168.com,booktoki169.com,booktoki170.com,booktoki171.com,booktoki172.com,booktoki173.com,booktoki174.com,booktoki175.com,booktoki176.com,booktoki177.com,booktoki178.com,booktoki179.com,booktoki180.com,booktoki181.com,booktoki182.com,booktoki183.com##div[id*="-banner-"] > div[class*=" "] > div[class*=" "][style*=" "]
 !#if adguard_app_ios
 newtoki166.com,newtoki167.com,newtoki168.com,newtoki169.com,newtoki170.com,newtoki171.com,newtoki172.com,newtoki173.com,newtoki174.com,newtoki175.com,newtoki176.com,newtoki177.com,newtoki178.com,newtoki179.com,newtoki180.com,newtoki181.com,newtoki182.com##.board-tail-banner
