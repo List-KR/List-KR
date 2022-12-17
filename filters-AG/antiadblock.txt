@@ -33,7 +33,6 @@ luckyquiz3.blogspot.com#%#//scriptlet("abort-current-inline-script", "document.c
 ! meeco.kr
 !#if (adguard_app_ios)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=meeco.kr
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=meeco.kr,redirect=googlesyndication-adsbygoogle,important
 meeco.kr#@#ins.adsbygoogle
 meeco.kr#@#.adsbygoogle
 !#endif
@@ -41,6 +40,7 @@ meeco.kr#@#.adsbygoogle
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=meeco.kr
 !#endif
 meeco.kr#$#.xe_content { opacity: 1 !important; }
+meeco.kr#%#//scriptlet("prevent-fetch", "pagead2.googlesyndication.com/pagead/js/adsbygoogle.js")
 meeco.kr#%#//scriptlet("abort-current-inline-script", "$", ".adsbygoogle")
 meeco.kr#?#.adsbygoogle:remove()
 ! namu.wiki
