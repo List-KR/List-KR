@@ -1,3 +1,4 @@
+wassada.com#?##header ~ div[class^="content_st_"]:has(iframe[src$="_big_banner.php"])
 m.humoruniv.com#?#ul > [id]:has(span ~ div img[src$="_ad.gif"])
 ibric.org#?#table[bgcolor][align] table[cellspacing][align] tr:has(table table strong > a[href*="?Board=enterprise"])
 ibric.org#?#table[align] table[border] table[align]:has(td[align] img[alt="검색광고"])
