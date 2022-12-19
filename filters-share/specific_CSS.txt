@@ -1,3 +1,5 @@
+kidkids.net#$#div[class^="main"]#middle_area .academy.fleft:not(.iyua) { margin-left: calc(11.5%) !important; }
+kidkids.net#$##id_my_menu_area ~ #main_sky_banner_area { margin-left: 685px !important; }
 m.ruliweb.com#$#.go_top.go_button { width: 100% !important; }
 m.ruliweb.com#$#.fixed_ad_wrapper .icon-remove-sign { display: none !important; }
 lotteon.com#$#.productDetailWrap > .contentsWrap { padding-bottom: 0px !important; }

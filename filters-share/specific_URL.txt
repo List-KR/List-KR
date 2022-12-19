@@ -1,3 +1,6 @@
+||kidkids.net/ddoran/img/*_free_banner.
+/^https?:\/\/img\.kidkids\.net\/banner\/upimage\/[A-Z]+(_|-)[A-Z0-9]+(_|-)(?!LOGO)/$match-case
+||img.kidkids.net/search/banner/
 ||img.ruliweb.com/js/criteo.publishertag.js
 ||wassada.com/banner_view.php
 ||wassada.com/*_banner.php

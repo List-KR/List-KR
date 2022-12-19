@@ -59,6 +59,11 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+kidkids.net##td[width]:not([valign]) ~ td[align="left"] ul.banner
+kidkids.net##div[class*=" "] > div[class*=" "][class*="_"] ~ div[class$="fright"]
+kidkids.net##div[class*="mall_"][style*=" "][class*="_slider_"]
+kidkids.net##div[class$="_adban"]
+kidkids.net###serContents div[align="left"]
 m.ruliweb.com##div[class^="ad_"][class*=" "]
 bbs.ruliweb.com##div[class*="ad_"][style]
 wassada.com###sub_content table[style$="%; "] td[valign]:not([style*=" "]) ~ td[style*=" "]
@@ -815,7 +820,7 @@ search.daum.net##.adLinkColl
 pcmap.place.naver.com###_pcmap_list_scroll_container > ul > li[data-laim-exp-id="undefined*e"]
 map.kakao.com##ul[id="info.search.place.list"] > li.AdItem
 dcnewsj.joins.com##div[class^="ab_ad"]
-elle.co.kr,dprime.kr,pushoong.com,epnc.co.kr,all-mice.co.kr,dvdprime.com,hwbattle.com,mbn.co.kr##div[id$="_banner"]
+kidkids.net,elle.co.kr,dprime.kr,pushoong.com,epnc.co.kr,all-mice.co.kr,dvdprime.com,hwbattle.com,mbn.co.kr##div[id$="_banner"]
 prod.danawa.com##div[class$="_ad_prodlist"]
 epnc.co.kr##div[id^="floating_banner_"]
 epnc.co.kr##div[onmousedown*="'event_label': 'AD'"]
