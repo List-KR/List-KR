@@ -1,3 +1,4 @@
+||play-store.co.kr/ads/
 ||kidkids.net/ddoran/img/*_free_banner.
 /^https?:\/\/img\.kidkids\.net\/banner\/upimage\/[A-Z]+(_|-)[A-Z0-9]+(_|-)(?!LOGO)/$match-case
 ||img.kidkids.net/search/banner/
@@ -633,6 +634,7 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+/^https:\/\/v[0-9]+\.sonagitv\.tv\/sonagi_me\/sites\/[0-9]\/[0-9]{4}\/[0-9]{2}\/((?!sonagitvlogonew)[0-9A-z]+)\./
 /^https:\/\/krav[0-9]+\.xyz\/img\/banner\//
 /^https:\/\/[a-z0-9\.]*torrentdia[0-9]+\.com\/data\/to_list\//
 /^https:\/\/torrentsee[0-9]+\.com\/uploadfile\/up[a-z0-9]+\.gif$/

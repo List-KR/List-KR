@@ -138,6 +138,7 @@ berryjam.co.kr#?#table[width="1200"]:has(> tbody > tr > td > div[class*="slider-
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 !
+sonagitv.tv#?#.navbar-nav > li:has(a[href*="/affiliatedcompany/"])
 booktoki167.com,booktoki168.com,booktoki169.com,booktoki170.com,booktoki171.com,booktoki172.com,booktoki173.com,booktoki174.com,booktoki175.com,booktoki176.com,booktoki177.com,booktoki178.com,booktoki179.com,booktoki180.com,booktoki181.com,booktoki182.com,booktoki183.com#?#ul[class] > li:has(> a[href*="tokkiweb.com"])
 manatoki167.com,manatoki168.com,manatoki169.com,manatoki170.com,manatoki171.com,manatoki172.com,manatoki173.com,manatoki174.com,manatoki175.com,manatoki176.com,manatoki177.com,manatoki178.com,manatoki179.com,manatoki180.com,manatoki181.com,manatoki182.com,manatoki183.com#?#ul[class] > li:has(> a[href^="/guarantee.php"])
 newtoki167.com,newtoki168.com,newtoki169.com,newtoki170.com,newtoki171.com,newtoki172.com,newtoki173.com,newtoki174.com,newtoki175.com,newtoki176.com,newtoki177.com,newtoki178.com,newtoki179.com,newtoki180.com,newtoki181.com,newtoki182.com,newtoki183.com#?#ul[class] > li:has(> a[href^="/guarantee.php"])
