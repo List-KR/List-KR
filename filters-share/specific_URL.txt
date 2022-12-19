@@ -1,3 +1,4 @@
+||img.ruliweb.com/js/criteo.publishertag.js
 ||wassada.com/banner_view.php
 ||wassada.com/*_banner.php
 ||colormytree.me/ad/
