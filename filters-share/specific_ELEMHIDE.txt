@@ -87,7 +87,6 @@ enjoytaiwan.co.kr##.widget-box > div[style*="min-height:"]
 m.humoruniv.com##div[id*="_"][style*=" "] ~ div[id][class]:not([id*="_"])
 osmanias.com##.taboola
 m.humoruniv.com##div[id][style] ~ div[id*="_twice_"] ~ #ul
-m.humoruniv.com##div[id*="ggeal"]
 instiz.net##table#mboard.mboard tr:not([id])
 instiz.net###menufoot > .hot_under
 instiz.net##div[id^="sidead"]
