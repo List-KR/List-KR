@@ -1,3 +1,4 @@
+||xetown.com/files/cache/assets/minified/modules.ads.views.display.min.js
 ||play-store.co.kr/ads/
 ||kidkids.net/ddoran/img/*_free_banner.
 /^https?:\/\/img\.kidkids\.net\/banner\/upimage\/[A-Z]+(_|-)[A-Z0-9]+(_|-)(?!LOGO)/$match-case
