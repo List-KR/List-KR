@@ -1,3 +1,4 @@
+eomisae.co.kr#?#main#main .eq.section #bd table tr:has(.no ~ .title span:has-text([AD]))
 dt.co.kr#?#.right_aside > *:not([class*="_"]):not([class^="aside"]):has(~ .right_bx)
 dt.co.kr#?#.right_aside > *:not([class*="_"]):not([class^="aside"]):has(~ div[class^="aside"])
 www.chosun.com#?#aside > .box--pad-none.box--hidden-md-only:has-text(Branded Contents)
