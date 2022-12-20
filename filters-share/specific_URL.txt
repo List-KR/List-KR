@@ -20,7 +20,6 @@
 ||mzthinks.com/app/data/file/article/banner/
 /^https:\/\/evape\.kr\/data\/editor\/[0-9]+\/[a-z0-9]+_[a-z0-9]+_[a-z0-9]+\./
 /^https:\/\/evape\.kr\/data\/file[0-9]+\/client\//
-||xetown.com/|$xmlhttprequest
 ||daumcdn.net/tistory/2120872/skin/images/adsense_
 ||bikesell.co.kr/site/images/ban/
 ||yakup.com/data/banner/
