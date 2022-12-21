@@ -634,6 +634,7 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+/^https:\/\/linkeye[0-9]+\.com\/data\/file\/banner\//
 ||static.springbuilder.site/fs/userFiles-v2/$domain=img.imimggggg87878.com
 ||i.imgur.com^$domain=img.imimggggg87878.com
 ||static.springbuilder.site/fs/userFiles-v2/$domain=tkr175.com|tkr176.com|tkr177.com|tkr178.com|tkr179.com|tkr180.com|tkr181.com|tkr182.com|tkr183.com|tkr184.com|tkr185.com|tkr186.com
