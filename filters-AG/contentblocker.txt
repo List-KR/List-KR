@@ -26,6 +26,7 @@ te31.com#@#.textAd
 te31.com#@#.text_ad
 te31.com#@#.text_ads
 !
+@@||klauncher.kr/theme/NB-Basic/storage/image/logo-logo.png#ad&adv_keywords=
 @@||klauncher.kr^$generichide
 @@||jimnong.tistory.com^$generichide
 @@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.min.js$domain=x86.co.kr
