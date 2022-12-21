@@ -634,6 +634,7 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+/^https:\/\/torrentten[0-9]+\.com\/thema\/Basic\/assets\/img\/.+\.gif$/
 /^https:\/\/linkrand[0-9]+\.com\/thema\/Miso-Basic[0-9]\/assets\/img\/banne/
 /^https:\/\/linkrand[0-9]+\.com\/data\/file\/(left|right)_sero\//
 /^https:\/\/linkrand[0-9]+\.com\/data\/apms\/background\//
