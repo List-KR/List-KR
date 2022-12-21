@@ -634,6 +634,7 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+/^https:\/\/[a-z]+\.allall[0-9]+\.com\/data\/files\/banner\//
 /^https:\/\/wtbox[0-9]+\.xyz\/data\/apms\/background\/.+\.gif$/
 /^https:\/\/tvbox[0-9]+\.xyz\/data\/apms\/background\/.+\.gif$/
 /^https:\/\/ydbox[0-9]+\.com\/data\/apms\/background\/.+\.gif$/
