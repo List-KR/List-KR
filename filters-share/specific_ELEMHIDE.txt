@@ -901,6 +901,8 @@ www.naver.com##div.column_fix_wrap > div#shopcast
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 !
+linkrand4.com,linkrand5.com,linkrand6.com,linkrand7.com,linkrand8.com,linkrand9.com,linkrand10.com,linkrand11.com,linkrand12.com,linkrand13.com,linkrand14.com,linkrand15.com,linkrand16.com,linkrand17.com,linkrand18.com##.is-hover a[href^="http"][target="_blank"]
+linkrand4.com,linkrand5.com,linkrand6.com,linkrand7.com,linkrand8.com,linkrand9.com,linkrand10.com,linkrand11.com,linkrand12.com,linkrand13.com,linkrand14.com,linkrand15.com,linkrand16.com,linkrand17.com,linkrand18.com##div[id][class*=" "][data-interval] div[style*="/data/apms/background"]
 allall57.com,allall58.com,allall59.com,allall60.com,allall61.com,allall62.com,allall63.com,allall64.com,allall65.com,allall66.com,allall67.com,allall68.com,allall69.com,allall70.com,allall71.com,allall72.com##div[class^="ad_"]
 wtbox30.xyz,wtbox31.xyz,wtbox32.xyz,wtbox33.xyz,wtbox34.xyz,wtbox35.xyz,wtbox36.xyz,wtbox37.xyz,wtbox38.xyz,wtbox39.xyz,wtbox40.xyz,wtbox41.xyz,wtbox42.xyz,wtbox43.xyz,wtbox44.xyz,wtbox45.xyz,wtbox46.xyz##div[class*="-banner"] div[class*=" "][style=" "]
 tvbox27.xyz,tvbox28.xyz,tvbox29.xyz,tvbox30.xyz,tvbox31.xyz,tvbox32.xyz,tvbox33.xyz,tvbox34.xyz,tvbox35.xyz,tvbox36.xyz,tvbox37.xyz,tvbox38.xyz,tvbox39.xyz,tvbox40.xyz,tvbox41.xyz,tvbox42.xyz,tvbox43.xyz##div[class*="-banner"] div[class*=" "][style=" "]
