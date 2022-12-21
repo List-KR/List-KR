@@ -901,6 +901,7 @@ www.naver.com##div.column_fix_wrap > div#shopcast
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 !
+tvbox27.xyz,tvbox28.xyz,tvbox29.xyz,tvbox30.xyz,tvbox31.xyz,tvbox32.xyz,tvbox33.xyz,tvbox34.xyz,tvbox35.xyz,tvbox36.xyz,tvbox37.xyz,tvbox38.xyz,tvbox39.xyz,tvbox40.xyz,tvbox41.xyz,tvbox42.xyz,tvbox43.xyz##div[class*="-banner"] div[class*=" "][style=" "]
 ydbox13.com,ydbox13.com,ydbox13.com,ydbox13.com,ydbox13.com,ydbox13.com,ydbox13.com,ydbox13.com,ydbox13.com,ydbox13.com,ydbox13.com,ydbox13.com,ydbox13.com,ydbox13.com,ydbox13.com,ydbox13.com,ydbox13.com##div[class*="-banner"] div[class*=" "][style=" "]
 linkeye4.com,linkeye5.com,linkeye6.com,linkeye7.com,linkeye8.com,linkeye9.com,linkeye10.com,linkeye11.com,linkeye12.com,linkeye13.com,linkeye14.com,linkeye15.com,linkeye16.com,linkeye17.com,linkeye18.com##div[class*="banner-"]
 img.imimggggg87878.com##div[class$="-banner"]
