@@ -634,6 +634,8 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+||static.springbuilder.site/fs/userFiles-v2/$domain=img.imimggggg87878.com
+||i.imgur.com^$domain=img.imimggggg87878.com
 ||static.springbuilder.site/fs/userFiles-v2/$domain=tkr175.com|tkr176.com|tkr177.com|tkr178.com|tkr179.com|tkr180.com|tkr181.com|tkr182.com|tkr183.com|tkr184.com|tkr185.com|tkr186.com
 ||i.imgur.com^$domain=tkr175.com|tkr176.com|tkr177.com|tkr178.com|tkr179.com|tkr180.com|tkr181.com|tkr182.com|tkr183.com|tkr184.com|tkr185.com|tkr186.com
 /^https:\/\/v[0-9]+\.sonagitv\.tv\/sonagi_me\/sites\/[0-9]\/[0-9]{4}\/[0-9]{2}\/((?!sonagitvlogonew)[0-9A-z]+)\./

@@ -58,6 +58,7 @@ m.cafe.naver.com#?#.location_bar:has(.active:has-text(전체공지)) ~ .location
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 !
+img.imimggggg87878.com#?#a[target="_blank"][href^="http://"].menu-a:has-text(보증토토)
 tkr175.com,tkr176.com,tkr177.com,tkr178.com,tkr179.com,tkr180.com,tkr181.com,tkr182.com,tkr183.com,tkr184.com,tkr185.com,tkr186.com#?#a[target="_blank"][href^="http://"].menu-a:has-text(보증토토)
 torrentsee140.com,torrentsee141.com,torrentsee142.com,torrentsee143.com,torrentsee144.com,torrentsee145.com,torrentsee146.com,torrentsee147.com,torrentsee148.com,torrentsee149.com,torrentsee150.com,torrentsee151.com,torrentsee152.com,torrentsee153.com,torrentsee154.com,torrentsee155.com,torrentsee156.com,torrentsee157.com#?#.nplr div[class=""] li:has(li:has-text(AD))
 todawa91.top,todawa92.top,todawa93.top,todawa94.top,todawa95.top,todawa96.top,todawa97.top,todawa98.top,todawa99.top,todawa100.top,todawa101.top#?#.sub-cont table tr:has(> td:has-text(광고))
