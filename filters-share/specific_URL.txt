@@ -634,6 +634,7 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+||filesbest.xyz^$domain=torrenttip50.com|torrenttip51.com|torrenttip52.com|torrenttip53.com|torrenttip54.com|torrenttip55.com|torrenttip56.com|torrenttip57.com|torrenttip58.com|torrenttip59.com|torrenttip60.com|torrenttip61.com|torrenttip62.com
 ||imgur.com^$domain=torrentcar24.com|torrentcar25.com|torrentcar26.com|torrentcar27.com|torrentcar28.com|torrentcar29.com|torrentcar30.com|torrentcar31.com|torrentcar32.com|torrentcar33.com|torrentcar34.com|torrentcar35.com|torrentcar36.com
 /^https:\/\/torrent-who[0-9]+\.me\/data\/apms\/background\//
 ||i.imgur.com^$domain=etorrent11.com|etorrent12.com|etorrent13.com|etorrent14.com|etorrent15.com|etorrent16.com|etorrent17.com|etorrent18.com|etorrent19.com|etorrent20.com|etorrent21.com|etorrent22.com|etorrent23.com|etorrent24.com
