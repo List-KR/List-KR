@@ -634,6 +634,7 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+||media.tumblr.com^$image,domain=mingk7.com|mingk8.com|mingk9.com|mingk10.com|mingk11.com|mingk12.com|mingk13.com|mingk14.com|mingk15.com|mingk16.com|mingk17.com|mingk18.com|mingk19.com|mingk20.com|mingk21.com|mingk22.com|mingk23.com
 /^https:\/\/imgcloud[0-9]+\.net\//$domain=wftoon56.com|wftoon57.com|wftoon58.com|wftoon59.com|wftoon60.com|wftoon61.com|wftoon62.com|wftoon63.com|wftoon64.com|wftoon65.com|wftoon66.com|wftoon67.com|wftoon68.com|wftoon69.com|wftoon70.com
 /^https:\/\/torrentten[0-9]+\.com\/thema\/Basic\/assets\/img\/.+\.gif$/
 /^https:\/\/linkrand[0-9]+\.com\/thema\/Miso-Basic[0-9]\/assets\/img\/banne/
