@@ -634,6 +634,7 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+/^https:\/\/imgcloud[0-9]+\.net\//$domain=wftoon56.com|wftoon57.com|wftoon58.com|wftoon59.com|wftoon60.com|wftoon61.com|wftoon62.com|wftoon63.com|wftoon64.com|wftoon65.com|wftoon66.com|wftoon67.com|wftoon68.com|wftoon69.com|wftoon70.com
 /^https:\/\/torrentten[0-9]+\.com\/thema\/Basic\/assets\/img\/.+\.gif$/
 /^https:\/\/linkrand[0-9]+\.com\/thema\/Miso-Basic[0-9]\/assets\/img\/banne/
 /^https:\/\/linkrand[0-9]+\.com\/data\/file\/(left|right)_sero\//
