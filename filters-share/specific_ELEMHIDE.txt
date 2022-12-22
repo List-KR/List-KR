@@ -901,6 +901,7 @@ www.naver.com##div.column_fix_wrap > div#shopcast
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 !
+torrent-who26.me,torrent-who27.me,torrent-who28.me,torrent-who29.me,torret-who30.me,torrent-who31.me,torrent-who32.me,torrent-who33.me,torrent-who34.me,torrent-who35.me,torrent-who36.me,torrent-who37.me,torrent-who38.me,torrent-who39.me,torrent-who40.me,torrent-who41.me##div[class*=" "]:not([id*=" "]) > .bg-black
 etorrent11.com,etorrent12.com,etorrent13.com,etorrent14.com,etorrent15.com,etorrent16.com,etorrent17.com,etorrent18.com,etorrent19.com,etorrent20.com,etorrent21.com,etorrent22.com,etorrent23.com,etorrent24.com##div[id^="banner"]
 1004girl.com##.banner
 mingk7.com,mingk8.com,mingk9.com,mingk10.com,mingk11.com,mingk12.com,mingk13.com,mingk14.com,mingk15.com,mingk16.com,mingk17.com,mingk18.com,mingk19.com,mingk20.com,mingk21.com,mingk22.com,mingk23.com##.main-box ~ div[style*=" "] > div:not([style*=" "])
