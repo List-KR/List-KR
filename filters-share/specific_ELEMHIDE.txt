@@ -901,6 +901,7 @@ www.naver.com##div.column_fix_wrap > div#shopcast
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 !
+1004girl.com##.banner
 mingk7.com,mingk8.com,mingk9.com,mingk10.com,mingk11.com,mingk12.com,mingk13.com,mingk14.com,mingk15.com,mingk16.com,mingk17.com,mingk18.com,mingk19.com,mingk20.com,mingk21.com,mingk22.com,mingk23.com##.main-box ~ div[style*=" "] > div:not([style*=" "])
 mingk7.com,mingk8.com,mingk9.com,mingk10.com,mingk11.com,mingk12.com,mingk13.com,mingk14.com,mingk15.com,mingk16.com,mingk17.com,mingk18.com,mingk19.com,mingk20.com,mingk21.com,mingk22.com,mingk23.com##.view-wrap > div[class*=" "] + div[style*=" "]
 linkrand4.com,linkrand5.com,linkrand6.com,linkrand7.com,linkrand8.com,linkrand9.com,linkrand10.com,linkrand11.com,linkrand12.com,linkrand13.com,linkrand14.com,linkrand15.com,linkrand16.com,linkrand17.com,linkrand18.com##.is-hover a[href^="http"][target="_blank"]
