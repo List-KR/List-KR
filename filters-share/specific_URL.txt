@@ -1,3 +1,5 @@
+||media.a-ha.io/aha-qna/assets/common/$image
+||media.a-ha.io/aha-qna/dd/$image
 ||m.humoruniv.com/images/*.php$xmlhttprequest
 ||xetown.com/files/cache/assets/minified/modules.ads.views.display.min.js
 ||play-store.co.kr/ads/
