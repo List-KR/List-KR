@@ -1,3 +1,4 @@
+yongtj.com#?##sidebar-wrapper div[id^="HTML"]:has(ins.adsbygoogle)
 svrforum.com#?#.app-board-section tr:has(ins.adsbygoogle)
 m.humoruniv.com#?#[id^="li"] > [id]:has(span ~ div img[src$="_ad.gif"])
 wassada.com#?##header ~ div[class^="content_st_"]:has(iframe[src$="_big_banner.php"])
