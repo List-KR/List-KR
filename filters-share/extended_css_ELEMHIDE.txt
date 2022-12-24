@@ -1,3 +1,4 @@
+ddengle.com#?#table.bd_lst tr.notice:has(span.ad)
 yongtj.com#?##sidebar-wrapper div[id^="HTML"]:has(ins.adsbygoogle)
 svrforum.com#?#.app-board-section tr:has(ins.adsbygoogle)
 m.humoruniv.com#?#[id^="li"] > [id]:has(span ~ div img[src$="_ad.gif"])
