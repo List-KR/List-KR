@@ -16,7 +16,7 @@
 /^https:\/\/haninpost\.com\/wp-content\/uploads\/[0-9]{4}\/[0-9]{2}\/.*(webbanner-|%EA%B4%91%EA%B3%A0|.{1}banner.{1}[0-9]+x[0-9]+)/
 /^https:\/\/haninpost\.com\/wp-content\/uploads\/[0-9]{4}\/[0-9]{2}\/[A-Z0-9_]+\./$match-case
 ||image.jtbcplus.kr/data/UPLOAD/ad_img_banner/
-||newsprime.co.kr/data/banner/
+||newsprime.co.kr//data/banner/
 ||pbf.lotteon.com/product/*/detail/advertisement/
 ||pbf.lotteon.com/display/*/dpShop/seltDpCorn
 ||sellclub.co.kr/community/data/ad-pay/
