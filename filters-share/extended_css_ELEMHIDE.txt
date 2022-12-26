@@ -1,3 +1,4 @@
+m.compuzone.co.kr#?#div[class^="contents"] > div[class^="main_area"]:has(a[href*="ADRollingBanner"])
 ddengle.com#?#ol.bd_lst li[class]:has(span[class^="ad_"])
 ddengle.com#?#table.bd_lst tr.notice:has(span.ad)
 yongtj.com#?##sidebar-wrapper div[id^="HTML"]:has(ins.adsbygoogle)
@@ -42,7 +43,6 @@ programmers.co.kr#?#div[class*="Banner"] div[data-swiper-slide-index].swiper-sli
 kyobobook.co.kr##.banner_control_inner li[data-target="#75"].banner_group_item:remove()
 kyobobook.co.kr#?#.welcome_banner_inner li.swiper-slide:has(img[src*="image.kyobobook.co.kr/newimages/adcenter/"]):remove()
 defensetimes.kr#?#table[id^="index_"] tr:has(ins.adsbygoogle)
-m.compuzone.co.kr#?#div[class^="contents"] > div[class^="main_area"]:has(img[src*="ADRollingBanner_"])
 pinpointnews.co.kr#?##article-view div[style].float-center div[class^="m-view-"]:not(:has(> article))
 search.daum.net#?#div[class] > div[disp-attr] ~ div[disp-attr]:has(a[href*="//brandsearch.ad.daum.net/"][onclick^="smartLog"]) + .line
 search.daum.net#?#div[class] > div[disp-attr] ~ div[disp-attr]:has(a[href*="//brandsearch.ad.daum.net/"][onclick^="smartLog"])
