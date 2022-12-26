@@ -864,6 +864,7 @@ coupang.com###sdp-mid-banner-btf
 newspim.com##aside.side_wrap > div[style^="height:"]
 newspim.com##.topbanner
 dcinside.com###ad-layer
+dcinside.com###gaejukimg
 namu.wiki##iframe[src*="//arca.live/static/ad/"]
 mmzone.co.kr###main_premium_spon_block
 dt.co.kr,m.etoday.co.kr,mnews.sbs.co.kr,mbn.co.kr,cgv.co.kr,mmzone.co.kr##div[id$="_ad"]
