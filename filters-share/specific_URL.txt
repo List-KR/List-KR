@@ -1,8 +1,8 @@
+/^https:\/\/nstatic\.dcinside\.com\/dc\/event\/nft_gaejugi\/(?!nftcon)/
 ||js.newsmobile.co.kr/inbnet_listing_banner.html
 ||img.wowtv.co.kr/MainManage/
 ||vop.co.kr/templates/adv/
 ||vop.co.kr/templates/admanager/
-||nstatic.dcinside.com/dc/event/nft_gaejugi/
 ||images.ddengle.com/files/attach/images/11138262/
 ||gameangel.com/System/html/iframe/common_banner.php
 ||media.a-ha.io/aha-qna/assets/common/$image
