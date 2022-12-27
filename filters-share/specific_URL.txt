@@ -1,3 +1,4 @@
+||js.newsmobile.co.kr/inbnet_listing_banner.html
 ||img.wowtv.co.kr/MainManage/
 ||vop.co.kr/templates/adv/
 ||vop.co.kr/templates/admanager/
