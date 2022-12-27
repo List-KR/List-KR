@@ -638,6 +638,7 @@
 ! Some listed domains have been changed by their administrators regularly.
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 ! 
+/^https:\/\/static\.tzstatic\.top\/t\/[a-z0-9]+\.gif$/
 /^https:\/\/image\.yaburi[0-9]+\.com\/image-storage\/banners\//
 /^https:\/\/torrentnx[0-9]+\.com\/thema\/Basic\/assets\//
 ||filesbest.xyz^$domain=torrenttt55.com|torrenttt56.com|torrenttt57.com|torrenttt58.com|torrenttt59.com|torrenttt60.com|torrenttt61.com|torrenttt62.com|torrenttt63.com|torrenttt64.com|torrenttt65.com|torrenttt66.com|torrenttt67.com|torrenttt68.com
