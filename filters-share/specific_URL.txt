@@ -1,5 +1,5 @@
+||nstatic.dcinside.com/dc/event/nft_gaejugi/
 ||corearoadbike.com/*banner/
-/^https:\/\/nstatic\.dcinside\.com\/dc\/event\/nft_gaejugi\/(?!nftcon)/
 ||js.newsmobile.co.kr/inbnet_listing_banner.html
 ||img.wowtv.co.kr/MainManage/
 ||vop.co.kr/templates/adv/
