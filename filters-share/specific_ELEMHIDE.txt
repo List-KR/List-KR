@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+kmug.co.kr##header ~ #_hidden_layer_
 kmug.co.kr##div[id^="pop-layer-"]
 1412.rest##div[style^="max-width:"].ads
 oceansabyss.com##.inside-right-sidebar > aside[id^="custom_html-"]
