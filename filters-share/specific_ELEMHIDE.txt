@@ -103,7 +103,6 @@ yakup.com##a[style*="background-image"][style*="/data/banner/"]
 enjoytaiwan.co.kr##.widget-box > div[style*="min-height:"]
 m.humoruniv.com##div[id*="_"][style*=" "] ~ div[id][class]:not([id*="_"])
 osmanias.com##.taboola
-m.humoruniv.com##div[id][style] ~ div[id*="_twice_"] ~ #ul
 instiz.net##table#mboard.mboard tr:not([id])
 instiz.net###menufoot > .hot_under
 instiz.net##div[id^="sidead"]
@@ -124,7 +123,6 @@ popco.net##div[class*="_ban_"]
 mediajeju.com##aside > article ~ div[style*="height:"]
 focus.daum.net##div[data-tiara-layer="ad"]
 cbinews.co.kr##article table[align] td[height]
-m.humoruniv.com##div[style^="margin:"] > div[style^="width:"]
 humoruniv.com###wrap_mdd ~ div[style*="height:"]
 humoruniv.com###wrap_cnts > div[style^="margin:"]
 kyobobook.co.kr##div[id^="bodyDialog"]:not([style*="top: "]).open
