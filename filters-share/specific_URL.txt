@@ -1,4 +1,4 @@
-||m.humoruniv.com/images/*.$xmlhttprequest
+||m.humoruniv.com/images/*.html$xmlhttprequest
 ||kmug.co.kr/data/ebslider/
 ||bikem.co.kr/files/ad/
 ||thebike.co.kr/data/file/slider/
