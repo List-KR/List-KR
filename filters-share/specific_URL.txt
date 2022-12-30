@@ -641,7 +641,7 @@
 /^https:\/\/torrent-who[0-9]+\.me\/data\/apms\/background\//
 ||i.imgur.com^$domain=etorrent12.com|etorrent13.com|etorrent14.com|etorrent15.com|etorrent16.com|etorrent17.com|etorrent18.com|etorrent19.com|etorrent20.com|etorrent21.com|etorrent22.com|etorrent23.com|etorrent24.com|etorrent25.com
 ||media.tumblr.com^$image,domain=mingk7.com|mingk8.com|mingk9.com|mingk10.com|mingk11.com|mingk12.com|mingk13.com|mingk14.com|mingk15.com|mingk16.com|mingk17.com|mingk18.com|mingk19.com|mingk20.com|mingk21.com|mingk22.com|mingk23.com
-/^https:\/\/imgcloud[0-9]+\.net\//$domain=wftoon56.com|wftoon57.com|wftoon58.com|wftoon59.com|wftoon60.com|wftoon61.com|wftoon62.com|wftoon63.com|wftoon64.com|wftoon65.com|wftoon66.com|wftoon67.com|wftoon68.com|wftoon69.com|wftoon70.com
+/^https:\/\/imgcloud[0-9]+\.net\//$domain=wftoon57.com|wftoon58.com|wftoon59.com|wftoon60.com|wftoon61.com|wftoon62.com|wftoon63.com|wftoon64.com|wftoon65.com|wftoon66.com|wftoon67.com|wftoon68.com|wftoon69.com|wftoon70.com|wftoon71.com
 /^https:\/\/torrentten[0-9]+\.com\/thema\/Basic\/assets\/img\/.+\.gif$/
 /^https:\/\/linkrand[0-9]+\.com\/thema\/Miso-Basic[0-9]\/assets\/img\/banne/
 /^https:\/\/linkrand[0-9]+\.com\/data\/file\/(left|right)_sero\//
@@ -655,8 +655,8 @@
 /^https:\/\/linkeye[0-9]+\.com\/data\/file\/banner\//
 ||static.springbuilder.site/fs/userFiles-v2/$domain=img.imimggggg87878.com
 ||i.imgur.com^$domain=img.imimggggg87878.com
-||static.springbuilder.site/fs/userFiles-v2/$domain=tkr175.com|tkr176.com|tkr177.com|tkr178.com|tkr179.com|tkr180.com|tkr181.com|tkr182.com|tkr183.com|tkr184.com|tkr185.com|tkr186.com
-||i.imgur.com^$domain=tkr175.com|tkr176.com|tkr177.com|tkr178.com|tkr179.com|tkr180.com|tkr181.com|tkr182.com|tkr183.com|tkr184.com|tkr185.com|tkr186.com
+||static.springbuilder.site/fs/userFiles-v2/$domain=tkr177.com|tkr178.com|tkr179.com|tkr180.com|tkr181.com|tkr182.com|tkr183.com|tkr184.com|tkr185.com|tkr186.com|tkr187.com|tkr188.com
+||i.imgur.com^$domain=tkr177.com|tkr178.com|tkr179.com|tkr180.com|tkr181.com|tkr182.com|tkr183.com|tkr184.com|tkr185.com|tkr186.com|tkr187.com|tkr188.com
 /^https:\/\/v[0-9]+\.sonagitv\.tv\/sonagi_me\/sites\/[0-9]\/[0-9]{4}\/[0-9]{2}\/((?!sonagitvlogonew)[0-9A-z]+)\./
 /^https:\/\/krav[0-9]+\.xyz\/img\/banner\//
 /^https:\/\/torrentsee[0-9]+\.com\/uploadfile\/up[a-z0-9]+\.gif$/
@@ -731,9 +731,9 @@
 ||cloudaaaa.com^$domain=copytoon612.com|copytoon613.com|copytoon614.com|copytoon615.com|copytoon616.com|copytoon617.com|copytoon618.com|copytoon619.com|copytoon620.com|copytoon621.com|copytoon622.com
 /^https:\/\/hodu[0-9]+\.net\/_book\/_Contents\/banner\//
 /^https:\/\/bam[0-9]+co\.com\/_book\/_Contents\/banner\//
-||blogger.googleusercontent.com/img/$domain=hdhd180.net|hdhd181.net|hdhd182.net|hdhd183.net|hdhd184.net|hdhd185.net|hdhd186.net|hdhd187.net|hdhd188.net|hdhd189.net|hdhd190.net|hdhd191.net|hdhd192.net|hdhd193.net|hdhd194.net
-||i.imgur.com^$domain=hdhd180.net|hdhd181.net|hdhd182.net|hdhd183.net|hdhd184.net|hdhd185.net|hdhd186.net|hdhd187.net|hdhd188.net|hdhd189.net|hdhd190.net|hdhd191.net|hdhd192.net|hdhd193.net|hdhd194.net
-/^https:\/\/imgcloud[0-9]+\.net\//$domain=wfwf235.com|wfwf236.com|wfwf237.com|wfwf238.com|wfwf239.com|wfwf240.com|wfwf241.com|wfwf242.com|wfwf243.com|wfwf244.com|wfwf245.com|wfwf246.com|wfwf247.com
+||blogger.googleusercontent.com/img/$domain=hdhd197.net|hdhd198.net|hdhd199.net|hdhd200.net|hdhd201.net|hdhd202.net|hdhd202.net|hdhd203.net|hdhd204.net|hdhd205.net|hdhd206.net|hdhd207.net|hdhd208.net|hdhd209.net|hdhd210.net
+||i.imgur.com^$domain=hdhd197.net|hdhd198.net|hdhd199.net|hdhd200.net|hdhd201.net|hdhd202.net|hdhd202.net|hdhd203.net|hdhd204.net|hdhd205.net|hdhd206.net|hdhd207.net|hdhd208.net|hdhd209.net|hdhd210.net
+/^https:\/\/imgcloud[0-9]+\.net\//$domain=wfwf248.com|wfwf249.com|wfwf250.com|wfwf251.com|wfwf252.com|wfwf253.com|wfwf254.com|wfwf255.com|wfwf256.com|wfwf257.com|wfwf258.com|wfwf259.com|wfwf260.com
 /^https:\/\/[0-9a-z\.]+\.blogspot\.com\//$domain=blacktoon199.com|blacktoon200.com|blacktoon201.com|blacktoon202.com|blacktoon203.com|blacktoon204.com|blacktoon205.com|blacktoon206.com|blacktoon207.com|blacktoon208.com|blacktoon209.com|blacktoon210.com
 /^https:\/\/blacktoon[0-9]+\.com\/upload\/[0-9]{4}\/[0-9]{4}\/[0-9]{21}/
 /^https:\/\/newtoki[0-9]+\.com\/tokinbtoki\/[0-9]{2,}/
