@@ -6,7 +6,6 @@
 ||thebike.co.kr/img/btn_
 ||thebike.co.kr/img/ad/
 ||thebike.co.kr/img/ban_
-||nstatic.dcinside.com/dc/event/nft_gaejugi/
 ||corearoadbike.com/*banner/
 ||js.newsmobile.co.kr/inbnet_listing_banner.html
 ||img.wowtv.co.kr/MainManage/
