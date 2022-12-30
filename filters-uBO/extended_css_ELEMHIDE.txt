@@ -59,9 +59,9 @@ m.cafe.naver.com#?#.location_bar:has(.active:has-text(전체공지)) ~ .location
 ! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
 !
 img.imimggggg87878.com#?#a[target="_blank"][href^="http://"].menu-a:has-text(보증토토)
-tkr175.com,tkr176.com,tkr177.com,tkr178.com,tkr179.com,tkr180.com,tkr181.com,tkr182.com,tkr183.com,tkr184.com,tkr185.com,tkr186.com#?#a[target="_blank"][href^="http://"].menu-a:has-text(보증토토)
-torrentsee140.com,torrentsee141.com,torrentsee142.com,torrentsee143.com,torrentsee144.com,torrentsee145.com,torrentsee146.com,torrentsee147.com,torrentsee148.com,torrentsee149.com,torrentsee150.com,torrentsee151.com,torrentsee152.com,torrentsee153.com,torrentsee154.com,torrentsee155.com,torrentsee156.com,torrentsee157.com#?#.nplr div[class=""] li:has(li:has-text(AD))
-todawa91.top,todawa92.top,todawa93.top,todawa94.top,todawa95.top,todawa96.top,todawa97.top,todawa98.top,todawa99.top,todawa100.top,todawa101.top#?#.sub-cont table tr:has(> td:has-text(광고))
-frtoon139.com,frtoon140.com,frtoon141.com,frtoon142.com,frtoon143.com,frtoon144.com,frtoon145.com,frtoon146.com,frtoon147.com,frtoon148.com,frtoon149.com,frtoon150.com,frtoon151.com,frtoon152.com#?#.alert-danger.container:has-text([AD])
+tkr177.com,tkr178.com,tkr179.com,tkr180.com,tkr181.com,tkr182.com,tkr183.com,tkr184.com,tkr185.com,tkr186.com,tkr187.com,tkr188.com#?#a[target="_blank"][href^="http://"].menu-a:has-text(보증토토)
+torrentsee143.com,torrentsee144.com,torrentsee145.com,torrentsee146.com,torrentsee147.com,torrentsee148.com,torrentsee149.com,torrentsee150.com,torrentsee151.com,torrentsee152.com,torrentsee153.com,torrentsee154.com,torrentsee155.com,torrentsee156.com,torrentsee157.com,torrentsee158.com,torrentsee159.com,torrentsee160.com#?#.nplr div[class=""] li:has(li:has-text(AD))
+todawa99.top,todawa100.top,todawa101.top,todawa101.top,todawa102.top,todawa103.top,todawa104.top,todawa105.top,todawa106.top,todawa107.top,todawa108.top#?#.sub-cont table tr:has(> td:has-text(광고))
+frtoon148.com,frtoon149.com,frtoon150.com,frtoon151.com,frtoon152.com,frtoon153.com,frtoon154.com,frtoon155.com,frtoon156.com,frtoon157.com,frtoon158.com,frtoon159.com,frtoon160.com,frtoon161.com#?#.alert-danger.container:has-text([AD])
 hdhd180.net,hdhd181.net,hdhd182.net,hdhd183.net,hdhd184.net,hdhd185.net,hdhd186.net,hdhd187.net,hdhd188.net,hdhd189.net,hdhd190.net,hdhd191.net,hdhd192.net,hdhd193.net,hdhd194.net#?#.menu-ul > .menu-li:has(> a:has-text(보증토토))
 blacktoon199.com,blacktoon200.com,blacktoon201.com,blacktoon202.com,blacktoon203.com,blacktoon204.com,blacktoon205.com,blacktoon206.com,blacktoon207.com,blacktoon208.com,blacktoon209.com,blacktoon210.com#?#.alert.alert-danger:has(> a:has-text([AD]))
