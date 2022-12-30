@@ -672,7 +672,6 @@
 ||xn--9-o68e16s35etqj.com/data/apms/background/
 /^https:\/\/xn--8-o68e16s35etqj\.com\/data\/editor\/[0-9]+\/[a-z0-9]+_[a-z0-9]+_[a-z0-9]+\./
 ||i.uuoobe.com/images/$domain=torrentreel9.site|torrentreel10.site|torrentreel11.site|torrentreel12.site|torrentreel13.site|torrentreel14.site|torrentreel15.site|torrentreel16.site|torrentreel17.site|torrentreel18.site|torrentreel19.site|torrentreel20.site|torrentreel21.site|torrentreel22.site|torrentreel23.site|torrentreel24.site
-||pixhost.to^$domain=torrentwiz51.com|torrentwiz52.com|torrentwiz53.com|torrentwiz54.com|torrentwiz55.com|torrentwiz56.com|torrentwiz57.com|torrentwiz58.com|torrentwiz59.com|torrentwiz60.com|torrentwiz61.com|torrentwiz62.com|torrentwiz63.com|torrentwiz64.com|torrentwiz65.com|torrentwiz66.com|torrentwiz67.com
 /^https:\/\/torrentmode[0-9]+\.com\/data\/zn_bimg\//
 ||video.twimg.com/ext_tw_video/*/pu/vid/$domain=topgirl.co
 ||az-cdn.com/banners/
@@ -700,7 +699,6 @@
 /^https:\/\/torpang[0-9]+\.com\/data\/apms\/background\//
 ||i.imgur.com^$domain=torrentgram47.com|torrentgram48.com|torrentgram49.com|torrentgram50.com|torrentgram51.com|torrentgram52.com|torrentgram53.com|torrentgram54.com|torrentgram55.com|torrentgram56.com|torrentgram57.com|torrentgram58.com|torrentgram59.com|torrentgram60.com|torrentgram61.com|torrentgram62.com
 /^https:\/\/dc\.filesbest\.xyz\/uploadfile\/images\/[a-z0-9]+\.gif$/
-||i.imgur.com^$domain=torrentwiz51.com|torrentwiz52.com|torrentwiz53.com|torrentwiz54.com|torrentwiz55.com|torrentwiz56.com|torrentwiz57.com|torrentwiz58.com|torrentwiz59.com|torrentwiz60.com|torrentwiz61.com|torrentwiz62.com|torrentwiz63.com|torrentwiz64.com|torrentwiz67.com
 /^https:\/\/torrentwiz[0-9]+\.com\/data\/editor\/[0-9]{4}\//
 ||i.imgur.com^$domain=etorrent.us
 /^https:\/\/torrentbot[0-9]+\.com\/uploadfile\/up[a-z0-9]+\.gif$/
