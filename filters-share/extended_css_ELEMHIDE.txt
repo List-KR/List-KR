@@ -1,3 +1,5 @@
+gall.dcinside.com#?##user_data_lyr .bg_grey:has(a[href*="//addc.dcinside.com/"])
+gall.dcinside.com#?#.gall_list .ub-content:not(.us-post):has(a[href*="//addc.dcinside.com/"])
 m.compuzone.co.kr#?#div[class^="contents"] > div[class^="main_area"]:has(a[href*="ADRollingBanner"])
 ddengle.com#?#ol.bd_lst li[class]:has(span[class^="ad_"])
 ddengle.com#?#table.bd_lst tr.notice:has(span.ad)

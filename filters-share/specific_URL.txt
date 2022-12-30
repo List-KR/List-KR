@@ -1,3 +1,4 @@
+/^https:\/\/nstatic\.dcinside\.com\/dc\/event\/nft_gaejugi\/(?!nftcon)/
 ||m.humoruniv.com/images/*.html$xmlhttprequest
 ||kmug.co.kr/data/ebslider/
 ||bikem.co.kr/files/ad/
