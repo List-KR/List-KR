@@ -669,7 +669,6 @@
 /^https:\/\/viewtorrent[0-9]+\.com\/img\/[0-9]\/[0-9]_[0-9A-z]{8}_[a-z0-9]+\./
 ||pixhost.to^$domain=viewtorrent2.com|viewtorrent3.com|viewtorrent4.com|viewtorrent5.com|viewtorrent6.com|viewtorrent7.com|viewtorrent8.com|viewtorrent9.com|viewtorrent10.com|viewtorrent11.com|viewtorrent12.com|viewtorrent13.com|viewtorrent14.com|viewtorrent15.com|viewtorrent16.com|viewtorrent17.com|viewtorrent18.com
 ||anilife.life/assets/banner/
-||xn--9-o68e16s35etqj.com/data/apms/background/
 /^https:\/\/xn--8-o68e16s35etqj\.com\/data\/editor\/[0-9]+\/[a-z0-9]+_[a-z0-9]+_[a-z0-9]+\./
 ||i.uuoobe.com/images/$domain=torrentreel9.site|torrentreel10.site|torrentreel11.site|torrentreel12.site|torrentreel13.site|torrentreel14.site|torrentreel15.site|torrentreel16.site|torrentreel17.site|torrentreel18.site|torrentreel19.site|torrentreel20.site|torrentreel21.site|torrentreel22.site|torrentreel23.site|torrentreel24.site
 /^https:\/\/torrentmode[0-9]+\.com\/data\/zn_bimg\//

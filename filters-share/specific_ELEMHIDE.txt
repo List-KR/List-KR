@@ -943,7 +943,6 @@ viewtorrent2.com,viewtorrent3.com,viewtorrent4.com,viewtorrent5.com,viewtorrent6
 viewtorrent2.com,viewtorrent3.com,viewtorrent4.com,viewtorrent5.com,viewtorrent6.com,viewtorrent7.com,viewtorrent8.com,viewtorrent9.com,viewtorrent10.com,viewtorrent11.com,viewtorrent12.com,viewtorrent13.com,viewtorrent14.com,viewtorrent15.com,viewtorrent16.com,viewtorrent17.com,viewtorrent18.com###fboardlist > .row
 viewtorrent2.com,viewtorrent3.com,viewtorrent4.com,viewtorrent5.com,viewtorrent6.com,viewtorrent7.com,viewtorrent8.com,viewtorrent9.com,viewtorrent10.com,viewtorrent11.com,viewtorrent12.com,viewtorrent13.com,viewtorrent14.com,viewtorrent15.com,viewtorrent16.com,viewtorrent17.com,viewtorrent18.com##.col-md-12
 anilife.life##div[class$="-banner"]
-xn--9-o68e16s35etqj.com###hd_pop
 qooqootv.fun##div[class^="banner_"]
 !#if !adguard_ext_android_cb
 lover903.net,lover904.net,lover905.net,lover906.net,lover907.net,lover908.net,lover909.net,lover910.net,lover911.net,lover912.net##.xe_content span ~ div[style]
