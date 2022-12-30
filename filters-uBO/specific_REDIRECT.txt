@@ -1,3 +1,4 @@
+||video.veilduck.app^$redirect=noop-1s.mp4
 ||ssl.pstatic.net/tveta/libs/ssp-video/prod/ssp.web.sdk_$script,redirect=noop.js,domain=m.sports.naver.com
 ||advod.sbs.co.kr/sbsad/$media,redirect=noop-1s.mp4
 ||smrmembers-smr.smartmediarep.com/smc/smrmembers/$redirect=noop-1s.mp4
