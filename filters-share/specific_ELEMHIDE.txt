@@ -71,8 +71,6 @@ bozayo.net##.widget-side div[style*=" "]
 wowtv.co.kr##div[class^="adv-"]
 koreanbots.dev##.container div[style^="height:"].mx-auto
 m.compuzone.co.kr##.right_btn
-m.dcinside.com###gaejukimg
-dcinside.com##.moveimglink
 styleup.gameangel.com##.game_wrap ~ div[style*=" "]
 styleup.gameangel.com##div[id^="ads_"]
 eomisae.co.kr##main#main .eq.section > div[class$=" "][style^="background-position"] ~ div[style^="float: "]
