@@ -76,9 +76,9 @@ tistory.com,sajuplus.net##+js(set, checkAds, noopFunc)
 ! foreign website
 play.aidungeon.io,tamrieltradecentre.com,downloads.descendant.me,html5.gamedistribution.com,paraphraser.io,sekai-kabuka.com,teemo.gg,xtremestream.co#@#ins.adsbygoogle
 !
-! Each domain of website in this section is forbidden by Internet censorship of S. Korea.
-! Some listed domains have been changed by their administrators regularly.
-! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
+! DOMAIN-REFRESHER: START
 !
 ||daumcdn.net/tistory/$domain=lover903.net|lover904.net|lover905.net|lover906.net|lover907.net|lover908.net|lover909.net|lover910.net|lover911.net|lover912.net
 $redirect-rule=noop.txt,domain=lover903.net|lover904.net|lover905.net|lover906.net|lover907.net|lover908.net|lover909.net|lover910.net|lover911.net|lover912.net
+!
+! DOMAIN-REFRESHER: END

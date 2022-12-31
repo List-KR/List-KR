@@ -627,9 +627,7 @@
 ||loader.fmkorea.com/_loader/
 ||ssl.pstatic.net/tveta/libs/
 !
-! Each domain of website in this section is forbidden by Internet censorship of S. Korea.
-! Some listed domains have been changed by their administrators regularly.
-! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
+! DOMAIN-REFRESHER: START
 ! 
 ||ifh.cc^$domain=tkr177.com|tkr178.com|tkr179.com|tkr180.com|tkr181.com|tkr182.com|tkr183.com|tkr184.com|tkr185.com|tkr186.com|tkr187.com|tkr188.com
 ||blogger.googleusercontent.com/img/b/$domain=tkr177.com|tkr178.com|tkr179.com|tkr180.com|tkr181.com|tkr182.com|tkr183.com|tkr184.com|tkr185.com|tkr186.com|tkr187.com|tkr188.com
@@ -739,3 +737,5 @@
 /^https:\/\/manatoki[0-9]+\.net\/tokinbtoki\/[0-9]{3,}/
 ||toonkor*.com/images/*.gif
 ||wwwimageup.angle777899.com/other/atoona/
+!
+! DOMAIN-REFRESHER: END

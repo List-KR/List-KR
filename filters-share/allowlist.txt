@@ -15,8 +15,3 @@ x86.co.kr#@#.download_ad
 @@/^https:\/\/www\.ehanex\.com\/images\/main\/[a-z]{2}_ad\.gif$/
 @@||adimg3.search.naver.net/adpost/adpost_show_ads_min.js$domain=search.danawa.com
 @@||t1.daumcdn.net/adfit/static/kp.js$domain=pindirectshop.com|dongbanmall.com
-!
-! Each domain of website in this section is forbidden by Internet censorship of S. Korea.
-! Some listed domains have been changed by their administrators regularly.
-! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
-!

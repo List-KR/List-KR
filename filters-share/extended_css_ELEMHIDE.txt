@@ -141,9 +141,7 @@ postshare.co.kr#?#div[id][class][style]:has(> .impactify-player-container)
 mosen.mt.co.kr#?#section.textList > article.row:has(> ul.aritcle-info > li.title > a[href*="//adv.imadrep.co.kr/"])
 berryjam.co.kr#?#table[width="1200"]:has(> tbody > tr > td > div[class*="slider-banner-"])
 !
-! Each domain of website in this section is forbidden by Internet censorship of S. Korea.
-! Some listed domains have been changed by their administrators regularly.
-! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
+! DOMAIN-REFRESHER: START
 !
 skytoon74.com,skytoon75.com,skytoon76.com,skytoon77.com,skytoon78.com,skytoon79.com,skytoon80.com,skytoon81.com,skytoon82.com,skytoon83.com,skytoon84.com,skytoon85.com,skytoon86.com,skytoon87.com,skytoon88.com#?#header ~ .vod:has(a[href*="/links/bannerlink/"])
 sonagitv.tv#?#.navbar-nav > li:has(a[href*="/affiliatedcompany/"])
@@ -155,3 +153,5 @@ torrentreel9.site,torrentreel10.site,torrentreel11.site,torrentreel12.site,torre
 torrentjuju14.com,torrentjuju15.com,torrentjuju16.com,torrentjuju17.com,torrentjuju18.com,torrentjuju19.com,torrentjuju20.com,torrentjuju21.com,torrentjuju22.com,torrentjuju23.com,torrentjuju24.com,torrentjuju25.com,torrentjuju26.com,torrentjuju27.com,torrentjuju28.com#?##at_main .w1-box:has(.img > a[href][target="_blank"] > img[src])
 yagong51.com,yagong52.com,yagong53.com,yagong54.com,yagong55.com,yagong56.com,yagong57.com,yagong58.com,yagong59.com,yagong60.com,yagong61.com,yagong62.com,yagong63.com,yagong64.com,yagong65.com,yagong66.com,yagong67.com,yagong68.com,yagong69.com,yagong70.com,yagong71.com,yagong72.com,yagong73.com#?#div[class*="border"]:has(> a[href][target*="_blank"])
 toonkor173.com,toonkor174.com,toonkor175.com,toonkor176.com,toonkor177.com,toonkor178.com,toonkor179.com,toonkor180.com,toonkor181.com,toonkor182.com,toonkor183.com,toonkor184.com#?#.navbar-nav > li[class]:has(> a[href$="/토토보증업체"][alt="토토보증업체"])
+!
+! DOMAIN-REFRESHER: END

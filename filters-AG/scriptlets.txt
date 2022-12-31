@@ -43,8 +43,8 @@ imbc.com#%#//scriptlet("set-constant", "vrixadsdk", "undefined")
 ~coupang.com,~coupangcdn.com#%#//scriptlet("set-constant", "PartnersCoupang", "undefined")
 m.inven.co.kr#%#//scriptlet("set-constant", "MOBILE.Ad", "null")
 !
-! Each domain of website in this section is forbidden by Internet censorship of S. Korea.
-! Some listed domains have been changed by their administrators regularly.
-! For more information, please see https://en.wikipedia.org/wiki/Internet_censorship_in_South_Korea .
+! DOMAIN-REFRESHER: START
 !
 lover903.net,lover904.net,lover905.net,lover906.net,lover907.net,lover908.net,lover909.net,lover910.net,lover911.net,lover912.net#%#//scriptlet("adjust-setTimeout", "count", "*", "0.001")
+!
+! DOMAIN-REFRESHER: END
