@@ -1,3 +1,4 @@
+||nongmin.com/wps/engine/rest/bannerGroup
 /^https:\/\/nstatic\.dcinside\.com\/dc\/event\/nft_gaejugi\/(?!nftcon)/
 ||m.humoruniv.com/images/*.html$xmlhttprequest
 ||kmug.co.kr/data/ebslider/
@@ -525,10 +526,6 @@
 ||m.news1.kr/template/ads/
 ||image.news1.kr/system/ads_t/
 ||nocutnews.co.kr/ad/
-||m.nongmin.com/m/images/main/*_banner_
-||nongmin.com/upload/kcun/banner/
-||nongmin.com/inc/js/app/default/viewAd.js
-||nongmin.com/images/main/pop_
 ||shopapi.interpark.com/advertisement/*.json
 ||shopping.interpark.com/resources/template/common/powerLink.html
 ||shopping.interpark.com/niSearch/common/powerLink.json
