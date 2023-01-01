@@ -59,9 +59,9 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+hogaeng.co.kr##.bo_notice:has(.spon_b_icon1)
 hogaeng.co.kr###partnership
-hogaeng.co.kr##.sponsor
-hogaeng.co.kr##.sponsor2
+hogaeng.co.kr##div[class^="sponsor"]
 windnews.cafe24.com##div[id^="brave_popup_"]
 windnews.cafe24.com##div[style*=" "]#showtoday
 m.humoruniv.com##div[id*="ggeal"]
