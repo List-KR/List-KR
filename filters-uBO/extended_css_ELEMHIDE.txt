@@ -1,3 +1,4 @@
+hogaeng.co.kr#?#.bo_notice:has(.spon_b_icon1)
 eomisae.co.kr#?#main#main .eq.section #bd table tr:has(.no ~ .title span:has-text([AD]))
 dt.co.kr#?#.right_aside > *:not([class*="_"]):not([class^="aside"]):has(~ .right_bx)
 dt.co.kr#?#.right_aside > *:not([class*="_"]):not([class^="aside"]):has(~ div[class^="aside"])
@@ -12,7 +13,6 @@ m.ppomppu.co.kr#?#.main-menu-group ~ .ct:has(h3:has-text(뽐뿌)) .ppList li:has
 ~m.ppomppu.co.kr,ppomppu.co.kr#?#.top-nav a[href*="?id=ppomppu"] ~ .sub-menu li:has(> a[href*="ppomppu7"])
 tgd.kr#?##article-list > .notice:has(.list-header:has-text(AD))
 m.shop.interpark.com#?#.productListWrapper > .listWrap:has(.helpGuideWrap:has-text(광고))
-hogaeng.co.kr#?##main_con > div[class^="latest"]:has-text(스폰서광고)
 ypbooks.co.kr#?#.section-intro > .m-latest-renew:has(h3:has-text(오늘의 책))
 ypbooks.co.kr#?#.section-intro > .m-latest-renew:has(h3:has-text(MD 추천도서))
 ypbooks.co.kr#?#div[style]#cenArea > h2[style]:has-text(오늘의 책)
