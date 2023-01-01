@@ -19,7 +19,7 @@ bigkinds.or.kr,hungryapp.co.kr,rhythmer.net##div[class$="Banner"]
 ! ##div[class$="banner"]
 sports.chosun.com,dcinside.com##div[class$="banner"]
 ! ##div[class$="-banner"]
-cineaste.co.kr,jpaxnet.co.kr,bigkinds.or.kr,toomics.com,nongmin.com,ilbe.com##div[class$="-banner"]
+cineaste.co.kr,jpaxnet.co.kr,bigkinds.or.kr,toomics.com,ilbe.com##div[class$="-banner"]
 ! ##div[class^="banner"]
 bgchang.co.kr,edit.incruit.com,m.hungryapp.co.kr,m.edaily.co.kr,m.news1.kr##div[class^="banner"]
 ! ##div[class$="-ad"]
@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+nongmin.com##div[class*="_bnr"]
 windnews.cafe24.com##div[id^="brave_popup_"]
 windnews.cafe24.com##div[style*=" "]#showtoday
 m.humoruniv.com##div[id*="ggeal"]
@@ -709,8 +710,6 @@ m.nocutnews.co.kr##div[class^="ct"] > .section > .view_box > #divViewBox > .view
 m.nocutnews.co.kr###pnlContainer > div[class^="ct"] > .con_b > div[style]
 m.nocutnews.co.kr###pnlContainer > div[class^="ct"] > .section > div[style]:not(class)
 start.zum.com,m.edaily.co.kr,news.sbs.co.kr,nocutnews.co.kr##div[id^="dablewidget_"]
-m.nongmin.com##.banner_zone
-nongmin.com##div[class$="-banner-wrap"]
 ypbooks.co.kr,newstof.com##div[id^="popup_"]
 etoland.co.kr##div[class$="_banner_div"]
 yna.co.kr##[class^="aside-bnr"]
