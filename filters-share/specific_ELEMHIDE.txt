@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+mlbpark.donga.com##ins[ad][code][style]
 joongna.com##.slick-slider.slick-initialized > .slick-list ~ ul[style*=" "].slick-dots
 hogaeng.co.kr###partnership
 hogaeng.co.kr##div[class^="sponsor"]
@@ -876,9 +877,7 @@ mmzone.co.kr###main_premium_spon_block
 dt.co.kr,m.etoday.co.kr,mnews.sbs.co.kr,mbn.co.kr,cgv.co.kr,mmzone.co.kr##div[id$="_ad"]
 2cpu.co.kr##a[href*="./bbs/banner_link.php?"]
 ruliweb.com##div[id^="adsense_"]
-mlbpark.donga.com##ul.lists > li.items::before
 mlbpark.donga.com##div[class*="naver_power"]
-mlbpark.donga.com###advertise_naver
 coolenjoy.net##.simple_banner_wrap
 coolenjoy.net##img[src^="https://photo.coolenjoy.co.kr/banner/"]
 quasarzone.com##*:not(footer) > div[class^="main-"][class$="-banner"]
