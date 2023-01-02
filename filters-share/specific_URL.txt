@@ -1,3 +1,4 @@
+||nongmin.com/-/raw/srv-nongmin/data1/srv-nongmin/*/common/images/*_bnr.
 ||nongmin.com/wps/engine/rest/bannerGroup
 /^https:\/\/nstatic\.dcinside\.com\/dc\/event\/nft_gaejugi\/(?!nftcon)/
 ||m.humoruniv.com/images/*.html$xmlhttprequest
