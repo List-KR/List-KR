@@ -1,4 +1,4 @@
-hogaeng.co.kr#?#.bo_notice:has(.spon_b_icon1)
+hogaeng.co.kr#?#.tbl_wrap .bo_notice:has(span[class^="spon_b_icon"])
 m.dcinside.com#?#.detail-top-lst li:has(a[href*="//addc.dcinside.com/"])
 gall.dcinside.com#?##user_data_lyr .bg_grey:has(a[href*="//addc.dcinside.com/"])
 gall.dcinside.com#?#.gall_list .ub-content:not(.us-post):has(a[href*="//addc.dcinside.com/"])
