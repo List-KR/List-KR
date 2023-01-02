@@ -863,11 +863,6 @@ enuri.com##.ad_powerlink
 enuri.com###midBanner
 etoland.co.kr##div[class^="power_link_"]
 etoland.co.kr###mw_mobile > .index_div center
-daisomall.co.kr##.wing_banners
-daisomall.co.kr##.table_goods_info_adcoupon
-daisomall.co.kr##.forbizSlider
-daisomall.co.kr##.header_top
-daisomall.co.kr##a[href^="/banner.link.php?"]
 coupang.com##.srp-top-banner-container
 coupang.com###sdpBottomAds
 coupang.com###sdp-bottom-banner

@@ -609,7 +609,6 @@
 ||cimage.ondisk.co.kr/data/mdns_bigbanner/
 ||ygosu.com/banner_img/
 ||external.impression-neo.naver.com/api/*/ads/search-jsonp
-||image.daisomall.co.kr/data/daiso_data/images/banner/
 ||img.newspim.com/banner/
 ||img.newspim.com/ad/
 ||arca.live/static/ad/
