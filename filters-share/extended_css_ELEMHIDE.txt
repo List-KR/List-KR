@@ -1,3 +1,4 @@
+joongna.com#?#main > section[class^="css-"]:has(h2 > svg > path[d*="5.348H8.27579C8.48279"])
 hogaeng.co.kr#?#.tbl_wrap .bo_notice:has(span[class^="spon_b_icon"])
 m.dcinside.com#?#.detail-top-lst li:has(a[href*="//addc.dcinside.com/"])
 gall.dcinside.com#?##user_data_lyr .bg_grey:has(a[href*="//addc.dcinside.com/"])

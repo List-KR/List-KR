@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+joongna.com##.slick-slider.slick-initialized > .slick-list ~ ul[style*=" "].slick-dots
 hogaeng.co.kr###partnership
 hogaeng.co.kr##div[class^="sponsor"]
 nongmin.com##div[class*="_bnr"]
@@ -631,7 +632,6 @@ ppomppu.co.kr##body .contents .container .topSub-nav
 prod.danawa.com###powerClickProductListArea
 ichannela.com##.sideArea > div[style]:not([class]):not([id])
 entertainpost.com##body > div[style]:not([class])
-m.joongna.com##article[class^="SearchList_listWrap"] + div
 www.naver.com##div[id^="veta_"]
 ppomppu.co.kr,star.mt.co.kr,mimint.co.kr,bada.io,arca.live##div.ad
 ohmynews.com###div10Sticky

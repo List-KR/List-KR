@@ -1,3 +1,4 @@
+||search-ads-api.joongna.com^
 ||adg.dawin.tv^
 ||ads.quanta.la^
 ||nitropay.com^
