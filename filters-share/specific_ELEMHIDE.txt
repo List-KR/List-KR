@@ -33,7 +33,7 @@ moyoplan.com##div[class^="Banner"]
 ! ##div[class*="_ad"]
 medicaltimes.com,yes24.com,kpanews.co.kr,donga.com,busan.com,fnnews.com,m.munhwa.com,m.kmib.co.kr,m.clien.net##div[class*="_ad"]
 ! ##div[id*="Banner"]
-evape.kr,www.enuri.com,e-himart.co.kr,kin.naver.com##div[id*="Banner"]
+evape.kr,e-himart.co.kr,kin.naver.com##div[id*="Banner"]
 ! ##div[class*="_AD"]
 0db.co.kr##div[class*="_AD"]
 ! ##section[class$="-ads"]
@@ -276,7 +276,7 @@ search.naver.com##div[class*="_fashion"].more_prod
 m.search.naver.com##section[class*="ad_"]
 search.naver.com##li[data-nvmid]._ad
 ddaily.co.kr##.space_layout ~ div[class^="section_"] > div:not([style*="solid"]) + div[style]:not([class])
-newdaily.co.kr,koreatimes.net,nzkoreapost.com,enuri.com##div[class*="-ad-"]
+newdaily.co.kr,koreatimes.net,nzkoreapost.com##div[class*="-ad-"]
 loawa.com##a[target="_blank"][data-href][data-banner-statics]
 m.ppomppu.co.kr##.main-menu-group ~ .ct #board-cate ul[style] li[onclick^="location.href="][onclick*="/bbs_list.php?id=ppomppu2"]
 m.ppomppu.co.kr##.main-menu-group ~ .ct #board-cate ul[style] li[onclick^="location.href="][onclick*="/bbs_list.php?id=ppomppu7"]
@@ -315,8 +315,6 @@ ypbooks.co.kr##div[style]#cenArea > .today
 lawtalknews.co.kr##.tdn-inventory
 www.tmon.co.kr##ul#_dealListContainer.list > li.item.type_admon[data-maincategoryno]
 wiki.hash.kr##.wkbn_bk.tp
-m.enuri.com##.m_trend_pickup
-www.enuri.com##span[class$="-ad"]
 m.seoul.co.kr###Article > .Line_gray ~ div[style]:not([class]):not([id])
 buy.11st.co.kr##div[class^="bnr_ad"]
 m.fpn119.co.kr###top_src > div[style]
@@ -850,18 +848,9 @@ now.rememberapp.co.kr##.now_content_ads__wrapper
 m.ilbe.com##.banner-wrap
 clien.net###coupangAd
 ppomppu.co.kr##tr > td div.bridge
-m.yakup.com,ypbooks.co.kr,m.enuri.com,asiatime.co.kr,www.ebs.co.kr,news.nate.com,boribori.co.kr##div[class*="_banner"]
+m.yakup.com,ypbooks.co.kr,asiatime.co.kr,www.ebs.co.kr,news.nate.com,boribori.co.kr##div[class*="_banner"]
 boribori.co.kr##.bFloatingBanner
 ondisk.co.kr##div[id^="wingBanner-"]
-enuri.com##ul#evt_banner
-enuri.com##.bnrbox.bnrbox--knowfun
-enuri.com##div.col__inner > .enurievt
-enuri.com##.bnrbox > ul.bnr__list
-enuri.com##div[class$="bnr__band"]
-enuri.com##.ad_powershopping
-enuri.com###prodPowerClick
-enuri.com##.ad_powerlink
-enuri.com###midBanner
 etoland.co.kr##div[class^="power_link_"]
 etoland.co.kr###mw_mobile > .index_div center
 coupang.com##.srp-top-banner-container

@@ -196,8 +196,6 @@
 !#if !adguard_ext_android_cb
 ||t1.daumcdn.net/kas/static/ba.min.js
 !#endif
-||enuri.com/*/ajax/connectApiPowerlink.jsp
-||enuri.com/ebayCpc/jsp/connectApi2.jsp
 ||m.ppomppu.co.kr/new/*.php?id=ppomppu2$document
 ||m.ppomppu.co.kr/new/*.php?id=ppomppu7$document
 ||m.ppomppu.co.kr/new/*.php?id=pmarket$document
@@ -226,13 +224,6 @@
 ||img.ypbooks.co.kr/upload/banner/
 ||img.ypbooks.co.kr/upload/HTML/popup/
 ||prod.danawa.com/list/ajax/getAdBrandHall.ajax.php
-||m.enuri.com/m/api/main/m_trendJson_
-||m.enuri.com/*/ajax/getSponsor
-||m.enuri.com/mobilefirst/http/json/banMobileSrchKeyword.json|
-||m.enuri.com/*/ajax/connectApiPowerlink.jsp
-||m.enuri.com/*/ajax/get*Sponsor_ajax.jsp
-||enuri.com/*/api/ad/$xmlhttprequest
-||enuri.com/*/ajax/getNewBrandThema_ajax.jsp
 ||fpn119.co.kr/data/*/banner/
 ||static.coupangcdn.com/image/$domain=shopping.zum.com
 ||shopping-phinf.pstatic.net^$domain=shopping.zum.com
