@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+daisomall.co.kr##.da_login-phone
 mlbpark.donga.com##ins[ad][code][style]
 joongna.com##.slick-slider.slick-initialized > .slick-list ~ ul[style*=" "].slick-dots
 hogaeng.co.kr###partnership

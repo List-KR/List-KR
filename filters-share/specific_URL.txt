@@ -1,3 +1,4 @@
+||daisomall.co.kr/data/templet_data/templet/daiso/images/login_phone.jpg
 /^https?:\/\/m\.humoruniv\.com\/images\/.+\.(html|php)/$xmlhttprequest
 ||enuri.com/*/api/ad/
 ||enuri.com/*/ajax/getNewBrandThema_ajax.jsp
