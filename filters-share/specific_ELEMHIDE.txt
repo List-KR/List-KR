@@ -59,12 +59,13 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+enuri.com##.right--inner > div[class^="bnr_"]
 daisomall.co.kr##.da_login-phone
 mlbpark.donga.com##ins[ad][code][style]
 joongna.com##.slick-slider.slick-initialized > .slick-list ~ ul[style*=" "].slick-dots
 hogaeng.co.kr###partnership
 hogaeng.co.kr##div[class^="sponsor"]
-nongmin.com##div[class*="_bnr"]
+enuri.com,nongmin.com##div[class*="_bnr"]
 windnews.cafe24.com##div[id^="brave_popup_"]
 windnews.cafe24.com##div[style*=" "]#showtoday
 m.humoruniv.com##div[id*="ggeal"]
