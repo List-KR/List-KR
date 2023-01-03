@@ -1,3 +1,4 @@
+/^https?:\/\/m\.humoruniv\.com\/images\/.+\.(html|php)/$xmlhttprequest
 ||enuri.com/*/api/ad/
 ||enuri.com/*/ajax/getNewBrandThema_ajax.jsp
 ||enuri.com/*/ajax/connectApiPowerlink.jsp
@@ -10,7 +11,6 @@
 ||nongmin.com/-/raw/srv-nongmin/data1/srv-nongmin/*/common/images/*_bnr.
 ||nongmin.com/wps/engine/rest/bannerGroup
 /^https:\/\/nstatic\.dcinside\.com\/dc\/event\/nft_gaejugi\/(?!nftcon)/
-||m.humoruniv.com/images/*.html$xmlhttprequest
 ||kmug.co.kr/data/ebslider/
 ||bikem.co.kr/files/ad/
 ||thebike.co.kr/data/file/slider/
