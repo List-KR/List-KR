@@ -1,3 +1,4 @@
+||daumcdn.net/tistory_admin/static/revenue/
 ||m.enuri.com/*/ajax/getSearchSponsor_ajax.jsp
 ||daisomall.co.kr/data/templet_data/templet/daiso/images/login_phone.jpg
 /^https?:\/\/m\.humoruniv\.com\/images\/.+\.(html|php)/$xmlhttprequest
@@ -581,8 +582,6 @@
 ||dothome.co.kr/advertisement/
 ||shop.nate.com/shopbox/shopbox.htm$domain=pann.nate.com
 ||dschool.co.kr//uploadedFiles/ADVERTISE/
-||t1.daumcdn.net/tistory_admin/static/revenue/dable.png
-||t1.daumcdn.net/tistory_admin/static/revenue/adfit.svg
 ||koreaminecraft.net/serverad/$document
 ||bloter.net/data/blt/banner/
 ||was.livere.me/api/ad|
