@@ -50,8 +50,6 @@ sogirl.so##+js(set, DHAntiAdBlocker, true)
 @@||clien.net^$generichide
 @@||ad.smartmediarep.com/NetInsight/video/smr$domain=programs.sbs.co.kr|allclip.sbs.co.kr|mplay.mk.co.kr|static.cloud.sbs.co.kr
 @@||op.gg^$generichide
-1412.rest##+js(acis, hideAll)
-1412.rest#$#[class^="document_"].xe_content { height: auto !important; overflow: auto !important; }
 ||adimg.nate.com/img/*?n=$redirect=2x2.png,domain=tv.nate.com
 noonnu.cc##+js(no-xhr-if, pagead2.googlesyndication.com/pagead/js/adsbygoogle.js)
 @@||t1.daumcdn.net/adfit/static/kp.js$domain=laftel.net
@@ -70,7 +68,6 @@ webtv.dothome.co.kr##.adblock-on
 persnacons.tistory.com#@#.topAD
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ff14angler.com
 uda1004.tistory.com,exey.io,ff14angler.com#@#ins.adsbygoogle
-||1412.rest/addons/*/adblockDetector.js
 singingdalong.blogspot.com,sajuplus.net##.adsense-alt
 tistory.com,sajuplus.net##+js(set, checkAds, noopFunc)
 ! foreign website

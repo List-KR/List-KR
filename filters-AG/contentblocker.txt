@@ -1,6 +1,3 @@
-@@||1412.rest^$generichide
-!
-!
 ! fundingchoicesmessages.google.com
 ||fundingchoicesmessages.google.com^$domain=1412.rest|pyrasis.com|oceansabyss.com|yongtj.com|dora-guide.com|tailstar.net|creativestudio.kr|gamejay.net|mksports.co.kr|sisamagazine.co.kr|dreamrail.co.kr|tistory.com|gukjenews.com|issuelink.co.kr|webtool.cusis.net|koreaminecraft.net
 ! Kakao TV
@@ -77,8 +74,5 @@ stockinfo7.com#@#ins.adsbygoogle
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ff14angler.com
 ff14angler.com#@#ins.adsbygoogle
 @@||avjamak.net^$generichide
-||1412.rest/addons/*/adblockDetector.js
-@@||adblockanalytics.com^$xmlhttprequest,domain=1412.rest
 @@||videoads.kakao.com/adserver/api/v2/vmap$domain=tv.kakao.com|play-tv.kakao.com|entertain.daum.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cpsp.kr
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=1412.rest

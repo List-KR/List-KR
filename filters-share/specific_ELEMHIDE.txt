@@ -74,7 +74,6 @@ m.humoruniv.com##div[id*="ggeal"]
 ppss.kr###genesis-sidebar-primary
 kmug.co.kr##header ~ #_hidden_layer_
 kmug.co.kr##div[id^="pop-layer-"]
-1412.rest##div[style^="max-width:"].ads
 oceansabyss.com##.inside-right-sidebar > aside[id^="custom_html-"]
 corearoadbike.com##table[style]:not([style=" "]) a[href][target="_blank"]
 www.seoul.co.kr###viewWrapDiv > div[style*=" "]:not([class]):not([id])
@@ -287,7 +286,6 @@ m.ppomppu.co.kr##.main-menu-group ~ .ct #board-cate ul[style] li[onclick^="locat
 m.ppomppu.co.kr##.main-menu-group ~ .ct #board-cate ul[style] li[onclick*="/new/hotdeal"] ~ li[onclick^="location.href="][onclick*="market"]
 tiendeo.co.kr##[class$="-advert"]
 tiendeo.co.kr##section[class*=" "]#header-standard-container
-1412.rest##.fancybox-wrap
 infosori.com##center > div[style] ~ center ~ div[style^="margin-top:"]
 pervsi.com###bottom_sit_handmade
 uwayapply.com###frameBox
@@ -792,7 +790,6 @@ thisisgame.com##iframe[src^="//ad"][src*=".thisisgame.com/ad"]
 dschool.co.kr##a[href^="/ws/include/banner_link.asp?"][target="_blank"]
 ddanzi.com##.add_display
 m.naver.com##.ISSUE-BANNER-AD
-1412.rest###plusad_widget_wrap
 slrclub.com##ins[class^="adsbyadop_"]
 itcm.co.kr##.top-owl.owl-carousel
 mule.co.kr##.header-center.cf > .header-center-imgbox > a > img[src*="//cdn.mule.co.kr/data/original/"]
