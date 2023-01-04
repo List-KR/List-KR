@@ -1,19 +1,19 @@
 ! #%#//scriptlet('abort-current-inline-script', 'document.addEventListener', '/adscale_slot_id/')
 asdn.kr,healthfeed.co.kr,bikesell.co.kr,remiz.co.kr,enjoytaiwan.co.kr,poketory.com,withukor.com,tistory.com,love.asdn.kr,avjamak.net,untitle.org,seo-marketing.co.kr#%#//scriptlet('abort-current-inline-script', 'document.addEventListener', '/adscale_slot_id/')
-! #%#//scriptlet("prevent-setTimeout", "/\.displayMessage\(/")
-klauncher.kr,iphonedev.co.kr,tistory.com#%#//scriptlet("prevent-setTimeout", "/\.displayMessage\(/")
+! #%#//scriptlet('prevent-setTimeout', '/\.displayMessage\(/')
+klauncher.kr,iphonedev.co.kr,tistory.com#%#//scriptlet('prevent-setTimeout', '/\.displayMessage\(/')
 ! BlockAdBlock
-fafan.kr,blog.dalso.org,svrforum.com,tistory.com#%#//scriptlet("prevent-bab")
+fafan.kr,blog.dalso.org,svrforum.com,tistory.com#%#//scriptlet('prevent-bab')
 ! FuckAdBlock
 !#if (adguard_app_windows || adguard_app_mac || adguard_ext_safari)
 x86.co.kr#$?##google_ads { remove: true; }
 !#endif
-te31.com,tistory.com#%#//scriptlet("prevent-fab-3.2.0")
-x86.co.kr,1004lucifer.blogspot.com,te31.com,tistory.com#%#//scriptlet("abort-on-property-read", "adBlockDetected")
+te31.com,tistory.com#%#//scriptlet('prevent-fab-3.2.0')
+x86.co.kr,1004lucifer.blogspot.com,te31.com,tistory.com#%#//scriptlet('abort-on-property-read', 'adBlockDetected')
 ||cdnjs.cloudflare.com/ajax/libs/fuckadblock/3.2.1/fuckadblock.min.js$redirect=prevent-fab-3.2.0
 ! ai_front anti-adblock
-plankim.com#%#//scriptlet("abort-current-inline-script", "ai_adb.init")
-jootc.com,ehpub.co.kr#%#//scriptlet("abort-current-inline-script", "ai_run_scripts")
+plankim.com#%#//scriptlet('abort-current-inline-script', 'ai_adb.init')
+jootc.com,ehpub.co.kr#%#//scriptlet('abort-current-inline-script', 'ai_run_scripts')
 ! fundingchoicesmessages.google.com
 ||fundingchoicesmessages.google.com^$domain=1412.rest|pyrasis.com|oceansabyss.com|yongtj.com|dora-guide.com|tailstar.net|creativestudio.kr|gamejay.net|mksports.co.kr|sisamagazine.co.kr|dreamrail.co.kr|tistory.com|gukjenews.com|issuelink.co.kr|webtool.cusis.net|koreaminecraft.net
 ! Kakao TV
@@ -22,14 +22,14 @@ jootc.com,ehpub.co.kr#%#//scriptlet("abort-current-inline-script", "ai_run_scrip
 @@/embed/player/image/ads.png$domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
 !#endif
 /^https:\/\/videoads\.kakao\.com\/adserver\/api\/v[0-9]+\/vmap/$redirect=nooptext,domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
-tv.kakao.com,play-tv.kakao.com,kakaotv.daum.net#%#//scriptlet("prevent-xhr", "/^https.\/\/videoads\.kakao\.com\/adserver\/api\/v[0-9]{1,2}\/vmap$/")
+tv.kakao.com,play-tv.kakao.com,kakaotv.daum.net#%#//scriptlet('prevent-xhr', '/^https.\/\/videoads\.kakao\.com\/adserver\/api\/v[0-9]{1,2}\/vmap$/')
 /embed/player/image/ads.png$redirect=2x2-transparent.png,domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
-tv.kakao.com,play-tv.kakao.com,kakaotv.daum.net#%#//scriptlet("prevent-fetch", "/^https.\/\/videoads\.kakao\.com\/adserver\/api\/v[0-9]{1,2}\/vmap$/")
+tv.kakao.com,play-tv.kakao.com,kakaotv.daum.net#%#//scriptlet('prevent-fetch', '/^https.\/\/videoads\.kakao\.com\/adserver\/api\/v[0-9]{1,2}\/vmap$/')
 kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#ins.kakao_ad_area
 kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@##adBlockPixelTag
 kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 ! AdGlare Ad Server
-luckyquiz3.blogspot.com#%#//scriptlet("abort-current-inline-script", "document.createElement", "hasAdblock")
+luckyquiz3.blogspot.com#%#//scriptlet('abort-current-inline-script', 'document.createElement', 'hasAdblock')
 ! meeco.kr
 !#if (adguard_app_ios)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=meeco.kr
@@ -40,8 +40,8 @@ meeco.kr#@#.adsbygoogle
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=meeco.kr
 !#endif
 meeco.kr#$#.xe_content { opacity: 1 !important; }
-meeco.kr#%#//scriptlet("prevent-fetch", "pagead2.googlesyndication.com/pagead/js/adsbygoogle.js")
-meeco.kr#%#//scriptlet("abort-current-inline-script", "$", ".adsbygoogle")
+meeco.kr#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com/pagead/js/adsbygoogle.js')
+meeco.kr#%#//scriptlet('abort-current-inline-script', '$', '.adsbygoogle')
 meeco.kr#?#.adsbygoogle:remove()
 ! namu.wiki
 @@||newliweb.com/$subdocument,script,domain=namu.wiki|~board.namu.wiki
@@ -57,23 +57,23 @@ meeco.kr#?#.adsbygoogle:remove()
 !
 jimnong.tistory.com##.adblock-on
 ||ssulwar.com/dev/modules/board/skins/*/js/adblockblock.js$redirect=noopjs
-ssulwar.com#%#//scriptlet("abort-current-inline-script", "document.getElementById", "adblock")
+ssulwar.com#%#//scriptlet('abort-current-inline-script', 'document.getElementById', 'adblock')
 !#if (adguard_app_ios || adguard_ext_safari)
 @@||ad.smartmediarep.com/NetInsight/video/$domain=mbn.co.kr
 ||ad.smartmediarep.com/NetInsight/video/$redirect=nooptext,domain=mbn.co.kr,important
 @@||smrmembers-smr.smartmediarep.com/smc/smrmembers/$domain=mbn.co.kr
 !#endif
 ||ad.smartmediarep.com/NetInsight/video/$redirect=nooptext,domain=mbn.co.kr
-detegice.github.io#%#//scriptlet("abort-on-property-read", "$.prototype.fadeIn")
+detegice.github.io#%#//scriptlet('abort-on-property-read', '$.prototype.fadeIn')
 ilsangt.tistory.com##.adblock-on
-ilsangt.tistory.com#%#//scriptlet("abort-current-inline-script", "$", ".adsense-area")
-tistory.com#%#//scriptlet("abort-current-inline-script", "$", "div.adsbygoogle")
+ilsangt.tistory.com#%#//scriptlet('abort-current-inline-script', '$', '.adsense-area')
+tistory.com#%#//scriptlet('abort-current-inline-script', '$', 'div.adsbygoogle')
 jimnong.tistory.com,uda1004.tistory.com,webtv.dothome.co.kr,te31.com,koreapas.com,maniac-game.tistory.com,web1907.tistory.com#@#.adsbygoogle
-genshin.gamedot.org#%#//scriptlet("prevent-setTimeout", "timerAdChecker")
+genshin.gamedot.org#%#//scriptlet('prevent-setTimeout', 'timerAdChecker')
 genshin.gamedot.org##[style*="background-image:"][style*="module/genshinmaps/asset/image/"]:not([id]):not([class])
 ||genshin.gamedot.org/module/genshinmaps/asset/image/adblock-line
 ||genshin.gamedot.org/module/genshinmaps/asset/image/ab-line
-sogirl.so#%#//scriptlet("set-constant", "DHAntiAdBlocker", "true")
+sogirl.so#%#//scriptlet('set-constant', 'DHAntiAdBlocker', 'true')
 !#if adguard_app_ios
 @@||sogirl.so/wp-content/plugins/dh-anti-adblocker/public/js/ads-prebid.js
 !#endif
@@ -81,16 +81,16 @@ sogirl.so#%#//scriptlet("set-constant", "DHAntiAdBlocker", "true")
 @@||ad.smartmediarep.com/NetInsight/video/smr$domain=programs.sbs.co.kr|allclip.sbs.co.kr|mplay.mk.co.kr|static.cloud.sbs.co.kr
 @@||op.gg^$generichide
 ||adimg.nate.com/img/*?n=$redirect=2x2-transparent.png,domain=tv.nate.com
-noonnu.cc#%#//scriptlet("prevent-xhr", "pagead2.googlesyndication.com/pagead/js/adsbygoogle.js")
+noonnu.cc#%#//scriptlet('prevent-xhr', 'pagead2.googlesyndication.com/pagead/js/adsbygoogle.js')
 @@||t1.daumcdn.net/adfit/static/kp.js$domain=laftel.net
 @@||asset.laftel.net/static/assets/googleads-advertisement.js$domain=laftel.net
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=google-ima3,domain=laftel.net
-focuskr.tistory.com#%#//scriptlet("abort-current-inline-script", "addEventListener", "fuckadblock.min.js")
-singingdalong.blogspot.com#%#//scriptlet("abort-current-inline-script", "$", "#ad_center")
+focuskr.tistory.com#%#//scriptlet('abort-current-inline-script', 'addEventListener', 'fuckadblock.min.js')
+singingdalong.blogspot.com#%#//scriptlet('abort-current-inline-script', '$', '#ad_center')
 jtbc.co.kr#@#.adBanner
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=nooptext,domain=spotvnow.co.kr
 @@||googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=op.gg
-stockinfo7.com#%#//scriptlet("prevent-setTimeout", "ad.innerHTML.replace")
+stockinfo7.com#%#//scriptlet('prevent-setTimeout', 'ad.innerHTML.replace')
 ||cdn.kollhong.com/wp-content/custom-js/fuckadblock.min.js
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=noopjs,domain=game.hotsharegames.com
 ||www3.doubleclick.net/|$redirect=nooptext,domain=blackkiwi.net
@@ -99,7 +99,7 @@ persnacons.tistory.com#@#.topAD
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ff14angler.com
 uda1004.tistory.com,exey.io,ff14angler.com#@#ins.adsbygoogle
 singingdalong.blogspot.com,sajuplus.net##.adsense-alt
-tistory.com,sajuplus.net#%#//scriptlet("set-constant", "checkAds", "noopFunc")
+tistory.com,sajuplus.net#%#//scriptlet('set-constant', 'checkAds', 'noopFunc')
 ! foreign website
 play.aidungeon.io,tamrieltradecentre.com,downloads.descendant.me,html5.gamedistribution.com,paraphraser.io,sekai-kabuka.com,teemo.gg,xtremestream.co#@#ins.adsbygoogle
 !
