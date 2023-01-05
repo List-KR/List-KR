@@ -1,3 +1,4 @@
+blockchainhub.kr#$#.bch-main-wrapper > .right-cont { margin-right: calc(50% - 180px) !important; width: 100% !important; }
 ppss.kr#$#.content { width: 100% !important; }
 wowtv.co.kr#$#.article-ad ~ p[style][class^="title"] { margin-top: 100px !important; }
 kidkids.net#$#div[class^="main"]#middle_area .academy.fleft:not(.iyua) { margin-left: calc(11.5%) !important; }

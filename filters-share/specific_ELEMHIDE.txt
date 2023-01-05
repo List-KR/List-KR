@@ -19,7 +19,7 @@ bigkinds.or.kr,hungryapp.co.kr,rhythmer.net##div[class$="Banner"]
 ! ##div[class$="banner"]
 sports.chosun.com,dcinside.com##div[class$="banner"]
 ! ##div[class$="-banner"]
-cineaste.co.kr,jpaxnet.co.kr,bigkinds.or.kr,toomics.com,ilbe.com##div[class$="-banner"]
+blockchainhub.kr,cineaste.co.kr,jpaxnet.co.kr,bigkinds.or.kr,toomics.com,ilbe.com##div[class$="-banner"]
 ! ##div[class^="banner"]
 bgchang.co.kr,edit.incruit.com,m.hungryapp.co.kr,m.edaily.co.kr,m.news1.kr##div[class^="banner"]
 ! ##div[class$="-ad"]
@@ -367,7 +367,7 @@ m.joynews24.com##hr[style].blank
 joynews24.com,inews24.com##ad
 playcraft.tistory.com##.module.module_plugin a[href*="//coinone.co.kr/user/signup?ref="]
 playcraft.tistory.com##.module.module_plugin a[href*="//link.coupang.com/"]
-wowtv.co.kr,mobiinside.co.kr,phdkim.net,quasarzone.com##div[class*="-banner-"]
+blockchainhub.kr,wowtv.co.kr,mobiinside.co.kr,phdkim.net,quasarzone.com##div[class*="-banner-"]
 minimap.net##div[class*="-ad"]:not(.container):not([style])
 minimap.net##.feed-list-wrap .feed-item-wrap-SPONSORED
 mediatoday.co.kr##div[id^="popup_"][style]
