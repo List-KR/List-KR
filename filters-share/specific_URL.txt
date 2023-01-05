@@ -450,7 +450,6 @@
 ||ilogen.com/static/images/m/min_n_g.png
 ||danawa.com/jehu/selectNBP.json
 ||www.danawa.com/NBP/powerLink.php
-||zicf.inven.co.kr/RealMedia/ads/
 ||firebasestorage.googleapis.com/v0/b/kimchi-premium.appspot.com/o/banner-imgs
 ||mdtoday.co.kr/news/adlink.html$document
 ||mdtoday.co.kr/support/_updata/banner
@@ -547,7 +546,6 @@
 ||yeongnam.com/web/js/statAd.js
 ||yeongnam.com/mnt/webdata/ad/
 ||5donews.co.kr/layouts/5donews/images/banner/
-||asiae.co.kr/RealMedia/ads/
 ||image.ajunews.com/images/site/img/ads/
 ||r.yna.co.kr/ad/
 ||play.acs.wecandeo.com/html/*/player/src/ad/adManager.js
