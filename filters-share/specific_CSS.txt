@@ -112,7 +112,6 @@ googlewph.com,gyeomipang.co.kr#$##primary { width: 100% !important }
 www.ebs.co.kr#$#.ebs_item .inner > div[class] { width: 50% !important; }
 megabox.co.kr#$#header.main-header { top: 0px !important; }
 quasarzone.com#$#.bot-content-area .mid-util-wrap > div { width: calc(50% - 5px) !important; }
-m.inven.co.kr#$##mainSlider { padding-bottom: 0px !important; }
 tgd.kr#$##header-menu-left { border-right: none !important; }
 tgd.kr#$##header-menu-right { float: right !important; border-left: none !important; }
 edit.incruit.com#$#.errorlay .new-login-warp { padding-top: 20px !important; margin-left: calc(50% - 232.5px) !important; }

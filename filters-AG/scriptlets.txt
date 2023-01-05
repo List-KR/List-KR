@@ -15,7 +15,6 @@ uwayapply.com#%#//scriptlet('set-constant', 'admode', '0')
 tvchosun.com#%#//scriptlet('set-constant', 'player.advertisement_finished', 'true')
 cfnews.kr#%#//scriptlet('abort-current-inline-script', 'window.open', '/gears/popup/default.aspx')
 sjtoday.kr#%#//scriptlet('abort-current-inline-script', 'window.open', 'notice_view_html.php')
-inven.co.kr#%#//scriptlet('set-constant', 'INVEN.Ad', 'undefined')
 filetender.com#%#//scriptlet('prevent-setTimeout', '', '15000')
 search.11st.co.kr#%#//scriptlet('set-constant', 'searchDataFactory.bottomFocusPrdList', 'undefined')
 search.11st.co.kr#%#//scriptlet('set-constant', 'searchDataFactory.focusPrdList', 'undefined')
@@ -41,7 +40,6 @@ pandora.tv#%#//scriptlet('set-constant', 'isnoad_banner', 'true')
 search.11st.co.kr#%#//scriptlet('set-constant', 'searchDataFactory.plusPrdList', 'undefined')
 imbc.com#%#//scriptlet('set-constant', 'vrixadsdk', 'undefined')
 ~coupang.com,~coupangcdn.com#%#//scriptlet('set-constant', 'PartnersCoupang', 'undefined')
-m.inven.co.kr#%#//scriptlet('set-constant', 'MOBILE.Ad', 'null')
 !
 ! DOMAIN-REFRESHER: START
 !

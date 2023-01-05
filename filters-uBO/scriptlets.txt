@@ -14,7 +14,6 @@ uwayapply.com##+js(set, admode, 0)
 tvchosun.com##+js(set, player.advertisement_finished, true)
 cfnews.kr##+js(acis, window.open, /gears/popup/default.aspx)
 sjtoday.kr##+js(acis, window.open, notice_view_html.php)
-inven.co.kr,~m.inven.co.kr##+js(set, INVEN.Ad, undefined)
 filetender.com##+js(nostif, , 15000)
 search.11st.co.kr##+js(set, searchDataFactory.bottomFocusPrdList, undefined)
 search.11st.co.kr##+js(set, searchDataFactory.focusPrdList, undefined)
@@ -40,7 +39,6 @@ pandora.tv##+js(set, isnoad_banner, true)
 search.11st.co.kr##+js(set, searchDataFactory.plusPrdList, undefined)
 imbc.com##+js(set, vrixadsdk, undefined)
 ~coupang.com,~coupangcdn.com##+js(set, PartnersCoupang, undefined)
-m.inven.co.kr##+js(set, MOBILE.Ad, null)
 !
 ! DOMAIN-REFRESHER: START
 !

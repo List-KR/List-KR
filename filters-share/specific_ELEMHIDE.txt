@@ -371,7 +371,6 @@ blockchainhub.kr,wowtv.co.kr,mobiinside.co.kr,phdkim.net,quasarzone.com##div[cla
 minimap.net##div[class*="-ad"]:not(.container):not([style])
 minimap.net##.feed-list-wrap .feed-item-wrap-SPONSORED
 mediatoday.co.kr##div[id^="popup_"][style]
-www.inven.co.kr##.invenbanner
 m.tf.co.kr###artContent > div[style]:not([class])
 m.tf.co.kr##div[class^="AD_"]
 m.tf.co.kr##ul[class$="Ad"]
@@ -433,7 +432,6 @@ club.pdpop.com##div[id^="lftwing"]
 www.ebs.co.kr##div[class^="codad_ban"]
 www.ebs.co.kr##.evt_area
 www.ebs.co.kr##div[class$="_popup"]
-inven.co.kr##div[id^="imid_"].banner
 boannews.com##div[style~="#D5D5D5;"][style~="border-bottom:1px"]
 boannews.com##div[id$="_bn_area"]
 memberssl.auction.co.kr,hankyung.com,megabox.co.kr##div[class*="-ad"]:not(.container):not([style])

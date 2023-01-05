@@ -1,3 +1,4 @@
+||inven.co.kr/*/lib/js/zicf*.js
 ||blockchainhub.kr/data/apms/background/
 ||inven.co.kr/common/lib/js/ad_$script
 /^https?:\/\/m\.humoruniv\.com\/(img|images)\/.+\.(html|php)/$xmlhttprequest
