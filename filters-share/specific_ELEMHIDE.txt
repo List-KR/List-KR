@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+modoocode.com##div[class*="adsense-"]
 m.enuri.com##div[style*=" "]#mainLayer
 m.enuri.com##.m_main_top_banner
 enuri.com##.right--inner > div[class^="bnr_"]
