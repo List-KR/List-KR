@@ -748,7 +748,6 @@ ytn.co.kr##.article > span[style] > #hns_mask
 ytn.co.kr##iframe[src^="/inc_banner/"]
 m.danawa.com##div.power_link
 m.coupang.com##div[id^="sdp-"][id$="-banner"]
-m.clien.net##div[class$="_ad "]
 news.tf.co.kr###posLeft > div[style~="width100%;font-size:"][style~="#ececec;margin-bottom:"]
 news.tf.co.kr##iframe[src^="/public/ad/"]
 tf.co.kr##iframe[src*="tf.co.kr/public/layout/"][src*="/top_menu_bar_"][src*=".php"]

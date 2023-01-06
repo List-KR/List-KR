@@ -1,3 +1,4 @@
+||clien.net/service/js/app*/clien.hongbo.js
 /^https?:\/\/m\.humoruniv\.com\/(img|image)[A-z0-9-%]*\/.+\.(html|php)/$xmlhttprequest
 ||disco.re/detail/get_area_timeline_top_list/
 ||disco.re/detail/getAreaAdSale/
@@ -412,7 +413,6 @@
 /^https:\/\/shop\.nate\.com\/shopbox\/shopbox.+&svcpage=news/
 ||shop.nate.com/shopbox/shopbox_ad_controller_
 /^https:\/\/(comm\.|m\.)?news\.nate\.com\/(etc|Etc)\/[A-z]*(ad|Ad|AD)[A-z]*/
-||clien.net/service/api/hongbo/
 ||shop-redapi.daum.net/red-apigate/shopad/
 ||t1.daumcdn.net/kas/static/ka-middle-ad-event-handler.js
 ||t1.kakaocdn.net/gamepub/daumgame/gamebar/
