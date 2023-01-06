@@ -1,3 +1,5 @@
+||disco.re/detail/get_area_timeline_top_list/
+||disco.re/detail/getAreaAdSale/
 /^https?:\/\/m\.humoruniv\.com\/(img|image)(s|)\/.+\.(html|php)/$xmlhttprequest
 ||thebook.io/img/banners/
 ||inven.co.kr/*/lib/js/zicf*.js
