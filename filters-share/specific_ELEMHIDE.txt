@@ -523,7 +523,7 @@ op.gg##header ~ div[class^="css-"] > div.search-contaienr ~ div[class^="css-"]
 danawa.com##.main__grid.main__grid--line .main__grid__right
 dpg.danawa.com##div[id*="_ad_"] ~ div[style^="min-height"]
 thistime.ca,dpg.danawa.com##div[id*="-ad-"]
-m.place.naver.com,styleup.gameangel.com,wowtv.co.kr,news.zum.com,news.naver.com,dpg.danawa.com##div[id*="_ad_"]
+biz.chosun.com,m.place.naver.com,styleup.gameangel.com,wowtv.co.kr,news.zum.com,news.naver.com,dpg.danawa.com##div[id*="_ad_"]
 thelec.kr##div[onclick^="wcs.event("]
 m.star.mt.co.kr###content > div[style^="background:"][class]
 news.nate.com##div[class*="ad"]
