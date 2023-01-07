@@ -1,4 +1,4 @@
-||clien.net/service/js/app*/clien.hongbo.js
+||clien.net/service/api/hongbo/
 /^https?:\/\/m\.humoruniv\.com\/(img|image)[A-z0-9-%]*\/.+\.(html|php)/$xmlhttprequest
 ||disco.re/detail/get_area_timeline_top_list/
 ||disco.re/detail/getAreaAdSale/
