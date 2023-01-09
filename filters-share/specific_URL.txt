@@ -631,9 +631,10 @@
 ||loader2.fmkorea.com/_myphp/adpost/content_new.php
 ||loader.fmkorea.com/_loader/
 ||ssl.pstatic.net/tveta/libs/
+||genshin.gamedot.org/module/genshinmaps/asset/image/ab-2211-*.png^
 !
 ! DOMAIN-REFRESHER: START
-! 
+!
 /^https:\/\/[a-z0-9\.]*torrentdia[0-9]+\.com\/data\/to_list\//
 ||ifh.cc^$domain=tkr177.com|tkr178.com|tkr179.com|tkr180.com|tkr181.com|tkr182.com|tkr183.com|tkr184.com|tkr185.com|tkr186.com|tkr187.com|tkr188.com
 ||blogger.googleusercontent.com/img/b/$domain=tkr177.com|tkr178.com|tkr179.com|tkr180.com|tkr181.com|tkr182.com|tkr183.com|tkr184.com|tkr185.com|tkr186.com|tkr187.com|tkr188.com
