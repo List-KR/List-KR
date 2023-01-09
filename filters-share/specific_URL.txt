@@ -631,7 +631,6 @@
 ||loader2.fmkorea.com/_myphp/adpost/content_new.php
 ||loader.fmkorea.com/_loader/
 ||ssl.pstatic.net/tveta/libs/
-||genshin.gamedot.org/module/genshinmaps/asset/image/ab-2211-*.png^
 !
 ! DOMAIN-REFRESHER: START
 !

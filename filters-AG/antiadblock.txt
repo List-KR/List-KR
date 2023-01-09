@@ -55,6 +55,7 @@ meeco.kr#?#.adsbygoogle:remove()
 @@||namu.wiki/$subdocument,script,domain=namu.wiki
 !#endif
 !
+genshin.gamedot.org#%#//scriptlet("prevent-setTimeout", "adblockChecker")
 jimnong.tistory.com##.adblock-on
 ||ssulwar.com/dev/modules/board/skins/*/js/adblockblock.js$redirect=noopjs
 ssulwar.com#%#//scriptlet('abort-current-inline-script', 'document.getElementById', 'adblock')

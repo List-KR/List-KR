@@ -23,6 +23,7 @@ te31.com#@#.textAd
 te31.com#@#.text_ad
 te31.com#@#.text_ads
 !
+||genshin.gamedot.org/module/genshinmaps/asset/image/ab-2211-*.
 @@||klauncher.kr/theme/NB-Basic/storage/image/logo-logo.png#ad&adv_keywords=
 @@||klauncher.kr^$generichide
 @@||jimnong.tistory.com^$generichide

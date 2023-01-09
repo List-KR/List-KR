@@ -33,6 +33,7 @@ meeco.kr#?#.adsbygoogle:remove()
 @@||namu.news/$frame,script,domain=namu.wiki|~board.namu.wiki
 @@||namu.wiki/$frame,script,domain=namu.wiki|~board.namu.wiki
 !
+genshin.gamedot.org##+js(nostif, adblockChecker)
 jimnong.tistory.com##.adblock-on
 ||ssulwar.com/dev/modules/board/skins/*/js/adblockblock.js
 ssulwar.com##+js(acis, document.getElementById, adblock)
