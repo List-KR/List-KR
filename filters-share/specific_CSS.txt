@@ -1,3 +1,4 @@
+genshin.gamedot.org#$##mapsContainer > .maps-content { top: 125px !important; }
 m.inven.co.kr#$#.mo-new-header .header .show-ads { max-height: 54px !important; }
 blockchainhub.kr#$#.bch-main-wrapper > .right-cont { margin-right: calc(50% - 180px) !important; width: 100% !important; }
 ppss.kr#$#.content { width: 100% !important; }
@@ -28,7 +29,6 @@ haninvegas.com#$#body[data-elementor-device-mode="desktop"] div[itemprop="mainCo
 news.jtbc.co.kr#$#.news_doc #footer { position: static !important; }
 etoland.co.kr#$#div[class^="gather-"][class$="_middle"] { padding-bottom: 35px !important; }
 sundaynewsusa.com#$#.td-is-sticky > .wpb_wrapper { top: 0px !important; }
-genshin.gamedot.org#$##mapsContent > .maps-content { top: 125px !important; }
 news.oasisfeed.com#$#.hideBtn { display: none !important; }
 news.oasisfeed.com#$##newsBody { height: auto !important; }
 ydailynewsis.blogspot.com#$#a[href*="//link.coupang.com/"][type] { display: none !important; }
