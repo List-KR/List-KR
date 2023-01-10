@@ -1,4 +1,4 @@
-/^https?:\/\/(?!web\/)[0-9A-z-%]+\.humoruniv\.com\/(?!board\/)[A-z0-9-%]+\/[A-z0-9-%]+\.(php|html)$/$xmlhttprequest,script
+/^http:\/\/(?!web\.)[0-9A-z-%]+\.humoruniv\.com\/(?!board\/)[A-z0-9-%]+\/[A-z0-9-%]+\.(php|html)$/$match-case,xmlhttprequest,script
 ||m.humoruniv.com/banner/
 ||m.humoruniv.com/js/adpost
 /skin/images/banner$domain=xn--ok0bj0i6sfoyp9no.com
