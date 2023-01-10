@@ -1,3 +1,4 @@
+m.humoruniv.com#?#form[action*="boardexp/"] ~ *:not(style):not(script):has(a[href*=".searchad.naver.com"])
 enuri.com#?#.trendpickup__container > .trendtab-cont:has(p.badge--ad):remove()
 enuri.com#?#.trendtabs__list > li[data-adv_yn="Y"]:remove()
 joongna.com#?#main > section[class^="css-"]:has(h2 > svg > path[d*="5.348H8.27579C8.48279"])
