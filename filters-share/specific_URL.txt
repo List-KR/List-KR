@@ -35,7 +35,6 @@
 ||img.wowtv.co.kr/MainManage/
 ||vop.co.kr/templates/adv/
 ||vop.co.kr/templates/admanager/
-||images.ddengle.com/files/attach/images/11138262/
 ||gameangel.com/System/html/iframe/common_banner.php
 ||media.a-ha.io/aha-qna/assets/common/$image
 ||media.a-ha.io/aha-qna/dd/$image

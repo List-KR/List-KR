@@ -1,3 +1,4 @@
+ddengle.com#?#table.bd_lst tr[data-document-srl]:has(.ad_gray)
 m.humoruniv.com#?#form[action*="boardexp/"] ~ *:not(style):not(script):has([onclick*="=="] .c_displayUrl)
 enuri.com#?#.trendpickup__container > .trendtab-cont:has(p.badge--ad):remove()
 enuri.com#?#.trendtabs__list > li[data-adv_yn="Y"]:remove()
