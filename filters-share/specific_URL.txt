@@ -1,4 +1,3 @@
-||m.humoruniv.com/banner/
 ||m.humoruniv.com/js/adpost
 /skin/images/banner$domain=xn--ok0bj0i6sfoyp9no.com
 ||clien.net/service/api/hongbo/

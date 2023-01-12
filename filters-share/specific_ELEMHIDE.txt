@@ -73,7 +73,6 @@ hogaeng.co.kr##div[class^="sponsor"]
 enuri.com,nongmin.com##div[class*="_bnr"]
 windnews.cafe24.com##div[id^="brave_popup_"]
 windnews.cafe24.com##div[style*=" "]#showtoday
-m.humoruniv.com##div[id*="ggeal"]
 ppss.kr###genesis-sidebar-primary
 kmug.co.kr##header ~ #_hidden_layer_
 kmug.co.kr##div[id^="pop-layer-"]
