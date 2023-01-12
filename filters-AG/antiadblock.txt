@@ -43,7 +43,8 @@ meeco.kr#$#.xe_content { opacity: 1 !important; }
 meeco.kr#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com/pagead/js/adsbygoogle.js')
 meeco.kr#%#//scriptlet('abort-current-inline-script', '$', '.adsbygoogle')
 meeco.kr#?#.adsbygoogle:remove()
-! namu.wiki
+! Umanle S.R.L
+@@||arca.live^$generichide
 @@||newliweb.com/$subdocument,script,domain=namu.wiki|~board.namu.wiki
 @@||arca.live/$subdocument,script,domain=namu.wiki|~board.namu.wiki
 @@||namu.news/$subdocument,script,domain=namu.wiki|~board.namu.wiki
