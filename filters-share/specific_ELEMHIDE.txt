@@ -168,7 +168,6 @@ quasarzone.com##div[id*="_"][class*="-"][class^="bidrich-"]
 asked.kr##div[id$="ad"][class$="ad"]
 asked.kr##div[id^="ads"][style]
 asked.kr###cards > div[class*="_"]:not([id]).card
-m.humoruniv.com###content_info #read_profile_td ~ td:not([id])
 m.humoruniv.com##.comment_best_wrap ~ div[id][style^="min-height:"]
 m.humoruniv.com##table[class^="ad_"]
 m.humoruniv.com##div[id*="_"] div[class][style*="min-height:"]
