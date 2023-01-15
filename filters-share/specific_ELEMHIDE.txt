@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+m.munhwa.com##section[class$="_ad"]
 topstarnews.net##header .dis-table > div[style^="padding-top:"].dis-table-cell
 m.humoruniv.com###comment div[style^="font-size:"]:not([style*=" "])
 thebook.io##section[id$="_banner"]
@@ -496,7 +497,6 @@ comic.naver.com##.wt_viewer .preview_store
 ohli24.net##nav ~ .at-title
 aagag.com##.la
 m.nocutnews.co.kr###pnlContainer .con_b >.ct_box:not([style])
-m.munhwa.com###news_content > div[style]
 fmkorea.com###sidebar div[style^="height:"]:not(.li)
 te31.com##table.adsbygoogle ~ table #honey > div[style^="background-color:"]:not([class])
 te31.com###contentmemo ~ .adsbygoogle > div[style^="background-color:"]
