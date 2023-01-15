@@ -383,7 +383,6 @@
 ||m.11st.co.kr/MW/html/nc/getGNBTextListAjax.js|
 ||image-comic.pstatic.net/mobilewebimg/*/*/contents_banner_MOBILE_$image
 ||image-comic.pstatic.net/webtoon/*/*/contents_banner_$image
-/^https:\/\/ohli24\.net\/img\/[0-9]{4}\/[A-z]+\.[a-z]{3}$/
 ||dpg.danawa.com/news/powerLink|
 ||3p.ampproject.net/*/vendor/dable.js
 ||cdn.ampproject.org/v0/amp-ad-*.js
@@ -633,6 +632,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/^https:\/\/ohli24\.[a-z]+\/img\/[0-9]{4}\/[A-z]+\.[a-z]{3}$/
 /^https:\/\/[a-z0-9\.]*torrentdia[0-9]+\.com\/data\/to_list\//
 ||ifh.cc^$domain=tkr177.com|tkr178.com|tkr179.com|tkr180.com|tkr181.com|tkr182.com|tkr183.com|tkr184.com|tkr185.com|tkr186.com|tkr187.com|tkr188.com
 ||blogger.googleusercontent.com/img/b/$domain=tkr177.com|tkr178.com|tkr179.com|tkr180.com|tkr181.com|tkr182.com|tkr183.com|tkr184.com|tkr185.com|tkr186.com|tkr187.com|tkr188.com
