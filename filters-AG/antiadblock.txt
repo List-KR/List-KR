@@ -56,9 +56,8 @@ meeco.kr#?#.adsbygoogle:remove()
 @@||namu.wiki/$subdocument,script,domain=namu.wiki
 !#endif
 !
-starrykss.tistory.com##.adblock-on
+starrykss.tistory.com,ilsangt.tistory.com,jimnong.tistory.com,webtv.dothome.co.kr##.adblock-on
 genshin.gamedot.org#%#//scriptlet("prevent-setTimeout", "adblockChecker")
-jimnong.tistory.com##.adblock-on
 ||ssulwar.com/dev/modules/board/skins/*/js/adblockblock.js$redirect=noopjs
 ssulwar.com#%#//scriptlet('abort-current-inline-script', 'document.getElementById', 'adblock')
 !#if (adguard_app_ios || adguard_ext_safari)
@@ -68,7 +67,6 @@ ssulwar.com#%#//scriptlet('abort-current-inline-script', 'document.getElementByI
 !#endif
 ||ad.smartmediarep.com/NetInsight/video/$redirect=nooptext,domain=mbn.co.kr
 detegice.github.io#%#//scriptlet('abort-on-property-read', '$.prototype.fadeIn')
-ilsangt.tistory.com##.adblock-on
 ilsangt.tistory.com#%#//scriptlet('abort-current-inline-script', '$', '.adsense-area')
 tistory.com#%#//scriptlet('abort-current-inline-script', '$', 'div.adsbygoogle')
 starrykss.tistory.com,jimnong.tistory.com,uda1004.tistory.com,webtv.dothome.co.kr,te31.com,koreapas.com,maniac-game.tistory.com,web1907.tistory.com#@#.adsbygoogle
@@ -93,7 +91,6 @@ stockinfo7.com#%#//scriptlet('prevent-setTimeout', 'ad.innerHTML.replace')
 ||cdn.kollhong.com/wp-content/custom-js/fuckadblock.min.js
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=noopjs,domain=game.hotsharegames.com
 ||www3.doubleclick.net/|$redirect=nooptext,domain=blackkiwi.net
-webtv.dothome.co.kr##.adblock-on
 persnacons.tistory.com#@#.topAD
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ff14angler.com
 uda1004.tistory.com,exey.io,ff14angler.com#@#ins.adsbygoogle
