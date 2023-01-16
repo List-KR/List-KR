@@ -1,3 +1,4 @@
+game.naver.com#?#div[class*="_contentBody"] main > .undefined:has(> div[class*="_Banner_"])
 tenasia.hankyung.com#?#div[data-key="page1"].swipe-layers .wrap .banner_con li:has(a[href*="//io1.innorame.com/"])
 ddengle.com#?#table.bd_lst tr[data-document-srl]:has(.ad_gray)
 enuri.com#?#.trendpickup__container > .trendtab-cont:has(p.badge--ad):remove()
