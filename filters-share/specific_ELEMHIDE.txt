@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+oracionspace.com,poketory.com##.revenue_unit_wrap
 m.humoruniv.com##div[style]:not([style*=" "])#content_info > div[id][style*="position:"]
 m.humoruniv.com##*[id*="_"] div[id*="_"][style*="box-sizing:"] > div[style^="width:"][class*=" "]
 topstarnews.net##div[class^="Ad"]
@@ -226,7 +227,6 @@ koreatimes.net##div[class] > div[class^="post-style"] ~ .rn_block
 www.koreatimes.net##aside > .obituaries-wrapper.recent_news_inner
 news.oasisfeed.com##[id$="Banner"]
 plankim.com###primary-content > .magic-item-w
-poketory.com##article > .revenue_unit_wrap
 poketory.com##article > .inner ~ b
 aladin.co.kr###welcome_center > div:not([class]):not([style]):not([id])
 aladin.co.kr###welcome_Right > .evntall
@@ -506,7 +506,6 @@ te31.com###menu_right.adsbygoogle
 te31.com##table.adsbygoogle ~ table[style^="min-height:"]
 te31.com###bbs > table[style^="color:#"] ~ div[style*="padding:"][style*="border-left"]
 mksports.co.kr###container_right > div[id^="slot"]
-oracionspace.com##aside > .revenue_unit_wrap
 search.11st.co.kr##.search_content section.search_section[data-log-actionid-area="recommend"]
 search.11st.co.kr##.search_content section.search_section[data-log-actionid-area="focus"]
 search.11st.co.kr##.search_content section.search_section[data-log-actionid-area="power"]
