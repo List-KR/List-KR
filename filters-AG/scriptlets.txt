@@ -3,7 +3,6 @@ watchfreejavonline.co#%#//scriptlet('abort-current-inline-script', 'popMagic.ini
 !
 m.humoruniv.com#%#//scriptlet('abort-current-inline-script', '$.prototype.html', '_ad.gif')
 m.humoruniv.com#%#//scriptlet('abort-on-stack-trace', '$.ajax', '/ch[0-9]+_submit/')
-tgd.kr#%#//scriptlet('remove-attr', 'style', 'html[style^="background-image:"][style*="upload.tgd.kr"]')
 sbs.co.kr#%#//scriptlet('set-constant', 'player.renderAdSequence', 'undefined')
 domin.co.kr#%#//scriptlet('set-constant', 'bannerpop.popup', 'noopFunc')
 www.naver.com#%#//scriptlet('set-cookie', 'NM_TOP_PROMOTION', '1')
