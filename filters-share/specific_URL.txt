@@ -1,3 +1,4 @@
+||magazine.hankyung.com/magazine_images/banner/
 /https?:\/\/live\.staticflickr\.com\/65535\/[0-9]{11}_[a-z0-9]{10}_o\./$match-case
 ||m.humoruniv.com/banner/
 ||m.humoruniv.com/js/adpost
