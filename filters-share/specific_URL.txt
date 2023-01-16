@@ -433,7 +433,6 @@
 ||appdata.hungryapp.co.kr/event/mobi/
 ||image.ygosu.com/images/ico_ad_black.png
 /^https:\/\/ssp\.igaw\.io\/bak\/[0-9]{3}x[0-9]{2}\./
-/^https:\/\/nng-phinf\.pstatic\.net\/[A-z0-9]{16}\/[A-z0-9.-]{110}\.[A-Z]{3,4}\/APP-/
 ||ssl.pstatic.net/melona/libs/
 ||images.coocha.co.kr/static/images/deal/ad.png
 ||ilbe.com/oa/loader.js
