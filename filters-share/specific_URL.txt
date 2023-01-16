@@ -485,7 +485,7 @@
 ||res.afreecatv.com/script/da/af_da_block.js
 ||res.afreecatv.com/script/da/ad_check.js
 ||ojsfile.ohmynews.com/BBS_ADM_FILE/
-||hankyung.com/resource/js/w/view.ads.js
+||hankyung.com/resource/js/*/view.ads.js
 ||issue.dcinside.com/wp-content/plugins/advanced-ads
 ||upto.tk/ads.html
 ||m.ytn.co.kr/ad/
@@ -535,7 +535,6 @@
 ||static.danawa.com/globaljs/static/adweb_counter_danawa.min.js
 ||mobile.newsis.com/ad_list/
 ||img.hani.co.kr/section-image/*/mobile/image/icon/btn_ADclose.png
-||hankyung.com/resource/js/m/view.ads.js
 ||google.com/adsense/
 ||m.news1.kr/template/ads/
 ||image.news1.kr/system/ads_t/
@@ -570,7 +569,6 @@
 ||image.munhwa.com/www/banner/
 ||img.mk.co.kr/mk/1/*/right_middle/
 ||bloomingbit-media.*.amazonaws.com/real/banner/
-||hankyung.com/js/ad_top.js
 ||static.hankyung.com/img/logo/spr-footer-sponsor.svg
 ||img.segye.com/static/*_segye/resources/js/ad/
 ||img.segye.com/static/*_segye/resources/js/google_AD.js
