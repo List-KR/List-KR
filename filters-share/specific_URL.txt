@@ -1,3 +1,6 @@
+||static.hankyung.com/img/tenasia/w/banners/
+||side.mythiell.com/readUrl.php?url=https://ad.mapy.co.kr/
+||side.mythiell.com/tenasiaAd
 ||magazine.hankyung.com/magazine_images/banner/
 /https?:\/\/live\.staticflickr\.com\/65535\/[0-9]{11}_[a-z0-9]{10}_o\./$match-case
 ||m.humoruniv.com/banner/
