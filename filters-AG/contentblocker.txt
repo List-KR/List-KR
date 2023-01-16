@@ -24,6 +24,7 @@ te31.com#@#.textAd
 te31.com#@#.text_ad
 te31.com#@#.text_ads
 !
+starrykss.tistory.com##.adblock-on
 ||genshin.gamedot.org/module/genshinmaps/asset/image/ab-2211-*.
 @@||klauncher.kr/theme/NB-Basic/storage/image/logo-logo.png#ad&adv_keywords=
 @@||klauncher.kr^$generichide
@@ -47,7 +48,7 @@ ilsangt.tistory.com#@#.adsense-area
 @@||tab2.clickmon.co.kr/pop/wp_ad_$script,domain=ilsangt.tistory.com
 @@||clickmon.co.kr/ADVER_server/ad_view/pop_ad.php$subdocument,domain=ilsangt.tistory.com
 clickmon.co.kr##html *
-lovelywoman.tistory.com,foodvaccine.tistory.com,dailyhoroscope.tistory.com,web1907.tistory.com#@#.adsbygoogle
+starrykss.tistory.com,lovelywoman.tistory.com,foodvaccine.tistory.com,dailyhoroscope.tistory.com,web1907.tistory.com#@#.adsbygoogle
 @@||ssl.pstatic.net/tveta/libs/ssp-video/prod/ssp.web.sdk_$script,domain=m.sports.naver.com
 @@||fafan.kr^$genericblock
 @@||poketory.com^$genericblock
