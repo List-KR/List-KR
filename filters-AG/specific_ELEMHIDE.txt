@@ -1,5 +1,7 @@
 !#if (adguard_ext_android_cb || adguard_app_ios)
-m.humoruniv.com##*[id][class] > div[class$="wrab"] table[width]
+m.humoruniv.com###read > div[style*="z-index:"]
+m.humoruniv.com##span[style*="font-weight:"] div ~ *[id^="li_"]
+m.humoruniv.com##*[id][class] > div[class*="wra"] table[width]
 !#endif
 !#if adguard_app_windows
 funbe202.com,funbe203.com,funbe204.com,funbe205.com,funbe206.com,funbe207.com,funbe208.com,funbe209.com,funbe210.com,funbe211.com,funbe212.com,funbe213.com,funbe214.com,funbe215.com,funbe216.com##img[src^="/images/"]

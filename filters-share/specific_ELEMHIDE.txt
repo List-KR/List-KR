@@ -61,8 +61,6 @@ yes24.com##div[id$="_Ad"]
 !
 tenasia.hankyung.com##div[data-key="page1"].swipe-layers .wrap .banner_img .banner1
 tistory.com,oracionspace.com,poketory.com##.revenue_unit_wrap
-m.humoruniv.com##div[style]:not([style*=" "])#content_info > div[id][style*="position:"]
-m.humoruniv.com##*[id*="_"] div[id*="_"][style*="box-sizing:"] > div[style^="width:"][class*=" "]
 topstarnews.net##div[class^="Ad"]
 news.mt.co.kr##.aside_bundle > div[style*="height:"]
 m.munhwa.com##section[class$="_ad"]
