@@ -1,3 +1,4 @@
+||categorysort.com^$document
 /^https:\/\/nng-phinf\.pstatic\.net\/.+\/[%A-z0-9]*[0-9]+(x|X)[0-9]+.*_naverads\./$match-case
 ||yeskey.or.kr/bnr-img/
 ||static.hankyung.com/img/tenasia/w/banners/
