@@ -1,3 +1,4 @@
+msearch.wemakeprice.com#?#article[data-list-container="searchList"] li:has(span:has-text(AD).gray_round_badge)
 search.wemakeprice.com#?#.search_box_listdeal > .list_conts_wrap:has(span:has-text(AD).round_badge)
 eomisae.co.kr#?#main#main .eq.section #bd table tr:has(.no ~ .title span:has-text([AD]))
 dt.co.kr#?#.right_aside > *:not([class*="_"]):not([class^="aside"]):has(~ .right_bx)

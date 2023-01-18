@@ -59,6 +59,8 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+mw.wemakeprice.com##div[data-bottom-banner]
+mw.wemakeprice.com##div[data-list-wrapper="ad"]
 front.wemakeprice.com###_rollingBanner
 front.wemakeprice.com###_topBannerContainer
 front.wemakeprice.com###_contents div[data-container="bigBanner"]
