@@ -59,6 +59,10 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+front.wemakeprice.com###_rollingBanner
+front.wemakeprice.com###_topBannerContainer
+front.wemakeprice.com###_contents div[data-container="bigBanner"]
+search.wemakeprice.com##.search_box_listdeal > .aiplus
 tenasia.hankyung.com##div[data-key="page1"].swipe-layers .wrap .banner_img .banner1
 tistory.com,oracionspace.com,poketory.com##.revenue_unit_wrap
 topstarnews.net##div[class^="Ad"]

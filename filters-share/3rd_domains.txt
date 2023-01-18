@@ -1,3 +1,4 @@
+||wmars-client.wemakeprice.com^
 ||displayad.lotteon.com^
 ||io.smartmyd.com^
 ||zumads.vrixon.com^
