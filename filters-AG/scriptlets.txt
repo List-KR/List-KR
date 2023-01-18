@@ -1,7 +1,7 @@
 ! PopMagic
 watchfreejavonline.co#%#//scriptlet('abort-current-inline-script', 'popMagic.init')
 !
-m.humoruniv.com#%#//scriptlet('abort-current-inline-script', '$.prototype.html', '/\/images\/[A-z0-9-_]+\.gif/')
+m.humoruniv.com#%#//scriptlet('abort-current-inline-script', '$.prototype.html', '/\/images\/[A-z0-9-_]+\.jpg/')
 m.humoruniv.com#%#//scriptlet('prevent-setTimeout', '/[A-z0-9_]+\(ch[0-9]+_[A-z0-9]+\)/')
 sbs.co.kr#%#//scriptlet('set-constant', 'player.renderAdSequence', 'undefined')
 domin.co.kr#%#//scriptlet('set-constant', 'bannerpop.popup', 'noopFunc')
