@@ -1,4 +1,3 @@
-||categorysort.com^$document
 /^https:\/\/nng-phinf\.pstatic\.net\/.+\/[%A-z0-9]*[0-9]+(x|X)[0-9]+.*_naverads\./$match-case
 ||yeskey.or.kr/bnr-img/
 ||static.hankyung.com/img/tenasia/w/banners/
@@ -442,7 +441,6 @@
 /^https?:\/\/playwares\.com\/files\/attach\/images\/[0-9]{8}\/[0-9]{3}\/[0-9]{3}\/[0-9]{3}\/[a-z0-9]{32}\./
 ||kormedi.com/wp-content/uploads/ads/
 /^https:\/\/shop[0-9]\.daumcdn\.net\/shophow\/sib\/[0-9]_[0-9]{12}_[A-z]{10,}/
-||trendpick.shopping.naver.com^$document
 /^https:\/\/image[0-9]{1,2}\.compuzone\.co\.kr\/img\/images\/main[0-9]{4}\/[A-z]{1,2}\/[A-z]{3,}Banner(|[0-9])_(|add_)[0-9]{5,6}\./
 ||daumcdn.net/tistory/927313/skin/images/book_300_poster.png
 ||img.peterpanz.com/images/banner/adimUpload/
@@ -491,10 +489,7 @@
 ||issue.dcinside.com/wp-content/plugins/advanced-ads
 ||upto.tk/ads.html
 ||m.ytn.co.kr/ad/
-||ad.planbplus.co.kr^$document
 ||static.coupangcdn.com/image/vendor_inventory/$domain=10000recipe.com
-||nefing.com^$document
-||api.linkmine.co.kr^$document
 ||djtimes.co.kr/banner/
 ||gginews.co.kr/data/gginews_co_kr/banner/
 ||mangacat.cc/mainhover/
