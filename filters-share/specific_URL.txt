@@ -1,3 +1,4 @@
+||wjdqhzld.com/wp-content/plugins/advanced-ads-pro/
 ||m-economynews.com/data/banner/
 /^https?:\/\/view[0-9]+\.wemep\.co\.kr\/wmp-banner\/[0-9]{2}\/[0-9]{6}\/[0-9]{2}\//$match-case
 /^https?:\/\/view[0-9]+\.wemep\.co\.kr\/wmp-main\/[0-9]{2}\/[0-9]{6}\/[0-9]{2}\/(pmt|pmb)_[a-z0-9]{12}\./$match-case
