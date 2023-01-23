@@ -1,3 +1,4 @@
+||ifh.cc^$domain=m-sooriya.tistory.com
 ||wjdqhzld.com/wp-content/plugins/advanced-ads-pro/
 ||m-economynews.com/data/banner/
 /^https?:\/\/view[0-9]+\.wemep\.co\.kr\/wmp-banner\/[0-9]{2}\/[0-9]{6}\/[0-9]{2}\//$match-case
