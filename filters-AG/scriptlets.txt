@@ -35,6 +35,8 @@ cultureland.co.kr#%#//scriptlet('abort-on-property-read', 'checkCookie', 'popup_
 m.danawa.com#%#//scriptlet('set-constant', 'DANAWA_MOBILE_AD_MANAGER', 'emptyObj')
 naver.com#%#//scriptlet('set-constant', 'getAdcrUrl', '')
 koreapas.com#%#//scriptlet('set-constant', 'random_imglink', 'noopFunc')
+pandora.tv#%#//scriptlet('set-constant', 'isnoad_vod', 'true')
+pandora.tv#%#//scriptlet('set-constant', 'isnoad_banner', 'true')
 search.11st.co.kr#%#//scriptlet('set-constant', 'searchDataFactory.plusPrdList', 'undefined')
 imbc.com#%#//scriptlet('set-constant', 'vrixadsdk', 'undefined')
 ~coupang.com,~coupangcdn.com#%#//scriptlet('set-constant', 'PartnersCoupang', 'undefined')
