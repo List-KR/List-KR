@@ -6,6 +6,8 @@
 
 </details>
 
+힌국어로 AdGuard나 uBlock Origin 또는 List-KR에 대해 아시고 싶으신 점이 있으신가요? [List-KR Wiki에 방문](https://github.com/List-KR/List-KR/wiki)해보세요.
+
 ---
 
 List-KR filter is a filter for websites in Korean language, to be used with [AdGuard](https://adguard.com) ad blocker and [uBlock Origin](https://github.com/gorhill/uBlock).

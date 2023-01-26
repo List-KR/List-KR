@@ -1,5 +1,9 @@
 # List-KR
 
+힌국어로 AdGuard나 uBlock Origin 또는 List-KR에 대해 아시고 싶으신 점이 있으신가요? [List-KR Wiki에 방문](https://github.com/List-KR/List-KR/wiki)해보세요.
+
+---
+
 List-KR 필터는 [AdGuard](https://adguard.com) 광고 차단기와 [uBlock Origin](https://github.com/gorhill/uBlock)과 함께 사용되는 한국어 웹 사이트용 필터입니다.
 
 List-KR 필터는 광고 [^1]와 안티-애드블록을 필터하는 것을 목표로 합니다.
