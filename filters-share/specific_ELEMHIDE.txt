@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+bonik.me###banner
 rdsong.com##.entry-content > div[style*="height:"]
 thewordcracker.com##.et_bloom_popup
 wjdqhzld.com##div[id^="wjdqh"]
