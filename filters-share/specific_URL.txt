@@ -1,3 +1,5 @@
+|
+||toptrend.blog/wp-content/plugins/advanced-ads-pro/
 ||gobest.co.kr/img*/cp-ad
 ||gobest.co.kr/img*/coupang-
 ||thewordcracker.com/wp-content/uploads/*/maintenance$image
