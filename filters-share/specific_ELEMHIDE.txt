@@ -47,7 +47,7 @@ dpg.danawa.com,m.hani.co.kr##div[id*="-ad"]
 ! ##div[id*="Ad"]
 m.seoul.co.kr##div[id*="Ad"]
 ! ##div[class*="ad_"]
-vop.co.kr,donga.com,paxnet.co.kr##div[class*="ad_"]
+philgo.com,vop.co.kr,donga.com,paxnet.co.kr##div[class*="ad_"]
 ! ##div[class*="ad-"]
 lol.ps##div[class*="ad-"]
 ! ##div[id^="Banner"]
@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+philgo.com##.content .left-wing > div
 quasarzone.com##div[role="main"] > .logo-area
 vitaminhealth.kr##iframe[data-ezsrc*="//coupa.ng/"]
 gentlysallim.com##div[class^="ai-viewport-"]
