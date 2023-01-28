@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+quasarzone.com##div[role="main"] > .logo-area
 vitaminhealth.kr##iframe[data-ezsrc*="//coupa.ng/"]
 gentlysallim.com##div[class^="ai-viewport-"]
 toptrend.blog##div[id^="toptr-"]
@@ -466,7 +467,6 @@ bada.io##div[id*="amazon_shopping"]
 quasarzone.com##div[class*="search-"] > .price-compare-srch
 quasarzone.com##.mid-content-area .left-util-wrap .bot-util-area
 quasarzone.com##.bot-content-area .mid-util-wrap .right-util-area
-quasarzone.com###container .logo-area
 m.inven.co.kr##section.mo-top-nav ~ div[class^="mobileDaNs"]
 m.inven.co.kr##section.mo-top-nav ~ div[style]:not([id])
 m.inven.co.kr##div[id^="mobileTailAd"]
