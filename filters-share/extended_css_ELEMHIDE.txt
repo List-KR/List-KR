@@ -148,6 +148,8 @@ postshare.co.kr#?#div[id][class][style]:has(> .impactify-player-container)
 11st.co.kr#?##recommend_top:has(> .side > div > div.c_adtext)
 mosen.mt.co.kr#?#section.textList > article.row:has(> ul.aritcle-info > li.title > a[href*="//adv.imadrep.co.kr/"])
 berryjam.co.kr#?#table[width="1200"]:has(> tbody > tr > td > div[class*="slider-banner-"])
+jlpt.or.kr#?#tr:has(> td > a:matches-attr("href"="/\/inc\/banner_view\.php/")) 
+jlpt.or.kr#?#tr:has(> td > a:matches-attr("href"="/\/inc\/banner_view\.php/"))+tr
 !
 ! DOMAIN-REFRESHER: START
 !

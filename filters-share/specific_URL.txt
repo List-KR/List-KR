@@ -753,5 +753,6 @@
 /^https:\/\/newtoki[0-9]+\.com\/tokinbtoki\/[0-9]{2,}/
 ||toonkor*.com/images/*.gif
 ||wwwimageup.angle777899.com/other/atoona/
+||jlpt.or.kr/banner/
 !
 ! DOMAIN-REFRESHER: END
