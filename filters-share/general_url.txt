@@ -1,3 +1,7 @@
+! Google invaild search result - https://github.com/List-KR/List-KR/issues/598
+/^https:\/\/[A-z\.]*[A-z0-9]+\.[A-z]+\/\?u=[A-z0-9]{7}&o=[A-z0-9]{7}/$document
+/^https:\/\/[A-z]+\.[A-z]+\.[A-z]+\/[A-z]+-robot\/\?pl=[A-z0-9-]{22}&sm=[A-z]+-robot&hash=[A-z0-9-]{22}&exp=[0-9]{10}/$document
+/^https:\/\/[0-9]{9}\.[A-z0-9-]+\.[A-z]{2}\/[0-9]{6}\.html$/$document
 ! ndsoft.co.kr - An internet press hosting service
 /^https?:\/\/[a-z0-9-\.]*[a-z0-9-]+\.[a-z]+\/bannerManager\//$match-case
 /^https?:\/\/[a-z0-9-\.]*[a-z0-9-]+\.[a-z]+\/bannerpop\/uploads\//
