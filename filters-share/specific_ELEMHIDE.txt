@@ -260,8 +260,6 @@ yes24.com##.yPartnerPop
 yes24.com###yWelMid > .yWelPubBook
 joseilbo.com##div[class*="_bn_"]
 m.nownews.seoul.co.kr###Article > div[style]:not([class])
-itworld.co.kr##.section-content > .border-bottom ~ h5[class^="font-color-primary-"]
-itworld.co.kr##.section-content > .border-bottom ~ .node-list
 kyobobook.co.kr##div[class^="search_banner_"]
 kyobobook.co.kr##body > div[class*="_banner_"]
 kyobobook.co.kr##main div[id*="_banner"][id^="welcome_"][class$="_area"]
