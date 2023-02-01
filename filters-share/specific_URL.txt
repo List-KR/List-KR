@@ -644,6 +644,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/^https:\/\/newtoki[0-9]+\.com\/tokinbtoki\/[0-9]+/
 /^https:\/\/manatoki[0-9]+\.net\/tokinbtoki\//
 /^https:\/\/ohli24\.[a-z]+\/img\/[0-9]{4}\/[A-z]+\.[a-z]{3}$/
 /^https:\/\/[a-z0-9\.]*torrentdia[0-9]+\.com\/data\/to_list\//
@@ -751,7 +752,6 @@
 /^https:\/\/imgcloud[0-9]+\.net\//$domain=wfwf248.com|wfwf249.com|wfwf250.com|wfwf251.com|wfwf252.com|wfwf253.com|wfwf254.com|wfwf255.com|wfwf256.com|wfwf257.com|wfwf258.com|wfwf259.com|wfwf260.com
 /^https:\/\/[0-9a-z\.]+\.blogspot\.com\//$domain=blacktoon199.com|blacktoon200.com|blacktoon201.com|blacktoon202.com|blacktoon203.com|blacktoon204.com|blacktoon205.com|blacktoon206.com|blacktoon207.com|blacktoon208.com|blacktoon209.com|blacktoon210.com
 /^https:\/\/blacktoon[0-9]+\.com\/upload\/[0-9]{4}\/[0-9]{4}\/[0-9]{21}/
-/^https:\/\/newtoki[0-9]+\.com\/tokinbtoki\/[0-9]{2,}/
 ||toonkor*.com/images/*.gif
 ||wwwimageup.angle777899.com/other/atoona/
 !
