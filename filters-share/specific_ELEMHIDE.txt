@@ -702,7 +702,6 @@ m.ohmynews.com##iframe[src*="//ojsfile.ohmynews.com/AD_FILE/"]
 dispatch.co.kr###dpArticleBlocksWrapper
 dispatch.co.kr##div[id^="ADOP_"][style]
 m.clien.net##div[id^="naverAd"]
-m.ppomppu.co.kr##iframe[src^="https://m.ppomppu.co.kr/banner/google_ad.html"]
 m.ppomppu.co.kr##div[style]#mainList.community-board-list > ul > li[id$="_ad"][style]:not([class])
 search.danawa.com###productListArea > .goods-list > ul#productListArea_list > li.goods-list__item:not([id]):not([data-itemtype])
 search.danawa.com##.main_prodlist > ul.product_list > li.prod_item:not([id])
@@ -888,7 +887,6 @@ coolenjoy.net##img[src^="https://photo.coolenjoy.co.kr/banner/"]
 quasarzone.com##*:not(footer) > div[class^="main-"][class$="-banner"]
 koreatimes.net,phdkim.net,nongmin.com,hankookilbo.com##div[class^="banner-"]
 etoland.co.kr##ul.board_list > li.subject.ad_subject
-m.ppomppu.co.kr##ul.board-sponsor
 m.ppomppu.co.kr##.google-ad
 m.ppomppu.co.kr##section.shopping-board
 ppomppu.co.kr##tbody > tr[id^="page_show_ad_"]
