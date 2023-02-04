@@ -1,3 +1,4 @@
+||ads.admaru.com^
 ||wmars-client.wemakeprice.com^
 ||displayad.lotteon.com^
 ||io.smartmyd.com^
