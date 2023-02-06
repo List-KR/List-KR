@@ -778,7 +778,7 @@ munhwa.com##img[src*="//image.munhwa.com/www/banner/"]
 mk.co.kr##div[class^="bn_sec"]
 m.ilbe.com##article.cutin-banner
 bloomingbit.io##.promotion
-segye.com##div[id^="wps_layout"][data-desc="텍스트광고"][data-box-file^="/news/box/ad"]
+segye.com##div[id^="wps_layout"][data-desc*="광고"][data-box-file*="/view/box/"]
 avjamak.net##.widget-box.widget-img
 kmib.co.kr##.mn_ad
 hankookilbo.com##.side-ad-box
