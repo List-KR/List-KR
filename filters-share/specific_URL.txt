@@ -1,3 +1,4 @@
+||segyebiz.com/static/segyefn/resources/images/*_ad.
 ||hellot.net/data/cache/public/banner/
 /^https?:\/\/[a-z0-9]+\.soonwe\.com\/[A-z0-9-]+\/ad_[0-9]+_[0-9]+\.js/
 /^https?:\/\/[a-z0-9]+\.soonwe\.com\/[A-z0-9-]+\/wt_[0-9]+_[0-9]+\.html/
