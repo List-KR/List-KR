@@ -34,6 +34,7 @@ meeco.kr#?#.adsbygoogle:remove()
 @@||namu.news/$frame,script,domain=namu.wiki|~board.namu.wiki
 @@||namu.wiki/$frame,script,domain=namu.wiki|~board.namu.wiki
 !
+@@||kpanews.co.kr^$generichide
 starrykss.tistory.com,ilsangt.tistory.com,jimnong.tistory.com,webtv.dothome.co.kr##.adblock-on
 genshin.gamedot.org##+js(nostif, adblockChecker)
 ||ssulwar.com/dev/modules/board/skins/*/js/adblockblock.js
