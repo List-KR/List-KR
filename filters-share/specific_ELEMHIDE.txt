@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+itwind.co.kr###sidebar > div[data-version="2"]#Image5
 m.ygosu.com##.col-xs-12 div[style*="margin-bottom:"]
 segyebiz.com##article > div[id^="wps_layout"] > div[style*="height:"]
 hellot.net##.wrapper > div[style*=" "]#container > div:not([class])
@@ -687,7 +688,7 @@ autopostkorea.com##div[class^="floating_ad_"]
 newreop.com##.app-layout-content > #app-board > .app-board-section > .app-board-container > div[style]:not([class])
 newreop.com##main.app-main > .app-layout-container > .app-layout-content > #app-board > div > div[style]:not([class])
 cuonet.com##div[style~="background-image:"][style*=".cuonet.com/data/apms/background/"].item
-koreatimes.net,op.gg##div[id$="-ad"]
+itwind.co.kr,koreatimes.net,op.gg##div[id$="-ad"]
 minelist.kr##.content.ad
 koreapas.com##img[src^="athe/"]
 koreapas.com##img[src*="koreapas.com/bbs/data/"]

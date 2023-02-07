@@ -1,3 +1,4 @@
+itwind.co.kr#?##footer-wrapper div[id^="footer"].footer:has(img[src*="=s"])
 meeco.kr#?#section#cCon > div[style].xe-widget-wrapper:has(a[style][href^="/Enterprise/"])
 bonik.me#?##sidebar > .module:has(> div[id^="ad"])
 gobest.co.kr#?#table[width][border] td:not([width]):has(div[align="CENTER"] > .adsbygoogle, td[bgcolor] a[href*="//link.coupang.com/"] > img)
