@@ -24,6 +24,10 @@ te31.com#@#.textAd
 te31.com#@#.text_ad
 te31.com#@#.text_ads
 !
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=3dpchip.com
+@@||ads-api.twitter.com/|$domain=3dpchip.com
+@@||ads.pinterest.com/|$domain=3dpchip.com
+@@||sovrn.com/|$domain=3dpchip.com
 @@||kpanews.co.kr^$generichide
 starrykss.tistory.com##.adblock-on
 ||genshin.gamedot.org/module/genshinmaps/asset/image/ab-2211-*.

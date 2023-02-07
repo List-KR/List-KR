@@ -56,6 +56,7 @@ meeco.kr#?#.adsbygoogle:remove()
 @@||namu.wiki/$subdocument,script,domain=namu.wiki
 !#endif
 !
+3dpchip.com#%#//scriptlet("abort-current-inline-script", "chp_ads_blocker_detector")
 @@||kpanews.co.kr^$generichide
 starrykss.tistory.com,ilsangt.tistory.com,jimnong.tistory.com,webtv.dothome.co.kr##.adblock-on
 genshin.gamedot.org#%#//scriptlet("prevent-setTimeout", "adblockChecker")
