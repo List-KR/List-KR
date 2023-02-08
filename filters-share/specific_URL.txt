@@ -566,7 +566,6 @@
 ||fnnews.com/resources/js/fnnewsAd.js
 ||hoppingcall.me/ad_shoppingCallme.php
 ||res.heraldm.com/HeraldResource/doubleuad/
-||edaily.co.kr/resources/js/prebid-ads.js
 ||yeongnam.com/web/js/statAd.js
 ||yeongnam.com/mnt/webdata/ad/
 ||5donews.co.kr/layouts/5donews/images/banner/
