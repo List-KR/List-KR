@@ -397,7 +397,6 @@ playcraft.tistory.com##.module.module_plugin a[href*="//link.coupang.com/"]
 blockchainhub.kr,wowtv.co.kr,mobiinside.co.kr,phdkim.net,quasarzone.com##div[class*="-banner-"]
 minimap.net##div[class*="-ad"]:not(.container):not([style])
 minimap.net##.feed-list-wrap .feed-item-wrap-SPONSORED
-mediatoday.co.kr##div[id^="popup_"][style]
 m.tf.co.kr###artContent > div[style]:not([class])
 m.tf.co.kr##div[class^="AD_"]
 m.tf.co.kr##ul[class$="Ad"]
