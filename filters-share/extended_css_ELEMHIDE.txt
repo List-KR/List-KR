@@ -1,3 +1,4 @@
+gigglehd.com#?##gap > div[style*=": "].xe-widget-wrapper:has(.widget_banner_skin > .banner_list)
 itwind.co.kr#?##footer-wrapper div[id^="footer"].footer:has(img[src*="=s"])
 meeco.kr#?#section#cCon > div[style].xe-widget-wrapper:has(a[style][href^="/Enterprise/"])
 bonik.me#?##sidebar > .module:has(> div[id^="ad"])
