@@ -9,7 +9,6 @@ mimacstudy.com#@#.adinfo
 displayad.naver.com#@#.ad_item
 te31.com#@##gallery-advert
 @@||ad2.shoplinker.co.kr^
-mnews.jtbc.co.kr#@#.ad_bottom
 @@||muirim.com/admin/data/banner/
 @@/^(http|https):\/\/image\.kyobobook\.co\.kr\/ink\/images\/prom\/[0-9]{4}\/general\/[0-9]{6}_dailyCheck\//
 @@||advimg.ad-mapps.com/sdk/js/ver/*/ad_movie_script.js$domain=ichannela.com

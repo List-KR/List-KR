@@ -56,6 +56,7 @@ meeco.kr#?#.adsbygoogle:remove()
 @@||namu.wiki/$subdocument,script,domain=namu.wiki
 !#endif
 !
+mnews.jtbc.co.kr#@#.ad_bottom
 3dpchip.com#%#//scriptlet("abort-current-inline-script", "chp_ads_blocker_detector")
 @@||kpanews.co.kr^$generichide
 starrykss.tistory.com,ilsangt.tistory.com,jimnong.tistory.com,webtv.dothome.co.kr##.adblock-on
@@ -86,7 +87,6 @@ noonnu.cc#%#//scriptlet('prevent-xhr', 'pagead2.googlesyndication.com/pagead/js/
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=google-ima3,domain=laftel.net
 focuskr.tistory.com#%#//scriptlet('abort-current-inline-script', 'addEventListener', 'fuckadblock.min.js')
 singingdalong.blogspot.com#%#//scriptlet('abort-current-inline-script', '$', '#ad_center')
-jtbc.co.kr#@#.adBanner
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=nooptext,domain=spotvnow.co.kr
 @@||googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=op.gg
 stockinfo7.com#%#//scriptlet('prevent-setTimeout', 'ad.innerHTML.replace')

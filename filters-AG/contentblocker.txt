@@ -24,6 +24,7 @@ te31.com#@#.textAd
 te31.com#@#.text_ad
 te31.com#@#.text_ads
 !
+mnews.jtbc.co.kr#@#.ad_bottom
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=3dpchip.com
 @@||ads-api.twitter.com/|$domain=3dpchip.com
 @@||ads.pinterest.com/|$domain=3dpchip.com
@@ -63,7 +64,6 @@ plankim.com##body > div:not([class]):not([id])
 @@||op.gg^$generichide
 @@||withukor.com^$generichide
 meeco.kr#@#.adsbygoogle
-jtbc.co.kr#@#.adBanner
 @@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.min.js$domain=focuskr.tistory.com
 @@||focuskr.tistory.com^$generichide
 @@||blog.dalso.org^$generichide
