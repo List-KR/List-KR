@@ -25,7 +25,7 @@ bgchang.co.kr,edit.incruit.com,m.hungryapp.co.kr,m.edaily.co.kr,m.news1.kr##div[
 ! ##div[class$="-ad"]
 todaysppc.com,gmarket.co.kr,kpenews.com,m.diningcode.com,m.invest.zum.com,insight.co.kr,cgv.co.kr,m.inven.co.kr,tipsandtrickskorea.com,gamemeca.com,yeongnam.com##div[class$="-ad"]
 ! ##div[id^="ad"]
-newdaily.co.kr,nzkoreapost.com,moneys.mt.co.kr,fmkorea.com,newstomato.com,gamemeca.com,m.ohmynews.com,m.khan.co.kr,m.dcinside.com##div[id^="ad"]
+newdaily.co.kr,nzkoreapost.com,moneys.mt.co.kr,fmkorea.com,newstomato.com,gamemeca.com,m.khan.co.kr,m.dcinside.com##div[id^="ad"]
 ! ##div[id^="AD"]
 mediatoday.co.kr,newsworker.co.kr##div[id^="AD"]
 ! ##div[class^="Banner"]
@@ -702,8 +702,7 @@ zum.com##div[class*="_adbox"]
 zum.com##section.container > .cont_wrap > .left_area > #shoppingMenu
 zum.com##section.container > .cont_wrap > .right_area > div:not([class])
 m.ohmynews.com##main#article > .arc_list
-m.fpn119.co.kr,m.ohmynews.com##div[id^="mobitree"]
-m.ohmynews.com##iframe[src*="//ojsfile.ohmynews.com/AD_FILE/"]
+m.fpn119.co.kr##div[id^="mobitree"]
 dispatch.co.kr###dpArticleBlocksWrapper
 dispatch.co.kr##div[id^="ADOP_"][style]
 m.clien.net##div[id^="naverAd"]
