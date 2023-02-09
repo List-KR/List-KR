@@ -59,6 +59,8 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+comic.sportsseoul.com###aside > div[style^="width:"]
+comic.sportsseoul.com##div[id][style] > div[style*="margin-top:"]
 m.mbn.co.kr##div[itemprop="articleBody"].article_info > div[id^="slot"][style^="text-align:"]
 star.mbn.co.kr###newsViewArea div[style^="width:"]:not([originw])
 star.mbn.co.kr###article > div[id^="slot"] table[style^="margin-bottom:"]
