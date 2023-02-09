@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+m.mbn.co.kr##div[itemprop="articleBody"].article_info > div[id^="slot"][style^="text-align:"]
 star.mbn.co.kr###newsViewArea div[style^="width:"]:not([originw])
 star.mbn.co.kr###article > div[id^="slot"] table[style^="margin-bottom:"]
 itwind.co.kr###sidebar > div[data-version="2"]#Image5
