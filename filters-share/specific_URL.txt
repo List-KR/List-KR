@@ -504,7 +504,6 @@
 ||entertainpost.com/wp/wp-content/uploads/newPS/css/sub/right_ad.css
 ||res.afreecatv.com/script/da/af_da_block.js
 ||res.afreecatv.com/script/da/ad_check.js
-||ojsfile.ohmynews.com/BBS_ADM_FILE/
 ||hankyung.com/resource/js/*/view.ads.js
 ||issue.dcinside.com/wp-content/plugins/advanced-ads
 ||upto.tk/ads.html
@@ -538,7 +537,6 @@
 ||koreapas.com/bbs/athe/
 ||search.zumst.com/scripts/zum.search.power*.js
 ||ojsfile.ohmynews.com/AD_FILE/
-||ojsfile.ohmynews.com/CMPT_HTM/
 ||googlesyndication.com/pagead/
 ||api.popin.cc/lib*-lightweight/popIn-*.min.js$domain=dispatch.co.kr
 ||m.ppomppu.co.kr/banner/google_ad.html
@@ -577,7 +575,6 @@
 ||tf.co.kr/public/ad/
 ||img.tf.co.kr/img/tfad/
 ||ojsimg.ohmynews.com/*_ad_rolling.htm
-||ojsfile.ohmynews.com/ADSVC_FILE/
 ||image.dnews.co.kr/uhtml/images/banner/
 ||image.munhwa.com/www/banner/
 ||img.mk.co.kr/mk/1/*/right_middle/

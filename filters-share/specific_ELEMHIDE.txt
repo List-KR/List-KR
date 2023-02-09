@@ -775,7 +775,6 @@ tf.co.kr##iframe[src*="//nad.tf.co.kr/"]
 m.naver.com,tf.co.kr##div[id$="_AD"]
 ohmynews.com##.content > ul.ad_area
 ohmynews.com##div[class^="m_ad"]
-ohmynews.com##iframe[src*="//ojsimg.ohmynews.com/"][src*="_ad_rolling.htm"]
 munhwa.com##img[src*="//image.munhwa.com/www/banner/"]
 mk.co.kr##div[class^="bn_sec"]
 m.ilbe.com##article.cutin-banner
