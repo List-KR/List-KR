@@ -34,6 +34,7 @@ meeco.kr#?#.adsbygoogle:remove()
 @@||namu.news/$frame,script,domain=namu.wiki|~board.namu.wiki
 @@||namu.wiki/$frame,script,domain=namu.wiki|~board.namu.wiki
 !
+tsuvod.com##+js(aopr, tsuvodAds1)
 mnews.jtbc.co.kr#@#.ad_bottom
 3dpchip.com##+js(acis, chp_ads_blocker_detector)
 @@||kpanews.co.kr^$generichide

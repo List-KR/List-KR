@@ -56,6 +56,11 @@ meeco.kr#?#.adsbygoogle:remove()
 @@||namu.wiki/$subdocument,script,domain=namu.wiki
 !#endif
 !
+tsuvod.com#%#//scriptlet('abort-on-property-read', 'tsuvodAds1')
+!#if (adguard_app_ios)
+@@||tsuvod.com/data/utep_ad.js
+@@||tsuvod.com/data/yzfdmoan.js
+!#endif
 mnews.jtbc.co.kr#@#.ad_bottom
 3dpchip.com#%#//scriptlet("abort-current-inline-script", "chp_ads_blocker_detector")
 @@||kpanews.co.kr^$generichide
