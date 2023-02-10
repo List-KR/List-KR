@@ -1,3 +1,4 @@
+news.heraldcorp.com#$#.article_area > .article_left { width: 100% !important; }
 pushoong.com#$#.ask_hamburger_wrapper { top: 0px !important; }
 pushoong.com#$#.ask_wrapper.not_host { top: 0px !important; }
 pushoong.com#$#.ask_wrapper .ask_title_zone { top: 0px !important; }

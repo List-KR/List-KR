@@ -11,7 +11,7 @@ ebn.co.kr,paxnet.co.kr,ajl.co.kr,yhinews.com,funshop.co.kr,m.sedaily.com,bloter.
 ! ##div[class$="_banner"]
 fomos.kr,styleup.gameangel.com,yakup.com,jjan.kr,mitem.auction.co.kr,knnews.co.kr,m.joseilbo.com,m.mt.co.kr,etoland.co.kr,order.kyobobook.co.kr,newstomato.com,newsen.com,toomics.com,m.ytn.co.kr,djtimes.co.kr,mdjournal.kr,zum.com,windowsforum.kr,dcnewsj.joins.com,berryjam.co.kr##div[class$="_banner"]
 ! ##div[class^="ad"]
-lalawin.com,badayak.com,ujnews.co.kr,realty.chosun.com,koreadaily.com,interpark.com,it.chosun.com,m.fmkorea.com,maple.gg,ytn.co.kr,www.ebs.co.kr,newsis.com,search.danawa.com,m.newsen.com,peterpanz.com,jwmx.tistory.com,thespike.co.kr,hobbyen.co.kr,socialvalue.kr,entertainpost.com,m.moneys.mt.co.kr,basketkorea.com,m.ohmynews.com,biz.heraldcorp.com,slrclub.com##div[class^="ad"]
+news.heraldcorp.com,lalawin.com,badayak.com,ujnews.co.kr,realty.chosun.com,koreadaily.com,interpark.com,it.chosun.com,m.fmkorea.com,maple.gg,ytn.co.kr,www.ebs.co.kr,newsis.com,search.danawa.com,m.newsen.com,peterpanz.com,jwmx.tistory.com,thespike.co.kr,hobbyen.co.kr,socialvalue.kr,entertainpost.com,m.moneys.mt.co.kr,basketkorea.com,m.ohmynews.com,biz.heraldcorp.com,slrclub.com##div[class^="ad"]
 ! ##div[class^="banner_"]
 m.fomos.kr,m.kin.naver.com,jjan.kr,m.sports.naver.com,newspic.kr,www.ebs.co.kr,search.11st.co.kr,prod.danawa.com,auth.danawa.com,socialvalue.kr,news.jtbc.co.kr,etoland.co.kr,ajunews.com,mk.co.kr##div[class^="banner_"]
 ! ##div[class$="Banner"]
@@ -59,6 +59,8 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+news.heraldcorp.com##.article_area > .article_right
+news.heraldcorp.com###_popIn_recommend
 m.betanews.net##center > div[style*="margin:"]
 vod.sportsseoul.com##div[id][style] > div[style*="margin-top:"]
 comic.sportsseoul.com###aside > div[style^="width:"]
@@ -551,7 +553,7 @@ op.gg##header ~ div[class^="css-"] > div.search-contaienr ~ div[class^="css-"]
 danawa.com##.main__grid.main__grid--line .main__grid__right
 dpg.danawa.com##div[id*="_ad_"] ~ div[style^="min-height"]
 thistime.ca,dpg.danawa.com##div[id*="-ad-"]
-biz.chosun.com,m.place.naver.com,styleup.gameangel.com,wowtv.co.kr,news.zum.com,news.naver.com,dpg.danawa.com##div[id*="_ad_"]
+news.heraldcorp.com,biz.chosun.com,m.place.naver.com,styleup.gameangel.com,wowtv.co.kr,news.zum.com,news.naver.com,dpg.danawa.com##div[id*="_ad_"]
 thelec.kr##div[onclick^="wcs.event("]
 m.star.mt.co.kr###content > div[style^="background:"][class]
 news.nate.com##div[class*="ad"]
