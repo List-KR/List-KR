@@ -1,3 +1,4 @@
+||shoppingcall.me^
 ||googletagservices.com^
 ||bidr.io^
 ||bidswitch.net^
