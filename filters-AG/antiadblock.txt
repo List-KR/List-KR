@@ -33,7 +33,7 @@ luckyquiz3.blogspot.com#%#//scriptlet('abort-current-inline-script', 'document.c
 ! meeco.kr
 !#if (adguard_app_ios)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=meeco.kr
-meeco.kr#@#ins.adsbygoogle
+@@||meeco.kr^$generichide
 meeco.kr#@#.adsbygoogle
 !#endif
 !#if (adguard_ext_safari)
