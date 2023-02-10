@@ -1,3 +1,4 @@
+||betanews.net/banner.html
 ||star.mbn.co.kr/js/artsnews_ad.js
 /^https:\/\/blogger\.googleusercontent\.com\/img\/a\/[A-z0-9_-]+=s[0-9]+$/$domain=itwind.co.kr
 ||data.ygosu.com/ygosu_data/banner_img/
