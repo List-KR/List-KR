@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+news2day.co.kr##div[data-layout-area*="_AD"]
 m.beyondpost.co.kr##.wrap * + div[style*=";margin"]
 cnews.beyondpost.co.kr##.wr2_lt > div[class^="pcbview"][style*="margin-bottom:"]
 coronaita.com##.MuiGrid-item button[style^="background-color:"].MuiButtonBase-root
@@ -878,7 +879,7 @@ now.rememberapp.co.kr##.now_content_ads__wrapper
 m.ilbe.com##.banner-wrap
 clien.net###coupangAd
 ppomppu.co.kr##tr > td div.bridge
-m.yakup.com,ypbooks.co.kr,asiatime.co.kr,www.ebs.co.kr,news.nate.com,boribori.co.kr##div[class*="_banner"]
+news2day.co.kr,m.yakup.com,ypbooks.co.kr,asiatime.co.kr,www.ebs.co.kr,news.nate.com,boribori.co.kr##div[class*="_banner"]
 boribori.co.kr##.bFloatingBanner
 ondisk.co.kr##div[id^="wingBanner-"]
 etoland.co.kr##div[class^="power_link_"]
