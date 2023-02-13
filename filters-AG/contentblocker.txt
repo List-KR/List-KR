@@ -24,6 +24,7 @@ te31.com#@#.textAd
 te31.com#@#.text_ad
 te31.com#@#.text_ads
 !
+@@||sysnet.pe.kr^$generichide
 @@||tsuvod.com/data/utep_ad.js
 @@||tsuvod.com/data/yzfdmoan.js
 mnews.jtbc.co.kr#@#.ad_bottom

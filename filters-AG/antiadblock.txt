@@ -56,6 +56,10 @@ meeco.kr#?#.adsbygoogle:remove()
 @@||namu.wiki/$subdocument,script,domain=namu.wiki
 !#endif
 !
+sysnet.pe.kr#%#//scriptlet('abort-on-stack-trace', 'CSS2Properties.prototype.getPropertyValue', 'setTimeout')
+!#if (adguard_app_ios)
+@@||sysnet.pe.kr^$generichide
+!#endif
 tsuvod.com#%#//scriptlet('abort-on-property-read', 'tsuvodAds1')
 !#if (adguard_app_ios)
 @@||tsuvod.com/data/utep_ad.js
