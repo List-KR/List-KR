@@ -1,3 +1,4 @@
+||shinmoongo.net/data/shinmoongo_net/banner/
 ||cdn.news2day.co.kr/data1/resources/banner/
 ||nimage.newsway.co.kr/banner/
 ||coronaita.com/static/media/*_banner
