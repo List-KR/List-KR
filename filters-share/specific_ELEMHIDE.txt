@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+m.sedaily.com##div[class^="mythiell-mid-container"]
 m.yna.co.kr##div[class^="content"] > #detailMostReply + aside[class^="aside-box"][class*=" bg"]
 theguru.co.kr##div[itemprop="articleBody"] > div[style*="margin-"]:not([class])
 news2day.co.kr##div[data-layout-area*="_AD"]
