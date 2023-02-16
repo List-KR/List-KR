@@ -68,7 +68,7 @@ tsuvod.com#%#//scriptlet('abort-on-property-read', 'tsuvodAds1')
 mnews.jtbc.co.kr#@#.ad_bottom
 3dpchip.com#%#//scriptlet("abort-current-inline-script", "chp_ads_blocker_detector")
 @@||kpanews.co.kr^$generichide
-starrykss.tistory.com,ilsangt.tistory.com,jimnong.tistory.com,webtv.dothome.co.kr##.adblock-on
+ilsangt.tistory.com##.adblock-on
 genshin.gamedot.org#%#//scriptlet("prevent-setTimeout", "adblockChecker")
 ||ssulwar.com/dev/modules/board/skins/*/js/adblockblock.js$redirect=noopjs
 ssulwar.com#%#//scriptlet('abort-current-inline-script', 'document.getElementById', 'adblock')
@@ -81,7 +81,7 @@ ssulwar.com#%#//scriptlet('abort-current-inline-script', 'document.getElementByI
 detegice.github.io#%#//scriptlet('abort-on-property-read', '$.prototype.fadeIn')
 ilsangt.tistory.com#%#//scriptlet('abort-current-inline-script', '$', '.adsense-area')
 tistory.com#%#//scriptlet('abort-current-inline-script', '$', 'div.adsbygoogle')
-starrykss.tistory.com,jimnong.tistory.com,uda1004.tistory.com,webtv.dothome.co.kr,te31.com,koreapas.com,maniac-game.tistory.com,web1907.tistory.com#@#.adsbygoogle
+uda1004.tistory.com#@#ins.adsbygoogle
 sogirl.so#%#//scriptlet('set-constant', 'DHAntiAdBlocker', 'true')
 !#if adguard_app_ios
 @@||sogirl.so/wp-content/plugins/dh-anti-adblocker/public/js/ads-prebid.js
