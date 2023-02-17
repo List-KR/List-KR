@@ -651,6 +651,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/^https:\/\/jgmoa[0-9]+\.com\/upload_files\/popup\//
 /^https:\/\/newtoki[0-9]+\.com\/tokinbtoki\/[0-9]+/
 /^https:\/\/manatoki[0-9]+\.net\/tokinbtoki\//
 /^https:\/\/ohli24\.[a-z]+\/img\/[0-9]{4}\/[A-z]+\.[a-z]{3}$/
