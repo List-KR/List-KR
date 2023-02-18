@@ -34,6 +34,7 @@ meeco.kr#?#.adsbygoogle:remove()
 @@||namu.news/$frame,script,domain=namu.wiki|~board.namu.wiki
 @@||namu.wiki/$frame,script,domain=namu.wiki|~board.namu.wiki
 !
+1412.rest##+js(aost, jQuery.prototype.css, check_adBlock)
 sysnet.pe.kr##+js(aost, CSS2Properties.prototype.getPropertyValue, setTimeout)
 tsuvod.com##+js(aopr, tsuvodAds1)
 mnews.jtbc.co.kr#@#.ad_bottom

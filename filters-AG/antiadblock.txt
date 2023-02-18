@@ -56,6 +56,10 @@ meeco.kr#?#.adsbygoogle:remove()
 @@||namu.wiki/$subdocument,script,domain=namu.wiki
 !#endif
 !
+1412.rest#%#//scriptlet('abort-on-stack-trace', 'jQuery.prototype.css', 'check_adBlock')
+!#if (adguard_app_ios)
+1412.rest#@##google_ads
+!#endif
 sysnet.pe.kr#%#//scriptlet('abort-on-stack-trace', 'CSS2Properties.prototype.getPropertyValue', 'setTimeout')
 !#if (adguard_app_ios)
 @@||sysnet.pe.kr^$generichide
