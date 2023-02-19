@@ -7,7 +7,7 @@ on:
 
 jobs:
   SelfRandom:
-    runs-on: [self-hosted, random]
+    runs-on: ubuntu-latest
     permissions:
       actions: write
     steps:
