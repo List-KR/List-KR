@@ -3,7 +3,8 @@ name: 'Run SelfRandom'
 on:
   schedule:
     - cron: '* 0/4 * * *'
-  repository_dispatch
+  repository_dispatch:
+    types: [on-repository-dispatch]
 
 jobs:
   SelfRandom:
