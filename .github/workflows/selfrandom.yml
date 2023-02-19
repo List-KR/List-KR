@@ -18,7 +18,7 @@ jobs:
           npm link @actions/core
           npm link @octokit/rest
       - name: Run SelfRandom
-        uses: List-KR/selfrandom@v1.0.1
+        uses: List-KR/selfrandom@v1.0.2
         with:
           gitHubtoken: ${{ github.token }}
           reponame: ${{ github.repository }}
