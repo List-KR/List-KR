@@ -14,10 +14,10 @@ jobs:
     steps:
       - name: Link NPM packages
         run: |
-        npm link typescript
-        npm link @types/node
-        npm link @actions/core
-        npm link @octokit/rest
+          npm link typescript
+          npm link @types/node
+          npm link @actions/core
+          npm link @octokit/rest
       - name: Run SelfRandom
         uses: List-KR/selfrandom@v1
         with:
