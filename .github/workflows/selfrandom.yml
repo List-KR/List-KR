@@ -3,7 +3,10 @@ name: 'Run SelfRandom'
 on:
   schedule:
     - cron: '* 0/4 * * *'
-  workflow_dispatch
+  workflow_dispatch:
+    inputs:
+      gitHubtoken: ${{ github.token }}
+      reponame: ${{ github.repository }}
 
 jobs:
   SelfRandom:
