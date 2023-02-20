@@ -1,3 +1,4 @@
+/^https:\/\/www\.busan\.com\/nas\/wcms\/public\/pc\/images\/new\/[0-9]+[a-z]+\.gif/
 ||edudonga.com/data/banner/
 ||img.asiatoday.co.kr/adver/
 ||dcinside.com/_js/ad_keyword_powLink.js
