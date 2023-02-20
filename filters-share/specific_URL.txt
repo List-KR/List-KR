@@ -1,3 +1,5 @@
+||json*.dcinside.com/json*/app_ad_charge.php
+||dcinside.com/_js/ad_keyword_powLink.js
 ||joseilbo.com/Ent/banner/
 ||starjn.com/data/starjn_com/banner/
 ||viva100.com/main/images/banner/
