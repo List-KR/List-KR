@@ -899,7 +899,7 @@ newspim.com##aside.side_wrap > div[style^="height:"]
 newspim.com##.topbanner
 namu.wiki##iframe[src*="//arca.live/static/ad/"]
 mmzone.co.kr###main_premium_spon_block
-dt.co.kr,m.etoday.co.kr,mnews.sbs.co.kr,mbn.co.kr,cgv.co.kr,mmzone.co.kr##div[id$="_ad"]
+edu.donga.com,dt.co.kr,m.etoday.co.kr,mnews.sbs.co.kr,mbn.co.kr,cgv.co.kr,mmzone.co.kr##div[id$="_ad"]
 2cpu.co.kr##a[href*="./bbs/banner_link.php?"]
 ruliweb.com##div[id^="adsense_"]
 mlbpark.donga.com##div[class*="naver_power"]
