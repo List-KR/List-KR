@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+postshare.co.kr##body > div[style^="position:fixed;"][style*="z-index:9999"][style*="width:"]
 commutil.kr##.mdsns_reply > div[style^="margin-bottom:"]
 starjn.com##.td_sub_read_contents > div[style]
 m.sedaily.com##div[class^="mythiell-mid-container"]
