@@ -34,6 +34,7 @@ meeco.kr#?#.adsbygoogle:remove()
 @@||namu.news/$frame,script,domain=namu.wiki|~board.namu.wiki
 @@||namu.wiki/$frame,script,domain=namu.wiki|~board.namu.wiki
 !
+somenotes247.blogspot.com#@#.vertical-ads
 1412.rest#@##google_ads
 sysnet.pe.kr##+js(aost, CSS2Properties.prototype.getPropertyValue, setTimeout)
 tsuvod.com##+js(aopr, tsuvodAds1)

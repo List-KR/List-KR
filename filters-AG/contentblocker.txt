@@ -24,6 +24,7 @@ te31.com#@#.textAd
 te31.com#@#.text_ad
 te31.com#@#.text_ads
 !
+somenotes247.blogspot.com#@#.vertical-ads
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=1412.rest
 1412.rest#@##google_ads
 @@||sysnet.pe.kr^$generichide
