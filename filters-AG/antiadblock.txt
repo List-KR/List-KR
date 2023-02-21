@@ -82,7 +82,6 @@ ssulwar.com#%#//scriptlet('abort-current-inline-script', 'document.getElementByI
 ||ad.smartmediarep.com/NetInsight/video/$redirect=nooptext,domain=mbn.co.kr
 detegice.github.io#%#//scriptlet('abort-on-property-read', '$.prototype.fadeIn')
 ilsangt.tistory.com#%#//scriptlet('abort-current-inline-script', '$', '.adsense-area')
-tistory.com#%#//scriptlet('abort-current-inline-script', '$', 'div.adsbygoogle')
 uda1004.tistory.com#@#ins.adsbygoogle
 sogirl.so#%#//scriptlet('set-constant', 'DHAntiAdBlocker', 'true')
 !#if adguard_app_ios

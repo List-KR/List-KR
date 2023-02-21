@@ -48,7 +48,6 @@ ssulwar.com##+js(acis, document.getElementById, adblock)
 ||ad.smartmediarep.com/NetInsight/video/$redirect=noop.txt,domain=mbn.co.kr
 detegice.github.io##+js(aopr, $.prototype.fadeIn)
 ilsangt.tistory.com##+js(acis, $, .adsense-area)
-tistory.com##+js(acis, $, div.adsbygoogle)
 uda1004.tistory.com#@#ins.adsbygoogle
 sogirl.so##+js(set, DHAntiAdBlocker, true)
 @@||clien.net^$generichide
