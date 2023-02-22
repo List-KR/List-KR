@@ -1,4 +1,3 @@
-||enuri.com/api/adRelay.jsp
 ||watchfreejavonline.co/wp-content/uploads/*.mp4
 /^https:\/\/i0\.wp\.com\/watchfreejavonline\.co\/wp-content\/uploads\/[0-9]+\/[0-9]+\/cropped-favicon-watchfreejav\.png/
 /^https:\/\/www\.busan\.com\/nas\/wcms\/public\/pc\/images\/new\/[0-9]+[a-z]+\.gif/
