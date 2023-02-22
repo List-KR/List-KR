@@ -1,3 +1,5 @@
+||watchfreejavonline.co/wp-content/uploads/*.mp4
+/^https:\/\/i0\.wp\.com\/watchfreejavonline\.co\/wp-content\/uploads\/[0-9]+\/[0-9]+\/cropped-favicon-watchfreejav\.png/
 /^https:\/\/www\.busan\.com\/nas\/wcms\/public\/pc\/images\/new\/[0-9]+[a-z]+\.gif/
 ||edudonga.com/data/banner/
 ||img.asiatoday.co.kr/adver/
@@ -527,7 +529,6 @@
 ||mangacat.cc/mainhover/
 ||a.realsrv.com/ad-provider.js
 ||watchfreejavonline.co/wp-content/uploads/*.gif
-||i0.wp.com/watchfreejavonline.co/wp-content/uploads/
 ||static.javhd.com/h5/files/
 ||mdjournal.kr/banner/
 ||nts.go.kr/images/ad/lgnm/popup/popup_img_openinfo_high.jpg
