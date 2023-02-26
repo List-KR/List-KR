@@ -35,6 +35,7 @@ meeco.kr#?#.adsbygoogle:remove()
 @@||namu.wiki/$frame,script,domain=namu.wiki|~board.namu.wiki
 !
 1412.rest##+js(aost, jQuery.prototype.html, adError)
+1412.rest#$#[class^="document_"].xe_content { height: auto !important; overflow: visible !important; }
 1412.rest#$#.et_vars { height: auto !important; overflow: visible !important; }
 1412.rest#$#.atc_ex { height: auto !important; overflow: visible !important; }
 somenotes247.blogspot.com#@#.vertical-ads
