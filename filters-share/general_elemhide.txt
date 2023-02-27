@@ -8,7 +8,7 @@
 ##iframe[src*="//www.mobwithad.com/"]
 ##iframe[src*="//ad.3dpop.kr/"]
 ##div[id^="div-gpt-"]
-##iframe[src*="//*.clickmon.co.kr/"]
+##iframe[src*=".clickmon.co.kr/"]
 ##a[href*="//ad.planbplus.co.kr/"]
 ##iframe[src*="//api.ezadsystem.com/"]
 ##iframe[src*="//ad.a-ads.com/"]
@@ -54,7 +54,7 @@
 ##iframe[src*="//ad.adinc.kr/"]
 ##iframe[src^="https://api.dable.io/"]
 ##iframe[src*="//ad.reople.co.kr/"]
-##iframe[src*="//*.contentsfeed.com/RealMedia/ads/"]
+##iframe[src*=".contentsfeed.com/RealMedia/ads/"]
 ##iframe[src*="//ads.mncmedia.co.kr/"]
 ##ins.adsbyadop
 ##iframe[src^="https://realdsp.realclick.co.kr"]
