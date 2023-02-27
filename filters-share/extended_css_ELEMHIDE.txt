@@ -1,5 +1,3 @@
-meeco.kr#?#div:not([class]) > div[style].boxA.xe-widget-wrapper:has(.page_unit a[href^="/Enterprise"])
-meeco.kr#?#[class] > div[style*="float:"][style*="left;"].xe-widget-wrapper:has(> div[style^="*zoom"] a[href*="/Enterprise/"])
 enuri.com#?#.m-row > div[class^="col col-"]:not(:has(> .col__inner a:not([href*="ad-api.enuri.info"]))):has(.bnrbox ul[id][class^="bnr__"])
 gigglehd.com#?##gap > div[style*=": "].xe-widget-wrapper:has(.widget_banner_skin > .banner_list)
 itwind.co.kr#?##footer-wrapper div[id^="footer"].footer:has(img[src*="=s"])
