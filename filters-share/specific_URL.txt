@@ -658,6 +658,8 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+||tvchak.live/img/bbnn
+||tvchak.live/img/banner*.gif
 /^https:\/\/jgmoa[0-9]+\.com\/upload_files\/popup\//
 /^https:\/\/newtoki[0-9]+\.com\/tokinbtoki\/[0-9]+/
 /^https:\/\/manatoki[0-9]+\.net\/tokinbtoki\//
