@@ -16,7 +16,7 @@ List-KR 필터는 한국어 웹 사이트와 앱에 집중하며 AdGuard 베이�
 List-KR 필터는 AdGuard 제품들과 uBO에 최적화되어 있습니다.
 따라서, List-KR 필터는 AdBlock Plus와 [유니콘 Pro 광고차단기](https://getunicorn.app/ko)이 고급 문법(예: `$$`, `#%#//scriptlet()`, [`$removeparam`](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#removeparam) and `##+js`)을 지원하지 않기 때문에 그 광고 차단기들에 추가될 수 없습니다.
 게다가, 유니콘 Pro 광고차단기는 디버그에 필요한 필터 편집기를 제공하기 않습니다.
-또한, 유니콘 Pro 광고차단기의 소유자인 유니콘소프트는 애드블록 커뮤니티를 위해 그들의 자체 필터들을 공유하지 않으며 사유 소프트웨어입니다. [더 알아보기](https://velog.io/@piquark6046/truth-of-unicorn-pro)
+또한, 유니콘 Pro 광고차단기의 소유자인 유니콘소프트는 애드블록 커뮤니티를 위해 그들의 자체 필터들을 공유하지 않으며 사유 소프트웨어입니다.
 List-KR 필터는 애드블록 커뮤니티와 AdGuard에 의해 유지보수되어 지고 있습니다.
 
 기술적 문제로 인해 일부 웹사이트들의 방문자는 일부 설명을 따라야 합니다.
@@ -24,7 +24,7 @@ List-KR 필터는 애드블록 커뮤니티와 AdGuard에 의해 유지보수되
 
 만약 추격기나 우클릭 방지 스크립트를 차단하시고 싶으시면, AdGuard 추적 보호 필터, AdGuard URL 추적 필터나 AdGuard 방해 요소 필터를 활성화하세요.
 
-만약에 지원을 받으시거나 각 매인테이너의 이메일 주소를 아시고 싶으시면, [이 이슈](https://github.com/List-KR/List-KR/issues/223)를 읽어주세요.
+만약에 지원을 받으시거나 각 매인테이너의 이메일 주소를 아시고 싶으시면, [이 위키 문서](https://github.com/List-KR/List-KR/wiki/contacts)를 읽어주세요.
 
 
 [^1]: List-KR 필터에서 광고의 정의: https://github.com/List-KR/List-KR/issues/512
