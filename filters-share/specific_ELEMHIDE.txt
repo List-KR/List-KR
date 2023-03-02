@@ -264,7 +264,7 @@ cosinkorea.com##div[style] > div[class^="arl_"] ~ hr.skin_margin
 m.newspic.kr##div[data-widget="recommend"].box
 m.10000recipe.com##.container > div[style]:not([class])
 wowtv.co.kr,bemil.chosun.com##div[class^="AD"]
-bemil.chosun.com##div[class$="AD"]
+medicaltimes.com,bemil.chosun.com##div[class$="AD"]
 aladin.co.kr##.banner_wrap .swiper-wrapper
 aladin.co.kr##body > div[id][class][onclick*="Layer"]
 aladin.co.kr###welcom_wrap > .font_remote

@@ -1,3 +1,4 @@
+||medicaltimes.com/Main/images/*AD
 ||newstomato.com/js/adtomato_lib_
 ||kids.donga.com/www/data/banner/
 ||kids.donga.com/cpc_*.php
