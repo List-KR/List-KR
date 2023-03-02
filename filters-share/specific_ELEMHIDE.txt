@@ -246,7 +246,7 @@ etoland.co.kr##div[class$="_banner_wrap"]
 etoland.co.kr##div[class^="gather-"][class$="_middle"] ~ .img_latest_wrap
 etoland.co.kr##div[class^="gather-"][class$="_middle"] ~ section[class^="secretStore_"]
 yna.co.kr##aside[class*="-ad-"]
-shinmoongo.net,m.weekly.khan.co.kr##div[class$="_bn"]
+newstomato.com,shinmoongo.net,m.weekly.khan.co.kr##div[class$="_bn"]
 dbr.donga.com###overlay
 dbr.donga.com###div_laypopup
 jootc.com###ai_widget-2
