@@ -1,3 +1,4 @@
+||newstomato.com/js/adtomato_lib_
 ||kids.donga.com/www/data/banner/
 ||kids.donga.com/cpc_*.php
 ||watchfreejavonline.co/wp-content/uploads/*.mp4
