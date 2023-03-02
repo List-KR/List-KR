@@ -498,15 +498,12 @@
 ||danawa.com/jehu/selectNBP.json
 ||www.danawa.com/NBP/powerLink.php
 ||firebasestorage.googleapis.com/v0/b/kimchi-premium.appspot.com/o/banner-imgs
-||mdtoday.co.kr/news/adlink.html$document
 ||mdtoday.co.kr/support/_updata/banner
-||thespike.co.kr/news/adlink.html$document
 ||thespike.co.kr/support/_updata/banner
 ||hobbyen.co.kr/support/_updata/banner
 ||iframe.inews24.com/adm/
 ||iframe.joynews24.com/adm/
 ||usjournal.kr/support/_updata/banner
-||socialvalue.kr/news/adlink.html$document
 ||socialvalue.kr/support/_updata/banner
 ||tcafe2a.com/ad/
 ||tistory2.daumcdn.net/tistory/5193955/skin/images/cumpc.js
