@@ -24,7 +24,6 @@ search.11st.co.kr#%#//scriptlet('set-constant', 'searchDataFactory.JBPBanner', '
 search.11st.co.kr#%#//scriptlet('set-constant', 'searchDataFactory.lnbAdBanner', 'undefined')
 search.11st.co.kr#%#//scriptlet('set-constant', 'searchDataFactory.powerPrdList', 'undefined')
 pping.kr#%#//scriptlet('remove-attr', 'placeholder', 'input.search_input', 'asap stay')
-newstomato.com#%#//scriptlet('abort-current-inline-script', 'getAdvertise')
 op.gg#%#//scriptlet('json-prune', 'text_banner image_banner')
 m.dcinside.com#%#//scriptlet('set-constant', 'reple_dori', 'noopFunc')
 11st.co.kr#%#//scriptlet('json-prune', '[].displayBeginDate [].displayEndDate')
