@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+starnewskorea.com##div[itemprop="articleBody"] > div[style]
 m.socialvalue.kr##.media_s_right > div[style^="height:"].clear
 m.humoruniv.com##style + a[href*="//"][target="_blank"]
 kids.donga.com##div[id*="_cpc_"]
