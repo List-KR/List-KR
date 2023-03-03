@@ -56,13 +56,7 @@ meeco.kr#?#.adsbygoogle:remove()
 @@||namu.wiki/$subdocument,script,domain=namu.wiki
 !#endif
 !
-!#if (adguard_app_ios)
 1412.rest#@##google_ads
-!#endif
-1412.rest#$#[class^="document_"].xe_content { height: auto !important; overflow: visible !important; }
-1412.rest#%#//scriptlet('abort-on-stack-trace', 'jQuery.prototype.html', 'adError')
-1412.rest#$#.et_vars { height: auto !important; overflow: visible !important; }
-1412.rest#$#.atc_ex { height: auto !important; overflow: visible !important; }
 somenotes247.blogspot.com#@#.vertical-ads
 sysnet.pe.kr#%#//scriptlet('abort-on-stack-trace', 'CSS2Properties.prototype.getPropertyValue', 'setTimeout')
 !#if (adguard_app_ios)

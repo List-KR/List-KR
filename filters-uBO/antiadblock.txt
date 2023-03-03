@@ -34,11 +34,8 @@ meeco.kr#?#.adsbygoogle:remove()
 @@||namu.news/$frame,script,domain=namu.wiki|~board.namu.wiki
 @@||namu.wiki/$frame,script,domain=namu.wiki|~board.namu.wiki
 !
+1412.rest#@##google_ads
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=tsuvod.com
-1412.rest##+js(aost, jQuery.prototype.html, adError)
-1412.rest#$#[class^="document_"].xe_content { height: auto !important; overflow: visible !important; }
-1412.rest#$#.et_vars { height: auto !important; overflow: visible !important; }
-1412.rest#$#.atc_ex { height: auto !important; overflow: visible !important; }
 somenotes247.blogspot.com#@#.vertical-ads
 sysnet.pe.kr##+js(aost, CSS2Properties.prototype.getPropertyValue, setTimeout)
 mnews.jtbc.co.kr#@#.ad_bottom
