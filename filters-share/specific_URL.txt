@@ -324,7 +324,6 @@
 ||sportschosun.com/update/$image
 ||manhwa.co.kr/xml/*banner_*_json.php
 ||menu.mt.co.kr/mobile*/images/mobileLineBanner_
-||image.ichannela.com/images/common/overray_onair
 ||img.tvchosun.com/upload_img/*/ad/
 ||res.heraldm.com/js/adjson_disp.js
 ||hogaeng.co.kr/data/file/sponsor_
