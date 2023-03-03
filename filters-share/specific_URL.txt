@@ -416,7 +416,6 @@
 /^https:\/\/static[0-9]\.e-himart\.co\.kr\/contents\/content\/display\/cornerContents\/imageBanner\/[0-9]{3}\/imageBanner_/$domain=e-himart.co.kr
 ||e-himart.co.kr/contents/content/display/special/
 /^https?:\/\/(www\.)?stockinfo7\.com\/img\/(banner\/|%E)/$domain=stockinfo7.com
-||polinews.co.kr/data/banner/
 ||m.11st.co.kr/products/v1/mw/recommend/branding-banner/
 ||m.11st.co.kr/MW/api/app/elevenst/product/getProductHotClkRcmListJSON.tmall
 /^https:\/\/ohlitv\.com\/img\/[0-9]{4}\/[a-z]+\.gif$/$domain=ohlitv.com
