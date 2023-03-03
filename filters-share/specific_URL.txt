@@ -492,7 +492,6 @@
 ||ppss.kr/wp-content/uploads/2022/02/cartax-
 ||dpg.danawa.com/powerLink|
 ||image.happymoney.co.kr/extimage/mobileBanner/
-||img.etnews.com/*/etnews/photos/ad_
 ||cultureland.co.kr/etc/main_AD_$document
 ||allyearcdn.com/img/banner_main/
 ||coinpan.com/modules/sejin7940_banner/tpl/js/banner.js
