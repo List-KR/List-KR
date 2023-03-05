@@ -56,7 +56,7 @@ m.cafe.naver.com#?#.location_bar:has(.active:has-text(전체공지)) ~ .location
 !
 ! DOMAIN-REFRESHER: START
 !
-torrentdia93.com,torrentdia94.com,torrentdia95.com,torrentdia96.com,torrentdia97.com,torrentdia98.com,torrentdia99.com,torrentdia100.com,torrentdia101.com,torrentdia102.com,torrentdia103.com,torrentdia104.com,torrentdia105.com,torrentdia106.com,torrentdia107.com#?#form#fboardlist table tr:has-text(span.text-muted:contains(AD))
+torrentdia93.com,torrentdia94.com,torrentdia95.com,torrentdia96.com,torrentdia97.com,torrentdia98.com,torrentdia99.com,torrentdia100.com,torrentdia101.com,torrentdia102.com,torrentdia103.com,torrentdia104.com,torrentdia105.com,torrentdia106.com,torrentdia107.com#?#form#fboardlist table tr:has(span.text-muted:has-text(AD))
 img.imimggggg87878.com#?#a[target="_blank"][href^="http://"].menu-a:has-text(보증토토)
 torrentsee143.com,torrentsee144.com,torrentsee145.com,torrentsee146.com,torrentsee147.com,torrentsee148.com,torrentsee149.com,torrentsee150.com,torrentsee151.com,torrentsee152.com,torrentsee153.com,torrentsee154.com,torrentsee155.com,torrentsee156.com,torrentsee157.com,torrentsee158.com,torrentsee159.com,torrentsee160.com#?#.nplr div[class=""] li:has(li:has-text(AD))
 todawa99.top,todawa100.top,todawa101.top,todawa101.top,todawa102.top,todawa103.top,todawa104.top,todawa105.top,todawa106.top,todawa107.top,todawa108.top#?#.sub-cont table tr:has(> td:has-text(광고))
