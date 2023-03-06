@@ -584,8 +584,6 @@ www.nate.com###news_area ~ div[class*="_shopping"]
 www.nate.com###breakingNews.overlay_break
 shoppinghow.kakao.com###contEtc > #nativeAdWrap
 pubg.game.daum.net##.ggb-bnr
-comic.naver.com##table.viewList tr.band_banner:not(.v2)
-comic.naver.com##.band_banner > a[onclick^="callWebAdBannerClick"]
 webtoon.kakao.com##div > a[href^="/event?event_id="][style]
 webtoon.kakao.com##div[id^="kakao_ad_"]
 filecity.co.kr##form#head_search > li[style][class]
@@ -857,8 +855,7 @@ fow.kr##.neo_top_center
 ggoorr.net###content > div.bd > div.bd_lst_wrp > center
 ggoorr.net##.content > div.bd > div.clear > div > center
 ggoorr.net##.side > .widget_div > .content > center
-m.comic.naver.com##[id^="flex_ad_"]
-comic.naver.com##div[id^="ppl_"][id$="_section"]
+comic.naver.com##[id^="flex_ad_"]
 1412.rest##div[id^="plusad_"]
 1412.rest##.custom_code.board_top
 news.appstory.co.kr###shopping_wrap
