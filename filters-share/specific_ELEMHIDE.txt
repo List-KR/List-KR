@@ -624,7 +624,6 @@ compuzone.co.kr###container #content > .cpz_inner[style]
 compuzone.co.kr###content > #start_mainslide.cpz_mainslide
 compuzone.co.kr###container #content > .gradation_area
 compuzone.co.kr###rightwing_section .rightwing_boxNew > .rightwing_bnr
-compuzone.co.kr###container .cpz_inner > #brandshop
 compuzone.co.kr###container #main_five_fixbnr ul.five_fixbnr_list
 compuzone.co.kr##.cpz_inner .category_set_area div[class^="second_cate_area"] div[class^="catebnr_area"]
 compuzone.co.kr##body > #container > .cpz_inner
