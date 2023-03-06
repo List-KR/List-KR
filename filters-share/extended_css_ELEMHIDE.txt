@@ -1,3 +1,4 @@
+meeco.kr#?#html:not([class*="mobile"]) table[summary*="Articles"] tr:has(a[href*="Enterprise/"])
 enuri.com#?#.m-row > div[class^="col col-"]:not(:has(> .col__inner a:not([href*="ad-api.enuri.info"]))):has(.bnrbox ul[id][class^="bnr__"])
 gigglehd.com#?##gap > div[style*=": "].xe-widget-wrapper:has(.widget_banner_skin > .banner_list)
 itwind.co.kr#?##footer-wrapper div[id^="footer"].footer:has(img[src*="=s"])
