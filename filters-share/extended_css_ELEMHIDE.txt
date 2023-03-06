@@ -1,3 +1,4 @@
+meeco.kr#?#html[class*="mobile"] div[style^="float:"].xe-widget-wrapper .swiper-container-horizontal:has(a[href^="/Enterprise/"])
 meeco.kr#?#html[class*="mobile"] .list_document li[class]:has(a[href*="Enterprise"][title="홍보"])
 meeco.kr#?#html:not([class*="mobile"]) table[summary*="Articles"] tr:has(a[href*="Enterprise"][title="홍보"])
 enuri.com#?#.m-row > div[class^="col col-"]:not(:has(> .col__inner a:not([href*="ad-api.enuri.info"]))):has(.bnrbox ul[id][class^="bnr__"])
