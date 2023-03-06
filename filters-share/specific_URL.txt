@@ -1,3 +1,4 @@
+||ssl.pstatic.net/static/comic/images/txt_ads_v
 ||medicaltimes.com/Main/images/*AD
 ||newstomato.com/js/adtomato_lib_
 ||kids.donga.com/www/data/banner/
