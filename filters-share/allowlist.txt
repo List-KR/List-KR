@@ -1,3 +1,5 @@
+tcafe2a.com#@#.side-event-img
+@@||tcafe2a.com/ad/
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=vod.afreecatv.com
 kjwwang.com#@#iframe[width="100%"][height="90"]
 blackdesertm.com#@#.left_bnr
