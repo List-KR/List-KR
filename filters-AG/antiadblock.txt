@@ -56,6 +56,9 @@ meeco.kr#?#.adsbygoogle:remove()
 @@||namu.wiki/$subdocument,script,domain=namu.wiki
 !#endif
 !
+remiz.co.kr#@#ins.adsbygoogle
+remiz.co.kr#@#.googleAd
+remiz.co.kr#@##googleAd
 1412.rest#@##google_ads
 somenotes247.blogspot.com#@#.vertical-ads
 sysnet.pe.kr#%#//scriptlet('abort-on-stack-trace', 'CSS2Properties.prototype.getPropertyValue', 'setTimeout')

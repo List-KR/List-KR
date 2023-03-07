@@ -34,6 +34,9 @@ meeco.kr#?#.adsbygoogle:remove()
 @@||namu.news/$frame,script,domain=namu.wiki|~board.namu.wiki
 @@||namu.wiki/$frame,script,domain=namu.wiki|~board.namu.wiki
 !
+remiz.co.kr#@#ins.adsbygoogle
+remiz.co.kr#@#.googleAd
+remiz.co.kr#@##googleAd
 1412.rest#@##google_ads
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=tsuvod.com
 somenotes247.blogspot.com#@#.vertical-ads
