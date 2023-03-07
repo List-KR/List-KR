@@ -43,7 +43,7 @@ https://github.com/List-KR/List-KR/raw/master/filter-uBO.txt
 ```
 **List-KR DNS**:
 ```
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_25.txt
+https://cdn.jsdelivr.net/gh/adguardteam/HostlistsRegistry@main/assets/filter_25.txt
 ```
 
 ## microShield와 NamuLink
