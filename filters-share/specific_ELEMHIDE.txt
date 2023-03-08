@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+msearch.shopping.naver.com##div[class^="products_search_list"] div[class^="adProduct_"][id*="lst_"]
 mlbpark.donga.com##.sub_lists_today li.items:before
 22st.net###googleTop
 meeco.kr##html[class*="mobile"] .list_document li:not([class])
@@ -870,8 +871,6 @@ daum.net##iframe[src^="//shop-redapi.daum.net/red-apigate/daumtop/"]
 jjang0u.com##.banner-web
 jjang0u.com##div[id^="bidrich_"]
 thebell.co.kr##a[onclick^="goAD"][onclick$="()"]
-search.shopping.naver.com##li[class^="basicList_item__"].ad
-msearch.shopping.naver.com##div[class^="brandAd_brand_ad"]
 search.daum.net###splinkColl
 search.daum.net##.adLinkColl
 pcmap.place.naver.com###_pcmap_list_scroll_container > ul > li[data-laim-exp-id="undefined*e"]
