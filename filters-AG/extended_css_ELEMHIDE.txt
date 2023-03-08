@@ -32,7 +32,7 @@ ppss.kr#?#section[id^="custom_"]:has(> div.widget_text > h3:contains(SPONSORED).
 m.bunjang.co.kr#?#.app > div > div > div[class]:has(> div[class] > div[class] > div[class]:contains(파워링크))
 m.bunjang.co.kr#?#div:has(> div > div > div:contains(연관상품) > div:has(> div:contains(AD)) > img[alt="AD 가이드"])
 !
-[$path=/(&|\\.|\\?)clubid=27842958($|&)/]~m.cafe.naver.com,cafe.naver.com#?#table[role="presentation"] #editorMainContent div[style^="text-align"]:has(a[href*=".twitch.tv/"] + a[href*=".twitch.tv/"]) ~ div
+[$path=/(&|\\.|\\?)clubid=27842958($|&)/]~m.cafe.naver.com,cafe.naver.com#?#table[role="presentation"] #editorMainContent p[style^="text-align"]:has(a[href*=".twitch.tv/"] + a[href*=".twitch.tv/"]) ~ p
 [$path=/(&|\\.|\\?)clubid=14062859(&|$)/]~m.cafe.naver.com,cafe.naver.com#?##editorMainContent > *:has(a > img)
 [$path=/(&|\\.|\\?)clubid=14605461($|&)/]~m.cafe.naver.com,cafe.naver.com#?##editorMainContent tr ~ tr:not([class]):has(+ .ad)
 [$path=/fx8300($|\\/|\\?)/]~m.cafe.naver.com,cafe.naver.com#?##cafe-menu .cafe-menu-tit:contains(우리카페 협력업체) + ul
