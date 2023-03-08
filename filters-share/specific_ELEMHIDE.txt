@@ -365,7 +365,6 @@ koya-culture.com##div[itemprop="articleBody"] ~ div[style]
 eroun.net##body > div[style]:not([class]):not([id])
 ilemonde.com,mjmedi.com,eroun.net###layer-popups
 hogaeng.co.kr##div[id^="container_"] .slide_box
-mlbpark.donga.com##.contents > .left_cont > div[style]
 shopping.interpark.com##.contentsWrap #idRecommendWrap
 zdnet.co.kr##div[class*="_bn_"][style]
 interpark.com##.welcomeWrapper .interparkInner .eventWrapper
