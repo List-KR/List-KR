@@ -859,7 +859,6 @@ ggoorr.net###content > div.bd > div.bd_lst_wrp > center
 ggoorr.net##.content > div.bd > div.clear > div > center
 ggoorr.net##.side > .widget_div > .content > center
 comic.naver.com##[id^="flex_ad_"]
-1412.rest##div[id^="plusad_"]
 1412.rest##.custom_code.board_top
 news.appstory.co.kr###shopping_wrap
 news.appstory.co.kr##a[href*="//wrd.appstory.co.kr/rd.flad?"]
