@@ -1,3 +1,4 @@
+||jjang0u.com/img/banner_ad_
 ||ssl.pstatic.net/static/comic/images/txt_ads_v
 ||medicaltimes.com/Main/images/*AD
 ||newstomato.com/js/adtomato_lib_
@@ -621,7 +622,6 @@
 ||vogue.co.kr/wp-content/plugins/wppas/
 ||sslimg.appstory.co.kr/@files/snc/eventbanner/
 ||shop-redapi.daum.net/red-apigate/daumtop/
-||jjang0u.com/banner_wrap
 ||arca.live/api/pagead
 ||static.afreecatv.com/asset/service/ad/
 ||image.thebell.co.kr/banner/
