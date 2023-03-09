@@ -53,7 +53,7 @@ https://cdn.jsdelivr.net/gh/adguardteam/HostlistsRegistry@main/assets/filter_25.
 [한국어로 설치하는 방법을 알아보기](https://github.com/List-KR/NamuLink/blob/main/README.ko.md)
 
 ## 기여하는 방법
-CONTRIBUTING.md를 읽어주세요.
+[CONTRIBUTING.md](https://github.com/List-KR/List-KR/blob/master/CONTRIBUTING.md)를 읽어주세요.
 
 ## 라이선스
 List-KR 필터는 GNU GPLv3하에 라이선스됩니다.
