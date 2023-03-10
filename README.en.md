@@ -27,11 +27,11 @@ If you want to get supported or know email address of each maintainer, please re
 ## How to use
 In the program you would like to use, use the following url to subscribe to or import.
 
-**List-KR** (AdGuard):
+**List-KR for AdGuard**:
 ```
 https://cdn.jsdelivr.net/gh/List-KR/List-KR@master/filter-AdGuard.txt
 ```
-**List-KR uBO** (uBlock Origin):
+**List-KR for uBlock Origin**:
 ```
 https://cdn.jsdelivr.net/gh/List-KR/List-KR@master/filter-uBlockOrigin.txt
 ```

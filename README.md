@@ -35,11 +35,11 @@ List-KR 필터는 애드블록 커뮤니티와 AdGuard에 의해 유지보수되
 
 프로그램에서 사용하시고 싶으시면, 구독하거나 불러오기 위해 다음 URL를 사용해주세요.
 
-**List-KR** (AdGuard):
+**List-KR for AdGuard**:
 ```
 https://cdn.jsdelivr.net/gh/List-KR/List-KR@master/filter-AdGuard.txt
 ```
-**List-KR uBO** (uBlock Origin):
+**List-KR for uBlock Origin**:
 ```
 https://cdn.jsdelivr.net/gh/List-KR/List-KR@master/filter-uBlockOrigin.txt
 ```
