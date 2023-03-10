@@ -1,4 +1,7 @@
 # List-KR
+
+[![jsDelivr Stats](https://data.jsdelivr.com/v1/package/gh/List-KR/List-KR/badge)](https://www.jsdelivr.com/package/gh/List-KR/List-KR)
+
 List-KR filter is a filter for websites in Korean language, to be used with [AdGuard](https://adguard.com) ad blocker and [uBlock Origin](https://github.com/gorhill/uBlock).
 
 List-KR filter aims to filter ads [^1] and anti-adblock.
