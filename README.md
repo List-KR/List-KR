@@ -8,7 +8,7 @@ AdGuard, uBlock Origin에 대한 질문이나 문제가 있으신가요? [List-K
 
 [![jsDelivr Stats](https://data.jsdelivr.com/v1/package/gh/List-KR/List-KR/badge)](https://www.jsdelivr.com/package/gh/List-KR/List-KR)
 
-List-KR 필터는 [AdGuard](https://adguard.com) 광고 차단기와 [uBlock Origin](https://github.com/gorhill/uBlock)과 함께 사용되는 한국어 웹 사이트용 필터입니다.
+**List-KR 필터는 [AdGuard](https://adguard.com) 광고 차단기와 [uBlock Origin](https://github.com/gorhill/uBlock)에만** 함께 사용되는 한국어 웹 사이트용 필터입니다.
 
 List-KR 필터는 광고 [^1]와 안티-애드블록을 필터하는 것을 목표로 합니다.
 

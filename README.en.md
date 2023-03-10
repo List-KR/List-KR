@@ -9,7 +9,7 @@ List-KR filter aims to filter ads [^1] and anti-adblock.
 List-KR filter is focused on Korean websites and app, and it is recommended to use List-KR filter together with AdGuard Base filter.
 If you want to block any advertisement managed by a cafe manager on Naver Cafe, rank of the cafe must be fruit 1 or higher.
 
-List-KR filter is optimized for AdGuard products and uBO.
+**List-KR filter is optimized for only AdGuard products and uBO**.
 Therefore, List-KR filter cannot be added on AdBlock Plus and [Unicorn Pro adblocker](https://getunicorn.app/en) because they do not support advanced syntax (e.g. `$$`, `#%#//scriptlet()`, [`$removeparam`](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#removeparam) and `##+js`).
 Furthermore, Unicorn Pro Adblocker does not support its filter editor that is necessary to debug.
 Also, Unicornsoft, owner of Unicorn Pro Adblocker, does not share their own filters for the adblock community, and they are proprietary.
