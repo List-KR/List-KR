@@ -654,6 +654,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+||jusotop.com/b/$domain=yatv.net
 ||tvchak.live/img/bbnn
 ||tvchak.live/img/banner*.gif
 /^https:\/\/jgmoa[0-9]+\.com\/upload_files\/popup\//
