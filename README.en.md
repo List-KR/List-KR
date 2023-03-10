@@ -29,11 +29,11 @@ In the program you would like to use, use the following url to subscribe to or i
 
 **List-KR** (AdGuard):
 ```
-https://github.com/List-KR/List-KR/raw/master/filter.txt
+https://cdn.jsdelivr.net/gh/List-KR/List-KR@master/filter-AdGuard.txt
 ```
 **List-KR uBO** (uBlock Origin):
 ```
-https://github.com/List-KR/List-KR/raw/master/filter-uBO.txt
+https://cdn.jsdelivr.net/gh/List-KR/List-KR@master/filter-uBlockOrigin.txt
 ```
 **List-KR DNS**:
 ```

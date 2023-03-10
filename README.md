@@ -37,11 +37,11 @@ List-KR 필터는 애드블록 커뮤니티와 AdGuard에 의해 유지보수되
 
 **List-KR** (AdGuard):
 ```
-https://github.com/List-KR/List-KR/raw/master/filter.txt
+https://cdn.jsdelivr.net/gh/List-KR/List-KR@master/filter-AdGuard.txt
 ```
 **List-KR uBO** (uBlock Origin):
 ```
-https://github.com/List-KR/List-KR/raw/master/filter-uBO.txt
+https://cdn.jsdelivr.net/gh/List-KR/List-KR@master/filter-uBlockOrigin.txt
 ```
 **List-KR DNS**:
 ```
