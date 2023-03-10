@@ -934,6 +934,10 @@ www.naver.com##div.column_fix_wrap > div#shopcast
 !
 ! DOMAIN-REFRESHER: START
 !
+save-1.net##div[id^="float"]
+save-1.net##div[class^="header-banner-"]
+save-1.net##.at-main > .widget-box
+save-1.net##.w-banner
 hasha.in##div[style^="min-height:"][class^="bg-hasha-"] > .max-w-full
 tvchak.live##.mobile-main div[style^="padding:"].border-shadow
 jgmoa39.com,jgmoa40.com,jgmoa41.com,jgmoa42.com,jgmoa43.com,jgmoa44.com,jgmoa45.com,jgmoa46.com,jgmoa47.com,jgmoa48.com,jgmoa49.com,jgmoa50.com,jgmoa51.com,jgmoa52.com,jgmoa53.com##.popup
