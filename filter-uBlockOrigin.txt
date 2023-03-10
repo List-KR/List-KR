@@ -1,0 +1,44 @@
+[uBlock Origin]
+! Title: List-KR uBO
+! Description: List-KR for uBlock Origin. Maintained by the adblock community and AdGuard.
+! Version: 2023.0309.2
+! Expires: 1 day
+! Homepage: https://github.com/List-KR/List-KR
+! Support: https://github.com/List-KR/List-KR/issues/223
+! License: https://github.com/List-KR/List-KR/blob/master/LICENSE
+!
+! Version must be UTC format.
+!
+
+!#if ext_ublock
+!#include filters-share/3rd_domains.txt
+!#include filters-share/1st_domains.txt
+!#include filters-share/general_elemhide.txt
+!#include filters-uBO/specific_ELEMHIDE.txt
+!#include filters-share/general_url.txt
+!#include filters-uBO/general_url.txt
+!#include filters-share/specific_URL.txt
+!#include filters-share/specific_ELEMHIDE.txt
+!#include filters-share/allowlist.txt
+!#include filters-share/extended_css_ELEMHIDE.txt
+!#include filters-share/extended_css_INJECTION.txt
+!#include filters-uBO/specific_REDIRECT.txt
+!#include filters-uBO/extended_css_ELEMHIDE.txt
+!#include filters-uBO/extended_css_INJECTION.txt
+!#include filters-uBO/scriptlets.txt
+!#include filters-share/lkscriptlet.txt
+!#include filters-share/javascript.txt
+!#include filters-uBO/javascript.txt
+!#include filters-uBO/antiadblock.txt
+!#include filters-share/removeparam.txt
+!#include filters-uBO/allowlist.txt
+!#endif
+
+!#if cap_user_stylesheet
+!#include filters-share/specific_CSS.txt
+!#include filters-uBO/specific_CSS.txt
+!#endif
+
+!#if cap_html_filtering
+!#include filters-uBO/html_filtering.txt
+!#endif
