@@ -1,3 +1,4 @@
+grip.show#@#.top-banners
 tcafe2a.com#@#.side-event-img
 @@||tcafe2a.com/ad/
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=vod.afreecatv.com
