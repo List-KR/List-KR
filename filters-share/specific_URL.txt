@@ -654,6 +654,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/^https:\/\/cdn-nl-[0-9]+\.hasha\.in\/[A-z0-9_]+\.gif$/$domain=hasha.in
 ||jusotop.com/b/$domain=yatv.net
 ||tvchak.live/img/bbnn
 ||tvchak.live/img/banner*.gif

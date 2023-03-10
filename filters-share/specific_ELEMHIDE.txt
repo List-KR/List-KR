@@ -934,6 +934,7 @@ www.naver.com##div.column_fix_wrap > div#shopcast
 !
 ! DOMAIN-REFRESHER: START
 !
+hasha.in##div[style^="min-height:"][class^="bg-hasha-"] > .max-w-full
 tvchak.live##.mobile-main div[style^="padding:"].border-shadow
 jgmoa39.com,jgmoa40.com,jgmoa41.com,jgmoa42.com,jgmoa43.com,jgmoa44.com,jgmoa45.com,jgmoa46.com,jgmoa47.com,jgmoa48.com,jgmoa49.com,jgmoa50.com,jgmoa51.com,jgmoa52.com,jgmoa53.com##.popup
 torrenttop28.com,torrenttop29.com,torrenttop30.com,torrenttop31.com,torrenttop32.com,torrenttop33.com,torrenttop34.com,torrenttop35.com,torrenttop36.com,torrenttop37.com,torrenttop38.com,torrenttop39.com,torrenttop40.com,torrenttop41.com##a[href^="/adver-"]
