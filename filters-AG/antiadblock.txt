@@ -56,6 +56,9 @@ meeco.kr#?#.adsbygoogle:remove()
 @@||namu.wiki/$subdocument,script,domain=namu.wiki
 !#endif
 !
+!#if (adguard_app_ios || adguard_ext_safari)
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=1412.rest
+!#endif
 1412.rest#@#.ads
 remiz.co.kr#@#ins.adsbygoogle
 remiz.co.kr#@#.googleAd
