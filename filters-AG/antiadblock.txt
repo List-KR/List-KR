@@ -57,6 +57,9 @@ meeco.kr#?#.adsbygoogle:remove()
 !#endif
 !
 !#if (adguard_app_ios || adguard_ext_safari)
+@@||ssl.pstatic.net/tveta/libs/ssp-video/prod/ssp.web.sdk_$script,domain=m.sports.naver.com
+!#endif
+!#if (adguard_app_ios || adguard_ext_safari)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=1412.rest
 !#endif
 1412.rest#@#.ads
