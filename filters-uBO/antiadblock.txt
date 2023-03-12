@@ -34,6 +34,7 @@ meeco.kr#?#.adsbygoogle:remove()
 @@||namu.news/$frame,script,domain=namu.wiki|~board.namu.wiki
 @@||namu.wiki/$frame,script,domain=namu.wiki|~board.namu.wiki
 !
+||ssl.pstatic.net/tveta/libs/ssp-video/prod/ssp.web.sdk_$script,redirect=noop.js,domain=m.sports.naver.com
 1412.rest#@#.ads
 remiz.co.kr#@#ins.adsbygoogle
 remiz.co.kr#@#.googleAd

@@ -56,6 +56,7 @@ meeco.kr#?#.adsbygoogle:remove()
 @@||namu.wiki/$subdocument,script,domain=namu.wiki
 !#endif
 !
+||ssl.pstatic.net/tveta/libs/ssp-video/prod/ssp.web.sdk_$script,redirect=noopjs,domain=m.sports.naver.com
 !#if (adguard_app_ios || adguard_ext_safari)
 @@||ssl.pstatic.net/tveta/libs/ssp-video/prod/ssp.web.sdk_$script,domain=m.sports.naver.com
 !#endif
