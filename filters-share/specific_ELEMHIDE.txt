@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+quasarzone.com##div[id^="bidrich-"]
 m.ygosu.com##div[id^="clickmon_"][style]
 m.ygosu.com##div[id^="bidrich_"][style]
 1412.rest##div[style].fancybox-type-inline
