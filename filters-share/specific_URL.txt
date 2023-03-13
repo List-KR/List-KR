@@ -468,7 +468,6 @@
 ||hungryapp.co.kr/banner/banner_*.php
 ||appdata.hungryapp.co.kr/banner/
 ||appdata.hungryapp.co.kr/event/mobi/
-||image.ygosu.com/images/ico_ad_black.png
 /^https:\/\/ssp\.igaw\.io\/bak\/[0-9]{3}x[0-9]{2}\./$domain=mylgid.com
 ||ssl.pstatic.net/melona/libs/
 ||images.coocha.co.kr/static/images/deal/ad.png
@@ -632,7 +631,6 @@
 ||clien.net/service/api/coupang/ad?
 ||cdn.halfclub.com/images_web/Etc/banner/
 ||cimage.ondisk.co.kr/data/mdns_bigbanner/
-||ygosu.com/banner_img/
 ||external.impression-neo.naver.com/api/*/ads/search-jsonp
 ||img.newspim.com/banner/
 ||img.newspim.com/ad/
