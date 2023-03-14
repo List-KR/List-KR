@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+clien.net##.aside > div[class^="side_"]:not([class*="account"])
 m.clien.net##.nav_container > .content_view_list > div[class^="list_bottom_"]
 m.clien.net##.nav_container > div[class^="content_"][class$="_list"] a[href^="/service/board"] ~ div[class^="list_center_"]
 m.clien.net##.nav_container .post_view > div[class^="view_top_"]
