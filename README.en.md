@@ -29,7 +29,7 @@ In the program you would like to use, use the following url to subscribe to or i
 
 > **Warning**: The possibility that the correct operation of List-KR filter does not perform is extremely high.
 
-> **Note**: On AdGuard for iOS, if it is not installation of List-KR DNS filter, please use List-KR filter installed by default because pre-processor directive like `!#include` or `!#if` is not supported.
+> **Note**: On AdGuard for iOS, if it is not installation of List-KR DNS filter, please use List-KR filter installed by default because pre-processor directive like `!#include` or `!#if` is not supported yet.
 
 **List-KR for AdGuard**:
 ```
