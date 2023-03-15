@@ -35,6 +35,10 @@ List-KR 필터는 애드블록 커뮤니티와 AdGuard에 의해 유지보수되
 
 프로그램에서 사용하시고 싶으시면, 구독하거나 불러오기 위해 다음 URL를 사용해주세요.
 
+> **Warning**: AdGuard나 uBlock Origin이 아닌 다른 광고 차단기에서 설치하시면, List-KR 필터의 정상적인 작동이 안될 가능성이 극단적으로 높습니다.
+
+> **Note**: AdGuard for iOS에서 `!#include`나 `!#if` 같은 전처리 지시자가 아직 지원되지 않기에 List-KR DNS 필터 설치가 아닌 경우 기본적으로 설치되어 있는 List-KR 필터를 사용해주세요.
+
 **List-KR for AdGuard**:
 ```
 https://cdn.jsdelivr.net/gh/List-KR/List-KR@master/filter-AdGuard.txt
