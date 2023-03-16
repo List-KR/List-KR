@@ -649,6 +649,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/^https:\/\/tvmoa[0-9]+\.com\/data\/apms\/background\//
 /^https:\/\/ohli24\.[a-z]+\/img\/[0-9]{4}\/[A-z0-9]+\.[a-z]{3}$/
 ||save-1.net/data/apms/background/
 ||save-1.net/thema/Save1/widget/miso-top-banner/topbar.js
