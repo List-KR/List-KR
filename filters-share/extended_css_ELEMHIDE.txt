@@ -1,3 +1,4 @@
+noonoo.info#?#section[tabindex].wixui-section:has(.wixui-image a[href^="http"] img)
 search.shopping.naver.com#?##content .list_basis div:has(> .ad)
 enuri.com#?#.m-row > div[class^="col col-"]:not(:has(> .col__inner a:not([href*="ad-api.enuri.info"]))):has(.bnrbox ul[id][class^="bnr__"])
 gigglehd.com#?##gap > div[style*=": "].xe-widget-wrapper:has(.widget_banner_skin > .banner_list)
