@@ -1,3 +1,4 @@
+||cubec.gomtv.com/TextAdInfo_new.gom
 ||safevisit.org/appdisplay?$redirect=noopframe
 184.25.232.20:443$network,app=ALYac.aye
 ||data.news.zumst.com/alyac/popular/news.json
