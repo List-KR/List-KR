@@ -1,3 +1,4 @@
+||pennmike.com/script/bannerpop.js
 ||jjang0u.com/img/banner_ad_
 ||ssl.pstatic.net/static/comic/images/txt_ads_v
 ||medicaltimes.com/Main/images/*AD
