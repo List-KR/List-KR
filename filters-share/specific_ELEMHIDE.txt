@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+clien.net##div[id$="_content"][class^="content_"] > div[class^="list_top_"]:not([class*=" "])
 mnetplus.world###mnetplus-modal-root
 clien.net##.aside > div[class^="side_"]:not([class*="account"])
 m.clien.net##.nav_container > .content_view_list > div[class^="list_bottom_"]
@@ -70,7 +71,6 @@ m.clien.net##.nav_container > .content_main > div[class^="main_center_"]
 clien.net##.nav_container > div[id$="_content"][class^="content_"] .contents_main > div[class^="main_center_"]
 clien.net##.nav_container > div[id$="_content"][class^="content_"] .section_list.notice > div[class^="main_top_"]
 clien.net##.nav_content > div[id$="_content"][class^="content_"] div[class^="post_"] > div[class^="view_center_"]
-clien.net##.nav_content > div[id$="_content"][class^="content_"] > div[class^="list_top_"]:not([class*=" "])
 quasarzone.com##div[id^="bidrich-"]
 m.ygosu.com##div[id^="clickmon_"][style]
 m.ygosu.com##div[id^="bidrich_"][style]
