@@ -650,6 +650,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/^https:\/\/today-sports\.io\/img\/.*(?=(evolution|banner|\.gif))/$domain=today-sports.io
 /^https:\/\/tvmoa[0-9]+\.com\/data\/apms\/background\//
 /^https:\/\/ohli24\.[a-z]+\/img\/[0-9]{4}\/[A-z0-9]+\.[a-z]{3}$/
 ||save-1.net/data/apms/background/
