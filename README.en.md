@@ -27,7 +27,9 @@ If you want to get supported or know email address of each maintainer, please re
 ## How to use
 In the program you would like to use, use the following url to subscribe to or import.
 
-> **Warning**: The possibility that the correct operation of List-KR filter does not perform is extremely high.
+> **Warning**: From April 07, 2023, the subscription method using `/filter.txt` and `/filter-uBO.txt` is become impossible because transmission speed acceleration using jsDelivr.
+
+> **Note**: The possibility that the correct operation of List-KR filter does not perform is extremely high.
 
 > **Note**: On AdGuard for iOS, if it is not installation of List-KR DNS filter, please use List-KR filter installed by default because pre-processor directive like `!#include` or `!#if` is not supported yet.
 
