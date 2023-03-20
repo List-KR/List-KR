@@ -1,3 +1,4 @@
+||ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js$script,domain=m.cafe.naver.com,redirect=noopjs
 ||video.veilduck.app^$redirect=noopmp4-1s
 ||advod.sbs.co.kr/sbsad/$media,redirect=noopmp4-1s
 ||smrmembers-smr.smartmediarep.com/smc/smrmembers/$redirect=noopmp4-1s
