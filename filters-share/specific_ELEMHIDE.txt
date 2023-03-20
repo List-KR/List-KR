@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+quasarzone.com##.price-compare-srch
 clien.net##div[id$="_content"][class^="content_"] > div[class^="list_top_"]:not([class*=" "])
 mnetplus.world###mnetplus-modal-root
 clien.net##.aside > div[class^="side_"]:not([class*="account"])
@@ -523,7 +524,6 @@ poro.gg##div[class^="flex"][class$="h-[250px]"]
 lolchess.gg##.ap_top
 duo.op.gg##section[class=""] > div[class^="bg-gray"][class~="justify-center"]
 bada.io##div[id*="amazon_shopping"]
-quasarzone.com##div[class*="search-"] > .price-compare-srch
 quasarzone.com##.mid-content-area .left-util-wrap .bot-util-area
 quasarzone.com##.bot-content-area .mid-util-wrap .right-util-area
 m.inven.co.kr##section.mo-top-nav ~ div[class^="mobileDaNs"]
