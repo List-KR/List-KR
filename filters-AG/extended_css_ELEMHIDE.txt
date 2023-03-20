@@ -1,5 +1,5 @@
 !#if (adguard_app_ios)
-m.humoruniv.com#?##naver_adpost_wrap_fix ~ *:has([style][align] [style] [onclick])
+m.humoruniv.com#?#.adsbygoogle + div *:has(style ~ a[href][target] [style] ~ [style])
 !#endif
 bonik.me#?##sidebar > .module:contains(Ad)
 msearch.wemakeprice.com#?#article[data-list-container="searchList"] li:has(span:contains(AD).gray_round_badge)
