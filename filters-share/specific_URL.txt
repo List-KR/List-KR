@@ -1,5 +1,4 @@
 ||quasarzone.com/banner/display
-||static.coupangcdn.com/image/vendor_inventory/$domain=quasarzone.com
 ||pennmike.com/script/bannerpop.js
 ||jjang0u.com/img/banner_ad_
 ||ssl.pstatic.net/static/comic/images/txt_ads_v
@@ -521,7 +520,7 @@
 ||issue.dcinside.com/wp-content/plugins/advanced-ads
 ||upto.tk/ads.html
 ||m.ytn.co.kr/ad/
-||static.coupangcdn.com/image/vendor_inventory/$domain=10000recipe.com
+||static.coupangcdn.com/image/vendor_inventory/$domain=10000recipe.com|quasarzone.com
 ||djtimes.co.kr/banner/
 ||gginews.co.kr/data/gginews_co_kr/banner/
 ||mangacat.cc/mainhover/
