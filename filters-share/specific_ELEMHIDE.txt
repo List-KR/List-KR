@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+m.ruliweb.com##.board_main .user_view_target ~ .row
 quasarzone.com##.price-compare-srch
 clien.net##div[id$="_content"][class^="content_"] > div[class^="list_top_"]:not([class*=" "])
 mnetplus.world###mnetplus-modal-root
