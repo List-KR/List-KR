@@ -766,7 +766,7 @@
 /^https:\/\/bam[0-9]+co\.com\/_book\/_Contents\/banner\//
 ||blogger.googleusercontent.com/img/$domain=hdhd197.net|hdhd198.net|hdhd199.net|hdhd200.net|hdhd201.net|hdhd202.net|hdhd202.net|hdhd203.net|hdhd204.net|hdhd205.net|hdhd206.net|hdhd207.net|hdhd208.net|hdhd209.net|hdhd210.net
 ||i.imgur.com^$domain=hdhd197.net|hdhd198.net|hdhd199.net|hdhd200.net|hdhd201.net|hdhd202.net|hdhd202.net|hdhd203.net|hdhd204.net|hdhd205.net|hdhd206.net|hdhd207.net|hdhd208.net|hdhd209.net|hdhd210.net
-/^https:\/\/imgcloud[0-9]+\.net\//$domain=wfwf248.com|wfwf249.com|wfwf250.com|wfwf251.com|wfwf252.com|wfwf253.com|wfwf254.com|wfwf255.com|wfwf256.com|wfwf257.com|wfwf258.com|wfwf259.com|wfwf260.com
+/^https:\/\/imgcloud[0-9]+\.net\//$domain=wfwf261.com|wfwf262.com|wfwf263.com|wfwf264.com|wfwf265.com|wfwf266.com|wfwf267.com|wfwf268.com|wfwf269.com|wfwf270.com|wfwf271.com|wfwf272.com|wfwf273.com
 /^https:\/\/blacktoon[0-9]+\.com\/poster_js\/[0-9]+\.js/
 ||toonkor*.com/images/*.gif
 ||wwwimageup.angle777899.com/other/atoona/
