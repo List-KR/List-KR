@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+m.news.nate.com##.divAdv
 m.clien.net##.content_list.search > div[class^="list_center_"]
 quasarzone.com##.price-compare-srch
 clien.net##div[id$="_content"][class^="content_"] > div[class^="list_top_"]:not([class*=" "])
