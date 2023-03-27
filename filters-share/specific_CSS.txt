@@ -159,6 +159,6 @@ orbi.kr#$#.global-top { top: 0px !important; }
 ! DOMAIN-REFRESHER: START
 !
 spotv63.com,spotv64.com,spotv65.com,spotv66.com,spotv67.com,spotv68.com,spotv69.com,spotv70.com,spotv71.com,spotv72.com,spotv73.com,spotv74.com,spotv75.com,spotv76.com,spotv77.com,spotv78.com,spotv79.com,spotv80.com,spotv81.com#$#header { top: 0px !important; }
-newtoki214.com,newtoki215.com,newtoki216.com,newtoki217.com,newtoki218.com,newtoki219.com,newtoki220.com,newtoki221.com,newtoki222.com,newtoki223.com,newtoki224.com,newtoki225.com#$#body { overflow: auto !important; }
+newtoki282.com,newtoki283.com,newtoki284.com,newtoki285.com,newtoki286.com,newtoki287.com,newtoki288.com,newtoki289.com,newtoki290.com,newtoki291.com,newtoki292.com,newtoki293.com#$#body { overflow: auto !important; }
 !
 ! DOMAIN-REFRESHER: END
