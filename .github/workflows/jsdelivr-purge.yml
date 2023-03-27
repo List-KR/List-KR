@@ -15,3 +15,5 @@ jobs:
         steps:
             - name: Run jsDelivr-Purge
               uses: List-KR/jsdelivr-purge@v1
+              with:
+                branches: "master"
