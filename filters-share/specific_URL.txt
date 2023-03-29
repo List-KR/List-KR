@@ -674,7 +674,7 @@
 /^https:\/\/torrentnx[0-9]+\.com\/thema\/Basic\/assets\//
 ||filesbest.xyz^$domain=torrenttt69.com|torrenttt70.com|torrenttt71.com|torrenttt72.com|torrenttt73.com|torrenttt74.com|torrenttt75.com|torrenttt76.com|torrenttt77.com|torrenttt78.com|torrenttt79.com|torrenttt80.com|torrenttt81.com|torrenttt82.com
 /^https:\/\/torpang[0-9]+\.com\/thema\/Basic\/widget\/basic-belt-banner\//
-||filesbest.xyz^$domain=torrenttip50.com|torrenttip51.com|torrenttip52.com|torrenttip53.com|torrenttip54.com|torrenttip55.com|torrenttip56.com|torrenttip57.com|torrenttip58.com|torrenttip59.com|torrenttip60.com|torrenttip61.com|torrenttip62.com
+||filesbest.xyz^$domain=torrenttip64.com|torrenttip65.com|torrenttip66.com|torrenttip67.com|torrenttip68.com|torrenttip69.com|torrenttip70.com|torrenttip71.com|torrenttip72.com|torrenttip73.com|torrenttip74.com|torrenttip75.com|torrenttip76.com
 ||imgur.com^$domain=torrentcar24.com|torrentcar25.com|torrentcar26.com|torrentcar27.com|torrentcar28.com|torrentcar29.com|torrentcar30.com|torrentcar31.com|torrentcar32.com|torrentcar33.com|torrentcar34.com|torrentcar35.com|torrentcar36.com
 /^https:\/\/torrent-who[0-9]+\.me\/data\/apms\/background\//
 ||i.imgur.com^$domain=etorrent12.com|etorrent13.com|etorrent14.com|etorrent15.com|etorrent16.com|etorrent17.com|etorrent18.com|etorrent19.com|etorrent20.com|etorrent21.com|etorrent22.com|etorrent23.com|etorrent24.com|etorrent25.com
