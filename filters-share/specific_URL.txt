@@ -679,7 +679,7 @@
 /^https:\/\/torrent-who[0-9]+\.me\/data\/apms\/background\//
 ||i.imgur.com^$domain=etorrentro.net
 ||media.tumblr.com^$image,domain=mingk10.com|mingk11.com|mingk12.com|mingk13.com|mingk14.com|mingk15.com|mingk16.com|mingk17.com|mingk18.com|mingk19.com|mingk20.com|mingk21.com|mingk22.com|mingk20.com|mingk23.com|mingk24.com|mingk25.com
-/^https:\/\/imgcloud[0-9]+\.net\//$domain=wftoon57.com|wftoon58.com|wftoon59.com|wftoon60.com|wftoon61.com|wftoon62.com|wftoon63.com|wftoon64.com|wftoon65.com|wftoon66.com|wftoon67.com|wftoon68.com|wftoon69.com|wftoon70.com|wftoon71.com
+/^https:\/\/imgcloud[0-9]+\.net\//$domain=wftoon70.com|wftoon71.com|wftoon72.com|wftoon73.com|wftoon74.com|wftoon75.com|wftoon76.com|wftoon77.com|wftoon78.com|wftoon79.com|wftoon80.com|wftoon81.com|wftoon82.com|wftoon83.com|wftoon84.com
 /^https:\/\/torrentten[0-9]+\.com\/thema\/Basic\/assets\/img\/.+\.gif$/
 /^https:\/\/linkrand[0-9]+\.com\/thema\/Miso-Basic[0-9]\/assets\/img\/banne/
 /^https:\/\/linkrand[0-9]+\.com\/data\/file\/(left|right)_sero\//
