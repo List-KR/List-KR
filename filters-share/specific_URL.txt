@@ -706,7 +706,7 @@
 ||pixhost.to^$domain=viewtorrent6.com|viewtorrent7.com|viewtorrent8.com|viewtorrent9.com|viewtorrent10.com|viewtorrent11.com|viewtorrent12.com|viewtorrent13.com|viewtorrent14.com|viewtorrent15.com|viewtorrent16.com|viewtorrent17.com|viewtorrent18.com|viewtorrent19.com|viewtorrent20.com|viewtorrent21.com|viewtorrent22.com
 ||anilife.life/assets/banner/
 /^https:\/\/xn--8-o68e16s35etqj\.com\/data\/editor\/[0-9]+\/[a-z0-9]+_[a-z0-9]+_[a-z0-9]+\./
-||i.uuoobe.com/images/$domain=torrentreel9.site|torrentreel10.site|torrentreel11.site|torrentreel12.site|torrentreel13.site|torrentreel14.site|torrentreel15.site|torrentreel16.site|torrentreel17.site|torrentreel18.site|torrentreel19.site|torrentreel20.site|torrentreel21.site|torrentreel22.site|torrentreel23.site|torrentreel24.site
+||i.uuoobe.com/images/$domain=torrentreel21.site|torrentreel22.site|torrentreel23.site|torrentreel24.site|torrentreel25.site|torrentreel26.site|torrentreel27.site|torrentreel28.site|torrentreel29.site|torrentreel30.site|torrentreel31.site|torrentreel32.site|torrentreel33.site|torrentreel34.site|torrentreel35.site|torrentreel36.site
 /^https:\/\/torrentmode[0-9]+\.com\/data\/zn_bimg\//
 ||video.twimg.com/ext_tw_video/*/pu/vid/$domain=topgirl.co
 ||az-cdn.com/banners/
