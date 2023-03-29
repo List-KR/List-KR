@@ -731,7 +731,7 @@
 /^https:\/\/imgcloud[0-9]+\.net\//$domain=wtwt180.com|wtwt181.com|wtwt182.com|wtwt183.com|wtwt184.com|wtwt185.com|wtwt186.com|wtwt187.com|wtwt188.com|wtwt189.com|wtwt190.com|wtwt191.com|wtwt192.com|wtwt193.com|wtwt194.com|wtwt195.com|wtwt196.com|wtwt197.com|wtwt198.com
 ||imgbox.com^$domain=torpang47.com|torpang48.com|torpang49.com|torpang50.com|torpang51.com|torpang52.com|torpang53.com|torpang54.com|torpang55.com|torpang56.com|torpang57.com|torpang58.com|torpang59.com|torpang60.com|torpang61.com|torpang62.com|torpang63.com|torpang64.com|torpang65.com|torpang66.com
 /^https:\/\/torpang[0-9]+\.com\/data\/apms\/background\//
-||i.imgur.com^$domain=torrentgram47.com|torrentgram48.com|torrentgram49.com|torrentgram50.com|torrentgram51.com|torrentgram52.com|torrentgram53.com|torrentgram54.com|torrentgram55.com|torrentgram56.com|torrentgram57.com|torrentgram58.com|torrentgram59.com|torrentgram60.com|torrentgram61.com|torrentgram62.com
+||i.imgur.com^$domain=torrentgram50.com|torrentgram51.com|torrentgram52.com|torrentgram53.com|torrentgram54.com|torrentgram55.com|torrentgram56.com|torrentgram57.com|torrentgram58.com|torrentgram59.com|torrentgram60.com|torrentgram61.com|torrentgram62.com|torrentgram63.com|torrentgram64.com|torrentgram65.com
 /^https:\/\/dc\.filesbest\.xyz\/uploadfile\/images\/[a-z0-9]+\.gif$/
 /^https:\/\/torrentwiz[0-9]+\.com\/data\/editor\/[0-9]{4}\//
 ||i.imgur.com^$domain=etorrent.us
