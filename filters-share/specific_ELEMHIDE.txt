@@ -953,7 +953,7 @@ www.naver.com##div.column_fix_wrap > div#shopcast
 !
 ! DOMAIN-REFRESHER: START
 !
-yadongwang.org,yadongstar.net,yadongkorea.red,yadongtube.net,yatv.net###banner
+kimyadong.net,yadongwang.org,yadongstar.net,yadongkorea.red,yadongtube.net,yatv.net###banner
 save-1.net##div[id^="float"]
 save-1.net##div[class^="header-banner-"]
 save-1.net##.at-main > .widget-box
