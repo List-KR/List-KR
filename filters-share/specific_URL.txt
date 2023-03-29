@@ -658,7 +658,7 @@
 ||save-1.net/thema/Save1/widget/miso-top-banner/topbar.js
 /^https:\/\/img\.cdnfor\.me\/images\/[0-9]+\/[0-9]+\/[0-9]+\/[a-z0-9_-]+\./$domain=save-1.net
 /^https:\/\/cdn-nl-[0-9]+\.hasha\.in\/[A-z0-9_]+\.gif$/$domain=hasha.in
-||jusotop.com/b/$domain=yatv.net
+||jusotop.com/b/$domain=yatv.net|yadongtube.net
 ||tvchak.live/img/bbnn
 ||tvchak.live/img/banner*.gif
 /^https:\/\/jgmoa[0-9]+\.com\/upload_files\/popup\//
