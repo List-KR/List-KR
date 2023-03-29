@@ -734,7 +734,6 @@
 ||i.imgur.com^$domain=torrentgram50.com|torrentgram51.com|torrentgram52.com|torrentgram53.com|torrentgram54.com|torrentgram55.com|torrentgram56.com|torrentgram57.com|torrentgram58.com|torrentgram59.com|torrentgram60.com|torrentgram61.com|torrentgram62.com|torrentgram63.com|torrentgram64.com|torrentgram65.com
 /^https:\/\/dc\.filesbest\.xyz\/uploadfile\/images\/[a-z0-9]+\.gif$/
 /^https:\/\/torrentwiz[0-9]+\.com\/data\/editor\/[0-9]{4}\//
-||i.imgur.com^$domain=etorrent.us
 /^https:\/\/torrentbot[0-9]+\.com\/uploadfile\/up[a-z0-9]+\.gif$/
 ||imgbox.com^$domain=ktxtorrent58.com|ktxtorrent59.com|ktxtorrent60.com|ktxtorrent61.com|ktxtorrent62.com|ktxtorrent63.com|ktxtorrent64.com|ktxtorrent65.com|ktxtorrent66.com|ktxtorrent67.com|ktxtorrent68.com|ktxtorrent69.com|ktxtorrent70.com|ktxtorrent.com
 ||static.filesbest.xyz^$domain=ktxtorrent66.com|ktxtorrent67.com|ktxtorrent68.com|ktxtorrent69.com|ktxtorrent70.com|ktxtorrent71.com|ktxtorrent72.com|ktxtorrent73.com|ktxtorrent74.com|ktxtorrent75.com|ktxtorrent76.com|ktxtorrent77.com|ktxtorrent78.com|ktxtorrent79.com|ktxtorrent80.com
