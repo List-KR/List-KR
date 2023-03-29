@@ -708,7 +708,6 @@
 /^https:\/\/xn--8-o68e16s35etqj\.com\/data\/editor\/[0-9]+\/[a-z0-9]+_[a-z0-9]+_[a-z0-9]+\./
 ||i.uuoobe.com/images/$domain=torrentreel21.site|torrentreel22.site|torrentreel23.site|torrentreel24.site|torrentreel25.site|torrentreel26.site|torrentreel27.site|torrentreel28.site|torrentreel29.site|torrentreel30.site|torrentreel31.site|torrentreel32.site|torrentreel33.site|torrentreel34.site|torrentreel35.site|torrentreel36.site
 /^https:\/\/torrentmode[0-9]+\.com\/data\/zn_bimg\//
-||video.twimg.com/ext_tw_video/*/pu/vid/$domain=topgirl.co
 ||az-cdn.com/banners/
 /^https:\/\/toonkor[0-9]+\.com\/images\/[a-z-]*[0-9]{3,}(x|X)[0-9]{2,}/
 /^https:\/\/toonkor[0-9]+\.com\/bann\//
