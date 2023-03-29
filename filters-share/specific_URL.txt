@@ -728,7 +728,7 @@
 /^https:\/\/imgcloud[0-9]+\.net\//$domain=fxfx171.com|fxfx172.com|fxfx173.com|fxfx174.com|fxfx175.com|fxfx176.com|fxfx177.com|fxfx178.com|fxfx179.com|fxfx180.com|fxfx181.com|fxfx182.com|fxfx183.com|fxfx184.com|fxfx187.com|fxfx188.com|fxfx189.com|fxfx190.com|fxfx191.com
 /^https:\/\/mkmk[0-9]+\.link\/data\/file\/banner\//
 /^https:\/\/(www\.)?race[0-9]+\.xyz\/images\/spon\//
-/^https:\/\/imgcloud[0-9]+\.net\//$domain=wtwt160.com|wtwt161.com|wtwt162.com|wtwt163.com|wtwt164.com|wtwt165.com|wtwt167.com|wtwt168.com|wtwt169.com|wtwt170.com|wtwt171.com|wtwt172.com|wtwt173.com|wtwt174.com|wtwt175.com|wtwt176.com|wtwt177.com|wtwt178.com|wtwt179.com
+/^https:\/\/imgcloud[0-9]+\.net\//$domain=wtwt180.com|wtwt181.com|wtwt182.com|wtwt183.com|wtwt184.com|wtwt185.com|wtwt186.com|wtwt187.com|wtwt188.com|wtwt189.com|wtwt190.com|wtwt191.com|wtwt192.com|wtwt193.com|wtwt194.com|wtwt195.com|wtwt196.com|wtwt197.com|wtwt198.com
 ||imgbox.com^$domain=torpang37.com|torpang38.com|torpang39.com|torpang40.com|torpang41.com|torpang42.com|torpang43.com|torpang44.com|torpang45.com|torpang46.com|torpang47.com|torpang48.com|torpang49.com|torpang50.com|torpang51.com|torpang52.com|torpang53.com|torpang54.com|torpang55.com|torpang56.com
 /^https:\/\/torpang[0-9]+\.com\/data\/apms\/background\//
 ||i.imgur.com^$domain=torrentgram47.com|torrentgram48.com|torrentgram49.com|torrentgram50.com|torrentgram51.com|torrentgram52.com|torrentgram53.com|torrentgram54.com|torrentgram55.com|torrentgram56.com|torrentgram57.com|torrentgram58.com|torrentgram59.com|torrentgram60.com|torrentgram61.com|torrentgram62.com
