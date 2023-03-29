@@ -672,7 +672,7 @@
 /^https:\/\/static\.tzstatic\.top\/t\/[a-z0-9]+\.gif$/
 /^https:\/\/image\.yaburi[0-9]+\.com\/image-storage\/banners\//
 /^https:\/\/torrentnx[0-9]+\.com\/thema\/Basic\/assets\//
-||filesbest.xyz^$domain=torrenttt55.com|torrenttt56.com|torrenttt57.com|torrenttt58.com|torrenttt59.com|torrenttt60.com|torrenttt61.com|torrenttt62.com|torrenttt63.com|torrenttt64.com|torrenttt65.com|torrenttt66.com|torrenttt67.com|torrenttt68.com
+||filesbest.xyz^$domain=torrenttt69.com|torrenttt70.com|torrenttt71.com|torrenttt72.com|torrenttt73.com|torrenttt74.com|torrenttt75.com|torrenttt76.com|torrenttt77.com|torrenttt78.com|torrenttt79.com|torrenttt80.com|torrenttt81.com|torrenttt82.com
 /^https:\/\/torpang[0-9]+\.com\/thema\/Basic\/widget\/basic-belt-banner\//
 ||filesbest.xyz^$domain=torrenttip50.com|torrenttip51.com|torrenttip52.com|torrenttip53.com|torrenttip54.com|torrenttip55.com|torrenttip56.com|torrenttip57.com|torrenttip58.com|torrenttip59.com|torrenttip60.com|torrenttip61.com|torrenttip62.com
 ||imgur.com^$domain=torrentcar24.com|torrentcar25.com|torrentcar26.com|torrentcar27.com|torrentcar28.com|torrentcar29.com|torrentcar30.com|torrentcar31.com|torrentcar32.com|torrentcar33.com|torrentcar34.com|torrentcar35.com|torrentcar36.com
