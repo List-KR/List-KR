@@ -964,7 +964,7 @@ jgmoa39.com,jgmoa40.com,jgmoa41.com,jgmoa42.com,jgmoa43.com,jgmoa44.com,jgmoa45.
 torrenttop28.com,torrenttop29.com,torrenttop30.com,torrenttop31.com,torrenttop32.com,torrenttop33.com,torrenttop34.com,torrenttop35.com,torrenttop36.com,torrenttop37.com,torrenttop38.com,torrenttop39.com,torrenttop40.com,torrenttop41.com##a[href^="/adver-"]
 yaburi30.com,yaburi31.com,yaburi32.com,yaburi33.com,yaburi34.com,yaburi35.com,yaburi36.com,yaburi37.com,yaburi38.com,yaburi39.com,yaburi40.com,yaburi41.com,yaburi42.com,yaburi43.com,yaburi44.com,yaburi45.com,yaburi46.com,yaburi47.com,yaburi48.com,yaburi49.com,yaburi50.com###popups
 torrent-who26.me,torrent-who27.me,torrent-who28.me,torrent-who29.me,torret-who30.me,torrent-who31.me,torrent-who32.me,torrent-who33.me,torrent-who34.me,torrent-who35.me,torrent-who36.me,torrent-who37.me,torrent-who38.me,torrent-who39.me,torrent-who40.me,torrent-who41.me##div[class*=" "]:not([id*=" "]) > .bg-black
-etorrent12.com,etorrent13.com,etorrent14.com,etorrent15.com,etorrent16.com,etorrent17.com,etorrent18.com,etorrent19.com,etorrent20.com,etorrent21.com,etorrent22.com,etorrent23.com,etorrent24.com,etorrent25.com##div[id^="banner"]
+etorrent.net##div[id^="banner"]
 1004girl.com##.banner
 mingk7.com,mingk8.com,mingk9.com,mingk10.com,mingk11.com,mingk12.com,mingk13.com,mingk14.com,mingk15.com,mingk16.com,mingk17.com,mingk18.com,mingk19.com,mingk20.com,mingk21.com,mingk22.com,mingk23.com##.main-box ~ div[style*=" "] > div:not([style*=" "])
 mingk7.com,mingk8.com,mingk9.com,mingk10.com,mingk11.com,mingk12.com,mingk13.com,mingk14.com,mingk15.com,mingk16.com,mingk17.com,mingk18.com,mingk19.com,mingk20.com,mingk21.com,mingk22.com,mingk23.com##.view-wrap > div[class*=" "] + div[style*=" "]
