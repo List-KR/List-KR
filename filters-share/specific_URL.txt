@@ -651,6 +651,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/^https:\/\/(www\.)?bngame[0-9]+\.com\/data\/files\/banner\//
 /^https:\/\/today-sports\.io\/img\/.*(?=(evolution|banner|\.gif))/$domain=today-sports.io
 /^https:\/\/tvmoa[0-9]+\.com\/data\/apms\/background\//
 /^https:\/\/ohli24\.[a-z]+\/img\/[0-9]{4}\/[A-z0-9]+\.[a-z]{3}$/
@@ -685,7 +686,6 @@
 /^https:\/\/linkrand[0-9]+\.com\/data\/file\/(left|right)_sero\//
 /^https:\/\/linkrand[0-9]+\.com\/data\/apms\/background\//
 /^https:\/\/linkrand[0-9]+\.com\/data\/file\/site_2\//
-/^https:\/\/[a-z]+\.allall[0-9]+\.com\/data\/files\/banner\//
 /^https:\/\/wtbox[0-9]+\.xyz\/data\/apms\/background\/.+\.gif$/
 /^https:\/\/tvbox[0-9]+\.xyz\/data\/apms\/background\/.+\.gif$/
 /^https:\/\/ydbox[0-9]+\.com\/data\/apms\/background\/.+\.gif$/
