@@ -762,8 +762,8 @@
 ||cloudaaaa.com^$domain=copytoon612.com|copytoon613.com|copytoon614.com|copytoon615.com|copytoon616.com|copytoon617.com|copytoon618.com|copytoon619.com|copytoon620.com|copytoon621.com|copytoon622.com
 /^https:\/\/hodu[0-9]+\.net\/_book\/_Contents\/banner\//
 /^https:\/\/bam[0-9]+co\.com\/_book\/_Contents\/banner\//
-||blogger.googleusercontent.com/img/$domain=hdhd197.net|hdhd198.net|hdhd199.net|hdhd200.net|hdhd201.net|hdhd202.net|hdhd202.net|hdhd203.net|hdhd204.net|hdhd205.net|hdhd206.net|hdhd207.net|hdhd208.net|hdhd209.net|hdhd210.net
-||i.imgur.com^$domain=hdhd197.net|hdhd198.net|hdhd199.net|hdhd200.net|hdhd201.net|hdhd202.net|hdhd202.net|hdhd203.net|hdhd204.net|hdhd205.net|hdhd206.net|hdhd207.net|hdhd208.net|hdhd209.net|hdhd210.net
+||blogger.googleusercontent.com/img/$domain=hdhd224.net|hdhd225.net|hdhd226.net|hdhd227.net|hdhd228.net|hdhd229.net|hdhd230.net|hdhd231.net|hdhd232.net|hdhd233.net|hdhd234.net|hdhd235.net|hdhd236.net|hdhd237.net|hdhd238.net
+||i.imgur.com^$domain=hdhd224.net|hdhd225.net|hdhd226.net|hdhd227.net|hdhd228.net|hdhd229.net|hdhd230.net|hdhd231.net|hdhd232.net|hdhd233.net|hdhd234.net|hdhd235.net|hdhd236.net|hdhd237.net|hdhd238.net
 /^https:\/\/imgcloud[0-9]+\.net\//$domain=wfwf261.com|wfwf262.com|wfwf263.com|wfwf264.com|wfwf265.com|wfwf266.com|wfwf267.com|wfwf268.com|wfwf269.com|wfwf270.com|wfwf271.com|wfwf272.com|wfwf273.com
 /^https:\/\/blacktoon[0-9]+\.com\/poster_js\/[0-9]+\.js/
 ||toonkor*.com/images/*.gif
