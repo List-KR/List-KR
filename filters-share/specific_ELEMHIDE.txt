@@ -1023,7 +1023,7 @@ manaboza25.com,manaboza26.com,manaboza27.com,manaboza28.com,manaboza29.com,manab
 torrentmode.com##a[href^="https://torrentmode.com/bbs/bannerhit.php"]
 agit173.com,agit174.com,agit175.com,agit176.com,agit177.com,agit178.com,agit179.com,agit180.com,agit181.com,agit182.com,agit183.com,agit184.com##.container.banner + .banner
 newtoon165.com,newtoon166.com,newtoon167.com,newtoon168.com,newtoon169.com,newtoon170.com,newtoon171.com,newtoon172.com,newtoon173.com,newtoon174.com,newtoon175.com##.ad-form > .row > div[class^="col-md-"]
-hodu287.net,hodu288.net,hodu289.net,hodu290.net,hodu291.net,hodu292.net,hodu293.net,hodu294.net,hodu295.net,hodu296.net,hodu297.net,hodu298.net##.sub-contents > .banner
+hodu304.net,hodu305.net,hodu306.net,hodu307.net,hodu308.net,hodu309.net,hodu310.net,hodu311.net,hodu312.net,hodu313.net,hodu314.net,hodu315.net##.sub-contents > .banner
 blacktoon199.com,blacktoon200.com,blacktoon201.com,blacktoon202.com,blacktoon203.com,blacktoon204.com,blacktoon205.com,blacktoon206.com,blacktoon207.com,blacktoon208.com,blacktoon209.com,blacktoon210.com##.banner.container > .row > .col-6
 newtoki282.com,newtoki283.com,newtoki284.com,newtoki285.com,newtoki286.com,newtoki287.com,newtoki288.com,newtoki289.com,newtoki290.com,newtoki291.com,newtoki292.com,newtoki293.com###hd_pop
 booktoki282.com,booktoki283.com,booktoki284.com,booktoki285.com,booktoki286.com,booktoki287.com,booktoki288.com,booktoki289.com,booktoki290.com,booktoki291.com,booktoki292.com,booktoki293.com,booktoki294.com,booktoki195.com,booktoki196.com,booktoki197.com###hd_pop
