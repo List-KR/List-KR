@@ -58,7 +58,7 @@ m.cafe.naver.com#?#.location_bar:has(.active:has-text(전체공지)) ~ .location
 !
 torrentdia93.com,torrentdia94.com,torrentdia95.com,torrentdia96.com,torrentdia97.com,torrentdia98.com,torrentdia99.com,torrentdia100.com,torrentdia101.com,torrentdia102.com,torrentdia103.com,torrentdia104.com,torrentdia105.com,torrentdia106.com,torrentdia107.com#?#form#fboardlist table tr:has(span.text-muted:has-text(AD))
 img.imimggggg87878.com#?#a[target="_blank"][href^="http://"].menu-a:has-text(보증토토)
-frtoon148.com,frtoon149.com,frtoon150.com,frtoon151.com,frtoon152.com,frtoon153.com,frtoon154.com,frtoon155.com,frtoon156.com,frtoon157.com,frtoon158.com,frtoon159.com,frtoon160.com,frtoon161.com#?#.alert-danger.container:has-text([AD])
+frtoon161.com,frtoon162.com,frtoon163.com,frtoon164.com,frtoon165.com,frtoon166.com,frtoon167.com,frtoon168.com,frtoon169.com,frtoon170.com,frtoon171.com,frtoon172.com,frtoon173.com,frtoon174.com#?#.alert-danger.container:has-text([AD])
 hdhd224.net,hdhd225.net,hdhd226.net,hdhd227.net,hdhd228.net,hdhd229.net,hdhd230.net,hdhd231.net,hdhd232.net,hdhd233.net,hdhd234.net,hdhd235.net,hdhd236.net,hdhd237.net,hdhd238.net#?#.menu-ul > .menu-li:has(> a:has-text(보증토토))
 blacktoon199.com,blacktoon200.com,blacktoon201.com,blacktoon202.com,blacktoon203.com,blacktoon204.com,blacktoon205.com,blacktoon206.com,blacktoon207.com,blacktoon208.com,blacktoon209.com,blacktoon210.com#?#.alert.alert-danger:has(> a:has-text([AD]))
 !
