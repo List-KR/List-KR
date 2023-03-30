@@ -651,6 +651,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/^https:\/\/(www\.)?todawa[0-9]+\.asia\/ad\//
 /^https:\/\/(www\.)?bngame[0-9]+\.com\/data\/files\/banner\//
 /^https:\/\/today-sports\.io\/img\/.*(?=(evolution|banner|\.gif))/$domain=today-sports.io
 /^https:\/\/tvmoa[0-9]+\.com\/data\/apms\/background\//
@@ -713,7 +714,6 @@
 /^https:\/\/torrentlee[0-9]+\.com\/[A-z_0-9]+\.gif$/
 /^https:\/\/torrentjuju[0-9]+\.com\/data\/editor\/[0-9]+\/[A-z0-9_]+\./
 /^https:\/\/torrentwiz[0-9]+\.com\/[A-z0-9]+\.gif$/
-||i.uuoobe.com/images/$domain=todawa13.asia|todawa14.asia|todawa15.asia|todawa16.asia|todawa17.asia|todawa18.asia|todawa19.asia|todawa20.asia|todawa21.asia|todawa22.asia|todawa23.asia
 /^https:\/\/agit[0-9]+\.xyz\/data\/file\/novel\/banner\//
 /^https:\/\/jgmoa[0-9]+\.com\/upload_files\/banner\//
 /https:\/\/www\.sexzoa[0-9]+\.me\/imgad\//

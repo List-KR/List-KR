@@ -994,7 +994,6 @@ qooqootv.fun##div[class^="banner_"]
 !#if !adguard_ext_android_cb
 lover903.net,lover904.net,lover905.net,lover906.net,lover907.net,lover908.net,lover909.net,lover910.net,lover911.net,lover912.net##.xe_content span ~ div[style]
 !#endif
-todawa13.asia,todawa14.asia,todawa15.asia,todawa16.asia,todawa17.asia,todawa18.asia,todawa19.asia,todawa20.asia,todawa21.asia,todawa22.asia,todawa23.asia##.sub-contener-wraper > div:not(.sub-cont)
 agit541.xyz,agit542.xyz,agit543.xyz,agit536.xyz,agit537.xyz,agit538.xyz,agit539.xyz,agit540.xyz,agit541.xyz,agit542.xyz,agit543.xyz,agit544.xyz,agit545.xyz,agit546.xyz,agit547.xyz,agit548.xyz,agit549.xyz,agit550.xyz,agit551.xyz,agit552.xyz,agit553.xyz,agit554.xyz,agit555.xyz,agit556.xyz,agit557.xyz##.banner
 yagong51.com,yagong52.com,yagong53.com,yagong54.com,yagong55.com,yagong56.com,yagong57.com,yagong58.com,yagong59.com,yagong60.com,yagong61.com,yagong62.com,yagong63.com,yagong64.com,yagong65.com,yagong66.com,yagong67.com,yagong68.com,yagong69.com,yagong70.com,yagong71.com,yagong72.com,yagong73.com##div[x-data="popups()"]
 redsun34.me,redsun35.me,redsun36.me,redsun37.me,redsun38.me,redsun39.me,redsun40.me,redsun41.me,redsun42.me,redsun43.me,redsun44.me,redsun45.me,redsun46.me,redsun47.me,redsun48.me,redsun49.me,redsun50.me,redsun51.me,redsun52.me,redsun53.me,redsun54.me,redsun55.me,redsun56.me,redsun57.me,redsun58.me##div[id*="ads"]
