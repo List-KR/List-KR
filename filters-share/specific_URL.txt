@@ -712,7 +712,6 @@
 /^https:\/\/toonkor[0-9]+\.com\/images\/[a-z-]*[0-9]{3,}(x|X)[0-9]{2,}/
 /^https:\/\/toonkor[0-9]+\.com\/bann\//
 /^https:\/\/torrentlee[0-9]+\.com\/[A-z_0-9]+\.gif$/
-/^https:\/\/torrentjuju[0-9]+\.com\/data\/editor\/[0-9]+\/[A-z0-9_]+\./
 /^https:\/\/torrentwiz[0-9]+\.com\/[A-z0-9]+\.gif$/
 /^https:\/\/agit[0-9]+\.xyz\/data\/file\/novel\/banner\//
 /^https:\/\/jgmoa[0-9]+\.com\/upload_files\/banner\//
