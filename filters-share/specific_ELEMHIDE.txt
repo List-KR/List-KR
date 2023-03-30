@@ -1010,7 +1010,7 @@ torrentbot62.com,torrentbot63.com,torrentbot64.com,torrentbot65.com,torrentbot66
 ktxtorrent76.com,ktxtorrent77.com,ktxtorrent78.com,ktxtorrent79.com,ktxtorrent80.com,ktxtorrent81.com,ktxtorrent82.com,ktxtorrent83.com,ktxtorrent84.com,ktxtorrent85.com,ktxtorrent86.com,ktxtorrent87.com,ktxtorrent88.com,ktxtorrent89.com,ktxtorrent90.com##img[src*=".imgbox.com/"]
 torrentsome70.com,torrentsome71.com,torrentsome72.com,torrentsome73.com,torrentsome74.com,torrentsome75.com,torrentsome76.com,torrentsome77.com,torrentsome78.com,torrentsome79.com,torrentsome80.com,torrentsome81.com,torrentsome82.com##a[href^="/go/"][target="_blank"]
 torrentrj82.com,torrentrj83.com,torrentrj84.com,torrentrj85.com,torrentrj86.com,torrentrj87.com,torrentrj88.com,torrentrj89.com,torrentrj90.com,torrentrj91.com,torrentrj92.com,torrentrj93.com,torrentrj94.com,torrentrj95.com,torrentrj96.com,torrentrj97.com##a[href^="/go/"][target="_blank"]
-bobaelink38.xyz,bobaelink39.xyz,bobaelink40.xyz,bobaelink41.xyz,bobaelink42.xyz,bobaelink43.xyz,bobaelink44.xyz,bobaelink45.xyz,bobaelink46.xyz,bobaelink47.xyz,bobaelink48.xyz,bobaelink49.xyz##a[href^="/ad-"]
+bobaelink45.xyz,bobaelink46.xyz,bobaelink47.xyz,bobaelink48.xyz,bobaelink49.xyz,bobaelink50.xyz,bobaelink51.xyz,bobaelink52.xyz,bobaelink53.xyz,bobaelink54.xyz,bobaelink55.xyz,bobaelink56.xyz##a[href^="/ad-"]
 uuoobe.com##td[valign="top"] ~ td[width][valign][bgcolor][align] table[width][height][border][cellpadding]
 uuoobe.com##table[width][cellspacing] td[valign="top"] table[width][border="0"] td[height="100"]
 filetender.com###banner
