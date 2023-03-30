@@ -755,11 +755,9 @@
 ||anilife.live/assets/banner/
 /^https?:\/\/manaboza[0-9]+\.com\/static\/picture\/[0-9]{4}_[0-9]{10}\.[0-9]{4}\./
 /^https?:\/\/manaboza[0-9]+\.com\/static\/image\/header\//
-||cloudaaaa.com^$domain=toonsarang612.com|toonsarang613.com|toonsarang614.com|toonsarang615.com|toonsarang616.com|toonsarang617.com|toonsarang618.com|toonsarang619.com|toonsarang620.com|toonsarang621.com
 /^https:\/\/toonsarang[0-9]+\.com\/bbs\/bannerhit\.php/$document
 /^https:\/\/agit[0-9]+\.com\/upload\/[0-9]{4}\/[0-9]{4}\/[0-9]{21}/
 /^https:\/\/newtoon[0-9]+\.com\/banner\//
-||cloudaaaa.com^$domain=copytoon612.com|copytoon613.com|copytoon614.com|copytoon615.com|copytoon616.com|copytoon617.com|copytoon618.com|copytoon619.com|copytoon620.com|copytoon621.com|copytoon622.com
 /^https:\/\/hodu[0-9]+\.net\/_book\/_Contents\/banner\//
 /^https:\/\/bam[0-9]+co\.com\/_book\/_Contents\/banner\//
 ||blogger.googleusercontent.com/img/$domain=hdhd224.net|hdhd225.net|hdhd226.net|hdhd227.net|hdhd228.net|hdhd229.net|hdhd230.net|hdhd231.net|hdhd232.net|hdhd233.net|hdhd234.net|hdhd235.net|hdhd236.net|hdhd237.net|hdhd238.net
