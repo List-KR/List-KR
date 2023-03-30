@@ -735,7 +735,7 @@
 /^https:\/\/dc\.filesbest\.xyz\/uploadfile\/images\/[a-z0-9]+\.gif$/
 /^https:\/\/torrentwiz[0-9]+\.com\/data\/editor\/[0-9]{4}\//
 /^https:\/\/torrentbot[0-9]+\.com\/uploadfile\/up[a-z0-9]+\.gif$/
-||imgbox.com^$domain=ktxtorrent58.com|ktxtorrent59.com|ktxtorrent60.com|ktxtorrent61.com|ktxtorrent62.com|ktxtorrent63.com|ktxtorrent64.com|ktxtorrent65.com|ktxtorrent66.com|ktxtorrent67.com|ktxtorrent68.com|ktxtorrent69.com|ktxtorrent70.com|ktxtorrent.com
+||imgbox.com^$domain=ktxtorrent76.com|ktxtorrent77.com|ktxtorrent78.com|ktxtorrent79.com|ktxtorrent80.com|ktxtorrent81.com|ktxtorrent82.com|ktxtorrent83.com|ktxtorrent84.com|ktxtorrent85.com|ktxtorrent86.com|ktxtorrent87.com|ktxtorrent88.com|ktxtorrent89.com|ktxtorrent90.com
 ||static.filesbest.xyz^$domain=ktxtorrent76.com|ktxtorrent77.com|ktxtorrent78.com|ktxtorrent79.com|ktxtorrent80.com|ktxtorrent81.com|ktxtorrent82.com|ktxtorrent83.com|ktxtorrent84.com|ktxtorrent85.com|ktxtorrent86.com|ktxtorrent87.com|ktxtorrent88.com|ktxtorrent89.com|ktxtorrent90.com
 ||static.filesbest.xyz^$domain=torrentrj69.com|torrentrj70.com|torrentrj71.com|torrentrj72.com|torrentrj73.com|torrentrj74.com|torrentrj75.com|torrentrj76.com|torrentrj77.com|torrentrj78.com|torrentrj79.com|torrentrj80.com|torrentrj81.com|torrentrj82.com|torrentrj83.com|torrentrj84.com
 ||i.imgur.com^$domain=bobaelink38.xyz|bobaelink39.xyz|bobaelink40.xyz|bobaelink41.xyz|bobaelink42.xyz|bobaelink43.xyz|bobaelink44.xyz|bobaelink45.xyz|bobaelink46.xyz|bobaelink47.xyz|bobaelink48.xyz|bobaelink49.xyz
