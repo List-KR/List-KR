@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+m.starnewskorea.com##div[id$="ad"][style]
 heraldpop.com##.article_area .list_r
 heraldpop.com##div[id*="_ad"]
 heraldpop.com##.article_wrap div[class^="ad"]
