@@ -82,7 +82,6 @@
 ||thebike.co.kr/img/ad/
 ||thebike.co.kr/img/ban_
 ||corearoadbike.com/*banner/
-||js.newsmobile.co.kr/inbnet_listing_banner.html
 ||img.wowtv.co.kr/MainManage/
 ||vop.co.kr/templates/adv/
 ||vop.co.kr/templates/admanager/
