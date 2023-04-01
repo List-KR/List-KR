@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+mobile.newsis.com##div[style~="padding:10px"][style~="10px;"] > div[style^="height:"]
 starnewskorea.com##div[itemprop="articleBody"] > div[style^="float:"]
 m.starnewskorea.com##div[id$="ad"][style]
 heraldpop.com##.article_area .list_r
@@ -764,7 +765,6 @@ danawa.com###danawa_main_container > .main-top > .main-top__center > .main-middl
 entertain.daum.net##.aside_g.aside_ad
 entertain.daum.net##.aside_g.aside_shopping
 mobile.newsis.com##section > div[class^="listStyle"] > ul[class^="listStyle"] > li.first
-mobile.newsis.com##div[style~="padding:10px"][style~="10px;"] > div[style="height: 35px;"]
 mobile.newsis.com##article > .article > div[class][style~="100%;"][style~="250px;"][style~="padding:"]
 mobile.newsis.com##iframe[src^="/ad_list/"]
 m.daum.net##div[class][data-ad-media][data-ad-pubuser][data-ad-type][data-ad-width][data-ad-height]

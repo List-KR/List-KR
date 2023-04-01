@@ -1,3 +1,6 @@
+##iframe[src*="//ads.mtgroup.kr/"]
+##iframe[src*="//adv.imadrep.co.kr/"]
+##iframe[src*="//io.smartmyd.com/"]
 ###admaru
 ##tenping[tenping-ad-display-type]
 ##.revenue_unit_item.tenping
