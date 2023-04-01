@@ -27,7 +27,6 @@ pping.kr#%#//scriptlet('remove-attr', 'placeholder', 'input.search_input', 'asap
 op.gg#%#//scriptlet('json-prune', 'text_banner image_banner')
 m.dcinside.com#%#//scriptlet('set-constant', 'reple_dori', 'noopFunc')
 11st.co.kr#%#//scriptlet('json-prune', '[].displayBeginDate [].displayEndDate')
-m.nate.com#%#//scriptlet('json-prune', 'shopping')
 shoppinghow.kakao.com#%#//scriptlet('json-prune', 'ads')
 dpg.danawa.com#%#//scriptlet('abort-current-inline-script', '$', '/danawa-dpg-common-sponsorBanner-/')
 dpg.danawa.com#%#//scriptlet('abort-current-inline-script', '$', 'myScript[myScript.length - 1 ]')
