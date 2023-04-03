@@ -452,7 +452,6 @@
 ||junggi.co.kr/image/banner/
 ||photo.coolenjoy.co.kr/banner/
 ||json*.dcinside.com/json*/comment_boy_v*.php
-||menu.mt.co.kr/js/AdsDispatcher.js
 ||dcinside.com/_js/ad_context_powLink.js
 /^https:\/\/shop\.nate\.com\/shopbox\/shopbox.+&svcpage=news/$domain=nate.com
 /^https:\/\/(comm\.|m\.)?news\.nate\.com\/(etc|Etc)\/[A-z]*(ad|Ad|AD)[A-z]*/$domain=nate.com
