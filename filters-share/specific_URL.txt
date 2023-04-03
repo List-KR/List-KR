@@ -253,7 +253,7 @@
 ||chosunlatimes.com/thema/Miso-Basic*/assets/img/developer_
 ||chosunlatimes.com/data/file/banner/
 ||onechurch.nz/banners/
-/^https:\/\/upload\.acmicpc\.net\/[a-z0-9]{8}-[a-z0-9]{4}-[a-z0-9]{4}-[a-z0-9]{4}-[a-z0-9]{12}\/$/$domain=acmicpc.net
+/^https:\/\/upload\.acmicpc\.net\/[a-z0-9]{8}-[a-z0-9]{4}-[a-z0-9]{4}-[a-z0-9]{4}-[a-z0-9]{12}\//$domain=acmicpc.net
 ||geo.dailymotion.com/libs/player/$domain=ggilbo.com
 ||api.dailymotion.com/video/$domain=ggilbo.com
 ||medigatenews.com/file/banner/
