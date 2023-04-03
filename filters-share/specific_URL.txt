@@ -650,6 +650,8 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/^https:\/\/av[0-9]+\.org\/banner\//
+||cdnbuzz.buzz/banner/
 /^https:\/\/(www\.)?todawa[0-9]+\.asia\/ad\//
 /^https:\/\/(www\.)?bngame[0-9]+\.com\/data\/files\/banner\//
 /^https:\/\/today-sports\.io\/img\/.*(?=(evolution|banner|\.gif))/$domain=today-sports.io
