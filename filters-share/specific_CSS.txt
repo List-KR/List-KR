@@ -150,7 +150,6 @@ etoland.co.kr#$#.hit_list_ul_wrap { width: 100% !important; }
 biz.heraldcorp.com#$#.article_area > .article_left { width: 100% !important; }
 windowsforum.kr#$#.content { margin-top: 0px !important; }
 mule.co.kr#$#div.section-leftmiddle-topmiddle.cf { width: 100% !important; }
-ruliweb.com#$##board_top > div > .top_best.best_list { width: 100% !important; }
 berryjam.co.kr#$#.goods_list_tit { padding-top: 0px !important; }
 community.rememberapp.co.kr#$#div.sc-64vosk-0.jIkGEl { margin-bottom: 10px !important; }
 ruliweb.com#$#.user_view { width: 100% !important; }
