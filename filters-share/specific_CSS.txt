@@ -1,6 +1,4 @@
 heraldpop.com#$#.article_area .article_left { width: 100% !important; }
-tgd.kr#$#html[style*="background-image:"][style*="//upload.tgd.kr/"]:not(.darkmode) { background-image: none !important; background-color: #f3f2f0 !important; }
-tgd.kr#$#html[style*="background-image:"][style*="//upload.tgd.kr/"].darkmode { background-image: none !important; background-color: #151515 !important; }
 chaoscube.co.kr#$#.container .contents > .subcontents:nth-child(1) { margin-top: 0px !important; }
 chaoscube.co.kr#$#html:not([data-n-head]) .contents > .headline { margin-top: 0px !important; height: 70px !important; }
 news.heraldcorp.com#$#.article_area > .article_left { width: 100% !important; }
