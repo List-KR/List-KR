@@ -1,3 +1,4 @@
+/^https:\/\/nng-phinf\.pstatic\.net\/.+\/[%A-z0-9\.]*[0-9]+(x|X)[0-9]+.*_naverads\./$match-case,domain=naver.com
 ||quasarzone.com/banner/display
 ||pennmike.com/script/bannerpop.js
 ||jjang0u.com/img/banner_ad_
@@ -41,7 +42,6 @@
 ||m-economynews.com/data/banner/
 /^https?:\/\/view[0-9]+\.wemep\.co\.kr\/wmp-banner\/[0-9]{2}\/[0-9]{6}\/[0-9]{2}\//$match-case,domain=wemakeprice.com
 /^https?:\/\/view[0-9]+\.wemep\.co\.kr\/wmp-main\/[0-9]{2}\/[0-9]{6}\/[0-9]{2}\/(pmt|pmb)_[a-z0-9]{12}\./$match-case,domain=wemakeprice.com
-/^https:\/\/nng-phinf\.pstatic\.net\/.+\/[%A-z0-9]*[0-9]+(x|X)[0-9]+.*_naverads\./$match-case,domain=naver.com
 ||yeskey.or.kr/bnr-img/
 ||static.hankyung.com/img/tenasia/w/banners/
 ||side.mythiell.com/readUrl.php?url=https://ad.mapy.co.kr/
