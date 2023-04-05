@@ -14,6 +14,6 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: Run jsDelivr-Purge
-              uses: List-KR/jsdelivr-purge@v2
+              uses: List-KR/jsdelivr-purge@v3
               with:
                 branches: "master"
