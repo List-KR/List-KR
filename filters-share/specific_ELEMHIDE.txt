@@ -23,7 +23,7 @@ philgo.com,ondisk.co.kr,blockchainhub.kr,cineaste.co.kr,jpaxnet.co.kr,bigkinds.o
 ! ##div[class^="banner"]
 bgchang.co.kr,edit.incruit.com,m.hungryapp.co.kr,m.edaily.co.kr,m.news1.kr##div[class^="banner"]
 ! ##div[class$="-ad"]
-todaysppc.com,gmarket.co.kr,kpenews.com,m.diningcode.com,m.invest.zum.com,insight.co.kr,cgv.co.kr,m.inven.co.kr,tipsandtrickskorea.com,gamemeca.com,yeongnam.com##div[class$="-ad"]
+acmicpc.net,todaysppc.com,gmarket.co.kr,kpenews.com,m.diningcode.com,m.invest.zum.com,insight.co.kr,cgv.co.kr,m.inven.co.kr,tipsandtrickskorea.com,gamemeca.com,yeongnam.com##div[class$="-ad"]
 ! ##div[id^="ad"]
 newdaily.co.kr,nzkoreapost.com,moneys.mt.co.kr,fmkorea.com,newstomato.com,gamemeca.com,m.khan.co.kr,m.dcinside.com##div[id^="ad"]
 ! ##div[id^="AD"]
