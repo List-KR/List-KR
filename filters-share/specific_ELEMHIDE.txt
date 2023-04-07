@@ -956,7 +956,7 @@ www.naver.com##div.column_fix_wrap > div#shopcast
 !
 ! DOMAIN-REFRESHER: START
 !
-noonoo41.tv##div[class*="-banner"]
+noonoo42.tv,noonoo43.tv,noonoo44.tv,noonoo45.tv,noonoo46.tv,noonoo47.tv,noonoo48.tv,noonoo49.tv,noonoo50.tv,noonoo51.tv,noonoo52.tv,noonoo53.tv,noonoo54.tv##div[class*="-banner"]
 kimyadong.net,yadongwang.org,yadongstar.net,yadongkorea.red,yadongtube.net,yatv.net###banner
 save-1.net##div[id^="float"]
 save-1.net##div[class^="header-banner-"]
