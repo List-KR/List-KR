@@ -1,3 +1,4 @@
+||wtg-ads.com^
 ||external-api.impression-neo.naver.com^
 ||shoppingcall.me^
 ||googletagservices.com^
