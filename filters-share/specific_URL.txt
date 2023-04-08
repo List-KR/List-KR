@@ -647,6 +647,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/^https:\/\/manatoon[0-9]+\.com\/data\/apms\/background\//
 /^https:\/\/av[0-9]+\.org\/banner\//
 ||cdnbuzz.buzz/banner/
 /^https:\/\/(www\.)?todawa[0-9]+\.asia\/ad\//
