@@ -1,8 +1,8 @@
 [AdGuard]
 ! Title: List-KR for AdGuard
 ! Description: List-KR for AdGuard. Maintained by the adblock community and AdGuard.
-! Version: 2023.0408.0
-! Expires: 1 day
+! Version: 2023.0409.0
+! Expires: 12 hours
 ! Homepage: https://github.com/List-KR/List-KR
 ! Support: https://github.com/List-KR/List-KR/issues/223
 ! License: https://github.com/List-KR/List-KR/blob/master/LICENSE
