@@ -59,6 +59,9 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+www.dt.co.kr##iframe[src*="//io1.innorame.com/"] + .bk40
+www.dt.co.kr##center + .bk40
+www.dt.co.kr##ins[data-aiinad-inv] + .bk40
 m.humoruniv.com##body > .adsbygoogle
 interpark.com##.adBannerBox
 bizhankook.com##a[href^="/b/c/NPM"]
