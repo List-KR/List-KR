@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+m.humoruniv.com##body > .adsbygoogle
 interpark.com##.adBannerBox
 bizhankook.com##a[href^="/b/c/NPM"]
 mlbpark.donga.com##.sub_lists_today li.items::before
@@ -449,7 +450,7 @@ themomstory.co.kr##.ezoic-ad
 eegosa.com##section[id^="block-"].widget_block
 jobkorea.co.kr##.grand_banner_wrap li.item_adagency
 jobkorea.co.kr##.byWd div[id^="bl_"]
-m.humoruniv.com,meeco.kr##.adsbygoogle
+meeco.kr##.adsbygoogle
 www.clien.net##.section_list.hongbo
 m.joynews24.com##hr[style].blank
 joynews24.com,inews24.com##ad
