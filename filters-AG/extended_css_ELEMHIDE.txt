@@ -1,6 +1,3 @@
-!#if (adguard_app_ios)
-m.humoruniv.com#?#.adsbygoogle + div *:has(style ~ a[href][target] [style] ~ [style])
-!#endif
 bonik.me#?##sidebar > .module:contains(Ad)
 msearch.wemakeprice.com#?#article[data-list-container="searchList"] li:has(span:contains(AD).gray_round_badge)
 search.wemakeprice.com#?#.search_box_listdeal > .list_conts_wrap:has(span:contains(AD).round_badge)
