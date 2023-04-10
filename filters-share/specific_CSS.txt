@@ -7,7 +7,6 @@ pushoong.com#$#.ask_hamburger_wrapper { top: 0px !important; }
 pushoong.com#$#.ask_wrapper.not_host { top: 0px !important; }
 pushoong.com#$#.ask_wrapper .ask_title_zone { top: 0px !important; }
 topstarnews.net#$#.expanded > #user-container { padding-top: 0px !important; }
-genshin.gamedot.org#$##mapsContainer > .maps-content { top: 125px !important; }
 m.inven.co.kr#$#.mo-new-header .header .show-ads { max-height: 54px !important; }
 blockchainhub.kr#$#.bch-main-wrapper > .right-cont { margin-right: calc(50% - 180px) !important; width: 100% !important; }
 ppss.kr#$#.content { width: 100% !important; }

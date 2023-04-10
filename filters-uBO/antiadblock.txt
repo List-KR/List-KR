@@ -34,6 +34,7 @@ meeco.kr#?#.adsbygoogle:remove()
 @@||namu.news/$frame,script,domain=namu.wiki|~board.namu.wiki
 @@||namu.wiki/$frame,script,domain=namu.wiki|~board.namu.wiki
 !
+genshin.gamedot.org##+js(nostif, blockCheck2022)
 @@||ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js$script,domain=search.shopping.naver.com
 @@||ssl.pstatic.net/tveta/libs/glad/prod/*/gfp-sdk.js$script,domain=search.shopping.naver.com
 @@||gfp.veta.naver.com/call?u=pc_nshop_ch1$xmlhttprequest,domain=search.shopping.naver.com
@@ -54,7 +55,6 @@ mnews.jtbc.co.kr#@#.ad_bottom
 3dpchip.com##+js(acis, chp_ads_blocker_detector)
 @@||kpanews.co.kr^$generichide
 ilsangt.tistory.com##.adblock-on
-genshin.gamedot.org##+js(nostif, adblockChecker)
 ||ssulwar.com/dev/modules/board/skins/*/js/adblockblock.js
 ssulwar.com##+js(acis, document.getElementById, adblock)
 ||ad.smartmediarep.com/NetInsight/video/$redirect=noop.txt,domain=mbn.co.kr
