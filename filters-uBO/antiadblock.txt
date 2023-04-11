@@ -24,8 +24,8 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 ! AdGlare Ad Server
 luckyquiz3.blogspot.com##+js(acis, document.createElement, hasAdblock)
 ! meeco.kr
+meeco.kr##+js(set, adsBlocked, noopFunc)
 meeco.kr#$#.xe_content { opacity: 1 !important; }
-meeco.kr##+js(acis, $, .adsbygoogle)
 meeco.kr#?#.adsbygoogle:remove()
 ! Umanle S.R.L
 @@||arca.live^$generichide
