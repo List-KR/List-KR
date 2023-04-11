@@ -1,3 +1,4 @@
+||adplatform-cdn.baemin.com^
 ||external-ad.bunjang.co.kr^
 ||epnt.ebay.com^
 ||img.side.mythiell.com^
