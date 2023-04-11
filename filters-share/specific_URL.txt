@@ -526,7 +526,6 @@
 ||mdjournal.kr/banner/
 ||nts.go.kr/images/ad/lgnm/popup/popup_img_openinfo_high.jpg
 ||dogdrip.net/addons/ddnetspt/js/ddnetspt_ad.js
-||noonnu.cc/ad_banners/$document
 ||allyearcdn.com/img/guanggo/new/
 ||ppomppu.co.kr/inform_ad_click.php$document
 ||dogdrip.net/common/dload.php
