@@ -763,7 +763,6 @@ m.fpn119.co.kr##div[id^="mobitree"]
 dispatch.co.kr###dpArticleBlocksWrapper
 dispatch.co.kr##div[id^="ADOP_"][style]
 m.clien.net##div[id^="naverAd"]
-m.ppomppu.co.kr##div[style]#mainList.community-board-list > ul > li[id$="_ad"][style]:not([class])
 search.danawa.com###productListArea > .goods-list > ul#productListArea_list > li.goods-list__item:not([id]):not([data-itemtype])
 search.danawa.com##.main_prodlist > ul.product_list > li.prod_item:not([id])
 search.danawa.com###powerClickListArea
