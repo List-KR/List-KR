@@ -1,3 +1,4 @@
+m.ppomppu.co.kr#?#.community-board-notice-box #bbs_inform:has(a[href*="//s.ppomppu.co.kr?target="])
 m.ruliweb.com#?#.board_main .user_view_target ~ .row:not(:has(.source_url))
 noonoo.info#?#section[tabindex].wixui-section:has(.wixui-image a[href^="http"] img)
 search.shopping.naver.com#?##content .list_basis div:has(> .ad)
