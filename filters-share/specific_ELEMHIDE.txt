@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+www.instiz.net##div[style*="min-height:"].responsive_main
 noonnu.cc##div[data-controller="font"] > .hidden
 www.dt.co.kr##iframe[src*="//io1.innorame.com/"] + .bk40
 www.dt.co.kr##center + .bk40
