@@ -145,6 +145,7 @@ berryjam.co.kr#?#table[width="1200"]:has(> tbody > tr > td > div[class*="slider-
 !
 ! DOMAIN-REFRESHER: START
 !
+zzap01.tv,zzap02.tv,zzap03.tv,zzap04.tv,zzap05.tv,zzap06.tv,zzap07.tv,zzap08.tv,zzap09.tv,zzap10.tv,zzap11.tv,zzap12.tv,zzap13.tv,zzap14.tv,zzap15.tv,zzap16.tv,zzap17.tv#?#.widget-side .widget-title:has(+ div a[href^="/bbs/link.php?bo_table="][target="_blank"])
 skytoon87.com,skytoon88.com,skytoon89.com,skytoon90.com,skytoon91.com,skytoon92.com,skytoon93.com,skytoon94.com,skytoon95.com,skytoon96.com,skytoon97.com,skytoon98.com,skytoon99.com,skytoon100.com,skytoon101.com#?#header ~ .vod:has(a[href*="/links/bannerlink/"])
 sonagitv.live#?#.navbar-nav > li:has(a[href*="/affiliatedcompany/"])
 booktoki282.com,booktoki283.com,booktoki284.com,booktoki285.com,booktoki286.com,booktoki287.com,booktoki288.com,booktoki289.com,booktoki290.com,booktoki291.com,booktoki292.com,booktoki293.com,booktoki294.com,booktoki195.com,booktoki196.com,booktoki197.com#?#ul[class] > li:has(> a[href*="tokkiweb.com"])

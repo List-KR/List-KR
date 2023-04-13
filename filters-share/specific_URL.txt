@@ -647,6 +647,8 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/^https:\/\/(www\.)?zzap[0-9]+\.tv\/data\/zzapstream\/[0-9]+_[A-z0-9]+\./
+||zzweb.b-cdn.net/data/file/partnerevent/
 /^https:\/\/manatoon[0-9]+\.com\/data\/apms\/background\//
 /^https:\/\/av[0-9]+\.org\/banner\//
 ||cdnbuzz.buzz/banner/
