@@ -1,3 +1,4 @@
+eomisae.co.kr#?#._listA tr.notice:has(span[style]:has-text(AD))
 bonik.me#?##sidebar > .module:has-text(Ad)
 msearch.wemakeprice.com#?#article[data-list-container="searchList"] li:has(span:has-text(AD).gray_round_badge)
 search.wemakeprice.com#?#.search_box_listdeal > .list_conts_wrap:has(span:has-text(AD).round_badge)
