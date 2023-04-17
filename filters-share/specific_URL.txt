@@ -1,3 +1,5 @@
+||avdbs.com/*/img/banner/
+||avdbs.com/*/img/aashop/
 ||live.afreecatv.com/api/get_ad.php
 /^https:\/\/soxak\.com\/system\/covers\/[0-9]+\/[0-9]+\/[0-9]+\/[a-z0-9]+\/original_/$domain=soxak.com,image
 /^https:\/\/soxak\.com\/images\/([a-z]+_)?banner(_[a-z_]+)?\./$domain=soxak.com
