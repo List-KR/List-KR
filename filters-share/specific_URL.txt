@@ -652,6 +652,8 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/^https:\/\/(www\.)?ruru\.tv\/uploads\/[0-9]+\/((?!16682220461360)[0-9]+)/$domain=ruru.tv
+||ruru.tv/uploads/
 /^https:\/\/torrentsee[0-9]+\.com\/uploadfile\/up[a-z0-9]+\.gif$/
 ||kbutv.com/allimg/*/banner
 /^https:\/\/(www\.)?zzap[0-9]+\.tv\/data\/zzapstream\/[0-9]+_[A-z0-9]+\./
