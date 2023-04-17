@@ -1,3 +1,4 @@
+||skt-asum.com^
 ||iad-*.braze.com^
 ||adplatform-cdn.baemin.com^
 ||external-ad.bunjang.co.kr^
