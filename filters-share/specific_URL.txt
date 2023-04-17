@@ -652,6 +652,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/^https:\/\/torrentsee[0-9]+\.com\/uploadfile\/up[a-z0-9]+\.gif$/
 ||kbutv.com/allimg/*/banner
 /^https:\/\/(www\.)?zzap[0-9]+\.tv\/data\/zzapstream\/[0-9]+_[A-z0-9]+\./
 ||zzweb.b-cdn.net/data/file/partnerevent/

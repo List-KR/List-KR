@@ -50,6 +50,7 @@ m.bunjang.co.kr#?#div:has(> div > div > div:contains(연관상품) > div:has(> d
 !
 ! DOMAIN-REFRESHER: START
 !
+torrentsee160.com,torrentsee161.com,torrentsee162.com,torrentsee163.com,torrentsee164.com,torrentsee165.com,torrentsee166.com,torrentsee167.com,torrentsee168.com,torrentsee169.com,torrentsee170.com,torrentsee171.com,torrentsee172.com,torrentsee173.com,torrentsee174.com,torrentsee175.com#?#.nplr div[class=""] li:has(li:contains(AD))
 torrentdia93.com,torrentdia94.com,torrentdia95.com,torrentdia96.com,torrentdia97.com,torrentdia98.com,torrentdia99.com,torrentdia100.com,torrentdia101.com,torrentdia102.com,torrentdia103.com,torrentdia104.com,torrentdia105.com,torrentdia106.com,torrentdia107.com#?#form#fboardlist table tr:has(span.text-muted:contains(AD))
 img.imimggggg87878.com#?#a[target="_blank"][href^="http://"].menu-a:contains(보증토토)
 frtoon161.com,frtoon162.com,frtoon163.com,frtoon164.com,frtoon165.com,frtoon166.com,frtoon167.com,frtoon168.com,frtoon169.com,frtoon170.com,frtoon171.com,frtoon172.com,frtoon173.com,frtoon174.com#?#.alert-danger.container:contains([AD])

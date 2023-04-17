@@ -964,6 +964,7 @@ www.naver.com##div.column_fix_wrap > div#shopcast
 !
 ! DOMAIN-REFRESHER: START
 !
+torrentsee160.com,torrentsee161.com,torrentsee162.com,torrentsee163.com,torrentsee164.com,torrentsee165.com,torrentsee166.com,torrentsee167.com,torrentsee168.com,torrentsee169.com,torrentsee170.com,torrentsee171.com,torrentsee172.com,torrentsee173.com,torrentsee174.com,torrentsee175.com##div[id^="ad_"]
 zzap01.tv,zzap02.tv,zzap03.tv,zzap04.tv,zzap05.tv,zzap06.tv,zzap07.tv,zzap08.tv,zzap09.tv,zzap10.tv,zzap11.tv,zzap12.tv,zzap13.tv,zzap14.tv,zzap15.tv,zzap16.tv,zzap17.tv###hd_pop
 kimyadong.net,yadongwang.org,yadongstar.net,yadongkorea.red,yadongtube.net,yatv.net###banner
 save-1.net##div[id^="float"]
