@@ -65,7 +65,7 @@ genshin.gamedot.org#%#//scriptlet('prevent-setTimeout', 'blockCheck2022')
 @@||gfp.veta.naver.com/call?u=pc_nshop_ch1$xmlhttprequest,domain=search.shopping.naver.com
 @@||ssl.pstatic.net/tveta/libs/glad/prod/*/gfp-ext-nda.js$script,domain=search.shopping.naver.com
 @@||ssl.pstatic.net/tveta/libs/glad/prod/*/sf-ext.js$script,domain=search.shopping.naver.com
-search.shopping.naver.com#$#iframe[id^="powerlink-div"] { height: 40px !important; visibility: hidden !important; }
+search.shopping.naver.com#$#iframe[id^="powerlink-div"] { height: 80px !important; visibility: hidden !important; }
 !#if (adguard_app_ios)
 @@||errornight.com^$generichide
 errornight.com#$#ins.adsbygoogle { display: none !important; }
