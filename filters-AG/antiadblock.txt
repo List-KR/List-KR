@@ -59,6 +59,7 @@ meeco.kr#?#.adsbygoogle:remove()
 @@||namu.wiki/$subdocument,script,domain=namu.wiki
 !#endif
 !
+avdbs.com#%#//scriptlet('abort-on-property-read', 'ad_blk')
 genshin.gamedot.org#%#//scriptlet('prevent-setTimeout', 'blockCheck2022')
 @@||ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js$script,domain=search.shopping.naver.com
 @@||ssl.pstatic.net/tveta/libs/glad/prod/*/gfp-sdk.js$script,domain=search.shopping.naver.com

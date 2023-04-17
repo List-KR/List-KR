@@ -34,6 +34,7 @@ meeco.kr#?#.adsbygoogle:remove()
 @@||namu.news/$frame,script,domain=namu.wiki|~board.namu.wiki
 @@||namu.wiki/$frame,script,domain=namu.wiki|~board.namu.wiki
 !
+avdbs.com##+js(aopr, ad_blk)
 genshin.gamedot.org##+js(nostif, blockCheck2022)
 @@||ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js$script,domain=search.shopping.naver.com
 @@||ssl.pstatic.net/tveta/libs/glad/prod/*/gfp-sdk.js$script,domain=search.shopping.naver.com
