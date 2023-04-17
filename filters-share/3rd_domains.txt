@@ -1,3 +1,7 @@
+||a.applvn.com^
+||d.applvn.com^
+||ms.applvn.com^
+||iadsdk.apple.com^
 ||skt-asum.com^
 ||iad-*.braze.com^
 ||adplatform-cdn.baemin.com^
