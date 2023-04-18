@@ -1,3 +1,3 @@
-!#if (adguard_app_ios || adguard_ext_safari)
+!#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb)
 @@||ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js$script,domain=m.cafe.naver.com
 !#endif
