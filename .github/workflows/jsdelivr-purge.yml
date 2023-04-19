@@ -4,6 +4,14 @@ on:
   schedule:
     - cron: '0 0/1 * * *'
   workflow_dispatch:
+    inputs:
+      delay:
+        required: true
+        type: string
+      branches:
+        required: true
+        type: string
+      
 
 permissions:
     actions: read
