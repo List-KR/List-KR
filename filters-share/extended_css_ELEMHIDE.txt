@@ -1,3 +1,4 @@
+acmicpc.net#?#.text-center > a[onclick^="App.trackOutboundLink"]:has(> img[src^="https://upload.acmicpc.net"][class^="visible-"][class$="-block"])
 m.ppomppu.co.kr#?#.community-board-notice-box #bbs_inform:has(a[href*="//s.ppomppu.co.kr?target="])
 m.ruliweb.com#?#.board_main .user_view_target ~ .row:not(:has(.source_url))
 search.shopping.naver.com#?##content .list_basis div:has(> .ad)
