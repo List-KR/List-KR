@@ -1,3 +1,4 @@
+||ad-brix.com^
 ||wtg-ads.com^
 ||external-api.impression-neo.naver.com^
 ||shoppingcall.me^
