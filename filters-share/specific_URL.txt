@@ -656,6 +656,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/^https:\/\/ohli365\.[a-z]+\/data\/apms\/background\//
 ||imgbox.com^$domain=tvzota48.com|tvzota49.com|tvzota50.com|tvzota51.com|tvzota52.com|tvzota53.com|tvzota54.com|tvzota55.com|tvzota56.com|tvzota57.com|tvzota58.com
 /^https:\/\/(www\.)?ruru\.tv\/uploads\/[0-9]+\/((?!16682220461360)[0-9]+)/$domain=ruru.tv
 ||ruru.tv/uploads/
