@@ -18,6 +18,7 @@ jootc.com,ehpub.co.kr#%#//scriptlet('abort-current-inline-script', 'ai_run_scrip
 ||fundingchoicesmessages.google.com^$domain=windowsforum.kr|iteastory.com|snskeyboard.com|rdsong.com|mongri.net|meeco.kr|poketory.com|youthassembly.kr|kr.jugomobile.com|1412.rest|pyrasis.com|oceansabyss.com|yongtj.com|dora-guide.com|tailstar.net|creativestudio.kr|gamejay.net|mksports.co.kr|sisamagazine.co.kr|dreamrail.co.kr|tistory.com|gukjenews.com|issuelink.co.kr|webtool.cusis.net|koreaminecraft.net
 ! Kakao TV
 !#if (adguard_app_ios || adguard_ext_safari)
+v.daum.net#@#div[class$="_ad"]
 @@||videoads.kakao.com/adserver/api/v*/vmap|$domain=kakao.com|daum.net|namu.wiki
 @@/embed/player/image/ads.png$domain=kakao.com|daum.net|namu.wiki
 daum.net,kakao.com,namu.wiki#@##adContainer
