@@ -965,6 +965,7 @@ www.naver.com##div.column_fix_wrap > div#shopcast
 !
 ! DOMAIN-REFRESHER: START
 !
+hasha.in##div[style^="min-height:"][class^="bg-hasha-"] > div[style] + .max-w-full
 tvzota48.com,tvzota49.com,tvzota50.com,tvzota51.com,tvzota52.com,tvzota53.com,tvzota54.com,tvzota55.com,tvzota56.com,tvzota57.com,tvzota58.com##div[class^="popup_"]
 tvzota48.com,tvzota49.com,tvzota50.com,tvzota51.com,tvzota52.com,tvzota53.com,tvzota54.com,tvzota55.com,tvzota56.com,tvzota57.com,tvzota58.com##.wid
 torrentsee160.com,torrentsee161.com,torrentsee162.com,torrentsee163.com,torrentsee164.com,torrentsee165.com,torrentsee166.com,torrentsee167.com,torrentsee168.com,torrentsee169.com,torrentsee170.com,torrentsee171.com,torrentsee172.com,torrentsee173.com,torrentsee174.com,torrentsee175.com##div[id^="ad_"]
@@ -974,7 +975,6 @@ save-1.net##div[id^="float"]
 save-1.net##div[class^="header-banner-"]
 save-1.net##.at-main > .widget-box
 save-1.net##.w-banner
-hasha.in##div[style^="min-height:"][class^="bg-hasha-"] > .max-w-full
 tvchak.live##.mobile-main div[style^="padding:"].border-shadow
 jgmoa42.com,jgmoa43.com,jgmoa44.com,jgmoa45.com,jgmoa46.com,jgmoa47.com,jgmoa48.com,jgmoa49.com,jgmoa50.com,jgmoa51.com,jgmoa52.com,jgmoa53.com,jgmoa54.com,jgmoa55.com,jgmoa56.com##.popup
 torrenttop38.com,torrenttop39.com,torrenttop40.com,torrenttop41.com,torrenttop42.com,torrenttop43.com,torrenttop44.com,torrenttop45.com,torrenttop46.com,torrenttop47.com,torrenttop48.com,torrenttop49.com,torrenttop50.com,torrenttop51.com##a[href^="/adver-"]
