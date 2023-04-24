@@ -11,7 +11,7 @@ funbe228.com,funbe229.com,funbe230.com,funbe231.com,funbe232.com,funbe233.com,fu
 [$path=/ca-fe\\/web\\/cafes\\/(jpnstory|10110775)(\\/|\\?)/]m.cafe.naver.com##.banner_add.bottom
 [$path=/(&|\\.|\\?)clubid=10110775($|&)/]~m.cafe.naver.com,cafe.naver.com###main-area > #cafe-intro
 [$path=/(&|\\.|\\?)clubid=10110775(&|$)/]~m.cafe.naver.com,cafe.naver.com##img[src][alt="매니저 등록 배너"]
-[$path=/ca-fe\\/web\\/cafes\\/(appleiphone|12789486)(\\/|\\?)/]m.cafe.naver.com##.banner_add.bottom
+[$path=/ca-fe\\/web\\/cafes\\/(appleiphone|12789486)(\\/|\\?)/]m.cafe.naver.com##.banner_add
 [$path=/(&|\\.|\\?)clubid=12789486(&|$)/]~m.cafe.naver.com,cafe.naver.com##img[src][alt="매니저 등록 배너"]
 [$path=/(&|\\.|\\?)clubid=12789486(&|$)/]~m.cafe.naver.com,cafe.naver.com###editorMainContent table:not([width$="%"]) > tbody > tr > td[width][valign]
 [$path=/ca-fe\\/web\\/cafes\\/(ghdi58|14062859)(\\/|\\?)/]m.cafe.naver.com##.banner_add.bottom
