@@ -8,6 +8,8 @@ m.fmkorea.com##iframe[src*="//loader.fmkorea.com/"][src*="_loader/"]
 funbe228.com,funbe229.com,funbe230.com,funbe231.com,funbe232.com,funbe233.com,funbe234.com,funbe235.com,funbe236.com,funbe237.com,funbe238.com,funbe239.com,funbe240.com,funbe241.com,funbe242.com##img[src^="/images/"]
 !#endif
 !
+[$path=/ca-fe\\/web\\/cafes\\/(perfumelove|10001688)(\\/|\\?)/]m.cafe.naver.com##.banner_add
+[$path=/(&|\\.|\\?)clubid=10001688(&|$)/]~m.cafe.naver.com,cafe.naver.com##img[src][alt="매니저 등록 배너"]
 [$path=/ca-fe\\/web\\/cafes\\/(jpnstory|10110775)(\\/|\\?)/]m.cafe.naver.com##.banner_add.bottom
 [$path=/(&|\\.|\\?)clubid=10110775($|&)/]~m.cafe.naver.com,cafe.naver.com###main-area > #cafe-intro
 [$path=/(&|\\.|\\?)clubid=10110775(&|$)/]~m.cafe.naver.com,cafe.naver.com##img[src][alt="매니저 등록 배너"]

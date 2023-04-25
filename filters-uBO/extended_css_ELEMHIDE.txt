@@ -40,6 +40,7 @@ ppss.kr#?#section[id^="custom_"]:has(> div.widget_text > h3:has-text(SPONSORED).
 m.bunjang.co.kr#?#.app > div > div > div[class]:has(> div[class] > div[class] > div[class]:has-text(파워링크))
 m.bunjang.co.kr#?#div:has(> div > div > div:has-text(연관상품) > div:has(> div:has-text(AD)) > img[alt="AD 가이드"])
 !
+~m.cafe.naver.com,cafe.naver.com#?#table[role="presentation"] div[style="text-align: center;"]:has(a[href$="/perfumelove/1193249"]):matches-path(/(&|\\.|\\?)clubid=10001688($|&)/)
 ~m.cafe.naver.com,cafe.naver.com#?#table[role="presentation"] #editorMainContent p[style^="text-align"]:has(a[href*=".twitch.tv/"] + a[href*=".twitch.tv/"]) ~ p:matches-path(/(&|\\.|\\?)clubid=27842958($|&)/)
 ~m.cafe.naver.com,cafe.naver.com#?##editorMainContent > *:has(a > img):matches-path(/(&|\\.|\\?)clubid=14062859(&|$)/)
 ~m.cafe.naver.com,cafe.naver.com#?##editorMainContent tr ~ tr:not([class]):has(+ .ad):matches-path(/(&|\\.|\\?)clubid=14605461($|&)/)
