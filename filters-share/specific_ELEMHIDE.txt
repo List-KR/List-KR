@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+inews24.com##header ~ container[class*="-"]
 allaboutshaving.kr###secondary > aside#search-4 ~ aside
 eomisae.co.kr##center > div[style*="background-color:"]
 heye.kr##div[id^="banner_"] > a[target="_blank"]
