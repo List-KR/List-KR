@@ -1,3 +1,5 @@
+||geojejournal.co.kr/script/ad.control.js
+||geojejournal.co.kr/banner/
 ||s-econ.kr/Files/*/Template/
 ||s-econ.kr/images/main/banner/
 ||allaboutshaving.kr/wp-content/plugins/quick-adsense-reloaded/
