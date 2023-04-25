@@ -681,11 +681,9 @@ toomics.com##body.home #contents > .floating
 toomics.com##img[src*="://thumb.toomics.com/upload/banner/"]:not([src*="/main/"]):not([src*="/cut/"])
 inven.co.kr###topskyAd
 coupang.com##li.search-product__ad-badge
-inews24.com##section > container > .ad
 hani.co.kr###laAdArea
 dpg.danawa.com###danawa-gnb-banner
 joynews24.com,inews24.com##aside > hr[class]
-inews24.com##article > ad[alt] ~ container[style]
 m.joynews24.com,inews24.com##article > div[style]:not([class])
 arca.live##div#newsRank
 m.happymoney.co.kr##.topBannerUse
@@ -705,7 +703,7 @@ auth.danawa.com###loginBottomBanner
 prod.danawa.com###ebayPowerClickBottomArea
 kimpga.com##div.max-w-screen-lg > .relative > div > div[class=""]:nth-child(1)
 m.danawa.com##.goods-list__ad
-inews24.com,joynews24.com##container[style~="width:100%;"][style~="position:relative;"]
+joynews24.com##container[style~="width:100%;"][style~="position:relative;"]
 ombudsmannews.com,kpja.kr,hungryapp.co.kr,usjournal.kr,socialvalue.kr,happycampus.com##div[id^="banner"]
 happycampus.com##div[id^="power_link_"]
 sportalkorea.com###Contents > #sideBox > div[style]
