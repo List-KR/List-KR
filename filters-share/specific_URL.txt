@@ -1,3 +1,5 @@
+||s-econ.kr/Files/*/Template/
+||s-econ.kr/images/main/banner/
 ||allaboutshaving.kr/wp-content/plugins/quick-adsense-reloaded/
 /^https?:\/\/adsenseforum[0-9]*\.co\.kr\/skin\/board\/WS_Board_QA.+\.png$/$match-case,domain=adsenseforum.co.kr|adsenseforum2.co.kr
 ||avdbs.com/*/img/banner/
