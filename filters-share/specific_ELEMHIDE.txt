@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+seoul.co.kr##table[id*="Ad"]
 tistory.com##.StoryBanner
 joynews24.com,inews24.com##header ~ container[class*="-"]
 allaboutshaving.kr###secondary > aside#search-4 ~ aside
@@ -558,7 +559,6 @@ tgd.kr###header-top-notice
 tgd.kr###main-menu div[style][align]
 hunnek.tistory.com##a[href^="https://www.panel.co.kr/user/join/etcpath/"]
 m.seoul.co.kr,m.nownews.seoul.co.kr###contentsBodyDiv > table[width]
-seoul.co.kr###articleContent > table[width][height][border]
 soccerline.kr##div[class$="Bann"]
 e-himart.co.kr##input ~ .searchRolling
 m.11st.co.kr##section#cts:not(.main) .ctg_loc ~ section.list_bx.hotclick
