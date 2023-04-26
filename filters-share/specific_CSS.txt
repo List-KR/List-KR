@@ -1,3 +1,4 @@
+news.unn.net#$#header > .header-body { width: 100% !important; }
 t.hi098123.com#$#article { top: 0px !important; }
 www.donga.com#$##journalist_card li { width: 100% !important; }
 heraldpop.com#$#.article_area .article_left { width: 100% !important; }
