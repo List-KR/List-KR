@@ -1,3 +1,4 @@
+||ddaily.co.kr/data/banner/
 ||t1.daumcdn.net/tistory_admin/promotion/
 ||geojejournal.co.kr/script/ad.control.js
 ||geojejournal.co.kr/banner/
