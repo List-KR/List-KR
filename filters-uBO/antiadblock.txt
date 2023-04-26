@@ -35,6 +35,13 @@ meeco.kr#?#.adsbygoogle:remove()
 @@||namu.news/$frame,script,domain=namu.wiki|~board.namu.wiki
 @@||namu.wiki/$frame,script,domain=namu.wiki|~board.namu.wiki
 !
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=t.hi098123.com
+@@||pagead2.googlesyndication.com/pagead/managed/$script,domain=t.hi098123.com
+||googleads.g.doubleclick.net/pagead/ads$frame,redirect=noop.html,domain=t.hi098123.com
+t.hi098123.com#@#ins.adsbygoogle
+t.hi098123.com#$#.tabad { height: 1px !important; }
+t.hi098123.com###hi-notice
+@@||googletagmanager.com/gtag/$script,domain=t.hi098123.com
 avdbs.com##+js(aopr, ad_blk)
 genshin.gamedot.org##+js(nostif, blockCheck2022)
 @@||ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js$script,domain=search.shopping.naver.com
