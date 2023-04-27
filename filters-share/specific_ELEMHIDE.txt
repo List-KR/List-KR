@@ -591,9 +591,7 @@ ohli24.net##nav ~ .at-title
 aagag.com##.la
 m.nocutnews.co.kr###pnlContainer .con_b >.ct_box:not([style])
 fmkorea.com###sidebar div[style^="height:"]:not(.li)
-te31.com##table.adsbygoogle ~ table #honey > div[style^="background-color:"]:not([class])
 te31.com###contentmemo ~ .adsbygoogle > div[style^="background-color:"]
-te31.com###menu_right.adsbygoogle
 te31.com##table.adsbygoogle ~ table[style^="min-height:"]
 te31.com###bbs > table[style^="color:#"] ~ div[style*="padding:"][style*="border-left"]
 mksports.co.kr###container_right > div[id^="slot"]
