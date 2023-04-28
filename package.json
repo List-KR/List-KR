@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "lint": "aglint",
+    "prepare": "husky install"
+  },
   "dependencies": {
     "@adguard/aglint": "^1.0.11",
     "husky": "^8.0.3"
