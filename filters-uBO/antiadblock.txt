@@ -87,7 +87,6 @@ noonnu.cc##+js(no-xhr-if, pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=google-ima3.js,domain=laftel.net
 focuskr.tistory.com##+js(acis, addEventListener, fuckadblock.min.js)
 singingdalong.blogspot.com##+js(acis, $, #ad_center)
-@@||googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=op.gg
 stockinfo7.com##+js(nostif, ad.innerHTML.replace)
 ||cdn.kollhong.com/wp-content/custom-js/fuckadblock.min.js
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=noop.js,domain=game.hotsharegames.com
