@@ -102,7 +102,7 @@ meeco.kr#@#.adsbygoogle
 stockinfo7.com#@#ins.adsbygoogle
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=stockinfo7.com
 ||cdn.kollhong.com/wp-content/custom-js/fuckadblock.min.js
-@@||www3.doubleclick.net/|$domain=blackkiwi.net
+@@||www3.doubleclick.net/|$xmlhttprequest,domain=blackkiwi.net
 @@||x86.co.kr^$generichide
 @@||tistory.com^$generichide
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=noonnu.cc
