@@ -25,6 +25,7 @@ te31.com#@#.textAd
 te31.com#@#.text_ad
 te31.com#@#.text_ads
 !
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$xmlhttprequest,domain=spotvnow.co.kr
 @@||ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js$script,domain=m.search.naver.com
 t.hi098123.com###hi-notice
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=t.hi098123.com
