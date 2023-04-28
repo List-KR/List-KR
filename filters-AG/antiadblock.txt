@@ -62,6 +62,10 @@ meeco.kr#?#.adsbygoogle:remove()
 @@||namu.wiki/$subdocument,script,domain=namu.wiki
 !#endif
 !
+||ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js$script,domain=m.search.naver.com,redirect=noopjs
+!#if (adguard_app_ios || adguard_ext_safari)
+@@||ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js$script,domain=m.search.naver.com
+!#endif
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=t.hi098123.com
 @@||pagead2.googlesyndication.com/pagead/managed/$script,domain=t.hi098123.com
 ||googleads.g.doubleclick.net/pagead/ads$subdocument,redirect=noopframe,domain=t.hi098123.com
