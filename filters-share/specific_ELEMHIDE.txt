@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+m.search.naver.com##._shopAdRoot
 te31.com##.content > .nextbr ~ div[style^="min-height:"]
 te31.com###content > div[style*="width:"]
 te31.com##.touch_none ~ div[style^="min-height:"].bd_back
