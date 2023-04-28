@@ -150,7 +150,10 @@ singingdalong.blogspot.com#%#//scriptlet('abort-current-inline-script', '$', '#a
 @@||googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=op.gg
 stockinfo7.com#%#//scriptlet('prevent-setTimeout', 'ad.innerHTML.replace')
 ||cdn.kollhong.com/wp-content/custom-js/fuckadblock.min.js
-||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=noopjs,domain=game.hotsharegames.com
+game.hotsharegames.com#%#//scriptlet('prevent-element-src-loading', 'script', 'imasdk.googleapis.com/js/sdkloader/ima3.js')
+!#if (adguard_app_ios)
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=game.hotsharegames.com
+!#endif
 blackkiwi.net#%#//scriptlet('prevent-fetch', 'www3.doubleclick.net')
 !#if (adguard_app_ios)
 @@||www3.doubleclick.net/|$xmlhttprequest,domain=blackkiwi.net
