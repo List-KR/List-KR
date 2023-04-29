@@ -59,7 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
-coolenjoy.net##div[id^="carousel"]>div.carousel-inner>div.carousel-item>div.img-wrap>div.img-item>a[target="_blank"]
+coolenjoy.net##div[id^="carousel_"] a[target="_blank"]
 te31.com##div[style^="width:"][class="adsbygoogle"]
 m.search.naver.com##._shopAdRoot
 te31.com##.content > .nextbr ~ div[style^="min-height:"]
@@ -682,7 +682,6 @@ compuzone.co.kr##.cpz_inner .recommend_wrap > .recommend_list
 poro.gg###__layout > div:not([class]) > [class]:not(footer) > div[class]:not([sm]):not(.page-container)
 mathbang.net##.sidebar_book
 thecall.co.kr##[class^="adsense"]
-coolenjoy.net###sidebar > .tab
 m.bobaedream.co.kr##.wrap > div[style$="height:100px;"]:not([class])
 login.11st.co.kr##.login_banner
 m.inven.co.kr,quasarzone.com##[class^="banner-"]
@@ -943,8 +942,6 @@ edu.donga.com,dt.co.kr,m.etoday.co.kr,mnews.sbs.co.kr,mbn.co.kr,cgv.co.kr,mmzone
 2cpu.co.kr##a[href*="./bbs/banner_link.php?"]
 ruliweb.com##div[id^="adsense_"]
 mlbpark.donga.com##div[class*="naver_power"]
-coolenjoy.net##.simple_banner_wrap
-coolenjoy.net##img[src^="https://photo.coolenjoy.co.kr/banner/"]
 quasarzone.com##*:not(footer) > div[class^="main-"][class$="-banner"]
 koreatimes.net,phdkim.net,nongmin.com,hankookilbo.com##div[class^="banner-"]
 etoland.co.kr##ul.board_list > li.subject.ad_subject
