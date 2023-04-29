@@ -4,8 +4,6 @@ on:
   push:
     branches:
       - '**'
-    paths:
-      - '**/*.txt'
 
 permissions:
     actions: read
@@ -35,7 +33,7 @@ jobs:
     name: Purge jsDelivr cache
     runs-on: ubuntu-latest
     needs: lint
-    if: ${{ always() && github.event_name == 'push' && github.ref_name == 'master' }}
+    if: ${{ always() && github.event_name == 'push' && github.ref_name == 'master' && needs.lint.result == 'success' }}
     steps:
       - name: Run jsDelivr-Purge
         uses: List-KR/jsdelivr-purge@v4
