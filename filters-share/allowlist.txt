@@ -1,4 +1,4 @@
-ipdisk.co.kr,iptime.org#@#iframe[width="100%"][height="120"]
+192.168.0.1,192.168.1.1,ipdisk.co.kr,iptime.org#@#iframe[width="100%"][height="120"]
 grip.show#@#.top-banners
 tcafe2a.com#@#.side-event-img
 @@||tcafe2a.com/ad/
