@@ -1,3 +1,4 @@
+||11st.co.kr/products/view/pc/top/*?mDispCtgrNo=*&isShockingDeal=
 /^https:\/\/te31\.com\/m\/[a-z]+[0-9]*\.jpg/$domain=te31.com
 ||cdn.news.unn.net/image/banner/
 ||ddaily.co.kr/data/banner/
