@@ -434,12 +434,8 @@
 /^https:\/\/static[0-9]\.e-himart\.co\.kr\/contents\/content\/display\/cornerContents\/imageBanner\/[0-9]{3}\/imageBanner_/$domain=e-himart.co.kr
 ||e-himart.co.kr/contents/content/display/special/
 /^https?:\/\/(www\.)?stockinfo7\.com\/img\/(banner\/|%E)/$domain=stockinfo7.com
-||m.11st.co.kr/products/v1/mw/recommend/branding-banner/
-||m.11st.co.kr/MW/api/app/elevenst/product/getProductHotClkRcmListJSON.tmall
 /^https:\/\/ohlitv\.com\/img\/[0-9]{4}\/[a-z]+\.gif$/$domain=ohlitv.com
 ||reurl.kr/data/bbs/
-||m.11st.co.kr/MW/api/app/elevenst/ad/
-||m.11st.co.kr/MW/html/nc/getGNBTextListAjax.js|
 ||image-comic.pstatic.net/mobilewebimg/*/*/contents_banner_MOBILE_$image
 ||image-comic.pstatic.net/webtoon/*/*/contents_banner_$image
 ||dpg.danawa.com/news/powerLink|

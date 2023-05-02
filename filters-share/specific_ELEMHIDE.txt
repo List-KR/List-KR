@@ -13,7 +13,7 @@ health.chosun.com,thebell.co.kr,fomos.kr,styleup.gameangel.com,yakup.com,jjan.kr
 ! ##div[class^="ad"]
 news.heraldcorp.com,lalawin.com,badayak.com,ujnews.co.kr,realty.chosun.com,koreadaily.com,it.chosun.com,m.fmkorea.com,maple.gg,ytn.co.kr,www.ebs.co.kr,newsis.com,search.danawa.com,m.newsen.com,jwmx.tistory.com,thespike.co.kr,hobbyen.co.kr,socialvalue.kr,entertainpost.com,m.moneys.mt.co.kr,basketkorea.com,m.ohmynews.com,biz.heraldcorp.com,slrclub.com##div[class^="ad"]
 ! ##div[class^="banner_"]
-beyondpost.co.kr,m.fomos.kr,m.kin.naver.com,jjan.kr,m.sports.naver.com,newspic.kr,www.ebs.co.kr,search.11st.co.kr,prod.danawa.com,auth.danawa.com,socialvalue.kr,news.jtbc.co.kr,etoland.co.kr,ajunews.com,mk.co.kr##div[class^="banner_"]
+beyondpost.co.kr,m.fomos.kr,m.kin.naver.com,jjan.kr,m.sports.naver.com,newspic.kr,www.ebs.co.kr,prod.danawa.com,auth.danawa.com,socialvalue.kr,news.jtbc.co.kr,etoland.co.kr,ajunews.com,mk.co.kr##div[class^="banner_"]
 ! ##div[class$="Banner"]
 bigkinds.or.kr,hungryapp.co.kr,rhythmer.net##div[class$="Banner"]
 ! ##div[class$="banner"]
@@ -430,7 +430,6 @@ lawtalknews.co.kr##.tdn-inventory
 www.tmon.co.kr##ul#_dealListContainer.list > li.item.type_admon[data-maincategoryno]
 wiki.hash.kr##.wkbn_bk.tp
 m.seoul.co.kr###Article > .Line_gray ~ div[style]:not([class]):not([id])
-buy.11st.co.kr##div[class^="bnr_ad"]
 m.fpn119.co.kr###top_src > div[style]
 fpn119.co.kr###r_aside > center > .bn
 shopping.zum.com##section[data-pos^="ad_"][class*="_power_"]
@@ -573,27 +572,11 @@ hunnek.tistory.com##a[href^="https://www.panel.co.kr/user/join/etcpath/"]
 m.seoul.co.kr,m.nownews.seoul.co.kr###contentsBodyDiv > table[width]
 soccerline.kr##div[class$="Bann"]
 e-himart.co.kr##input ~ .searchRolling
-m.11st.co.kr##section#cts:not(.main) .ctg_loc ~ section.list_bx.hotclick
-m.11st.co.kr##section#cts:not(.main) .ctg_loc ~ section#powerLink
-m.11st.co.kr##section#cts:not(.main) .ctg_loc ~ section#plusPrdArea
-m.11st.co.kr##section#cts:not(.main) .ctg_loc ~ section[style][id$="PrdSection"]
 khgames.co.kr##div[data-sticky].sticky > .side-panel
 tipsandtrickskorea.com##.thecontent > .in-article-container
 tipsandtrickskorea.com##aside#sidebar > div[id^="text-"]
-search.11st.co.kr##section#cts.main ._SearchProductAd
-m.11st.co.kr###dtl01 #brandingBannerDiv
-m.11st.co.kr###productImgWrap ~ #hotclick-recm-container-top
 ohlitv.com##img[src^="/img/"][src$=".gif"]
 reurl.kr##a[onclick^="go_banner"]
-search.11st.co.kr##section#cts.main .l-grid._searchHotProduct
-search.11st.co.kr##section.search_section[data-log-actionid-area="plus"]
-11st.co.kr###rcmdPrd
-11st.co.kr##.hotClick_wrap
-11st.co.kr##.top_favorite.cfix
-11st.co.kr###product_listing .power_prd
-11st.co.kr###product_listing .plus_prd
-11st.co.kr##.s_main > .l_main_wide[data-carr-sn]:not([class*=" "])
-11st.co.kr##.s_main > .l_main:not([data-carr-sn])
 m.comic.naver.com###ct div[class^="ly_"]
 comic.naver.com##.wt_viewer .preview_store
 ohli24.net##nav ~ .at-title
@@ -604,10 +587,6 @@ te31.com###contentmemo ~ .adsbygoogle > div[style^="background-color:"]
 te31.com##table.adsbygoogle ~ table[style^="min-height:"]
 te31.com###bbs > table[style^="color:#"] ~ div[style*="padding:"][style*="border-left"]
 mksports.co.kr###container_right > div[id^="slot"]
-search.11st.co.kr##.search_content section.search_section[data-log-actionid-area="recommend"]
-search.11st.co.kr##.search_content section.search_section[data-log-actionid-area="focus"]
-search.11st.co.kr##.search_content section.search_section[data-log-actionid-area="power"]
-search.11st.co.kr##.search_content section.search_section[data-log-actionid-area="focus_bottom"]
 pping.kr##.HAdLine
 pping.kr##iframe[src*="//ad.pping.kr/"]
 etoland.co.kr###mw_mobile > style ~ center >  a[href] > img[src]
@@ -683,7 +662,6 @@ poro.gg###__layout > div:not([class]) > [class]:not(footer) > div[class]:not([sm
 mathbang.net##.sidebar_book
 thecall.co.kr##[class^="adsense"]
 m.bobaedream.co.kr##.wrap > div[style$="height:100px;"]:not([class])
-login.11st.co.kr##.login_banner
 m.inven.co.kr,quasarzone.com##[class^="banner-"]
 m.edaily.co.kr##div[class$="_banners"]
 m.edaily.co.kr##.article_body > div[class]
