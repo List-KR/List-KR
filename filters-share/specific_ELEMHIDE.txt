@@ -59,6 +59,10 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+search.11st.co.kr##.search_content > section[data-log-actionid-area="recommend"]
+search.11st.co.kr##.search_content > section[data-log-actionid-area^="focus"]
+search.11st.co.kr##.search_content > section[data-log-actionid-area="power"]
+search.11st.co.kr##.search_content > section[data-log-actionid-area="plus"]
 11st.co.kr##.review_list_element > .c_review_recommend
 m.ygosu.com###article_list > li:not([class])
 m.ygosu.com##.container >  div[style*="height:"]

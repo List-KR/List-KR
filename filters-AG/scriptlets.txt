@@ -1,6 +1,10 @@
 ! PopMagic
 watchfreejavonline.co#%#//scriptlet('abort-current-inline-script', 'popMagic.init')
 !
+search.11st.co.kr#%#//scriptlet('set-constant', 'searchDataFactory.rcmdPrdList', 'emptyObj')
+search.11st.co.kr#%#//scriptlet('set-constant', 'searchDataFactory.focusPrdList', 'emptyObj')
+search.11st.co.kr#%#//scriptlet('set-constant', 'searchDataFactory.powerPrdList', 'emptyObj')
+search.11st.co.kr#%#//scriptlet('set-constant', 'searchDataFactory.plusPrdList', 'emptyObj')
 enuri.com#%#//scriptlet('json-prune', 'data.supertopADNos')
 m.humoruniv.com#%#//scriptlet('abort-current-inline-script', '$.prototype.html', '/\/images\/[A-z0-9-_]+\.(jpg|gif)/')
 m.humoruniv.com#%#//scriptlet('prevent-setTimeout', '/[A-z0-9_]+\(ch[0-9]+_[A-z0-9]+\)/')
