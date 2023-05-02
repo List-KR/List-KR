@@ -112,8 +112,6 @@ clien.net##.nav_container > div[id$="_content"][class^="content_"] .contents_mai
 clien.net##.nav_container > div[id$="_content"][class^="content_"] .section_list.notice > div[class^="main_top_"]
 clien.net##.nav_content > div[id$="_content"][class^="content_"] div[class^="post_"] > div[class^="view_center_"]
 quasarzone.com##div[id^="bidrich-"]
-m.ygosu.com##div[id^="clickmon_"][style]
-m.ygosu.com##div[id^="bidrich_"][style]
 1412.rest##div[style].fancybox-type-inline
 jjang0u.com##article[class*="-banner"]
 msearch.shopping.naver.com##div[class^="products_search_list"] div[class^="adProduct_"][id*="lst_"]
@@ -151,7 +149,6 @@ m.mbn.co.kr##div[itemprop="articleBody"].article_info > div[id^="slot"][style^="
 star.mbn.co.kr###newsViewArea div[style^="width:"]:not([originw])
 star.mbn.co.kr###article > div[id^="slot"] table[style^="margin-bottom:"]
 itwind.co.kr###sidebar > div[data-version="2"]#Image5
-m.ygosu.com##.col-xs-12 div[style*="margin-bottom:"]
 segyebiz.com##article > div[id^="wps_layout"] > div[style*="height:"]
 hellot.net##.wrapper > div[style*=" "]#container > div:not([class])
 meeco.kr###cCon + aside.sidebar2
