@@ -59,6 +59,8 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+search.11st.co.kr##._SearchTitlePrdHListAd
+search.11st.co.kr##._searchHotProduct
 www.11st.co.kr###rcmdPrd.rcmd_prd
 search.11st.co.kr##.search_content > section[data-log-actionid-area="recommend"]
 11st.co.kr##[data-log-actionid-area^="focus"]
