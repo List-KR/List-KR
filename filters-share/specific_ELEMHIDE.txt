@@ -432,7 +432,7 @@ interpark.com##span[class$="AD"]
 dprime.kr.dvdprime.com##div[style~="height:"][style~="border-top:"].relative
 health.chosun.com,dprime.kr,dvdprime.com##[class*="_ad_"]
 ypbooks.co.kr##td[id^="divBn_"]
-uwayapply.com,ypbooks.co.kr##div[id$="Banner"]
+m.dailian.co.kr,uwayapply.com,ypbooks.co.kr##div[id$="Banner"]
 ypbooks.co.kr##div[style]#cenArea > .today
 lawtalknews.co.kr##.tdn-inventory
 www.tmon.co.kr##ul#_dealListContainer.list > li.item.type_admon[data-maincategoryno]
