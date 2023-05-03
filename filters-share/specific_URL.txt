@@ -1,3 +1,5 @@
+||m.11st.co.kr/products/v1/mw/recommend/branding-banner/
+||m.11st.co.kr/products/v1/mw/ad/
 ||m.11st.co.kr/MW/api/app/elevenst/ad/
 ||11st.co.kr/products/view/pc/top/*?mDispCtgrNo=*&isShockingDeal=
 /^https:\/\/te31\.com\/m\/[a-z]+[0-9]*\.jpg/$domain=te31.com
