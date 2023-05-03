@@ -1,3 +1,6 @@
+search.shopping.naver.com#?#div[class^="style_section_row_"] > div[class*=" asideItem_active_"]:has(a[class^="adRecommend_"])
+search.shopping.naver.com#?##section_recommend div[class^="productList_list_area_"] li[class^="productList_item_"]:has(a[href*="//adcr.naver.com/"])
+search.shopping.naver.com#?#div[class^="style_section_row_"] ul[class*="asideBrand_brand_"] > li:has(a[href*="//adcr.naver.com/adcr"])
 acmicpc.net#?#.text-center > a[onclick^="App.trackOutboundLink"]:has(> img[src^="https://upload.acmicpc.net"][class^="visible-"][class$="-block"])
 m.ppomppu.co.kr#?#.community-board-notice-box #bbs_inform:has(a[href*="//s.ppomppu.co.kr?target="])
 m.ruliweb.com#?#.board_main .user_view_target ~ .row:not(:has(.source_url))
