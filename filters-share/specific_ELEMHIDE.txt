@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+newspim.com###news-contents div[style*="margin:"]
 search.11st.co.kr##._SearchTitlePrdHListAd
 search.11st.co.kr##._searchHotProduct
 www.11st.co.kr###rcmdPrd.rcmd_prd
@@ -920,7 +921,6 @@ coupang.com###sdpBottomAds
 coupang.com###sdp-bottom-banner
 coupang.com###sdpAdsBottom
 coupang.com###sdp-mid-banner-btf
-newspim.com##aside.side_wrap > div[style^="height:"]
 newspim.com##.topbanner
 namu.wiki##iframe[src*="//arca.live/static/ad/"]
 mmzone.co.kr###main_premium_spon_block
