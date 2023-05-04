@@ -195,7 +195,6 @@
 ||m.mydaily.co.kr/new/img/*.gif|
 ||mydaily.co.kr/ad/adimage/
 ||mydaily.co.kr/new_yk/html/images_mj/*.gif|
-/^https:\/\/etoland\.co\.kr\/data\/file[0-9]+\/store\/thumb-[A-z0-9_]+[0-9]+x[0-9]+\./$domain=etoland.co.kr
 /^https:\/\/dbr\.donga\.com\/upload_dir\/source\/.+\([0-9]+x[0-9]+\)\./$domain=donga.com
 ||dbr.donga.com/upload_dir/banner/
 ||m.segye.com/static/*_segyeMobile/resources/js/commonAD.js

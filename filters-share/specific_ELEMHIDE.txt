@@ -249,7 +249,6 @@ m.ibric.org##.row > div[class][id=""] ~ #Contents ~ a[href*="Board=enterprise"] 
 m.ibric.org##.row > div[class][id=""] ~ #Contents ~ a[href*="?Board=enterprise"]
 m.ibric.org##.row > div[class][id=""] ~ #Contents ~ div[style]
 m.ibric.org###TopAddFrame
-etoland.co.kr###mw_mobile > center:not([style]) img[src][width]
 etoland.co.kr##div[class^="main_"][class*="_side_"] a[href] > img[alt][src]
 blog.naver.com###ssp-adpost
 ujnews.co.kr###navigation-cnt > div[style*=" "]:not([style*="margin-bottom:"])
@@ -307,7 +306,6 @@ idaegu.com###wrap_index ~ div[style]
 m.mydaily.co.kr###viewarea ~ br ~ div[style*="height:"]
 datanews.co.kr##a[href][target="_blank"] > img[src^="/data/banner/"]
 m.search.naver.com##.sc._pwl_video_container
-etoland.co.kr###mw_mobile .index_div ~ section[style^="margin-top:"]
 etoland.co.kr##div[class$="_banner_wrap"]
 etoland.co.kr##div[class^="gather-"][class$="_middle"] ~ .img_latest_wrap
 etoland.co.kr##div[class^="gather-"][class$="_middle"] ~ section[class^="secretStore_"]
@@ -599,7 +597,6 @@ te31.com###bbs > table[style^="color:#"] ~ div[style*="padding:"][style*="border
 mksports.co.kr###container_right > div[id^="slot"]
 pping.kr##.HAdLine
 pping.kr##iframe[src*="//ad.pping.kr/"]
-etoland.co.kr###mw_mobile > style ~ center >  a[href] > img[src]
 sumpic.com##section.content .thumbnail-area
 h5.dcinside.com##.side .login-box ~ .img-wrap
 mbiz.heraldcorp.com##a[class^="ad_"]
@@ -916,7 +913,6 @@ news2day.co.kr,m.yakup.com,ypbooks.co.kr,asiatime.co.kr,www.ebs.co.kr,news.nate.
 boribori.co.kr##.bFloatingBanner
 ondisk.co.kr##div[id^="wingBanner-"]
 etoland.co.kr##div[class^="power_link_"]
-etoland.co.kr###mw_mobile > .index_div center
 coupang.com##.srp-top-banner-container
 coupang.com###sdpBottomAds
 coupang.com###sdp-bottom-banner
