@@ -1,3 +1,4 @@
+||hojubada.com/data/file/mbanner/
 ||m.11st.co.kr/products/v1/mw/recommend/branding-banner/
 ||m.11st.co.kr/products/v1/mw/ad/
 ||m.11st.co.kr/MW/api/app/elevenst/ad/
