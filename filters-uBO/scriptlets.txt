@@ -1,6 +1,7 @@
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
+hashnews.cafe24.com##+js(aopr, pum_popups)
 search.11st.co.kr##+js(set, searchDataFactory.rcmdPrdList, {})
 search.11st.co.kr##+js(set, searchDataFactory.focusPrdList, {})
 search.11st.co.kr##+js(set, searchDataFactory.powerPrdList, {})
