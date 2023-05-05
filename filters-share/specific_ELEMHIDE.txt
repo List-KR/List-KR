@@ -431,7 +431,7 @@ interpark.com##.welcomeWrapper .showRoom
 interpark.com##div[class$="Banners"]
 interpark.com##span[class$="AD"]
 dprime.kr.dvdprime.com##div[style~="height:"][style~="border-top:"].relative
-health.chosun.com,dprime.kr,dvdprime.com##[class*="_ad_"]
+comic.naver.com,health.chosun.com,dprime.kr,dvdprime.com##[class*="_ad_"]
 ypbooks.co.kr##td[id^="divBn_"]
 m.dailian.co.kr,uwayapply.com,ypbooks.co.kr##div[id$="Banner"]
 ypbooks.co.kr##div[style]#cenArea > .today
