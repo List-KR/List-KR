@@ -90,7 +90,7 @@ singingdalong.blogspot.com##+js(acis, $, #ad_center)
 stockinfo7.com##+js(nostif, ad.innerHTML.replace)
 ||cdn.kollhong.com/wp-content/custom-js/fuckadblock.min.js
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=noop.js,domain=game.hotsharegames.com
-blackkiwi.net#%#//scriptlet('prevent-fetch', 'www3.doubleclick.net')
+blackkiwi.net##+js(no-fetch-if, www3.doubleclick.net)
 persnacons.tistory.com#@#.topAD
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ff14angler.com
 uda1004.tistory.com,exey.io,ff14angler.com#@#ins.adsbygoogle
