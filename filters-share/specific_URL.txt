@@ -310,9 +310,6 @@
 ||img.ypbooks.co.kr/upload/HTML/popup/
 ||prod.danawa.com/list/ajax/getAdBrandHall.ajax.php
 ||fpn119.co.kr/data/*/banner/
-||static.coupangcdn.com/image/$domain=shopping.zum.com
-||shopping-phinf.pstatic.net^$domain=shopping.zum.com
-||m.zum.com/static/img/invest_banner_
 ||shop.zumst.com/upload/shoppingbox/
 ||zumst.com/scripts/adDefence.js
 ||srv-asiatime.kr.object.ncloudstorage.com/*/resources/banner/

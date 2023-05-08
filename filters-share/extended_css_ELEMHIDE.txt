@@ -84,7 +84,6 @@ ceoscoredaily.com#?#.wcms_bestnews ~ div[class]:has(~ div[class] ~ .side_major_c
 kayak.co.kr#?#.keel-grid .col-list-body .resultsList div:not([class]):not([id]):has(div[class*="-promo-"] span[class$="-sponsored-text"])
 zdnet.co.kr#?#.power_box div[class^="asset"]:has(iframe[src*="//adv.zdnet.co.kr/"])
 dprime.kr,dvdprime.com#?##sidebar_container .relative:has([class*="_ad_"]) ~ div[class^="spacer"]
-shopping.zum.com#?#.result_item_list li:has(> .shopping_item.type_coupang)
 kayak.co.kr#?#.Ui-Hotels-Results-List-Components-RheaLiteWrapper-container div:not([class]):has(div[class$="-sponsored"])
 m.yna.co.kr#?##container aside[class^="aside-"]:has(ul[id^="ad"]) + aside
 m.search.daum.net#?#body.nate .section_cont [disp-attr]:has(> div:matches-css(display: none))

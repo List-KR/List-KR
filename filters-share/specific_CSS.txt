@@ -95,7 +95,6 @@ interpark.com#$#.welcomeWrapper .rankingInner .rankingContent { background-color
 interpark.com#$#.welcomeWrapper .rankingInner .rankList { margin-left: 35% !important; }
 interpark.com#$#.welcomeWrapper  .rankingInner .rankList ol li a { max-width: 270px !important; }
 ypbooks.co.kr#$#form[name="loginForm"][action*="login.yp"] > table { margin-left: calc(25% - 27px) !important; }
-start.zum.com#$#div[id^="dablewidget_"] + section[class*="-item_"] { width: calc(58% + 5px) !important; }
 pushoong.com#$#html { overflow: auto !important; }
 pushoong.com#$##fullscreen-overlay { display: none !important; }
 serieamania.com#$##index > div[id^="index_box"][class]:not(.index_row_full) { margin-left: calc(50% - 145.5px) !important; }
