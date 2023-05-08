@@ -59,12 +59,13 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+m.search.zum.com##section[sc^="power"]
 zum.com###shoppingMenu
 zum.com##.mounted .cont_wrap .right_area > div:not([class])
 zum.com##.shoplink_wrap
 search.zum.com##div[class^="powercont_"]
 search.zum.com##.naver_power_shopping
-search.zum.com##div[class^="sponsor_"]
+search.zum.com##[class*="sponsor"]
 etoland.co.kr###mw_mobile > div[style^="margin-bottom:"]
 bloter.net##.respons-edit > div[style^="width:"].float-right
 newspim.com###news-contents div[style*="margin:"]
