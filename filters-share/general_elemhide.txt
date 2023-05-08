@@ -1,3 +1,4 @@
+##iframe[src*="//displayad.zum.com/"]
 ##ins[data-aiinad-inv]
 ##iframe[src*="//ads.mtgroup.kr/"]
 ##iframe[src*="//adv.imadrep.co.kr/"]

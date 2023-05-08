@@ -59,6 +59,8 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+invest.zum.com##.area_real_news article.gdn
+invest.zum.com##div[class^="gdn_"]
 news.zum.com##div[class^="deepdive_widget_"]
 m.search.zum.com##section[sc^="power"]
 zum.com###shoppingMenu
