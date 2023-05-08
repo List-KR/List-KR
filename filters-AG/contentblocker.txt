@@ -31,7 +31,7 @@ te31.com#@#.text_ads
 t.hi098123.com###hi-notice
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=t.hi098123.com
 @@||pagead2.googlesyndication.com/pagead/managed/$script,domain=t.hi098123.com
-||googleads.g.doubleclick.net/pagead/ads$subdocument,redirect=noopframe,domain=t.hi098123.com
+@@||googleads.g.doubleclick.net/pagead/ads$subdocument,domain=t.hi098123.com
 t.hi098123.com#@#ins.adsbygoogle
 @@||googletagmanager.com/gtag/$script,domain=t.hi098123.com
 avdbs.com#@#.ad-btn

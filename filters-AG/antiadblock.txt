@@ -81,7 +81,7 @@ m.search.naver.com#%#//scriptlet('prevent-element-src-loading', 'script', 'ssl.p
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=t.hi098123.com
 @@||pagead2.googlesyndication.com/pagead/managed/$script,domain=t.hi098123.com
 ||googleads.g.doubleclick.net/pagead/ads$subdocument,redirect=noopframe,domain=t.hi098123.com
-!#if (adguard_app_ios || adguard_ext_android_cb || adguard_ext_safari)
+!#if (adguard_app_ios || adguard_ext_safari)
 @@||googleads.g.doubleclick.net/pagead/ads$subdocument,domain=t.hi098123.com
 !#endif
 !#safari_cb_affinity(privacy)
