@@ -71,6 +71,9 @@ spotvnow.co.kr#%#//scriptlet('prevent-fetch', 'imasdk.googleapis.com/js/sdkloade
 spotvnow.co.kr#%#//scriptlet('prevent-xhr', 'pagead2.googlesyndication.com/pagead/js/adsbygoogle.js')
 spotvnow.co.kr#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com/pagead/js/adsbygoogle.js')
 !
+!#safari_cb_affinity(social)
+@@||cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js$script,domain=typing.works
+!#safari_cb_affinity
 m.search.naver.com#%#//scriptlet('prevent-element-src-loading', 'script', 'ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js')
 !#if (adguard_app_ios || adguard_ext_safari)
 @@||ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js$script,domain=m.search.naver.com
