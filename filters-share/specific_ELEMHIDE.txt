@@ -458,7 +458,7 @@ japanout.kr##.widget-side-box > div[class^="main-box main-"]
 cjlogistics.com##a[target="_blank"][href][onclick][class*="Banner"]
 alltimelegend.net##ul > a[href*="/0ad"].visittag
 alltimelegend.net##a[href][target="_blank"][referrerpolicy="unsafe-url"]
-genshin.gamedot.org,itworld.co.kr,ciokorea.com##div[class*="-banner"]
+coolenjoy.net,genshin.gamedot.org,itworld.co.kr,ciokorea.com##div[class*="-banner"]
 newsworker.co.kr##.user-content > .user-aside
 m.pann.nate.com##iframe[src^="/da/"]
 earlyadopter.co.kr##div[itemprop="articleBody"] > div[class][style]
