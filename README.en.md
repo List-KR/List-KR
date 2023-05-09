@@ -12,7 +12,7 @@ If you want to block any advertisement managed by a cafe manager on Naver Cafe, 
 **List-KR filter is optimized for only AdGuard products and uBO**.
 Therefore, List-KR filter cannot be added on AdBlock Plus and [Unicorn Pro adblocker](https://getunicorn.app/en) because they do not support advanced syntax (e.g. `$$`, `#%#//scriptlet()`, [`$removeparam`](https://github.com/gorhill/uBlock/wiki/Static-filter-syntax#removeparam) and `##+js`).
 Furthermore, Unicorn Pro Adblocker does not support its filter editor that is necessary to debug.
-Also, Unicornsoft, owner of Unicorn Pro Adblocker, does not share their own filters for the adblock community, and they are proprietary.
+Also, [AGLint](https://github.com/AdguardTeam/AGLint) does not support Unicorn Pro's own syntax and Unicornsoft, owner of Unicorn Pro Adblocker, does not share their own filters for the adblock community, and they are proprietary.
 List-KR filter is being maintained by the adblock community and AdGuard.
 
 Due to technical problem, a visitor of some website need to do some instruction.
