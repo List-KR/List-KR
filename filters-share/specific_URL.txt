@@ -664,6 +664,8 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/^https:\/\/w[0-9]+\.torrentpi[0-9]+\.com\/data\/file\/ad\//
+/^https:\/\/w[0-9]+\.torrentpi[0-9]+\.com\/data\/editor\/[0-9]+\/[a-z0-9]+_[0-9]+_[0-9]+\./
 /^https:\/\/m[0-9]+\.kotbc\.com\/img\/[a-z0-9_\/]+\.gif$/
 ||i.imgur.com^$domain=torrentwhy63.xyz|torrentwhy64.xyz|torrentwhy65.xyz|torrentwhy66.xyz|torrentwhy67.xyz|torrentwhy68.xyz|torrentwhy69.xyz|torrentwhy70.xyz|torrentwhy71.xyz|torrentwhy72.xyz|torrentwhy73.xyz|torrentwhy74.xyz
 /^https:\/\/ohli365\.[a-z]+\/data\/apms\/background\//

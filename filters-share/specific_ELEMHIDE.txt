@@ -949,6 +949,8 @@ www.naver.com##div.column_fix_wrap > div#shopcast
 !
 ! DOMAIN-REFRESHER: START
 !
+torrentpi17.com,torrentpi18.com,torrentpi19.com,torrentpi20.com,torrentpi21.com,torrentpi22.com,torrentpi23.com,torrentpi24.com,torrentpi25.com,torrentpi26.com,torrentpi27.com,torrentpi28.com,torrentpi29.com,torrentpi30.com,torrentpi31.com,torrentpi32.com,torrentpi33.com,torrentpi34.com##.at-row .basic-post-gallery
+torrentpi17.com,torrentpi18.com,torrentpi19.com,torrentpi20.com,torrentpi21.com,torrentpi22.com,torrentpi23.com,torrentpi24.com,torrentpi25.com,torrentpi26.com,torrentpi27.com,torrentpi28.com,torrentpi29.com,torrentpi30.com,torrentpi31.com,torrentpi32.com,torrentpi33.com,torrentpi34.com###hd_pop
 hasha.in##div[style^="min-height:"][class^="bg-hasha-"] > div[style] + .max-w-full
 tvzota48.com,tvzota49.com,tvzota50.com,tvzota51.com,tvzota52.com,tvzota53.com,tvzota54.com,tvzota55.com,tvzota56.com,tvzota57.com,tvzota58.com##div[class^="popup_"]
 tvzota48.com,tvzota49.com,tvzota50.com,tvzota51.com,tvzota52.com,tvzota53.com,tvzota54.com,tvzota55.com,tvzota56.com,tvzota57.com,tvzota58.com##.wid
