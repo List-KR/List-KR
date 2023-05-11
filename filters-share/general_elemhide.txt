@@ -1,3 +1,4 @@
+##iframe[src*="//ad.planbplus.co.kr/"]
 ##iframe[src*="//displayad.zum.com/"]
 ##ins[data-aiinad-inv]
 ##iframe[src*="//ads.mtgroup.kr/"]
