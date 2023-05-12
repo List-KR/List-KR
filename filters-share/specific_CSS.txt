@@ -1,3 +1,4 @@
+marupost.mycafe24.com#$##welcome-ad { display: none !important; }
 pythondocs.net#$##continue_reading { display: none !important; }
 pythondocs.net#$#.omit_wrap { height: 100% !important; }
 www.naver.com#$#div[class*="_left_"] div[class*="_banner_"] + div[class*="_content_"] { margin-top: 0px !important; }
@@ -145,7 +146,7 @@ compuzone.co.kr#$##searchArea .viewType_L .product_list li .prd_info { width: 70
 compuzone.co.kr#$#.wrap_list .standard { width: 100% !important; }
 compuzone.co.kr#$##searchArea .title_wrap { width: calc(100% - 50px) !important; }
 toomics.com#$#.banner-open .contents { padding-top: 68px !important; }
-tvchak.com#$#body { overflow-x: auto !important; overflow-y: auto !important; }
+marupost.mycafe24.com,tvchak.com#$#body { overflow-x: auto !important; overflow-y: auto !important; }
 tvchak.com#$##banner, .modal-backdrop { display: none !important; }
 news.unn.net#$#.grid-body.g-body { width: 100% !important; }
 autopostkorea.com#$#.site-footer { padding-bottom: 0px !important; }
