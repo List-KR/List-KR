@@ -59,6 +59,8 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+avada.tistory.com##body > div[style]#modal
+avada.tistory.com##.bloom-popup
 outstanding.kr##.hide_on_app_ios
 sta.tion.co.kr##.coupangPosition
 m.seoul.co.kr##.W_wrap > div[style*="height:"] 
@@ -155,7 +157,7 @@ enuri.com##li[class^="ad-"]
 eleparts.co.kr##.main > .main_visual + .section_1
 eleparts.co.kr##.main > .main_visual
 eleparts.co.kr##div[id$="-banner"][style]
-eoreuni.com##.adadwrap
+avada.tistory.com,eoreuni.com##.adadwrap
 postshare.co.kr##body > div[style^="position:fixed;"][style*="z-index:9999"][style*="width:"]
 commutil.kr##.mdsns_reply > div[style^="margin-bottom:"]
 starjn.com##.td_sub_read_contents > div[style]

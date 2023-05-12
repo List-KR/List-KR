@@ -1,3 +1,4 @@
+avada.tistory.com#?#.swim-side .module_plugin:has(a[target="_blank"])
 www.naver.com#?#div[class^="Layout-module__content_area_"]:has(> div[class*="_banner_"])
 coolenjoy.net#?#.na-col > div[id^="carousel_"].carousel-fade .carousel-item:has(a[href]:not([href*="//coolenjoy.net/"])[target="_self"]):remove()
 search.11st.co.kr#?##cts .l-grid--nobg:has(button[data-log-actionid-area="power"])
