@@ -1,3 +1,4 @@
+search.shopping.naver.com#$?##content div[class^="basicList_list_"] div:has(div[class^="basicList_item_"].ad):has(~ div) { height: 1px !important; visibility: hidden !important; }
 bbs.ruliweb.com#$?##board_top > div > .top_best.best_list:has(+ .col div[id^="ad_"]) { width: 100% !important; }
 browse.auction.co.kr#$?#div[module-design-id] ~ div > .component:has(div:has(.text--smiledelivery_slogan)) .section--component_title { margin-top: 0px !important; }
 koreatimes.net#$?#.container:has(~ div[style]#toTop) article.content { margin-top: 100px !important; }

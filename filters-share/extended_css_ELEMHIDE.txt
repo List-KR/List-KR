@@ -7,7 +7,6 @@ search.shopping.naver.com#?#div[class^="style_section_row_"] ul[class*="asideBra
 acmicpc.net#?#.text-center > a[onclick^="App.trackOutboundLink"]:has(> img[src^="https://upload.acmicpc.net"][class^="visible-"][class$="-block"])
 m.ppomppu.co.kr#?#.community-board-notice-box #bbs_inform:has(a[href*="//s.ppomppu.co.kr?target="])
 m.ruliweb.com#?#.board_main .user_view_target ~ .row:not(:has(.source_url))
-search.shopping.naver.com#?##content .list_basis div:has(> .ad)
 enuri.com#?#.m-row > div[class^="col col-"]:not(:has(> .col__inner a:not([href*="ad-api.enuri.info"]))):has(.bnrbox ul[id][class^="bnr__"])
 gigglehd.com#?##gap > div[style*=": "].xe-widget-wrapper:has(.widget_banner_skin > .banner_list)
 itwind.co.kr#?##footer-wrapper div[id^="footer"].footer:has(img[src*="=s"])
