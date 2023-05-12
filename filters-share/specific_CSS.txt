@@ -1,3 +1,5 @@
+pythondocs.net#$##continue_reading { display: none !important; }
+pythondocs.net#$#.omit_wrap { height: 100% !important; }
 www.naver.com#$#div[class*="_left_"] div[class*="_banner_"] + div[class*="_content_"] { margin-top: 0px !important; }
 bloter.net#$#.respons-edit > div[style].float-left { width: 100% !important; }
 news.unn.net#$#header > .header-body { width: 100% !important; }
