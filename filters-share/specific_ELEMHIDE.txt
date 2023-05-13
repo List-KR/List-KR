@@ -619,7 +619,7 @@ junggi.co.kr##img[src^="/image/banner/"]
 op.gg##header ~ div[class^="css-"] > div.search-contaienr ~ div[class^="css-"]
 danawa.com##.main__grid.main__grid--line .main__grid__right
 dpg.danawa.com##div[id*="_ad_"] ~ div[style^="min-height"]
-thistime.ca,dpg.danawa.com##div[id*="-ad-"]
+tgd.kr,thistime.ca,dpg.danawa.com##div[id*="-ad-"]
 dcnewsj.joins.com,news.heraldcorp.com,biz.chosun.com,m.place.naver.com,styleup.gameangel.com,wowtv.co.kr,news.naver.com,dpg.danawa.com##div[id*="_ad_"]
 thelec.kr##div[onclick^="wcs.event("]
 m.starnewskorea.com###content > div[style^="background:"][class]
