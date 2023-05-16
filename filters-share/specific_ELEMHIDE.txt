@@ -644,7 +644,6 @@ newsen.com##table table > tbody table[width][cellspacing][cellpadding].black > t
 m.newsen.com##.googlead
 mylgid.com##.mainTopBanner
 tistory.com##.adsense
-www.naver.com##div[id^="NM_"][id$="_BANNER"]
 m.coocha.co.kr##.container > section#id_section_deal_list ~ section[id][class]
 coocha.co.kr##.group-deal .list > .group-power-link
 m.yonhapnewstv.co.kr,medicaltimes.com,gamemeca.com##div[id$="AD"]
@@ -951,7 +950,6 @@ dcinside.com##ul.cmt_list > li[id^="comment_li_"].ub-content.dory
 orbi.kr##div.panel.class-event-wrap
 orbi.kr##a[href^="https://ads.orbi.kr/"]
 osen.mt.co.kr##div#close_mask
-www.naver.com##div.column_fix_wrap > div#shopcast
 !
 ! DOMAIN-REFRESHER: START
 !

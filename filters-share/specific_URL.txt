@@ -192,7 +192,6 @@
 ||idsn.co.kr/support/_updata/banner
 /^https:\/\/haninvegas\.com\/wp-content\/uploads\/[0-9]+\/[0-9]+\/[%A-Z0-9-]+-[0-9]+x[0-9]+/$domain=haninvegas.com
 ||upinews.kr/data/upi/banner/
-||static-whale.pstatic.net/main/$image,domain=www.naver.com
 ||isplus.com/data/json/main/banner.json
 ||dt.co.kr/ad.html
 /^https?:\/\/img\.dt\.co\.kr\/images\/[0-9]+x[0-9]+\./$domain=dt.co.kr
