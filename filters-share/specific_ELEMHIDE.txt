@@ -584,7 +584,6 @@ m.inven.co.kr##section.mo-top-nav ~ div[style]:not([id])
 m.inven.co.kr##div[id^="mobileTailAd"]
 www.inven.co.kr###commonpart_invenpc
 inven.co.kr##.section_market_line
-inven.co.kr###modRightBrandpage
 inven.co.kr###inven_reservation_box
 inven.co.kr##.commu-content div[style].sh-wrap
 inven.co.kr##aside div[style]:not([class])
@@ -687,7 +686,6 @@ m.edaily.co.kr##div[class$="_banners"]
 m.edaily.co.kr##.article_body > div[class]
 toomics.com##body.home #contents > .floating
 toomics.com##img[src*="://thumb.toomics.com/upload/banner/"]:not([src*="/main/"]):not([src*="/cut/"])
-inven.co.kr###topskyAd
 coupang.com##li.search-product__ad-badge
 hani.co.kr###laAdArea
 dpg.danawa.com###danawa-gnb-banner
