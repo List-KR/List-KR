@@ -59,6 +59,8 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+m.11st.co.kr###plusPrdArea
+m.11st.co.kr###powerPrdSection
 meeco.kr##a[href*="//linkmoa.kr/click.php"][target="_blank"]
 meeco.kr##a[href*="//app.ac/"]
 www.instiz.net##td > div[style*="width:"].responsive_main
