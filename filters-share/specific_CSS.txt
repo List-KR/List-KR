@@ -1,3 +1,4 @@
+ohohz.cafe24.com#$##content .ad_parent { height: 100% !important; overflow: auto !important; }
 marupost.mycafe24.com#$##welcome-ad { display: none !important; }
 pythondocs.net#$##continue_reading { display: none !important; }
 pythondocs.net#$#.omit_wrap { height: 100% !important; }

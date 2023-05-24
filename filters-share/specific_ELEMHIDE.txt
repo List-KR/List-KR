@@ -568,7 +568,7 @@ www.ebs.co.kr##.evt_area
 www.ebs.co.kr##div[class$="_popup"]
 boannews.com##div[style~="#D5D5D5;"][style~="border-bottom:1px"]
 boannews.com##div[id$="_bn_area"]
-memberssl.auction.co.kr,hankyung.com,megabox.co.kr##div[class*="-ad"]:not(.container):not([style])
+ohohz.cafe24.com,memberssl.auction.co.kr,hankyung.com,megabox.co.kr##div[class*="-ad"]:not(.container):not([style])
 newsis.com##.articleView div[class^="botBox"]:not(.twinBox)
 newsis.com##div[id][style~="height:100px;"]
 newsis.com##iframe[src^="/view/ad/"]
