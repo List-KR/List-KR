@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+jjan.kr##.side_floating
 kookje.co.kr##div[class^="news_"] > div[style*="height:"]
 i-boss.co.kr###Suggestion .newServices
 i-boss.co.kr###related-writer-info .in-writer-info
@@ -404,7 +405,7 @@ kookje.co.kr##.box_skitter
 realty.chosun.com##.bnr_area a[target]:not([href*="//realty.chosun.com/"])
 r114.com###divMemulRight > div:not([id]):not([class])
 m.r114.com##.google_bn
-www.naver.com,koreatimes.net,r114.com##div[class*="_banner_"]
+jjan.kr,www.naver.com,koreatimes.net,r114.com##div[class*="_banner_"]
 jjalbot.com##ul.masonry-2-col > li[class] ~ li:not([class])
 newspim.com##.inwrap .right > div:not([class])
 ddengle.com,xportsnews.com,woman.donga.com,thisisgame.com##.ad
