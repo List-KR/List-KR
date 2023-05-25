@@ -1,3 +1,4 @@
+||cdn.incheonilbo.com/script/bannerpop.js
 ||cdn.cms.outstanding.kr/images/origin/
 ||search.zumst.com/scripts/*search.powercontents.js
 ||search.zumst.com/scripts/*search.powershopping.js
