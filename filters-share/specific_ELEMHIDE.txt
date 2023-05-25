@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+kookje.co.kr##div[class^="news_"] > div[style*="height:"]
 i-boss.co.kr###Suggestion .newServices
 i-boss.co.kr###related-writer-info .in-writer-info
 i-boss.co.kr##.ly_subb
@@ -400,7 +401,6 @@ m.thesingle.co.kr##div[class*="Advertisement_"]
 lawtalk.co.kr##[ng-if^="premiumLawyers"]
 lawtalk.co.kr##div[class^="premium-lawyer"]
 kookje.co.kr##.box_skitter
-kookje.co.kr##div[id$="_bnr"]
 realty.chosun.com##.bnr_area a[target]:not([href*="//realty.chosun.com/"])
 r114.com###divMemulRight > div:not([id]):not([class])
 m.r114.com##.google_bn

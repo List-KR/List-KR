@@ -1,3 +1,7 @@
+||kookje.co.kr/design/busanmedi.jpg
+||kookje.co.kr/design/kfmask.png
+||kookje.co.kr/design/bn_
+||kookje.co.kr/design/banner_
 ||cdn.incheonilbo.com/script/bannerpop.js
 ||cdn.cms.outstanding.kr/images/origin/
 ||search.zumst.com/scripts/*search.powercontents.js
@@ -251,7 +255,6 @@
 ||pds.dailypharm.com/ADManager_
 ||vod.dailypharm.com/tv_AdVOD/
 ||dailypharm.com/Users/Event/
-/^https:\/\/(www\.)?kookje\.co\.kr\/(mobile\/)?design\/(?!(bn_what300|.*naver|popup|series\/)).*/$domain=kookje.co.kr
 ||drapt.com/banner/
 ||drapt.com/index/img/*_bnn
 ||realty.chosun.com/RealtyCommon/
