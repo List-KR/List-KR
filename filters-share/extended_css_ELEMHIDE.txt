@@ -1,3 +1,4 @@
+i-boss.co.kr#?#.outer-container table[width="100%"] tr:has(td a[data-bd].banner)
 www.naver.com#?##root div[class^="Layout-module__content_"]:has(iframe[src^="https://shopsquare.naver.com/"])
 avada.tistory.com#?#.swim-side .module_plugin:has(a[target="_blank"])
 www.naver.com#?#div[class^="Layout-module__content_area_"]:has(> div[class*="_banner_"])
