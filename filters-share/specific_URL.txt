@@ -669,6 +669,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+||i.uuoobe.com//ad/
 /^https:\/\/(www\.)?filetender\.com\/images\/(?!logo).+\.(jpg|png)$/$domain=filetender.com
 /^https:\/\/w[0-9]+\.torrentpi[0-9]+\.com\/data\/file\/ad\//
 /^https:\/\/w[0-9]+\.torrentpi[0-9]+\.com\/data\/editor\/[0-9]+\/[a-z0-9]+_[0-9]+_[0-9]+\./
