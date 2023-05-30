@@ -1,3 +1,4 @@
+||script.auction.co.kr/common/SRUAdserverSubHeader.htm
 ||kookje.co.kr/design/busanmedi.jpg
 ||kookje.co.kr/design/kfmask.png
 ||kookje.co.kr/design/bn_
