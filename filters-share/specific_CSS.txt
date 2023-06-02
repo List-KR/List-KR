@@ -1,3 +1,7 @@
+lottoen.com#$#.content_body > div[class^="lotto_"] { filter: none !important; -webkit-filter: none !important; }
+lottoen.com#$#.content_body > div[class$="_coupang_wrap"] { display: none !important; }
+lottoen.com#$#.content_more_div > .cmd_block_layer { display: none !important; }
+lottoen.com#$#.wrap.blocked .content_more_div { max-height: 100% !important; }
 simcong.com#$#.waiting_coupang_wrap { display: none !important; }
 simcong.com#$#.result_wrap { display: block !important; }
 simcong.com#$#.quiz_list:not([style]) ~  .result_wrap .restart { display: none !important; }
