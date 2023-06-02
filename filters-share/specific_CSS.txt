@@ -1,3 +1,6 @@
+simcong.com#$#.waiting_coupang_wrap { display: none !important; }
+simcong.com#$#.result_wrap { display: block !important; }
+simcong.com#$#.quiz_list:not([style]) ~  .result_wrap .restart { display: none !important; }
 gorani.kr#$#.column_content { margin-top: 50px !important; }
 www.naver.com#$##topSearchWrap { padding-bottom: 50px !important; }
 ohohz.cafe24.com#$##content .ad_parent { height: 100% !important; overflow: auto !important; }

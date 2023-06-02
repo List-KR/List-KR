@@ -1,3 +1,4 @@
+||simcong.com/static/banner/
 ||script.auction.co.kr/common/SRUAdserverSubHeader.htm
 ||kookje.co.kr/design/busanmedi.jpg
 ||kookje.co.kr/design/kfmask.png
