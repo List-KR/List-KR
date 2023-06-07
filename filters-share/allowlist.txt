@@ -1,3 +1,4 @@
+@@||cloudfront.net/media/banner/$domain=phdkim.net
 eoecare.cafe24.com#@#[data-ez-name]
 @@||planetad.co.kr/images/visual/img_ad_$domain=planetad.co.kr
 192.168.0.1,192.168.1.1,ipdisk.co.kr,iptime.org#@#iframe[width="100%"][height="120"]
