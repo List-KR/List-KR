@@ -87,7 +87,7 @@ fntimes.com#?#.con_rt > div[class^="lcrt"] ~ div[class^="mcrt"]:has(img[src*="/c
 ceoscoredaily.com#?#.wcms_bestnews ~ div[class]:has(~ div[class] ~ .side_major_company)
 kayak.co.kr#?#.keel-grid .col-list-body .resultsList div:not([class]):not([id]):has(div[class*="-promo-"] span[class$="-sponsored-text"])
 zdnet.co.kr#?#.power_box div[class^="asset"]:has(iframe[src*="//adv.zdnet.co.kr/"])
-dprime.kr,dvdprime.com#?##sidebar_container .relative:has([class*="_ad_"]) ~ div[class^="spacer"]
+dprime.kr#?##sidebar_container .relative:has([class*="_ad_"]) ~ div[class^="spacer"]
 kayak.co.kr#?#.Ui-Hotels-Results-List-Components-RheaLiteWrapper-container div:not([class]):has(div[class$="-sponsored"])
 m.yna.co.kr#?##container aside[class^="aside-"]:has(ul[id^="ad"]) + aside
 m.search.daum.net#?#body.nate .section_cont [disp-attr]:has(> div:matches-css(display: none))
@@ -108,7 +108,7 @@ noteforum.co.kr#?#table[style][width][cellspacing][cellpadding] tr[valign] > td[
 sports.chosun.com#?#.popular-news-widget:has(> *:matches-css(display: none))
 pohangnews.co.kr#?#table td[valign][width] table > tbody > tr:not([bgcolor]) > td[height]:has(a[target="_blank"])
 ohmytaxinews.com#?#table[bgcolor][cellspacing] td[bgcolor] table[width][cellspacing]:not([bgcolor]):has(tr marquee#innovationGA)
-dprime.kr,dvdprime.com#?##view_warning .relative:has(ins.adsbygoogle):not([class*="_content"])
+dprime.kr#?##view_warning .relative:has(ins.adsbygoogle):not([class*="_content"])
 op.gg#?#div:not([id]):has(> div:not([class]):not([id]) > div[data-publisher-ref$="-ad"])
 m.inven.co.kr#?#.swiper-slide-active .part-visible-normal:has(img[src*="//static.marketinven.com/data/brand/"])
 www.incruit.com#?#.cPrdlists_wrap > .cPrdlists_rows:has(script[src*="//nvapi.feeldmc.com/"])
