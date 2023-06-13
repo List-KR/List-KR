@@ -964,8 +964,8 @@ osen.mt.co.kr##div#close_mask
 ! DOMAIN-REFRESHER: START
 !
 zzap01.com,zzap02.com,zzap03.com,zzap04.com,zzap05.com,zzap06.com,zzap07.com,zzap08.com,zzap09.com,zzap10.com,zzap11.com,zzap12.com,zzap13.com,zzap14.com,zzap15.com,zzap16.com,zzap17.com###hd_pop
-torrentpi17.com,torrentpi18.com,torrentpi19.com,torrentpi20.com,torrentpi21.com,torrentpi22.com,torrentpi23.com,torrentpi24.com,torrentpi25.com,torrentpi26.com,torrentpi27.com,torrentpi28.com,torrentpi29.com,torrentpi30.com,torrentpi31.com,torrentpi32.com,torrentpi33.com,torrentpi34.com##.at-row .basic-post-gallery
-torrentpi17.com,torrentpi18.com,torrentpi19.com,torrentpi20.com,torrentpi21.com,torrentpi22.com,torrentpi23.com,torrentpi24.com,torrentpi25.com,torrentpi26.com,torrentpi27.com,torrentpi28.com,torrentpi29.com,torrentpi30.com,torrentpi31.com,torrentpi32.com,torrentpi33.com,torrentpi34.com###hd_pop
+torrentpi50.com,torrentpi51.com,torrentpi52.com,torrentpi53.com,torrentpi54.com,torrentpi55.com,torrentpi56.com,torrentpi57.com,torrentpi58.com,torrentpi59.com,torrentpi60.com,torrentpi61.com,torrentpi62.com,torrentpi63.com,torrentpi64.com,torrentpi65.com,torrentpi66.com,torrentpi67.com##.at-row .basic-post-gallery
+torrentpi50.com,torrentpi51.com,torrentpi52.com,torrentpi53.com,torrentpi54.com,torrentpi55.com,torrentpi56.com,torrentpi57.com,torrentpi58.com,torrentpi59.com,torrentpi60.com,torrentpi61.com,torrentpi62.com,torrentpi63.com,torrentpi64.com,torrentpi65.com,torrentpi66.com,torrentpi67.com###hd_pop
 hasha.in##div[style^="min-height:"][class^="bg-hasha-"] > div[style] + .max-w-full
 tvzota48.com,tvzota49.com,tvzota50.com,tvzota51.com,tvzota52.com,tvzota53.com,tvzota54.com,tvzota55.com,tvzota56.com,tvzota57.com,tvzota58.com##div[class^="popup_"]
 tvzota48.com,tvzota49.com,tvzota50.com,tvzota51.com,tvzota52.com,tvzota53.com,tvzota54.com,tvzota55.com,tvzota56.com,tvzota57.com,tvzota58.com##.wid
