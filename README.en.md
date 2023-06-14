@@ -10,7 +10,7 @@ Please leave related questions on [List-KR Discussions](https://github.com/List-
 
 List-KR is ad blocking filter maintained by Ad Blocking community and AdGuard.
 
-It works best when it combined with AdGuard base filter on [AdGuard](https://adguard.com) and [uBlock Origin](https://github.com/gorhill/uBlock).
+Suppported adblockers are AdGuard and uBlock Origin.
 
 Also, you can effectively block trackers and anti-right click scripts by combining tracking protection, URL tracking, and annoyances provided by AdGuard.
 
