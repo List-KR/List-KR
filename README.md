@@ -10,7 +10,8 @@
 
 List-KR은 애드블록 커뮤니티와 AdGuard에서 관리하는 한국어 광고 차단 필터입니다.
 
-[AdGuard](https://adguard.com)와 [uBlock Origin](https://github.com/gorhill/uBlock)에서 AdGuard 베이스 필터와 함께 사용했을 때 가장 잘 동작합니다.
+지원하는 광고 차단기는 AdGuard와 uBlock Origin입니다.
+AdGuard 플렛폼에서는 별도의 안내가 없는 경우 AdGuard 베이스 필터와 함께 사용하셔야 최상의 결과를 얻으실 수 있습니다.
 
 또 AdGuard에서 제공하는 추적 보호 필터, URL 추적 필터 그리고 방해 요소 필터 또한 함께 사용하면 웹 사이트에 설치된 추적기나 우클릭 방지 스크립트도 효율적으로 차단할 수 있습니다.
 
