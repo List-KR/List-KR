@@ -673,6 +673,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/^https:\/\/noonoo\.lol\/img\/(?![a-z]+_header_)[a-z0-9-_]+\.(jpg|png)/$domain=noonoo.lol
 /^https:\/\/(www\.)?zzap[0-9]+\.com\/data\/zzapstream\/[0-9]+_[A-z0-9]+\./
 ||i.uuoobe.com//ad/
 /^https:\/\/(www\.)?filetender\.com\/images\/(?!logo).+\.(jpg|png)$/$domain=filetender.com
