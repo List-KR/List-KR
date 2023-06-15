@@ -1,3 +1,4 @@
+##._popIn_recommend_article_ad
 ##iframe[src*="://ad.ad4989.co.kr/"]
 ##iframe[src*="//ad.planbplus.co.kr/"]
 ##iframe[src*="//displayad.zum.com/"]

@@ -31,7 +31,7 @@ mediatoday.co.kr,newsworker.co.kr##div[id^="AD"]
 ! ##div[class^="Banner"]
 moyoplan.com##div[class^="Banner"]
 ! ##div[class*="_ad"]
-zum.com,kyeonggi.com,medicaltimes.com,yes24.com,kpanews.co.kr,donga.com,busan.com,fnnews.com,m.munhwa.com,m.kmib.co.kr,m.clien.net##div[class*="_ad"]
+cgv.co.kr,zum.com,kyeonggi.com,medicaltimes.com,yes24.com,kpanews.co.kr,donga.com,busan.com,fnnews.com,m.munhwa.com,m.kmib.co.kr,m.clien.net##div[class*="_ad"]
 ! ##div[id*="Banner"]
 evape.kr,e-himart.co.kr,kin.naver.com##div[id*="Banner"]
 ! ##div[class*="_AD"]
@@ -39,7 +39,7 @@ evape.kr,e-himart.co.kr,kin.naver.com##div[id*="Banner"]
 ! ##section[class$="-ads"]
 soccerline.kr##section[class$="-ads"]
 ! ##div[class*="Banner"]
-m.dailian.co.kr,digitalchosun.dizzo.com,edit.incruit.com##div[class*="Banner"]
+m.cgv.co.kr,m.dailian.co.kr,digitalchosun.dizzo.com,edit.incruit.com##div[class*="Banner"]
 ! ##section[class*="-ad"]
 m.inven.co.kr##section[class*="-ad"]
 ! ##div[id*="-ad"]
@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+m.cgv.co.kr##.videoAdWrap
 etoland.co.kr##.right > table[width="100%"] ~ div[style^="margin-bottom:"]
 m.ppomppu.co.kr##iframe[src*="/banner/google_ad.html"]
 phdkim.net##.pop-area.--dim.--active
@@ -367,7 +368,7 @@ aladin.co.kr##body > div[id][class][onclick*="Layer"]
 aladin.co.kr###welcom_wrap > .font_remote
 aladin.co.kr###welcom_wrap .new_toprolling_bn
 m.health.chosun.com##.M_contents > .thumb ~ div[style^="width:"]
-m.health.chosun.com##a[class$="_ad"]
+m.cgv.co.kr,m.health.chosun.com##a[class*="_ad"]
 m.health.chosun.com##.sub_article > div[style]
 health.chosun.com##.aside_doctor .tour_box
 koreatimes.net##.ads + div:not([class])
