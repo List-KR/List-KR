@@ -1,3 +1,4 @@
+||cdn.ppomppu.co.kr/zboard/data*/banner/
 ||i.ibb.co/*/$domain=rgy0409.tistory.com
 ||simcong.com/static/banner/
 ||script.auction.co.kr/common/SRUAdserverSubHeader.htm
