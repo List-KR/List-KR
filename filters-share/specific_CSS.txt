@@ -54,8 +54,8 @@ haninvegas.com#$#body[data-elementor-device-mode="desktop"] div[itemprop="mainCo
 news.jtbc.co.kr#$#.news_doc #footer { position: static !important; }
 etoland.co.kr#$#div[class^="gather-"][class$="_middle"] { padding-bottom: 35px !important; }
 sundaynewsusa.com#$#.td-is-sticky > .wpb_wrapper { top: 0px !important; }
-news.oasisfeed.com#$#.hideBtn { display: none !important; }
-news.oasisfeed.com#$##newsBody { height: auto !important; }
+instructivehumility.com,news.oasisfeed.com#$#.hideBtn { display: none !important; }
+instructivehumility.com,news.oasisfeed.com#$##newsBody { height: auto !important; }
 ydailynewsis.blogspot.com#$#a[href*="//link.coupang.com/"][type] { display: none !important; }
 ydailynewsis.blogspot.com#$##hidden1 { display: block !important; }
 aladin.co.kr#$##popupBody #nonmember_all .button_login2 { width: 100% !important; }
