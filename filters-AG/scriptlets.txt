@@ -1,6 +1,7 @@
 ! PopMagic
 watchfreejavonline.co#%#//scriptlet('abort-current-inline-script', 'popMagic.init')
 !
+333aaa.site#%#//scriptlet('set-constant', 'pum_vars', 'undefined')
 inven.co.kr#%#//scriptlet('remove-attr', 'placeholder', '#webzineHeadmenuF1 input[placeholder][autocomplete="off"]')
 comic.naver.com#%#//scriptlet('json-prune', 'adBannerList')
 hashnews.cafe24.com#%#//scriptlet('abort-on-property-read', 'pum_popups')

@@ -1,6 +1,7 @@
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
+333aaa.site##+js(set, pum_vars, undefined)
 inven.co.kr##+js(ra, placeholder, #webzineHeadmenuF1 input[placeholder][autocomplete="off"])
 comic.naver.com##+js(json-prune, adBannerList)
 hashnews.cafe24.com##+js(aopr, pum_popups)
