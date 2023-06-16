@@ -73,8 +73,6 @@ i-boss.co.kr###ly_subb
 i-boss.co.kr##a[class*="_banner"]
 m.11st.co.kr###plusPrdArea
 m.11st.co.kr###powerPrdSection
-meeco.kr##a[href*="//linkmoa.kr/click.php"][target="_blank"]
-meeco.kr##a[href*="//app.ac/"]
 www.instiz.net##td > div[style*="width:"].responsive_main
 avada.tistory.com##body > div[style]#modal
 avada.tistory.com##.bloom-popup
