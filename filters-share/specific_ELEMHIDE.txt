@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+m.daum.net##div[data-slot-type="IMAGE_BIG_BANNER"].box_bnr
 m.nate.com##.issueBn
 m.cgv.co.kr##.videoAdWrap
 etoland.co.kr##.right > table[width="100%"] ~ div[style^="margin-bottom:"]
