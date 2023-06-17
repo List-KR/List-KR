@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+m.nate.com##.issueBn
 m.cgv.co.kr##.videoAdWrap
 etoland.co.kr##.right > table[width="100%"] ~ div[style^="margin-bottom:"]
 m.ppomppu.co.kr##iframe[src*="/banner/google_ad.html"]
