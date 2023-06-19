@@ -674,6 +674,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+||i.uuoobe.com/images/250x250-6005.jpg
 /^https:\/\/noonoo\.lol\/img\/(?![a-z]+_header_)[a-z0-9-_]+\.(jpg|png)/$domain=noonoo.lol
 /^https:\/\/(www\.)?zzap[0-9]+\.com\/data\/zzapstream\/[0-9]+_[A-z0-9]+\./
 ||i.uuoobe.com//ad/
