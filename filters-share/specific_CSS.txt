@@ -1,3 +1,5 @@
+jiavr.xyz#$#div[class^="article-adCover-div-"] { display: none !important; }
+jiavr.xyz#$##adNotice { display: none !important; }
 inven.co.kr#$#[style*="--var-header-ad-bg-img"].header-top { --var-header-ad-bg-img: none !important; --var-header-ad-bg-scroll-img: none !important; }
 mydaily.co.kr#$#.top_logo .top_logo_img { margin-left: 200px !important; }
 lottoen.com#$#.content_body > div[class^="lotto_"] { filter: none !important; -webkit-filter: none !important; }
@@ -9,7 +11,7 @@ simcong.com#$#.result_wrap { display: block !important; }
 simcong.com#$#.quiz_list:not([style]) ~  .result_wrap .restart { display: none !important; }
 gorani.kr#$#.column_content { margin-top: 50px !important; }
 www.naver.com#$##topSearchWrap { padding-bottom: 50px !important; }
-ohohz.cafe24.com#$##content .ad_parent { height: 100% !important; overflow: auto !important; }
+jiavr.xyz,ohohz.cafe24.com#$##content .ad_parent { height: 100% !important; overflow: auto !important; }
 marupost.mycafe24.com#$##welcome-ad { display: none !important; }
 pythondocs.net#$##continue_reading { display: none !important; }
 pythondocs.net#$#.omit_wrap { height: 100% !important; }
