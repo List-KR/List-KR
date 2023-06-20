@@ -1,3 +1,5 @@
+marupost.mycafe24.com#$#.content-preview { display: none !important; }
+marupost.mycafe24.com#$#.content-full { height: auto !important; }
 jiavr.xyz,ohohz.cafe24.com#$#div[class^="article-adCover-div-"] { display: none !important; }
 jiavr.xyz,ohohz.cafe24.com#$##adNotice { display: none !important; }
 inven.co.kr#$#[style*="--var-header-ad-bg-img"].header-top { --var-header-ad-bg-img: none !important; --var-header-ad-bg-scroll-img: none !important; }
