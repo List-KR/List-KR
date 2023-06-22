@@ -1,6 +1,7 @@
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
+beomil09121.cafe24.com##+js(acis, jQuery, coupang_dont_show_prompty_interval)
 xn--wh1b751afvcpsb.com##+js(acis, jQuery.prototype.on, is_coupang)
 333aaa.site##+js(set, pum_vars, undefined)
 inven.co.kr##+js(ra, placeholder, #webzineHeadmenuF1 input[placeholder][autocomplete="off"])
