@@ -1,3 +1,4 @@
+||economist.co.kr/data/ecn/upload/save/popup/
 ||semoi.kr/data/file/ad
 ||deliverypoint.co.kr/data/file/ad
 ||m2.nateimg.co.kr/cms/
