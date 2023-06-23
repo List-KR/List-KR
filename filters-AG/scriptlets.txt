@@ -42,6 +42,7 @@ imbc.com#%#//scriptlet('set-constant', 'vrixadsdk', 'undefined')
 !
 ! DOMAIN-REFRESHER: START
 !
+zzap10.com,zzap11.com,zzap12.com,zzap13.com,zzap14.com,zzap15.com,zzap16.com,zzap17.com,zzap18.com,zzap19.com,zzap20.com,zzap21.com,zzap22.com,zzap23.com,zzap24.com,zzap25.com#%#//scriptlet('prevent-setInterval', 'animationEffects[settings.animation.effect]')
 lover903.net,lover904.net,lover905.net,lover906.net,lover907.net,lover908.net,lover909.net,lover910.net,lover911.net,lover912.net#%#//scriptlet('adjust-setTimeout', 'count', '*', '0.001')
 !
 ! DOMAIN-REFRESHER: END
