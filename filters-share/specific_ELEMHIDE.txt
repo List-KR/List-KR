@@ -7,7 +7,7 @@ news.zum.com,m.heraldpop.com,m.jjang0u.com,compuzone.co.kr,dak.gg,osmanias.com,i
 ! ##div[class^="ad-"]
 chungnamilbo.co.kr,incheonilbo.com,ggilbo.com,bloter.net,sportsseoul.com,nbnbiz.co.kr,enetnews.co.kr,newsnjoy.or.kr,mediaus.co.kr,ziksir.com,daily.hankooki.com,ccdailynews.com,topstarnews.net,spotvnews.co.kr,foodnews.co.kr,hankooki.com,spochoo.com,digitaltoday.co.kr,orbi.kr,weekly.chosun.com,nzkoreapost.com,pinpointnews.co.kr,huffingtonpost.kr,eroun.net,cnet.co.kr,hogangnono.com,ppomppu.co.kr,interfootball.co.kr,police112.co.kr,dpg.danawa.com,m.danawa.com,kimpga.com,youthassembly.kr,algumon.com,tvchak.com,dailysecu.com,hankyung.com,m.etnews.com,hani.co.kr,hankookilbo.com,newspim.com##div[class^="ad-"]
 ! ##.banner
-inven.co.kr,sports.news.naver.com,ebn.co.kr,paxnet.co.kr,ajl.co.kr,yhinews.com,funshop.co.kr,m.sedaily.com,bloter.net,mosen.mt.co.kr,hinfomax.kr,hinfomax.co.kr,pressian.com,kukinews.com##.banner
+m.comic.naver.com,inven.co.kr,sports.news.naver.com,ebn.co.kr,paxnet.co.kr,ajl.co.kr,yhinews.com,funshop.co.kr,m.sedaily.com,bloter.net,mosen.mt.co.kr,hinfomax.kr,hinfomax.co.kr,pressian.com,kukinews.com##.banner
 ! ##div[class$="_banner"]
 m.mail.daum.net,zum.com,health.chosun.com,thebell.co.kr,fomos.kr,styleup.gameangel.com,yakup.com,jjan.kr,mitem.auction.co.kr,knnews.co.kr,joseilbo.com,m.mt.co.kr,etoland.co.kr,order.kyobobook.co.kr,newsen.com,toomics.com,m.ytn.co.kr,djtimes.co.kr,mdjournal.kr,windowsforum.kr,dcnewsj.joins.com,berryjam.co.kr##div[class$="_banner"]
 ! ##div[class^="ad"]
@@ -904,7 +904,7 @@ comic.naver.com##[id^="flex_ad_"]
 1412.rest##.custom_code.board_top
 news.appstory.co.kr###shopping_wrap
 news.appstory.co.kr##a[href*="//wrd.appstory.co.kr/rd.flad?"]
-news.appstory.co.kr##a[class^="banner_"]
+m.comic.naver.com,news.appstory.co.kr##a[class^="banner_"]
 news.appstory.co.kr##.header_banner
 mground.kr##[data-postid].ultp-shortcode
 daum.net##iframe[src^="//shop-redapi.daum.net/red-apigate/daumtop/"]
