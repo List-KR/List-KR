@@ -25,8 +25,6 @@ gorani.kr#$#.column_content { margin-top: 50px !important; }
 www.naver.com#$##topSearchWrap { padding-bottom: 50px !important; }
 dodot.cafe24.com,loapost.cafe24.com,jiavr.xyz,ohohz.cafe24.com#$##content .ad_parent { height: 100% !important; overflow: auto !important; }
 marupost.mycafe24.com#$##welcome-ad { display: none !important; }
-pythondocs.net#$##continue_reading { display: none !important; }
-pythondocs.net#$#.omit_wrap { height: 100% !important; }
 bloter.net#$#.respons-edit > div[style].float-left { width: 100% !important; }
 news.unn.net#$#header > .header-body { width: 100% !important; }
 t.hi098123.com#$#article { top: 0px !important; }
