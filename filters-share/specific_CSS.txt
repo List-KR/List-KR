@@ -1,3 +1,4 @@
+semoi.kr#$##bo_ad { display: none !important; }
 chchclub.com#$#.content.partners-wrap { max-height: 100% !important; }
 chchclub.com#$#.partners-wrap #partners { display: none !important; }
 thepumpkin.io#$#.bottomPop { display: none !important; }
