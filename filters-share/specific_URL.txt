@@ -1,3 +1,5 @@
+||thepumpkin.io/wp-content/uploads/*/length
+||thepumpkin.io/wp-content/uploads/*/width
 ||economist.co.kr/data/ecn/upload/save/popup/
 ||semoi.kr/data/file/ad
 ||deliverypoint.co.kr/data/file/ad
