@@ -1,4 +1,4 @@
-name: Run AGLint and purge jsDelivr cache
+name: AGLint and jsDelivr
 
 on:
   push:
