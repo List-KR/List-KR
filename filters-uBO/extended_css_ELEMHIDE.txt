@@ -64,6 +64,6 @@ torrentdia93.com,torrentdia94.com,torrentdia95.com,torrentdia96.com,torrentdia97
 img.imimggggg87878.com#?#a[target="_blank"][href^="http://"].menu-a:has-text(보증토토)
 frtoon161.com,frtoon162.com,frtoon163.com,frtoon164.com,frtoon165.com,frtoon166.com,frtoon167.com,frtoon168.com,frtoon169.com,frtoon170.com,frtoon171.com,frtoon172.com,frtoon173.com,frtoon174.com#?#.alert-danger.container:has-text([AD])
 hdhd224.net,hdhd225.net,hdhd226.net,hdhd227.net,hdhd228.net,hdhd229.net,hdhd230.net,hdhd231.net,hdhd232.net,hdhd233.net,hdhd234.net,hdhd235.net,hdhd236.net,hdhd237.net,hdhd238.net#?#.menu-ul > .menu-li:has(> a:has-text(보증토토))
-blacktoon199.com,blacktoon200.com,blacktoon201.com,blacktoon202.com,blacktoon203.com,blacktoon204.com,blacktoon205.com,blacktoon206.com,blacktoon207.com,blacktoon208.com,blacktoon209.com,blacktoon210.com#?#.alert.alert-danger:has(> a:has-text([AD]))
+blacktoon246.com,blacktoon247.com,blacktoon248.com,blacktoon249.com,blacktoon250.com,blacktoon251.com,blacktoon252.com,blacktoon253.com,blacktoon254.com,blacktoon255.com,blacktoon256.com,blacktoon257.com#?#.alert.alert-danger:has(> a:has-text([AD]))
 !
 ! DOMAIN-REFRESHER: END
