@@ -1041,7 +1041,7 @@ uuoobe.com##table[width][cellspacing] td[valign="top"] table[width][border="0"] 
 filetender.com###banner
 filetender.com##iframe[src="https://filetender.com/mobon.html"]
 moviepang.net##.sidebar[style] > aside[id^="text-"][class] ~ aside[id^="text-"][class]
-frtoon161.com,frtoon162.com,frtoon163.com,frtoon164.com,frtoon165.com,frtoon166.com,frtoon167.com,frtoon168.com,frtoon169.com,frtoon170.com,frtoon171.com,frtoon172.com,frtoon173.com,frtoon174.com##.ad-form > .row > div[class^="col-md-"]
+frtoon173.com,frtoon174.com,frtoon175.com,frtoon176.com,frtoon177.com,frtoon178.com,frtoon179.com,frtoon180.com,frtoon181.com,frtoon182.com,frtoon183.com,frtoon184.com,frtoon185.com,frtoon186.com##.ad-form > .row > div[class^="col-md-"]
 funbe261.com,funbe262.com,funbe263.com,funbe264.com,funbe265.com,funbe266.com,funbe267.com,funbe268.com,funbe269.com,funbe270.com,funbe271.com,funbe272.com,funbe273.com,funbe274.com,funbe275.com##div[class$="mobile-banner"][style]
 toon123.com##main > section[style]:not([class])
 anilife.live##.MainBnnWrap
