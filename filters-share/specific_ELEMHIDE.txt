@@ -1048,7 +1048,7 @@ anilife.live##.MainBnnWrap
 manaboza25.com,manaboza26.com,manaboza27.com,manaboza28.com,manaboza29.com,manaboza30.com,manaboza31.com,manaboza32.com,manaboza33.com,manaboza34.com,manaboza35.com,manaboza36.com##.payment_fullbnr
 manaboza25.com,manaboza26.com,manaboza27.com,manaboza28.com,manaboza29.com,manaboza30.com,manaboza31.com,manaboza32.com,manaboza33.com,manaboza34.com,manaboza35.com,manaboza36.com##.comic_bot_bnr
 torrentmode.com##a[href^="https://torrentmode.com/bbs/bannerhit.php"]
-agit173.com,agit174.com,agit175.com,agit176.com,agit177.com,agit178.com,agit179.com,agit180.com,agit181.com,agit182.com,agit183.com,agit184.com##.container.banner + .banner
+agit310.com,agit311.com,agit312.com,agit313.com,agit314.com,agit315.com,agit316.com,agit317.com,agit318.com,agit319.com,agit320.com,agit321.com##.container.banner + .banner
 newtoon177.com,newtoon178.com,newtoon179.com,newtoon180.com,newtoon181.com,newtoon182.com,newtoon183.com,newtoon184.com,newtoon185.com,newtoon186.com,newtoon187.com##.ad-form > .row > div[class^="col-md-"]
 blacktoon246.com,blacktoon247.com,blacktoon248.com,blacktoon249.com,blacktoon250.com,blacktoon251.com,blacktoon252.com,blacktoon253.com,blacktoon254.com,blacktoon255.com,blacktoon256.com,blacktoon257.com##.banner.container > .row > .col-6
 newtoki294.com,newtoki295.com,newtoki296.com,newtoki297.com,newtoki298.com,newtoki299.com,newtoki300.com,newtoki301.com,newtoki302.com,newtoki303.com,newtoki304.com,newtoki305.com###hd_pop
