@@ -1042,7 +1042,7 @@ filetender.com###banner
 filetender.com##iframe[src="https://filetender.com/mobon.html"]
 moviepang.net##.sidebar[style] > aside[id^="text-"][class] ~ aside[id^="text-"][class]
 frtoon161.com,frtoon162.com,frtoon163.com,frtoon164.com,frtoon165.com,frtoon166.com,frtoon167.com,frtoon168.com,frtoon169.com,frtoon170.com,frtoon171.com,frtoon172.com,frtoon173.com,frtoon174.com##.ad-form > .row > div[class^="col-md-"]
-funbe228.com,funbe229.com,funbe230.com,funbe231.com,funbe232.com,funbe233.com,funbe234.com,funbe235.com,funbe236.com,funbe237.com,funbe238.com,funbe239.com,funbe240.com,funbe241.com,funbe242.com##div[class$="mobile-banner"][style]
+funbe261.com,funbe262.com,funbe263.com,funbe264.com,funbe265.com,funbe266.com,funbe267.com,funbe268.com,funbe269.com,funbe270.com,funbe271.com,funbe272.com,funbe273.com,funbe274.com,funbe275.com##div[class$="mobile-banner"][style]
 toon123.com##main > section[style]:not([class])
 anilife.live##.MainBnnWrap
 manaboza35.com,manaboza36.com,manaboza37.com,manaboza38.com,manaboza39.com,manaboza40.com,manaboza41.com,manaboza42.com,manaboza43.com,manaboza44.com,manaboza45.com,manaboza46.com##.payment_fullbnr

@@ -5,7 +5,7 @@ m.ppomppu.co.kr##ul[class^="bbsList"] > div[style*="clear: both;"].sect0
 m.fmkorea.com##iframe[src*="//loader.fmkorea.com/"][src*="_loader/"]
 !#endif
 !#if adguard_app_windows
-funbe228.com,funbe229.com,funbe230.com,funbe231.com,funbe232.com,funbe233.com,funbe234.com,funbe235.com,funbe236.com,funbe237.com,funbe238.com,funbe239.com,funbe240.com,funbe241.com,funbe242.com##img[src^="/images/"]
+funbe261.com,funbe262.com,funbe263.com,funbe264.com,funbe265.com,funbe266.com,funbe267.com,funbe268.com,funbe269.com,funbe270.com,funbe271.com,funbe272.com,funbe273.com,funbe274.com,funbe275.com##img[src^="/images/"]
 !#endif
 !
 [$path=/ca-fe\\/web\\/cafes\\/(perfumelove|10001688)(\\/|\\?)/]m.cafe.naver.com##.banner_add
