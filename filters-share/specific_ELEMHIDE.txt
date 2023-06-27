@@ -1005,7 +1005,7 @@ linkeye4.com,linkeye5.com,linkeye6.com,linkeye7.com,linkeye8.com,linkeye9.com,li
 img.imimggggg87878.com##div[class$="-banner"]
 linkkf.app###banner
 krav287.xyz,krav288.xyz,krav289.xyz,krav290.xyz,krav291.xyz,krav292.xyz,krav293.xyz,krav294.xyz,krav295.xyz,krav296.xyz,krav297.xyz,krav298.xyz,krav299.xyz,krav300.xyz,krav301.xyz,krav302.xyz,krav303.xyz,krav304.xyz,krav305.xyz,krav306.xyz,krav307.xyz,krav308.xyz##div[class^="banner_"]
-booktoki282.com,booktoki283.com,booktoki284.com,booktoki285.com,booktoki286.com,booktoki287.com,booktoki288.com,booktoki289.com,booktoki290.com,booktoki291.com,booktoki292.com,booktoki293.com,booktoki294.com,booktoki195.com,booktoki196.com,booktoki197.com##div[id*="-banner-"] > div[class*=" "] > div[class*=" "][style*=" "]
+booktoki294.com,booktoki295.com,booktoki296.com,booktoki297.com,booktoki298.com,booktoki299.com,booktoki300.com,booktoki301.com,booktoki302.com,booktoki303.com,booktoki304.com,booktoki305.com,booktoki306.com,booktoki307.com,booktoki308.com,booktoki309.com##div[id*="-banner-"] > div[class*=" "] > div[class*=" "][style*=" "]
 !#if adguard_app_ios
 newtoki282.com,newtoki283.com,newtoki284.com,newtoki285.com,newtoki286.com,newtoki287.com,newtoki288.com,newtoki289.com,newtoki290.com,newtoki291.com,newtoki292.com,newtoki293.com##.board-tail-banner
 !#endif
@@ -1053,9 +1053,9 @@ newtoon165.com,newtoon166.com,newtoon167.com,newtoon168.com,newtoon169.com,newto
 hodu304.net,hodu305.net,hodu306.net,hodu307.net,hodu308.net,hodu309.net,hodu310.net,hodu311.net,hodu312.net,hodu313.net,hodu314.net,hodu315.net##.sub-contents > .banner
 blacktoon199.com,blacktoon200.com,blacktoon201.com,blacktoon202.com,blacktoon203.com,blacktoon204.com,blacktoon205.com,blacktoon206.com,blacktoon207.com,blacktoon208.com,blacktoon209.com,blacktoon210.com##.banner.container > .row > .col-6
 newtoki282.com,newtoki283.com,newtoki284.com,newtoki285.com,newtoki286.com,newtoki287.com,newtoki288.com,newtoki289.com,newtoki290.com,newtoki291.com,newtoki292.com,newtoki293.com###hd_pop
-booktoki282.com,booktoki283.com,booktoki284.com,booktoki285.com,booktoki286.com,booktoki287.com,booktoki288.com,booktoki289.com,booktoki290.com,booktoki291.com,booktoki292.com,booktoki293.com,booktoki294.com,booktoki195.com,booktoki196.com,booktoki197.com###hd_pop
+booktoki294.com,booktoki295.com,booktoki296.com,booktoki297.com,booktoki298.com,booktoki299.com,booktoki300.com,booktoki301.com,booktoki302.com,booktoki303.com,booktoki304.com,booktoki305.com,booktoki306.com,booktoki307.com,booktoki308.com,booktoki309.com###hd_pop
 newtoki282.com,newtoki283.com,newtoki284.com,newtoki285.com,newtoki286.com,newtoki287.com,newtoki288.com,newtoki289.com,newtoki290.com,newtoki291.com,newtoki292.com,newtoki293.com##div[id].col-15
-booktoki282.com,booktoki283.com,booktoki284.com,booktoki285.com,booktoki286.com,booktoki287.com,booktoki288.com,booktoki289.com,booktoki290.com,booktoki291.com,booktoki292.com,booktoki293.com,booktoki294.com,booktoki195.com,booktoki196.com,booktoki197.com##img[src^="/tokinbtoki/"]
+booktoki294.com,booktoki295.com,booktoki296.com,booktoki297.com,booktoki298.com,booktoki299.com,booktoki300.com,booktoki301.com,booktoki302.com,booktoki303.com,booktoki304.com,booktoki305.com,booktoki306.com,booktoki307.com,booktoki308.com,booktoki309.com##img[src^="/tokinbtoki/"]
 toonkor199.com,toonkor200.com,toonkor201.com,toonkor202.com,toonkor203.com,toonkor204.com,toonkor205.com,toonkor206.com,toonkor207.com,toonkor208.com,toonkor209.com,toonkor210.com##.bnt > div[class^="bancol"]
 toonkor199.com,toonkor200.com,toonkor201.com,toonkor202.com,toonkor203.com,toonkor204.com,toonkor205.com,toonkor206.com,toonkor207.com,toonkor208.com,toonkor209.com,toonkor210.com###containerCol .at-content .contents > a[href][target] > img[src^="/bann/"]
 toonkor199.com,toonkor200.com,toonkor201.com,toonkor202.com,toonkor203.com,toonkor204.com,toonkor205.com,toonkor206.com,toonkor207.com,toonkor208.com,toonkor209.com,toonkor210.com##div[class$="mobile-banner"][style]
