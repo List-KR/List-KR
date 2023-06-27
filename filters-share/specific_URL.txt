@@ -782,7 +782,7 @@
 /^https:\/\/torrentbot[0-9]+\.com\/uploadfile\/up[a-z0-9]+\.gif$/
 ||imgbox.com^$domain=ktxtorrent76.com|ktxtorrent77.com|ktxtorrent78.com|ktxtorrent79.com|ktxtorrent80.com|ktxtorrent81.com|ktxtorrent82.com|ktxtorrent83.com|ktxtorrent84.com|ktxtorrent85.com|ktxtorrent86.com|ktxtorrent87.com|ktxtorrent88.com|ktxtorrent89.com|ktxtorrent90.com
 ||static.filesbest.xyz^$domain=ktxtorrent76.com|ktxtorrent77.com|ktxtorrent78.com|ktxtorrent79.com|ktxtorrent80.com|ktxtorrent81.com|ktxtorrent82.com|ktxtorrent83.com|ktxtorrent84.com|ktxtorrent85.com|ktxtorrent86.com|ktxtorrent87.com|ktxtorrent88.com|ktxtorrent89.com|ktxtorrent90.com
-||static.filesbest.xyz^$domain=torrentrj98.com|torrentrj99.com|torrentrj100.com|torrentrj101.com|torrentrj102.com|torrentrj103.com|torrentrj104.com|torrentrj105.com|torrentrj106.com|torrentrj107.com|torrentrj108.com|torrentrj109.com|torrentrj110.com|torrentrj111.com|torrentrj112.com|torrentrj113.com
+||static.filesbest.xyz^$domain=torrentrj99.com|torrentrj100.com|torrentrj101.com|torrentrj102.com|torrentrj103.com|torrentrj104.com|torrentrj105.com|torrentrj106.com|torrentrj107.com|torrentrj108.com|torrentrj109.com|torrentrj110.com|torrentrj111.com|torrentrj112.com|torrentrj113.com|torrentrj114.com
 ||i.imgur.com^$domain=bobaelink52.xyz|bobaelink53.xyz|bobaelink54.xyz|bobaelink55.xyz|bobaelink56.xyz|bobaelink57.xyz|bobaelink58.xyz|bobaelink59.xyz|bobaelink60.xyz|bobaelink61.xyz|bobaelink62.xyz|bobaelink63.xyz
 ||filetender.com/mobon.html|
 /^https:\/\/(www\.)?filetender\.com\/images\/[0-9]{3,}(X|x)[0-9]{3,}-[0-9]{4}/
