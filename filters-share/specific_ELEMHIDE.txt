@@ -1045,8 +1045,8 @@ frtoon161.com,frtoon162.com,frtoon163.com,frtoon164.com,frtoon165.com,frtoon166.
 funbe228.com,funbe229.com,funbe230.com,funbe231.com,funbe232.com,funbe233.com,funbe234.com,funbe235.com,funbe236.com,funbe237.com,funbe238.com,funbe239.com,funbe240.com,funbe241.com,funbe242.com##div[class$="mobile-banner"][style]
 toon123.com##main > section[style]:not([class])
 anilife.live##.MainBnnWrap
-manaboza25.com,manaboza26.com,manaboza27.com,manaboza28.com,manaboza29.com,manaboza30.com,manaboza31.com,manaboza32.com,manaboza33.com,manaboza34.com,manaboza35.com,manaboza36.com##.payment_fullbnr
-manaboza25.com,manaboza26.com,manaboza27.com,manaboza28.com,manaboza29.com,manaboza30.com,manaboza31.com,manaboza32.com,manaboza33.com,manaboza34.com,manaboza35.com,manaboza36.com##.comic_bot_bnr
+manaboza35.com,manaboza36.com,manaboza37.com,manaboza38.com,manaboza39.com,manaboza40.com,manaboza41.com,manaboza42.com,manaboza43.com,manaboza44.com,manaboza45.com,manaboza46.com##.payment_fullbnr
+manaboza35.com,manaboza36.com,manaboza37.com,manaboza38.com,manaboza39.com,manaboza40.com,manaboza41.com,manaboza42.com,manaboza43.com,manaboza44.com,manaboza45.com,manaboza46.com##.comic_bot_bnr
 torrentmode.com##a[href^="https://torrentmode.com/bbs/bannerhit.php"]
 agit310.com,agit311.com,agit312.com,agit313.com,agit314.com,agit315.com,agit316.com,agit317.com,agit318.com,agit319.com,agit320.com,agit321.com##.container.banner + .banner
 newtoon177.com,newtoon178.com,newtoon179.com,newtoon180.com,newtoon181.com,newtoon182.com,newtoon183.com,newtoon184.com,newtoon185.com,newtoon186.com,newtoon187.com##.ad-form > .row > div[class^="col-md-"]
