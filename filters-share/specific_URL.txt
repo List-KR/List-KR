@@ -715,10 +715,9 @@
 /^https:\/\/newtoki[0-9]+\.com\/tokinbtoki\/[0-9]+/
 /^https:\/\/manatoki[0-9]+\.net\/tokinbtoki\//
 /^https:\/\/[a-z0-9\.]*torrentdia[0-9]+\.com\/data\/to_list\//
-||ifh.cc^$domain=tkr205.com|tkr206.com|tkr207.com|tkr208.com|tkr209.com|tkr210.com|tkr211.com|tkr212.com|tkr213.com|tkr214.com|tkr215.com|tkr216.com
-||blogger.googleusercontent.com/img/b/$domain=tkr205.com|tkr206.com|tkr207.com|tkr208.com|tkr209.com|tkr210.com|tkr211.com|tkr212.com|tkr213.com|tkr214.com|tkr215.com|tkr216.com
-||static.springbuilder.site/fs/userFiles-v2/$domain=tkr205.com|tkr206.com|tkr207.com|tkr208.com|tkr209.com|tkr210.com|tkr211.com|tkr212.com|tkr213.com|tkr214.com|tkr215.com|tkr216.com
-||i.imgur.com^$domain=tkr205.com|tkr206.com|tkr207.com|tkr208.com|tkr209.com|tkr210.com|tkr211.com|tkr212.com|tkr213.com|tkr214.com|tkr215.com|tkr216.com
+||imgsuperpower.com^$domain=tkr232.com|tkr234.com|tkr235.com|tkr236.com|tkr237.com|tkr238.com|tkr239.com|tkr240.com|tkr241.com|tkr242.com|tkr243.com|tkr244.com
+||blogger.googleusercontent.com/img/$domain=tkr232.com|tkr234.com|tkr235.com|tkr236.com|tkr237.com|tkr238.com|tkr239.com|tkr240.com|tkr241.com|tkr242.com|tkr243.com|tkr244.com
+||static.springbuilder.site/fs/userFiles-v2/$domain=tkr232.com|tkr234.com|tkr235.com|tkr236.com|tkr237.com|tkr238.com|tkr239.com|tkr240.com|tkr241.com|tkr242.com|tkr243.com|tkr244.com
 /^https:\/\/static\.tzstatic\.top\/t\/[a-z0-9]+\.gif$/
 /^https:\/\/image\.yaburi[0-9]+\.com\/image-storage\/banners\//
 /^https:\/\/torrentnx[0-9]+\.com\/thema\/Basic\/assets\//
