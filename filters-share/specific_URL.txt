@@ -721,7 +721,6 @@
 /^https:\/\/static\.tzstatic\.top\/t\/[a-z0-9]+\.gif$/
 /^https:\/\/image\.yaburi[0-9]+\.com\/image-storage\/banners\//
 /^https:\/\/torrentnx[0-9]+\.com\/thema\/Basic\/assets\//
-||filesbest.xyz^$domain=torrenttt69.com|torrenttt70.com|torrenttt71.com|torrenttt72.com|torrenttt73.com|torrenttt74.com|torrenttt75.com|torrenttt76.com|torrenttt77.com|torrenttt78.com|torrenttt79.com|torrenttt80.com|torrenttt81.com|torrenttt82.com
 /^https:\/\/torpang[0-9]+\.com\/thema\/Basic\/widget\/basic-belt-banner\//
 ||filesbest.xyz^$domain=torrenttip64.com|torrenttip65.com|torrenttip66.com|torrenttip67.com|torrenttip68.com|torrenttip69.com|torrenttip70.com|torrenttip71.com|torrenttip72.com|torrenttip73.com|torrenttip74.com|torrenttip75.com|torrenttip76.com
 ||imgur.com^$domain=torrentcar32.com|torrentcar33.com|torrentcar34.com|torrentcar35.com|torrentcar36.com|torrentcar37.com|torrentcar38.com|torrentcar39.com|torrentcar40.com|torrentcar41.com|torrentcar42.com|torrentcar43.com|torrentcar44.com

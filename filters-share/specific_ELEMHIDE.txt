@@ -972,6 +972,7 @@ osen.mt.co.kr##div#close_mask
 !
 ! DOMAIN-REFRESHER: START
 !
+torrenttt83.com,torrenttt84.com,torrenttt85.com,torrenttt86.com,torrenttt87.com,torrenttt88.com,torrenttt89.com,torrenttt90.com,torrenttt91.com,torrenttt92.com,torrenttt93.com,torrenttt94.com,torrenttt95.com,torrenttt96.com##a[href*="/ad/"][target="_blank"]
 zzapflix.tv##a[href*="/bbs/link.php?bo_table=partner&"]
 torrentsee171.com,torrentsee172.com,torrentsee173.com,torrentsee174.com,torrentsee175.com,torrentsee176.com,torrentsee177.com,torrentsee178.com,torrentsee179.com,torrentsee180.com,torrentsee181.com,torrentsee182.com,torrentsee183.com,torrentsee184.com,torrentsee185.com,torrentsee186.com##a[href^="/go/"][target="_blank"]
 viewtorrent11.com,viewtorrent12.com,viewtorrent13.com,viewtorrent14.com,viewtorrent15.com,viewtorrent16.com,viewtorrent17.com,viewtorrent18.com,viewtorrent19.com,viewtorrent20.com,viewtorrent21.com,viewtorrent22.com,viewtorrent23.com##div[style^="padding-bottom:"].img
