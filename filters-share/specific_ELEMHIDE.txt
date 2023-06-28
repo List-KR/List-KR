@@ -988,7 +988,7 @@ save-1.net##div[class^="header-banner-"]
 save-1.net##.at-main > .widget-box
 save-1.net##.w-banner
 tvchak.live##.mobile-main div[style^="padding:"].border-shadow
-jgmoa42.com,jgmoa43.com,jgmoa44.com,jgmoa45.com,jgmoa46.com,jgmoa47.com,jgmoa48.com,jgmoa49.com,jgmoa50.com,jgmoa51.com,jgmoa52.com,jgmoa53.com,jgmoa54.com,jgmoa55.com,jgmoa56.com##.popup
+jgmoa47.com,jgmoa48.com,jgmoa49.com,jgmoa50.com,jgmoa51.com,jgmoa52.com,jgmoa53.com,jgmoa54.com,jgmoa55.com,jgmoa56.com,jgmoa57.com,jgmoa58.com,jgmoa59.com,jgmoa60.com,jgmoa61.com##.popup
 torrenttop54.com,torrenttop55.com,torrenttop56.com,torrenttop57.com,torrenttop58.com,torrenttop59.com,torrenttop60.com,torrenttop61.com,torrenttop62.com,torrenttop63.com,torrenttop64.com,torrenttop65.com,torrenttop66.com,torrenttop67.com##a[href^="/adver-"]
 yaburi36.com,yaburi37.com,yaburi38.com,yaburi39.com,yaburi40.com,yaburi41.com,yaburi42.com,yaburi43.com,yaburi44.com,yaburi45.com,yaburi46.com,yaburi47.com,yaburi48.com,yaburi49.com,yaburi50.com,yaburi61.com,yaburi62.com,yaburi63.com,yaburi64.com,yaburi65.com,yaburi66.com###popups
 torrent-who34.me,torrent-who35.me,torrent-who36.me,torrent-who37.me,torrent-who38.me,torrent-who39.me,torrent-who40.me,torrent-who41.me,torrent-who42.me,torrent-who43.me,torrent-who44.me,torrent-who45.me,torrent-who46.me,torrent-who47.me,torrent-who48.me,torrent-who49.me##div[class*=" "]:not([id*=" "]) > .bg-black
