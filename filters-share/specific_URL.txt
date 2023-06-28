@@ -679,6 +679,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/^https:\/\/viewtorrent[0-9]+\.com\/data\/file\/[0-9]+_[0-9]+\//
 /^https:\/\/(www\.)?bobaelink[0-9]+\.xyz\/images\/ad\//
 ||i.uuoobe.com/images/250x250-6005.jpg
 /^https:\/\/(www\.)?zzap[0-9]+\.com\/data\/zzapstream\/[0-9]+_[A-z0-9]+\./
@@ -748,9 +749,6 @@
 /^https:\/\/hohotoon[0-9]+\.com\/data\/banner\//
 /^https?:\/\/(www\.)?spotv[0-9]+\.com\/theme\/basic\/img\/[a-z]+_ad_/
 /^https:\/\/torrenthaja[0-9]*\.com\/data\/banner\//
-/^https:\/\/viewtorrent[0-9]+\.com\/data\/editor\//
-/^https:\/\/viewtorrent[0-9]+\.com\/img\/[0-9]\/[0-9]_[0-9A-z]{8}_[a-z0-9]+\./
-||pixhost.to^$domain=viewtorrent6.com|viewtorrent7.com|viewtorrent8.com|viewtorrent9.com|viewtorrent10.com|viewtorrent11.com|viewtorrent12.com|viewtorrent13.com|viewtorrent14.com|viewtorrent15.com|viewtorrent16.com|viewtorrent17.com|viewtorrent18.com|viewtorrent19.com|viewtorrent20.com|viewtorrent21.com|viewtorrent22.com
 ||anilife.life/assets/banner/
 /^https:\/\/xn--8-o68e16s35etqj\.com\/data\/editor\/[0-9]+\/[a-z0-9]+_[a-z0-9]+_[a-z0-9]+\./
 ||i.uuoobe.com/images/$domain=torrentreel21.site|torrentreel22.site|torrentreel23.site|torrentreel24.site|torrentreel25.site|torrentreel26.site|torrentreel27.site|torrentreel28.site|torrentreel29.site|torrentreel30.site|torrentreel31.site|torrentreel32.site|torrentreel33.site|torrentreel34.site|torrentreel35.site|torrentreel36.site

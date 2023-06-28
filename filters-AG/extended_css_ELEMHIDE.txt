@@ -52,6 +52,7 @@ m.bunjang.co.kr#?#div:has(> div > div > div:contains(연관상품) > div:has(> d
 !
 ! DOMAIN-REFRESHER: START
 !
+viewtorrent11.com,viewtorrent12.com,viewtorrent13.com,viewtorrent14.com,viewtorrent15.com,viewtorrent16.com,viewtorrent17.com,viewtorrent18.com,viewtorrent19.com,viewtorrent20.com,viewtorrent21.com,viewtorrent22.com,viewtorrent23.com#?#div[class^="col-md-"] div[class*="-main-"]:contains(/보증업체|검증업체/)
 torrentsee160.com,torrentsee161.com,torrentsee162.com,torrentsee163.com,torrentsee164.com,torrentsee165.com,torrentsee166.com,torrentsee167.com,torrentsee168.com,torrentsee169.com,torrentsee170.com,torrentsee171.com,torrentsee172.com,torrentsee173.com,torrentsee174.com,torrentsee175.com#?#.nplr div[class=""] li:has(li:contains(AD))
 torrentdia93.com,torrentdia94.com,torrentdia95.com,torrentdia96.com,torrentdia97.com,torrentdia98.com,torrentdia99.com,torrentdia100.com,torrentdia101.com,torrentdia102.com,torrentdia103.com,torrentdia104.com,torrentdia105.com,torrentdia106.com,torrentdia107.com#?#form#fboardlist table tr:has(span.text-muted:contains(AD))
 img.imimggggg87878.com#?#a[target="_blank"][href^="http://"].menu-a:contains(보증토토)

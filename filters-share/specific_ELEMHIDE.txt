@@ -972,6 +972,7 @@ osen.mt.co.kr##div#close_mask
 !
 ! DOMAIN-REFRESHER: START
 !
+viewtorrent11.com,viewtorrent12.com,viewtorrent13.com,viewtorrent14.com,viewtorrent15.com,viewtorrent16.com,viewtorrent17.com,viewtorrent18.com,viewtorrent19.com,viewtorrent20.com,viewtorrent21.com,viewtorrent22.com,viewtorrent23.com##div[style^="padding-bottom:"].img
 zzap10.com,zzap11.com,zzap12.com,zzap13.com,zzap14.com,zzap15.com,zzap16.com,zzap17.com,zzap18.com,zzap19.com,zzap20.com,zzap21.com,zzap22.com,zzap23.com,zzap24.com,zzap25.com##.ent_wrapper.slide-vertical-effect .ent_navigation
 zzap10.com,zzap11.com,zzap12.com,zzap13.com,zzap14.com,zzap15.com,zzap16.com,zzap17.com,zzap18.com,zzap19.com,zzap20.com,zzap21.com,zzap22.com,zzap23.com,zzap24.com,zzap25.com##a[href*="?bo_table=partner"]
 zzap10.com,zzap11.com,zzap12.com,zzap13.com,zzap14.com,zzap15.com,zzap16.com,zzap17.com,zzap18.com,zzap19.com,zzap20.com,zzap21.com,zzap22.com,zzap23.com,zzap24.com,zzap25.com###hd_pop
@@ -1012,10 +1013,6 @@ newtoki294.com,newtoki295.com,newtoki296.com,newtoki297.com,newtoki298.com,newto
 hellven.net##a[href^="http"][target="_blank"].thumbnail
 dajunbi.com##div[class^="banner_"]
 spotv63.com,spotv64.com,spotv65.com,spotv66.com,spotv67.com,spotv68.com,spotv69.com,spotv70.com,spotv71.com,spotv72.com,spotv73.com,spotv74.com,spotv75.com,spotv76.com,spotv77.com,spotv78.com,spotv79.com,spotv80.com,spotv81.com##div[id$="-banner"]
-viewtorrent6.com,viewtorrent7.com,viewtorrent8.com,viewtorrent9.com,viewtorrent10.com,viewtorrent11.com,viewtorrent12.com,viewtorrent13.com,viewtorrent14.com,viewtorrent15.com,viewtorrent16.com,viewtorrent17.com,viewtorrent18.com,viewtorrent19.com,viewtorrent20.com,viewtorrent21.com,viewtorrent22.com##article[itemprop="articleBody"] > .row
-viewtorrent6.com,viewtorrent7.com,viewtorrent8.com,viewtorrent9.com,viewtorrent10.com,viewtorrent11.com,viewtorrent12.com,viewtorrent13.com,viewtorrent14.com,viewtorrent15.com,viewtorrent16.com,viewtorrent17.com,viewtorrent18.com,viewtorrent19.com,viewtorrent20.com,viewtorrent21.com,viewtorrent22.com##.at-main .b-board-g
-viewtorrent6.com,viewtorrent7.com,viewtorrent8.com,viewtorrent9.com,viewtorrent10.com,viewtorrent11.com,viewtorrent12.com,viewtorrent13.com,viewtorrent14.com,viewtorrent15.com,viewtorrent16.com,viewtorrent17.com,viewtorrent18.com,viewtorrent19.com,viewtorrent20.com,viewtorrent21.com,viewtorrent22.com###fboardlist > .row
-viewtorrent6.com,viewtorrent7.com,viewtorrent8.com,viewtorrent9.com,viewtorrent10.com,viewtorrent11.com,viewtorrent12.com,viewtorrent13.com,viewtorrent14.com,viewtorrent15.com,viewtorrent16.com,viewtorrent17.com,viewtorrent18.com,viewtorrent19.com,viewtorrent20.com,viewtorrent21.com,viewtorrent22.com##.col-md-12
 anilife.life##div[class$="-banner"]
 qooqootv.fun##div[class^="banner_"]
 !#if !adguard_ext_android_cb
