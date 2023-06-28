@@ -150,8 +150,8 @@ berryjam.co.kr#?#table[width="1200"]:has(> tbody > tr > td > div[class*="slider-
 ! DOMAIN-REFRESHER: START
 !
 viewtorrent11.com,viewtorrent12.com,viewtorrent13.com,viewtorrent14.com,viewtorrent15.com,viewtorrent16.com,viewtorrent17.com,viewtorrent18.com,viewtorrent19.com,viewtorrent20.com,viewtorrent21.com,viewtorrent22.com,viewtorrent23.com#?#article[itemprop="articleBody"] > div[class]:has(div[role="alert"])
-zzap10.com,zzap11.com,zzap12.com,zzap13.com,zzap14.com,zzap15.com,zzap16.com,zzap17.com,zzap18.com,zzap19.com,zzap20.com,zzap21.com,zzap22.com,zzap23.com,zzap24.com,zzap25.com#?#.ent_wrapper.slide-vertical-effect .ent_news:not(:has(.ent_prefix:contains(ZZAPFLIX))):remove()
-zzap10.com,zzap11.com,zzap12.com,zzap13.com,zzap14.com,zzap15.com,zzap16.com,zzap17.com,zzap18.com,zzap19.com,zzap20.com,zzap21.com,zzap22.com,zzap23.com,zzap24.com,zzap25.com#?#.widget-side .widget-title:has(+ div a[href^="/bbs/link.php?bo_table="][target="_blank"])
+zzapflix.tv#?#.ent_wrapper.slide-vertical-effect .ent_news:not(:has(.ent_prefix:contains(ZZAPFLIX))):remove()
+zzapflix.tv#?#.widget-side .widget-title:has(+ div a[href^="/bbs/link.php?bo_table="][target="_blank"])
 sonagitv.live#?#.navbar-nav > li:has(a[href*="/affiliatedcompany/"])
 booktoki294.com,booktoki295.com,booktoki296.com,booktoki297.com,booktoki298.com,booktoki299.com,booktoki300.com,booktoki301.com,booktoki302.com,booktoki303.com,booktoki304.com,booktoki305.com,booktoki306.com,booktoki307.com,booktoki308.com,booktoki309.com#?#ul[class] > li:has(> a[href*="tokkiweb.com"])
 manatoki294.net,manatoki295.net,manatoki296.net,manatoki297.net,manatoki298.net,manatoki299.net,manatoki300.net,manatoki301.net,manatoki302.net,manatoki303.net,manatoki304.net,manatoki305.net,manatoki306.net#?#ul[class] > li:has(> a[href^="/guarantee.php"])

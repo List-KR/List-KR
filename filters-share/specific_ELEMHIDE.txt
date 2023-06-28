@@ -972,11 +972,12 @@ osen.mt.co.kr##div#close_mask
 !
 ! DOMAIN-REFRESHER: START
 !
+zzapflix.tv##a[href*="/bbs/link.php?bo_table=partner&"]
 torrentsee171.com,torrentsee172.com,torrentsee173.com,torrentsee174.com,torrentsee175.com,torrentsee176.com,torrentsee177.com,torrentsee178.com,torrentsee179.com,torrentsee180.com,torrentsee181.com,torrentsee182.com,torrentsee183.com,torrentsee184.com,torrentsee185.com,torrentsee186.com##a[href^="/go/"][target="_blank"]
 viewtorrent11.com,viewtorrent12.com,viewtorrent13.com,viewtorrent14.com,viewtorrent15.com,viewtorrent16.com,viewtorrent17.com,viewtorrent18.com,viewtorrent19.com,viewtorrent20.com,viewtorrent21.com,viewtorrent22.com,viewtorrent23.com##div[style^="padding-bottom:"].img
-zzap10.com,zzap11.com,zzap12.com,zzap13.com,zzap14.com,zzap15.com,zzap16.com,zzap17.com,zzap18.com,zzap19.com,zzap20.com,zzap21.com,zzap22.com,zzap23.com,zzap24.com,zzap25.com##.ent_wrapper.slide-vertical-effect .ent_navigation
-zzap10.com,zzap11.com,zzap12.com,zzap13.com,zzap14.com,zzap15.com,zzap16.com,zzap17.com,zzap18.com,zzap19.com,zzap20.com,zzap21.com,zzap22.com,zzap23.com,zzap24.com,zzap25.com##a[href*="?bo_table=partner"]
-zzap10.com,zzap11.com,zzap12.com,zzap13.com,zzap14.com,zzap15.com,zzap16.com,zzap17.com,zzap18.com,zzap19.com,zzap20.com,zzap21.com,zzap22.com,zzap23.com,zzap24.com,zzap25.com###hd_pop
+zzapflix.tv##.ent_wrapper.slide-vertical-effect .ent_navigation
+zzapflix.tv##a[href*="?bo_table=partner"]
+zzapflix.tv###hd_pop
 torrentpi54.com,torrentpi55.com,torrentpi56.com,torrentpi57.com,torrentpi58.com,torrentpi59.com,torrentpi60.com,torrentpi61.com,torrentpi62.com,torrentpi63.com,torrentpi64.com,torrentpi65.com,torrentpi66.com,torrentpi67.com,torrentpi68.com,torrentpi69.com,torrentpi70.com,torrentpi71.com##.at-row .basic-post-gallery
 torrentpi54.com,torrentpi55.com,torrentpi56.com,torrentpi57.com,torrentpi58.com,torrentpi59.com,torrentpi60.com,torrentpi61.com,torrentpi62.com,torrentpi63.com,torrentpi64.com,torrentpi65.com,torrentpi66.com,torrentpi67.com,torrentpi68.com,torrentpi69.com,torrentpi70.com,torrentpi71.com###hd_pop
 hasha.in##div[style^="min-height:"][class^="bg-hasha-"] > div[style] + .max-w-full
