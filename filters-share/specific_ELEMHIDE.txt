@@ -1002,7 +1002,7 @@ allall73.com,allall74.com,allall75.com,allall76.com,allall77.com,allall78.com,al
 wtbox38.xyz,wtbox39.xyz,wtbox40.xyz,wtbox41.xyz,wtbox42.xyz,wtbox43.xyz,wtbox44.xyz,wtbox45.xyz,wtbox46.xyz,wtbox47.xyz,wtbox48.xyz,wtbox49.xyz,wtbox50.xyz,wtbox51.xyz,wtbox52.xyz,wtbox53.xyz,wtbox54.xyz##div[class*="-banner"] div[class*=" "][style=" "]
 tvbox34.xyz,tvbox35.xyz,tvbox36.xyz,tvbox37.xyz,tvbox38.xyz,tvbox39.xyz,tvbox40.xyz,tvbox41.xyz,tvbox42.xyz,tvbox43.xyz,tvbox44.xyz,tvbox45.xyz,tvbox46.xyz,tvbox47.xyz,tvbox48.xyz,tvbox49.xyz,tvbox50.xyz##div[class*="-banner"] div[class*=" "][style=" "]
 ydbox16.com,ydbox17.com,ydbox18.com,ydbox19.com,ydbox20.com,ydbox21.com,ydbox22.com,ydbox23.com,ydbox24.com,ydbox25.com,ydbox26.com,ydbox27.com,ydbox28.com,ydbox29.com,ydbox30.com,ydbox31.com,ydbox32.com##div[class*="-banner"] div[class*=" "][style=" "]
-linkeye4.com,linkeye5.com,linkeye6.com,linkeye7.com,linkeye8.com,linkeye9.com,linkeye10.com,linkeye11.com,linkeye12.com,linkeye13.com,linkeye14.com,linkeye15.com,linkeye16.com,linkeye17.com,linkeye18.com##div[class*="banner-"]
+linkeye5.com,linkeye6.com,linkeye7.com,linkeye8.com,linkeye9.com,linkeye10.com,linkeye11.com,linkeye12.com,linkeye13.com,linkeye14.com,linkeye15.com,linkeye16.com,linkeye17.com,linkeye18.com,linkeye19.com##div[class*="banner-"]
 img.imimggggg87878.com##div[class$="-banner"]
 linkkf.app###banner
 krav287.xyz,krav288.xyz,krav289.xyz,krav290.xyz,krav291.xyz,krav292.xyz,krav293.xyz,krav294.xyz,krav295.xyz,krav296.xyz,krav297.xyz,krav298.xyz,krav299.xyz,krav300.xyz,krav301.xyz,krav302.xyz,krav303.xyz,krav304.xyz,krav305.xyz,krav306.xyz,krav307.xyz,krav308.xyz##div[class^="banner_"]
