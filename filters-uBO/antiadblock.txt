@@ -104,7 +104,7 @@ play.aidungeon.io,tamrieltradecentre.com,downloads.descendant.me,html5.gamedistr
 !
 ! DOMAIN-REFRESHER: START
 !
-||daumcdn.net/tistory/$domain=lover903.net|lover904.net|lover905.net|lover906.net|lover907.net|lover908.net|lover909.net|lover910.net|lover911.net|lover912.net
-$redirect-rule=noop.txt,domain=lover903.net|lover904.net|lover905.net|lover906.net|lover907.net|lover908.net|lover909.net|lover910.net|lover911.net|lover912.net
+||daumcdn.net/tistory/$domain=lover920.net|lover921.net|lover922.net|lover923.net|lover924.net|lover925.net|lover926.net|lover927.net|lover928.net|lover929.net
+$redirect-rule=noop.txt,domain=lover920.net|lover921.net|lover922.net|lover923.net|lover924.net|lover925.net|lover926.net|lover927.net|lover928.net|lover929.net
 !
 ! DOMAIN-REFRESHER: END
