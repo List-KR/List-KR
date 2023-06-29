@@ -804,7 +804,7 @@
 /^https:\/\/bam[0-9]+co\.com\/_book\/_Contents\/banner\//
 ||imgsuperpower.com^$domain=hdhd250.net|hdhd251.net|hdhd252.net|hdhd253.net|hdhd254.net|hdhd255.net|hdhd256.net|hdhd257.net|hdhd258.net|hdhd259.net|hdhd260.net|hdhd261.net|hdhd262.net|hdhd263.net|hdhd264.net
 ||blogger.googleusercontent.com^$domain=hdhd250.net|hdhd251.net|hdhd252.net|hdhd253.net|hdhd254.net|hdhd255.net|hdhd256.net|hdhd257.net|hdhd258.net|hdhd259.net|hdhd260.net|hdhd261.net|hdhd262.net|hdhd263.net|hdhd264.net
-/^https:\/\/imgcloud[0-9]+\.net\//$domain=wfwf274.com|wfwf275.com|wfwf276.com|wfwf277.com|wfwf278.com|wfwf279.com|wfwf280.com|wfwf281.com|wfwf282.com|wfwf283.com|wfwf284.com|wfwf285.com|wfwf286.com
+/^https:\/\/imgcloud[0-9]+\.net\//$domain=wfwf277.com|wfwf278.com|wfwf279.com|wfwf280.com|wfwf281.com|wfwf282.com|wfwf283.com|wfwf284.com|wfwf285.com|wfwf286.com|wfwf289.com|wfwf290.com|wfwf291.com
 /^https:\/\/blacktoon[0-9]+\.com\/poster_js\/[0-9]+\.js/
 ||toonkor*.com/images/*.gif
 ||wwwimageup.angle777899.com/other/atoona/
