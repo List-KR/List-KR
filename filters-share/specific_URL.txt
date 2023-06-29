@@ -682,6 +682,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+||filesbest.xyz/uploadfile/images/*.gif$domain=torrenttip77.com|torrenttip78.com|torrenttip79.com|torrenttip80.com|torrenttip81.com|torrenttip82.com|torrenttip83.com|torrenttip84.com|torrenttip85.com|torrenttip86.com|torrenttip87.com|torrenttip88.com|torrenttip89.com
 /^https:\/\/viewtorrent[0-9]+\.com\/data\/file\/[0-9]+_[0-9]+\//
 /^https:\/\/(www\.)?bobaelink[0-9]+\.xyz\/images\/ad\//
 ||i.uuoobe.com/images/250x250-6005.jpg
@@ -725,7 +726,6 @@
 /^https:\/\/image\.yaburi[0-9]+\.com\/image-storage\/banners\//
 /^https:\/\/torrentnx[0-9]+\.com\/thema\/Basic\/assets\//
 /^https:\/\/torpang[0-9]+\.com\/thema\/Basic\/widget\/basic-belt-banner\//
-||filesbest.xyz^$domain=torrenttip64.com|torrenttip65.com|torrenttip66.com|torrenttip67.com|torrenttip68.com|torrenttip69.com|torrenttip70.com|torrenttip71.com|torrenttip72.com|torrenttip73.com|torrenttip74.com|torrenttip75.com|torrenttip76.com
 ||imgur.com^$domain=torrentcar32.com|torrentcar33.com|torrentcar34.com|torrentcar35.com|torrentcar36.com|torrentcar37.com|torrentcar38.com|torrentcar39.com|torrentcar40.com|torrentcar41.com|torrentcar42.com|torrentcar43.com|torrentcar44.com
 /^https:\/\/torrent-who[0-9]+\.me\/data\/apms\/background\//
 ||i.imgur.com^$domain=etorrentro.net
