@@ -792,7 +792,7 @@
 ||1.bp.blogspot.com^$domain=sogirl.so
 ||toonimg.com/data/files/banner/
 /^https:\/\/frtoon[0-9]+\.com\/data\/by_banner\//
-||i.imgur.com^$domain=buzztoon167.com|buzztoon168.com|buzztoon169.com|buzztoon170.com|buzztoon171.com|buzztoon172.com|buzztoon173.com|buzztoon174.com|buzztoon175.com|buzztoon176.com|buzztoon177.com|buzztoon178.com
+||i.imgur.com^$domain=buzztoon207.com|buzztoon208.com|buzztoon209.com|buzztoon210.com|buzztoon211.com|buzztoon212.com|buzztoon213.com|buzztoon214.com|buzztoon215.com|buzztoon216.com|buzztoon217.com|buzztoon218.com
 /^https:\/\/funbe[0-9]+\.com\/images\//
 /^https?:\/\/[0-9]+image\.[0-9]+toon\.com\/Image\/Banposter\//
 /^https?:\/\/toon[0-9]+\.com\/bbs\/myiframe\.html$/
