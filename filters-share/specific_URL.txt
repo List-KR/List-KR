@@ -769,7 +769,7 @@
 /^https:\/\/www\.redsun[0-9]+\.me\/ad\//
 /^https:\/\/manamoa[0-9]+\.com\/data\/apms\/background\//
 /^https:\/\/namedtoon[0-9]+\.com\/Uploads\/\/images\/[0-9]{4}-[0-9]{2}-[0-9]{2}\/[a-z0-9]{13}/
-/^https:\/\/imgcloud[0-9]+\.net\//$domain=fxfx171.com|fxfx172.com|fxfx173.com|fxfx174.com|fxfx175.com|fxfx176.com|fxfx177.com|fxfx178.com|fxfx179.com|fxfx180.com|fxfx181.com|fxfx182.com|fxfx183.com|fxfx184.com|fxfx187.com|fxfx188.com|fxfx189.com|fxfx190.com|fxfx191.com
+/^https:\/\/imgcloud[0-9]+\.net\//$domain=fxfx185.com|fxfx186.com|fxfx187.com|fxfx188.com|fxfx189.com|fxfx190.com|fxfx191.com|fxfx192.com|fxfx193.com|fxfx194.com|fxfx195.com|fxfx196.com|fxfx197.com|fxfx198.com|fxfx199.com|fxfx200.com|fxfx201.com|fxfx202.com|fxfx203.com
 /^https:\/\/mkmk[0-9]+\.link\/data\/file\/banner\//
 /^https:\/\/(www\.)?race[0-9]+\.xyz\/images\/spon\//
 /^https:\/\/imgcloud[0-9]+\.net\//$domain=wtwt180.com|wtwt181.com|wtwt182.com|wtwt183.com|wtwt184.com|wtwt185.com|wtwt186.com|wtwt187.com|wtwt188.com|wtwt189.com|wtwt190.com|wtwt191.com|wtwt192.com|wtwt193.com|wtwt194.com|wtwt195.com|wtwt196.com|wtwt197.com|wtwt198.com
