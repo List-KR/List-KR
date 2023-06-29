@@ -752,7 +752,7 @@
 /^https:\/\/torrenthaja[0-9]*\.com\/data\/banner\//
 ||anilife.life/assets/banner/
 /^https:\/\/xn--8-o68e16s35etqj\.com\/data\/editor\/[0-9]+\/[a-z0-9]+_[a-z0-9]+_[a-z0-9]+\./
-||i.uuoobe.com/images/$domain=torrentreel34.site|torrentreel35.site|torrentreel36.site|torrentreel37.site|torrentreel38.site|torrentreel39.site|torrentreel40.site|torrentreel41.site|torrentreel42.site|torrentreel43.site|torrentreel44.site|torrentreel45.site|torrentreel46.site|torrentreel47.site|torrentreel48.site|torrentreel49.site
+||i.uuoobe.com/images/$domain=torrentreel35.site|torrentreel36.site|torrentreel37.site|torrentreel38.site|torrentreel39.site|torrentreel40.site|torrentreel41.site|torrentreel42.site|torrentreel43.site|torrentreel44.site|torrentreel45.site|torrentreel46.site|torrentreel47.site|torrentreel48.site|torrentreel49.site|torrentreel50.site
 /^https:\/\/torrentmode[0-9]+\.com\/data\/zn_bimg\//
 ||az-cdn.com/banners/
 /^https:\/\/toonkor[0-9]+\.com\/images\/[a-z-]*[0-9]{3,}(x|X)[0-9]{2,}/
