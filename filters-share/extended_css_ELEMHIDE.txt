@@ -1,3 +1,4 @@
+atlantak.com#?#div:is([aria-label="Primary Sidebar"], #home-sidebar) > aside:has(img.image)
 semoi.kr,deliverypoint.co.kr#?##container > div[style*="margin-bottom:"]:has(img[src*="/data/file/ad"])
 semoi.kr,deliverypoint.co.kr#?##aside #ol_before ~ div[style]:not(:has(.tbl_head_lt))
 dprime.kr#?##list_aside div[id^="list_row_"].list_table_row_notice:has(a[href$="?bo_table=notice&sca=%EC%8A%A4%ED%8F%B0%EC%84%9C"])
