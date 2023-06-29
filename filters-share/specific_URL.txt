@@ -726,7 +726,7 @@
 /^https:\/\/image\.yaburi[0-9]+\.com\/image-storage\/banners\//
 /^https:\/\/torrentnx[0-9]+\.com\/thema\/Basic\/assets\//
 /^https:\/\/torpang[0-9]+\.com\/thema\/Basic\/widget\/basic-belt-banner\//
-||imgur.com^$domain=torrentcar32.com|torrentcar33.com|torrentcar34.com|torrentcar35.com|torrentcar36.com|torrentcar37.com|torrentcar38.com|torrentcar39.com|torrentcar40.com|torrentcar41.com|torrentcar42.com|torrentcar43.com|torrentcar44.com
+||imgur.com^$domain=torrentcar34.com|torrentcar35.com|torrentcar36.com|torrentcar37.com|torrentcar38.com|torrentcar39.com|torrentcar40.com|torrentcar41.com|torrentcar42.com|torrentcar43.com|torrentcar44.com|torrentcar45.com|torrentcar46.com
 /^https:\/\/torrent-who[0-9]+\.me\/data\/apms\/background\//
 ||i.imgur.com^$domain=etorrentro.net
 ||media.tumblr.com^$image,domain=mingk14.com|mingk15.com|mingk16.com|mingk17.com|mingk18.com|mingk19.com|mingk20.com|mingk21.com|mingk22.com|mingk23.com|mingk24.com|mingk25.com|mingk26.com|mingk27.com|mingk28.com|mingk29.com|mingk30.com
