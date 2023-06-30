@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+m.inven.co.kr##div[class^="mobileDaNs"]
 atlantak.com###home-sidebar >  a[target="_blank"]
 atlantak.com##main[role="main"] header ~ .code-block
 atlantak.com##.advertisement_area div[class^="ad"]
@@ -604,7 +605,6 @@ duo.op.gg##section[class=""] > div[class^="bg-gray"][class~="justify-center"]
 bada.io##div[id*="amazon_shopping"]
 quasarzone.com##.mid-content-area .left-util-wrap .bot-util-area
 quasarzone.com##.bot-content-area .mid-util-wrap .right-util-area
-m.inven.co.kr##section.mo-top-nav ~ div[class^="mobileDaNs"]
 m.inven.co.kr##section.mo-top-nav ~ div[style]:not([id])
 m.inven.co.kr##div[id^="mobileTailAd"]
 www.inven.co.kr###commonpart_invenpc
