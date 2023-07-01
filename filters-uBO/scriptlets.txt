@@ -1,4 +1,4 @@
-! This file includes a filter using action operators of uBlock Origin.
+! This file includes a filter using action operators of uBlock Origin that can be converted to AdGuard scriptlet.
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
