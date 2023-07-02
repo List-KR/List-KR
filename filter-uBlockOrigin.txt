@@ -1,7 +1,7 @@
 [uBlock Origin]
 ! Title: List-KR for uBlock Origin
 ! Description: List-KR for uBlock Origin. Maintained by the adblock community and AdGuard.
-! Version: 2023.0701.1
+! Version: 2023.0702.0
 ! Expires: 12 hours
 ! Homepage: https://github.com/List-KR/List-KR
 ! Support: https://github.com/List-KR/List-KR/issues/223
@@ -26,7 +26,6 @@
 !#include filters-uBO/extended_css_ELEMHIDE.txt
 !#include filters-uBO/extended_css_INJECTION.txt
 !#include filters-uBO/scriptlets.txt
-!#include filters-share/lkscriptlet.txt
 !#include filters-share/javascript.txt
 !#include filters-uBO/javascript.txt
 !#include filters-uBO/antiadblock.txt
