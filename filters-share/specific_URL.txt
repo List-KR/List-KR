@@ -1,3 +1,4 @@
+||resources.chimhaha.net/banner/
 ||ilbe.com/img/banner/
 ||i0.wp.com/atlantak.com/wp-content/uploads/*.gif?resize=*&ssl=1
 ||i0.wp.com/atlantak.com/wp-content/uploads/*?w=*&ssl=1

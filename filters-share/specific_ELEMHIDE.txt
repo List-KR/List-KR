@@ -727,7 +727,7 @@ auth.danawa.com###loginBottomBanner
 prod.danawa.com###ebayPowerClickBottomArea
 kimpga.com##div.max-w-screen-lg > .relative > div > div[class=""]:nth-child(1)
 m.danawa.com##.goods-list__ad
-ombudsmannews.com,kpja.kr,hungryapp.co.kr,usjournal.kr,socialvalue.kr,happycampus.com##div[id^="banner"]
+ombudsmannews.com,kpja.kr,hungryapp.co.kr,usjournal.kr,socialvalue.kr,happycampus.com,chimhaha.net##div[id^="banner"]
 happycampus.com##div[id^="power_link_"]
 sportalkorea.com###Contents > #sideBox > div[style]
 sportalkorea.com##p[class^="ad_"]
