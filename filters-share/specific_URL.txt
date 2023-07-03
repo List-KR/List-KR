@@ -808,5 +808,6 @@
 /^https:\/\/blacktoon[0-9]+\.com\/poster_js\/[0-9]+\.js/
 ||toonkor*.com/images/*.gif
 ||wwwimageup.angle777899.com/other/atoona/
+||resources.chimhaha.net/banner/
 !
 ! DOMAIN-REFRESHER: END
