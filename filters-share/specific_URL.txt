@@ -1,3 +1,4 @@
+||ilbe.com/img/banner/
 ||i0.wp.com/atlantak.com/wp-content/uploads/*.gif?resize=*&ssl=1
 ||i0.wp.com/atlantak.com/wp-content/uploads/*?w=*&ssl=1
 /^https:\/\/i0\.wp\.com\/atlantak\.com\/wp-content\/uploads\/[0-9]+\/[0-9]+\/[0-9A-z%]+\.[a-z]+\?fit=[A-Z%,0-9]+&ssl=1$/$domain=atlantak.com
