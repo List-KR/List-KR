@@ -1,3 +1,6 @@
+||etoland.co.kr/img/renewal/games/squidland/
+||youtube.com/iframe_api|$domain=etoland.co.kr
+||etoland.co.kr/data/file0207/point1/
 ||resources.chimhaha.net/banner/
 ||ilbe.com/img/banner/
 ||i0.wp.com/atlantak.com/wp-content/uploads/*.gif?resize=*&ssl=1

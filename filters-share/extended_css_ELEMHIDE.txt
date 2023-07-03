@@ -1,3 +1,4 @@
+etoland.co.kr#?#tbody > tr:has(> td > img[src*="/img/adland01.gif"])
 atlantak.com#?#div:is([aria-label="Primary Sidebar"], #home-sidebar) > aside:has(img.image)
 semoi.kr,deliverypoint.co.kr#?##container > div[style*="margin-bottom:"]:has(img[src*="/data/file/ad"])
 semoi.kr,deliverypoint.co.kr#?##aside #ol_before ~ div[style]:not(:has(.tbl_head_lt))
