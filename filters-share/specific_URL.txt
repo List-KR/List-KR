@@ -1,3 +1,4 @@
+||resources.chimhaha.net/banner/
 ||ilbe.com/img/banner/
 ||i0.wp.com/atlantak.com/wp-content/uploads/*.gif?resize=*&ssl=1
 ||i0.wp.com/atlantak.com/wp-content/uploads/*?w=*&ssl=1
@@ -808,6 +809,5 @@
 /^https:\/\/blacktoon[0-9]+\.com\/poster_js\/[0-9]+\.js/
 ||toonkor*.com/images/*.gif
 ||wwwimageup.angle777899.com/other/atoona/
-||resources.chimhaha.net/banner/
 !
 ! DOMAIN-REFRESHER: END
