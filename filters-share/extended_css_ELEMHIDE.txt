@@ -104,7 +104,6 @@ tgd.kr#?#.row > div[class^="col-xs-"]:not([id]):has(#focus-area > div[id^="div-g
 issuelink.co.kr#?#table.table-stripped tr:has(.ad)
 op.gg#?#div:not([class]) + div[class^="css-"]:has(> div[data-format="isvideo"])
 m.nocutnews.co.kr#?#div[class$="con_b"]:has(> *:matches-css(display: none))
-etoland.co.kr#?#tbody > tr:has(> td > img[src*="/img/adland01.gif"])
 cocstorage.com#?#div[class^="css-"]:has(> ins.adsbygoogle)
 modoodoc.com#?#div:not([class$="-mobile"]) > div[class]:has(> [class*="_ad_"]):not([data-review-count])
 noteforum.co.kr#?#table[style][width][cellspacing][cellpadding] tr[valign] > td[style]:has(img[src^="/file/_banner/"])

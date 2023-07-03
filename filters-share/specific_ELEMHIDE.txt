@@ -9,11 +9,11 @@ chungnamilbo.co.kr,incheonilbo.com,ggilbo.com,bloter.net,sportsseoul.com,nbnbiz.
 ! ##.banner
 economist.co.kr,m.comic.naver.com,inven.co.kr,sports.news.naver.com,ebn.co.kr,paxnet.co.kr,ajl.co.kr,yhinews.com,funshop.co.kr,m.sedaily.com,bloter.net,mosen.mt.co.kr,hinfomax.kr,hinfomax.co.kr,pressian.com,kukinews.com##.banner
 ! ##div[class$="_banner"]
-m.mail.daum.net,zum.com,health.chosun.com,thebell.co.kr,fomos.kr,styleup.gameangel.com,yakup.com,jjan.kr,mitem.auction.co.kr,knnews.co.kr,joseilbo.com,m.mt.co.kr,etoland.co.kr,order.kyobobook.co.kr,newsen.com,toomics.com,m.ytn.co.kr,djtimes.co.kr,mdjournal.kr,windowsforum.kr,dcnewsj.joins.com,berryjam.co.kr##div[class$="_banner"]
+m.mail.daum.net,zum.com,health.chosun.com,thebell.co.kr,fomos.kr,styleup.gameangel.com,yakup.com,jjan.kr,mitem.auction.co.kr,knnews.co.kr,joseilbo.com,m.mt.co.kr,order.kyobobook.co.kr,newsen.com,toomics.com,m.ytn.co.kr,djtimes.co.kr,mdjournal.kr,windowsforum.kr,dcnewsj.joins.com,berryjam.co.kr##div[class$="_banner"]
 ! ##div[class^="ad"]
 hub.zum.com,news.heraldcorp.com,lalawin.com,badayak.com,ujnews.co.kr,realty.chosun.com,koreadaily.com,it.chosun.com,m.fmkorea.com,maple.gg,ytn.co.kr,www.ebs.co.kr,newsis.com,search.danawa.com,m.newsen.com,jwmx.tistory.com,thespike.co.kr,hobbyen.co.kr,socialvalue.kr,entertainpost.com,m.moneys.mt.co.kr,basketkorea.com,m.ohmynews.com,biz.heraldcorp.com,slrclub.com##div[class^="ad"]
 ! ##div[class^="banner_"]
-beyondpost.co.kr,m.fomos.kr,m.kin.naver.com,jjan.kr,m.sports.naver.com,newspic.kr,www.ebs.co.kr,prod.danawa.com,auth.danawa.com,socialvalue.kr,news.jtbc.co.kr,etoland.co.kr,ajunews.com,mk.co.kr##div[class^="banner_"]
+beyondpost.co.kr,m.fomos.kr,m.kin.naver.com,jjan.kr,m.sports.naver.com,newspic.kr,www.ebs.co.kr,prod.danawa.com,auth.danawa.com,socialvalue.kr,news.jtbc.co.kr,ajunews.com,mk.co.kr##div[class^="banner_"]
 ! ##div[class$="Banner"]
 economist.co.kr,dailian.co.kr,bigkinds.or.kr,hungryapp.co.kr,rhythmer.net##div[class$="Banner"]
 ! ##div[class$="banner"]
@@ -72,11 +72,9 @@ semoi.kr###bo_v_top ~ section[style*="height:"]
 semoi.kr,deliverypoint.co.kr###bo_list + div[style*="height:"]
 semoi.kr,deliverypoint.co.kr###hd_qnb
 semoi.kr,deliverypoint.co.kr###aside .noticea
-etoland.co.kr##.right > div[style~="width:100%;"] ~ div[style^="margin-bottom:"]
 m.daum.net##div[data-slot-type="IMAGE_BIG_BANNER"].box_bnr
 m.nate.com##.issueBn
 m.cgv.co.kr##.videoAdWrap
-etoland.co.kr##.right > table[width="100%"] ~ div[style^="margin-bottom:"]
 m.ppomppu.co.kr##iframe[src*="/banner/google_ad.html"]
 phdkim.net##.pop-area.--dim.--active
 gorani.kr##[class*="_banner"]
@@ -108,7 +106,6 @@ zum.com##.shoplink_wrap
 search.zum.com##div[class^="powercont_"]
 search.zum.com##.naver_power_shopping
 search.zum.com##[class*="sponsor"]
-etoland.co.kr###mw_mobile > div[style^="margin-bottom:"]
 bloter.net##.respons-edit > div[style^="width:"].float-right
 newspim.com###news-contents div[style*="margin:"]
 search.11st.co.kr##._SearchTitlePrdHListAd
@@ -297,7 +294,6 @@ m.ibric.org##.row > div[class][id=""] ~ #Contents ~ a[href*="Board=enterprise"] 
 m.ibric.org##.row > div[class][id=""] ~ #Contents ~ a[href*="?Board=enterprise"]
 m.ibric.org##.row > div[class][id=""] ~ #Contents ~ div[style]
 m.ibric.org###TopAddFrame
-etoland.co.kr##div[class^="main_"][class*="_side_"] a[href] > img[alt][src]
 blog.naver.com###ssp-adpost
 ujnews.co.kr###navigation-cnt > div[style*=" "]:not([style*="margin-bottom:"])
 ujnews.co.kr###viewConts > div[id^="articleBody"]
@@ -354,9 +350,6 @@ idaegu.com###wrap_index ~ div[style]
 m.mydaily.co.kr###viewarea ~ br ~ div[style*="height:"]
 datanews.co.kr##a[href][target="_blank"] > img[src^="/data/banner/"]
 m.search.naver.com##.sc._pwl_video_container
-etoland.co.kr##div[class$="_banner_wrap"]
-etoland.co.kr##div[class^="gather-"][class$="_middle"] ~ .img_latest_wrap
-etoland.co.kr##div[class^="gather-"][class$="_middle"] ~ section[class^="secretStore_"]
 yna.co.kr##aside[class*="-ad-"]
 newstomato.com,shinmoongo.net,m.weekly.khan.co.kr##div[class$="_bn"]
 dbr.donga.com###overlay
@@ -809,7 +802,6 @@ m.nocutnews.co.kr###pnlContainer > div[class^="ct"] > .con_b > div[style]
 m.nocutnews.co.kr###pnlContainer > div[class^="ct"] > .section > div[style]:not(class)
 news.zum.com,m.edaily.co.kr,news.sbs.co.kr,nocutnews.co.kr##div[id^="dablewidget_"]
 ypbooks.co.kr,newstof.com##div[id^="popup_"]
-etoland.co.kr##div[class$="_banner_div"]
 yna.co.kr##[class^="aside-bnr"]
 shopping.interpark.com###btnlist > .productImgList.choice
 shopping.interpark.com###btnlist > .listTitle:nth-child(1)
@@ -937,7 +929,6 @@ ppomppu.co.kr##tr > td div.bridge
 news2day.co.kr,m.yakup.com,ypbooks.co.kr,asiatime.co.kr,www.ebs.co.kr,news.nate.com,boribori.co.kr##div[class*="_banner"]
 boribori.co.kr##.bFloatingBanner
 ondisk.co.kr##div[id^="wingBanner-"]
-etoland.co.kr##div[class^="power_link_"]
 coupang.com##.srp-top-banner-container
 coupang.com###sdpBottomAds
 coupang.com###sdp-bottom-banner
@@ -952,7 +943,6 @@ ruliweb.com##div[id^="adsense_"]
 mlbpark.donga.com##div[class*="naver_power"]
 quasarzone.com##*:not(footer) > div[class^="main-"][class$="-banner"]
 koreatimes.net,phdkim.net,nongmin.com,hankookilbo.com##div[class^="banner-"]
-etoland.co.kr##ul.board_list > li.subject.ad_subject
 m.ppomppu.co.kr##.google-ad
 m.ppomppu.co.kr##section.shopping-board
 ppomppu.co.kr##tbody > tr[id^="page_show_ad_"]

@@ -64,7 +64,6 @@ web.humoruniv.com#$##wrap_cnts td[valign="top"] #wrap_ctgr_new { width: 100% !im
 web.humoruniv.com#$##wrap_cnts td[valign="top"] #wrap_ctgr_new > div[id] { width: 100% !important; }
 haninvegas.com#$#body[data-elementor-device-mode="desktop"] div[itemprop="mainContentOfPage"] { width: 100% !important; }
 news.jtbc.co.kr#$#.news_doc #footer { position: static !important; }
-etoland.co.kr#$#div[class^="gather-"][class$="_middle"] { padding-bottom: 35px !important; }
 sundaynewsusa.com#$#.td-is-sticky > .wpb_wrapper { top: 0px !important; }
 donthellgo.com,instructivehumility.com,news.oasisfeed.com#$#.hideBtn { display: none !important; }
 instructivehumility.com,news.oasisfeed.com#$##newsBody { height: auto !important; }
@@ -172,7 +171,6 @@ marupost.mycafe24.com,tvchak.com#$#body { overflow-x: auto !important; overflow-
 tvchak.com#$##banner, .modal-backdrop { display: none !important; }
 news.unn.net#$#.grid-body.g-body { width: 100% !important; }
 autopostkorea.com#$#.site-footer { padding-bottom: 0px !important; }
-etoland.co.kr#$#.hit_list_ul_wrap { width: 100% !important; }
 biz.heraldcorp.com#$#.article_area > .article_left { width: 100% !important; }
 windowsforum.kr#$#.content { margin-top: 0px !important; }
 mule.co.kr#$#div.section-leftmiddle-topmiddle.cf { width: 100% !important; }
