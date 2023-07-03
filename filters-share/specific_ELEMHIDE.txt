@@ -727,7 +727,7 @@ auth.danawa.com###loginBottomBanner
 prod.danawa.com###ebayPowerClickBottomArea
 kimpga.com##div.max-w-screen-lg > .relative > div > div[class=""]:nth-child(1)
 m.danawa.com##.goods-list__ad
-ombudsmannews.com,kpja.kr,hungryapp.co.kr,usjournal.kr,socialvalue.kr,happycampus.com,etorrentro.net,chimhaha.net##div[id^="banner"]
+ombudsmannews.com,kpja.kr,hungryapp.co.kr,usjournal.kr,socialvalue.kr,happycampus.com,chimhaha.net##div[id^="banner"]
 happycampus.com##div[id^="power_link_"]
 sportalkorea.com###Contents > #sideBox > div[style]
 sportalkorea.com##p[class^="ad_"]
@@ -989,6 +989,7 @@ jgmoa47.com,jgmoa48.com,jgmoa49.com,jgmoa50.com,jgmoa51.com,jgmoa52.com,jgmoa53.
 torrenttop54.com,torrenttop55.com,torrenttop56.com,torrenttop57.com,torrenttop58.com,torrenttop59.com,torrenttop60.com,torrenttop61.com,torrenttop62.com,torrenttop63.com,torrenttop64.com,torrenttop65.com,torrenttop66.com,torrenttop67.com##a[href^="/adver-"]
 yaburi36.com,yaburi37.com,yaburi38.com,yaburi39.com,yaburi40.com,yaburi41.com,yaburi42.com,yaburi43.com,yaburi44.com,yaburi45.com,yaburi46.com,yaburi47.com,yaburi48.com,yaburi49.com,yaburi50.com,yaburi61.com,yaburi62.com,yaburi63.com,yaburi64.com,yaburi65.com,yaburi66.com###popups
 torrent-who34.me,torrent-who35.me,torrent-who36.me,torrent-who37.me,torrent-who38.me,torrent-who39.me,torrent-who40.me,torrent-who41.me,torrent-who42.me,torrent-who43.me,torrent-who44.me,torrent-who45.me,torrent-who46.me,torrent-who47.me,torrent-who48.me,torrent-who49.me##div[class*=" "]:not([id*=" "]) > .bg-black
+etorrentro.net##div[id^="banner"]
 1004girl.com##.page-content > .row.no-gap.no-space > .col-33
 mingk14.com,mingk15.com,mingk16.com,mingk17.com,mingk18.com,mingk19.com,mingk20.com,mingk21.com,mingk22.com,mingk23.com,mingk24.com,mingk25.com,mingk26.com,mingk27.com,mingk28.com,mingk29.com,mingk30.com##.main-box ~ div[style*=" "] > div:not([style*=" "])
 mingk14.com,mingk15.com,mingk16.com,mingk17.com,mingk18.com,mingk19.com,mingk20.com,mingk21.com,mingk22.com,mingk23.com,mingk24.com,mingk25.com,mingk26.com,mingk27.com,mingk28.com,mingk29.com,mingk30.com##.view-wrap > div[class*=" "] + div[style*=" "]
