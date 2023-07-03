@@ -1,3 +1,4 @@
+||ilbe.com/img/banner/
 ||i0.wp.com/atlantak.com/wp-content/uploads/*.gif?resize=*&ssl=1
 ||i0.wp.com/atlantak.com/wp-content/uploads/*?w=*&ssl=1
 /^https:\/\/i0\.wp\.com\/atlantak\.com\/wp-content\/uploads\/[0-9]+\/[0-9]+\/[0-9A-z%]+\.[a-z]+\?fit=[A-Z%,0-9]+&ssl=1$/$domain=atlantak.com
@@ -372,7 +373,6 @@
 ||paxnet.co.kr/banner/
 ||image.paxnet.co.kr/rpan/common/js/mobile_ad.js
 ||paxnet.co.kr/common/*BannerAjax|
-/^https:\/\/etoland\.co\.kr\/data\/daumeditor10\/[0-9]{6}\/[0-9]{17}\.png$/$domain=etoland.co.kr
 ||lol.ps/file/lol-ps/static/js/ad_script.js
 ||lol.ps/file/lol-ps/static/img/topbanner/
 ||cfnews.kr/gears/banner_pds/
