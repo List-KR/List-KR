@@ -1,3 +1,4 @@
+/wp-content/plugins/brave-popup-builder/assets/frontend/brave.js$domain=hotissuepoint.com
 ||etoland.co.kr/img/renewal/games/squidland/
 ||youtube.com/iframe_api|$domain=etoland.co.kr
 ||etoland.co.kr/data/file0207/point1/
