@@ -3,7 +3,7 @@ watchfreejavonline.co#%#//scriptlet('abort-current-inline-script', 'popMagic.ini
 !
 semoi.kr#%#//scriptlet('remove-class', 'mheight', '#bo_v_atc.mheight')
 aannm.cafe24.com,beomil09121.cafe24.com#%#//scriptlet('abort-current-inline-script', 'jQuery', 'coupang_dont_show_prompty_interval')
-xn--wh1b751afvcpsb.com#%#//scriptlet('abort-current-inline-script', 'jQuery.prototype.on', 'is_coupang')
+news.ssongyi.co.kr,xn--wh1b751afvcpsb.com#%#//scriptlet('abort-current-inline-script', 'jQuery.prototype.on', 'is_coupang')
 333aaa.site#%#//scriptlet('set-constant', 'pum_vars', 'undefined')
 inven.co.kr#%#//scriptlet('remove-attr', 'placeholder', '#webzineHeadmenuF1 input[placeholder][autocomplete="off"]')
 comic.naver.com#%#//scriptlet('json-prune', 'adBannerList')

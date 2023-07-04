@@ -4,7 +4,7 @@ watchfreejavonline.co##+js(acis, popMagic.init)
 !
 semoi.kr###bo_v_atc.mheight:remove-class(mheight)
 aannm.cafe24.com,beomil09121.cafe24.com##+js(acis, jQuery, coupang_dont_show_prompty_interval)
-xn--wh1b751afvcpsb.com##+js(acis, jQuery.prototype.on, is_coupang)
+news.ssongyi.co.kr,xn--wh1b751afvcpsb.com##+js(acis, jQuery.prototype.on, is_coupang)
 333aaa.site##+js(set, pum_vars, undefined)
 inven.co.kr##+js(ra, placeholder, #webzineHeadmenuF1 input[placeholder][autocomplete="off"])
 comic.naver.com##+js(json-prune, adBannerList)
