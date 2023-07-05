@@ -1,6 +1,8 @@
 ! PopMagic
 watchfreejavonline.co#%#//scriptlet('abort-current-inline-script', 'popMagic.init')
 !
+yachuk.com#%#//scriptlet('remove-class', 'not_cookie', '#user-container')
+yachuk.com#%#//scriptlet('abort-current-inline-script', 'jQuery', 'link.coupang.com')
 semoi.kr#%#//scriptlet('remove-class', 'mheight', '#bo_v_atc.mheight')
 aannm.cafe24.com,beomil09121.cafe24.com#%#//scriptlet('abort-current-inline-script', 'jQuery', 'coupang_dont_show_prompty_interval')
 jiwootube.com,news.ssongyi.co.kr,xn--wh1b751afvcpsb.com#%#//scriptlet('abort-current-inline-script', 'jQuery.prototype.on', 'is_coupang')
