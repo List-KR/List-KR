@@ -1,3 +1,4 @@
+ktestone.com#$#.article-adCover-div { height: 100% !important; }
 etoland.co.kr#$#.main-top-banner + .box { margin-top: 0px !important; }
 semoi.kr#$##bo_ad { display: none !important; }
 chchclub.com#$#.content.partners-wrap { max-height: 100% !important; }
@@ -11,7 +12,7 @@ withcast.co.kr#$##no_pages.bg_w { display: none !important; }
 donthellgo.com#$##contentBody.bodyHide { height: 100% !important; }
 marupost.mycafe24.com#$#.content-preview { display: none !important; }
 marupost.mycafe24.com#$#.content-full { height: auto !important; }
-dodot.cafe24.com,loapost.cafe24.com,jiavr.xyz,ohohz.cafe24.com#$#div[class^="article-adCover-div-"] { display: none !important; }
+ktestone.com,dodot.cafe24.com,loapost.cafe24.com,jiavr.xyz,ohohz.cafe24.com#$#div[class^="article-adCover-div-"] { display: none !important; }
 dodot.cafe24.com,loapost.cafe24.com,jiavr.xyz,ohohz.cafe24.com#$##adNotice { display: none !important; }
 inven.co.kr#$#[style*="--var-header-ad-bg-img"].header-top { --var-header-ad-bg-img: none !important; --var-header-ad-bg-scroll-img: none !important; }
 mydaily.co.kr#$#.top_logo .top_logo_img { margin-left: 200px !important; }
