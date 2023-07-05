@@ -4,6 +4,7 @@ watchfreejavonline.co##+js(acis, popMagic.init)
 ! https://github.com/uBlockOrigin/uBlock-issues/issues/2130#issuecomment-1621684566
 apycsports.com##*:remove-class(not_cookie)
 !
+newsn24.com##+js(acis, jQuery.prototype.load, is_coupang)
 momkim.co.kr##+js(aeld, DOMContentLoaded, link.coupang.com)
 momkim.co.kr,yachuk.com##*:remove-class(not_cookie)
 yachuk.com##+js(acis, jQuery, link.coupang.com)
