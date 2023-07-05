@@ -1,6 +1,8 @@
 ! This file includes a filter using action operators of uBlock Origin that can be converted to AdGuard scriptlet.
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
+! https://github.com/uBlockOrigin/uBlock-issues/issues/2130#issuecomment-1621684566
+apycsports.com##*:remove-class(not_cookie)
 !
 momkim.co.kr##+js(aeld, DOMContentLoaded, link.coupang.com)
 momkim.co.kr,yachuk.com##*:remove-class(not_cookie)

@@ -1,3 +1,6 @@
+! https://github.com/uBlockOrigin/uBlock-issues/issues/2130#issuecomment-1621684566
+apycsports.com#$#.copas_btn { display: none !important; }
+!
 !#if env_firefox
 tgd.kr#$##article-info > h2 { overflow: visible !important; }
 !#endif

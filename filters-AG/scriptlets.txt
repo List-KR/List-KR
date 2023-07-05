@@ -1,6 +1,7 @@
 ! PopMagic
 watchfreejavonline.co#%#//scriptlet('abort-current-inline-script', 'popMagic.init')
 !
+apycsports.com#%#//scriptlet('abort-current-inline-script', '$.prototype.ready', 'is_coupang')
 momkim.co.kr#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 'link.coupang.com')
 momkim.co.kr,yachuk.com#%#//scriptlet('remove-class', 'not_cookie', '*')
 yachuk.com#%#//scriptlet('abort-current-inline-script', 'jQuery', 'link.coupang.com')
