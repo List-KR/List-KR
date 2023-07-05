@@ -2,7 +2,8 @@
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 !
-yachuk.com###user-container:remove-class(not_cookie)
+momkim.co.kr##+js(aeld, DOMContentLoaded, link.coupang.com)
+momkim.co.kr,yachuk.com##*:remove-class(not_cookie)
 yachuk.com##+js(acis, jQuery, link.coupang.com)
 semoi.kr###bo_v_atc.mheight:remove-class(mheight)
 aannm.cafe24.com,beomil09121.cafe24.com##+js(acis, jQuery, coupang_dont_show_prompty_interval)
