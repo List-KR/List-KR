@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+op.gg##.e17e77tq6
 op.gg###content-container > main > div[class^="css-"][class*=" "] ~ div[class^="css-"][class*=" "][style^="margin-bottom:"]
 etoland.co.kr##div[class^="power_link_"]
 etoland.co.kr##ul.board_list > li.subject.ad_subject
