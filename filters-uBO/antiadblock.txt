@@ -82,7 +82,6 @@ uda1004.tistory.com#@#ins.adsbygoogle
 sogirl.so##+js(set, DHAntiAdBlocker, true)
 @@||clien.net^$generichide
 @@||ad.smartmediarep.com/NetInsight/video/smr$domain=programs.sbs.co.kr|allclip.sbs.co.kr|mplay.mk.co.kr|static.cloud.sbs.co.kr
-@@||op.gg^$generichide
 ||adimg.nate.com/img/*?n=$redirect=2x2.png,domain=tv.nate.com
 noonnu.cc##+js(no-xhr-if, pagead2.googlesyndication.com/pagead/js/adsbygoogle.js)
 @@||t1.daumcdn.net/adfit/static/kp.js$domain=laftel.net

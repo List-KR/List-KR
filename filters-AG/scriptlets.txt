@@ -33,7 +33,6 @@ cfnews.kr#%#//scriptlet('abort-current-inline-script', 'window.open', '/gears/po
 sjtoday.kr#%#//scriptlet('abort-current-inline-script', 'window.open', 'notice_view_html.php')
 filetender.com#%#//scriptlet('prevent-setTimeout', '', '15000')
 pping.kr#%#//scriptlet('remove-attr', 'placeholder', 'input.search_input', 'asap stay')
-op.gg#%#//scriptlet('json-prune', 'text_banner image_banner')
 m.dcinside.com#%#//scriptlet('set-constant', 'reple_dori', 'noopFunc')
 shoppinghow.kakao.com#%#//scriptlet('json-prune', 'ads')
 dpg.danawa.com#%#//scriptlet('abort-current-inline-script', '$', '/danawa-dpg-common-sponsorBanner-/')

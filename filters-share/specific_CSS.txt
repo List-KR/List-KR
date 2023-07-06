@@ -140,7 +140,6 @@ paxnet.co.kr#$#html[class*="pc-size"] .m-contents > .side-area > div:nth-child(-
 paxnet.co.kr#$#html[class*="pc-size"] .m-contents > .side-area > .analysis-ranking1 { top: 475px !important; left: auto !important; width: 100% !important; }
 paxnet.co.kr#$#html[class*="pc-size"] .av-area-fot { display: none !important; }
 paxnet.co.kr#$#html[class*="pc-size"] .side-area + .m-guide { margin-bottom: 150px !important; }
-op.gg#$##content-header form.FormItem { width: 100% !important; }
 bigkinds.or.kr#$#.news-cate + .news-box { padding-right: 0px !important; }
 modoodoc.com#$#div[class~="hospital-images-box"] ~ .row > .col-8 { max-width: 100% !important; flex: none !important; }
 noteforum.co.kr#$#table[style][width][cellspacing][cellpadding] tr[valign] > td[style] > div[style] { width: 100% !important; }

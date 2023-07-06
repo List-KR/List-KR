@@ -89,7 +89,6 @@ uda1004.tistory.com#@#ins.adsbygoogle
 @@||sogirl.so/wp-content/plugins/dh-anti-adblocker/public/js/ads-prebid.js
 plankim.com##body > div:not([class]):not([id])
 @@||clien.net^$generichide
-@@||op.gg^$generichide
 @@||withukor.com^$generichide
 meeco.kr#@#.adsbygoogle
 @@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.min.js$domain=focuskr.tistory.com

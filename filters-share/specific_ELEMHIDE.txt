@@ -569,7 +569,6 @@ ppomppu.co.kr##table .list-notice-alarm-sponsor-tr
 m.ppomppu.co.kr###bbs_inform li[class^="bbs_ad"]
 eomisae.co.kr##.eq.section div[class^="col-md-"] > center
 starnewskorea.com###wrap > div[style^="overflow:"][style$="background:#ddd;"]
-op.gg##.vm-placement
 m.nocutnews.co.kr##.section div[class$="con_b"][style]
 bigkinds.or.kr##.news-cont ~ .news-special
 news.jtbc.co.kr##div[id^="right_banner"]
@@ -603,7 +602,6 @@ newsis.com##table[class*="Ad"]
 jootc.com,funissu.com##aside[id^="ai_widget-"]
 poro.gg##div[class^="flex"][class$="h-[250px]"]
 lolchess.gg##.ap_top
-duo.op.gg##section[class=""] > div[class^="bg-gray"][class~="justify-center"]
 bada.io##div[id*="amazon_shopping"]
 quasarzone.com##.mid-content-area .left-util-wrap .bot-util-area
 quasarzone.com##.bot-content-area .mid-util-wrap .right-util-area
@@ -776,7 +774,7 @@ autopostkorea.com##div[class^="floating_ad_"]
 newreop.com##.app-layout-content > #app-board > .app-board-section > .app-board-container > div[style]:not([class])
 newreop.com##main.app-main > .app-layout-container > .app-layout-content > #app-board > div > div[style]:not([class])
 cuonet.com##div[style~="background-image:"][style*=".cuonet.com/data/apms/background/"].item
-soxak.com,itwind.co.kr,koreatimes.net,op.gg##div[id$="-ad"]
+soxak.com,itwind.co.kr,koreatimes.net##div[id$="-ad"]
 minelist.kr##.content.ad
 koreapas.com##img[src^="athe/"]
 koreapas.com##img[src*="koreapas.com/bbs/data/"]
@@ -802,7 +800,7 @@ koreadaily.com,m.bobaedream.co.kr,m.hani.co.kr##section[class^="ad"]
 gigglehd.com##.widget_banner_skin > ul.banner_list
 m.news1.kr##iframe[src^="/template/ads/"]
 m.news1.kr##div[class^="das_article"][class$="_wrap"]
-talk.op.gg,m.news1.kr##div[class^="ads_"]
+m.news1.kr##div[class^="ads_"]
 news1.kr##.top_area > .wrap_sl_item > .slick-slider
 news1.kr###article_body_content > .link_news > ul > div[class] > div[style]
 news1.kr##div[data-acidx][data-kind].sideBlock

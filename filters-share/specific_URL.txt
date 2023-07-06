@@ -578,7 +578,6 @@
 ||kwnews.co.kr/kwnews/AD/$document
 ||kwnews.co.kr/kwnews/ad/
 ||cdn.bizwatch.co.kr/ads/
-||op.gg/scripts/ga.js
 ||rhythmer.net/common/js/Banner.js
 ||koreapas.com/bbs/data/
 ||koreapas.com/bbs/athe/
