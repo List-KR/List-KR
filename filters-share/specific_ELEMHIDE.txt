@@ -803,7 +803,7 @@ koreadaily.com,m.bobaedream.co.kr,m.hani.co.kr##section[class^="ad"]
 gigglehd.com##.widget_banner_skin > ul.banner_list
 m.news1.kr##iframe[src^="/template/ads/"]
 m.news1.kr##div[class^="das_article"][class$="_wrap"]
-m.news1.kr##div[class^="ads_"]
+talk.op.gg,m.news1.kr##div[class^="ads_"]
 news1.kr##.top_area > .wrap_sl_item > .slick-slider
 news1.kr###article_body_content > .link_news > ul > div[class] > div[style]
 news1.kr##div[data-acidx][data-kind].sideBlock
