@@ -1,3 +1,4 @@
+||s-lol-web.op.gg/assets/images/banners/
 /wp-content/plugins/brave-popup-builder/assets/frontend/brave.js$domain=hotissuepoint.com|keela.co.kr
 ||etoland.co.kr/img/renewal/games/squidland/
 ||youtube.com/iframe_api|$domain=etoland.co.kr

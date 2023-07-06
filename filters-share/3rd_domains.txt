@@ -1,3 +1,4 @@
+||live.primis.tech^
 ||pub.tvads.co.kr^
 ||api.linkmine.co.kr^
 ||io.smartmyd.com^
