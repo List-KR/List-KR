@@ -1,3 +1,12 @@
+coolenjoy.net#$?#.na-col > div[id^="carousel_"].carousel-fade .carousel-item:has(a[href]:not([href*="//coolenjoy.net/"])[target="_self"]) { remove: true; }
+aladin.co.kr#$?##welcomeMainBanner_welcomeMain div[id*="_containerWrap_"]:has(img[src$="Banner/ad.jpg"]) { remove: true; }
+m.danawa.com#$?##mdnw-main-recommend-realCuration-swipeContainer > div[id*="-ad-"] { remove: true; }
+programmers.co.kr#$?#div[class*="Banner"] div[data-swiper-slide-index].swiper-slide:has(a[href^="/banners/"]) { remove: true; }
+kyobobook.co.kr#$?#.banner_control_inner li[data-target="#75"].banner_group_item { remove: true; }
+kyobobook.co.kr#$?#.welcome_banner_inner li.swiper-slide:has(img[src*="image.kyobobook.co.kr/newimages/adcenter/"]) { remove: true; }
+enuri.com#$?#.trendpickup__container > .trendtab-cont:has(p.badge--ad) { remove: true; }
+enuri.com#$?#.trendtabs__list > li[data-adv_yn="Y"] { remove: true; }
+coupang.com#$?#li.search-product__ad-badge { remove: true; }
 search.shopping.naver.com#$?##content div[class^="basicList_list_"] div:has(div[class^="adProduct_item_"]):has(~ div) { height: 1px !important; visibility: hidden !important; }
 bbs.ruliweb.com#$?##board_top > div > .top_best.best_list:has(+ .col div[id^="ad_"]) { width: 100% !important; }
 browse.auction.co.kr#$?#div[module-design-id] ~ div > .component:has(div:has(.text--smiledelivery_slogan)) .section--component_title { margin-top: 0px !important; }
@@ -7,3 +16,9 @@ ponh.info#$?#div[data-mesh-id][data-testid] > div[id^="comp-"]:has(form[id][clas
 algumon.com#$?#.nav-mobile:matches-css(display: none) ~ .base > .main { width: calc(100% - 290px) !important; }
 5donews.co.kr#$?#.body > .content.xe_content:not(:has(article)) { width: auto !important; }
 mule.co.kr#$?#.section-lefttop-center:has(> .mule-today) { width: 100% !important; }
+!
+! DOMAIN-REFRESHER: START
+!
+zzapflix.tv#$?#.ent_wrapper.slide-vertical-effect .ent_news:not(:has(.ent_prefix:contains(ZZAPFLIX))) { remove: true; }
+!
+! DOMAIN-REFRESHER: END

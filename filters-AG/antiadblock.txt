@@ -50,7 +50,7 @@ meeco.kr#@#.adsbygoogle
 meeco.kr#%#//scriptlet('set-constant', 'adsBlocked', 'noopFunc')
 meeco.kr#$#.xe_content { opacity: 1 !important; }
 meeco.kr#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com/pagead/js/adsbygoogle.js')
-meeco.kr#?#.adsbygoogle:remove()
+meeco.kr#$?#.adsbygoogle { remove: true; }
 ! Umanle S.R.L
 @@||arca.live^$generichide
 @@||newliweb.com/$subdocument,script,domain=namu.wiki|~board.namu.wiki

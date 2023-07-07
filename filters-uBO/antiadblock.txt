@@ -29,7 +29,7 @@ luckyquiz3.blogspot.com##+js(acis, document.createElement, hasAdblock)
 ! meeco.kr
 meeco.kr##+js(set, adsBlocked, noopFunc)
 meeco.kr#$#.xe_content { opacity: 1 !important; }
-meeco.kr#?#.adsbygoogle:remove()
+meeco.kr#$?#.adsbygoogle { remove: true; }
 ! Umanle S.R.L
 @@||arca.live^$generichide
 @@||newliweb.com/$frame,script,domain=namu.wiki|~board.namu.wiki
