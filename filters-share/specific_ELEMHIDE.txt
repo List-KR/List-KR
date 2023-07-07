@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+jellinggame.com##.popup
 op.gg##div[id^="banner-"]
 op.gg##.vm-placement
 op.gg###content-header .FormItem + #opgg-video
