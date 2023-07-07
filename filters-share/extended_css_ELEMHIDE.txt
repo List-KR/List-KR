@@ -1,4 +1,4 @@
-op.gg#?##content-container div[class^="css-"]:has(.vm-placement)
+op.gg#?##content-container div[class^="css-"]:has(.vm-placement):not(:has(a[href] > span))
 op.gg#?##content-header ~ div[class^="css-"][class*=" "]:has(div[id^="div-gpt-ad-"]):not(:has(#content-container))
 etoland.co.kr#?#tbody > tr:has(> td > img[src*="/img/adland01.gif"])
 atlantak.com#?#div:is([aria-label="Primary Sidebar"], #home-sidebar) > aside:has(img.image)
