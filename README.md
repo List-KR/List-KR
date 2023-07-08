@@ -43,8 +43,8 @@ https://cdn.jsdelivr.net/gh/adguardteam/HostlistsRegistry@main/assets/filter_25.
 
 사용하시는 웹 사이트가 아래 있다면 유저스크립트를 사용하십시오.
 
-- **[microShield](https://github.com/List-KR/microShield/blob/main/README.ko.md)**는 애드쉴드가 설치된 웹 사이트 광고를 차단합니다.
-- **[NamuLink](https://github.com/List-KR/NamuLink/blob/main/README.ko.md)**는 나무위키 파워링크 광고를 차단합니다.
+- [**microShield**](https://github.com/List-KR/microShield/blob/main/README.ko.md)는 애드쉴드가 설치된 웹 사이트 광고를 차단합니다.
+- [**NamuLink**](https://github.com/List-KR/NamuLink/blob/main/README.ko.md)는 나무위키 파워링크 광고를 차단합니다.
 
 ### 네이버 카페
 
