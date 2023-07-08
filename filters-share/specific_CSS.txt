@@ -1,3 +1,4 @@
+www.naver.com#$#div[class^="Layout-module_"] #newsstand { margin-top: 0px !important; }
 op.gg#$##content-header form.FormItem { width: 100% !important; }
 ktestone.com#$#.article-adCover-div { height: 100% !important; }
 etoland.co.kr#$#.main-top-banner + .box { margin-top: 0px !important; }
