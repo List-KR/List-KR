@@ -1,3 +1,4 @@
+||tivan.naver.com^
 ||live.primis.tech^
 ||pub.tvads.co.kr^
 ||api.linkmine.co.kr^
