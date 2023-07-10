@@ -15,7 +15,7 @@ hub.zum.com,news.heraldcorp.com,lalawin.com,badayak.com,ujnews.co.kr,realty.chos
 ! ##div[class^="banner_"]
 beyondpost.co.kr,m.fomos.kr,m.kin.naver.com,jjan.kr,m.sports.naver.com,newspic.kr,www.ebs.co.kr,prod.danawa.com,auth.danawa.com,socialvalue.kr,news.jtbc.co.kr,ajunews.com,mk.co.kr##div[class^="banner_"]
 ! ##div[class$="Banner"]
-economist.co.kr,dailian.co.kr,bigkinds.or.kr,hungryapp.co.kr,rhythmer.net##div[class$="Banner"]
+mimint.co.kr,economist.co.kr,dailian.co.kr,bigkinds.or.kr,hungryapp.co.kr,rhythmer.net##div[class$="Banner"]
 ! ##div[class$="banner"]
 sports.chosun.com,dcinside.com##div[class$="banner"]
 ! ##div[class$="-banner"]
@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+mimint.co.kr###MiMintBottomViewLayer
 jellinggame.com##.popup
 op.gg##div[id^="banner-"]
 op.gg##.vm-placement
@@ -487,7 +488,7 @@ interpark.com##span[class$="AD"]
 dprime.kr.dvdprime.com##div[style~="height:"][style~="border-top:"].relative
 comic.naver.com,health.chosun.com,dprime.kr##[class*="_ad_"]
 ypbooks.co.kr##td[id^="divBn_"]
-m.dailian.co.kr,uwayapply.com,ypbooks.co.kr##div[id$="Banner"]
+m.mimint.co.kr,m.dailian.co.kr,uwayapply.com,ypbooks.co.kr##div[id$="Banner"]
 ypbooks.co.kr##div[style]#cenArea > .today
 lawtalknews.co.kr##.tdn-inventory
 www.tmon.co.kr##ul#_dealListContainer.list > li.item.type_admon[data-maincategoryno]

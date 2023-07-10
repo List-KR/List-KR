@@ -1,3 +1,4 @@
+||images.mimint.co.kr/banner/
 ||melon-pan.com/plugin/adcover/
 ||s-lol-web.op.gg/assets/images/banners/
 /wp-content/plugins/brave-popup-builder/assets/frontend/brave.js$domain=smartinpress.com|hotissuepoint.com|keela.co.kr
