@@ -689,6 +689,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+||cdn.jjun.live/BANNER/*.gif
 ||tvmon.net/img/ba
 ||tvmon.net/AD/
 ||filesbest.xyz/uploadfile/images/*.gif$domain=torrenttip77.com|torrenttip78.com|torrenttip79.com|torrenttip80.com|torrenttip81.com|torrenttip82.com|torrenttip83.com|torrenttip84.com|torrenttip85.com|torrenttip86.com|torrenttip87.com|torrenttip88.com|torrenttip89.com
