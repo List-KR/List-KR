@@ -1,3 +1,4 @@
+||coupang.com/vp/products/*/items/*/carousel-widget
 ||images.mimint.co.kr/banner/
 ||melon-pan.com/plugin/adcover/
 ||s-lol-web.op.gg/assets/images/banners/
