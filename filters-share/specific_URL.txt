@@ -646,7 +646,7 @@
 ||img.kbench.com/banner/
 ||dothome.co.kr/ad/ad_windowsforum.php$document
 ||dothome.co.kr/advertisement/
-||shop.nate.com/shopbox/shopbox.htm$domain=pann.nate.com
+||shop.nate.com/shopbox/shopbox$domain=pann.nate.com
 ||dschool.co.kr//uploadedFiles/ADVERTISE/
 ||koreaminecraft.net/serverad/$document
 ||bloter.net/data/blt/banner/

@@ -1,5 +1,5 @@
 ! ##div[id^="ad_"]
-sportsseoul.com,seoulwire.com,mydaily.co.kr,r114.com,dprime.kr,zdnet.co.kr,fpn119.co.kr,serieamania.com,news.nate.com,m.nate.com,www.nate.com,m.edaily.co.kr,hani.co.kr,m.sedaily.com,m.thisisgame.com,planet-times.com,mobile.newsis.com,fnnews.com,mania.kr,mosen.mt.co.kr,ruliweb.com##div[id^="ad_"]
+pann.nate.com,sportsseoul.com,seoulwire.com,mydaily.co.kr,r114.com,dprime.kr,zdnet.co.kr,fpn119.co.kr,serieamania.com,news.nate.com,m.nate.com,www.nate.com,m.edaily.co.kr,hani.co.kr,m.sedaily.com,m.thisisgame.com,planet-times.com,mobile.newsis.com,fnnews.com,mania.kr,mosen.mt.co.kr,ruliweb.com##div[id^="ad_"]
 ! ##div[class$="_ad"]
 etoland.co.kr,theqoo.net,ent.sbs.co.kr,ddengle.com,jjan.kr,kick-off.co.kr,dnews.co.kr,auction.co.kr,m.gamemeca.com,bemil.chosun.com,aladin.co.kr,nesin.com,encar.com,fntimes.com,zdnet.co.kr,mbn.co.kr,goodgag.net,v.daum.net,www.instiz.net,ppomppu.co.kr,m.nocutnews.co.kr,news.naver.com,news.daum.net,asiae.co.kr,ohmynews.com,seoul.co.kr,dmitory.com,itcm.co.kr,clien.net##div[class$="_ad"]
 ! ##div[class^="ad_"]
@@ -687,7 +687,7 @@ sign.dcinside.com##.ban_box
 playwares.com##a[href*="../api/redirectAd.php?"]
 kormedi.com##div[id^="better-ads-"]
 kormedi.com##iframe[src*="/wp-content/uploads/ads/"]
-theqoo.net,asiatoday.co.kr,osmanias.com,drapt.com,realty.chosun.com,asiatime.co.kr,newstong.co.kr,it.chosun.com,cm.asiae.co.kr,modoodoc.com,salgoonews.com,xportsnews.com##div[class*="_ad_"]
+pann.nate.com,theqoo.net,asiatoday.co.kr,osmanias.com,drapt.com,realty.chosun.com,asiatime.co.kr,newstong.co.kr,it.chosun.com,cm.asiae.co.kr,modoodoc.com,salgoonews.com,xportsnews.com##div[class*="_ad_"]
 shoppinghow.kakao.com##div[data-gg="{s1:shopping}"] h2 + div[class^="#banner"]
 m.naver.com##div[data-panel-code="SHOP_VOGUE"] ._MM_TREND_PICK
 compuzone.co.kr###gamezone .bnrList_area > ul.rollbnr_list
