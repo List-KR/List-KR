@@ -1,3 +1,4 @@
+/^https?:\/\/adsenseforum[0-9]*\.co\.kr\/data\/editor\//$match-case,domain=adsenseforum.co.kr|adsenseforum2.co.kr
 ||buy.m.11st.co.kr/MW/Cart/Vue/Recommend/ad.tmall
 ||m.11st.co.kr/MW/MyPage/api/*/hotClick.tmall|
 ||m.11st.co.kr/MW/MyPage/api/*/myPageHistoryTopBannerInfo.tmall
@@ -48,7 +49,7 @@
 ||s-econ.kr/Files/*/Template/
 ||s-econ.kr/images/main/banner/
 ||allaboutshaving.kr/wp-content/plugins/quick-adsense-reloaded/
-/^https?:\/\/adsenseforum[0-9]*\.co\.kr\/skin\/board\/WS_Board_QA.+\.png$/$match-case,domain=adsenseforum.co.kr|adsenseforum2.co.kr
+/^https?:\/\/adsenseforum[0-9]*\.co\.kr\/skin\/board\/WS_Board_QA.+\./$match-case,image,domain=adsenseforum.co.kr|adsenseforum2.co.kr
 ||avdbs.com/*/img/banner/
 ||avdbs.com/*/img/aashop/
 ||live.afreecatv.com/api/get_ad.php
