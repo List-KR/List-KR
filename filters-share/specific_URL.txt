@@ -1,3 +1,5 @@
+||buy.11st.co.kr/cart/RecommendProduct.tmall
+||11st.co.kr/advert/HotClick.tmall
 /^https?:\/\/adsenseforum[0-9]*\.co\.kr\/data\/editor\//$match-case,domain=adsenseforum.co.kr|adsenseforum2.co.kr
 ||buy.m.11st.co.kr/MW/Cart/Vue/Recommend/ad.tmall
 ||m.11st.co.kr/MW/MyPage/api/*/hotClick.tmall|
