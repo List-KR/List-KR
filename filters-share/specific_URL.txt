@@ -1,3 +1,6 @@
+||buy.m.11st.co.kr/MW/Cart/Vue/Recommend/ad.tmall
+||m.11st.co.kr/MW/MyPage/api/*/hotClick.tmall|
+||m.11st.co.kr/MW/MyPage/api/*/myPageHistoryTopBannerInfo.tmall
 ||coupang.com/vp/products/*/items/*/carousel-widget
 ||images.mimint.co.kr/banner/
 ||melon-pan.com/plugin/adcover/
