@@ -35,9 +35,6 @@ funbe261.com,funbe262.com,funbe263.com,funbe264.com,funbe265.com,funbe266.com,fu
 !
 ! DOMAIN-REFRESHER: START
 !
-!#if adguard_app_ios
-sonagitv.live##.blocks-gallery-item img[src*="/sonagi_me/sites/"]
-!#endif
 !
 ! DOMAIN-REFRESHER: END
 !

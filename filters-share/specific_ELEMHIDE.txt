@@ -980,6 +980,7 @@ osen.mt.co.kr##div#close_mask
 !
 ! DOMAIN-REFRESHER: START
 !
+sonagitv.*##.blocks-gallery-item img[src*="/sonagi2_media/sites/"]
 kr.bb-tv.co##.banner
 torrenttip77.com,torrenttip78.com,torrenttip79.com,torrenttip80.com,torrenttip81.com,torrenttip82.com,torrenttip83.com,torrenttip84.com,torrenttip85.com,torrenttip86.com,torrenttip87.com,torrenttip88.com,torrenttip89.com##a[href*="/ad/"]
 torrenttt83.com,torrenttt84.com,torrenttt85.com,torrenttt86.com,torrenttt87.com,torrenttt88.com,torrenttt89.com,torrenttt90.com,torrenttt91.com,torrenttt92.com,torrenttt93.com,torrenttt94.com,torrenttt95.com,torrenttt96.com##a[href*="/ad/"][target="_blank"]
