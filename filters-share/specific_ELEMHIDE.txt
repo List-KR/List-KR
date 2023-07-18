@@ -59,6 +59,7 @@ sports.donga.com##div[id*="_AD"]
 ! ##div[id$="_Ad"]
 yes24.com##div[id$="_Ad"]
 !
+kpanews.co.kr##section[class*="_ad"]
 lolchess.gg##div[class^="ap_"].profile
 etoland.co.kr##section.main_left > div[style*="width:"][style*="text-align:"] ~ div[style^="margin-bottom:"]
 mimint.co.kr###MiMintBottomViewLayer
