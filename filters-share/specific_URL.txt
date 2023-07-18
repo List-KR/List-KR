@@ -1,3 +1,4 @@
+||khgames.co.kr/Autobox/pop$subdocument
 ||buy.11st.co.kr/cart/RecommendProduct.tmall
 ||11st.co.kr/advert/HotClick.tmall
 /^https?:\/\/adsenseforum[0-9]*\.co\.kr\/data\/editor\//$match-case,domain=adsenseforum.co.kr|adsenseforum2.co.kr
