@@ -73,6 +73,9 @@ spotvnow.co.kr#%#//scriptlet('prevent-fetch', 'imasdk.googleapis.com/js/sdkloade
 spotvnow.co.kr#%#//scriptlet('prevent-xhr', 'pagead2.googlesyndication.com/pagead/js/adsbygoogle.js')
 spotvnow.co.kr#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com/pagead/js/adsbygoogle.js')
 !
+!#safari_cb_affinity(privacy)
+@@||new-in.pmirnc.com/public/fingerprint2.js$script
+!#safari_cb_affinity
 op.gg#$##top-banner-ad { height: 1px !important; position: absolute !important; }
 op.gg#@#.AdSense
 op.gg#@##top-banner-ad
