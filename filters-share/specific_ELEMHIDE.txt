@@ -457,7 +457,7 @@ search.naver.com##div[class*="_fashion"].more_prod
 m.search.naver.com##section[class*="ad_"]
 search.naver.com##li[data-nvmid]._ad
 ddaily.co.kr##.space_layout ~ div[class^="section_"] > div:not([style*="solid"]) + div[style]:not([class])
-sportsseoul.com,enuri.com,newdaily.co.kr,koreatimes.net,nzkoreapost.com##div[class*="-ad-"]
+mitem.auction.co.kr,sportsseoul.com,enuri.com,newdaily.co.kr,koreatimes.net,nzkoreapost.com##div[class*="-ad-"]
 loawa.com##a[target="_blank"][data-href][data-banner-statics]
 m.ppomppu.co.kr##.main-menu-group ~ .ct #board-cate ul[style] li[onclick^="location.href="][onclick*="/bbs_list.php?id=ppomppu2"]
 m.ppomppu.co.kr##.main-menu-group ~ .ct #board-cate ul[style] li[onclick^="location.href="][onclick*="/bbs_list.php?id=ppomppu7"]
