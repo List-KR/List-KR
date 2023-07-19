@@ -1,3 +1,4 @@
+||ad-api.band.us^
 ||frontman.tmobiapi.com^
 ||tivan.naver.com^
 ||live.primis.tech^
