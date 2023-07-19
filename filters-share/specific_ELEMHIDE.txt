@@ -31,7 +31,7 @@ mediatoday.co.kr,newsworker.co.kr##div[id^="AD"]
 ! ##div[class^="Banner"]
 moyoplan.com##div[class^="Banner"]
 ! ##div[class*="_ad"]
-cgv.co.kr,zum.com,kyeonggi.com,medicaltimes.com,yes24.com,kpanews.co.kr,donga.com,busan.com,fnnews.com,m.munhwa.com,m.kmib.co.kr,m.clien.net##div[class*="_ad"]
+cgv.co.kr,zum.com,kyeonggi.com,medicaltimes.com,kpanews.co.kr,donga.com,busan.com,fnnews.com,m.munhwa.com,m.kmib.co.kr,m.clien.net##div[class*="_ad"]
 ! ##div[id*="Banner"]
 evape.kr,e-himart.co.kr,kin.naver.com##div[id*="Banner"]
 ! ##div[class*="_AD"]
@@ -56,8 +56,6 @@ jobkorea.co.kr##div[id^="Banner"]
 eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
-! ##div[id$="_Ad"]
-yes24.com##div[id$="_Ad"]
 !
 kpanews.co.kr##section[class*="_ad"]
 lolchess.gg##div[class^="ap_"].profile
@@ -408,18 +406,6 @@ poketory.com##article > .inner ~ b
 aladin.co.kr###welcome_center > div:not([class]):not([style]):not([id])
 aladin.co.kr###welcome_Right > .evntall
 digitalchosun.dizzo.com##div[class*="banner"]
-m.yes24.com###welcomeTodayPop
-m.yes24.com##div[class^="ad"][id^="ad"]
-yes24.com##.mContRT .mbnRT
-yes24.com##div[id^="goods"][id$="SponLnkArea"]
-yes24.com##div[id^="y"][id$="BnWrap"]
-yes24.com##.sGoodsSec div[id$="Banner"]
-yes24.com##.loginSocialLi a.adOn
-yes24.com###ySkyWrap
-yes24.com###mbnRoll_001 > .mbnRollUnit:nth-child(n+5)
-yes24.com##.yHeaderMid > .hotIssueDl
-yes24.com##.yPartnerPop
-yes24.com###yWelMid > .yWelPubBook
 joseilbo.com##div[class*="_bn_"]
 m.nownews.seoul.co.kr###Article > div[style]:not([class])
 kyobobook.co.kr##div[class^="search_banner_"]
@@ -589,7 +575,7 @@ namu.wiki##iframe[src*="//arca.live/external/callad"]
 noteforum.co.kr##table[width][cellspacing][cellpadding][border] tr:not([height]) > td[width]:not([id]) ~ td[id]
 esuwon.net###r_aside center > div[class="bn"]
 smartfn.co.kr##.mt30 .con_rt > style + div[style]:not([class])
-lolchess.gg,cmobile.g-enews.com,yes24.com,dailypharm.com,m.g-enews.com,smartfn.co.kr##div[class*="Ad"]
+lolchess.gg,cmobile.g-enews.com,dailypharm.com,m.g-enews.com,smartfn.co.kr##div[class*="Ad"]
 tgd.kr,miraetv.net##div[id*="-banner-"]
 miraetv.net##.gdl-left-sidebar
 ddengle.com###content > .article > div[class][style]

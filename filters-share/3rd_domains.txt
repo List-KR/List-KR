@@ -47,7 +47,6 @@
 ||dadispapi.auction.co.kr^
 ||banners.cams.com^
 ||aduniv.nesin.com^
-||adgirl.yes24.com^
 ||adserver.joseilbo.com^
 ||finead.o00.kr^
 ||md.r114.co.kr^
