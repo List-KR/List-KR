@@ -1,3 +1,15 @@
+yes24.com#$##yHeader .yesSearch .key_latest .lastest_word { width: 100% !important; }
+yes24.com#$##yWelMid .yWelNowBook { width: 100% !important; }
+yes24.com#$##yWelMid .yWelNowBook ul { margin-left: calc(50% - 436px) !important; }
+yes24.com#$##yWelTopMid .yWelTodayBook { width: calc(100% - 240px) !important; }
+yes24.com#$##yWelTopMid .yWelTodayBook .tBCont .tBInfo .tb_readCon { width: calc(100% - 30px) !important; }
+yes24.com#$##mbnRoll_yNow > .mbnRollUnit > .pagen_1 { width: 363px !important; }
+yes24.com#$##mbnRoll_yNow > .mbnRollUnit > .pagen_2 { width: 363px !important; left: 363px !important; }
+yes24.com#$##mbnRoll_yNow > .mbnRollUnit > .pagen_3 { width: 363px !important; left: 726px !important; }
+yes24.com#$##mbnRoll_001 > .mbnRollUnit > .pagen_1 { width: 239px !important; }
+yes24.com#$##mbnRoll_001 > .mbnRollUnit > .pagen_2 { width: 239px !important; left: 239px !important; }
+yes24.com#$##mbnRoll_001 > .mbnRollUnit > .pagen_3 { width: 239px !important; left: 478px !important; }
+yes24.com#$##mbnRoll_001 > .mbnRollUnit > .pagen_4 { width: 240px !important; left: 717px !important; }
 lolchess.gg#$##content-menu + div[class^="css-"][class*=" "] { padding-bottom: 0px !important; }
 www.naver.com#$#div[class^="Layout-module_"] #newsstand { margin-top: 0px !important; }
 op.gg#$##content-header form.FormItem { width: 100% !important; }
