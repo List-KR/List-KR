@@ -57,6 +57,8 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+yes24.com##span[class$="Ad"]
+yes24.com###goodsDetailSponLnkArea
 yes24.com##.mContRT .mbnRT
 m.news.nate.com##iframe[title*="광고"]
 m.comm.news.nate.com##.adtive
