@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+m.yes24.com###welcomeTodayPop > section[id^="section"][id$="Pop"][style^="display:"]
 yes24.com##div[class*="_adArea"]
 yes24.com##span[class$="Ad"]
 yes24.com###goodsDetailSponLnkArea
