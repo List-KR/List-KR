@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+ponh.info##div[data-mesh-id="comp-lbw06ze4inlineContent-gridContainer"] div[class*="wixui-"]
 joongna.com##div[type="DETAIL"] section[aria-label="새 상품은 어떠세요?"]
 joongna.com##a[rel*="sponsored"]
 m.yes24.com###welcomeTodayPop > section[id^="section"][id$="Pop"][style^="display:"]
