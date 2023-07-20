@@ -57,6 +57,8 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+joongna.com##div[type="DETAIL"] section[aria-label="새 상품은 어떠세요?"]
+joongna.com##a[rel*="sponsored"]
 m.yes24.com###welcomeTodayPop > section[id^="section"][id$="Pop"][style^="display:"]
 yes24.com##div[class*="_adArea"]
 yes24.com##span[class$="Ad"]
@@ -271,7 +273,6 @@ m.enuri.com##.m_main_top_banner
 enuri.com##.right--inner > div[class^="bnr_"]
 daisomall.co.kr##.da_login-phone
 mlbpark.donga.com##ins[ad][code][style]
-joongna.com##.slick-slider.slick-initialized > .slick-list ~ ul[style*=" "].slick-dots
 hogaeng.co.kr###partnership
 hogaeng.co.kr##div[class^="sponsor"]
 enuri.com,nongmin.com##div[class*="_bnr"]

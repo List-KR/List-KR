@@ -1,3 +1,4 @@
+||edge-live.joongna.com/api/prdt/ads/
 ||yes24.com/event/Adgirl/getAdstream
 ||image.yes24.com/momo/scmfiles/AdvertFiles/
 ||khgames.co.kr/Autobox/pop$subdocument
@@ -135,7 +136,6 @@
 ||enuri.com/main/*/ajax/banSrchKeyword.json
 ||enuri.com/*/ajax/connectApiNaverShop.jsp
 /^https:\/\/img[0-9]+\.joongna\.com\/media\/original\/[0-9]{4}\/[0-9]{2}\/[0-9]{2}\/[0-9]{13}\./$domain=joongna.com
-||edge-live.joongna.com/api/product/basic/ads/
 ||nongmin.com/-/raw/srv-nongmin/data1/srv-nongmin/*/common/images/*_bnr.
 ||nongmin.com/wps/engine/rest/bannerGroup
 /^https:\/\/nstatic\.dcinside\.com\/dc\/event\/nft_gaejugi\/(?!nftcon)/$domain=dcinside.com
