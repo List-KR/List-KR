@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+yes24.com##div[class*="_adArea"]
 yes24.com##span[class$="Ad"]
 yes24.com###goodsDetailSponLnkArea
 yes24.com##.mContRT .mbnRT
