@@ -1,3 +1,4 @@
+m.ytn.co.kr#$##entFlick { height: auto !important; }
 yes24.com#$##yHeader .yesSearch .key_latest .lastest_word { width: 100% !important; }
 yes24.com#$##yWelMid .yWelNowBook { width: 100% !important; }
 yes24.com#$##yWelMid .yWelNowBook ul { margin-left: calc(50% - 436px) !important; }
