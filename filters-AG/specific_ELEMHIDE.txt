@@ -1,4 +1,7 @@
 !#if adguard_app_ios
+m.news.nate.com##.adtive
+!#endif
+!#if adguard_app_ios
 m.ppomppu.co.kr##ul[class^="bbsList"] > div[style*="clear: both;"].sect0
 !#endif
 !#if adguard_app_ios

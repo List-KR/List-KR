@@ -1,0 +1,8 @@
+!#if adguard_app_ios
+||news.nate.com/Etc/AdView
+||news.nate.com/Etc/ViewAD
+||news.nate.com/Etc/Ad
+||news.nate.com/etc/AD
+||news.nate.com/etc/Ad
+||news.nate.com/etc/ad
+!#endif

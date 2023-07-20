@@ -57,6 +57,9 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+m.news.nate.com##iframe[title*="광고"]
+m.comm.news.nate.com##.adtive
+news.nate.com##iframe[id^="ad"]
 yes24.com###mbnRoll_001 > .mbnRollUnit > .pagen_5
 yes24.com###mbnRoll_001 > .mbnRollUnit > .pagen_6
 yes24.com###mbnRoll_001 > .mbnRollUnit > .pagen_7
