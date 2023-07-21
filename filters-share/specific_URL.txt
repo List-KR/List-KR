@@ -517,7 +517,6 @@
 ||hungryapp.co.kr/banner/banner_*.php
 ||appdata.hungryapp.co.kr/banner/
 ||appdata.hungryapp.co.kr/event/mobi/
-/^https:\/\/ssp\.igaw\.io\/bak\/[0-9]{3}x[0-9]{2}\./$domain=mylgid.com
 ||ssl.pstatic.net/melona/libs/
 ||images.coocha.co.kr/static/images/deal/ad.png
 ||ilbe.com/oa/loader.js

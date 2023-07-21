@@ -683,7 +683,6 @@ m.hungryapp.co.kr###popUP_ZONE
 m.hungryapp.co.kr##a[href^="javascript:"][onclick^="banner_open("]
 newsen.com##table table > tbody table[width][cellspacing][cellpadding].black > tbody td[height="90"]
 m.newsen.com##.googlead
-mylgid.com##.mainTopBanner
 tistory.com##.adsense
 m.coocha.co.kr##.container > section#id_section_deal_list ~ section[id][class]
 coocha.co.kr##.group-deal .list > .group-power-link
