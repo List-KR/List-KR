@@ -1,3 +1,4 @@
+||spastatic.naver.com/*/shopad/static/shopad-square-node/
 ||live.staticflickr.com/65535/$domain=platum.kr
 ||edge-live.joongna.com/api/prdt/ads/
 ||yes24.com/event/Adgirl/getAdstream
