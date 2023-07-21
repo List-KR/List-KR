@@ -1,3 +1,4 @@
+||live.staticflickr.com/65535/$domain=platum.kr
 ||edge-live.joongna.com/api/prdt/ads/
 ||yes24.com/event/Adgirl/getAdstream
 ||image.yes24.com/momo/scmfiles/AdvertFiles/
@@ -113,7 +114,6 @@
 ||side.mythiell.com/readUrl.php?url=https://ad.mapy.co.kr/
 ||side.mythiell.com/tenasiaAd
 ||magazine.hankyung.com/magazine_images/banner/
-/https?:\/\/live\.staticflickr\.com\/65535\/[0-9]{11}_[a-z0-9]{10}_o\./$match-case,domain=platum.kr
 ||m.humoruniv.com/banner/
 ||m.humoruniv.com/js/adpost
 /skin/images/banner$domain=xn--ok0bj0i6sfoyp9no.com
