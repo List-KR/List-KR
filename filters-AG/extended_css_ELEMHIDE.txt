@@ -5,7 +5,6 @@ msearch.wemakeprice.com#?#article[data-list-container="searchList"] li:has(span:
 search.wemakeprice.com#?#.search_box_listdeal > .list_conts_wrap:has(span:contains(AD).round_badge)
 eomisae.co.kr#?#main#main .eq.section #bd table tr:has(.no ~ .title span:contains([AD]))
 dt.co.kr#?#.right_aside > *:not([class*="_"]):not([class^="aside"]):has(~ .right_bx, ~ div[class^="aside"])
-www.chosun.com#?#aside > .box--pad-none.box--hidden-md-only:contains(Branded Contents)
 koreatimes.net#?#.container .recent_news_inner:has(> h3:contains(AD))
 namu.wiki#?#div[class*="senkawa"] div[class] > div[id]:not([class]):contains(/^(|[​\n\t ]+)$/)
 m.ppomppu.co.kr#?#.main-menu-group ~ .ct:has(h3:contains(뽐뿌)) .ppList li:has(> a[href*="market"], > a[href*="ppomppu2"], > a[href*="ppomppu7"])
