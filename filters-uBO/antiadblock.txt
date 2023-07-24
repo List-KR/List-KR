@@ -42,6 +42,7 @@ spotvnow.co.kr##+js(no-fetch-if, imasdk.googleapis.com/js/sdkloader/ima3.js)
 spotvnow.co.kr##+js(no-xhr-if, pagead2.googlesyndication.com/pagead/js/adsbygoogle.js)
 spotvnow.co.kr##+js(no-fetch-if, pagead2.googlesyndication.com/pagead/js/adsbygoogle.js)
 !
+sysnet.pe.kr##+js(nostif, banner_book)
 @@||new-in.pmirnc.com/public/fingerprint2.js$script
 op.gg#$##top-banner-ad { height: 1px !important; position: absolute !important; }
 op.gg#@#.AdSense
@@ -72,7 +73,6 @@ remiz.co.kr#@##googleAd
 1412.rest#@##google_ads
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=tsuvod.com
 somenotes247.blogspot.com#@#.vertical-ads
-sysnet.pe.kr##+js(aost, CSS2Properties.prototype.getPropertyValue, setTimeout)
 mnews.jtbc.co.kr#@#.ad_bottom
 3dpchip.com##+js(acis, chp_ads_blocker_detector)
 @@||kpanews.co.kr^$generichide
