@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+khan.co.kr##iframe[src*="//adv.khan.co.kr/"]
 mitem.auction.co.kr##div[class*="_banner--ad-"]
 www.chosun.com##section[itemprop="articleBody"] > .arcad
 www.chosun.com##article.layout__article-main > .box--pad-top-md
