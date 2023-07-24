@@ -228,7 +228,6 @@ postshare.co.kr##body > div[style^="position:fixed;"][style*="z-index:9999"][sty
 commutil.kr##.mdsns_reply > div[style^="margin-bottom:"]
 starjn.com##.td_sub_read_contents > div[style]
 m.sedaily.com##div[class^="mythiell-mid-container"]
-m.yna.co.kr##div[class^="content"] > #detailMostReply + aside[class^="aside-box"][class*=" bg"]
 theguru.co.kr##div[itemprop="articleBody"] > div[style*="margin-"]:not([class])
 news2day.co.kr##div[data-layout-area*="_AD"]
 m.beyondpost.co.kr##.wrap * + div[style*=";margin"]
@@ -448,7 +447,6 @@ jjalbot.com##ul.masonry-2-col > li[class] ~ li:not([class])
 newspim.com##.inwrap .right > div:not([class])
 tvreport.co.kr,ddengle.com,xportsnews.com,woman.donga.com,thisisgame.com##.ad
 m.inven.co.kr###boardPart > div[style]:not([class])
-m.yna.co.kr##section[class*="main-major-news"] li[class]
 lecturernews.com##div[style].text-center
 metroseoul.co.kr##div[id^="layerPopup_"]
 algumon.com##ul.post-list > li[class^="post-"]:not([id]):not([data-post-id])
