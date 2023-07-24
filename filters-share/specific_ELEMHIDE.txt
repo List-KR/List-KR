@@ -568,9 +568,6 @@ mnews.jtbc.co.kr##.news > div[class$="_ad"][style]
 manhwa.co.kr##.container > div[style][id^="slider"]
 m.mt.co.kr###container.atcpage div[style]:not([class]):not([id])
 xetown.com,m.mt.co.kr##[class^="ad"]
-ichannela.com##.main_visual .main_ban
-ichannela.com##div[class^="banner"]:not([id^="img"])
-ichannela.com###gaOverRay
 cmobile.g-enews.com,m.g-enews.com##.mwrap > div[style]:not([class])
 cmobile.g-enews.com,asiatime.co.kr,m.g-enews.com##div[class*="AD"]
 hyundaenews.com##a[href^="/ad_link.php?"]
@@ -757,7 +754,6 @@ soccerline.kr,sportalkorea.com##div[class][data-ad][style]
 sportalkorea.com##div[id^="topAd"]
 ppomppu.co.kr##body .contents .container .topSub-nav
 prod.danawa.com###powerClickProductListArea
-ichannela.com##.sideArea > div[style]:not([class]):not([id])
 entertainpost.com##body > div[style]:not([class])
 www.naver.com##div[id^="veta_"]
 ppomppu.co.kr,starnewskorea.com,mimint.co.kr,bada.io,arca.live##div.ad
@@ -845,7 +841,7 @@ biz.heraldcorp.com##.article_area > .article_right
 insight.co.kr##div.aside-popular > ul.aside-popular-wrap > li > div[style~="300px;height:"][style~="block;width:"]
 edaily.co.kr##section[id^="aside_"] > div[id$="-sticky-wrap"] > div[id$="-sticky"] > div[id^="w_read_"][class^="boxshow_"]
 edaily.co.kr##section[id^="aside_"] > div[id$="-sticky-wrap"] > div[id$="-sticky"] > div[style]:not(class):not(id)
-ichannela.com,mediapen.com,edaily.co.kr##div[data-ad][class][style]
+mediapen.com,edaily.co.kr##div[data-ad][class][style]
 edaily.co.kr##div[class^="gg_"], div[class$="_gg"]
 edaily.co.kr##[class$="_dable"][id^="boxshow_"]
 yeongnam.com##table[class^="ad-"]

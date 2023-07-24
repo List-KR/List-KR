@@ -558,7 +558,6 @@
 ||sportalkorea.com/ad_new/ad_close.png
 ||dcinside.com/_js/ad.js
 ||prod.danawa.com/info/ajax/getPowerClickProductList.ajax.php
-||image.ichannela.com/images/mainbanner/
 ||image.ichannela.com/images/common/shinhan_
 ||entertainpost.com/wp/wp-content/uploads/newPS/ad/
 ||entertainpost.com/wp/wp-content/uploads/newPS/css/sub/right_ad.css
