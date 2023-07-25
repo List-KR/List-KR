@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+www.naver.com##a[class*="_banner_"]
 m.yna.co.kr###container > div[class^="content"] > section[id^="detailHotnews"] ~  aside[class^="aside-box"][class$="bg11"]
 khan.co.kr##iframe[src*="//adv.khan.co.kr/"]
 mitem.auction.co.kr##div[class*="_banner--ad-"]
