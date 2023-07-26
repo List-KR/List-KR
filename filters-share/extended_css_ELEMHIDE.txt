@@ -119,7 +119,7 @@ coocha.co.kr#?#.group-deal .list > div:has(span.ad:matches-css(background-image:
 m.shopping.naver.com#?#content li[role="presentation"]:has(a[href*="://trendpick.shopping.naver.com/"])
 10000recipe.com#?#body .view_sp_banner .swipe-slide:has(img[src^="https://recipe1.ezmember.co.kr/cache/shop/"])
 namu.wiki#?#div[class] > div[id]:not([class]):has(> iframe[id^="google_ads_"])
-m.moneys.mt.co.kr#?#.one_line_article > ul.list > li.item:has(> iframe[src*="//adgrp1.ad4989.co.kr/"])
+m.moneys.co.kr#?#.one_line_article > ul.list > li.item:not(:has(a[href^="/article.html?no="]))
 kr-weathernews.com#?#body > article#content > article.block:has(ul#life_slider)
 search.tmon.co.kr#?#section.search_deallist > .deallist_wrap > ul > li[class]:has(> a[href*="//display.admonseller.com/"].anchor)
 namu.wiki#?#aside div[class][id] > div[id]:not([class]):not(:has(> *))
