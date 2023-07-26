@@ -1,3 +1,5 @@
+||srv-kyeonggi.kr.object.ncloudstorage.com/*/resources/banner/
+||scsgozneamae10236445.cdn.ntruss.com/*/resources/banner/
 ||spastatic.naver.com/*/shopad/static/shopad-square-node/
 ||live.staticflickr.com/65535/$domain=platum.kr
 ||edge-live.joongna.com/api/prdt/ads/
