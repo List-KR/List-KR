@@ -38,11 +38,6 @@ t.hi098123.com###hi-notice
 t.hi098123.com#@#ins.adsbygoogle
 @@||googletagmanager.com/gtag/$script,domain=t.hi098123.com
 avdbs.com#@#.ad-btn
-@@||ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js$script,domain=search.shopping.naver.com
-@@||ssl.pstatic.net/tveta/libs/glad/prod/*/gfp-sdk.js$script,domain=search.shopping.naver.com
-@@||gfp.veta.naver.com/call?u=pc_nshop_ch1$xmlhttprequest,domain=search.shopping.naver.com
-@@||ssl.pstatic.net/tveta/libs/glad/prod/*/gfp-ext-nda.js$script,domain=search.shopping.naver.com
-@@||ssl.pstatic.net/tveta/libs/glad/prod/*/sf-ext.js$script,domain=search.shopping.naver.com
 @@||errornight.com^$generichide
 @@||ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js$script,domain=m.cafe.naver.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=spotvnow.co.kr
