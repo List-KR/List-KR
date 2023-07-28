@@ -60,12 +60,6 @@ t.hi098123.com###hi-notice
 @@||googletagmanager.com/gtag/$script,domain=t.hi098123.com
 avdbs.com##+js(aopr, ad_blk)
 genshin.gamedot.org##+js(nostif, blockCheck2022)
-@@||ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js$script,domain=search.shopping.naver.com
-@@||ssl.pstatic.net/tveta/libs/glad/prod/*/gfp-sdk.js$script,domain=search.shopping.naver.com
-@@||gfp.veta.naver.com/call?u=pc_nshop_ch1$xmlhttprequest,domain=search.shopping.naver.com
-@@||ssl.pstatic.net/tveta/libs/glad/prod/*/gfp-ext-nda.js$script,domain=search.shopping.naver.com
-@@||ssl.pstatic.net/tveta/libs/glad/prod/*/sf-ext.js$script,domain=search.shopping.naver.com
-search.shopping.naver.com#$#iframe[id^="powerlink-div"] { height: 80px !important; visibility: hidden !important; }
 errornight.com##+js(aost, alert, chk_adBlock)
 ||ssl.pstatic.net/tveta/libs/ssp-video/prod/ssp.web.sdk_$script,redirect=noop.js,domain=m.sports.naver.com
 1412.rest#@#.ads
