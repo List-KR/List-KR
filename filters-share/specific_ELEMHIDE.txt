@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+search.shopping.naver.com##div[class^="aside_aside_"] div[class^="basicView_recommend_brand_"]
 m.gamechosun.co.kr##div[id*="_banner"]
 nocutnews.co.kr##div[data-id*="-ad-"]
 www.naver.com##a[class*="_banner_"]
@@ -387,7 +388,7 @@ fntoday.co.kr##aside.user-aside div[data-direction]#side-scroll-in > .float-cent
 fafan.kr###container > div#rightContents > div[style*="height:"]
 haninvegas.com##div[itemprop="mainContentOfPage"].theme-content + aside
 cineaste.co.kr##.container > div[style][id]
-isplus.com##div[id$="Ad"]
+shopping.naver.com,isplus.com##div[id$="Ad"]
 idaegu.com###wrap_index ~ div[style]
 m.mydaily.co.kr###viewarea ~ br ~ div[style*="height:"]
 datanews.co.kr##a[href][target="_blank"] > img[src^="/data/banner/"]
