@@ -39,6 +39,7 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 ! AdGlare Ad Server
 luckyquiz3.blogspot.com#%#//scriptlet('abort-current-inline-script', 'document.createElement', 'hasAdblock')
 ! meeco.kr
+meeco.kr##body > div[class][style*="box-shadow:"]
 meeco.kr#@#.googleAd
 !#if (adguard_app_ios)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=meeco.kr
