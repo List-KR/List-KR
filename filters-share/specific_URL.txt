@@ -566,7 +566,6 @@
 ||res.afreecatv.com/script/da/af_da_block.js
 ||res.afreecatv.com/script/da/ad_check.js
 ||hankyung.com/resource/js/*/view.ads.js
-||issue.dcinside.com/wp-content/plugins/advanced-ads
 ||upto.tk/ads.html
 ||m.ytn.co.kr/ad/
 ||static.coupangcdn.com/image/vendor_inventory/$domain=10000recipe.com|quasarzone.com
