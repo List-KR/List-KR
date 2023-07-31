@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+issue.dcinside.com##main ~ aside article[style*="height:"][style*="margin:"]
 itempage3.auction.co.kr###content > div[class^="ad_"] *
 search.shopping.naver.com##div[class^="aside_aside_"] div[class^="basicView_recommend_brand_"]
 m.gamechosun.co.kr##div[id*="_banner"]

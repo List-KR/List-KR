@@ -1,3 +1,4 @@
+issue.dcinside.com#?##__next header + section ~ div:has(article[style*="fit-content"] iframe[id^="google_ads_iframe_"])
 op.gg#?##content-container div[class^="css-"]:has(.vm-placement):not(:has(a[href] > span))
 op.gg#?##content-header ~ div[class^="css-"][class*=" "]:has(div[id^="div-gpt-ad-"]):not(:has(#content-container)):not(#content-container)
 etoland.co.kr#?#tbody > tr:has(> td > img[src*="/img/adland01.gif"])
