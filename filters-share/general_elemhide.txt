@@ -1,3 +1,4 @@
+##iframe[src*="//js.newsmobile.co.kr/"]
 ##iframe[src*="//api.linkmine.co.kr/"]
 ##._popIn_recommend_article_ad
 ##iframe[src*="://ad.ad4989.co.kr/"]
