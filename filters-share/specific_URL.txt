@@ -1,3 +1,4 @@
+||ildaro.com/data/ildaro_com/banner/
 ||srv-kyeonggi.kr.object.ncloudstorage.com/*/resources/banner/
 ||scsgozneamae10236445.cdn.ntruss.com/*/resources/banner/
 ||spastatic.naver.com/*/shopad/static/shopad-square-node/
