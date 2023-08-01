@@ -1,3 +1,5 @@
+||img.dt.co.kr/images/bnr_
+||img.dt.co.kr/images/*_ad_
 ||ildaro.com/data/ildaro_com/banner/
 ||srv-kyeonggi.kr.object.ncloudstorage.com/*/resources/banner/
 ||scsgozneamae10236445.cdn.ntruss.com/*/resources/banner/
