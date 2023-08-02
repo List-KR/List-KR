@@ -588,9 +588,6 @@
 ||basketkorea.com/support/_updata/banner
 ||cdnews.co.kr/script/banner.js
 ||hellot.net/data/banner/
-||kwnews.co.kr/html/AppBanner.asp
-||kwnews.co.kr/kwnews/AD/$document
-||kwnews.co.kr/kwnews/ad/
 ||cdn.bizwatch.co.kr/ads/
 ||rhythmer.net/common/js/Banner.js
 ||koreapas.com/bbs/data/
