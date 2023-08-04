@@ -75,11 +75,14 @@ spotvnow.co.kr#%#//scriptlet('prevent-xhr', 'imasdk.googleapis.com/js/sdkloader/
 spotvnow.co.kr#%#//scriptlet('prevent-fetch', 'imasdk.googleapis.com/js/sdkloader/ima3.js')
 spotvnow.co.kr#%#//scriptlet('prevent-xhr', 'pagead2.googlesyndication.com/pagead/js/adsbygoogle.js')
 spotvnow.co.kr#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com/pagead/js/adsbygoogle.js')
-!
-!#if (adguard_app_ios || adguard_ext_android_cb)
+! A bug of AdGuard Browser Extension has to be handled and scriptlet version update is required.
+! https://github.com/AdguardTeam/AdguardBrowserExtension/issues/2296
+! https://github.com/AdguardTeam/Scriptlets/issues/349
+! https://github.com/AdguardTeam/Scriptlets/issues/295
+!#if (adguard_app_ios || adguard_ext_android_cb || adguard_ext_chromium || adguard_ext_edge || adguard_ext_firefox || adguard_ext_safari)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=aagag.com,xmlhttprequest
 !#endif
-aagag.com#%#//scriptlet('prevent-xhr', 'pagead2.googlesyndication.com/pagead/js/adsbygoogle.js')
+!
 sysnet.pe.kr#%#//scriptlet('prevent-setTimeout', 'banner_book')
 !#safari_cb_affinity(privacy)
 @@||new-in.pmirnc.com/public/fingerprint2.js$script
