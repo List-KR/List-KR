@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+pcmap.place.naver.com##div[data-nclicks-area-code] > div[class="place_section"]:not([data-nclicks-area-code])
 dt.co.kr##center + .bk20
 dt.co.kr##iframe[src*="//adreal.dt.co.kr/"]
 dt.co.kr##iframe[src*="dt.co.kr/ad.html"]
