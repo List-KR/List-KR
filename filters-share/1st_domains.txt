@@ -1,4 +1,5 @@
-||cdn-adn-*.rayjump.com^
+||cdn-adn-https-new.rayjump.com^
+||cdn-adn-https.rayjump.com^
 ||net.rayjump.com^
 ||vungle.com^
 ||stream.spongead.com^
