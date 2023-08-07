@@ -1,3 +1,4 @@
+||res.heraldm.com/realfoods/*/ad/
 ||kwnews.co.kr/upload/ad/
 ||img.dt.co.kr/images/bnr_
 ||img.dt.co.kr/images/*_ad_

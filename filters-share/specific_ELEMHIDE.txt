@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+mrealfoods.heraldcorp.com##.wrap > div[id^="AD_MOBILE_VIEW"] ~ div[style^="width:"]
 m.dcinside.com##.power-tit
 kormedi.com##.articleTxtAD
 pcmap.place.naver.com##div[data-nclicks-area-code] > div[class="place_section"]:not([data-nclicks-area-code])
