@@ -1,5 +1,4 @@
-||cdn-adn-https-new.rayjump.com^
-||cdn-adn-https.rayjump.com^
+||cdn-adn-*.rayjump.com^
 ||net.rayjump.com^
 ||vungle.com^
 ||stream.spongead.com^
@@ -52,7 +51,7 @@
 ||contentsfeed.com^
 ||mediacategory.com^
 ||innorame.com^
-||doubleclick.net^
+||ad.doubleclick.net^
 ||adbinead.com^
 ||cizion.com^
 ||adop.cc^$third-party
