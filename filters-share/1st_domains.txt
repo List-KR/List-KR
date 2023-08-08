@@ -1,3 +1,8 @@
+||ad.*.doubleclick.net^
+||mediavisor.doubleclick.net^
+||static.doubleclick.net^
+||n4403ad.doubleclick.net^
+||g.doubleclick.net^
 ||cdn-adn-*.rayjump.com^
 ||net.rayjump.com^
 ||vungle.com^
