@@ -1,3 +1,4 @@
+ygosunews.com#$#body { padding-top: 0px !important; }
 www.auction.co.kr#$##allKillItemList > .item_list_wrap { width: 100% !important; }
 yes24.com#$##ySContent .loginCont { margin-left: 200px !important; }
 yes24.com#$#.mContRT .mbnZone { left: 94.5px !important; }
@@ -68,7 +69,7 @@ lotteon.com#$#.productDetailWrap > .contentsWrap { padding-bottom: 0px !importan
 evape.kr#$##hotPlace.myBox { margin-left: calc(50% - 65px) !important; }
 fomos.kr#$#.board_view .related_area { height: 300px !important; }
 focus.daum.net#$#div[data-tiara-layer]:not([id]) { margin-top: 0px !important; position: relative !important; }
-autopostkorea.com#$#.td-pb-span8 { width: 100% !important; }
+ygosunews.com,autopostkorea.com#$#.td-pb-span8 { width: 100% !important; }
 autopostkorea.com#$#body .td-header-wrap { margin-top: 0px !important; }
 newdaily.co.kr#$#div[style].clearfix > .nd-by-line { width: 100% !important; }
 mk.co.kr#$#.news_synthesis_sec .col.col_4 { width: 100% !important; }

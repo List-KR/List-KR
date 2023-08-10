@@ -57,6 +57,8 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+ygosunews.com##.recommended_wrap
+ygosunews.com##.rangking_wrap
 m.ygosu.com###levbar_info ~ .container ~ div[style^="height:"]
 ygosu.com###contain > div[style^="height:"]
 maxmovie.com##div[id^="ad"][class^="ad"][style]
@@ -362,8 +364,8 @@ humoruniv.com###wrap_cnts > div[style^="margin:"]
 kyobobook.co.kr##div[id^="bodyDialog"]:not([style*="top: "]).open
 ibabynews.com###article-view-content-div div[class$="-banner"]
 autopostkorea.com##.tagdiv-type .best_news_wrap_mo
-autopostkorea.com##.td-pb-span4.td-main-sidebar
-autopostkorea.com##div[class^="adsense_"]
+ygosunews.com,autopostkorea.com##.td-pb-span4.td-main-sidebar
+ygosunews.com,autopostkorea.com##div[class^="adsense_"]
 m.boannews.com##section[class^="banner-"]
 newdaily.co.kr###article_conent > div[style].clearfix
 time.navyism.com###navyismMainContainer > div[style] + div:not([style*=" "]):not([id])j
