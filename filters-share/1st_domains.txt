@@ -1,3 +1,4 @@
+||cp.edl.co.kr^
 ||ad.*.doubleclick.net^
 ||mediavisor.doubleclick.net^
 ||static.doubleclick.net^
