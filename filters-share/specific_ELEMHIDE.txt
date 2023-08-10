@@ -882,7 +882,7 @@ avjamak.net##.widget-box.widget-img
 kmib.co.kr##.mn_ad
 hankookilbo.com##.side-ad-box
 en.seoul.co.kr##[style]#withpang_p
-seoul.co.kr##iframe[src^="/ad/"]
+maxmovie.com,seoul.co.kr##iframe[src^="/ad/"]
 realty.chosun.com##iframe[src*="//realty.chosun.com/RealtyCommon/Promotion"][src$=".html"]
 monthly.chosun.com##img[src^="/images/banner/"]
 monthly.chosun.com##iframe[src="/common/inc/main_right_banner.asp"]
