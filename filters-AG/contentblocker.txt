@@ -25,6 +25,11 @@ te31.com#@#.textAd
 te31.com#@#.text_ad
 te31.com#@#.text_ads
 !
+@@||advimg.ad-mapps.com/sdk/M_PLUS/Image/$domain=maxmovie.com
+@@||advimg.ad-mapps.com/sdk/js/ver/200/ad_script.js$domain=maxmovie.com
+@@||advimg.ad-mapps.com/sdk/M_PLUS/JS/common/jquery-$domain=maxmovie.com
+@@||static.dable.io/dist/plugin.min.js$domain=maxmovie.com
+@@||mtag.mman.kr/get_ad.mezzo/$xmlhttprequest,domain=maxmovie.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=aagag.com,xmlhttprequest
 meeco.kr#@#.googleAd
 op.gg#@#.AdSense

@@ -75,6 +75,18 @@ spotvnow.co.kr#%#//scriptlet('prevent-xhr', 'imasdk.googleapis.com/js/sdkloader/
 spotvnow.co.kr#%#//scriptlet('prevent-fetch', 'imasdk.googleapis.com/js/sdkloader/ima3.js')
 spotvnow.co.kr#%#//scriptlet('prevent-xhr', 'pagead2.googlesyndication.com/pagead/js/adsbygoogle.js')
 spotvnow.co.kr#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com/pagead/js/adsbygoogle.js')
+! maxmovie.com
+@@||advimg.ad-mapps.com/sdk/js/ver/200/ad_script.js$domain=maxmovie.com
+@@||advimg.ad-mapps.com/sdk/M_PLUS/JS/common/jquery-$domain=maxmovie.com
+!#safari_cb_affinity(privacy)
+@@||static.dable.io/dist/plugin.min.js$domain=maxmovie.com
+!#safari_cb_affinity
+||advimg.ad-mapps.com/sdk/M_PLUS/Image/$redirect=2x2-transparent.png,domain=maxmovie.com
+||mtag.mman.kr/get_ad.mezzo/$xmlhttprequest,redirect=nooptext,domain=maxmovie.com
+!#if (adguard_app_ios || adguard_ext_android_cb)
+@@||mtag.mman.kr/get_ad.mezzo/$xmlhttprequest,domain=maxmovie.com
+@@||advimg.ad-mapps.com/sdk/M_PLUS/Image/$domain=maxmovie.com
+!#endif
 !
 !#if (adguard_app_ios || adguard_ext_android_cb)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=aagag.com,xmlhttprequest
