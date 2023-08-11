@@ -25,6 +25,10 @@ te31.com#@#.textAd
 te31.com#@#.text_ad
 te31.com#@#.text_ads
 !
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=3dpchip.com
+@@||ads-api.twitter.com/|$domain=3dpchip.com
+@@||ads.pinterest.com/|$domain=3dpchip.com
+@@||sovrn.com/|$domain=3dpchip.com
 @@||compass.adop.cc/assets/js/adop/adopJ.js$domain=3dpchip.com
 @@||static.dable.io/dist/plugin.min.js$domain=3dpchip.com
 @@||advimg.ad-mapps.com/sdk/M_PLUS/Image/$domain=maxmovie.com

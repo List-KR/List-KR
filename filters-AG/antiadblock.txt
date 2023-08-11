@@ -88,7 +88,12 @@ spotvnow.co.kr#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com/pag
 @@||advimg.ad-mapps.com/sdk/M_PLUS/Image/$domain=maxmovie.com
 !#endif
 !
+3dpchip.com#%#//scriptlet('abort-current-inline-script', 'chp_ads_blocker_detector')
 !#if (adguard_app_ios || adguard_ext_android_cb)
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=3dpchip.com
+@@||ads-api.twitter.com/|$domain=3dpchip.com
+@@||ads.pinterest.com/|$domain=3dpchip.com
+@@||sovrn.com/|$domain=3dpchip.com
 @@||compass.adop.cc/assets/js/adop/adopJ.js$domain=3dpchip.com
 @@||static.dable.io/dist/plugin.min.js$domain=3dpchip.com
 !#endif
