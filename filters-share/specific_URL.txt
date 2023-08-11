@@ -1,3 +1,4 @@
+/^https?:\/\/5l\.co\.kr\/img\/[0-9A-z]+_[0-9]+X[0-9]+\./$domain=5l.co.kr
 ||burgeon.co.kr/mad/
 ||res.heraldm.com/realfoods/*/ad/
 ||kwnews.co.kr/upload/ad/
