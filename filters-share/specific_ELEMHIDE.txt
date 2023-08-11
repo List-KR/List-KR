@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+ruliweb.com##.adrr
 forwarder.kr###aside > div[style^="background-color:"]
 timecoffee.co.kr###custom_html-8
 m.sedaily.com###contentArea > div[style^="width:"][id]
