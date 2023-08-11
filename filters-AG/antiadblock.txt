@@ -17,7 +17,7 @@ x86.co.kr,1004lucifer.blogspot.com,te31.com,tistory.com#%#//scriptlet('abort-on-
 plankim.com#%#//scriptlet('abort-current-inline-script', 'ai_adb.init')
 jootc.com,ehpub.co.kr#%#//scriptlet('abort-current-inline-script', 'ai_run_scripts')
 ! fundingchoicesmessages.google.com
-||fundingchoicesmessages.google.com^$domain=hunigo.com|op.gg|windowsforum.kr|iteastory.com|snskeyboard.com|rdsong.com|mongri.net|meeco.kr|poketory.com|youthassembly.kr|kr.jugomobile.com|1412.rest|pyrasis.com|oceansabyss.com|yongtj.com|dora-guide.com|tailstar.net|creativestudio.kr|gamejay.net|mksports.co.kr|sisamagazine.co.kr|dreamrail.co.kr|tistory.com|gukjenews.com|issuelink.co.kr|webtool.cusis.net|koreaminecraft.net
+||fundingchoicesmessages.google.com^$domain=hunigo.com|op.gg|windowsforum.kr|iteastory.com|snskeyboard.com|rdsong.com|mongri.net|meeco.kr|poketory.com|youthassembly.kr|kr.jugomobile.com|kyaru.space|pyrasis.com|oceansabyss.com|yongtj.com|dora-guide.com|tailstar.net|creativestudio.kr|gamejay.net|mksports.co.kr|sisamagazine.co.kr|dreamrail.co.kr|tistory.com|gukjenews.com|issuelink.co.kr|webtool.cusis.net|koreaminecraft.net
 ! Kakao TV
 !#if (adguard_app_ios || adguard_ext_safari)
 v.daum.net#@#div[class$="_ad"]
@@ -99,7 +99,7 @@ sysnet.pe.kr#%#//scriptlet('prevent-setTimeout', 'banner_book')
 op.gg#$##top-banner-ad { height: 1px !important; position: absolute !important; }
 op.gg#@#.AdSense
 op.gg#@##top-banner-ad
-1412.rest#%#//scriptlet('prevent-element-src-loading', 'pagead2.googlesyndication.com/pagead/js/adsbygoogle.js')
+kyaru.space#%#//scriptlet('prevent-element-src-loading', 'pagead2.googlesyndication.com/pagead/js/adsbygoogle.js')
 !#safari_cb_affinity(social)
 @@||cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js$script,domain=typing.works
 !#safari_cb_affinity
@@ -131,13 +131,13 @@ errornight.com#%#//scriptlet('abort-on-stack-trace', 'alert', 'chk_adBlock')
 @@||ssl.pstatic.net/tveta/libs/ssp-video/prod/ssp.web.sdk_$script,domain=m.sports.naver.com
 !#endif
 !#if (adguard_app_ios || adguard_ext_safari)
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=1412.rest
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=kyaru.space
 !#endif
-1412.rest#@#.ads
+kyaru.space#@#.ads
 remiz.co.kr#@#ins.adsbygoogle
 remiz.co.kr#@#.googleAd
 remiz.co.kr#@##googleAd
-1412.rest#@##google_ads
+kyaru.space#@##google_ads
 somenotes247.blogspot.com#@#.vertical-ads
 !#if (adguard_app_ios)
 @@||sysnet.pe.kr^$generichide
