@@ -44,6 +44,7 @@ spotvnow.co.kr##+js(no-fetch-if, imasdk.googleapis.com/js/sdkloader/ima3.js)
 spotvnow.co.kr##+js(no-xhr-if, pagead2.googlesyndication.com/pagead/js/adsbygoogle.js)
 spotvnow.co.kr##+js(no-fetch-if, pagead2.googlesyndication.com/pagead/js/adsbygoogle.js)
 !
+3dpchip.com##+js(aopw, HTMLAnchorElement.prototype.onclick)
 @@||advimg.ad-mapps.com/sdk/js/ver/200/ad_script.js$domain=maxmovie.com
 @@||advimg.ad-mapps.com/sdk/M_PLUS/JS/common/jquery-$domain=maxmovie.com
 @@||static.dable.io/dist/plugin.min.js$domain=maxmovie.com
@@ -76,7 +77,6 @@ kyaru.space#@##google_ads
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=tsuvod.com
 somenotes247.blogspot.com#@#.vertical-ads
 mnews.jtbc.co.kr#@#.ad_bottom
-3dpchip.com##+js(acis, chp_ads_blocker_detector)
 @@||kpanews.co.kr^$generichide
 ilsangt.tistory.com##.adblock-on
 ||ssulwar.com/dev/modules/board/skins/*/js/adblockblock.js

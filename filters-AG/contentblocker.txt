@@ -25,6 +25,8 @@ te31.com#@#.textAd
 te31.com#@#.text_ad
 te31.com#@#.text_ads
 !
+@@||compass.adop.cc/assets/js/adop/adopJ.js$domain=3dpchip.com
+@@||static.dable.io/dist/plugin.min.js$domain=3dpchip.com
 @@||advimg.ad-mapps.com/sdk/M_PLUS/Image/$domain=maxmovie.com
 @@||advimg.ad-mapps.com/sdk/js/ver/200/ad_script.js$domain=maxmovie.com
 @@||advimg.ad-mapps.com/sdk/M_PLUS/JS/common/jquery-$domain=maxmovie.com
@@ -57,10 +59,6 @@ somenotes247.blogspot.com#@#.vertical-ads
 kyaru.space#@##google_ads
 @@||sysnet.pe.kr^$generichide
 mnews.jtbc.co.kr#@#.ad_bottom
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=3dpchip.com
-@@||ads-api.twitter.com/|$domain=3dpchip.com
-@@||ads.pinterest.com/|$domain=3dpchip.com
-@@||sovrn.com/|$domain=3dpchip.com
 @@||kpanews.co.kr^$generichide
 starrykss.tistory.com##.adblock-on
 ||genshin.gamedot.org/module/genshinmaps/asset/image/ab-2211-*.

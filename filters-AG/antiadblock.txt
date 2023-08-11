@@ -89,6 +89,11 @@ spotvnow.co.kr#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com/pag
 !#endif
 !
 !#if (adguard_app_ios || adguard_ext_android_cb)
+@@||compass.adop.cc/assets/js/adop/adopJ.js$domain=3dpchip.com
+@@||static.dable.io/dist/plugin.min.js$domain=3dpchip.com
+!#endif
+3dpchip.com#%#//scriptlet('abort-on-property-write', 'HTMLAnchorElement.prototype.onclick')
+!#if (adguard_app_ios || adguard_ext_android_cb)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=aagag.com,xmlhttprequest
 !#endif
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,redirect=googlesyndication-adsbygoogle,domain=aagag.com
@@ -144,7 +149,6 @@ somenotes247.blogspot.com#@#.vertical-ads
 !#endif
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=tsuvod.com
 mnews.jtbc.co.kr#@#.ad_bottom
-3dpchip.com#%#//scriptlet("abort-current-inline-script", "chp_ads_blocker_detector")
 @@||kpanews.co.kr^$generichide
 ilsangt.tistory.com##.adblock-on
 ||ssulwar.com/dev/modules/board/skins/*/js/adblockblock.js$redirect=noopjs
