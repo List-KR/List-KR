@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+timecoffee.co.kr###custom_html-8
 m.sedaily.com###contentArea > div[style^="width:"][id]
 ygosunews.com##.recommended_wrap
 ygosunews.com##.rangking_wrap
