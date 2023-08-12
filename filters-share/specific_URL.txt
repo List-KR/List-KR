@@ -702,6 +702,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+||xn--h10b90b998c.*/img/$domain=xn--h10b90b998c.*
 ||i.imgur.com^$domain=newtoki.*
 ||newtoki.*/banner/
 ||i.imgur.com^$domain=torrentqq269.com|torrentqq270.com|torrentqq271.com|torrentqq272.com|torrentqq273.com|torrentqq274.com|torrentqq275.com|torrentqq276.com|torrentqq277.com|torrentqq278.com|torrentqq279.com|torrentqq280.com|torrentqq281.com|torrentqq282.com|torrentqq283.com
