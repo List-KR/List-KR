@@ -210,7 +210,7 @@ bizhankook.com##a[href^="/b/c/NPM"]
 mlbpark.donga.com##.sub_lists_today li.items::before
 mobile.newsis.com##div[style~="padding:10px"][style~="10px;"] > div[style^="height:"]
 starnewskorea.com##div[itemprop="articleBody"] > div[style^="float:"]
-m.sportschosun.com,m.starnewskorea.com##div[id$="ad"][style]
+m.slrclub.com,m.sportschosun.com,m.starnewskorea.com##div[id$="ad"][style]
 heraldpop.com##.article_area .list_r
 heraldpop.com##div[id*="_ad"]
 heraldpop.com##.article_wrap div[class^="ad"]
