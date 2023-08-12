@@ -21,13 +21,13 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 'lts/*'
-          cache: yarn
+          cache: npm
 
       - name: Install dependencies
-        run: yarn install --frozen-lockfile
+        run: npm ci
 
       - name: Run AGLint
-        run: yarn lint
+        run: npm run lint
   
   jsdelivrpurge:
     name: Purge jsDelivr cache

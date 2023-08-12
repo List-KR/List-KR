@@ -1,10 +1,40 @@
 {
+  "name": "list-kr",
+  "version": "1.0.0",
+  "description": "List-KR filters list blocks advertisements on Korean language websites.",
+  "main": "index.js",
   "scripts": {
     "lint": "aglint",
     "prepare": "husky install"
   },
-  "dependencies": {
-    "@adguard/aglint": "^1.0.11",
+  "contributors": [
+    "AdGuard Software Ltd.",
+    "PiQuark6046",
+    "green1052",
+    "seia-soto",
+    "JobcenterTycoon",
+    "Raiden-Ei",
+    "yous",
+    "Yuki2718",
+    "liberaldev",
+    "gaeulbyul",
+    "kiwitreekor",
+    "Baw-Appie",
+    "tytyqrqr",
+    "lidarbtc",
+    "Xvezda",
+    "Taewan-P",
+    "mapx-",
+    "tachibana-shin",
+    "iam-py-test",
+    "DavidLee3835",
+    "solban1",
+    "edoko",
+    "sanvit"
+  ],
+  "license": "GPL-3.0-only",
+  "devDependencies": {
+    "@adguard/aglint": "^2.0.0",
     "husky": "^8.0.3"
   }
 }
