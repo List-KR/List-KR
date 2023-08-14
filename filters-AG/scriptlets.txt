@@ -22,7 +22,7 @@ search.11st.co.kr#%#//scriptlet('set-constant', 'searchDataFactory.plusPrdList',
 enuri.com#%#//scriptlet('json-prune', 'data.supertopADNos')
 m.humoruniv.com#%#//scriptlet('abort-current-inline-script', '$.prototype.html', '/\/images\/[A-z0-9-_]+\.(jpg|gif)/')
 m.humoruniv.com#%#//scriptlet('prevent-setTimeout', '/[A-z0-9_]+\(ch[0-9]+_[A-z0-9]+\)/')
-sbs.co.kr#%#//scriptlet('set-constant', 'player.renderAdSequence', 'undefined')
+programs.sbs.co.kr#%#//scriptlet('set-constant', 'SbsHtml5PlayerContainer.prototype.renderAdSequence', 'noopFunc')
 domin.co.kr#%#//scriptlet('set-constant', 'bannerpop.popup', 'noopFunc')
 nesin.com#%#//scriptlet('abort-current-inline-script', 'open', '/\/popup\//')
 kyobobook.co.kr#%#//scriptlet('remove-attr', 'placeholder', 'input#searchMainKeyword')
