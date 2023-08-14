@@ -34,7 +34,7 @@
   ],
   "license": "GPL-3.0-only",
   "devDependencies": {
-    "@adguard/aglint": "^2.0.0",
+    "@adguard/aglint": "^2.0.1",
     "husky": "^8.0.3"
   }
 }
