@@ -702,6 +702,8 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+||i.ibb.co^$domain=19size.me
+||i.imgur.com^$domain=19size.me
 ||xn--h10b90b998c.*/img/$domain=xn--h10b90b998c.*
 ||i.imgur.com^$domain=newtoki.*
 ||newtoki.*/banner/

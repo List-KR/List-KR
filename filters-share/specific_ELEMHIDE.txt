@@ -1002,6 +1002,8 @@ osen.mt.co.kr##div#close_mask
 !
 ! DOMAIN-REFRESHER: START
 !
+19size.me###advertising
+19size.me###hd_pop
 newtoki.*##.ba_test
 torrentqq269.com,torrentqq270.com,torrentqq271.com,torrentqq272.com,torrentqq273.com,torrentqq274.com,torrentqq275.com,torrentqq276.com,torrentqq277.com,torrentqq278.com,torrentqq279.com,torrentqq280.com,torrentqq281.com,torrentqq282.com,torrentqq283.com##.row-banner
 sonagitv.*##.blocks-gallery-item img[src*="/sonagi_media/sites/"]
