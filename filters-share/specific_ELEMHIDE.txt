@@ -230,7 +230,7 @@ clien.net##.nav_container > div[id$="_content"][class^="content_"] .contents_mai
 clien.net##.nav_container > div[id$="_content"][class^="content_"] .section_list.notice > div[class^="main_top_"]
 clien.net##.nav_content > div[id$="_content"][class^="content_"] div[class^="post_"] > div[class^="view_center_"]
 quasarzone.com##div[id^="bidrich-"]
-kyaru.space##div[style].fancybox-type-inline
+1412.rest##div[style].fancybox-type-inline
 jjang0u.com##article[class*="-banner"]
 msearch.shopping.naver.com##div[class^="products_search_list"] div[class^="adProduct_"][id*="lst_"]
 22st.net###googleTop
@@ -936,7 +936,7 @@ ggoorr.net###content > div.bd > div.bd_lst_wrp > center
 ggoorr.net##.content > div.bd > div.clear > div > center
 ggoorr.net##.side > .widget_div > .content > center
 comic.naver.com##[id^="flex_ad_"]
-kyaru.space##.custom_code.board_top
+1412.rest##.custom_code.board_top
 news.appstory.co.kr###shopping_wrap
 news.appstory.co.kr##a[href*="//wrd.appstory.co.kr/rd.flad?"]
 m.comic.naver.com,news.appstory.co.kr##a[class^="banner_"]
