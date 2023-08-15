@@ -109,7 +109,7 @@ sysnet.pe.kr#%#//scriptlet('prevent-setTimeout', 'banner_book')
 op.gg#$##top-banner-ad { height: 1px !important; position: absolute !important; }
 op.gg#@#.AdSense
 op.gg#@##top-banner-ad
-1412.rest#%#//scriptlet('prevent-element-src-loading', 'pagead2.googlesyndication.com/pagead/js/adsbygoogle.js')
+1412.rest#%#//scriptlet('prevent-element-src-loading', 'script', 'pagead2.googlesyndication.com/pagead/js/adsbygoogle.js')
 !#safari_cb_affinity(social)
 @@||cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js$script,domain=typing.works
 !#safari_cb_affinity
