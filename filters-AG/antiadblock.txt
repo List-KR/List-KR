@@ -88,6 +88,12 @@ spotvnow.co.kr#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com/pag
 @@||advimg.ad-mapps.com/sdk/M_PLUS/Image/$domain=maxmovie.com
 !#endif
 !
+!#if (adguard_app_android)
+1412.rest#$#[class^="document_"].xe_content { display: block !important; height: 100% !important; }
+1412.rest#$#.et_vars { height: auto !important; overflow: visible !important; }
+1412.rest#$#.atc_ex { height: auto !important; overflow: visible !important; }
+1412.rest#%#//scriptlet('set-constant', 'adError', 'noopFunc')
+!#endif
 3dpchip.com#%#//scriptlet('abort-current-inline-script', 'chp_ads_blocker_detector')
 !#if (adguard_app_ios || adguard_ext_android_cb)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=3dpchip.com
