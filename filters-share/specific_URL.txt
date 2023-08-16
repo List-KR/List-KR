@@ -784,7 +784,7 @@
 ||i.uuoobe.com/images/$domain=torrentreel35.site|torrentreel36.site|torrentreel37.site|torrentreel38.site|torrentreel39.site|torrentreel40.site|torrentreel41.site|torrentreel42.site|torrentreel43.site|torrentreel44.site|torrentreel45.site|torrentreel46.site|torrentreel47.site|torrentreel48.site|torrentreel49.site|torrentreel50.site
 /^https:\/\/torrentmode[0-9]+\.com\/data\/zn_bimg\//
 ||az-cdn.com/banners/
-/^https:\/\/toonkor[0-9]+\.com\/images\/[a-z-]*[0-9]{3,}(x|X)[0-9]{2,}/
+/^https:\/\/toonkor[0-9]+\.com\/images\/[0-9a-z-]*[0-9]{3,}(x|X)[0-9]{2,}/
 /^https:\/\/toonkor[0-9]+\.com\/bann\//
 /^https:\/\/torrentlee[0-9]+\.com\/[A-z_0-9]+\.gif$/
 /^https:\/\/torrentwiz[0-9]+\.com\/[A-z0-9]+\.gif$/
