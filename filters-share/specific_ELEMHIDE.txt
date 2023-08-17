@@ -57,6 +57,10 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+hash.kr##div.bann_nbk
+hash.kr##div.bnn_y
+hash.kr##div.bnn_bmNw
+hash.kr##table[border="0"]>tbody>tr>td:not(td>div:not(div.noresize)+b>a:not([target="_blank"]))
 mlbpark.donga.com##.left_cont > div[style^="width:"]
 esports.op.gg##div[class^="lg:bg-darkpurple-800"]
 ruliweb.com##.adrr
