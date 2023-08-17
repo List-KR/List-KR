@@ -1,3 +1,5 @@
+||hash.kr/images/main/*_banner
+||wiki.hash.kr/images/thumb/e/ef/
 ||ruliweb.com/banneriframe
 ||forwarder.kr/data/file/banner/
 /^https?:\/\/5l\.co\.kr\/img\/[0-9A-z]+_[0-9]+X[0-9]+\./$domain=5l.co.kr
