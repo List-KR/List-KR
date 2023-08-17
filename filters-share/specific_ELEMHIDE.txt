@@ -57,10 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
-hash.kr##div.bann_nbk
-hash.kr##div.bnn_y
-hash.kr##div.bnn_bmNw
-hash.kr##table[border="0"]>tbody>tr>td:not(td>div:not(div.noresize)+b>a:not([target="_blank"]))
+hash.kr##table[border="0"] > tbody > tr > td:not(td > div:not(div.noresize) + b > a:not([target="_blank"]))
 mlbpark.donga.com##.left_cont > div[style^="width:"]
 esports.op.gg##div[class^="lg:bg-darkpurple-800"]
 ruliweb.com##.adrr
@@ -598,8 +595,8 @@ cmobile.g-enews.com,m.g-enews.com##.mwrap > div[style]:not([class])
 cmobile.g-enews.com,asiatime.co.kr,m.g-enews.com##div[class*="AD"]
 hyundaenews.com##a[href^="/ad_link.php?"]
 quasarplay.com##[class^="img_wrapper"]
-wiki.hash.kr##div[class^="bann_"]
-wiki.hash.kr##div[class^="bnn_"]
+hash.kr##div[class^="bann_"]
+hash.kr##div[class^="bnn_"]
 all-mice.co.kr###main_visual
 g-enews.com,cgv.co.kr##div[class$="ad"][style]
 cgv.co.kr##div[id$="_PlaceHolderContent_divMovieSelection_wrap"][class]
