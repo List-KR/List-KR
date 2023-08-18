@@ -208,7 +208,6 @@ www.dt.co.kr##iframe[src*="//io1.innorame.com/"] + .bk40
 www.dt.co.kr##center + .bk40
 www.dt.co.kr##ins[data-aiinad-inv] + .bk40
 m.humoruniv.com##body > .adsbygoogle
-interpark.com##.adBannerBox
 bizhankook.com##a[href^="/b/c/NPM"]
 mobile.newsis.com##div[style~="padding:10px"][style~="10px;"] > div[style^="height:"]
 starnewskorea.com##div[itemprop="articleBody"] > div[style^="float:"]
@@ -512,12 +511,7 @@ koya-culture.com##div[itemprop="articleBody"] ~ div[style]
 eroun.net##body > div[style]:not([class]):not([id])
 digitalasset.works,khgames.co.kr,digitaltoday.co.kr,ilemonde.com,mjmedi.com,eroun.net###layer-popups
 hogaeng.co.kr##div[id^="container_"] .slide_box
-shopping.interpark.com##.contentsWrap #idRecommendWrap
 zdnet.co.kr##div[class*="_bn_"][style]
-interpark.com##.welcomeWrapper .interparkInner .eventWrapper
-interpark.com##.welcomeWrapper .showRoom
-interpark.com##div[class$="Banners"]
-interpark.com##span[class$="AD"]
 dprime.kr.dvdprime.com##div[style~="height:"][style~="border-top:"].relative
 comic.naver.com,health.chosun.com,dprime.kr##[class*="_ad_"]
 ypbooks.co.kr##td[id^="divBn_"]
@@ -842,10 +836,6 @@ m.nocutnews.co.kr###pnlContainer > div[class^="ct"] > .section > div[style]:not(
 news.zum.com,m.edaily.co.kr,news.sbs.co.kr,nocutnews.co.kr##div[id^="dablewidget_"]
 ypbooks.co.kr,newstof.com##div[id^="popup_"]
 yna.co.kr##[class^="aside-bnr"]
-shopping.interpark.com###btnlist > .productImgList.choice
-shopping.interpark.com###btnlist > .listTitle:nth-child(1)
-shopping.interpark.com##.AdvertisingList
-shopping.interpark.com###powerLink
 lawtimes.co.kr##a[href^="/Tracks/Banner-Log/"]
 boannews.com##div[id^="powerbiz"]
 boannews.com##iframe[src^="/main_contents/main_banner_"]

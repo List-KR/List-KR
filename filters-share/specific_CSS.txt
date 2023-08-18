@@ -113,13 +113,6 @@ shoppinghow.kakao.com#$#.wide_layout .wrap_srch_res .wrap_tab { width: 100% !imp
 shoppinghow.kakao.com#$#.wide_layout .wrap_srch_res .wrap_sort { width: auto !important; }
 shoppinghow.kakao.com#$#.wide_layout .wrap_srch_res [class*="prod_type2"] { width: 1275px !important; border-left: 1px solid #e4e4e4 !important; background-image: none !important; }
 diningcode.com#$#.MapMain > #map { width: 100% !important; }
-interpark.com#$##loginAllWrap .loginFormWrap { width: 100% !important; }
-interpark.com#$#.welcomeWrapper .interparkInner .hotCornerWrapper { width: 100% !important; }
-interpark.com#$#.welcomeWrapper .hotCornerContent .hotCornerBanner { margin-left: 150px !important; }
-interpark.com#$#.welcomeWrapper .rankWrapper .rankingInner { left: -230% !important; width: 330% !important; }
-interpark.com#$#.welcomeWrapper .rankingInner .rankingContent { background-color: white !important; }
-interpark.com#$#.welcomeWrapper .rankingInner .rankList { margin-left: 35% !important; }
-interpark.com#$#.welcomeWrapper  .rankingInner .rankList ol li a { max-width: 270px !important; }
 ypbooks.co.kr#$#form[name="loginForm"][action*="login.yp"] > table { margin-left: calc(25% - 27px) !important; }
 pushoong.com#$#html { overflow: auto !important; }
 pushoong.com#$##fullscreen-overlay { display: none !important; }

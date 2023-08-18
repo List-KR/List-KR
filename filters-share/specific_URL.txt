@@ -347,7 +347,6 @@
 ||uwayapply.com/img/common/frame_bn_btn
 ||image.laftel.net/guango/
 ||hairshop.kakao.com/proxy/app/*/search/around/hair-shops/ad|
-||shopapi.interpark.com/display/*/popupBanner.json
 ||community.rememberapp.co.kr/_next/image?url=*%2Fuploads%2Fbanner%2F
 ||geo.dailymotion.com^$domain=huffingtonpost.kr
 ||cfnimage.commutil.kr/phpwas/restmb_allidxmake.php
@@ -615,10 +614,6 @@
 ||m.news1.kr/template/ads/
 ||image.news1.kr/system/ads_t/
 ||nocutnews.co.kr/ad/
-||shopapi.interpark.com/advertisement/*.json
-||shopping.interpark.com/resources/template/common/powerLink.html
-||shopping.interpark.com/niSearch/common/powerLink.json
-||shopping.interpark.com/static/styles/pages/powerLink.css
 ||lawtimes.co.kr/data/ad/
 ||boannews.com/main_contents/main_banner_
 ||boannews.com/images/banner/
