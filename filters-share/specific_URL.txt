@@ -1,3 +1,8 @@
+||shopping.interpark.com/resources/js/common/powerLink.js
+||shopping.interpark.com/static/styles/pages/powerLink.css
+||shopapi.interpark.com/advertisement/
+||shopping.interpark.com/resources/js/plugin/powerLinkLoad.js
+||openimage.interpark.com/dia/images/
 ||hash.kr/images/main/*_banner
 ||wiki.hash.kr/images/thumb/e/ef/
 ||ruliweb.com/banneriframe

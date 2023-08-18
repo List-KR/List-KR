@@ -57,6 +57,11 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+shopping.interpark.com##.productListWrap > #idRecommendWrap
+shopping.interpark.com##.AdvertisingList
+shopping.interpark.com###btnlist > #listChoiceScope
+shopping.interpark.com##.productSortingList > .choice
+shopping.interpark.com##.productListWrap > #serviceKeywordId
 hash.kr##table[border="0"] > tbody > tr > td:not(td > div:not(div.noresize) + b > a:not([target="_blank"]))
 mlbpark.donga.com##.left_cont > div[style^="width:"]
 esports.op.gg##div[class^="lg:bg-darkpurple-800"]

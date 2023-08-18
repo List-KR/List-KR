@@ -1,6 +1,7 @@
 ! PopMagic
 watchfreejavonline.co#%#//scriptlet('abort-current-inline-script', 'popMagic.init')
 !
+shopping.interpark.com#%#//scriptlet('set-constant', '$is.powerLink.loadPowerLink', 'noopFunc')
 !#if (adguard_app_ios || adguard_ext_safari)
 m.humoruniv.com#%#//scriptlet('abort-on-stack-trace', '$.prototype.html', 'ch')
 !#endif
