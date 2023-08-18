@@ -54,6 +54,6 @@ imbc.com##+js(set, vrixadsdk, undefined)
 ! DOMAIN-REFRESHER: START
 !
 zzapflix.tv##+js(nosiif, animationEffects[settings.animation.effect])
-lover920.net,lover921.net,lover922.net,lover923.net,lover924.net,lover925.net,lover926.net,lover927.net,lover928.net,lover929.net##+js(nano-stb, count, , 0.001)
+lover921.net,lover922.net,lover923.net,lover924.net,lover925.net,lover926.net,lover927.net,lover928.net,lover929.net,lover930.net##+js(nano-stb, count, , 0.001)
 !
 ! DOMAIN-REFRESHER: END

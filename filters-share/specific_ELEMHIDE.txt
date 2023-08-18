@@ -1006,98 +1006,92 @@ osen.mt.co.kr##div#close_mask
 19size.me###advertising
 19size.me###hd_pop
 newtoki.*##.ba_test
-torrentqq269.com,torrentqq270.com,torrentqq271.com,torrentqq272.com,torrentqq273.com,torrentqq274.com,torrentqq275.com,torrentqq276.com,torrentqq277.com,torrentqq278.com,torrentqq279.com,torrentqq280.com,torrentqq281.com,torrentqq282.com,torrentqq283.com##.row-banner
+torrentqq270.com,torrentqq271.com,torrentqq272.com,torrentqq273.com,torrentqq274.com,torrentqq275.com,torrentqq276.com,torrentqq277.com,torrentqq278.com,torrentqq279.com,torrentqq280.com,torrentqq281.com,torrentqq282.com,torrentqq283.com,torrentqq284.com##.row-banner
 sonagitv.*##.blocks-gallery-item img[src*="/sonagi_media/sites/"]
 kr.bb-tv.co##.banner
-torrenttip77.com,torrenttip78.com,torrenttip79.com,torrenttip80.com,torrenttip81.com,torrenttip82.com,torrenttip83.com,torrenttip84.com,torrenttip85.com,torrenttip86.com,torrenttip87.com,torrenttip88.com,torrenttip89.com##a[href*="/ad/"]
-torrenttt83.com,torrenttt84.com,torrenttt85.com,torrenttt86.com,torrenttt87.com,torrenttt88.com,torrenttt89.com,torrenttt90.com,torrenttt91.com,torrenttt92.com,torrenttt93.com,torrenttt94.com,torrenttt95.com,torrenttt96.com##a[href*="/ad/"][target="_blank"]
+torrenttip84.com,torrenttip85.com,torrenttip86.com,torrenttip87.com,torrenttip88.com,torrenttip89.com,torrenttip90.com,torrenttip91.com,torrenttip92.com,torrenttip93.com,torrenttip94.com,torrenttip95.com,torrenttip96.com##a[href*="/ad/"]
+torrenttt90.com,torrenttt91.com,torrenttt92.com,torrenttt93.com,torrenttt94.com,torrenttt95.com,torrenttt96.com,torrenttt97.com,torrenttt98.com,torrenttt99.com,torrenttt100.com,torrenttt101.com,torrenttt102.com,torrenttt103.com##a[href*="/ad/"][target="_blank"]
 zzapflix.tv##a[href*="/bbs/link.php?bo_table=partner&"]
-torrentsee171.com,torrentsee172.com,torrentsee173.com,torrentsee174.com,torrentsee175.com,torrentsee176.com,torrentsee177.com,torrentsee178.com,torrentsee179.com,torrentsee180.com,torrentsee181.com,torrentsee182.com,torrentsee183.com,torrentsee184.com,torrentsee185.com,torrentsee186.com##a[href^="/go/"][target="_blank"]
-viewtorrent11.com,viewtorrent12.com,viewtorrent13.com,viewtorrent14.com,viewtorrent15.com,viewtorrent16.com,viewtorrent17.com,viewtorrent18.com,viewtorrent19.com,viewtorrent20.com,viewtorrent21.com,viewtorrent22.com,viewtorrent23.com##div[style^="padding-bottom:"].img
+torrentsee180.com,torrentsee181.com,torrentsee182.com,torrentsee183.com,torrentsee184.com,torrentsee185.com,torrentsee186.com,torrentsee189.com,torrentsee190.com,torrentsee191.com,torrentsee192.com,torrentsee193.com,torrentsee194.com,torrentsee195.com,torrentsee196.com,torrentsee197.com##a[href^="/go/"][target="_blank"]
+viewtorrent13.com,viewtorrent14.com,viewtorrent15.com,viewtorrent16.com,viewtorrent17.com,viewtorrent18.com,viewtorrent19.com,viewtorrent20.com,viewtorrent21.com,viewtorrent22.com,viewtorrent23.com,viewtorrent24.com,viewtorrent25.com##div[style^="padding-bottom:"].img
 zzapflix.tv##.ent_wrapper.slide-vertical-effect .ent_navigation
 zzapflix.tv##a[href*="?bo_table=partner"]
 zzapflix.tv###hd_pop
-torrentpi72.com,torrentpi73.com,torrentpi74.com,torrentpi75.com,torrentpi76.com,torrentpi77.com,torrentpi78.com,torrentpi79.com,torrentpi80.com,torrentpi81.com,torrentpi82.com,torrentpi83.com,torrentpi84.com,torrentpi85.com,torrentpi86.com,torrentpi87.com,torrentpi88.com,torrentpi89.com##.at-row .basic-post-gallery
-torrentpi72.com,torrentpi73.com,torrentpi74.com,torrentpi75.com,torrentpi76.com,torrentpi77.com,torrentpi78.com,torrentpi79.com,torrentpi80.com,torrentpi81.com,torrentpi82.com,torrentpi83.com,torrentpi84.com,torrentpi85.com,torrentpi86.com,torrentpi87.com,torrentpi88.com,torrentpi89.com###hd_pop
+torrentpi75.com,torrentpi76.com,torrentpi77.com,torrentpi78.com,torrentpi79.com,torrentpi80.com,torrentpi81.com,torrentpi82.com,torrentpi83.com,torrentpi84.com,torrentpi85.com,torrentpi86.com,torrentpi87.com,torrentpi88.com,torrentpi89.com,torrentpi90.com,torrentpi91.com,torrentpi92.com##.at-row .basic-post-gallery
+torrentpi75.com,torrentpi76.com,torrentpi77.com,torrentpi78.com,torrentpi79.com,torrentpi80.com,torrentpi81.com,torrentpi82.com,torrentpi83.com,torrentpi84.com,torrentpi85.com,torrentpi86.com,torrentpi87.com,torrentpi88.com,torrentpi89.com,torrentpi90.com,torrentpi91.com,torrentpi92.com###hd_pop
 hasha.in##div[style^="min-height:"][class^="bg-hasha-"] > div[style] + .max-w-full
-tvzota61.com,tvzota62.com,tvzota63.com,tvzota64.com,tvzota65.com,tvzota66.com,tvzota67.com,tvzota68.com,tvzota69.com,tvzota70.com,tvzota71.com##div[class^="popup_"]
-tvzota61.com,tvzota62.com,tvzota63.com,tvzota64.com,tvzota65.com,tvzota66.com,tvzota67.com,tvzota68.com,tvzota69.com,tvzota70.com,tvzota71.com##.wid
+tvzota70.com,tvzota71.com,tvzota72.com,tvzota73.com,tvzota74.com,tvzota75.com,tvzota76.com,tvzota77.com,tvzota78.com,tvzota79.com,tvzota80.com##div[class^="popup_"]
+tvzota70.com,tvzota71.com,tvzota72.com,tvzota73.com,tvzota74.com,tvzota75.com,tvzota76.com,tvzota77.com,tvzota78.com,tvzota79.com,tvzota80.com##.wid
 kimyadong.net,yadongwang.org,yadongstar.net,yadongkorea.red,yadongtube.net,yatv.net###banner
 save-1.net##div[id^="float"]
 save-1.net##div[class^="header-banner-"]
 save-1.net##.at-main > .widget-box
 save-1.net##.w-banner
 tvchak.live##.mobile-main div[style^="padding:"].border-shadow
-jgmoa47.com,jgmoa48.com,jgmoa49.com,jgmoa50.com,jgmoa51.com,jgmoa52.com,jgmoa53.com,jgmoa54.com,jgmoa55.com,jgmoa56.com,jgmoa57.com,jgmoa58.com,jgmoa59.com,jgmoa60.com,jgmoa61.com##.popup
-torrenttop54.com,torrenttop55.com,torrenttop56.com,torrenttop57.com,torrenttop58.com,torrenttop59.com,torrenttop60.com,torrenttop61.com,torrenttop62.com,torrenttop63.com,torrenttop64.com,torrenttop65.com,torrenttop66.com,torrenttop67.com##a[href^="/adver-"]
-yaburi36.com,yaburi37.com,yaburi38.com,yaburi39.com,yaburi40.com,yaburi41.com,yaburi42.com,yaburi43.com,yaburi44.com,yaburi45.com,yaburi46.com,yaburi47.com,yaburi48.com,yaburi49.com,yaburi50.com,yaburi61.com,yaburi62.com,yaburi63.com,yaburi64.com,yaburi65.com,yaburi66.com###popups
-torrent-who34.me,torrent-who35.me,torrent-who36.me,torrent-who37.me,torrent-who38.me,torrent-who39.me,torrent-who40.me,torrent-who41.me,torrent-who42.me,torrent-who43.me,torrent-who44.me,torrent-who45.me,torrent-who46.me,torrent-who47.me,torrent-who48.me,torrent-who49.me##div[class*=" "]:not([id*=" "]) > .bg-black
+jgmoa49.com,jgmoa50.com,jgmoa51.com,jgmoa52.com,jgmoa53.com,jgmoa54.com,jgmoa55.com,jgmoa56.com,jgmoa57.com,jgmoa58.com,jgmoa59.com,jgmoa60.com,jgmoa61.com,jgmoa62.com,jgmoa63.com##.popup
+torrenttop61.com,torrenttop62.com,torrenttop63.com,torrenttop64.com,torrenttop65.com,torrenttop66.com,torrenttop67.com,torrenttop68.com,torrenttop69.com,torrenttop70.com,torrenttop71.com,torrenttop72.com,torrenttop73.com,torrenttop74.com##a[href^="/adver-"]
+yaburi42.com,yaburi43.com,yaburi44.com,yaburi45.com,yaburi46.com,yaburi47.com,yaburi48.com,yaburi49.com,yaburi50.com,yaburi61.com,yaburi62.com,yaburi63.com,yaburi64.com,yaburi65.com,yaburi66.com,yaburi67.com,yaburi68.com,yaburi69.com,yaburi70.com,yaburi71.com,yaburi72.com###popups
 etorrentro.net##div[id^="banner"]
 1004girl.com##.page-content > .row.no-gap.no-space > .col-33
-mingk14.com,mingk15.com,mingk16.com,mingk17.com,mingk18.com,mingk19.com,mingk20.com,mingk21.com,mingk22.com,mingk23.com,mingk24.com,mingk25.com,mingk26.com,mingk27.com,mingk28.com,mingk29.com,mingk30.com##.main-box ~ div[style*=" "] > div:not([style*=" "])
-mingk14.com,mingk15.com,mingk16.com,mingk17.com,mingk18.com,mingk19.com,mingk20.com,mingk21.com,mingk22.com,mingk23.com,mingk24.com,mingk25.com,mingk26.com,mingk27.com,mingk28.com,mingk29.com,mingk30.com##.view-wrap > div[class*=" "] + div[style*=" "]
+mingk16.com,mingk17.com,mingk18.com,mingk19.com,mingk20.com,mingk21.com,mingk22.com,mingk23.com,mingk24.com,mingk25.com,mingk26.com,mingk27.com,mingk28.com,mingk29.com,mingk30.com,mingk31.com,mingk32.com##.main-box ~ div[style*=" "] > div:not([style*=" "])
+mingk16.com,mingk17.com,mingk18.com,mingk19.com,mingk20.com,mingk21.com,mingk22.com,mingk23.com,mingk24.com,mingk25.com,mingk26.com,mingk27.com,mingk28.com,mingk29.com,mingk30.com,mingk31.com,mingk32.com##.view-wrap > div[class*=" "] + div[style*=" "]
 linkrand4.com,linkrand5.com,linkrand6.com,linkrand7.com,linkrand8.com,linkrand9.com,linkrand10.com,linkrand11.com,linkrand12.com,linkrand13.com,linkrand14.com,linkrand15.com,linkrand16.com,linkrand17.com,linkrand18.com##.is-hover a[href^="http"][target="_blank"]
 linkrand4.com,linkrand5.com,linkrand6.com,linkrand7.com,linkrand8.com,linkrand9.com,linkrand10.com,linkrand11.com,linkrand12.com,linkrand13.com,linkrand14.com,linkrand15.com,linkrand16.com,linkrand17.com,linkrand18.com##div[id][class*=" "][data-interval] div[style*="/data/apms/background"]
-allall73.com,allall74.com,allall75.com,allall76.com,allall77.com,allall78.com,allall79.com,allall80.com,allall81.com,allall82.com,allall83.com,allall84.com,allall85.com,allall86.com,allall87.com,allall88.com,allall89.com##div[class^="ad_"]
-wtbox38.xyz,wtbox39.xyz,wtbox40.xyz,wtbox41.xyz,wtbox42.xyz,wtbox43.xyz,wtbox44.xyz,wtbox45.xyz,wtbox46.xyz,wtbox47.xyz,wtbox48.xyz,wtbox49.xyz,wtbox50.xyz,wtbox51.xyz,wtbox52.xyz,wtbox53.xyz,wtbox54.xyz##div[class*="-banner"] div[class*=" "][style=" "]
-tvbox34.xyz,tvbox35.xyz,tvbox36.xyz,tvbox37.xyz,tvbox38.xyz,tvbox39.xyz,tvbox40.xyz,tvbox41.xyz,tvbox42.xyz,tvbox43.xyz,tvbox44.xyz,tvbox45.xyz,tvbox46.xyz,tvbox47.xyz,tvbox48.xyz,tvbox49.xyz,tvbox50.xyz##div[class*="-banner"] div[class*=" "][style=" "]
-ydbox18.com,ydbox19.com,ydbox20.com,ydbox21.com,ydbox22.com,ydbox23.com,ydbox24.com,ydbox25.com,ydbox26.com,ydbox27.com,ydbox28.com,ydbox29.com,ydbox30.com,ydbox31.com,ydbox32.com,ydbox33.com,ydbox34.com##div[class*="-banner"] div[class*=" "][style=" "]
+wtbox39.xyz,wtbox40.xyz,wtbox41.xyz,wtbox42.xyz,wtbox43.xyz,wtbox44.xyz,wtbox45.xyz,wtbox46.xyz,wtbox47.xyz,wtbox48.xyz,wtbox49.xyz,wtbox50.xyz,wtbox51.xyz,wtbox52.xyz,wtbox53.xyz,wtbox54.xyz,wtbox55.xyz##div[class*="-banner"] div[class*=" "][style=" "]
+tvbox52.xyz,tvbox53.xyz,tvbox54.xyz,tvbox55.xyz,tvbox56.xyz,tvbox57.xyz,tvbox58.xyz,tvbox59.xyz,tvbox60.xyz,tvbox61.xyz,tvbox62.xyz,tvbox63.xyz,tvbox64.xyz,tvbox65.xyz,tvbox66.xyz,tvbox67.xyz,tvbox68.xyz##div[class*="-banner"] div[class*=" "][style=" "]
+ydbox21.com,ydbox22.com,ydbox23.com,ydbox24.com,ydbox25.com,ydbox26.com,ydbox27.com,ydbox28.com,ydbox29.com,ydbox30.com,ydbox31.com,ydbox32.com,ydbox33.com,ydbox34.com,ydbox35.com,ydbox36.com,ydbox37.com##div[class*="-banner"] div[class*=" "][style=" "]
 linkeye5.com,linkeye6.com,linkeye7.com,linkeye8.com,linkeye9.com,linkeye10.com,linkeye11.com,linkeye12.com,linkeye13.com,linkeye14.com,linkeye15.com,linkeye16.com,linkeye17.com,linkeye18.com,linkeye19.com##div[class*="banner-"]
 img.imimggggg87878.com##div[class$="-banner"]
 linkkf.app###banner
-krav287.xyz,krav288.xyz,krav289.xyz,krav290.xyz,krav291.xyz,krav292.xyz,krav293.xyz,krav294.xyz,krav295.xyz,krav296.xyz,krav297.xyz,krav298.xyz,krav299.xyz,krav300.xyz,krav301.xyz,krav302.xyz,krav303.xyz,krav304.xyz,krav305.xyz,krav306.xyz,krav307.xyz,krav308.xyz##div[class^="banner_"]
-booktoki294.com,booktoki295.com,booktoki296.com,booktoki297.com,booktoki298.com,booktoki299.com,booktoki300.com,booktoki301.com,booktoki302.com,booktoki303.com,booktoki304.com,booktoki305.com,booktoki306.com,booktoki307.com,booktoki308.com,booktoki309.com##div[id*="-banner-"] > div[class*=" "] > div[class*=" "][style*=" "]
+booktoki303.com,booktoki304.com,booktoki305.com,booktoki306.com,booktoki307.com,booktoki308.com,booktoki309.com,booktoki310.com,booktoki311.com,booktoki312.com,booktoki313.com,booktoki314.com,booktoki315.com,booktoki316.com,booktoki317.com,booktoki318.com##div[id*="-banner-"] > div[class*=" "] > div[class*=" "][style*=" "]
 !#if adguard_app_ios
-newtoki294.com,newtoki295.com,newtoki296.com,newtoki297.com,newtoki298.com,newtoki299.com,newtoki300.com,newtoki301.com,newtoki302.com,newtoki303.com,newtoki304.com,newtoki305.com##.board-tail-banner
+newtoki303.com,newtoki304.com,newtoki305.com,newtoki306.com,newtoki307.com,newtoki308.com,newtoki309.com,newtoki310.com,newtoki311.com,newtoki312.com,newtoki313.com,newtoki314.com##.board-tail-banner
 !#endif
 hellven.net##a[href^="http"][target="_blank"].thumbnail
 dajunbi.com##div[class^="banner_"]
-spotv90.com,spotv91.com,spotv92.com,spotv93.com,spotv94.com,spotv95.com,spotv96.com,spotv97.com,spotv98.com,spotv99.com,spotv100.com,spotv101.com,spotv101.com,spotv102.com,spotv103.com,spotv104.com,spotv105.com,spotv106.com,spotv107.com##div[id$="-banner"]
+spotv97.com,spotv98.com,spotv99.com,spotv100.com,spotv101.com,spotv101.com,spotv102.com,spotv103.com,spotv104.com,spotv105.com,spotv106.com,spotv107.com,spotv108.com,spotv109.com,spotv110.com,spotv111.com,spotv112.com,spotv113.com,spotv114.com##div[id$="-banner"]
 anilife.life##div[class$="-banner"]
 qooqootv.fun##div[class^="banner_"]
 !#if !adguard_ext_android_cb
-lover920.net,lover921.net,lover922.net,lover923.net,lover924.net,lover925.net,lover926.net,lover927.net,lover928.net,lover929.net##.xe_content span ~ div[style]
+lover921.net,lover922.net,lover923.net,lover924.net,lover925.net,lover926.net,lover927.net,lover928.net,lover929.net,lover930.net##.xe_content span ~ div[style]
 !#endif
-agit567.xyz,agit568.xyz,agit569.xyz,agit570.xyz,agit571.xyz,agit572.xyz,agit573.xyz,agit574.xyz,agit575.xyz,agit576.xyz,agit577.xyz,agit578.xyz,agit579.xyz,agit580.xyz,agit581.xyz,agit582.xyz,agit583.xyz,agit584.xyz,agit585.xyz,agit586.xyz,agit587.xyz,agit588.xyz,agit589.xyz,agit590.xyz,agit591.xyz##.banner
-yagong62.com,yagong63.com,yagong64.com,yagong65.com,yagong66.com,yagong67.com,yagong68.com,yagong69.com,yagong70.com,yagong71.com,yagong72.com,yagong73.com,yagong74.com,yagong75.com,yagong76.com,yagong77.com,yagong78.com,yagong79.com,yagong80.com,yagong81.com,yagong82.com,yagong83.com,yagong84.com##div[x-data="popups()"]
-redsun39.me,redsun40.me,redsun41.me,redsun42.me,redsun43.me,redsun44.me,redsun45.me,redsun46.me,redsun47.me,redsun48.me,redsun49.me,redsun50.me,redsun51.me,redsun52.me,redsun53.me,redsun54.me,redsun55.me,redsun56.me,redsun57.me,redsun58.me,redsun59.me,redsun60.me,redsun61.me,redsun62.me,redsun63.me##div[id*="ads"]
-manamoa61.com,manamoa62.com,manamoa63.com,manamoa64.com,manamoa65.com,manamoa66.com,manamoa67.com,manamoa68.com,manamoa69.com,manamoa70.com,manamoa71.com,manamoa72.com,manamoa73.com,manamoa74.com,manamoa75.com,manamoa76.com,manamoa77.com,manamoa78.com,manamoa79.com,manamoa80.com,manamoa81.com##div[class*="banner"]
-torpang57.com,torpang58.com,torpang59.com,torpang60.com,torpang61.com,torpang62.com,torpang63.com,torpang64.com,torpang65.com,torpang66.com,torpang67.com,torpang68.com,torpang69.com,torpang70.com,torpang71.com,torpang72.com,torpang73.com,torpang74.com,torpang75.com,torpang76.com##div[class*="-banner"]
-torpang57.com,torpang58.com,torpang59.com,torpang60.com,torpang61.com,torpang62.com,torpang63.com,torpang64.com,torpang65.com,torpang66.com,torpang67.com,torpang68.com,torpang69.com,torpang70.com,torpang71.com,torpang72.com,torpang73.com,torpang74.com,torpang75.com,torpang76.com###hd_pop
-torrentgram57.com,torrentgram58.com,torrentgram59.com,torrentgram60.com,torrentgram61.com,torrentgram62.com,torrentgram63.com,torrentgram64.com,torrentgram65.com,torrentgram66.com,torrentgram67.com,torrentgram68.com,torrentgram69.com,torrentgram70.com,torrentgram71.com,torrentgram72.com##.panel-default ~ .row > .col-sm-6
-torrentgram57.com,torrentgram58.com,torrentgram59.com,torrentgram60.com,torrentgram61.com,torrentgram62.com,torrentgram63.com,torrentgram64.com,torrentgram65.com,torrentgram66.com,torrentgram67.com,torrentgram68.com,torrentgram69.com,torrentgram70.com,torrentgram71.com,torrentgram72.com##.npia-board-gallery
-torrentgram57.com,torrentgram58.com,torrentgram59.com,torrentgram60.com,torrentgram61.com,torrentgram62.com,torrentgram63.com,torrentgram64.com,torrentgram65.com,torrentgram66.com,torrentgram67.com,torrentgram68.com,torrentgram69.com,torrentgram70.com,torrentgram71.com,torrentgram72.com###body_text > .at-main.at-col[style]
-torrentbam81.com,torrentbam82.com,torrentbam83.com,torrentbam84.com,torrentbam85.com,torrentbam86.com,torrentbam87.com,torrentbam88.com,torrentbam89.com,torrentbam90.com,torrentbam91.com,torrentbam92.com,torrentbam93.com,torrentbam94.com,torrentbam95.com,torrentbam96.com##a[href*="/ad/"][target="_blank"]
-torrentbot90.com,torrentbot91.com,torrentbot92.com,torrentbot93.com,torrentbot94.com,torrentbot95.com,torrentbot96.com,torrentbot97.com,torrentbot98.com,torrentbot99.com,torrentbot100.com,torrentbot101.com,torrentbot102.com,torrentbot103.com##a[href^="/go/"][target="_blank"]
-ktxtorrent87.com,ktxtorrent88.com,ktxtorrent89.com,ktxtorrent90.com,ktxtorrent91.com,ktxtorrent92.com,ktxtorrent93.com,ktxtorrent94.com,ktxtorrent95.com,ktxtorrent96.com,ktxtorrent97.com,ktxtorrent98.com,ktxtorrent99.com,ktxtorrent100.com,ktxtorrent101.com##img[src*=".imgbox.com/"]
-torrentsome97.com,torrentsome98.com,torrentsome99.com,torrentsome100.com,torrentsome101.com,torrentsome102.com,torrentsome103.com,torrentsome104.com,torrentsome105.com,torrentsome106.com,torrentsome107.com,torrentsome108.com,torrentsome109.com##a[href^="/go/"][target="_blank"]
-torrentrj99.com,torrentrj100.com,torrentrj101.com,torrentrj102.com,torrentrj103.com,torrentrj104.com,torrentrj105.com,torrentrj106.com,torrentrj107.com,torrentrj108.com,torrentrj109.com,torrentrj110.com,torrentrj111.com,torrentrj112.com,torrentrj113.com,torrentrj114.com##a[href^="/go/"][target="_blank"]
-bobaelink52.xyz,bobaelink53.xyz,bobaelink54.xyz,bobaelink55.xyz,bobaelink56.xyz,bobaelink57.xyz,bobaelink58.xyz,bobaelink59.xyz,bobaelink60.xyz,bobaelink61.xyz,bobaelink62.xyz,bobaelink63.xyz##a[href^="/ad-"]
+agit574.xyz,agit575.xyz,agit576.xyz,agit577.xyz,agit578.xyz,agit579.xyz,agit580.xyz,agit581.xyz,agit582.xyz,agit583.xyz,agit584.xyz,agit585.xyz,agit586.xyz,agit587.xyz,agit588.xyz,agit589.xyz,agit590.xyz,agit591.xyz,agit592.xyz,agit593.xyz,agit594.xyz,agit595.xyz,agit596.xyz,agit597.xyz,agit598.xyz##.banner
+yagong64.com,yagong65.com,yagong66.com,yagong67.com,yagong68.com,yagong69.com,yagong70.com,yagong71.com,yagong72.com,yagong73.com,yagong74.com,yagong75.com,yagong76.com,yagong77.com,yagong78.com,yagong79.com,yagong80.com,yagong81.com,yagong82.com,yagong83.com,yagong84.com,yagong85.com,yagong86.com##div[x-data="popups()"]
+redsun41.me,redsun42.me,redsun43.me,redsun44.me,redsun45.me,redsun46.me,redsun47.me,redsun48.me,redsun49.me,redsun50.me,redsun51.me,redsun52.me,redsun53.me,redsun54.me,redsun55.me,redsun56.me,redsun57.me,redsun58.me,redsun59.me,redsun60.me,redsun61.me,redsun62.me,redsun63.me,redsun64.me,redsun65.me##div[id*="ads"]
+manamoa67.com,manamoa68.com,manamoa69.com,manamoa70.com,manamoa71.com,manamoa72.com,manamoa73.com,manamoa74.com,manamoa75.com,manamoa76.com,manamoa77.com,manamoa78.com,manamoa79.com,manamoa80.com,manamoa81.com,manamoa82.com,manamoa83.com,manamoa84.com,manamoa85.com,manamoa86.com,manamoa87.com##div[class*="banner"]
+torrentgram59.com,torrentgram60.com,torrentgram61.com,torrentgram62.com,torrentgram63.com,torrentgram64.com,torrentgram65.com,torrentgram66.com,torrentgram67.com,torrentgram68.com,torrentgram69.com,torrentgram70.com,torrentgram71.com,torrentgram72.com,torrentgram73.com,torrentgram74.com##.panel-default ~ .row > .col-sm-6
+torrentgram59.com,torrentgram60.com,torrentgram61.com,torrentgram62.com,torrentgram63.com,torrentgram64.com,torrentgram65.com,torrentgram66.com,torrentgram67.com,torrentgram68.com,torrentgram69.com,torrentgram70.com,torrentgram71.com,torrentgram72.com,torrentgram73.com,torrentgram74.com##.npia-board-gallery
+torrentgram59.com,torrentgram60.com,torrentgram61.com,torrentgram62.com,torrentgram63.com,torrentgram64.com,torrentgram65.com,torrentgram66.com,torrentgram67.com,torrentgram68.com,torrentgram69.com,torrentgram70.com,torrentgram71.com,torrentgram72.com,torrentgram73.com,torrentgram74.com###body_text > .at-main.at-col[style]
+torrentbam89.com,torrentbam90.com,torrentbam91.com,torrentbam92.com,torrentbam93.com,torrentbam94.com,torrentbam95.com,torrentbam96.com,torrentbam97.com,torrentbam98.com,torrentbam99.com,torrentbam100.com,torrentbam101.com,torrentbam102.com,torrentbam103.com,torrentbam104.com##a[href*="/ad/"][target="_blank"]
+torrentbot99.com,torrentbot100.com,torrentbot101.com,torrentbot102.com,torrentbot103.com,torrentbot104.com,torrentbot105.com,torrentbot106.com,torrentbot107.com,torrentbot108.com,torrentbot109.com,torrentbot110.com,torrentbot111.com,torrentbot112.com##a[href^="/go/"][target="_blank"]
+ktxtorrent92.com,ktxtorrent93.com,ktxtorrent94.com,ktxtorrent95.com,ktxtorrent96.com,ktxtorrent97.com,ktxtorrent98.com,ktxtorrent99.com,ktxtorrent100.com,ktxtorrent101.com,ktxtorrent102.com,ktxtorrent103.com,ktxtorrent104.com,ktxtorrent105.com,ktxtorrent106.com##img[src*=".imgbox.com/"]
+torrentsome104.com,torrentsome105.com,torrentsome106.com,torrentsome107.com,torrentsome108.com,torrentsome109.com,torrentsome110.com,torrentsome111.com,torrentsome112.com,torrentsome113.com,torrentsome114.com,torrentsome115.com,torrentsome116.com##a[href^="/go/"][target="_blank"]
+torrentrj109.com,torrentrj110.com,torrentrj111.com,torrentrj112.com,torrentrj113.com,torrentrj114.com,torrentrj115.com,torrentrj116.com,torrentrj117.com,torrentrj118.com,torrentrj119.com,torrentrj120.com,torrentrj121.com,torrentrj122.com,torrentrj123.com,torrentrj124.com##a[href^="/go/"][target="_blank"]
+bobaelink53.xyz,bobaelink54.xyz,bobaelink55.xyz,bobaelink56.xyz,bobaelink57.xyz,bobaelink58.xyz,bobaelink59.xyz,bobaelink60.xyz,bobaelink61.xyz,bobaelink62.xyz,bobaelink63.xyz,bobaelink64.xyz##a[href^="/ad-"]
 uuoobe.com##td[valign="top"] ~ td[width][valign][bgcolor][align] table[width][height][border][cellpadding]
 uuoobe.com##table[width][cellspacing] td[valign="top"] table[width][border="0"] td[height="100"]
 filetender.com###banner
 filetender.com##iframe[src="https://filetender.com/mobon.html"]
 moviepang.net##.sidebar[style] > aside[id^="text-"][class] ~ aside[id^="text-"][class]
-frtoon173.com,frtoon174.com,frtoon175.com,frtoon176.com,frtoon177.com,frtoon178.com,frtoon179.com,frtoon180.com,frtoon181.com,frtoon182.com,frtoon183.com,frtoon184.com,frtoon185.com,frtoon186.com##.ad-form > .row > div[class^="col-md-"]
-funbe261.com,funbe262.com,funbe263.com,funbe264.com,funbe265.com,funbe266.com,funbe267.com,funbe268.com,funbe269.com,funbe270.com,funbe271.com,funbe272.com,funbe273.com,funbe274.com,funbe275.com##div[class$="mobile-banner"][style]
+frtoon181.com,frtoon182.com,frtoon183.com,frtoon184.com,frtoon185.com,frtoon186.com,frtoon187.com,frtoon188.com,frtoon189.com,frtoon190.com,frtoon191.com,frtoon192.com,frtoon193.com,frtoon194.com##.ad-form > .row > div[class^="col-md-"]
+funbe276.com,funbe277.com,funbe278.com,funbe279.com,funbe280.com,funbe281.com,funbe282.com,funbe283.com,funbe284.com,funbe285.com,funbe286.com,funbe287.com,funbe288.com,funbe289.com,funbe290.com##div[class$="mobile-banner"][style]
 toon123.com##main > section[style]:not([class])
 anilife.live##.MainBnnWrap
-manaboza35.com,manaboza36.com,manaboza37.com,manaboza38.com,manaboza39.com,manaboza40.com,manaboza41.com,manaboza42.com,manaboza43.com,manaboza44.com,manaboza45.com,manaboza46.com##.payment_fullbnr
-manaboza35.com,manaboza36.com,manaboza37.com,manaboza38.com,manaboza39.com,manaboza40.com,manaboza41.com,manaboza42.com,manaboza43.com,manaboza44.com,manaboza45.com,manaboza46.com##.comic_bot_bnr
+manaboza41.com,manaboza42.com,manaboza43.com,manaboza44.com,manaboza45.com,manaboza46.com,manaboza47.com,manaboza48.com,manaboza49.com,manaboza50.com,manaboza51.com,manaboza52.com##.payment_fullbnr
+manaboza41.com,manaboza42.com,manaboza43.com,manaboza44.com,manaboza45.com,manaboza46.com,manaboza47.com,manaboza48.com,manaboza49.com,manaboza50.com,manaboza51.com,manaboza52.com##.comic_bot_bnr
 torrentmode.com##a[href^="https://torrentmode.com/bbs/bannerhit.php"]
-agit310.com,agit311.com,agit312.com,agit313.com,agit314.com,agit315.com,agit316.com,agit317.com,agit318.com,agit319.com,agit320.com,agit321.com##.container.banner + .banner
-newtoon177.com,newtoon178.com,newtoon179.com,newtoon180.com,newtoon181.com,newtoon182.com,newtoon183.com,newtoon184.com,newtoon185.com,newtoon186.com,newtoon187.com##.ad-form > .row > div[class^="col-md-"]
-blacktoon246.com,blacktoon247.com,blacktoon248.com,blacktoon249.com,blacktoon250.com,blacktoon251.com,blacktoon252.com,blacktoon253.com,blacktoon254.com,blacktoon255.com,blacktoon256.com,blacktoon257.com##.banner.container > .row > .col-6
-newtoki294.com,newtoki295.com,newtoki296.com,newtoki297.com,newtoki298.com,newtoki299.com,newtoki300.com,newtoki301.com,newtoki302.com,newtoki303.com,newtoki304.com,newtoki305.com###hd_pop
-booktoki294.com,booktoki295.com,booktoki296.com,booktoki297.com,booktoki298.com,booktoki299.com,booktoki300.com,booktoki301.com,booktoki302.com,booktoki303.com,booktoki304.com,booktoki305.com,booktoki306.com,booktoki307.com,booktoki308.com,booktoki309.com###hd_pop
-newtoki294.com,newtoki295.com,newtoki296.com,newtoki297.com,newtoki298.com,newtoki299.com,newtoki300.com,newtoki301.com,newtoki302.com,newtoki303.com,newtoki304.com,newtoki305.com##div[id].col-15
-booktoki294.com,booktoki295.com,booktoki296.com,booktoki297.com,booktoki298.com,booktoki299.com,booktoki300.com,booktoki301.com,booktoki302.com,booktoki303.com,booktoki304.com,booktoki305.com,booktoki306.com,booktoki307.com,booktoki308.com,booktoki309.com##img[src^="/tokinbtoki/"]
-toonkor282.com,toonkor283.com,toonkor284.com,toonkor285.com,toonkor286.com,toonkor287.com,toonkor288.com,toonkor289.com,toonkor290.com,toonkor291.com,toonkor292.com,toonkor293.com##.bnt > div[class^="bancol"]
-toonkor282.com,toonkor283.com,toonkor284.com,toonkor285.com,toonkor286.com,toonkor287.com,toonkor288.com,toonkor289.com,toonkor290.com,toonkor291.com,toonkor292.com,toonkor293.com###containerCol .at-content .contents > a[href][target] > img[src^="/bann/"]
-toonkor282.com,toonkor283.com,toonkor284.com,toonkor285.com,toonkor286.com,toonkor287.com,toonkor288.com,toonkor289.com,toonkor290.com,toonkor291.com,toonkor292.com,toonkor293.com##div[class$="mobile-banner"][style]
-manatoki294.net,manatoki295.net,manatoki296.net,manatoki297.net,manatoki298.net,manatoki299.net,manatoki300.net,manatoki301.net,manatoki302.net,manatoki303.net,manatoki304.net,manatoki305.net,manatoki306.net##[style="margin-bottom: 20px;"].row.row-15
-manatoki294.net,manatoki295.net,manatoki296.net,manatoki297.net,manatoki298.net,manatoki299.net,manatoki300.net,manatoki301.net,manatoki302.net,manatoki303.net,manatoki304.net,manatoki305.net,manatoki306.net##.basic-banner.row.row-10
-manatoki294.net,manatoki295.net,manatoki296.net,manatoki297.net,manatoki298.net,manatoki299.net,manatoki300.net,manatoki301.net,manatoki302.net,manatoki303.net,manatoki304.net,manatoki305.net,manatoki306.net##.board-tail-banner
+newtoon185.com,newtoon186.com,newtoon187.com,newtoon188.com,newtoon189.com,newtoon190.com,newtoon191.com,newtoon192.com,newtoon193.com,newtoon194.com,newtoon195.com##.ad-form > .row > div[class^="col-md-"]
+blacktoon253.com,blacktoon254.com,blacktoon255.com,blacktoon256.com,blacktoon257.com,blacktoon258.com,blacktoon259.com,blacktoon260.com,blacktoon261.com,blacktoon262.com,blacktoon263.com,blacktoon264.com##.banner.container > .row > .col-6
+newtoki303.com,newtoki304.com,newtoki305.com,newtoki306.com,newtoki307.com,newtoki308.com,newtoki309.com,newtoki310.com,newtoki311.com,newtoki312.com,newtoki313.com,newtoki314.com###hd_pop
+booktoki303.com,booktoki304.com,booktoki305.com,booktoki306.com,booktoki307.com,booktoki308.com,booktoki309.com,booktoki310.com,booktoki311.com,booktoki312.com,booktoki313.com,booktoki314.com,booktoki315.com,booktoki316.com,booktoki317.com,booktoki318.com###hd_pop
+newtoki303.com,newtoki304.com,newtoki305.com,newtoki306.com,newtoki307.com,newtoki308.com,newtoki309.com,newtoki310.com,newtoki311.com,newtoki312.com,newtoki313.com,newtoki314.com##div[id].col-15
+booktoki303.com,booktoki304.com,booktoki305.com,booktoki306.com,booktoki307.com,booktoki308.com,booktoki309.com,booktoki310.com,booktoki311.com,booktoki312.com,booktoki313.com,booktoki314.com,booktoki315.com,booktoki316.com,booktoki317.com,booktoki318.com##img[src^="/tokinbtoki/"]
+toonkor283.com,toonkor284.com,toonkor285.com,toonkor286.com,toonkor287.com,toonkor288.com,toonkor289.com,toonkor290.com,toonkor291.com,toonkor292.com,toonkor293.com,toonkor294.com##.bnt > div[class^="bancol"]
+toonkor283.com,toonkor284.com,toonkor285.com,toonkor286.com,toonkor287.com,toonkor288.com,toonkor289.com,toonkor290.com,toonkor291.com,toonkor292.com,toonkor293.com,toonkor294.com###containerCol .at-content .contents > a[href][target] > img[src^="/bann/"]
+toonkor283.com,toonkor284.com,toonkor285.com,toonkor286.com,toonkor287.com,toonkor288.com,toonkor289.com,toonkor290.com,toonkor291.com,toonkor292.com,toonkor293.com,toonkor294.com##div[class$="mobile-banner"][style]
+manatoki303.net,manatoki304.net,manatoki305.net,manatoki306.net,manatoki307.net,manatoki308.net,manatoki309.net,manatoki310.net,manatoki311.net,manatoki312.net,manatoki313.net,manatoki314.net,manatoki315.net##[style="margin-bottom: 20px;"].row.row-15
+manatoki303.net,manatoki304.net,manatoki305.net,manatoki306.net,manatoki307.net,manatoki308.net,manatoki309.net,manatoki310.net,manatoki311.net,manatoki312.net,manatoki313.net,manatoki314.net,manatoki315.net##.basic-banner.row.row-10
+manatoki303.net,manatoki304.net,manatoki305.net,manatoki306.net,manatoki307.net,manatoki308.net,manatoki309.net,manatoki310.net,manatoki311.net,manatoki312.net,manatoki313.net,manatoki314.net,manatoki315.net##.board-tail-banner
 103.204.13.68##.product-banner
 103.204.13.68##div[class^="mobile-m ad720_"]
 !
