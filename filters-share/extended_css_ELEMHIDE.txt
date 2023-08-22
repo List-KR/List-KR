@@ -1,3 +1,4 @@
+pcmap.place.naver.com#?#div[data-nclicks-area-code] > div[class="place_section"]:not([data-nclicks-area-code]):has(div[id*="_ad_"])
 shopping.interpark.com#?#.productSortingList > .listTitle:has(a[aria-describedby^="adLayerChoice"])
 geekorea.com#?#.gb-container > .container-widget:has(ins.adsbygoogle)
 issue.dcinside.com#?##__next header + section ~ div:has(article[style*="fit-content"] iframe[id^="google_ads_iframe_"])

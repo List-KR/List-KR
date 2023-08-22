@@ -79,7 +79,6 @@ maxmovie.com##div[id^="ad"][class^="ad"][style]
 mrealfoods.heraldcorp.com##.wrap > div[id^="AD_MOBILE_VIEW"] ~ div[style^="width:"]
 m.dcinside.com##.power-tit
 kormedi.com##.articleTxtAD
-pcmap.place.naver.com##div[data-nclicks-area-code] > div[class="place_section"]:not([data-nclicks-area-code])
 dt.co.kr##center + .bk20
 dt.co.kr##iframe[src*="//adreal.dt.co.kr/"]
 dt.co.kr##iframe[src*="dt.co.kr/ad.html"]
