@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+gugomah.tistory.com##.poketory_sidebar > b
 web.humoruniv.com###wrap_cnts > div[style*="min-height:"]
 inven.co.kr##.invenbanner
 m.shop.interpark.com##.productListWrapper > .loadWrap
