@@ -704,6 +704,8 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/^https:\/\/sonagitv\.[a-z]+\/images\/banner\/(?!webtoon_)/$domain=sonagitv.*
+||i.imgur.com^$domain=sonagitv.*
 ||i.ibb.co^$domain=19size.me
 ||i.imgur.com^$domain=19size.me
 ||xn--h10b90b998c.*/img/$domain=xn--h10b90b998c.*
@@ -772,7 +774,6 @@
 /^https:\/\/linkeye[0-9]+\.com\/data\/file\/banner\//
 ||static.springbuilder.site/fs/userFiles-v2/$domain=img.imimggggg87878.com
 ||i.imgur.com^$domain=img.imimggggg87878.com
-/^https:\/\/s[0-9]+\.sonagitv\.[a-z]+\/sonagi[0-9]*_media\/sites\/[0-9]+\/[0-9]+\/[0-9]+\/(?!(SSNGINDSALC|cropped|sonagitvlogo))[a-z0-9-]+\./$domain=sonagitv.*
 ||hellven.net/data/apms/imgb/
 ||toonthe.com/img/banner/
 /^https:\/\/hohotoon[0-9]+\.com\/data\/banner\//
