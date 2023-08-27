@@ -2,7 +2,7 @@
 
 [List-KR 위키에 방문](https://github.com/List-KR/List-KR/wiki)하여 AdGuard, uBlock Origin, 그리고 List-KR에 대해 더 알아볼 수 있습니다.
 
-관련된 질문은 [List-KR Discussions](https://github.com/List-KR/List-KR/discussions)에 남겨주세요.
+관련된 질문은 [List-KR Discussions](https://github.com/orgs/List-KR/discussions)에 남겨주세요.
 
 ---
 
