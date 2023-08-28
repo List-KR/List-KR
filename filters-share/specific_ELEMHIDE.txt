@@ -761,7 +761,7 @@ happymoney.co.kr###content  > .mainBanner
 cultureland.co.kr##.slider > div[id$="_popup"]
 cultureland.co.kr##.main-evn > .main-visual
 tcafe2a.com##.side-event-img
-m.inven.co.kr,nownews.seoul.co.kr,ksg.co.kr,paxnet.co.kr,chosun.com##div[class$="Ad"]
+goodgag.net,m.inven.co.kr,nownews.seoul.co.kr,ksg.co.kr,paxnet.co.kr,chosun.com##div[class$="Ad"]
 game.dcinside.com,gall.dcinside.com##.con_banner
 tvchak.com###advertiseInPlayer
 cafe.naver.com###plugFloatingBannerDiv
