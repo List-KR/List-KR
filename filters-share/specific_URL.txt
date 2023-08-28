@@ -704,6 +704,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+||tvhot.cc/b/
 /^https:\/\/sonagitv\.[a-z]+\/images\/banner\/(?!webtoon_)/$domain=sonagitv.*
 ||i.imgur.com^$domain=sonagitv.*
 ||i.ibb.co^$domain=19size.me
