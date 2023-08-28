@@ -43,6 +43,8 @@ spotvnow.co.kr##+js(no-xhr-if, imasdk.googleapis.com/js/sdkloader/ima3.js)
 spotvnow.co.kr##+js(no-fetch-if, imasdk.googleapis.com/js/sdkloader/ima3.js)
 spotvnow.co.kr##+js(no-xhr-if, pagead2.googlesyndication.com/pagead/js/adsbygoogle.js)
 spotvnow.co.kr##+js(no-fetch-if, pagead2.googlesyndication.com/pagead/js/adsbygoogle.js)
+! aagag.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=aagag.com
 !
 3dpchip.com##+js(acis, chp_ads_blocker_detector)
 3dpchip.com##+js(aopw, HTMLAnchorElement.prototype.onclick)
@@ -51,7 +53,6 @@ spotvnow.co.kr##+js(no-fetch-if, pagead2.googlesyndication.com/pagead/js/adsbygo
 @@||static.dable.io/dist/plugin.min.js$domain=maxmovie.com
 ||advimg.ad-mapps.com/sdk/M_PLUS/Image/$redirect=2x2.png,domain=maxmovie.com
 ||mtag.mman.kr/get_ad.mezzo/$xmlhttprequest,redirect=noop.txt,domain=maxmovie.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=aagag.com
 sysnet.pe.kr##+js(nostif, banner_book)
 @@||new-in.pmirnc.com/public/fingerprint2.js$script
 op.gg#$##top-banner-ad { height: 1px !important; position: absolute !important; }

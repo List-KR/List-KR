@@ -87,6 +87,15 @@ spotvnow.co.kr#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com/pag
 @@||mtag.mman.kr/get_ad.mezzo/$xmlhttprequest,domain=maxmovie.com
 @@||advimg.ad-mapps.com/sdk/M_PLUS/Image/$domain=maxmovie.com
 !#endif
+! aagag.com
+!#if (adguard_app_windows || adguard_app_mac || adguard_app_android)
+||a.aagag.com/js/AAGAG_AA.js$replace=/https:\/\/pagead2\.googlesyndication\.com\/pagead\/js\/adsbygoogle\.js/\//
+||a.aagag.com/js/AAGAG_AA.js$replace=/(result\.indexOf\('(google-adsense|googlesyndication)'\))>-1/\$1>=0/
+!#endif
+!#if (adguard_app_ios || adguard_ext_android_cb)
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=aagag.com,xmlhttprequest
+!#endif
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,redirect=googlesyndication-adsbygoogle,domain=aagag.com
 !
 !#if (adguard_app_android)
 sellas.ink,1412.rest#$#[class^="document_"].xe_content { display: block !important; height: 100% !important; }
@@ -104,10 +113,6 @@ sellas.ink,1412.rest#%#//scriptlet('set-constant', 'adError', 'noopFunc')
 @@||static.dable.io/dist/plugin.min.js$domain=3dpchip.com
 !#endif
 3dpchip.com#%#//scriptlet('abort-on-property-write', 'HTMLAnchorElement.prototype.onclick')
-!#if (adguard_app_ios || adguard_ext_android_cb)
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=aagag.com,xmlhttprequest
-!#endif
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,redirect=googlesyndication-adsbygoogle,domain=aagag.com
 sysnet.pe.kr#%#//scriptlet('prevent-setTimeout', 'banner_book')
 !#safari_cb_affinity(privacy)
 @@||new-in.pmirnc.com/public/fingerprint2.js$script
