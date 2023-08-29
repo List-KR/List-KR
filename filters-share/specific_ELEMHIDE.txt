@@ -1002,6 +1002,8 @@ osen.mt.co.kr##div#close_mask
 !
 ! DOMAIN-REFRESHER: START
 !
+tvhot.*##div[id*="-banner-"]
+tvhot.*###body_wrap > div[class][style^="margin:"]
 sonagitv.*##a[href][target="_blank"] > img[src^="/images/banner/"]:not([src^="/images/banner/webtoon_"])
 19size.me###advertising
 19size.me###hd_pop
