@@ -1,3 +1,4 @@
+||ads-api.kidsnote.com^
 ||i18n-pglstatp.com^
 ||unityads.unity3d.com^
 ||pangolin*.sgsnssdk.com^
