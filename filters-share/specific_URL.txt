@@ -1,3 +1,4 @@
+||click.linkprice.com/lpfront/coupang_iframe.php
 ||shopping.interpark.com/resources/js/common/powerLink.js
 ||shopping.interpark.com/static/styles/pages/powerLink.css
 ||shopapi.interpark.com/advertisement/
