@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+kyobobook.co.kr##div[name="popAdv"]
 gugomah.tistory.com##.poketory_sidebar > b
 web.humoruniv.com###wrap_cnts > div[style*="min-height:"]
 inven.co.kr##.invenbanner
@@ -374,7 +375,6 @@ focus.daum.net##div[data-tiara-layer="ad"]
 cbinews.co.kr##article table[align] td[height]
 humoruniv.com###wrap_mdd ~ div[style*="height:"]
 humoruniv.com###wrap_cnts > div[style^="margin:"]
-kyobobook.co.kr##div[id^="bodyDialog"]:not([style*="top: "]).open
 ibabynews.com###article-view-content-div div[class$="-banner"]
 autopostkorea.com##.tagdiv-type .best_news_wrap_mo
 ygosunews.com,autopostkorea.com##.td-pb-span4.td-main-sidebar
