@@ -2,3 +2,5 @@
 root: true
 extends:
   - aglint:recommended
+syntax:
+  - Common
