@@ -14,7 +14,7 @@ x86.co.kr,1004lucifer.blogspot.com,te31.com,tistory.com##+js(aopr, adBlockDetect
 plankim.com##+js(acis, ai_adb.init)
 jootc.com,ehpub.co.kr##+js(acis, ai_run_scripts)
 ! fundingchoicesmessages.google.com
-||fundingchoicesmessages.google.com^$domain=sellas.ink|hunigo.com|op.gg|windowsforum.kr|iteastory.com|snskeyboard.com|rdsong.com|mongri.net|meeco.kr|poketory.com|youthassembly.kr|kr.jugomobile.com|1412.rest|pyrasis.com|oceansabyss.com|yongtj.com|dora-guide.com|tailstar.net|creativestudio.kr|gamejay.net|mksports.co.kr|sisamagazine.co.kr|dreamrail.co.kr|tistory.com|gukjenews.com|issuelink.co.kr|webtool.cusis.net|koreaminecraft.net
+||fundingchoicesmessages.google.com^$domain=sellas.ink|hunigo.com|op.gg|windowsforum.kr|iteastory.com|snskeyboard.com|rdsong.com|mongri.net|meeco.kr|poketory.com|youthassembly.kr|kr.jugomobile.com|1412.live|pyrasis.com|oceansabyss.com|yongtj.com|dora-guide.com|tailstar.net|creativestudio.kr|gamejay.net|mksports.co.kr|sisamagazine.co.kr|dreamrail.co.kr|tistory.com|gukjenews.com|issuelink.co.kr|webtool.cusis.net|koreaminecraft.net
 ! Kakao TV
 /^https:\/\/videoads\.kakao\.com\/adserver\/api\/v[0-9]+\/vmap/$redirect=noop.txt,domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
 tv.kakao.com,play-tv.kakao.com,kakaotv.daum.net##+js(no-xhr-if, /^https.\/\/videoads\.kakao\.com\/adserver\/api\/v[0-9]{1,2}\/vmap$/)
@@ -71,11 +71,11 @@ avdbs.com##+js(aopr, ad_blk)
 genshin.gamedot.org##+js(nostif, blockCheck2022)
 errornight.com##+js(aost, alert, chk_adBlock)
 ||ssl.pstatic.net/tveta/libs/ssp-video/prod/ssp.web.sdk_$script,redirect=noop.js,domain=m.sports.naver.com
-sellas.ink,1412.rest#@#.ads
+sellas.ink,1412.live#@#.ads
 remiz.co.kr#@#ins.adsbygoogle
 remiz.co.kr#@#.googleAd
 remiz.co.kr#@##googleAd
-sellas.ink,1412.rest#@##google_ads
+sellas.ink,1412.live#@##google_ads
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=tsuvod.com
 somenotes247.blogspot.com#@#.vertical-ads
 mnews.jtbc.co.kr#@#.ad_bottom
