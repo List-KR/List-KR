@@ -1,3 +1,4 @@
+m.ppomppu.co.kr#?#.ct > .bbs > #bbs_inform li:has(span ~ a[onclick^="informAdClick"])
 kyobobook.co.kr#?#div[id^="bodyDialog"]:not([style*="top: "]).open:has(img[src*="kyobobook.co.kr/newimages/adcenter"])
 pcmap.place.naver.com#?#div[data-nclicks-area-code] > div[class="place_section"]:not([data-nclicks-area-code]):has(div[id*="_ad_"])
 shopping.interpark.com#?#.productSortingList > .listTitle:has(a[aria-describedby^="adLayerChoice"])
@@ -19,7 +20,6 @@ search.shopping.naver.com#?#div[class^="style_section_row_"] > div[class*=" asid
 search.shopping.naver.com#?##section_recommend div[class^="productList_list_area_"] li[class^="productList_item_"]:has(a[href*="//adcr.naver.com/"])
 search.shopping.naver.com#?#div[class^="style_section_row_"] ul[class*="asideBrand_brand_"] > li:has(a[href*="//adcr.naver.com/adcr"])
 acmicpc.net#?#.text-center > a[onclick^="App.trackOutboundLink"]:has(> img[src^="https://upload.acmicpc.net"][class^="visible-"][class$="-block"])
-m.ppomppu.co.kr#?#.community-board-notice-box #bbs_inform:has(a[href*="//s.ppomppu.co.kr?target="])
 m.ruliweb.com#?#.board_main .user_view_target ~ .row:not(:has(.source_url))
 enuri.com#?#.m-row > div[class^="col col-"]:not(:has(> .col__inner a:not([href*="ad-api.enuri.info"]))):has(.bnrbox ul[id][class^="bnr__"])
 gigglehd.com#?##gap > div[style*=": "].xe-widget-wrapper:has(.widget_banner_skin > .banner_list)
