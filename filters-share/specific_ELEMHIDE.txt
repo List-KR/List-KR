@@ -45,7 +45,7 @@ m.inven.co.kr##section[class*="-ad"]
 ! ##div[id*="-ad"]
 dpg.danawa.com,m.hani.co.kr##div[id*="-ad"]
 ! ##div[id*="Ad"]
-m.sportschosun.com,m.wowtv.co.kr,m.eye.seoul.co.kr,news.nate.com,m.seoul.co.kr##div[id*="Ad"]
+m.sports.chosun.com,m.sportschosun.com,m.wowtv.co.kr,m.eye.seoul.co.kr,news.nate.com,m.seoul.co.kr##div[id*="Ad"]
 ! ##div[class*="ad_"]
 search.zum.com,philgo.com,vop.co.kr,donga.com,paxnet.co.kr##div[class*="ad_"]
 ! ##div[class*="ad-"]
@@ -59,7 +59,7 @@ sports.donga.com##div[id*="_AD"]
 !
 mnews.imaeil.com##div[class$="_ad"][style] + .h20
 mnews.imaeil.com##.article_view > .p_space + div + .h20
-m.sportschosun.com##iframe[src^="/ad/"]
+m.sports.chosun.com,m.sportschosun.com##iframe[src^="/ad/"]
 kyobobook.co.kr##div[name="popAdv"]
 gugomah.tistory.com##.poketory_sidebar > b
 web.humoruniv.com###wrap_cnts > div[style*="min-height:"]
