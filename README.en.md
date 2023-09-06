@@ -1,6 +1,6 @@
 # List-KR
 
-You can learn more about AdGuard, uBlock Origin, and List-KR by [visiting List-KR wiki](https://github.com/List-KR/List-KR/wiki).
+You can learn more about AdGuard, uBlock Origin, and List-KR by [visiting List-KR community pages](https://list-kr-community.pages.dev).
 
 Please leave related questions on [List-KR Discussions](https://github.com/List-KR/List-KR/discussions).
 
@@ -42,8 +42,7 @@ Using the only functions provided by ad blocker cannot block complex ads effecti
 
 If you have a website you use below, use UserScript.
 
-- **[microShield](https://github.com/List-KR/microShield/blob/main/README.ko.md)** blocks ads on AdShield installed websites.
-- **[NamuLink](https://github.com/List-KR/NamuLink/blob/main/README.ko.md)** blocks powerlink ads on Namu wiki.
+To learn more, please refer [List-KR community pages](https://list-kr-community.pages.dev).
 
 ### Naver Cafe
 

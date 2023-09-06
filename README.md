@@ -1,6 +1,6 @@
 # List-KR
 
-[List-KR 위키에 방문](https://list-kr-community.pages.dev)하여 AdGuard, uBlock Origin, 그리고 List-KR에 대해 더 알아볼 수 있습니다.
+[List-KR 커뮤니티 페이지에 방문](https://list-kr-community.pages.dev)하여 AdGuard, uBlock Origin, 그리고 List-KR에 대해 더 알아볼 수 있습니다.
 
 관련된 질문은 [List-KR Discussions](https://github.com/orgs/List-KR/discussions)에 남겨주세요.
 
@@ -43,8 +43,7 @@ https://cdn.jsdelivr.net/gh/adguardteam/HostlistsRegistry@main/assets/filter_25.
 
 사용하시는 웹 사이트가 아래 있다면 유저스크립트를 사용하십시오.
 
-- [**microShield**](https://github.com/List-KR/microShield/blob/main/README.ko.md)는 애드쉴드가 설치된 웹 사이트 광고를 차단합니다.
-- [**NamuLink**](https://github.com/List-KR/NamuLink/blob/main/README.md)는 나무위키 파워링크 광고를 차단합니다.
+자세한 설치 방법은 [List-KR 커뮤니티 페이지에 방문](https://list-kr-community.pages.dev)하여 참고해주세요.
 
 ### 네이버 카페
 
