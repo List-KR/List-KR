@@ -88,7 +88,7 @@ spotvnow.co.kr#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com/pag
 @@||advimg.ad-mapps.com/sdk/M_PLUS/Image/$domain=maxmovie.com
 !#endif
 ! aagag.com
-!#if (adguard_app_windows || adguard_app_mac || adguard_app_android)
+!#if (adguard_app_windows || adguard_app_mac || adguard_app_android || adguard_ext_firefox)
 ||a.aagag.com/js/AAGAG_AA.js$replace=/https:\/\/pagead2\.googlesyndication\.com\/pagead\/js\/adsbygoogle\.js/\//
 ||a.aagag.com/js/AAGAG_AA.js$replace=/result\.indexOf\('(google-adsense|googlesyndication)'\)/result.indexOf('')/
 ||a.aagag.com/js/AAGAG_AA.js$replace=/result\.length>[0-9]+/true/
