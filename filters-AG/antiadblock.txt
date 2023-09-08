@@ -90,12 +90,10 @@ spotvnow.co.kr#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com/pag
 ! aagag.com
 !#if (adguard_app_windows || adguard_app_mac || adguard_app_android)
 ||a.aagag.com/js/AAGAG_AA.js$replace=/https:\/\/pagead2\.googlesyndication\.com\/pagead\/js\/adsbygoogle\.js/\//
-||a.aagag.com/js/AAGAG_AA.js$replace=/(result\.indexOf\('(google-adsense|googlesyndication)'\))>-1/\$1>=0/
+||a.aagag.com/js/AAGAG_AA.js$replace=/result\.indexOf\('(google-adsense|googlesyndication)'\)/result.indexOf('')/
+||a.aagag.com/js/AAGAG_AA.js$replace=/result\.length>[0-9]+/true/
 !#endif
-!#if (adguard_app_ios || adguard_ext_android_cb)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=aagag.com,xmlhttprequest
-!#endif
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,redirect=googlesyndication-adsbygoogle,domain=aagag.com
 !
 !#if (adguard_app_android)
 bera.world,sellas.ink,1412.live#$#[class^="document_"].xe_content { display: block !important; height: 100% !important; }
