@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+ppomppu.co.kr##.together_goods
 slrclub.com##div[id$="banner"][style]
 quasarzone.com##.sponsor-logo-wrap
 mnews.imaeil.com##div[class$="_ad"][style] + .h20
@@ -286,7 +287,7 @@ segyebiz.com##article > div[id^="wps_layout"] > div[style*="height:"]
 hellot.net##.wrapper > div[style*=" "]#container > div:not([class])
 meeco.kr###cCon + aside.sidebar2
 pushoong.com##div[id*="_banner_"]
-m.ppomppu.co.kr##div[id^="div_new_power_link_"]
+ppomppu.co.kr##div[id^="div_new_power_link_"]
 itworld.co.kr##.bg-gray-5 > .list-group-flush
 m.compuzone.co.kr##div[class*="_main_ban"]
 philgo.com##.content .left-wing > div
