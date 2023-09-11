@@ -58,7 +58,7 @@ eegosa.com##section[id*="_ads_"]
 sports.donga.com##div[id*="_AD"]
 !
 ppomppu.co.kr##.together_goods
-slrclub.com##div[id$="banner"][style]
+slrclub.com##div[style^="height:"]#slrclub
 quasarzone.com##.sponsor-logo-wrap
 mnews.imaeil.com##div[class$="_ad"][style] + .h20
 mnews.imaeil.com##.article_view > .p_space + div + .h20

@@ -1,5 +1,6 @@
+||slrclub.com/bbs/thumb.php*naver_ads
+||slrclub.com/js/bbs_viewban.js
 ||pigpeople.net/data/banner/
-||slrclub.com/class/banner/
 ||etfcheck.co.kr/assets/img/banner/
 ||click.linkprice.com/lpfront/coupang_iframe.php
 ||shopping.interpark.com/resources/js/common/powerLink.js
