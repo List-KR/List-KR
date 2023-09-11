@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+danawa.com###danawa_wrap > .ttop_banner
 ppomppu.co.kr##.together_goods
 slrclub.com##div[style^="height:"]#slrclub
 quasarzone.com##.sponsor-logo-wrap
