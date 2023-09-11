@@ -775,7 +775,6 @@ cafe.naver.com###plugFloatingBannerDiv
 game.naver.com##div[class^="styles_Banner"]
 coinpan.com##img[class^="banner_"]
 blackkiwi.net##div[class^="style__GoogleAdSenseContainer-"]
-auth.danawa.com###loginBottomBanner
 prod.danawa.com###ebayPowerClickBottomArea
 kimpga.com##div.max-w-screen-lg > .relative > div > div[class=""]:nth-child(1)
 m.danawa.com##.goods-list__ad
