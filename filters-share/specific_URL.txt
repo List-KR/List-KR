@@ -233,7 +233,7 @@
 ||gamefocus.co.kr/bncode2/banner_
 ||gamefocus.co.kr/taboolacode/
 ||gamefocus.co.kr/img_mobile/bn_main_*_m.
-||t1.daumcdn.net/kas/static/na.min.js
+||t1.daumcdn.net/kas/static/na.min.js$domain=~shoppinghow.kakao.com
 ||api.wikitree.co.kr/api/v1/getArticles.php?*&type=11&
 ||blockmedia.co.kr/wp-content/plugins/advanced-ads/
 ||blockmedia.co.kr/wp-content/uploads/*/Blockfesta_*uprise.
