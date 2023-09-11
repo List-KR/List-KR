@@ -612,8 +612,6 @@
 ||googlesyndication.com/pagead/
 ||api.popin.cc/lib*-lightweight/popIn-*.min.js$domain=dispatch.co.kr
 ||m.ppomppu.co.kr/banner/google_ad.html
-||search.danawa.com/mobile/js/powerClick.min.js
-||search.danawa.com/mobile/ajax/jehuProduct/getPowerLink.ajax.php
 ||prod.danawa.com/bridge/loadingBridgePowerClick.php$document
 ||mobile.newsis.com/ad_list/
 ||img.hani.co.kr/section-image/*/mobile/image/icon/btn_ADclose.png
