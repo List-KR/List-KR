@@ -194,7 +194,7 @@
 ||pbf.lotteon.com/product/*/detail/advertisement/
 ||pbf.lotteon.com/display/*/dpShop/seltDpCorn
 ||sellclub.co.kr/community/data/ad-pay/
-||danawa.com/*/NBP/powerLink.js.php
+||danawa.com/*/NBP/powerLink*.js.php
 /^https:\/\/cdn[0-9]+\.boribori\.co\.kr\/rimg\/(0|110x250)\/cdn\/contents\/disp_corner_conts\//$domain=boribori.co.kr
 ||mzthinks.com/app/data/file/article/banner/
 /^https:\/\/evape\.kr\/data\/editor\/[0-9]+\/[a-z0-9]+_[a-z0-9]+_[a-z0-9]+\./$domain=evape.kr
