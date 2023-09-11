@@ -564,7 +564,6 @@
 ||coinpan.com/modules/sejin7940_banner/tpl/js/banner.js
 ||ilogen.com/static/images/m/min_n_g.png
 ||danawa.com/jehu/selectNBP.json
-||www.danawa.com/NBP/powerLink.php
 ||firebasestorage.googleapis.com/v0/b/kimchi-premium.appspot.com/o/banner-imgs
 ||mdtoday.co.kr/support/_updata/banner
 ||thespike.co.kr/support/_updata/banner
