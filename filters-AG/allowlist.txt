@@ -1,3 +1,7 @@
+auto.danawa.com#%#//scriptlet('set-constant', 'NAVER_ADPOST_V2', 'noopFunc')
+!#if (adguard_app_ios || adguard_ext_android_cb || adguard_ext_android_cb)
+@@||ssl.pstatic.net/adimg3.search/adpost/js/adpost_show_ads_v2.min.js$domain=danawa.com
+!#endif
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb)
 @@||ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js$script,domain=m.cafe.naver.com
 !#endif

@@ -1,1 +1,1 @@
-!
+auto.danawa.com##+js(set, NAVER_ADPOST_V2, noopFunc)
