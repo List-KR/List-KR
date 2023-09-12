@@ -57,6 +57,8 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+www.instiz.net##div[class$="ad_area"]
+instiz.net##div[class^="powerlink_"]
 danawa.com###danawa_wrap > .ttop_banner
 ppomppu.co.kr##.together_goods
 slrclub.com##div[style^="height:"]#slrclub
