@@ -554,7 +554,6 @@ m.search.daum.net##body.nate .section_cont [disp-attr] > #specialMColl
 sundayjournalusa.com##div[style] > a[href][target="_blank"]
 search.daum.net##.content_sponsor
 bobaedream.co.kr##body.body-community div[class*="Car"]
-www.instiz.net,m.instiz.net###menufoot .content div[class*="ad"][style*="padding:"]
 m.instiz.net##body > div[style^="min-height:"]:not([class]):not([id])
 www.instiz.net,m.instiz.net##div[id^="div-"][style*="min-height:"]:not([class])
 www.instiz.net##div[style].content ~ div[class$="ad"][style*="min-height:"]
