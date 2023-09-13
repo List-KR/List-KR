@@ -61,7 +61,7 @@ www.instiz.net##div[class$="ad_area"]
 instiz.net##div[class^="powerlink_"]
 danawa.com###danawa_wrap > .ttop_banner
 ppomppu.co.kr##.together_goods
-slrclub.com##div[style^="height:"]#slrclub
+slrclub.com##div[style^="height"]#slrclub
 quasarzone.com##.sponsor-logo-wrap
 mnews.imaeil.com##div[class$="_ad"][style] + .h20
 mnews.imaeil.com##.article_view > .p_space + div + .h20
