@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+slrclub.com###slrcf > .cl_spc
 www.instiz.net##div[class$="ad_area"]
 instiz.net##div[class^="powerlink_"]
 danawa.com###danawa_wrap > .ttop_banner
@@ -915,7 +916,6 @@ thisisgame.com##iframe[src^="//ad"][src*=".thisisgame.com/ad"]
 dschool.co.kr##a[href^="/ws/include/banner_link.asp?"][target="_blank"]
 ddanzi.com##.add_display
 m.naver.com##.ISSUE-BANNER-AD
-slrclub.com##ins[class^="adsbyadop_"]
 itcm.co.kr##.top-owl.owl-carousel
 mule.co.kr##.header-center.cf > .header-center-imgbox > a > img[src*="//cdn.mule.co.kr/data/original/"]
 mule.co.kr##div[class^="section-"][class$="-ad"]
