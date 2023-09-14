@@ -4,7 +4,7 @@ watchfreejavonline.co##+js(acis, popMagic.init)
 ! https://github.com/uBlockOrigin/uBlock-issues/issues/2130#issuecomment-1621684566
 apycsports.com##*[class*="not_cookie"]:remove-class(not_cookie)
 !
-digitstar77.com##+js(acis, $.prototype.ready, pi-coupang)
+itinformation.kr,digitstar77.com##+js(nostif, piBlock)
 shopping.interpark.com##+js(set, $is.powerLink.loadPowerLink, noopFunc)
 mlbpark.donga.com##+js(set-attr, #cmtFormTable textarea, cols, 50)
 sbs.co.kr##+js(set, SbsHtml5PlayerContainer.prototype.renderAdSequence, noopFunc)
