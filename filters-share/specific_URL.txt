@@ -1,6 +1,6 @@
-||likeonepiece77.com/wp-content/plugins/bloom/js/custom.js
 ||slrclub.com/bbs/*.php*naver_ads
-||slrclub.com/js/bbs_view$script
+/^https:\/\/www\.slrclub\.com\/js\/bbs_view[a-z]+\.js/$domain=slrclub.com
+||likeonepiece77.com/wp-content/plugins/bloom/js/custom.js
 ||pigpeople.net/data/banner/
 ||etfcheck.co.kr/assets/img/banner/
 ||click.linkprice.com/lpfront/coupang_iframe.php
