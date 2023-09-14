@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+hotword.site##.at-container .at-col div[style^="height:"]:not([class])
 hotword.site##div[class^="col-md-"] div:is([style^="width:"], [style^="min-width:"])
 m.slrclub.com##.comment_inbox ul > li[style^="padding:"]
 slrclub.com###slrcf > .cl_spc
