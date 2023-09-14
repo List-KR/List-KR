@@ -5,6 +5,7 @@ shopping.interpark.com#%#//scriptlet('set-constant', '$is.powerLink.loadPowerLin
 !#if (adguard_app_ios || adguard_ext_safari)
 m.humoruniv.com#%#//scriptlet('abort-on-stack-trace', '$.prototype.html', 'ch')
 !#endif
+digitstar77.com#%#//scriptlet('abort-current-inline-script', '$.prototype.ready', 'pi-coupang')
 mlbpark.donga.com#%#//scriptlet('set-attr', '#cmtFormTable textarea', 'cols', '50')
 sbs.co.kr#%#//scriptlet('set-constant', 'SbsHtml5PlayerContainer.prototype.renderAdSequence', 'noopFunc')
 search.shopping.naver.com#%#//scriptlet('json-prune', 'data.BrandAd')
