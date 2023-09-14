@@ -1,6 +1,6 @@
 issueclick.kr#$#html[style] { overflow: auto !important; }
-issueclick.kr#$#.hideBtn { display: none !important; }
-issueclick.kr#$#.bodyHide { height: auto !important; }
+curiosityblog.co.kr,issueclick.kr#$#.hideBtn { display: none !important; }
+curiosityblog.co.kr,issueclick.kr#$#.bodyHide { height: auto !important; }
 m.shop.interpark.com#$#.topBannerWrapper * { height: 1px !important; }
 shopping.interpark.com#$#.depthContentsWrap .productListWrap .searchList { margin-top: 0px !important; }
 ygosunews.com#$#body { padding-top: 0px !important; }
