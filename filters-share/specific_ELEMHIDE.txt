@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+m.slrclub.com##.comment_inbox ul > li[style^="padding:"]
 slrclub.com###slrcf > .cl_spc
 www.instiz.net##div[class$="ad_area"]
 instiz.net##div[class^="powerlink_"]
