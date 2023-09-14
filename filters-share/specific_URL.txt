@@ -1,3 +1,4 @@
+||likeonepiece77.com/wp-content/plugins/bloom/js/custom.js
 ||slrclub.com/bbs/*.php*naver_ads
 ||slrclub.com/js/bbs_view$script
 ||pigpeople.net/data/banner/
