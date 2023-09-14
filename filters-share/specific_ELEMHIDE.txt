@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+hotword.site##div[class^="col-md-"] div:is([style^="width:"], [style^="min-width:"])
 m.slrclub.com##.comment_inbox ul > li[style^="padding:"]
 slrclub.com###slrcf > .cl_spc
 www.instiz.net##div[class$="ad_area"]
@@ -611,7 +612,7 @@ quasarplay.com##[class^="img_wrapper"]
 hash.kr##div[class^="bann_"]
 hash.kr##div[class^="bnn_"]
 all-mice.co.kr###main_visual
-g-enews.com,cgv.co.kr##div[class$="ad"][style]
+hotword.site,g-enews.com,cgv.co.kr##div[class$="ad"][style]
 cgv.co.kr##div[id$="_PlaceHolderContent_divMovieSelection_wrap"][class]
 quasarplay.com##div[class^="panel_img_bottom_"][style]
 mule.co.kr##.modal-login-wrapper .right-box
