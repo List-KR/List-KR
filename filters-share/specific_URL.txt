@@ -1,5 +1,5 @@
-||slrclub.com/bbs/*.php*naver_ads
-/^https:\/\/www\.slrclub\.com\/js\/bbs_view[a-z]+\.js/$domain=slrclub.com
+||slrclub.com/bbs/*.php*bbsresponse
+/^https:\/\/www\.slrclub\.com\/js\/bbs_view\.js\?ver=[0-9]{12}$/$domain=slrclub.com
 ||likeonepiece77.com/wp-content/plugins/bloom/js/custom.js
 ||pigpeople.net/data/banner/
 ||etfcheck.co.kr/assets/img/banner/
