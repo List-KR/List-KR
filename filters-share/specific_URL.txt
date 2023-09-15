@@ -1,3 +1,4 @@
+||hojunara.com/_files/admin/$image
 ||atlantachosun.com/files/ads/
 ||atlantachosun.com/files/media/
 ||slrclub.com/bbs/*.php*bbsresponse
