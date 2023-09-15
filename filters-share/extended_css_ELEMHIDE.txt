@@ -1,3 +1,4 @@
+atlantachosun.com#?#figure[id^="image-"]:has(> img[src^="/files/media/"])
 ygosu.com#?#table.bd_list tr:has(a[href^="/board/ad/"])
 m.ppomppu.co.kr#?#.ct > .bbs > #bbs_inform li:has(span ~ a[onclick^="informAdClick"])
 kyobobook.co.kr#?#div[id^="bodyDialog"]:not([style*="top: "]).open:has(img[src*="kyobobook.co.kr/newimages/adcenter"])

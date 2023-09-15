@@ -1,3 +1,7 @@
+atlantachosun.com#$#article > div[class^="sc-"] > aside[class*=" "] { display: none !important; }
+atlantachosun.com#$#article > div[class^="sc-"] { grid-template-columns: none !important; }
+atlantachosun.com#$##popup-root { display: none !important; }
+atlantachosun.com#$#body[style] { overflow: auto !important; }
 issueclick.kr#$#html[style] { overflow: auto !important; }
 curiosityblog.co.kr,issueclick.kr#$#.hideBtn { display: none !important; }
 curiosityblog.co.kr,issueclick.kr#$#.bodyHide { height: auto !important; }

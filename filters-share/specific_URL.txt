@@ -1,3 +1,5 @@
+||atlantachosun.com/files/ads/
+||atlantachosun.com/files/media/
 ||slrclub.com/bbs/*.php*bbsresponse
 /^https:\/\/www\.slrclub\.com\/js\/bbs_view\.js\?ver=[0-9]{12}$/$domain=slrclub.com
 ||likeonepiece77.com/wp-content/plugins/bloom/js/custom.js
