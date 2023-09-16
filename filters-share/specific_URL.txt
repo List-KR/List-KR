@@ -1,8 +1,7 @@
+||slrclub.com/bbs/*.php*slrclub.ch*response&ref
 ||hojunara.com/_files/admin/$image
 ||atlantachosun.com/files/ads/
 ||atlantachosun.com/files/media/
-||slrclub.com/bbs/*.php*bbsresponse
-/^https:\/\/www\.slrclub\.com\/js\/bbs_view\.js\?ver=[0-9]{12}$/$domain=slrclub.com
 ||likeonepiece77.com/wp-content/plugins/bloom/js/custom.js
 ||pigpeople.net/data/banner/
 ||etfcheck.co.kr/assets/img/banner/
