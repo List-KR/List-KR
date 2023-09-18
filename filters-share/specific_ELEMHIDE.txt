@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+search.danawa.com##.powershopping
 m.fmkorea.com##.rd_ft > div[style^="margin:"][style*="max-width:"]
 hojunara.com##div[style^="margin-top:"].survey
 hojunara.com##div[class^="ad"] ~ .ranking
