@@ -1,3 +1,6 @@
+||catnews.net/data/mtopbanner/
+||catnews.net/img/banner/banner
+||catnews.net/bbs/img/banner
 ||danawa.com/mobile/ajax/jehuProduct/
 ||danawa.com/mobile/js/powerShopping.min.js
 ||slrclub.com/bbs/*.php*slrclub.ch*response&ref
