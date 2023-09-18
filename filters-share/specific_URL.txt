@@ -1,3 +1,5 @@
+||danawa.com/mobile/ajax/jehuProduct/
+||danawa.com/mobile/js/powerShopping.min.js
 ||slrclub.com/bbs/*.php*slrclub.ch*response&ref
 ||hojunara.com/_files/admin/$image
 ||atlantachosun.com/files/ads/
