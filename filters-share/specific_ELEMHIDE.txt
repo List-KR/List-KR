@@ -47,7 +47,7 @@ dpg.danawa.com,m.hani.co.kr##div[id*="-ad"]
 ! ##div[id*="Ad"]
 m.sports.chosun.com,m.sportschosun.com,m.wowtv.co.kr,m.eye.seoul.co.kr,news.nate.com,m.seoul.co.kr##div[id*="Ad"]
 ! ##div[class*="ad_"]
-search.zum.com,philgo.com,vop.co.kr,donga.com,paxnet.co.kr##div[class*="ad_"]
+search.zum.com,philgo.com,vop.co.kr,paxnet.co.kr##div[class*="ad_"]
 ! ##div[class*="ad-"]
 lol.ps##div[class*="ad-"]
 ! ##div[id^="Banner"]
@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+donga.com##div[id^="adbox_"]
 search.danawa.com##.powershopping
 m.fmkorea.com##.rd_ft > div[style^="margin:"][style*="max-width:"]
 hojunara.com##div[style^="margin-top:"].survey
