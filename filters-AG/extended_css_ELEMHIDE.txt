@@ -6,8 +6,6 @@ search.wemakeprice.com#?#.search_box_listdeal > .list_conts_wrap:has(span:contai
 eomisae.co.kr#?#main#main .eq.section #bd table tr:has(.no ~ .title span:contains([AD]))
 koreatimes.net#?#.container .recent_news_inner:has(> h3:contains(AD))
 namu.wiki#?#div[class*="senkawa"] div[class] > div[id]:not([class]):contains(/^(|[​\n\t ]+)$/)
-m.ppomppu.co.kr#?#.main-menu-group ~ .ct:has(h3:contains(뽐뿌)) .ppList li:has(> a[href*="market"], > a[href*="ppomppu2"], > a[href*="ppomppu7"])
-ppomppu.co.kr#?#.top-nav a[href*="?id=ppomppu"] ~ .sub-menu li:has(> a[href*="market"], > a[href*="ppomppu2"], > a[href*="ppomppu7"])
 tgd.kr#?##article-list > .notice:has(.list-header:contains(AD))
 ypbooks.co.kr#?#.section-intro > .m-latest-renew:has(h3:contains(오늘의 책))
 ypbooks.co.kr#?#.section-intro > .m-latest-renew:has(h3:contains(MD 추천도서))

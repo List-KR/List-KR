@@ -351,15 +351,6 @@
 !#if !adguard_ext_android_cb
 ||t1.daumcdn.net/kas/static/ba.min.js
 !#endif
-||m.ppomppu.co.kr/new/*.php?id=ppomppu2$document
-||m.ppomppu.co.kr/new/*.php?id=ppomppu7$document
-||m.ppomppu.co.kr/new/*.php?id=pmarket$document
-||m.ppomppu.co.kr/new/*.php?id=card_market$document
-||ppomppu.co.kr/zboard/*.php?id=ppomppu2$document
-||ppomppu.co.kr/zboard/*.php?id=ppomppu7$document
-||ppomppu.co.kr/zboard/*.php?id=pmarket$document
-||ppomppu.co.kr/zboard/*.php?id=card_market$document
-||cdn.ppomppu.co.kr/zboard/data/_thumb/pmarket/
 ||tv.nate.com/adv/
 ||pervsi.com/info/skin_board/m/img/coupang.jpeg
 ||uwayapply.com/img/common/frame_bn_btn

@@ -76,12 +76,6 @@ m.ruliweb.com#?#div[id^="list_read_"] ul[class*="_list"] > li:has(a[href][target
 m.ruliweb.com#?#.main_center .line_deco_bottom:has(div[class^="ad_"])
 bbs.ruliweb.com#?#div[id$="_best"] ul[class*="best_list"] li:has(a[href][target="_blank"])
 m.search.daum.net#?#.section_cont div[disp-attr]:has(.adLinkColl)
-m.ppomppu.co.kr#?#.main-menu-group ~ .ct:has(> h3[style] > a[href^="bbs_list.php?id=ppomppu"]) li:has(> a[href*="pmarket"])
-ppomppu.co.kr#?#.top-nav:has(.menu01.active) ~ .container .bbs_title p a[href*="market"]
-ppomppu.co.kr#?#.top-nav:has(.menu01.active) ~ .container .bbs_title p a[href*="ppomppu2"]
-ppomppu.co.kr#?#.top-nav:has(.menu01.active) ~ .container .bbs_title p a[href*="ppomppu7"]
-ppomppu.co.kr#?##header_box:has(.bbs_title a[href$="?id=ppomppu"]) ~ table#revolution_main_table tr[class^="list"]:has(table a[href*="?id=pmarket&"])
-ppomppu.co.kr#?##header_box:has(.bbs_title a[href$="?id=ppomppu"]) ~ table#revolution_main_table tr[class]:matches-css(display: none) + tr:not([class])
 infosori.com#?#table[id][width] tr[bgcolor] ~ tr:not([bgcolor]):has(td > ins.adsbygoogle)
 pervsi.com#?#tbody > tr[bgcolor] ~ tr:has(ins.adsbygoogle)
 chuing.net#?#div[style] table[width] td[width]:has(> ins.adsbygoogle)
