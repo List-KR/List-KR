@@ -1,3 +1,5 @@
+m.ppomppu.co.kr#?#.ct .bbs.ppomppu ul[class^="bbsList_"]:has(.new_sk > a[href*="?id=pmarket&"])
+ppomppu.co.kr#?#table#revolution_main_table tr[class^="common-list"]:has(table a[href*="?id=pmarket&"])
 atlantachosun.com#?#figure[id^="image-"]:has(> img[src^="/files/media/"])
 ygosu.com#?#table.bd_list tr:has(a[href^="/board/ad/"])
 m.ppomppu.co.kr#?#.ct > .bbs > #bbs_inform li:has(span ~ a[onclick^="informAdClick"])
