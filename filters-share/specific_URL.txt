@@ -1,5 +1,5 @@
-||static.coupangcdn.com/image/$domain=lifedesk.co.kr
-||ehom.kr/banner/$domain=lifedesk.co.kr
+||static.coupangcdn.com/image/$domain=lifedesk.co.kr|eanews.kr
+||ehom.kr/banner/$domain=lifedesk.co.kr|eanews.kr
 ||catnews.net/data/mtopbanner/
 ||catnews.net/img/banner/banner
 ||catnews.net/bbs/img/banner
