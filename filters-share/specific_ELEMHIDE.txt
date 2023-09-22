@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+newdaily.co.kr##[class^="ad-"]
 eanews.kr,lifedesk.co.kr##.coupang-box
 lifedesk.co.kr##.bxslider
 donga.com###dongawrap > #view + div[class*="ad_"]
