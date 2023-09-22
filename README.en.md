@@ -14,7 +14,7 @@ Suppported adblockers are AdGuard and uBlock Origin.
 
 Also, you can effectively block trackers and anti-right click scripts by combining tracking protection, URL tracking, and annoyances provided by AdGuard.
 
-If you need a private support via email, check out [our contacts on wiki](https://github.com/List-KR/List-KR/wiki/contacts).
+If you need a private support via email, check out [our contacts on list-kr-community.pages.dev](https://list-kr-community.pages.dev/docs/).
 
 ## Usage
 
