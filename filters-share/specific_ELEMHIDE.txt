@@ -1017,6 +1017,7 @@ osen.mt.co.kr##div#close_mask
 !
 ! DOMAIN-REFRESHER: START
 !
+kktv365.com,kktv366.com,kktv367.com,kktv368.com,kktv369.com,kktv370.com,kktv371.com,kktv372.com,kktv373.com,kktv374.com,kktv375.com,kktv376.com###hd_pop
 tvhot.*##div[id*="-banner-"]
 tvhot.*###body_wrap > div[class][style^="margin:"]
 sonagitv.*##a[href][target="_blank"] > img[src^="/images/banner/"]:not([src^="/images/banner/webtoon_"])
