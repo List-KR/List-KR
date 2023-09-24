@@ -1,6 +1,6 @@
 # List-KR
 
-You can learn more about AdGuard, uBlock Origin, and List-KR by [visiting List-KR community pages](https://list-kr-community.pages.dev).
+You can learn more about AdGuard, uBlock Origin, and List-KR by [visiting List-KR community pages](https://community.list-kr.com).
 
 Please leave related questions on [List-KR Discussions](https://github.com/List-KR/List-KR/discussions).
 
@@ -14,7 +14,7 @@ Suppported adblockers are AdGuard and uBlock Origin.
 
 Also, you can effectively block trackers and anti-right click scripts by combining tracking protection, URL tracking, and annoyances provided by AdGuard.
 
-If you need a private support via email, check out [our contacts on list-kr-community.pages.dev](https://list-kr-community.pages.dev/docs/).
+If you need a private support via email, check out [our contacts on community.list-kr.com](https://community.list-kr.com/docs/).
 
 ## Usage
 
@@ -42,7 +42,7 @@ Using the only functions provided by ad blocker cannot block complex ads effecti
 
 If you have a website you use below, use UserScript.
 
-To learn more, please refer [List-KR community pages](https://list-kr-community.pages.dev).
+To learn more, please refer [List-KR community pages](https://community.list-kr.com).
 
 ### Naver Cafe
 

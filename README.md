@@ -1,6 +1,6 @@
 # List-KR
 
-[List-KR 커뮤니티 페이지에 방문](https://list-kr-community.pages.dev)하여 AdGuard, uBlock Origin, 그리고 List-KR에 대해 더 알아볼 수 있습니다.
+[List-KR 커뮤니티 페이지에 방문](https://community.list-kr.com)하여 AdGuard, uBlock Origin, 그리고 List-KR에 대해 더 알아볼 수 있습니다.
 
 관련된 질문은 [List-KR Discussions](https://github.com/orgs/List-KR/discussions)에 남겨주세요.
 
@@ -15,7 +15,7 @@ AdGuard 플렛폼에서는 별도의 안내가 없는 경우 AdGuard 베이스 �
 
 또 AdGuard에서 제공하는 추적 보호 필터, URL 추적 필터 그리고 방해 요소 필터 또한 함께 사용하면 웹 사이트에 설치된 추적기나 우클릭 방지 스크립트도 효율적으로 차단할 수 있습니다.
 
-이메일을 통한 비공개 지원이 필요하시면 [list-kr-community.dev의 연락처 문서](https://list-kr-community.pages.dev/docs/)에서 저희 연락처를 확인하십시오.
+이메일을 통한 비공개 지원이 필요하시면 [list-kr-community.dev의 연락처 문서](https://community.list-kr.com/docs/)에서 저희 연락처를 확인하십시오.
 
 ## 사용법
 
@@ -43,7 +43,7 @@ https://cdn.jsdelivr.net/gh/adguardteam/HostlistsRegistry@main/assets/filter_25.
 
 사용하시는 웹 사이트가 아래 있다면 유저스크립트를 사용하십시오.
 
-자세한 설치 방법은 [List-KR 커뮤니티 페이지에 방문](https://list-kr-community.pages.dev)하여 참고해주세요.
+자세한 설치 방법은 [List-KR 커뮤니티 페이지에 방문](https://community.list-kr.com)하여 참고해주세요.
 
 ### 네이버 카페
 
