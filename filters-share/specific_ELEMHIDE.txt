@@ -609,8 +609,8 @@ m.fmkorea.com##.fm_vote ~ div[style*="max-width:"]
 m.mbn.co.kr###news_main_all_wrp .today_issue ~ section[class="today_issue"]
 biz.chosun.com,www.chosun.com###fusion-app footer
 biz.chosun.com,www.chosun.com##.flex-chain-wrapper[class*="-pad-top-"][class*="-margin-"][class*="-bg-grey-"]
-m.sportschosun.com###footer_container
-m.sportschosun.com##aticle div[style]:not([id]):not([class]):not([itemprop])
+m.sports.chosun.com,m.sportschosun.com###footer_container
+m.sports.chosun.com,m.sportschosun.com##aticle div[style]:not([id]):not([class]):not([itemprop])
 mnews.jtbc.co.kr##.shopping_wrap div[class$="_ad"]
 mnews.jtbc.co.kr##.news > div[class$="_ad"][style]
 manhwa.co.kr##.container > div[style][id^="slider"]
