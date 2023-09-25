@@ -1,3 +1,4 @@
+m.mt.co.kr#$?#ul[class^="ad"] { remove: true; }
 news.daum.net#$?#.main-content > .content-article:not(:has(+ .content-aside > div[data-tiara-layer][class="box_side"])) { width: 100% !important; }
 coolenjoy.net#$?#.na-col > div[id^="carousel_"].carousel-fade .carousel-item:has(a[href]:not([href*="//coolenjoy.net/"])[target="_self"]) { remove: true; }
 aladin.co.kr#$?##welcomeMainBanner_welcomeMain div[id*="_containerWrap_"]:has(img[src$="Banner/ad.jpg"]) { remove: true; }
