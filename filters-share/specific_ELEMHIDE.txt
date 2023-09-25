@@ -164,7 +164,6 @@ atlantak.com###home-sidebar >  a[target="_blank"]
 atlantak.com##main[role="main"] header ~ .code-block
 atlantak.com##.advertisement_area div[class^="ad"]
 m.10000recipe.com##.recipe_list > div[style*="height:"]
-10000recipe.com##.col-xs-9 > div[style*="padding:"].view_step
 m.10000recipe.com##div[id^="obx_foodname_goods"]
 quasarzone.com##.custom-cont-page.custom-cont-page-head
 hungryapp.co.kr##div[style] > a[onclick*="_banner("]

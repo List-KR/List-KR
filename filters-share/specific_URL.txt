@@ -587,7 +587,6 @@
 ||hankyung.com/resource/js/*/view.ads.js
 ||upto.tk/ads.html
 ||m.ytn.co.kr/ad/
-||static.coupangcdn.com/image/vendor_inventory/$domain=10000recipe.com|quasarzone.com
 ||djtimes.co.kr/banner/
 ||gginews.co.kr/data/gginews_co_kr/banner/
 ||mangacat.cc/mainhover/
