@@ -333,7 +333,6 @@
 ||r114.com/?*&_a=*Advertise
 ||jjalbot.com/images/banners/
 ||images.nstatic.org/banner/
-||cafe.naver.com/PlugFloatingAdvert.nhn
 ||ikbn.news/data/banner/
 ||mjmedi.com/bannerpop/popup.html$document
 ||cdn.emetro.co.kr/data1/resources/banner/

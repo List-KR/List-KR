@@ -786,7 +786,6 @@ tcafe2a.com##.side-event-img
 goodgag.net,m.inven.co.kr,nownews.seoul.co.kr,ksg.co.kr,paxnet.co.kr,chosun.com##div[class$="Ad"]
 game.dcinside.com,gall.dcinside.com##.con_banner
 tvchak.com###advertiseInPlayer
-cafe.naver.com###plugFloatingBannerDiv
 game.naver.com##div[class^="styles_Banner"]
 coinpan.com##img[class^="banner_"]
 blackkiwi.net##div[class^="style__GoogleAdSenseContainer-"]
