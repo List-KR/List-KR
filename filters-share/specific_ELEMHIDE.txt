@@ -57,6 +57,8 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+m.yna.co.kr##.hidden-obj ~ aside[class^="aside-box"].bg11
+m.yna.co.kr##section[class^="box-type"].bg11 ul[class^="list"] > li[class^="aside-box"]
 www.coupang.com###srp-bottom-carousel-dco-contaner
 newdaily.co.kr##[class^="ad-"]
 eanews.kr,lifedesk.co.kr##.coupang-box
