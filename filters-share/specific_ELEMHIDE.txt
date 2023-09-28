@@ -57,6 +57,8 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+m.sports.chosun.com,m.sportschosun.com##body > div[style^="height:"][style*="width:"]
+m.sports.chosun.com,m.sportschosun.com###wrap > div[style*="height:"][style^="position:"]
 a-ha.io##div[class^="teads-"]
 m.yna.co.kr##.hidden-obj ~ aside[class^="aside-box"].bg11
 m.yna.co.kr##section[class^="box-type"].bg11 ul[class^="list"] > li[class^="aside-box"]

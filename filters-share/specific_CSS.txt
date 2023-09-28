@@ -1,3 +1,4 @@
+m.sports.chosun.com,m.sportschosun.com#$##wrap > div[style*="height:"][style^="position:"] + header { margin-top: 0px !important; }
 atlantachosun.com#$#article > div[class^="sc-"] > aside[class*=" "] { display: none !important; }
 atlantachosun.com#$#article > div[class^="sc-"] { grid-template-columns: none !important; }
 atlantachosun.com#$##popup-root { display: none !important; }
