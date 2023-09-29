@@ -704,6 +704,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+||hoohootv.*/static/bnner/$domain=hoohootv.*
 /^https:\/\/cdn\.kktv[0-9]+\.com\/data\/editor\//$domain=kktv365.com|kktv366.com|kktv367.com|kktv368.com|kktv369.com|kktv370.com|kktv371.com|kktv372.com|kktv373.com|kktv374.com|kktv375.com|kktv376.com
 ||cdn.ksportscdn.com/data/editor/$domain=kktv365.com|kktv366.com|kktv367.com|kktv368.com|kktv369.com|kktv370.com|kktv371.com|kktv372.com|kktv373.com|kktv374.com|kktv375.com|kktv376.com
 /^https:\/\/tv[0-9]+\.avsee\.[a-z]+\/imgs\//$domain=avsee.*
