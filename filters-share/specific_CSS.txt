@@ -25,7 +25,6 @@ yes24.com#$##mbnRoll_001 > .mbnRollUnit > .pagen_1 { width: 239px !important; }
 yes24.com#$##mbnRoll_001 > .mbnRollUnit > .pagen_2 { width: 239px !important; left: 239px !important; }
 yes24.com#$##mbnRoll_001 > .mbnRollUnit > .pagen_3 { width: 239px !important; left: 478px !important; }
 yes24.com#$##mbnRoll_001 > .mbnRollUnit > .pagen_4 { width: 240px !important; left: 717px !important; }
-lolchess.gg#$##content-menu + div[class^="css-"][class*=" "] { padding-bottom: 0px !important; }
 www.naver.com#$#div[class^="Layout-module_"] #newsstand { margin-top: 0px !important; }
 op.gg#$##content-header form.FormItem { width: 100% !important; }
 ktestone.com#$#.article-adCover-div { height: 100% !important; }
