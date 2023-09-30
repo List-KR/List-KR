@@ -5,6 +5,7 @@ shopping.interpark.com#%#//scriptlet('set-constant', '$is.powerLink.loadPowerLin
 !#if (adguard_app_ios || adguard_ext_safari)
 m.humoruniv.com#%#//scriptlet('abort-on-stack-trace', '$.prototype.html', 'ch')
 !#endif
+msearch.shopping.naver.com#%#//scriptlet('json-prune', 'adRecommend.adUnits.[]')
 humors.zigcou.com#%#//scriptlet('set-constant', 'window.__NEXT_DATA__.props.pageProps.initialState.post.adhistory', 'emptyObj')
 slrclub.com#%#//scriptlet('abort-on-stack-trace', 'encodeURIComponent', '/(\/bbs\/zboard\.php\?id=|bbs_view[a-z]{3,}\.js)/')
 moneytoring.co.kr,postincome.co.kr,itinformation.kr,digitstar77.com#%#//scriptlet('prevent-setTimeout', 'piBlock')
