@@ -1,3 +1,4 @@
+||msearch.shopping.naver.com/api/search/reactiveSearchAd
 ||recipe1.ezmember.co.kr/ad/img/
 ||slrclub.com/bbs/*.php*slrclub.ch*keyword*&callback=
 ||static.coupangcdn.com/image/$domain=lifedesk.co.kr|eanews.kr
