@@ -1,3 +1,5 @@
+||img.koreatimes.com/*/images/townads/
+||img.koreatimes.com/banner/files/
 ||beautynury.com/data/ad/
 /^https:\/\/[a-z0-9_]+\.dishcrop\.care\//$domain=databasefootball.com
 ||msearch.shopping.naver.com/api/search/reactiveSearchAd
