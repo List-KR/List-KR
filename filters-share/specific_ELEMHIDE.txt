@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+emmaru.com##.SubInforDiv_article table ~ div[style^="padding:"][align="center"]
 koreatimes.com##div[class^="bn_"]:not([class*=" "])
 m.sports.chosun.com,m.sportschosun.com##body > div[style^="height:"][style*="width:"]
 m.sports.chosun.com,m.sportschosun.com###wrap > div[style*="height:"][style^="position:"]
