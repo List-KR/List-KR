@@ -1,3 +1,4 @@
+||img.nate.com/kwshop/ad_img/nice/
 ||img.koreatimes.com/*/images/townads/
 ||img.koreatimes.com/banner/files/
 ||beautynury.com/data/ad/
@@ -18,7 +19,7 @@
 ||likeonepiece77.com/wp-content/plugins/bloom/js/custom.js
 ||pigpeople.net/data/banner/
 ||etfcheck.co.kr/assets/img/banner/
-||click.linkprice.com/lpfront/coupang_iframe.php
+||click.linkprice.com/lpfront/coupang_iframe.php 
 ||shopping.interpark.com/resources/js/common/powerLink.js
 ||shopping.interpark.com/static/styles/pages/powerLink.css
 ||shopapi.interpark.com/advertisement/
