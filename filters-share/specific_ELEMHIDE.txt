@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+m.sports.chosun.com,m.sportschosun.com##div[id$="ad"][class^="ad"]
 emmaru.com##.SubInforDiv_article table ~ div[style^="padding:"][align="center"]
 koreatimes.com##div[class^="bn_"]:not([class*=" "])
 m.sports.chosun.com,m.sportschosun.com##body > div[style^="height:"][style*="width:"]
@@ -431,7 +432,6 @@ browse.auction.co.kr##.component--chance_shopping
 auction.co.kr##.today-smart-shopping
 chaegeon.com##[id][class] > div[style].panel-default
 quasarzone.com##div[id*="_"][class*="-"][class^="bidrich-"]
-##div[id$="ad"][class$="ad"]
 asked.kr##div[id^="ads"][style]
 asked.kr###cards > div[class*="_"]:not([id]).card
 m.humoruniv.com##.comment_best_wrap ~ div[id][style^="min-height:"]
