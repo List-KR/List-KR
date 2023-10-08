@@ -431,7 +431,7 @@ browse.auction.co.kr##.component--chance_shopping
 auction.co.kr##.today-smart-shopping
 chaegeon.com##[id][class] > div[style].panel-default
 quasarzone.com##div[id*="_"][class*="-"][class^="bidrich-"]
-asked.kr##div[id$="ad"][class$="ad"]
+##div[id$="ad"][class$="ad"]
 asked.kr##div[id^="ads"][style]
 asked.kr###cards > div[class*="_"]:not([id]).card
 m.humoruniv.com##.comment_best_wrap ~ div[id][style^="min-height:"]
@@ -580,7 +580,7 @@ bobaedream.co.kr##body.body-community div[class*="Car"]
 m.instiz.net##body > div[style^="min-height:"]:not([class]):not([id])
 www.instiz.net,m.instiz.net##div[id^="div-"][style*="min-height:"]:not([class])
 www.instiz.net##div[style].content ~ div[class$="ad"][style*="min-height:"]
-www.instiz.net##div[class$="ad"][id$="ad"]
+asked.kr,www.instiz.net##div[class$="ad"][id$="ad"]
 mbong.kr##center a[href*="//mbong.kr/banner"]
 cmobile.g-enews.com,news.g-enews.com,m.g-enews.com##a[href^="/extcont/adclick.php"]
 serieamania.com###index > div[class^="box_shadow_"][style]
