@@ -50,7 +50,7 @@ m.cafe.naver.com#?#.location_bar:has(.active:has-text(전체공지)) ~ .location
 ! DOMAIN-REFRESHER: START
 !
 viewtorrent13.com,viewtorrent14.com,viewtorrent15.com,viewtorrent16.com,viewtorrent17.com,viewtorrent18.com,viewtorrent19.com,viewtorrent20.com,viewtorrent21.com,viewtorrent22.com,viewtorrent23.com,viewtorrent24.com,viewtorrent25.com#?#div[class^="col-md-"] div[class*="-main-"]:has-text(/보증업체|검증업체/)
-torrentsee180.com,torrentsee181.com,torrentsee182.com,torrentsee183.com,torrentsee184.com,torrentsee185.com,torrentsee186.com,torrentsee189.com,torrentsee190.com,torrentsee191.com,torrentsee192.com,torrentsee193.com,torrentsee194.com,torrentsee195.com,torrentsee196.com,torrentsee197.com#?#.nplr div[class=""] li:has(li:has-text(AD))
+torrentsee187.com,torrentsee188.com,torrentsee189.com,torrentsee190.com,torrentsee191.com,torrentsee192.com,torrentsee193.com,torrentsee194.com,torrentsee196.com,torrentsee197.com,torrentsee198.com,torrentsee199.com,torrentsee200.com,torrentsee201.com,torrentsee202.com,torrentsee203.com#?#.nplr div[class=""] li:has(li:has-text(AD))
 torrentdia99.com,torrentdia100.com,torrentdia101.com,torrentdia102.com,torrentdia103.com,torrentdia104.com,torrentdia105.com,torrentdia106.com,torrentdia107.com,torrentdia108.com,torrentdia109.com,torrentdia110.com,torrentdia111.com,torrentdia112.com,torrentdia113.com#?#form#fboardlist table tr:has(span.text-muted:has-text(AD))
 img.imimggggg87878.com#?#a[target="_blank"][href^="http://"].menu-a:has-text(보증토토)
 frtoon181.com,frtoon182.com,frtoon183.com,frtoon184.com,frtoon185.com,frtoon186.com,frtoon187.com,frtoon188.com,frtoon189.com,frtoon190.com,frtoon191.com,frtoon192.com,frtoon193.com,frtoon194.com#?#.alert-danger.container:has-text([AD])
