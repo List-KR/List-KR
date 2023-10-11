@@ -276,9 +276,6 @@
 ||isplus.com/data/json/main/banner.json
 ||dt.co.kr/ad.html
 ||knnews.co.kr/edb/banner/
-||m.mydaily.co.kr/new/img/*.gif|
-||mydaily.co.kr/ad/adimage/
-||mydaily.co.kr/new_yk/html/images_mj/*.gif|
 /^https:\/\/dbr\.donga\.com\/upload_dir\/source\/.+\([0-9]+x[0-9]+\)\./$domain=donga.com
 ||dbr.donga.com/upload_dir/banner/
 ||m.segye.com/static/*_segyeMobile/resources/js/commonAD.js
