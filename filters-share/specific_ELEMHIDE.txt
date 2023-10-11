@@ -57,6 +57,9 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+m.mydaily.co.kr##.article_view ~ div[style^="width:"].clean_banner ~ .wcms_banner ~ .h50
+m.mydaily.co.kr##.article_view ~ div[style^="text-align:"].clean_banner ~ .wcms_banner + .h45
+m.mydaily.co.kr##.article_view ~ div[style^="text-align:"].clean_banner +.h50
 m.sports.chosun.com,m.sportschosun.com##div[id$="ad"][class^="ad"]
 emmaru.com##.SubInforDiv_article table ~ div[style^="padding:"][align="center"]
 koreatimes.com##div[class^="bn_"]:not([class*=" "])
