@@ -46,6 +46,8 @@ spotvnow.co.kr##+js(no-fetch-if, pagead2.googlesyndication.com/pagead/js/adsbygo
 ! aagag.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=aagag.com
 !
+guccihide.store#%#//scriptlet('set-constant', 'showADBOverlay', 'noopFunc')
+guccihide.store###adbd
 3dpchip.com##+js(acis, chp_ads_blocker_detector)
 3dpchip.com##+js(aopw, HTMLAnchorElement.prototype.onclick)
 @@||advimg.ad-mapps.com/sdk/js/ver/200/ad_script.js$domain=maxmovie.com
