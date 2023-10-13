@@ -1,3 +1,4 @@
+||player.globalsun.io/*-player.js
 ||nanumy.co.kr/images/main/banner/nanumy/
 ||nanumy.co.kr/Files/*/Template/
 ||mydaily.co.kr/upload/ads/
