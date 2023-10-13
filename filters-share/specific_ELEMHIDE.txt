@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+m.humoruniv.com##div[data-adsbygoogle-status="done"]
 m.mydaily.co.kr##.article_view ~ div[style^="width:"].clean_banner ~ .wcms_banner ~ .h50
 m.mydaily.co.kr##.article_view ~ div[style^="text-align:"].clean_banner ~ .wcms_banner + .h45
 m.mydaily.co.kr##.article_view ~ div[style^="text-align:"].clean_banner +.h50
