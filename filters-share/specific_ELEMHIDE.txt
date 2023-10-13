@@ -537,7 +537,7 @@ m.ppomppu.co.kr##.main-menu-group ~ .ct #board-cate ul[style] li[onclick*="/new/
 tiendeo.co.kr##[class$="-advert"]
 tiendeo.co.kr##section[class*=" "]#header-standard-container
 infosori.com##center > div[style] ~ center ~ div[style^="margin-top:"]
-pervsi.com###bottom_sit_handmade
+sori114.com,pervsi.com###bottom_sit_handmade
 uwayapply.com###frameBox
 uwayapply.com###login_box ~ .roll
 uwayapply.com###login_box ~ #rightBox
