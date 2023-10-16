@@ -1,3 +1,4 @@
+||health.chosun.com/images/event/app_
 ||player.globalsun.io/*-player.js
 ||nanumy.co.kr/images/main/banner/nanumy/
 ||nanumy.co.kr/Files/*/Template/
