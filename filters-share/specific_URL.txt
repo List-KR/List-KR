@@ -1,3 +1,4 @@
+||src.hidoc.co.kr/image/ad/
 ||m.health.chosun.com/js/*_banner_
 ||health.chosun.com/images/event/app_
 ||player.globalsun.io/*-player.js
