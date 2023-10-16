@@ -211,3 +211,9 @@
 ||safeframe.googlesyndication.com^
 ||adservice.google.com^
 ||partner.googleadservices.com^
+!
+! DOMAIN-REFRESHER: START
+!
+||i.keezip.com^
+!
+! DOMAIN-REFRESHER: END

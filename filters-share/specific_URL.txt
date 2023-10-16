@@ -832,7 +832,6 @@
 ||filetender.com/mobon.html|
 /^https:\/\/(www\.)?filetender\.com\/images\/[0-9]{3,}(X|x)[0-9]{3,}-[0-9]{4}/
 ||filetender.com/images/*.gif
-||i.uuoobe.com/ad/
 /^https:\/\/booktoki[0-9]+\.com\/tokinbtoki\/[0-9]+/
 ||hcdn1.maxsocdn.net^$domain=sogirl.so
 ||1.bp.blogspot.com^$domain=sogirl.so
