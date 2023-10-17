@@ -116,7 +116,7 @@
 ||heye.kr/wysiwyg/
 ||i.ibb.co^$domain=heye.kr
 ||api.smartbaedal.com/web/site/*/ad/
-/^https:\/\/nng-phinf\.pstatic\.net\/.+\/[%A-z0-9\.]*[0-9]+(x|X)[0-9]+.*_naverads\./$match-case,domain=naver.com
+/^https:\/\/nng-phinf\.pstatic\.net\/.+\/[%A-z0-9\.]+([0-9]+(x|X)[0-9]+)?000000_naverads\./$match-case,domain=naver.com
 ||quasarzone.com/banner/display
 ||pennmike.com/script/bannerpop.js
 ||jjang0u.com/img/banner_ad_
