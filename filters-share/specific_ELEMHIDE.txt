@@ -1028,6 +1028,8 @@ osen.mt.co.kr##div#close_mask
 !
 ! DOMAIN-REFRESHER: START
 !
+tvchak61.com,tvchak62.com,tvchak63.com,tvchak64.com,tvchak65.com,tvchak66.com,tvchak67.com,tvchak68.com,tvchak69.com,tvchak70.com,tvchak71.com,tvchak72.com,tvchak73.com,tvchak74.com,tvchak75.com,tvchak76.com,tvchak77.com,tvchak78.com,tvchak79.com,tvchak80.com,tvchak81.com,tvchak82.com##div[style].border-shadow
+tvchak61.com,tvchak62.com,tvchak63.com,tvchak64.com,tvchak65.com,tvchak66.com,tvchak67.com,tvchak68.com,tvchak69.com,tvchak70.com,tvchak71.com,tvchak72.com,tvchak73.com,tvchak74.com,tvchak75.com,tvchak76.com,tvchak77.com,tvchak78.com,tvchak79.com,tvchak80.com,tvchak81.com,tvchak82.com##.banner-box
 torrentsee188.com,torrentsee189.com,torrentsee190.com,torrentsee191.com,torrentsee192.com,torrentsee193.com,torrentsee194.com,torrentsee196.com,torrentsee197.com,torrentsee198.com,torrentsee199.com,torrentsee200.com,torrentsee201.com,torrentsee202.com,torrentsee203.com,torrentsee204.com##.col-middle > div[style^="z-index:"][style*="margin:"]
 cokcok.*##.custom_banner_item
 agit327.com,agit328.com,agit329.com,agit330.com,agit331.com,agit332.com,agit333.com,agit334.com,agit335.com,agit336.com,agit337.com,agit338.com,agit339.com,agit340.com,agit341.com,agit342.com##.banner
