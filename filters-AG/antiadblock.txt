@@ -95,11 +95,6 @@ spotvnow.co.kr#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com/pag
 !#endif
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=aagag.com,xmlhttprequest
 !
-guccihide.store#%#//scriptlet('set-constant', 'showADBOverlay', 'noopFunc')
-guccihide.store###adbd
-!#if (adguard_app_ios || adguard_ext_android_cb || adguard_ext_android_cb)
-@@||guccihide.store/js/boxad.js?advertiser=popup&ads=DisplayAd&m=partnerad$domain=guccihide.store
-!#endif
 !#if (adguard_app_android)
 bera.world,sellas.ink,1412.live#$#[class^="document_"].xe_content { display: block !important; height: 100% !important; }
 bera.world,sellas.ink,1412.live#$#.et_vars { height: auto !important; overflow: visible !important; }

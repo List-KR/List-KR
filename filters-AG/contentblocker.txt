@@ -25,7 +25,6 @@ te31.com#@#.textAd
 te31.com#@#.text_ad
 te31.com#@#.text_ads
 !
-@@||guccihide.store/js/boxad.js?advertiser=popup&ads=DisplayAd&m=partnerad$domain=guccihide.store
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=3dpchip.com
 @@||ads-api.twitter.com/|$domain=3dpchip.com
 @@||ads.pinterest.com/|$domain=3dpchip.com
