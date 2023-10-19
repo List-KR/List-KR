@@ -1,3 +1,4 @@
+wadiz.kr#?#div[class^="Main_container_"] div:is([class^="PreorderMainCard_root_"], [class^="Main_cardWrap_"]):has(a[data-promo-name])
 m.10000recipe.com#?#.view3_box > .sp_pdt_wrap:has(div[data-url*="//link.coupang.com/"].coupang_layer)
 m.ppomppu.co.kr#?#.ct .bbs.ppomppu ul[class^="bbsList_"]:has(.new_sk > a[href*="?id=pmarket&"])
 ppomppu.co.kr#?#table#revolution_main_table tr[class^="common-list"]:has(table a[href*="?id=pmarket&"])
