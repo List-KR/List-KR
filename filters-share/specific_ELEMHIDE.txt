@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+wadiz.kr##div[class^="RecommendationMobile_cardWrapper_"] > a[class^="MainBannerV2_container_"][data-promo-name]
 wadiz.kr##div[class^="KeyVisualBanner_container_"]
 m.humoruniv.com##div[id*="_info_read_abt_div"].bg0
 ppss.kr##ad-shield-ads
