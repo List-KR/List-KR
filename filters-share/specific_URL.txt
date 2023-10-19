@@ -1,3 +1,4 @@
+||tenbizt.com/wp-content/plugins/advanced-ads
 ||public-api.wadiz.kr/main/info/marketing
 ||service.wadiz.kr/api/*/wadizad/host/keyvisual
 /^https?:\/\/timg\.humoruniv\.com\/thumb_crop_resize\.php\?url=https?:\/\/[A-z0-9\.]+\/.+\?SIZE=[0-9]+(x|X)[0-9]+\?OPT=center/$domain=m.humoruniv.com
