@@ -25,7 +25,7 @@ search.11st.co.kr#?##cts .l-grid--nobg:has(button[data-log-actionid-area="power"
 search.shopping.naver.com#?#div[class^="style_section_row_"] > div[class*=" asideItem_active_"]:has(a[class^="adRecommend_"])
 search.shopping.naver.com#?##section_recommend div[class^="productList_list_area_"] li[class^="productList_item_"]:has(a[href*="//adcr.naver.com/"])
 search.shopping.naver.com#?#div[class^="style_section_row_"] ul[class*="asideBrand_brand_"] > li:has(a[href*="//adcr.naver.com/adcr"])
-acmicpc.net#?#.text-center > a[onclick^="App.trackOutboundLink"]:has(> img[src^="https://upload.acmicpc.net"][class^="visible-"][class$="-block"])
+acmicpc.net#?#.text-center > a[onclick^="App.trackOutboundLink"]:has(> img[class^="visible-"][class$="-block"])
 m.ruliweb.com#?#.board_main .user_view_target ~ .row:not(:has(.source_url))
 enuri.com#?#.m-row > div[class^="col col-"]:not(:has(> .col__inner a:not([href*="ad-api.enuri.info"]))):has(.bnrbox ul[id][class^="bnr__"])
 gigglehd.com#?##gap > div[style*=": "].xe-widget-wrapper:has(.widget_banner_skin > .banner_list)
