@@ -1,3 +1,4 @@
+||adfork.co.kr^
 ||planmix.co.kr^$third-party
 ||ads-api.kidsnote.com^
 ||i18n-pglstatp.com^
