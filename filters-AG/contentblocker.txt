@@ -25,6 +25,8 @@ te31.com#@#.textAd
 te31.com#@#.text_ad
 te31.com#@#.text_ads
 !
+@@||zuzunza.com^$generichide
+@@||zuzunza.com/theme/BS4-Basic/storage/image/logo-zlogo*#ad&adv_keywords=
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=3dpchip.com
 @@||ads-api.twitter.com/|$domain=3dpchip.com
 @@||ads.pinterest.com/|$domain=3dpchip.com
