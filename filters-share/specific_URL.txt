@@ -1,3 +1,5 @@
+||healtho.co.kr/biz_files/sub_news/
+||healtho.co.kr/biz_files/main_right/
 ||tenbizt.com/wp-content/plugins/advanced-ads
 ||public-api.wadiz.kr/main/info/marketing
 ||service.wadiz.kr/api/*/wadizad/host/keyvisual
