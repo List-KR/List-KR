@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+boannews.com##iframe[src^="/media/include/media_view_banner.asp"]
 healtho.co.kr##.doc03_wrap > .doc03
 search.naver.com##._pl_section.ad_section
 wadiz.kr##div[class^="RecommendationMobile_cardWrapper_"] > a[class^="MainBannerV2_container_"][data-promo-name]
