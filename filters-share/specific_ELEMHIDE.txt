@@ -458,7 +458,7 @@ fntoday.co.kr##aside.user-aside div[data-direction]#side-scroll-in > .float-cent
 fafan.kr###container > div#rightContents > div[style*="height:"]
 haninvegas.com##div[itemprop="mainContentOfPage"].theme-content + aside
 cineaste.co.kr##.container > div[style][id]
-m.cafe.daum.net,shopping.naver.com,isplus.com##div[id$="Ad"]
+star.ohmynews.com,m.cafe.daum.net,shopping.naver.com,isplus.com##div[id$="Ad"]
 idaegu.com###wrap_index ~ div[style]
 datanews.co.kr##a[href][target="_blank"] > img[src^="/data/banner/"]
 m.search.naver.com##.sc._pwl_video_container
