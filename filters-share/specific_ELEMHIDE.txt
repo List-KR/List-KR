@@ -57,6 +57,11 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+busan.com##.left_area > a[href^="https://smartstore.naver.com/"] + .h20
+busan.com##.left_area > a[href^="https://smartstore.naver.com/"] + .h20 + .line
+busan.com##.inner > div[class*=" full"] ~ div[class^="arl_"]
+busan.com##.wcms_side div[style^="padding-top:"].aside div[class^="banner_"] + .h20 + .line
+busan.com##.wcms_side div[style^="padding-top:"].aside div[class$="_ad"] + .h20 + .line
 boannews.com##iframe[src^="/media/include/media_view_banner.asp"]
 healtho.co.kr##.doc03_wrap > .doc03
 search.naver.com##._pl_section.ad_section
