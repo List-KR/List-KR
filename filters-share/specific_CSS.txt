@@ -174,7 +174,7 @@ toomics.com#$#.banner-open .contents { padding-top: 68px !important; }
 marupost.mycafe24.com#$#body { overflow-x: auto !important; overflow-y: auto !important; }
 news.unn.net#$#.grid-body.g-body { width: 100% !important; }
 autopostkorea.com#$#.site-footer { padding-bottom: 0px !important; }
-biz.heraldcorp.com#$#.article_area > .article_left { width: 100% !important; }
+heraldcorp.com#$#.article_area > .article_left { width: 100% !important; }
 windowsforum.kr#$#.content { margin-top: 0px !important; }
 mule.co.kr#$#div.section-leftmiddle-topmiddle.cf { width: 100% !important; }
 berryjam.co.kr#$#.goods_list_tit { padding-top: 0px !important; }
