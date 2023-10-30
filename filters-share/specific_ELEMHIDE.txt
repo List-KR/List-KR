@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+quiz.avatye.com###__next > div:not([class]):not([id]) > div[style^="position:"]
 munhwa.com##.footer_promotion
 busan.com##.left_area > a[href^="https://smartstore.naver.com/"] + .h20
 busan.com##.left_area > a[href^="https://smartstore.naver.com/"] + .h20 + .line
