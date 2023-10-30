@@ -720,7 +720,7 @@ pping.kr##.HAdLine
 pping.kr##iframe[src*="//ad.pping.kr/"]
 sumpic.com##section.content .thumbnail-area
 h5.dcinside.com##.side .login-box ~ .img-wrap
-mbiz.heraldcorp.com##a[class^="ad_"]
+m.heraldpop.com,mbiz.heraldcorp.com##a[class^="ad_"]
 techrecipe.co.kr##div[id*="_adsense_"]
 edufindkorea.com###body_wrap > #body_main > div[style]:nth-child(2)
 junggi.co.kr##img[src^="/data/__banner/"]
