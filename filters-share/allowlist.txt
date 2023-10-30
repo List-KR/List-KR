@@ -1,3 +1,5 @@
+@@||www.besteleven.com/bannerpop/uploads/image/
+besteleven.com#@#img[src^="/bannerpop/"]
 @@||cloudfront.net/media/banner/$domain=phdkim.net
 eoecare.cafe24.com#@#[data-ez-name]
 @@||planetad.co.kr/images/visual/img_ad_$domain=planetad.co.kr
