@@ -1,3 +1,4 @@
+||go.bandisoft.com/coupang.bandizip|$document
 ||busan.com/nas/wcms/public/pc/images/new/bluebanner.png
 /^https?:\/\/www\.busan\.com\/nas\/wcms\/public\/pc\/images\/new\/[0-9]+[a-z]+([0-9]?|[a-z]+_[a-z]+_[a-z]+)\./$domain=busan.com
 ||coinreaders.com/data/coinreaders_com/upload/banner/
