@@ -1065,8 +1065,8 @@ viewtorrent13.com,viewtorrent14.com,viewtorrent15.com,viewtorrent16.com,viewtorr
 zzzz.lol##.ent_wrapper.slide-vertical-effect .ent_navigation
 zzzz.lol##a[href*="?bo_table=partner"]
 zzzz.lol###hd_pop
-torrentpi75.com,torrentpi76.com,torrentpi77.com,torrentpi78.com,torrentpi79.com,torrentpi80.com,torrentpi81.com,torrentpi82.com,torrentpi83.com,torrentpi84.com,torrentpi85.com,torrentpi86.com,torrentpi87.com,torrentpi88.com,torrentpi89.com,torrentpi90.com,torrentpi91.com,torrentpi92.com##.at-row .basic-post-gallery
-torrentpi75.com,torrentpi76.com,torrentpi77.com,torrentpi78.com,torrentpi79.com,torrentpi80.com,torrentpi81.com,torrentpi82.com,torrentpi83.com,torrentpi84.com,torrentpi85.com,torrentpi86.com,torrentpi87.com,torrentpi88.com,torrentpi89.com,torrentpi90.com,torrentpi91.com,torrentpi92.com###hd_pop
+torrentpi100.com,torrentpi101.com,torrentpi102.com,torrentpi103.com,torrentpi104.com,torrentpi105.com,torrentpi106.com,torrentpi107.com,torrentpi108.com,torrentpi109.com,torrentpi110.com,torrentpi111.com,torrentpi112.com,torrentpi113.com,torrentpi114.com,torrentpi115.com,torrentpi116.com,torrentpi117.com##div[class^="col-sm-"] > div:not([style]) .basic-post-gallery
+torrentpi100.com,torrentpi101.com,torrentpi102.com,torrentpi103.com,torrentpi104.com,torrentpi105.com,torrentpi106.com,torrentpi107.com,torrentpi108.com,torrentpi109.com,torrentpi110.com,torrentpi111.com,torrentpi112.com,torrentpi113.com,torrentpi114.com,torrentpi115.com,torrentpi116.com,torrentpi117.com###hd_pop
 hasha.in##div[style^="min-height:"][class^="bg-hasha-"] > div[style] + .max-w-full
 tvzota70.com,tvzota71.com,tvzota72.com,tvzota73.com,tvzota74.com,tvzota75.com,tvzota76.com,tvzota77.com,tvzota78.com,tvzota79.com,tvzota80.com##div[class^="popup_"]
 tvzota70.com,tvzota71.com,tvzota72.com,tvzota73.com,tvzota74.com,tvzota75.com,tvzota76.com,tvzota77.com,tvzota78.com,tvzota79.com,tvzota80.com##.wid
