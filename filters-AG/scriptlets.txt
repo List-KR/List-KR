@@ -58,6 +58,6 @@ imbc.com#%#//scriptlet('set-constant', 'vrixadsdk', 'undefined')
 ! DOMAIN-REFRESHER: START
 !
 zzzz.lol#%#//scriptlet('prevent-setInterval', 'animationEffects[settings.animation.effect]')
-lover922.net,lover923.net,lover924.net,lover925.net,lover926.net,lover927.net,lover928.net,lover929.net,lover930.net,lover931.net#%#//scriptlet('adjust-setTimeout', 'closeBtn.innerHTML', '*', '0.001')
+lover923.net,lover924.net,lover925.net,lover926.net,lover927.net,lover928.net,lover929.net,lover930.net,lover931.net,lover932.net#%#//scriptlet('adjust-setTimeout', 'closeBtn.innerHTML', '*', '0.001')
 !
 ! DOMAIN-REFRESHER: END

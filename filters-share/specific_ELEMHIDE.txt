@@ -1100,7 +1100,7 @@ spotv97.com,spotv98.com,spotv99.com,spotv100.com,spotv101.com,spotv101.com,spotv
 anilife.life##div[class$="-banner"]
 qooqootv.fun##div[class^="banner_"]
 !#if !adguard_ext_android_cb
-lover922.net,lover923.net,lover924.net,lover925.net,lover926.net,lover927.net,lover928.net,lover929.net,lover930.net,lover931.net##.xe_content span ~ div[style]
+lover923.net,lover924.net,lover925.net,lover926.net,lover927.net,lover928.net,lover929.net,lover930.net,lover931.net,lover932.net##.xe_content span ~ div[style]
 !#endif
 agit574.xyz,agit575.xyz,agit576.xyz,agit577.xyz,agit578.xyz,agit579.xyz,agit580.xyz,agit581.xyz,agit582.xyz,agit583.xyz,agit584.xyz,agit585.xyz,agit586.xyz,agit587.xyz,agit588.xyz,agit589.xyz,agit590.xyz,agit591.xyz,agit592.xyz,agit593.xyz,agit594.xyz,agit595.xyz,agit596.xyz,agit597.xyz,agit598.xyz##.banner
 yagong64.com,yagong65.com,yagong66.com,yagong67.com,yagong68.com,yagong69.com,yagong70.com,yagong71.com,yagong72.com,yagong73.com,yagong74.com,yagong75.com,yagong76.com,yagong77.com,yagong78.com,yagong79.com,yagong80.com,yagong81.com,yagong82.com,yagong83.com,yagong84.com,yagong85.com,yagong86.com##div[x-data="popups()"]
