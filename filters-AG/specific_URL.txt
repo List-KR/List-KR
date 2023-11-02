@@ -1,3 +1,7 @@
+!#if (adguard_app_ios || adguard_ext_safari)
+||api-gw.sports.naver.com/cms/contents/adContents/$domain=m.sports.naver.com
+@@||api-gw.sports.naver.com/cms/contents/adContents/GENERAL$domain=m.sports.naver.com
+!#endif
 !#if adguard_app_ios
 ||news.nate.com/Etc/AdView
 ||news.nate.com/Etc/ViewAD
