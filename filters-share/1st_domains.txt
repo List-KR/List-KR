@@ -1,3 +1,4 @@
+||authanalysis.com^$third-party
 ||adfork.co.kr^
 ||planmix.co.kr^$third-party
 ||ads-api.kidsnote.com^
