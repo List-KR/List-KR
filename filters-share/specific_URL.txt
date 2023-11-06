@@ -1,3 +1,4 @@
+||richgo.ai/api/ads
 /^https:\/\/api-gw\.sports\.naver\.com\/cms\/contents\/adContents\/(?!GENERAL)/$domain=m.sports.naver.com
 ||wiizmkrstorage.blob.core.windows.net/wiadcontainer/
 ||go.bandisoft.com/coupang.bandizip|$document
