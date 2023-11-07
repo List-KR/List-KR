@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+m.humoruniv.com##div[id*="_wrap_"][id*="_read_"].bg0
 extrememanual.net##.post_content > div[data-dest="placeholder"][style^="min-height:"]
 dtoday.co.kr##body > div[style*="position: fixed;"][style*="z-index:99999"][style*="bottom:"]
 quiz.avatye.com###__next > div:not([class]):not([id]) > div[style^="position:"]
@@ -71,7 +72,6 @@ healtho.co.kr##.doc03_wrap > .doc03
 search.naver.com##div:is(._pl_section, ._bz_section).ad_section
 wadiz.kr##div[class^="RecommendationMobile_cardWrapper_"] > a[class^="MainBannerV2_container_"][data-promo-name]
 wadiz.kr##div[class^="KeyVisualBanner_container_"]
-m.humoruniv.com##div[id*="_info_read_abt_div"].bg0
 ppss.kr##ad-shield-ads
 m.humoruniv.com###read_ok_desc_div + div[style^="text-align:"].bg1
 web.humoruniv.com###wrap_cnts > div[style*="margin:"][style^="width:"].box
