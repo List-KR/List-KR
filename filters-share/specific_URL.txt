@@ -1,3 +1,4 @@
+/^https:\/\/img\.sedaily\.com\/\/?Html\/Banner\//$domain=sedaily.com
 ||cdn.onnetwork.tv/js/*/embedOptAd.min.js
 ||richgo.ai/api/ads
 /^https:\/\/api-gw\.sports\.naver\.com\/cms\/contents\/adContents\/(?!GENERAL)/$domain=m.sports.naver.com
