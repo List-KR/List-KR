@@ -1,3 +1,4 @@
+##amp-ad
 ##iframe[src*="//authanalysis.com/"]
 ##amp-embed
 ##iframe[src*="//ad.ad4989.co.kr/"]
