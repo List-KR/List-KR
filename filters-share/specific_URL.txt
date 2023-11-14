@@ -1,3 +1,4 @@
+||mobilitytv.co.kr/wp-content/plugins/advanced-ad
 /^https:\/\/img\.sedaily\.com\/\/?Html\/Banner\//$domain=sedaily.com
 ||cdn.onnetwork.tv/js/*/embedOptAd.min.js
 ||richgo.ai/api/ads
