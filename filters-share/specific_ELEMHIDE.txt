@@ -57,7 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
-mnews.imaeil.com##body > #bottom-sticky
+gukjenews.com,mnews.imaeil.com##body > #bottom-sticky
 bizhankook.com##footer ~ div[style^="position:"]
 m.humoruniv.com##div[id*="_wrap_"][id*="_comm_"].bg0
 m.ohmynews.com##iframe[src^="https://ojsfile.ohmynews.com/AD_FILE/"]
