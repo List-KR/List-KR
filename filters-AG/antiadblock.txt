@@ -94,7 +94,7 @@ spotvnow.co.kr#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com/pag
 ||a.aagag.com/js/AAGAG_AA.js$replace=/result\.length>[0-9]+/true/
 !#endif
 aagag.com#@#ins.adsbygoogle
-aagag.com#$#.la { height: 0px !important; width: 0px !important; }
+aagag.com#$#.la { height: 40px !important; width: 40px !important; visibility: hidden !important; }
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=aagag.com,xmlhttprequest
 !
 !#if (adguard_app_android)
