@@ -1,3 +1,4 @@
+||mememedia.co.kr/wp-content/plugins/advanced-ads
 ||cdn-img.viewus.co.kr/common/ad/
 ||comm-api.game.naver.com/nng_main/*/cpa/adList
 /^https:\/\/nng-phinf\.pstatic\.net\/.+\/[A-z0-9-.]+\.[A-Z]+\/[0-9]+x[0-9]+[A-z0-9%_]+_naverads\./$match-case,domain=naver.com

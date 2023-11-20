@@ -57,7 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
-newautopost.co.kr###main > div[class*="-ad-"]
+mememedia.co.kr,newautopost.co.kr###main > div[class*="-ad-"]
 newautopost.co.kr###coupang-ad-wrapper
 www.dt.co.kr##.main_wrap > center > div[style*=" height:"]
 www.dt.co.kr##.article_view > div[style$="overflow:hidden"].img_center
