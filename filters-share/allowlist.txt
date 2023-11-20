@@ -1,3 +1,7 @@
+! Must be rechecked in 2023 Dec 20.
+@@||aitimes.com/bannerpop/uploads/image/1699431559523961142.png
+aitimes.com#@#img[src^="/bannerpop/"]
+!
 @@||www.besteleven.com/bannerpop/uploads/image/
 besteleven.com#@#img[src^="/bannerpop/"]
 @@||cloudfront.net/media/banner/$domain=phdkim.net
