@@ -1,3 +1,4 @@
+||nsmartad.com^
 ||authanalysis.com^$third-party
 ||adfork.co.kr^
 ||planmix.co.kr^$third-party
