@@ -25,11 +25,11 @@ AdGuard 플렛폼에서는 별도의 안내가 없는 경우 AdGuard 베이스 �
 
 **AdGuard**:
 ```
-https://cdn.jsdelivr.net/gh/List-KR/List-KR@master/filter-AdGuard.txt
+https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filter-AdGuard.txt
 ```
 **uBlock Origin**:
 ```
-https://cdn.jsdelivr.net/gh/List-KR/List-KR@master/filter-uBlockOrigin.txt
+https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filter-uBlockOrigin.txt
 ```
 
 **List-KR DNS**:

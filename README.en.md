@@ -24,11 +24,11 @@ You can use following URLs to add List-KR to your ad blocker.
 
 **AdGuard**:
 ```
-https://cdn.jsdelivr.net/gh/List-KR/List-KR@master/filter-AdGuard.txt
+https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filter-AdGuard.txt
 ```
 **uBlock Origin**:
 ```
-https://cdn.jsdelivr.net/gh/List-KR/List-KR@master/filter-uBlockOrigin.txt
+https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filter-uBlockOrigin.txt
 ```
 
 **List-KR DNS**:
