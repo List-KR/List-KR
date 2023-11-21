@@ -3,16 +3,19 @@ name: AGLint and jsDelivr
 on:
   push:
     branches:
-      - '**'
-
-permissions:
-    actions: read
-    contents: read
+      - "**"
+  pull_request:
+    # The branches below must be a subset of the branches above
+    branches: 
+      - "**"
 
 jobs:
   lint:
     name: Run AGLint
     runs-on: ubuntu-latest
+    permissions:
+      actions: read
+      contents: read
     steps:
       - name: Check out to repository
         uses: actions/checkout@v4
@@ -32,6 +35,9 @@ jobs:
   jsdelivrpurge:
     name: Purge jsDelivr cache
     runs-on: ubuntu-latest
+    permissions:
+      actions: read
+      contents: read
     needs: lint
     if: ${{ always() && github.event_name == 'push' && github.ref_name == 'master' && needs.lint.result == 'success' }}
     steps:
