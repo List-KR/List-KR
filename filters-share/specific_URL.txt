@@ -1,3 +1,4 @@
+||youtu.co/wp-content/plugins/advanced-ads
 ||dfast.kr/wp-content/plugins/advanced-ads
 ||mememedia.co.kr/wp-content/plugins/advanced-ads
 ||cdn-img.viewus.co.kr/common/ad/

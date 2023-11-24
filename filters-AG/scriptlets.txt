@@ -2,7 +2,7 @@
 watchfreejavonline.co#%#//scriptlet('abort-current-inline-script', 'popMagic.init')
 !
 sbs.co.kr#%#//scriptlet('hide-in-shadow-dom', 'sbs-player-ad-wrapper', 'sbs-player[media]')
-dfast.kr#%#//scriptlet('prevent-addEventListener', 'hashchange', '#viewus-explore-more')
+youtu.co,dfast.kr#%#//scriptlet('prevent-addEventListener', 'hashchange', '#viewus-explore-more')
 mememedia.co.kr#%#//scriptlet('set-constant', 'jQuery.fn.getUrlParameter', '', '', 'asFunction')
 shopping.interpark.com#%#//scriptlet('set-constant', '$is.powerLink.loadPowerLink', 'noopFunc')
 !#if (adguard_app_ios || adguard_ext_safari)
