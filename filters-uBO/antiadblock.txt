@@ -45,7 +45,7 @@ spotvnow.co.kr##+js(no-xhr-if, pagead2.googlesyndication.com/pagead/js/adsbygoog
 spotvnow.co.kr##+js(no-fetch-if, pagead2.googlesyndication.com/pagead/js/adsbygoogle.js)
 ! aagag.com
 aagag.com#@#ins.adsbygoogle
-aagag.com#$#.la { height: 50px !important; width: 20px !important; visibility: hidden !important; }
+aagag.com#$#.la { height: 75px !important; width: 75px !important; visibility: hidden !important; }
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=aagag.com
 !
 3dpchip.com##+js(acis, chp_ads_blocker_detector)
