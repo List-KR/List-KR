@@ -1144,9 +1144,9 @@ booktoki303.com,booktoki304.com,booktoki305.com,booktoki306.com,booktoki307.com,
 toonkor283.com,toonkor284.com,toonkor285.com,toonkor286.com,toonkor287.com,toonkor288.com,toonkor289.com,toonkor290.com,toonkor291.com,toonkor292.com,toonkor293.com,toonkor294.com##.bnt > div[class^="bancol"]
 toonkor283.com,toonkor284.com,toonkor285.com,toonkor286.com,toonkor287.com,toonkor288.com,toonkor289.com,toonkor290.com,toonkor291.com,toonkor292.com,toonkor293.com,toonkor294.com###containerCol .at-content .contents > a[href][target] > img[src^="/bann/"]
 toonkor283.com,toonkor284.com,toonkor285.com,toonkor286.com,toonkor287.com,toonkor288.com,toonkor289.com,toonkor290.com,toonkor291.com,toonkor292.com,toonkor293.com,toonkor294.com##div[class$="mobile-banner"][style]
-manatoki303.net,manatoki304.net,manatoki305.net,manatoki306.net,manatoki307.net,manatoki308.net,manatoki309.net,manatoki310.net,manatoki311.net,manatoki312.net,manatoki313.net,manatoki314.net,manatoki315.net##[style="margin-bottom: 20px;"].row.row-15
-manatoki303.net,manatoki304.net,manatoki305.net,manatoki306.net,manatoki307.net,manatoki308.net,manatoki309.net,manatoki310.net,manatoki311.net,manatoki312.net,manatoki313.net,manatoki314.net,manatoki315.net##.basic-banner.row.row-10
-manatoki303.net,manatoki304.net,manatoki305.net,manatoki306.net,manatoki307.net,manatoki308.net,manatoki309.net,manatoki310.net,manatoki311.net,manatoki312.net,manatoki313.net,manatoki314.net,manatoki315.net##.board-tail-banner
+manatoki316.net,manatoki317.net,manatoki318.net,manatoki319.net,manatoki320.net,manatoki323.net,manatoki324.net,manatoki325.net,manatoki326.net,manatoki327.net,manatoki328.net,manatoki329.net,manatoki330.net##[style="margin-bottom: 20px;"].row.row-15
+manatoki316.net,manatoki317.net,manatoki318.net,manatoki319.net,manatoki320.net,manatoki323.net,manatoki324.net,manatoki325.net,manatoki326.net,manatoki327.net,manatoki328.net,manatoki329.net,manatoki330.net##.basic-banner.row.row-10
+manatoki316.net,manatoki317.net,manatoki318.net,manatoki319.net,manatoki320.net,manatoki323.net,manatoki324.net,manatoki325.net,manatoki326.net,manatoki327.net,manatoki328.net,manatoki329.net,manatoki330.net##.board-tail-banner
 103.204.13.68##.product-banner
 103.204.13.68##div[class^="mobile-m ad720_"]
 !
