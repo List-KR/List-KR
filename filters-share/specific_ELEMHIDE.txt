@@ -763,7 +763,7 @@ m.newsen.com##.googlead
 tistory.com##.adsense
 m.coocha.co.kr##.container > section#id_section_deal_list ~ section[id][class]
 coocha.co.kr##.group-deal .list > .group-power-link
-m.yonhapnewstv.co.kr,medicaltimes.com,gamemeca.com##div[id$="AD"]
+m.inews24.com,m.yonhapnewstv.co.kr,medicaltimes.com,gamemeca.com##div[id$="AD"]
 gamemeca.com##iframe[src^="https://ads.gamemeca.com/"]
 mobile.newsis.com##div[class$="adPos"][class^="listStyle"][style]
 news.sbs.co.kr###sn_banner_side_top
