@@ -1,6 +1,4 @@
-||youtu.co/wp-content/plugins/advanced-ads
-||dfast.kr/wp-content/plugins/advanced-ads
-||mememedia.co.kr/wp-content/plugins/advanced-ads
+/wp-content/plugins/advanced-ads
 ||cdn-img.viewus.co.kr/common/ad/
 ||comm-api.game.naver.com/nng_main/*/cpa/adList
 /^https:\/\/nng-phinf\.pstatic\.net\/.+\/[A-z0-9-.]+\.[A-Z]+\/[0-9]+x[0-9]+[A-z0-9%_]+_naverads\./$match-case,domain=naver.com
@@ -16,7 +14,6 @@
 ||coinreaders.com/data/coinreaders_com/upload/banner/
 ||healtho.co.kr/biz_files/sub_news/
 ||healtho.co.kr/biz_files/main_right/
-||tenbizt.com/wp-content/plugins/advanced-ads
 ||public-api.wadiz.kr/main/info/marketing
 ||service.wadiz.kr/api/*/wadizad/host/keyvisual
 /^https?:\/\/timg\.humoruniv\.com\/thumb_crop_resize\.php\?url=https?:\/\/[A-z0-9\.]+\/.+\?SIZE=[0-9]+(x|X)[0-9]+\?OPT=center/$domain=m.humoruniv.com
@@ -169,14 +166,12 @@
 ||m.ppomppu.co.kr/js/naver_power_ad.js
 ||bbongtv.com/img/*.gif|
 ||jlpt.or.kr/banner/
-||toptrend.blog/wp-content/plugins/advanced-ads-pro/
 ||gobest.co.kr/img*/cp-ad
 ||gobest.co.kr/img*/coupang-
 ||thewordcracker.com/wp-content/uploads/*/maintenance$image
 ||thewordcracker.com/wp-content/uploads/*/navercafe.webp
 ||thewordcracker.com/wp-content/uploads/*/BH_D.jpg
 ||ifh.cc^$domain=m-sooriya.tistory.com
-||wjdqhzld.com/wp-content/plugins/advanced-ads-pro/
 ||m-economynews.com/data/banner/
 /^https?:\/\/view[0-9]+\.wemep\.co\.kr\/wmp-banner\/[0-9]{2}\/[0-9]{6}\/[0-9]{2}\//$match-case,domain=wemakeprice.com
 /^https?:\/\/view[0-9]+\.wemep\.co\.kr\/wmp-main\/[0-9]{2}\/[0-9]{6}\/[0-9]{2}\/(pmt|pmb)_[a-z0-9]{12}\./$match-case,domain=wemakeprice.com
@@ -282,7 +277,6 @@
 ||gamefocus.co.kr/img_mobile/bn_main_*_m.
 ||t1.daumcdn.net/kas/static/na.min.js$domain=~shoppinghow.kakao.com
 ||api.wikitree.co.kr/api/v1/getArticles.php?*&type=11&
-||blockmedia.co.kr/wp-content/plugins/advanced-ads/
 ||blockmedia.co.kr/wp-content/uploads/*/Blockfesta_*uprise.
 ||coronaboard.kr/images/square-banner
 ||gmarket.co.kr/Nbp/NbpInfo
