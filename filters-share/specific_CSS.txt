@@ -1,5 +1,5 @@
 mlbpark.donga.com#$#div[id^="SmartPhone_"][id$="_today"] .lists > li:before { padding-top: 0px !important; border-bottom: none !important; }
-maxmovie.kr,capress.kr,youtu.co,dfast.kr,mememedia.co.kr,newautopost.co.kr#$#.news-view-wrap { padding-top: 0px !important; }
+tminews.co.kr,maxmovie.kr,capress.kr,youtu.co,dfast.kr,mememedia.co.kr,newautopost.co.kr#$#.news-view-wrap { padding-top: 0px !important; }
 gall.dcinside.com#$##zzbang_img { display: block !important; }
 tgd.kr#$#html[style*="background-image: url(//upload.tgd.kr/"].darkmode { background-image: none !important; background-color: #151515 !important; }
 tgd.kr#$#html[style*="background-image: url(//upload.tgd.kr/"]:not(.darkmode) { background-image: none !important; background-color: #f3f2f0 !important; }
