@@ -1,3 +1,4 @@
+||ads.motorgraph.com^
 ||arm.c.appier.net^
 ||ad.mediamixer.co.kr^
 ||aproxylog-next.tving.com^
