@@ -1,3 +1,4 @@
+||nosearch.com/api/naver*Ad?channel=
 ||prod.danawa.com/info/ajax/getPlanBPlusProductList.ajax.php
 ||prod.danawa.com/info/ajax/getPowerShopping.ajax.php
 /wp-content/plugins/advanced-ads
