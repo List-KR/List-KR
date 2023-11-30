@@ -1,3 +1,5 @@
+||prod.danawa.com/info/ajax/getPlanBPlusProductList.ajax.php
+||prod.danawa.com/info/ajax/getPowerShopping.ajax.php
 /wp-content/plugins/advanced-ads
 ||cdn-img.viewus.co.kr/common/ad/
 ||comm-api.game.naver.com/nng_main/*/cpa/adList
