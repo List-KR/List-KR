@@ -1,3 +1,4 @@
+/^https:\/\/nng-phinf\.pstatic\.net\/[A-z0-9]+\/[A-z0-9-.]+\.[A-Z]+\/naver_[A-z_]+_[0-9]+x[0-9]+_naverads\./$match-case,domain=naver.com
 /^https:\/\/sports-phinf\.pstatic\.net\/[0-9]+_[0-9]+\/[A-z0-9]+_[A-Z]+\/(%[A-Z0-9]+)+_(%[A-Z0-9]+)+_/$image,match-case,domain=m.sports.naver.com
 ||nosearch.com/api/naver*Ad?channel=
 ||prod.danawa.com/info/ajax/getPlanBPlusProductList.ajax.php
@@ -5,7 +6,6 @@
 /wp-content/plugins/advanced-ads
 ||cdn-img.viewus.co.kr/common/ad/
 ||comm-api.game.naver.com/nng_main/*/cpa/adList
-/^https:\/\/nng-phinf\.pstatic\.net\/.+\/[A-z0-9-.]+\.[A-Z]+\/[0-9]+x[0-9]+[A-z0-9%_]+_naverads\./$match-case,domain=naver.com
 ||mobilitytv.co.kr/wp-content/plugins/advanced-ad
 /^https:\/\/img\.sedaily\.com\/\/?Html\/Banner\//$domain=sedaily.com
 ||cdn.onnetwork.tv/js/*/embedOptAd.min.js
