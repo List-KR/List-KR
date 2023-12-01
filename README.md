@@ -21,7 +21,8 @@ AdGuard 플렛폼에서는 별도의 안내가 없는 경우 AdGuard 베이스 �
 
 사용하시는 광고 차단기에 아래 URL로 List-KR을 추가할 수 있습니다.
 
-> **Note**: iOS용 AdGuard에서는 특정 언어 필터에서 List-KR을 찾아 활성화해야 정상적인 사용이 가능합니다.
+> [!NOTE]
+> iOS용 AdGuard에서는 특정 언어 필터에서 List-KR을 찾아 활성화해야 정상적인 사용이 가능합니다.
 
 **AdGuard**:
 ```

@@ -20,7 +20,8 @@ If you need a private support via email, check out [our contacts on community.li
 
 You can use following URLs to add List-KR to your ad blocker.
 
-> **Note**: You need to enable List-KR by finding it in language specific filters for List-KR to be work properly.
+> [!NOTE]
+> You need to enable List-KR by finding it in language specific filters for List-KR to be work properly.
 
 **AdGuard**:
 ```
