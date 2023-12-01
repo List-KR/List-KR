@@ -1,3 +1,4 @@
+/^https:\/\/sports-phinf\.pstatic\.net\/[0-9]+_[0-9]+\/[A-z0-9]+_[A-Z]+\/(%[A-Z0-9]+)+_(%[A-Z0-9]+)+_/$image,match-case,domain=m.sports.naver.com
 ||nosearch.com/api/naver*Ad?channel=
 ||prod.danawa.com/info/ajax/getPlanBPlusProductList.ajax.php
 ||prod.danawa.com/info/ajax/getPowerShopping.ajax.php
