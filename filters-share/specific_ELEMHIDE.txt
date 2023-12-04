@@ -1052,6 +1052,8 @@ osen.mt.co.kr##div#close_mask
 !
 ! DOMAIN-REFRESHER: START
 !
+torrentdin4.com,torrentdin5.com,torrentdin6.com,torrentdin7.com,torrentdin8.com,torrentdin9.com,torrentdin10.com,torrentdin11.com,torrentdin12.com,torrentdin13.com,torrentdin14.com,torrentdin15.com###hd_pop
+torrentdin4.com,torrentdin5.com,torrentdin6.com,torrentdin7.com,torrentdin8.com,torrentdin9.com,torrentdin10.com,torrentdin11.com,torrentdin12.com,torrentdin13.com,torrentdin14.com,torrentdin15.com##.at-main > .widget-box
 torrentreel50.site,torrentreel51.site,torrentreel52.site,torrentreel53.site,torrentreel54.site,torrentreel55.site,torrentreel56.site,torrentreel57.site,torrentreel58.site,torrentreel59.site##.ad-cont-box ~ div[style^="margin:"]
 tvchak61.com,tvchak62.com,tvchak63.com,tvchak64.com,tvchak65.com,tvchak66.com,tvchak67.com,tvchak68.com,tvchak69.com,tvchak70.com,tvchak71.com,tvchak72.com,tvchak73.com,tvchak74.com,tvchak75.com,tvchak76.com,tvchak77.com,tvchak78.com,tvchak79.com,tvchak80.com,tvchak81.com,tvchak82.com##div[style].border-shadow
 tvchak61.com,tvchak62.com,tvchak63.com,tvchak64.com,tvchak65.com,tvchak66.com,tvchak67.com,tvchak68.com,tvchak69.com,tvchak70.com,tvchak71.com,tvchak72.com,tvchak73.com,tvchak74.com,tvchak75.com,tvchak76.com,tvchak77.com,tvchak78.com,tvchak79.com,tvchak80.com,tvchak81.com,tvchak82.com##.banner-box
