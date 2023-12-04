@@ -734,6 +734,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/^https:\/\/[a-z]+\.aniwolf\.com\/storage\/[A-z0-9]+\./$domain=aniwolf.*
 ||tinypic.host^$domain=tvroom.*
 /^https:\/\/www\.torrentreel[0-9]+\.site\/ad\//
 /^https:\/\/tvchak[0-9]+\.com\/img\/bbnn/
