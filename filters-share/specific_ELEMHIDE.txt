@@ -57,6 +57,8 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+ygosu.com##div:is(#board_search_result, .search_result) a[target="_blank"][href^="/board/ad/"]
+ygosu.com###rich-media-placement ~ div[style*="height:"][style*="padding-top:"][style*="padding-bottom:"]
 zdnet.co.kr##iframe[src^="/template_ad/?aid="]
 zdnet.co.kr##iframe[src^="https://adv.zdnet.co.kr/"]
 m.sports.naver.com##.main_grid_item> div[class*="_promotion__"]
