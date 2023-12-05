@@ -735,6 +735,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+||jmana.*/resouce/img/adimg/
 /^https:\/\/ww[0-9]+\.torrentdin[0-9]+\.com\/data\/editor\/[0-9]+\/[a-z0-9]+_[a-z0-9]+_[a-z0-9]+\./
 /^https:\/\/ww[0-9]+\.torrentdin[0-9]+\.com\/data\/file\/ad\//
 /^https:\/\/[a-z]+\.aniwolf\.com\/storage\/[A-z0-9]+\./$domain=aniwolf.*
