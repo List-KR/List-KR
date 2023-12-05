@@ -57,6 +57,8 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+zdnet.co.kr##iframe[src^="/template_ad/?aid="]
+zdnet.co.kr##iframe[src^="https://adv.zdnet.co.kr/"]
 m.sports.naver.com##.main_grid_item> div[class*="_promotion__"]
 prod.danawa.com###powerShoppingContent
 m.richgo.ai##div[class^="DanjiInfomation__"] > div[class^="Divider__SD_Layout-"] + div[class^="Divider__SD_Layout-"]
@@ -775,7 +777,7 @@ sign.dcinside.com##.ban_box
 playwares.com##a[href*="../api/redirectAd.php?"]
 kormedi.com##div[id^="better-ads-"]
 kormedi.com##iframe[src*="/wp-content/uploads/ads/"]
-msearch.shopping.naver.com,pann.nate.com,theqoo.net,asiatoday.co.kr,osmanias.com,drapt.com,realty.chosun.com,newstong.co.kr,it.chosun.com,cm.asiae.co.kr,modoodoc.com,salgoonews.com,xportsnews.com##div[class*="_ad_"]
+zdnet.co.kr,msearch.shopping.naver.com,pann.nate.com,theqoo.net,asiatoday.co.kr,osmanias.com,drapt.com,realty.chosun.com,newstong.co.kr,it.chosun.com,cm.asiae.co.kr,modoodoc.com,salgoonews.com,xportsnews.com##div[class*="_ad_"]
 shoppinghow.kakao.com##div[data-gg="{s1:shopping}"] h2 + div[class^="#banner"]
 m.naver.com##div[data-panel-code="SHOP_VOGUE"] ._MM_TREND_PICK
 compuzone.co.kr###gamezone .bnrList_area > ul.rollbnr_list
