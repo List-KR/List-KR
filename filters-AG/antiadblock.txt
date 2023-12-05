@@ -45,6 +45,7 @@ meeco.kr#@#.googleAd
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=meeco.kr
 @@||meeco.kr^$generichide
 meeco.kr#@#.adsbygoogle
+meeco.kr#$#.adsbygoogle { display: none !important; }
 !#endif
 !#if (adguard_ext_safari)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=meeco.kr
