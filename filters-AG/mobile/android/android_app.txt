@@ -1,3 +1,4 @@
+||braze-images.com^$app=kr.co.rememberapp
 ||app.dcinside.com/api/_ad_search_link2.php
 ||firebaseinstallations.googleapis.com^$app=instasaver.instagram.video.downloader.photo
 ||ds.11st.co.kr/NetInsight/text/11st/11st_mobile/mobile_product
