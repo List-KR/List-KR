@@ -1,3 +1,7 @@
+! TODO: remove the following filter if https://github.com/AdguardTeam/CoreLibs/issues/1831 is resolved.
+!#if (adguard_app_android || adguard_app_mac || adguard_app_windows)
+/^https:\/\/m[0-9]+\.kotbc\.com\/img\/[a-z0-9_/]+\.gif$/
+!#endif
 !#if adguard_app_ios
 /^https:\/\/nng-phinf\.pstatic\.net\/[A-z0-9]+\/[A-z0-9-.]+\.[A-Z]+\/naver_[A-z_]+_[0-9]+x[0-9]+_naverads\./$domain=naver.com
 !#endif
