@@ -735,6 +735,9 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+||cokcok.*/wp-json/jt-bad-ux-popup/list/
+||cokcok.*/wp-admin/admin-ajax.php?action=jt_bad_ux_popup
+||cokcok.*/wp-admin/admin-ajax.php?action=load_random_banners
 ||jmana.*/resouce/img/adimg/
 /^https:\/\/ww[0-9]+\.torrentdin[0-9]+\.com\/data\/editor\/[0-9]+\/[a-z0-9]+_[a-z0-9]+_[a-z0-9]+\./
 /^https:\/\/ww[0-9]+\.torrentdin[0-9]+\.com\/data\/file\/ad\//
