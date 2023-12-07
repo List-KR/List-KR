@@ -48,6 +48,7 @@ aagag.com#@#ins.adsbygoogle
 aagag.com#$#.la { height: 75px !important; width: 75px !important; visibility: hidden !important; }
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=aagag.com
 !
+||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=google-ima.js,domain=sbs.co.kr
 3dpchip.com##+js(acis, chp_ads_blocker_detector)
 3dpchip.com##+js(aopw, HTMLAnchorElement.prototype.onclick)
 @@||advimg.ad-mapps.com/sdk/js/ver/200/ad_script.js$domain=maxmovie.com
