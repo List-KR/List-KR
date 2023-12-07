@@ -1,6 +1,7 @@
 ! PopMagic
 watchfreejavonline.co#%#//scriptlet('abort-current-inline-script', 'popMagic.init')
 !
+hub.zum.com#%#//scriptlet('set-constant', 'Math.uuid', '', '', 'asFunction')
 sbs.co.kr#%#//scriptlet('hide-in-shadow-dom', 'sbs-player-ad-wrapper', 'sbs-player[media]')
 youtu.co,dfast.kr#%#//scriptlet('prevent-addEventListener', 'hashchange', '#viewus-explore-more')
 mememedia.co.kr#%#//scriptlet('set-constant', 'jQuery.fn.getUrlParameter', '', '', 'asFunction')
