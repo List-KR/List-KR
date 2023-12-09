@@ -1,3 +1,4 @@
+/^https:\/\/api-gw\.sports\.naver\.com\/cms\/contents\/adContents\/(?!(GENERAL|BRAND_STORY))/$domain=m.sports.naver.com
 ||da.namu.la^$domain=arca.live
 ||arca.live/api/*pagead?$xmlhttprequest
 /^https:\/\/nng-phinf\.pstatic\.net\/[A-z0-9]+\/[A-z0-9-.]+\.[A-Z]+\/naver_[A-z_]+_[0-9]+x[0-9]+_naverads\./$match-case,domain=naver.com
@@ -12,7 +13,6 @@
 /^https:\/\/img\.sedaily\.com\/\/?Html\/Banner\//$domain=sedaily.com
 ||cdn.onnetwork.tv/js/*/embedOptAd.min.js
 ||richgo.ai/api/ads
-/^https:\/\/api-gw\.sports\.naver\.com\/cms\/contents\/adContents\/(?!GENERAL)/$domain=m.sports.naver.com
 ||wiizmkrstorage.blob.core.windows.net/wiadcontainer/
 ||go.bandisoft.com/coupang.bandizip|$document
 ||busan.com/nas/wcms/public/pc/images/new/bluebanner.png
