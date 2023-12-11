@@ -1,3 +1,4 @@
+m.pay.naver.com#?##content > .recommend_section:has(> div[style^="padding:"] > #m_pay_deliverytracking):has-text(/^[ \n]+$/)
 pedia.watcha.com#?#section[class^="css-"] section[class^="css-"] > [class^="css-"]:is(:has(section > a[target="_blank"]), :has(> div[class^="media-area "])):has-text( · AD):not(:has(section ~ section))
 eomisae.co.kr#?#._listA tr.notice:has(span[style]:has-text(AD))
 bonik.me#?##sidebar > .module:has-text(Ad)
