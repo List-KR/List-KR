@@ -735,6 +735,8 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/^https:\/\/mkmk[0-9]+\.com\/img\/[a-z]+[0-9]+x[0-9]+/
+/^https:\/\/mkmk[0-9]+\.com\/img\/[a-z0-9_-]+\.gif$/
 ||agitnovel.*/data/file/novel/banner/$domain=agitnovel.*
 ||cokcok.*/wp-json/jt-bad-ux-popup/list/
 ||cokcok.*/wp-admin/admin-ajax.php?action=jt_bad_ux_popup
@@ -844,7 +846,6 @@
 /^https:\/\/manamoa[0-9]+\.com\/data\/apms\/background\//
 /^https:\/\/namedtoon[0-9]+\.com\/Uploads\/\/images\/[0-9]{4}-[0-9]{2}-[0-9]{2}\/[a-z0-9]{13}/
 /^https:\/\/imgcloud[0-9]+\.net\//$domain=fxfx192.com|fxfx193.com|fxfx194.com|fxfx195.com|fxfx196.com|fxfx197.com|fxfx198.com|fxfx199.com|fxfx200.com|fxfx201.com|fxfx202.com|fxfx203.com|fxfx204.com|fxfx205.com|fxfx206.com|fxfx207.com|fxfx208.com|fxfx209.com|fxfx210.com
-/^https:\/\/mkmk[0-9]+\.link\/data\/file\/banner\//
 /^https:\/\/(www\.)?race[0-9]+\.xyz\/images\/spon\//
 /^https:\/\/imgcloud[0-9]+\.net\//$domain=wtwt201.com|wtwt202.com|wtwt203.com|wtwt204.com|wtwt205.com|wtwt206.com|wtwt207.com|wtwt208.com|wtwt209.com|wtwt210.com|wtwt211.com|wtwt212.com|wtwt213.com|wtwt214.com|wtwt215.com|wtwt216.com|wtwt217.com|wtwt218.com|wtwt219.com
 ||i.imgur.com^$domain=torrentgram59.com|torrentgram60.com|torrentgram61.com|torrentgram62.com|torrentgram63.com|torrentgram64.com|torrentgram65.com|torrentgram66.com|torrentgram67.com|torrentgram68.com|torrentgram69.com|torrentgram70.com|torrentgram71.com|torrentgram72.com|torrentgram73.com|torrentgram74.com
