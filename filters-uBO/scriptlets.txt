@@ -3,8 +3,9 @@
 watchfreejavonline.co##+js(acis, popMagic.init)
 ! https://github.com/uBlockOrigin/uBlock-issues/issues/2130#issuecomment-1621684566
 apycsports.com##*[class*="not_cookie"]:remove-class(not_cookie)
+! m.humoruniv.com
+m.humoruniv.com##+js(acis, $.prototype.html, /\/images\/[A-z0-9-_]+\.(jpg|gif)/)
 !
-m.humoruniv.com##+js(set-cookie-reload, 'post_cook', '')
 hub.zum.com##+js(set, Math.uuid, '', '', asFunction)
 youtu.co,dfast.kr##+js(aeld, hashchange, #viewus-explore-more)
 mememedia.co.kr##+js(set, jQuery.fn.getUrlParameter, '', asFunction)
@@ -33,8 +34,6 @@ search.11st.co.kr##+js(set, searchDataFactory.focusPrdList, {})
 search.11st.co.kr##+js(set, searchDataFactory.powerPrdList, {})
 search.11st.co.kr##+js(set, searchDataFactory.plusPrdList, {})
 enuri.com##+js(json-prune, data.supertopADNos)
-m.humoruniv.com##+js(acis, $.prototype.html, /\/images\/[A-z0-9-_]+\.(jpg|gif)/)
-m.humoruniv.com##+js(nostif, /[A-z0-9_]+\(ch[0-9]+_[A-z0-9]+\)/)
 sbs.co.kr##+js(set, player.renderAdSequence, undefined)
 domin.co.kr##+js(set, bannerpop.popup, noopFunc)
 nesin.com##+js(acis, open, /\/popup\//)

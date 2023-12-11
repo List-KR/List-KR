@@ -1,15 +1,16 @@
 ! PopMagic
 watchfreejavonline.co#%#//scriptlet('abort-current-inline-script', 'popMagic.init')
+! m.humoruniv.com
+!#if (adguard_app_ios || adguard_ext_safari)
+m.humoruniv.com#%#//scriptlet('abort-on-stack-trace', '$.prototype.html', 'ch')
+!#endif
+m.humoruniv.com#%#//scriptlet('abort-current-inline-script', '$.prototype.html', '/\/images\/[A-z0-9-_]+\.(jpg|gif)/')
 !
-m.humoruniv.com#%#//scriptlet('set-cookie-reload', 'post_cook', '')
 hub.zum.com#%#//scriptlet('set-constant', 'Math.uuid', '', '', 'asFunction')
 sbs.co.kr#%#//scriptlet('hide-in-shadow-dom', 'sbs-player-ad-wrapper', 'sbs-player[media]')
 youtu.co,dfast.kr#%#//scriptlet('prevent-addEventListener', 'hashchange', '#viewus-explore-more')
 mememedia.co.kr#%#//scriptlet('set-constant', 'jQuery.fn.getUrlParameter', '', '', 'asFunction')
 shopping.interpark.com#%#//scriptlet('set-constant', '$is.powerLink.loadPowerLink', 'noopFunc')
-!#if (adguard_app_ios || adguard_ext_safari)
-m.humoruniv.com#%#//scriptlet('abort-on-stack-trace', '$.prototype.html', 'ch')
-!#endif
 msearch.shopping.naver.com#%#//scriptlet('json-prune', 'adRecommend.adUnits.[]')
 humors.zigcou.com#%#//scriptlet('set-constant', 'window.__NEXT_DATA__.props.pageProps.initialState.post.adhistory', 'emptyObj')
 slrclub.com#%#//scriptlet('abort-on-stack-trace', 'encodeURIComponent', '/(\/bbs\/zboard\.php\?id=|bbs_view[a-z]{3,}\.js)/')
@@ -35,8 +36,6 @@ search.11st.co.kr#%#//scriptlet('set-constant', 'searchDataFactory.focusPrdList'
 search.11st.co.kr#%#//scriptlet('set-constant', 'searchDataFactory.powerPrdList', 'emptyObj')
 search.11st.co.kr#%#//scriptlet('set-constant', 'searchDataFactory.plusPrdList', 'emptyObj')
 enuri.com#%#//scriptlet('json-prune', 'data.supertopADNos')
-m.humoruniv.com#%#//scriptlet('abort-current-inline-script', '$.prototype.html', '/\/images\/[A-z0-9-_]+\.(jpg|gif)/')
-m.humoruniv.com#%#//scriptlet('prevent-setTimeout', '/[A-z0-9_]+\(ch[0-9]+_[A-z0-9]+\)/')
 sbs.co.kr#%#//scriptlet('set-constant', 'player.renderAdSequence', 'undefined')
 domin.co.kr#%#//scriptlet('set-constant', 'bannerpop.popup', 'noopFunc')
 nesin.com#%#//scriptlet('abort-current-inline-script', 'open', '/\/popup\//')
