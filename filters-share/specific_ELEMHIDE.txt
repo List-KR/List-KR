@@ -1054,6 +1054,8 @@ osen.mt.co.kr##div#close_mask
 !
 ! DOMAIN-REFRESHER: START
 !
+jusoyo12.net,jusoyo13.net,jusoyo14.net,jusoyo15.net,jusoyo16.net,jusoyo17.net,jusoyo18.net,jusoyo19.net,jusoyo20.net,jusoyo21.net,jusoyo22.net##.hd_pops
+jusoyo12.net,jusoyo13.net,jusoyo14.net,jusoyo15.net,jusoyo16.net,jusoyo17.net,jusoyo18.net,jusoyo19.net,jusoyo20.net,jusoyo21.net,jusoyo22.net##.basic-banner-gallery
 agitnovel.*##.banner
 spochak.com##.list-webzine .list-item
 torrentdin4.com,torrentdin5.com,torrentdin6.com,torrentdin7.com,torrentdin8.com,torrentdin9.com,torrentdin10.com,torrentdin11.com,torrentdin12.com,torrentdin13.com,torrentdin14.com,torrentdin15.com###hd_pop

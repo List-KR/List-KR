@@ -735,6 +735,8 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/^https:\/\/\jusoyo[0-9]+\.(net|com)\/data\/apms\/background\//
+/^https:\/\/\jusoyo[0-9]+\.(net|com)\/.+\.webp$/
 /^https:\/\/yadong[0-9]+\.net\/Uploads\/images\/[0-9]{4}-[0-9]{2}-[0-9]{2}/
 ||blogger.googleusercontent.com^$domain=yasyadong.com
 ||i.imgur.com^$domain=yasyadong.com
