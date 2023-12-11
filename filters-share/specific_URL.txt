@@ -735,6 +735,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/^https:\/\/yadong[0-9]+\.net\/Uploads\/images\/[0-9]{4}-[0-9]{2}-[0-9]{2}/
 ||blogger.googleusercontent.com^$domain=yasyadong.com
 ||i.imgur.com^$domain=yasyadong.com
 /^https:\/\/iabn[0-9]+\.net\//$domain=fxfx212.com|fxfx213.com|fxfx214.com|fxfx215.com|fxfx216.com|fxfx217.com|fxfx218.com|fxfx219.com|fxfx220.com|fxfx221.com|fxfx222.com|fxfx223.com|fxfx224.com|fxfx225.com|fxfx226.com|fxfx227.com|fxfx228.com|fxfx229.com|fxfx230.com
