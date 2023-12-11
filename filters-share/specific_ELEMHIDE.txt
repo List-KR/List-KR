@@ -1088,7 +1088,7 @@ torrentpi100.com,torrentpi101.com,torrentpi102.com,torrentpi103.com,torrentpi104
 hasha.in##div[style^="min-height:"][class^="bg-hasha-"] > div[style] + .max-w-full
 tvzota70.com,tvzota71.com,tvzota72.com,tvzota73.com,tvzota74.com,tvzota75.com,tvzota76.com,tvzota77.com,tvzota78.com,tvzota79.com,tvzota80.com##div[class^="popup_"]
 tvzota70.com,tvzota71.com,tvzota72.com,tvzota73.com,tvzota74.com,tvzota75.com,tvzota76.com,tvzota77.com,tvzota78.com,tvzota79.com,tvzota80.com##.wid
-kimyadong.net,yadongwang.org,yadongstar.net,yadongkorea.red,yadongtube.net,yatv.net###banner
+yadongwang.org,yadongkorea.red,yadongtube.net,yatv.net###banner
 save-1.net##div[id^="float"]
 save-1.net##div[class^="header-banner-"]
 save-1.net##.at-main > .widget-box
