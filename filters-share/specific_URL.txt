@@ -735,6 +735,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+||kormovie.com/img/*.gif|
 /^https:\/\/\jusoyo[0-9]+\.(net|com)\/data\/apms\/background\//
 /^https:\/\/\jusoyo[0-9]+\.(net|com)\/.+\.webp$/
 /^https:\/\/yadong[0-9]+\.net\/Uploads\/images\/[0-9]{4}-[0-9]{2}-[0-9]{2}/
