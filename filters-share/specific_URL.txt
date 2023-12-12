@@ -735,6 +735,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/thumb/kh/bn/*$domain=1004past.com
 /^https:\/\/jiok[0-9]+\.net\/img\//
 /data/apms/background/*$domain=opworlds16.com|opworlds17.com|opworlds18.com|opworlds19.com|opworlds20.com|opworlds21.com|opworlds22.com|opworlds23.com|opworlds24.com
 /data/editor/*$domain=opworlds16.com|opworlds17.com|opworlds18.com|opworlds19.com|opworlds20.com|opworlds21.com|opworlds22.com|opworlds23.com|opworlds24.com
