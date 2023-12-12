@@ -1054,6 +1054,7 @@ osen.mt.co.kr##div#close_mask
 !
 ! DOMAIN-REFRESHER: START
 !
+opworlds16.com,opworlds17.com,opworlds18.com,opworlds19.com,opworlds20.com,opworlds21.com,opworlds22.com,opworlds23.com,opworlds24.com##.basic-banner-gallery
 jusoyo12.net,jusoyo13.net,jusoyo14.net,jusoyo15.net,jusoyo16.net,jusoyo17.net,jusoyo18.net,jusoyo19.net,jusoyo20.net,jusoyo21.net,jusoyo22.net##.hd_pops
 jusoyo12.net,jusoyo13.net,jusoyo14.net,jusoyo15.net,jusoyo16.net,jusoyo17.net,jusoyo18.net,jusoyo19.net,jusoyo20.net,jusoyo21.net,jusoyo22.net##.basic-banner-gallery
 agitnovel.*##.banner

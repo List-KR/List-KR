@@ -735,6 +735,9 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/data/apms/background/*$domain=opworlds16.com|opworlds17.com|opworlds18.com|opworlds19.com|opworlds20.com|opworlds21.com|opworlds22.com|opworlds23.com|opworlds24.com
+/data/editor/*$domain=opworlds16.com|opworlds17.com|opworlds18.com|opworlds19.com|opworlds20.com|opworlds21.com|opworlds22.com|opworlds23.com|opworlds24.com
+/data/file/primium/*$domain=opworlds16.com|opworlds17.com|opworlds18.com|opworlds19.com|opworlds20.com|opworlds21.com|opworlds22.com|opworlds23.com|opworlds24.com
 /^https:\/\/yt[0-9]+\.org\/files\/attach\/banner_images\/[0-9]+\/([0-9-]+(x|X)[0-9]+|(%[A-Z0-9]+)+)\./$domain=yt723.org|yt724.org|yt725.org|yt726.org|yt727.org|yt728.org|yt729.org|yt730.org|yt731.org|yt732.org|yt733.org
 /^https:\/\/bookmoa[0-9]+\.com\/data\/apms\/background\//
 ||kormovie.com/img/*.gif|

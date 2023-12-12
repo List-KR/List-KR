@@ -143,6 +143,7 @@ berryjam.co.kr#?#table[width="1200"]:has(> tbody > tr > td > div[class*="slider-
 !
 ! DOMAIN-REFRESHER: START
 !
+opworlds16.com,opworlds17.com,opworlds18.com,opworlds19.com,opworlds20.com,opworlds21.com,opworlds22.com,opworlds23.com,opworlds24.com#?#.row > .col-sm-12:has(a[href^="/bbs/board.php?bo_table=primium"])
 spochak.com#?#table .basic-info-alert:has(a[href="/marble/"])
 avsee.*#?#.widget-side-box > .main-box:has(img[src^="/imgs/"])
 viewtorrent13.com,viewtorrent14.com,viewtorrent15.com,viewtorrent16.com,viewtorrent17.com,viewtorrent18.com,viewtorrent19.com,viewtorrent20.com,viewtorrent21.com,viewtorrent22.com,viewtorrent23.com,viewtorrent24.com,viewtorrent25.com#?#article[itemprop="articleBody"] > div[class]:has(div[role="alert"])
