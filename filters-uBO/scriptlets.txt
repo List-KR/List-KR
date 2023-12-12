@@ -8,6 +8,8 @@ m.humoruniv.com##+js(set, list_end_run, noopFunc)
 m.humoruniv.com##+js(aost, $.prototype.html, _boom)
 m.humoruniv.com##+js(acis, $.prototype.html, /\/images\/[A-z0-9-_]+\.(jpg|gif)/)
 !
+m.shop.interpark.com##+js(set, FastClick.attach, noopFunc)
+m.shop.interpark.com##+js(set, FastClick, noopFunc)
 hub.zum.com##+js(set, Math.uuid, '', '', asFunction)
 youtu.co,dfast.kr##+js(aeld, hashchange, #viewus-explore-more)
 mememedia.co.kr##+js(set, jQuery.fn.getUrlParameter, '', asFunction)

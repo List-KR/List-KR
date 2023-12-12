@@ -1,3 +1,6 @@
+!#if (adguard_app_ios)
+@@||m.shop.interpark.com/_static/js/plugin/fastclick.min.js
+!#endif
 !#if (adguard_ext_android_cb)
 quiz.avatye.com#@#ins.adsbygoogle
 !#endif
