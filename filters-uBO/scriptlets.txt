@@ -6,7 +6,7 @@ apycsports.com##*[class*="not_cookie"]:remove-class(not_cookie)
 ! m.humoruniv.com
 m.humoruniv.com##+js(set, list_end_run, noopFunc)
 m.humoruniv.com##+js(aost, $.prototype.html, _boom)
-m.humoruniv.com##+js(acis, $.prototype.html, /\/images\/[A-z0-9-_]+\.(jpg|gif)/)
+m.humoruniv.com##+js(acis, $.prototype.html, /\/images\/[A-z0-9-_]+\.?(jpg|gif)/)
 !
 m.shop.interpark.com##+js(set, FastClick.attach, noopFunc)
 m.shop.interpark.com##+js(set, FastClick, noopFunc)
