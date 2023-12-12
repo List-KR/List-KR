@@ -735,6 +735,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/^https:\/\/bookmoa[0-9]+\.com\/data\/apms\/background\//
 ||kormovie.com/img/*.gif|
 /^https:\/\/\jusoyo[0-9]+\.(net|com)\/data\/apms\/background\//
 /^https:\/\/\jusoyo[0-9]+\.(net|com)\/.+\.webp$/
