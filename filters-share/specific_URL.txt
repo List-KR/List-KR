@@ -735,6 +735,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/^https:\/\/yt[0-9]+\.org\/files\/attach\/banner_images\/[0-9]+\/([0-9-]+(x|X)[0-9]+|(%[A-Z0-9]+)+)\./$domain=yt723.org|yt724.org|yt725.org|yt726.org|yt727.org|yt728.org|yt729.org|yt730.org|yt731.org|yt732.org|yt733.org
 /^https:\/\/bookmoa[0-9]+\.com\/data\/apms\/background\//
 ||kormovie.com/img/*.gif|
 /^https:\/\/\jusoyo[0-9]+\.(net|com)\/data\/apms\/background\//
