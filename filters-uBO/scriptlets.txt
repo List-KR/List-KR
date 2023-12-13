@@ -64,6 +64,6 @@ imbc.com##+js(set, vrixadsdk, undefined)
 ! DOMAIN-REFRESHER: START
 !
 zzzz.lol##+js(nosiif, animationEffects[settings.animation.effect])
-lover923.net,lover924.net,lover925.net,lover926.net,lover927.net,lover928.net,lover929.net,lover930.net,lover931.net,lover932.net##+js(nano-stb, closeBtn.innerHTML, , 0.001)
+lover924.net,lover925.net,lover926.net,lover927.net,lover928.net,lover929.net,lover930.net,lover931.net,lover932.net,lover933.net##+js(nano-stb, closeBtn.innerHTML, , 0.001)
 !
 ! DOMAIN-REFRESHER: END

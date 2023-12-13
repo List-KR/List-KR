@@ -216,6 +216,6 @@ play.aidungeon.io,tamrieltradecentre.com,downloads.descendant.me,html5.gamedistr
 !
 ! DOMAIN-REFRESHER: START
 !
-lover923.net,lover924.net,lover925.net,lover926.net,lover927.net,lover928.net,lover929.net,lover930.net,lover931.net,lover932.net#%#//scriptlet('prevent-setTimeout', ').offsetHeight <')
+lover924.net,lover925.net,lover926.net,lover927.net,lover928.net,lover929.net,lover930.net,lover931.net,lover932.net,lover933.net#%#//scriptlet('prevent-setTimeout', 'document[_0x')
 !
 ! DOMAIN-REFRESHER: END
