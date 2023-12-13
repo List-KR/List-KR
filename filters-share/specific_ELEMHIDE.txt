@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+fmkorea.com##iframe[src^="https://loader.fmkorea.com/_loader/loader.php"]
 m.humoruniv.com##div[id$="_boom_boom_wrap"][class*=" "]
 ygosu.com##div:is(#board_search_result, .search_result) a[target="_blank"][href^="/board/ad/"]
 ygosu.com###rich-media-placement ~ div[style*="height:"][style*="padding-top:"][style*="padding-bottom:"]
