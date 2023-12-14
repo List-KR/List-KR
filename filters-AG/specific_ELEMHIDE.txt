@@ -1,4 +1,5 @@
 !#if adguard_app_ios
+m.humoruniv.com##a[onclick*="_boom("] > div[id*="_boom_"]
 m.humoruniv.com##div[id$="_boom"][class*=" "]
 m.humoruniv.com##form[action^="boardexp/run.html"] ~ dd[class^="bt"]#d3
 m.humoruniv.com###knock ~ dd[class^="gbt"]#d3
