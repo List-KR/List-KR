@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+m.fmkorea.com##body > header[class] ~ div[class] > div[style*=";margin:"] div[style^="height:"]
 m.fmkorea.com##body > header[class] ~ div[class][style^="height:"]
 etoland.co.kr##article[class^="etoad-"]
 biz.newdaily.co.kr##div[itemprop="articleBody"] > div[style^="margin:"].clearfix
