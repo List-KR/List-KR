@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+etoland.co.kr###m_main_attendance_wrap ~ a[href^="../../plugin/mobile/board.php?bo_table=market_"]
 m.fmkorea.com##div[id^="fmad_"] + div[style^="height:"][class]
 m.fmkorea.com##body > header[class] ~ div[class] > div[style*=";margin:"] div[style^="height:"]
 m.fmkorea.com##body > header[class] ~ div[class][style^="height:"]
