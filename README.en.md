@@ -44,9 +44,17 @@ https://cdn.jsdelivr.net/gh/adguardteam/HostlistsRegistry@main/assets/filter_25.
 
 Using the only functions provided by ad blocker cannot block complex ads effectively.
 
-If you have a website you use below, use UserScript.
+If you visit the following websites, you need to install microShield userscript by referring [microShield installation guide](https://github.com/List-KR/microShield):
+ - genshinlab.com
+ - warcraftrumbledeck.com
+ - thesaurus.net
+ - gamingdeputy.com
+ - golf-live.at
+ - hancinema.net
+ - hometownstation.com
+ - thestockmarketwatch.com
 
-To learn more, please refer [List-KR community pages](https://community.list-kr.com).
+ And, other websites.
 
 ### Naver Cafe
 
