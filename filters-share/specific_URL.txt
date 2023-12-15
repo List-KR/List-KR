@@ -735,6 +735,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+||wwwimageup.live-009.com/other/wx_app_admin/
 /^https:\/\/opss[0-9]+\.com\/img\/[A-z]+\.gif(\?v=[0-9]+)?$/
 /thumb/kh/bn/*$domain=1004past.com
 /^https:\/\/jiok[0-9]+\.net\/img\//
