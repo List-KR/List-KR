@@ -23,6 +23,9 @@ You can use following URLs to add List-KR to your ad blocker.
 > [!NOTE]
 > You need to enable List-KR by finding it in language specific filters for List-KR to be work properly.
 
+> [!IMPORTANT]
+> List-KR filter is not supported on any adblockers except AdGuard and uBlock Origin; even if it is added, it may cause a malfunction, let alone the expected operation.
+
 **AdGuard**:
 ```
 https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filter-AdGuard.txt
