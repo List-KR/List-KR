@@ -59,8 +59,6 @@ sports.donga.com##div[id*="_AD"]
 !
 etoland.co.kr###m_main_attendance_wrap ~ a[href^="../../plugin/mobile/board.php?bo_table=market_"]
 m.fmkorea.com##div[id^="fmad_"] + div[style^="height:"][class]
-m.fmkorea.com##body > header[class] ~ div[class] > div[style*=";margin:"] div[style^="height:"]
-m.fmkorea.com##body > header[class] ~ div[class][style^="height:"]
 etoland.co.kr##article[class^="etoad-"]
 biz.newdaily.co.kr##div[itemprop="articleBody"] > div[style^="margin:"].clearfix
 newdaily.co.kr##div[style*=";height:"][data-ad]
