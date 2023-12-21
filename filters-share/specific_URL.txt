@@ -1,3 +1,4 @@
+||m2.nateimg.co.kr/cms/*.gif|$image
 /^https?:\/\/www\.tinnews\.co\.kr\/data\/tinnews_co_kr\/banner\/(?!(favicon\.ico|2020040642392902))/$domain=tinnews.co.kr
 /^https:\/\/www\.etoland\.co\.kr\/img\/nasmedia\/[0-9]+x[0-9]+_+/$domain=etoland.co.kr
 /^https:\/\/api-gw\.sports\.naver\.com\/cms\/contents\/adContents\/(?!(GENERAL|BRAND_STORY))/$domain=m.sports.naver.com
@@ -104,7 +105,6 @@
 ||economist.co.kr/data/ecn/upload/save/popup/
 ||semoi.kr/data/file/ad
 ||deliverypoint.co.kr/data/file/ad
-||m2.nateimg.co.kr/cms/
 ||m.ytn.co.kr/img/etc/btn_ad_close.png
 ||cdn.ppomppu.co.kr/zboard/data*/banner/
 ||i.ibb.co/*/$domain=rgy0409.tistory.com
