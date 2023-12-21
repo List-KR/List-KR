@@ -1,4 +1,8 @@
 !#if (adguard_app_ios)
+@@||tinnews.co.kr/data/tinnews_co_kr/banner/2020040642392902
+@@||tinnews.co.kr/data/tinnews_co_kr/banner/favicon.ico
+!#endif
+!#if (adguard_app_ios)
 @@||m.shop.interpark.com/_static/js/plugin/fastclick.min.js
 !#endif
 !#if (adguard_ext_android_cb)
