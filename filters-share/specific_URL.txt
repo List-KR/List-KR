@@ -737,6 +737,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+||topgirl.co/project/bm/js/nuevo.min.js
 ||wwwimageup.live-009.com/other/wx_app_admin/
 /^https:\/\/opss[0-9]+\.com\/img\/[A-z]+\.gif(\?v=[0-9]+)?$/
 /thumb/kh/bn/*$domain=1004past.com
