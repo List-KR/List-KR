@@ -8,7 +8,7 @@ m.humoruniv.com##+js(set, list_end_run, noopFunc)
 m.humoruniv.com##+js(aost, $.prototype.html, _boom)
 m.humoruniv.com##+js(acis, $.prototype.html, /\/images\/[A-z0-9-_]+\.?(jpg|gif)/)
 ! m.fmkorea.com
-m.fmkorea.com##+js(json-prune, tpl, tpl.[].c, /[A-z]{10}/)
+m.fmkorea.com##+js(json-prune, tpl, tpl.[].c, /[A-z]{10,}/)
 m.fmkorea.com##+js(aost, jQuery.prototype.serialize, _0x)
 !
 www.cultureland.co.kr##+js(aost, String.prototype.substring, /checkCookie.+main\.do/)
