@@ -8,7 +8,7 @@ m.humoruniv.com#%#//scriptlet('set-constant', 'list_end_run', 'noopFunc')
 m.humoruniv.com#%#//scriptlet('abort-on-stack-trace', '$.prototype.html', '_boom')
 m.humoruniv.com#%#//scriptlet('abort-current-inline-script', '$.prototype.html', '/\/images\/[A-z0-9-_]+\.?(jpg|gif)/')
 ! m.fmkorea.com
-m.fmkorea.com#%#//scriptlet('json-prune', 'tpl', 'tpl.[].c', '/fmkorea.com.[A-z]{10,}/')
+m.fmkorea.com#%#//scriptlet('json-prune', 'tpl apply', 'tpl.[].c', '/fmkorea.com.[A-z]{8,}.js/')
 !
 www.cultureland.co.kr#%#//scriptlet('abort-on-stack-trace', 'String.prototype.substring', '/checkCookie.+main\.do/')
 m.shop.interpark.com#%#//scriptlet('set-constant', 'FastClick.attach', 'noopFunc')
