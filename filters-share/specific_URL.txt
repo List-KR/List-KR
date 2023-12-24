@@ -739,6 +739,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+||agitwebtoon.*/upload/$domain=agitwebtoon.*
 /^https:\/\/18moa[0-9]+\.com\/data\/file\/main_top_banner\/thumb-/
 ||topgirl.co/project/bm/js/nuevo.min.js
 ||wwwimageup.live-009.com/other/wx_app_admin/
