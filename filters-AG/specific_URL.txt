@@ -1,3 +1,8 @@
+!#if adguard_app_ios
+||humorpick.com/data/editor/
+@@/^https:\/\/humorpick\.com\/data\/editor\/[0-9]+\/thumb-/$domain=humorpick.com
+/^https:\/\/humorpick\.com\/data\/editor\/[0-9]+\/[a-z0-9]+/$domain=humorpick.com
+!#endif
 ! TODO: remove the following filter if https://github.com/AdguardTeam/CoreLibs/issues/1831 is resolved.
 !#if (adguard_app_android || adguard_app_mac || adguard_app_windows)
 /^https:\/\/m[0-9]+\.kotbc\.com\/img\/[a-z0-9_/]+\.gif$/
