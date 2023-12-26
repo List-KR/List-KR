@@ -1,3 +1,5 @@
+m.cafe.naver.com##.banner_add:matches-path(/ca-fe\\/web\\/cafes\\/(inmacbook|12175294)(\\/|\\?)/)
+~m.cafe.naver.com,cafe.naver.com##img[src][alt="매니저 등록 배너"]:matches-path(/(&|\\.|\\?)clubid=12175294(&|$)/)
 sbs.co.kr##sbs-player-ad-wrapper
 m.cafe.naver.com##.banner_add:matches-path(/ca-fe\\/web\\/cafes\\/(true8|18736796)(\\/|\\?)/)
 ~m.cafe.naver.com,cafe.naver.com##img[src][alt="매니저 등록 배너"]:matches-path(/(&|\\.|\\?)clubid=18736796(&|$)/)
