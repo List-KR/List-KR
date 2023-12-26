@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+mobile.missyusa.com##.div_banner
 m.dcinside.com##*[class^="adv-group"]
 url.kr##form[method="post"] > #maskLayer
 m.tinnews.co.kr##.bn
