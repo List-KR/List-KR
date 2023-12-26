@@ -740,6 +740,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/^https:\/\/nolgoga[0-9]+\.com\/data\/.+\.gif$/
 ||ohli24.com/img/
 ||nanatv.*/resource/images/$domain=nanatv.*
 ||xn--cm2by8iw5h6xm8pc.*/data/banner/$domain=xn--cm2by8iw5h6xm8pc.*
