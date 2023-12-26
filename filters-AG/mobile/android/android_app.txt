@@ -1,3 +1,4 @@
+||settings.cashwalk.io/cashwalk/*/notice/notice2_main|
 ||braze-images.com^$app=kr.co.rememberapp
 ||app.dcinside.com/api/_ad_search_link2.php
 ||firebaseinstallations.googleapis.com^$app=instasaver.instagram.video.downloader.photo
