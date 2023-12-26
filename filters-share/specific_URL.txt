@@ -740,6 +740,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/^https:\/\/www\.ttking[0-9]+\.me\/ad\//
 /^https:\/\/nolgoga[0-9]+\.com\/data\/.+\.gif$/
 ||ohli24.com/img/
 ||nanatv.*/resource/images/$domain=nanatv.*
