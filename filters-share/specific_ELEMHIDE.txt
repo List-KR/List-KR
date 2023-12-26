@@ -732,11 +732,9 @@ e-himart.co.kr##input ~ .searchRolling
 khgames.co.kr##div[data-sticky].sticky > .side-panel
 tipsandtrickskorea.com##.thecontent > .in-article-container
 tipsandtrickskorea.com##aside#sidebar > div[id^="text-"]
-ohlitv.com##img[src^="/img/"][src$=".gif"]
 reurl.kr##a[onclick^="go_banner"]
 m.comic.naver.com###ct div[class^="ly_"]
 comic.naver.com##.wt_viewer .preview_store
-ohli24.net##nav ~ .at-title
 m.nocutnews.co.kr###pnlContainer .con_b >.ct_box:not([style])
 fmkorea.com###sidebar div[style^="height:"]:not(.li)
 te31.com###contentmemo ~ .adsbygoogle > div[style^="background-color:"]

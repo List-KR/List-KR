@@ -533,7 +533,6 @@
 /^https:\/\/static[0-9]\.e-himart\.co\.kr\/contents\/content\/display\/cornerContents\/imageBanner\/[0-9]{3}\/imageBanner_/$domain=e-himart.co.kr
 ||e-himart.co.kr/contents/content/display/special/
 /^https?:\/\/(www\.)?stockinfo7\.com\/img\/(banner\/|%E)/$domain=stockinfo7.com
-/^https:\/\/ohlitv\.com\/img\/[0-9]{4}\/[a-z]+\.gif$/$domain=ohlitv.com
 ||reurl.kr/data/bbs/
 ||image-comic.pstatic.net/mobilewebimg/*/*/contents_banner_MOBILE_$image
 ||image-comic.pstatic.net/webtoon/*/*/contents_banner_$image
@@ -805,7 +804,6 @@
 /^https:\/\/(w[0-9]+\.)?torrentpi[0-9]+\.com\/data\/editor\/[0-9]+\/[a-z0-9]+_[0-9]+_[0-9]+\./
 /^https:\/\/m[0-9]+\.kotbc\.com\/img\/[a-z0-9_\/]+\.gif$/
 ||i.imgur.com^$domain=torrentwhy78.xyz|torrentwhy79.xyz|torrentwhy80.xyz|torrentwhy81.xyz|torrentwhy82.xyz|torrentwhy83.xyz|torrentwhy84.xyz|torrentwhy85.xyz|torrentwhy86.xyz|torrentwhy87.xyz|torrentwhy88.xyz|torrentwhy89.xyz
-/^https:\/\/ohli365\.[a-z]+\/data\/apms\/background\//
 ||imgbox.com^$domain=tvzota88.com|tvzota89.com|tvzota90.com|tvzota91.com|tvzota92.com|tvzota93.com|tvzota94.com|tvzota95.com|tvzota96.com|tvzota97.com|tvzota98.com
 /^https:\/\/(www\.)?ruru\.tv\/uploads\/[0-9]+\/((?!16682220461360)[0-9]+)/$domain=ruru.tv
 ||ruru.tv/uploads/
@@ -819,7 +817,6 @@
 /^https:\/\/(www\.)?bngame[0-9]+\.com\/data\/files\/banner\//
 /^https:\/\/today-sports\.io\/img\/.*(?=(evolution|banner|\.gif))/$domain=today-sports.io
 /^https:\/\/tvmoa[0-9]+\.com\/data\/apms\/background\//
-/^https:\/\/ohli24\.[a-z]+\/img\/[0-9]{4}\/[A-z0-9]+\.[a-z]{3}$/
 ||save-1.net/data/apms/background/
 ||save-1.net/thema/Save1/widget/miso-top-banner/topbar.js
 /^https:\/\/img\.cdnfor\.me\/images\/[0-9]+\/[0-9]+\/[0-9]+\/[a-z0-9_-]+\./$domain=save-1.net
