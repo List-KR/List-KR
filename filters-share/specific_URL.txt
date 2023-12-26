@@ -741,6 +741,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+||nanatv.*/resource/images/$domain=nanatv.*
 ||xn--cm2by8iw5h6xm8pc.*/data/banner/$domain=xn--cm2by8iw5h6xm8pc.*
 ||imgbox.com/*.gif$domain=bontv50.com|bontv51.com|bontv52.com|bontv53.com|bontv54.com|bontv55.com|bontv56.com|bontv57.com|bontv58.com|bontv59.com|bontv60.com
 /^https:\/\/tor[0-9]+\.com\/data\/file\/test\//$domain=tvzota88.com|tvzota89.com|tvzota90.com|tvzota91.com|tvzota92.com|tvzota93.com|tvzota94.com|tvzota95.com|tvzota96.com|tvzota97.com|tvzota98.com
