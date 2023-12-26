@@ -53,7 +53,7 @@ torrentsee188.com,torrentsee189.com,torrentsee190.com,torrentsee191.com,torrents
 torrentdia99.com,torrentdia100.com,torrentdia101.com,torrentdia102.com,torrentdia103.com,torrentdia104.com,torrentdia105.com,torrentdia106.com,torrentdia107.com,torrentdia108.com,torrentdia109.com,torrentdia110.com,torrentdia111.com,torrentdia112.com,torrentdia113.com#?#form#fboardlist table tr:has(span.text-muted:contains(AD))
 img.imimggggg87878.com#?#a[target="_blank"][href^="http://"].menu-a:contains(보증토토)
 frtoon199.com,frtoon200.com,frtoon201.com,frtoon202.com,frtoon203.com,frtoon204.com,frtoon205.com,frtoon206.com,frtoon207.com,frtoon208.com,frtoon209.com,frtoon210.com,frtoon211.com,frtoon212.com#?#.alert-danger.container:contains([AD])
-hdhd264.net,hdhd265.net,hdhd266.net,hdhd267.net,hdhd268.net,hdhd269.net,hdhd270.net,hdhd271.net,hdhd272.net,hdhd273.net,hdhd274.net,hdhd275.net,hdhd276.net,hdhd277.net,hdhd278.net#?#.menu-ul > .menu-li:has(> a:contains(보증토토))
+hdhd304.net,hdhd305.net,hdhd306.net,hdhd307.net,hdhd308.net,hdhd309.net,hdhd310.net,hdhd311.net,hdhd312.net,hdhd313.net,hdhd314.net,hdhd315.net,hdhd316.net,hdhd317.net,hdhd318.net#?#.menu-ul > .menu-li:has(> a:contains(보증토토))
 blacktoon253.com,blacktoon254.com,blacktoon255.com,blacktoon256.com,blacktoon257.com,blacktoon258.com,blacktoon259.com,blacktoon260.com,blacktoon261.com,blacktoon262.com,blacktoon263.com,blacktoon264.com#?#.alert.alert-danger:has(> a:contains([AD]))
 !
 ! DOMAIN-REFRESHER: END

@@ -899,8 +899,8 @@
 /^https?:\/\/manaboza[0-9]+\.com\/static\/image\/header\//
 /^https:\/\/newtoon[0-9]+\.com\/banner\//
 /^https:\/\/bam[0-9]+co\.com\/_book\/_Contents\/banner\//
-||imgsuperpower.com^$domain=hdhd264.net|hdhd265.net|hdhd266.net|hdhd267.net|hdhd268.net|hdhd269.net|hdhd270.net|hdhd271.net|hdhd272.net|hdhd273.net|hdhd274.net|hdhd275.net|hdhd276.net|hdhd277.net|hdhd278.net
-||blogger.googleusercontent.com^$domain=hdhd264.net|hdhd265.net|hdhd266.net|hdhd267.net|hdhd268.net|hdhd269.net|hdhd270.net|hdhd271.net|hdhd272.net|hdhd273.net|hdhd274.net|hdhd275.net|hdhd276.net|hdhd277.net|hdhd278.net
+||imgsuperpower.com^$domain=hdhd304.net|hdhd305.net|hdhd306.net|hdhd307.net|hdhd308.net|hdhd309.net|hdhd310.net|hdhd311.net|hdhd312.net|hdhd313.net|hdhd314.net|hdhd315.net|hdhd316.net|hdhd317.net|hdhd318.net
+||blogger.googleusercontent.com^$domain=hdhd304.net|hdhd305.net|hdhd306.net|hdhd307.net|hdhd308.net|hdhd309.net|hdhd310.net|hdhd311.net|hdhd312.net|hdhd313.net|hdhd314.net|hdhd315.net|hdhd316.net|hdhd317.net|hdhd318.net
 /^https:\/\/iabn[0-9]+\.net\//$domain=wfwf291.com|wfwf292.com|wfwf293.com|wfwf294.com|wfwf295.com|wfwf296.com|wfwf297.com|wfwf298.com|wfwf299.com|wfwf300.com|wfwf301.com|wfwf302.com|wfwf303.com
 /^https:\/\/blacktoon[0-9]+\.com\/poster_js\/[0-9]+\.js/
 ||toonkor*.com/images/*.gif
