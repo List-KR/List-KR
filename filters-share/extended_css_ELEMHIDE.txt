@@ -1,3 +1,4 @@
+etoland.co.kr#?##mw_mobile > section[style]:has(> #coupang_cover_box > #coupang_ad_box)
 missyusa.com#?#tbody td > div[id^="MAX_"]:has(#gpt-passback)
 m.tvdaily.co.kr#?##news_content:has(> #news_padding:is(:not(:has(> *)), *:has(> iframe:matches-css(display: none)), *:has(img:matches-css(display: none)), *:has(> script[src]), *:has(> #_popIn_recommend)))
 m.osen.co.kr#?#.txt table#bodyMainImg tr:has(> td[style^="margin:"][style*=";padding:"] > table)
