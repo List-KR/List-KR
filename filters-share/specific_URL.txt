@@ -740,6 +740,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+||ohli24.com/img/
 ||nanatv.*/resource/images/$domain=nanatv.*
 ||xn--cm2by8iw5h6xm8pc.*/data/banner/$domain=xn--cm2by8iw5h6xm8pc.*
 ||imgbox.com/*.gif$domain=bontv50.com|bontv51.com|bontv52.com|bontv53.com|bontv54.com|bontv55.com|bontv56.com|bontv57.com|bontv58.com|bontv59.com|bontv60.com
