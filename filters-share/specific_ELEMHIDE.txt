@@ -1064,6 +1064,8 @@ osen.mt.co.kr##div#close_mask
 !
 ! DOMAIN-REFRESHER: START
 !
+tvzota88.com,tvzota89.com,tvzota90.com,tvzota91.com,tvzota92.com,tvzota93.com,tvzota94.com,tvzota95.com,tvzota96.com,tvzota97.com,tvzota98.com##div[class$="_ban"]
+tvzota88.com,tvzota89.com,tvzota90.com,tvzota91.com,tvzota92.com,tvzota93.com,tvzota94.com,tvzota95.com,tvzota96.com,tvzota97.com,tvzota98.com##div[class^="popup_"]
 agitwebtoon.*##.advx
 newtoki.*##.banner2
 opworlds16.com,opworlds17.com,opworlds18.com,opworlds19.com,opworlds20.com,opworlds21.com,opworlds22.com,opworlds23.com,opworlds24.com##.basic-banner-gallery
