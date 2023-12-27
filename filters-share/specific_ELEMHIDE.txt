@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+search.danawa.com##li[style][id^="ad"]
 quasarzone.com##div[id^="bidrich_"][style*=" "]
 mobile.missyusa.com##.div_banner
 m.dcinside.com##*[class^="adv-group"]
