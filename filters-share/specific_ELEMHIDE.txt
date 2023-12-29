@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+m.comic.naver.com##.band_banner
 chzzk.naver.com##a[class*="banner_link_"][target="_blank"] > img[class*="banner_image_"][src*="/Banner_"]
 buly.kr##.modal > #pop_modal
 search.danawa.com##li[style][id^="ad"]
@@ -1004,7 +1005,7 @@ comic.naver.com##[id^="flex_ad_"]
 bera.world,1412.live##.custom_code.board_top
 news.appstory.co.kr###shopping_wrap
 news.appstory.co.kr##a[href*="//wrd.appstory.co.kr/rd.flad?"]
-m.comic.naver.com,news.appstory.co.kr##a[class^="banner_"]
+news.appstory.co.kr##a[class^="banner_"]
 news.appstory.co.kr##.header_banner
 mground.kr##[data-postid].ultp-shortcode
 daum.net##iframe[src^="//shop-redapi.daum.net/red-apigate/daumtop/"]
