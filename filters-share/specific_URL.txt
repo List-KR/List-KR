@@ -700,7 +700,6 @@
 ||dothome.co.kr/advertisement/
 ||shop.nate.com/shopbox/shopbox$domain=pann.nate.com
 ||dschool.co.kr//uploadedFiles/ADVERTISE/
-||koreaminecraft.net/serverad/$document
 ||bloter.net/data/blt/banner/
 ||was.livere.me/api/ad|
 ||itcm.co.kr/files/thumbnails
