@@ -1,3 +1,4 @@
+www.edaily.co.kr#?##right-sticky > .specialRightArea ~ div[class][style*="height:"]:is(:has(> div[id^="dablewidget_"]), :not(:has(> *)), :has(> iframe[allow-popups][title][sandbox]))
 etoland.co.kr#?##mw_mobile > section[style]:has(> #coupang_cover_box > #coupang_ad_box)
 missyusa.com#?#tbody td > div[id^="MAX_"]:has(#gpt-passback)
 m.tvdaily.co.kr#?##news_content:has(> #news_padding:is(:not(:has(> *)), *:has(> iframe:matches-css(display: none)), *:has(img:matches-css(display: none)), *:has(> script[src]), *:has(> #_popIn_recommend)))
