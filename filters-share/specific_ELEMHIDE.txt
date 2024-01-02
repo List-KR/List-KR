@@ -83,7 +83,7 @@ m.sports.naver.com##.main_grid_item> div[class*="_promotion__"]
 prod.danawa.com###powerShoppingContent
 m.richgo.ai##div[class^="DanjiInfomation__"] > div[class^="Divider__SD_Layout-"] + div[class^="Divider__SD_Layout-"]
 m.clien.net##.board_recommended > a.list_item ~ div[class*=" "]
-thehousemagazine.kr,tminews.co.kr,maxmovie.kr,capress.kr,youtu.co,dfast.kr,mememedia.co.kr,newautopost.co.kr###main > div[class*="-ad-"]
+mobilitytv.co.kr,thehousemagazine.kr,tminews.co.kr,maxmovie.kr,capress.kr,youtu.co,dfast.kr,mememedia.co.kr,newautopost.co.kr###main > div[class*="-ad-"]
 newautopost.co.kr###coupang-ad-wrapper
 www.dt.co.kr##.main_wrap > center > div[style*=" height:"]
 www.dt.co.kr##.article_view > div[style$="overflow:hidden"].img_center
@@ -853,7 +853,7 @@ ppomppu.co.kr##body .contents .container .topSub-nav
 prod.danawa.com###powerClickProductListArea
 entertainpost.com##body > div[style]:not([class])
 www.naver.com##div[id^="veta_"]
-newautopost.co.kr,mobilitytv.co.kr,munhwa.com,ppomppu.co.kr,starnewskorea.com,mimint.co.kr,bada.io,arca.live##div.ad
+newautopost.co.kr,munhwa.com,ppomppu.co.kr,starnewskorea.com,mimint.co.kr,bada.io,arca.live##div.ad
 ohmynews.com###div10Sticky
 ohmynews.com##div[class^="AD-"]
 ohmynews.com##div[class^="new_ad"]
