@@ -1,3 +1,6 @@
+!#if (adguard_app_android || adguard_app_windows || adguard_app_mac)
+zdnet.co.kr#$#body > div[id^="A1_"][style*="height:"] ~ #wrap { margin-top: -1.5em !important; }
+!#endif
 !#if adguard_ext_safari
 joynews24.com,inews24.com#$#header ~ header { margin-top: 50px !important; }
 m.joynews24.com,m.inews24.com#@$#header ~ header { margin-top: 50px !important; }

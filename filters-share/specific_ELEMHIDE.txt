@@ -57,6 +57,8 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+zdnet.co.kr##div[id^="A1_"][style*="height:"]
+zdnet.co.kr##div[id$="AdCon"][style]
 ggoorr.net##div[data-docsrl] ~ div[style^="height:"][style*="text-align:"]
 soccerline.kr###container ~ div[style^="width:"][style*="height:"].mobile
 ssodam.com##.visible-ad
