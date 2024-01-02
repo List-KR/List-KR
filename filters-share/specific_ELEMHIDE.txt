@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+soccerline.kr###container ~ div[style^="width:"][style*="height:"].mobile
 ssodam.com##.visible-ad
 www.edaily.co.kr###edailywrap > #headers ~ div[style*="height: "]
 inven.co.kr##article > div[style].banner
