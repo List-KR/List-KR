@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+www.edaily.co.kr###edailywrap > #headers ~ div[style*="height: "]
 inven.co.kr##article > div[style].banner
 m.comic.naver.com##.band_banner
 chzzk.naver.com##a[class*="banner_link_"][target="_blank"] > img[class*="banner_image_"][src*="/Banner_"]
