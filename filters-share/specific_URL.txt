@@ -1,3 +1,4 @@
+||m.enter.etoday.co.kr/images/ad/
 /^https:\/\/nng-phinf\.pstatic\.net\/[A-z]+\/[A-z0-9._-]+\/Banner_[A-z0-9_-]+\.[A-z]+$/$domain=chzzk.naver.com
 ||tvdaily.co.kr/banner/
 ||tvdaily.co.kr/ad/
