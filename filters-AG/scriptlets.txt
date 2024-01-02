@@ -10,6 +10,7 @@ m.humoruniv.com#%#//scriptlet('abort-current-inline-script', '$.prototype.html',
 ! m.fmkorea.com
 m.fmkorea.com#%#//scriptlet('json-prune', 'tpl apply', 'tpl.[].c', '/fmkorea.com.[A-z]{8,}.js/')
 !
+ssodam.com#%#//scriptlet('set-cookie', 'adv', '1')
 www.cultureland.co.kr#%#//scriptlet('abort-on-stack-trace', 'String.prototype.substring', '/checkCookie.+main\.do/')
 m.shop.interpark.com#%#//scriptlet('set-constant', 'FastClick.attach', 'noopFunc')
 m.shop.interpark.com#%#//scriptlet('set-constant', 'FastClick', 'noopFunc')

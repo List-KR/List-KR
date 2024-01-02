@@ -10,6 +10,7 @@ m.humoruniv.com##+js(acis, $.prototype.html, /\/images\/[A-z0-9-_]+\.?(jpg|gif)/
 ! m.fmkorea.com
 m.fmkorea.com##+js(json-prune, tpl apply, tpl.[].c, /fmkorea.com.[A-z]{8,}.js/)
 !
+ssodam.com##+js(set-cookie, adv, 1)
 www.cultureland.co.kr##+js(aost, String.prototype.substring, /checkCookie.+main\.do/)
 m.shop.interpark.com##+js(set, FastClick.attach, noopFunc)
 m.shop.interpark.com##+js(set, FastClick, noopFunc)
