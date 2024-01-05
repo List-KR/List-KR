@@ -57,6 +57,8 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+search.11st.co.kr###section_plusPrd
+search.11st.co.kr##section[class*="-ad-"]
 zdnet.co.kr##div[id^="A1_"][style*="height:"]
 zdnet.co.kr##div[id$="AdCon"][style]
 ggoorr.net##div[data-docsrl] ~ div[style^="height:"][style*="text-align:"]
@@ -273,7 +275,6 @@ search.zum.com##.naver_power_shopping
 search.zum.com##[class*="sponsor"]
 bloter.net##.respons-edit > div[style^="width:"].float-right
 newspim.com###news-contents div[style*="margin:"]
-search.11st.co.kr##._SearchTitlePrdHListAd
 search.11st.co.kr##._searchHotProduct
 www.11st.co.kr###rcmdPrd.rcmd_prd
 search.11st.co.kr##.search_content > section[data-log-actionid-area="recommend"]
@@ -391,7 +392,7 @@ search.wemakeprice.com##.search_box_listdeal > .aiplus
 tistory.com,oracionspace.com,poketory.com##.revenue_unit_wrap
 topstarnews.net##div[class^="Ad"]
 news.mt.co.kr##.aside_bundle > div[style*="height:"]
-m.munhwa.com##section[class$="_ad"]
+search.11st.co.kr,m.munhwa.com##section[class$="_ad"]
 topstarnews.net##header .dis-table > div[style^="padding-top:"].dis-table-cell
 thebook.io##section[id$="_banner"]
 modoocode.com##div[class*="adsense-"]

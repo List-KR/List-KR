@@ -10,6 +10,7 @@ m.humoruniv.com##+js(acis, $.prototype.html, /\/images\/[A-z0-9-_]+\.?(jpg|gif)/
 ! m.fmkorea.com
 m.fmkorea.com##+js(json-prune, tpl apply, tpl.[].c, /fmkorea.com.[A-z]{8,}.js/)
 !
+search.11st.co.kr##+js(json-prune, powerLink, powerLink.ads)
 ssodam.com##+js(set-cookie, adv, 1)
 www.cultureland.co.kr##+js(aost, String.prototype.substring, /checkCookie.+main\.do/)
 m.shop.interpark.com##+js(set, FastClick.attach, noopFunc)
@@ -37,10 +38,6 @@ fun-iyagi.co.kr,timecoffee.co.kr,333aaa.site##+js(set, pum_vars, undefined)
 inven.co.kr##+js(ra, placeholder, #webzineHeadmenuF1 input[placeholder][autocomplete="off"])
 comic.naver.com##+js(json-prune, adBannerList)
 hashnews.cafe24.com##+js(aopr, pum_popups)
-search.11st.co.kr##+js(set, searchDataFactory.rcmdPrdList, {})
-search.11st.co.kr##+js(set, searchDataFactory.focusPrdList, {})
-search.11st.co.kr##+js(set, searchDataFactory.powerPrdList, {})
-search.11st.co.kr##+js(set, searchDataFactory.plusPrdList, {})
 enuri.com##+js(json-prune, data.supertopADNos)
 sbs.co.kr##+js(set, player.renderAdSequence, undefined)
 domin.co.kr##+js(set, bannerpop.popup, noopFunc)

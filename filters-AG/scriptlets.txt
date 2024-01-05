@@ -10,6 +10,7 @@ m.humoruniv.com#%#//scriptlet('abort-current-inline-script', '$.prototype.html',
 ! m.fmkorea.com
 m.fmkorea.com#%#//scriptlet('json-prune', 'tpl apply', 'tpl.[].c', '/fmkorea.com.[A-z]{8,}.js/')
 !
+search.11st.co.kr#%#//scriptlet('json-prune', 'powerLink', 'powerLink.ads')
 ssodam.com#%#//scriptlet('set-cookie', 'adv', '1')
 www.cultureland.co.kr#%#//scriptlet('abort-on-stack-trace', 'String.prototype.substring', '/checkCookie.+main\.do/')
 m.shop.interpark.com#%#//scriptlet('set-constant', 'FastClick.attach', 'noopFunc')
@@ -39,10 +40,6 @@ fun-iyagi.co.kr,timecoffee.co.kr,333aaa.site#%#//scriptlet('set-constant', 'pum_
 inven.co.kr#%#//scriptlet('remove-attr', 'placeholder', '#webzineHeadmenuF1 input[placeholder][autocomplete="off"]')
 comic.naver.com#%#//scriptlet('json-prune', 'adBannerList')
 hashnews.cafe24.com#%#//scriptlet('abort-on-property-read', 'pum_popups')
-search.11st.co.kr#%#//scriptlet('set-constant', 'searchDataFactory.rcmdPrdList', 'emptyObj')
-search.11st.co.kr#%#//scriptlet('set-constant', 'searchDataFactory.focusPrdList', 'emptyObj')
-search.11st.co.kr#%#//scriptlet('set-constant', 'searchDataFactory.powerPrdList', 'emptyObj')
-search.11st.co.kr#%#//scriptlet('set-constant', 'searchDataFactory.plusPrdList', 'emptyObj')
 enuri.com#%#//scriptlet('json-prune', 'data.supertopADNos')
 sbs.co.kr#%#//scriptlet('set-constant', 'player.renderAdSequence', 'undefined')
 domin.co.kr#%#//scriptlet('set-constant', 'bannerpop.popup', 'noopFunc')
