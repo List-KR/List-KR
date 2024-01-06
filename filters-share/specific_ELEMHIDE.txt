@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+m-i.kr###user-wrap.mobile ~ div[style^="height:"]
 search.11st.co.kr###section_plusPrd
 search.11st.co.kr##section[class*="-ad-"]
 zdnet.co.kr##div[id^="A1_"][style*="height:"]
@@ -842,7 +843,7 @@ happymoney.co.kr###content  > .mainBanner
 cultureland.co.kr##.slider > div[id$="_popup"]
 cultureland.co.kr##.main-evn > .main-visual
 tcafe2a.com##.side-event-img
-goodgag.net,m.inven.co.kr,nownews.seoul.co.kr,ksg.co.kr,paxnet.co.kr,chosun.com##div[class$="Ad"]
+m-i.kr,goodgag.net,m.inven.co.kr,nownews.seoul.co.kr,ksg.co.kr,paxnet.co.kr,chosun.com##div[class$="Ad"]
 game.dcinside.com,gall.dcinside.com##.con_banner
 game.naver.com##div[class^="styles_Banner"]
 coinpan.com##img[class^="banner_"]
