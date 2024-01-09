@@ -29,7 +29,6 @@
 ||iadsdk.apple.com^
 ||skt-asum.com^
 ||iad-*.braze.com^
-||adplatform-cdn.baemin.com^
 ||external-ad.bunjang.co.kr^
 ||epnt.ebay.com^
 ||img.side.mythiell.com^
