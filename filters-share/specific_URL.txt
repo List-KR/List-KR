@@ -784,7 +784,7 @@
 /^https:\/\/www\.torrentreel[0-9]+\.site\/ad\//
 /^https:\/\/tvchak[0-9]+\.com\/img\/bbnn/
 /^https:\/\/agit[0-9]+\.com\/upload\/[0-9]+\/[0-9]+\/[0-9]+\./
-||hoohootv.*/static/bnner/$domain=hoohootv.*
+||hoohootv*.*/static/bnner/$domain=hoohootv27.*|hoohootv28.*|hoohootv29.*|hoohootv30.*|hoohootv31.*|hoohootv32.*|hoohootv33.*|hoohootv34.*|hoohootv35.*|hoohootv36.*|hoohootv37.*|hoohootv38.*|hoohootv39.*|hoohootv40.*
 /^https:\/\/cdn\.kktv[0-9]+\.com\/data\/editor\//$domain=kktv365.com|kktv366.com|kktv367.com|kktv368.com|kktv369.com|kktv370.com|kktv371.com|kktv372.com|kktv373.com|kktv374.com|kktv375.com|kktv376.com
 ||cdn.ksportscdn.com/data/editor/$domain=kktv365.com|kktv366.com|kktv367.com|kktv368.com|kktv369.com|kktv370.com|kktv371.com|kktv372.com|kktv373.com|kktv374.com|kktv375.com|kktv376.com
 /^https:\/\/tv[0-9]+\.avsee\.[a-z]+\/imgs\//$domain=avsee.*
