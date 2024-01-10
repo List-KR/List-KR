@@ -1,3 +1,4 @@
+humorpick.com#?#.item-list > .on:has(.ad-wrap-text)
 whosaeng.com#?##aside div[class^="scroll-in"] .bn:has(a[href^="/ad_link.php?"])
 ssodam.com#?#div[class^="col-lg-offset-"] > div[class^="col-lg-"][style]:has(a[onclick*="link("])
 www.edaily.co.kr#?##right-sticky > .specialRightArea ~ div[class][style*="height:"]:is(:has(> div[id^="dablewidget_"]), :not(:has(> *)), :has(> iframe[allow-popups][title][sandbox]))
