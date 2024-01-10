@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+betanews.net##iframe[src*="/banner.html"]
 m-i.kr###user-wrap.mobile ~ div[style^="height:"]
 search.11st.co.kr###section_plusPrd
 search.11st.co.kr##section[class*="-ad-"]
