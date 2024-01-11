@@ -1,3 +1,6 @@
+coolfun.zal.kr#$#.inner-body.hided .inside-content-background-gradient { display: none !important; }
+coolfun.zal.kr#$#.inner-body.hided .partners-inside { display: none !important; }
+coolfun.zal.kr#$#.inner-body.hided { overflow-y: auto !important; max-height: none !important; }
 etoland.co.kr#$##mw_mobile > .mw_icon_box { margin-top: 25px !important; }
 m.hub.zum.com#$#.banner_slot_top + #container .article_cover { top: 100px !important; }
 mlbpark.donga.com#$#div[id^="SmartPhone_"][id$="_today"] .lists > li:before { padding-top: 0px !important; border-bottom: none !important; }
