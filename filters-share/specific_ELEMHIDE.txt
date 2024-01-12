@@ -1037,7 +1037,7 @@ ilbe.com##ul.board-body > li[id^="sponser_ad_"]
 ilbe.com##img[src^="https://acache.ilbe.com/"]
 berryjam.co.kr##div[class*="slider-banner-"]
 now.rememberapp.co.kr##.now_content_ads__wrapper
-m.ilbe.com##.banner-wrap
+kinolights.com,m.ilbe.com##.banner-wrap
 clien.net###coupangAd
 ppomppu.co.kr##tr > td div.bridge
 sedaily.com,news2day.co.kr,m.yakup.com,ypbooks.co.kr,asiatime.co.kr,www.ebs.co.kr,news.nate.com,boribori.co.kr##div[class*="_banner"]

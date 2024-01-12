@@ -1,3 +1,4 @@
+||file.kinolights.com/*/banner/
 ||businesspost.co.kr/images/banner/
 ||whosaeng.com/data/whosaeng_com/*banner/
 ||whosaeng.com/data/m.whosaeng.com/mo_
