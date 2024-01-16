@@ -657,7 +657,6 @@
 ||m.ppomppu.co.kr/banner/google_ad.html
 ||prod.danawa.com/bridge/loadingBridgePowerClick.php$document
 ||mobile.newsis.com/ad_list/
-||img.hani.co.kr/section-image/*/mobile/image/icon/btn_ADclose.png
 ||google.com/adsense/
 ||m.news1.kr/template/ads/
 ||image.news1.kr/system/ads_t/
@@ -691,7 +690,6 @@
 ||avjamak.net/thema/ryan_rainbow/widget/iw-adsense/
 ||avjamak.net/data/by_banner/
 ||pandalive.co.kr/code:pandatv/partner/banner/
-||hani.co.kr/section-homepage/svc3/js/navtivead.js
 ||seoul.co.kr/ad/
 ||realty.chosun.com/RealtyCommon/Promotion*.html
 ||monthly.chosun.com/common/inc/main_right_banner.asp
