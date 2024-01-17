@@ -743,6 +743,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/^https:\/\/linkssakda\.com\/upload\/images\/[0-9]+\./$domain=linkssakda.com
 ||i.imgur.com^$domain=avguri.com
 ||moeni.net/img/sp/
 ||cdnbuzz.buzz//banner/
