@@ -7,9 +7,6 @@
 !#if (adguard_app_android || adguard_app_mac || adguard_app_windows)
 /^https:\/\/m[0-9]+\.kotbc\.com\/img\/[a-z0-9_/]+\.gif$/
 !#endif
-!#if adguard_app_ios
-/^https:\/\/nng-phinf\.pstatic\.net\/[A-z0-9]+\/[A-z0-9-.]+\.[A-Z]+\/naver_[A-z_]+_[0-9]+x[0-9]+_naverads\./$domain=naver.com
-!#endif
 !#if (adguard_app_ios || adguard_ext_safari)
 ||api-gw.sports.naver.com/cms/contents/adContents/$domain=m.sports.naver.com
 @@||api-gw.sports.naver.com/cms/contents/adContents/GENERAL$domain=m.sports.naver.com

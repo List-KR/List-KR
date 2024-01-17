@@ -1,3 +1,4 @@
+/^https:\/\/nng-phinf\.pstatic\.net\/.+\/.+_naverads\./$domain=game.naver.com
 ||file.kinolights.com/*/banner/
 ||businesspost.co.kr/images/banner/
 ||whosaeng.com/data/whosaeng_com/*banner/
@@ -14,7 +15,6 @@
 /^https:\/\/api-gw\.sports\.naver\.com\/cms\/contents\/adContents\/(?!(GENERAL|BRAND_STORY))/$domain=m.sports.naver.com
 ||da.namu.la^$domain=arca.live
 ||arca.live/api/*pagead?$xmlhttprequest
-/^https:\/\/nng-phinf\.pstatic\.net\/[A-z0-9]+\/[A-z0-9-.]+\.[A-Z]+\/naver_[A-z_]+_[0-9]+x[0-9]+_naverads\./$match-case,domain=naver.com
 /^https:\/\/sports-phinf\.pstatic\.net\/[0-9]+_[0-9]+\/[A-z0-9]+_[A-Z]+\/(%[A-Z0-9]+)+_(%[A-Z0-9]+)+_/$image,match-case,domain=m.sports.naver.com
 ||nosearch.com/api/naver*Ad?channel=
 ||prod.danawa.com/info/ajax/getPlanBPlusProductList.ajax.php

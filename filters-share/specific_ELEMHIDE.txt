@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+game.naver.com##img[src^="https://nng-phinf.pstatic.net/"][src*="_naverads."]
 chimhaha.net###adsense
 hani.co.kr###content div[class^="ArticleDetail_section_"] > div[class^="MainNativeLab_wrap"]
 humorpick.com##.list-body > .list-item-ad
