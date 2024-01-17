@@ -743,6 +743,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+||i.imgur.com^$domain=avguri.com
 ||moeni.net/img/sp/
 ||cdnbuzz.buzz//banner/
 /^https:\/\/avjoa[0-9]+\.com\/wp-content\/uploads\/[0-9]+\/[0-9]+\/.+\.gif$/
