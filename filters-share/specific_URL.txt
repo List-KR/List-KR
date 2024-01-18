@@ -800,7 +800,7 @@
 ||xn--h10b90b998c.*/img/$domain=xn--h10b90b998c.*
 ||i.imgur.com^$domain=newtoki.*
 ||newtoki.*/banner/
-||i.imgur.com^$domain=torrentqq270.com|torrentqq271.com|torrentqq272.com|torrentqq273.com|torrentqq274.com|torrentqq275.com|torrentqq276.com|torrentqq277.com|torrentqq278.com|torrentqq279.com|torrentqq280.com|torrentqq281.com|torrentqq282.com|torrentqq283.com|torrentqq284.com
+||i.imgur.com^$domain=torrentqq291.com|torrentqq292.com|torrentqq293.com|torrentqq294.com|torrentqq295.com|torrentqq296.com|torrentqq297.com|torrentqq298.com|torrentqq299.com|torrentqq300.com|torrentqq301.com|torrentqq302.com|torrentqq303.com|torrentqq304.com|torrentqq305.com
 ||cdn.jjun.live/BANNER/*.gif
 ||tvmon.*/img/ba
 ||tvmon.*/AD/
