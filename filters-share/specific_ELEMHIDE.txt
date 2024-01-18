@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+coupang.com##.ads-impression
 news.tvchosun.com##ul[class^="banner_"]
 news.tvchosun.com##span[class$="_banner"]
 news.tvchosun.com##iframe[src*="//img.tvchosun.com/upload_img/"][src*="/ad/"]
