@@ -57,6 +57,10 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+news.tvchosun.com##ul[class^="banner_"]
+news.tvchosun.com##span[class$="_banner"]
+news.tvchosun.com##iframe[src*="//img.tvchosun.com/upload_img/"][src*="/ad/"]
+news.tvchosun.com###banner_header
 game.naver.com##img[src^="https://nng-phinf.pstatic.net/"][src*="_naverads."]
 chimhaha.net###adsense
 hani.co.kr###content div[class^="ArticleDetail_section_"] > div[class^="MainNativeLab_wrap"]
