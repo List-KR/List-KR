@@ -31,13 +31,30 @@ jobs:
       - name: Run AGLint
         run: yarn lint
  
+  release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Set up NodeJS LTS
+        uses: actions/setup-node@v4
+        with:
+          node-version: 'lts/*'
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Create a Release
+        uses: List-KR/semver-release@1.1.0
+    needs: [lint]
+    if: ${{ always() && github.event_name == 'push' && github.ref_name == 'master' && needs.lint.result == 'success' }}
   jsdelivrpurge:
     name: Purge jsDelivr cache
     runs-on: ubuntu-latest
     permissions:
       actions: read
       contents: read
-    needs: [lint]
+    needs: [lint, release]
     if: ${{ always() && github.event_name == 'push' && github.ref_name == 'master' && needs.lint.result == 'success' }}
     steps:
       - name: Set up NodeJS LTS
