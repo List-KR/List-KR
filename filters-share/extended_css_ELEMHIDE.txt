@@ -46,7 +46,7 @@ gobest.co.kr#?#table[width][border] td:not([width]):has(div[align="CENTER"] > .a
 game.naver.com#?#div[class*="_contentBody"] main > .undefined:has(> div[class*="_Banner_"])
 ddengle.com#?#table.bd_lst tr[data-document-srl]:has(.ad_gray)
 hogaeng.co.kr#?#.tbl_wrap .bo_notice:has(span[class^="spon_b_icon"])
-m.dcinside.com#?#.detail-top-lst li:has(a[href*="//addc.dcinside.com/"])
+app.dcinside.com,m.dcinside.com#?#.detail-top-lst li:has(a[href*="//addc.dcinside.com/"])
 gall.dcinside.com#?##user_data_lyr .bg_grey:has(a[href*="//addc.dcinside.com/"])
 gall.dcinside.com#?#.gall_list .ub-content:not(.us-post):has(a[href*="//addc.dcinside.com/"])
 m.compuzone.co.kr#?#div[class^="contents"] > div[class^="main_area"]:has(a[href*="ADRollingBanner"])
