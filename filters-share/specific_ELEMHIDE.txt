@@ -1085,6 +1085,7 @@ osen.mt.co.kr##div#close_mask
 !
 ! DOMAIN-REFRESHER: START
 !
+ygy48.com,ygy49.com,ygy50.com,ygy51.com,ygy52.com,ygy53.com,ygy54.com,ygy55.com,ygy56.com,ygy57.com,ygy58.com,ygy59.com,ygy60.com,ygy61.com##.popup_wrap
 moeni.net##img[src^="/img/sp/"]
 av19.org,av20.org,av21.org,av22.org,av23.org,av24.org,av25.org,av26.org,av27.org,av28.org,av29.org,av30.org,av31.org,av32.org,av33.org,av34.org,av35.org,av36.org,av37.org###page ~ div[style^="min-height:"]#content.row
 avjoa54.com,avjoa55.com,avjoa56.com,avjoa57.com,avjoa58.com,avjoa59.com,avjoa60.com,avjoa61.com,avjoa62.com,avjoa63.com,avjoa64.com,avjoa65.com,avjoa66.com,avjoa67.com,avjoa68.com,avjoa69.com,avjoa70.com,avjoa71.com,avjoa72.com##div[id^="imgDiv"]

@@ -744,6 +744,8 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/^https:\/\/www\.ygy[0-9]+\.com\/upload_files\/banner\//$domain=ygy48.com|ygy49.com|ygy50.com|ygy51.com|ygy52.com|ygy53.com|ygy54.com|ygy55.com|ygy56.com|ygy57.com|ygy58.com|ygy59.com|ygy60.com|ygy61.com
+/^https:\/\/www\.ygy[0-9]+\.com\/upload_files\/popup\//$domain=ygy48.com|ygy49.com|ygy50.com|ygy51.com|ygy52.com|ygy53.com|ygy54.com|ygy55.com|ygy56.com|ygy57.com|ygy58.com|ygy59.com|ygy60.com|ygy61.com
 /^https:\/\/linkssakda\.com\/upload\/images\/[0-9]+\./$domain=linkssakda.com
 ||i.imgur.com^$domain=avguri.com
 ||moeni.net/img/sp/
