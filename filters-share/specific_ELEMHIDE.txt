@@ -57,6 +57,8 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+m.gmarket.co.kr##.ReactVirtualized__Grid__innerScrollContainer .box__banner-wrap > .box__banner--today
+m.gmarket.co.kr##.box__banner-single > .box__inner
 web.humoruniv.com##.noti_div ~ div[style*=" "] > div[style*="overflow:"][class]
 tokenpost.kr##.cmsBanner
 coupang.com##.ads-impression
