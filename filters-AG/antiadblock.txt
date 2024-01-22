@@ -133,6 +133,7 @@ m.search.naver.com#%#//scriptlet('prevent-element-src-loading', 'script', 'ssl.p
 !#if (adguard_app_ios || adguard_ext_safari)
 @@||ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js$script,domain=m.search.naver.com
 !#endif
+@@||pagead2.googlesyndication.com/getconfig/$xmlhttprequest,domain=t.hi098123.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=t.hi098123.com
 @@||pagead2.googlesyndication.com/pagead/managed/$script,domain=t.hi098123.com
 ||googleads.g.doubleclick.net/pagead/ads$subdocument,redirect=noopframe,domain=t.hi098123.com
