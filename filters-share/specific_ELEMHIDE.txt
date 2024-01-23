@@ -57,6 +57,8 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+sportsw.kr##div[id^="banner"][class=""][style*="height:"]
+sportsw.kr##div[style] > ul[class^="AD"]
 dpg.danawa.com##.sponsor_pick
 dpg.danawa.com##div[id^="danawa-dpg-"][id*="-dable"]
 m.gmarket.co.kr##.ReactVirtualized__Grid__innerScrollContainer .box__banner-wrap > .box__banner--today
