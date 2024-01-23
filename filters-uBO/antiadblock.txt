@@ -47,6 +47,18 @@ spotvnow.co.kr##+js(no-fetch-if, pagead2.googlesyndication.com/pagead/js/adsbygo
 aagag.com#@#ins.adsbygoogle
 aagag.com#$#.la { height: 75px !important; width: 75px !important; visibility: hidden !important; }
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=aagag.com
+! t.hi098123.com
+@@||pagead2.googlesyndication.com/getconfig/$xmlhttprequest,domain=t.hi098123.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=t.hi098123.com
+@@||pagead2.googlesyndication.com/pagead/managed/$script,domain=t.hi098123.com
+||googleads.g.doubleclick.net/pagead/ads$frame,redirect=noop.html,domain=t.hi098123.com
+t.hi098123.com#@#ins.adsbygoogle
+t.hi098123.com#$#.tabad { height: 1px !important; }
+@@||googletagmanager.com/gtag/$script,domain=t.hi098123.com
+t.hi098123.com#$#ins.adsbygoogle * { height: 1px !important; visibility: hidden !important; }
+t.hi098123.com#$##hi-notice { height: 1px !important; visibility: hidden !important; }
+t.hi098123.com#@#iframe[src^="https://googleads.g.doubleclick.net/"]
+t.hi098123.com#@#.adsbygoogle-noablate
 !
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=google-ima.js,domain=sbs.co.kr
 deokhu.com,3dpchip.com##+js(acis, chp_ads_blocker_detector)
@@ -63,14 +75,6 @@ op.gg#@#.AdSense
 op.gg#@##top-banner-ad
 @@||cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js$script,domain=typing.works
 ||ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js$script,domain=m.search.naver.com,redirect=noop.js
-@@||pagead2.googlesyndication.com/getconfig/$xmlhttprequest,domain=t.hi098123.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=t.hi098123.com
-@@||pagead2.googlesyndication.com/pagead/managed/$script,domain=t.hi098123.com
-||googleads.g.doubleclick.net/pagead/ads$frame,redirect=noop.html,domain=t.hi098123.com
-t.hi098123.com#@#ins.adsbygoogle
-t.hi098123.com#$#.tabad { height: 1px !important; }
-t.hi098123.com###hi-notice
-@@||googletagmanager.com/gtag/$script,domain=t.hi098123.com
 avdbs.com##+js(aopr, ad_blk)
 genshin.gamedot.org##+js(nostif, blockCheck2022)
 errornight.com##+js(aost, alert, chk_adBlock)
