@@ -1,7 +1,4 @@
 !#if adguard_app_ios
-humorpick.com##img[src^="https://humorpick.com/data/editor/"]:not([src*="/thumb-"])
-!#endif
-!#if adguard_app_ios
 cookmana18.com,cookmana19.com,cookmana20.com,cookmana21.com,cookmana22.com,cookmana23.com,cookmana24.com,cookmana25.com,cookmana26.com,cookmana27.com,cookmana28.com,cookmana29.com##.contents > .gridArea
 !#endif
 !#if adguard_app_ios
