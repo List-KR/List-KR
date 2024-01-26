@@ -722,7 +722,6 @@ news.jtbc.co.kr##div[id^="right_banner"]
 news.jtbc.co.kr###articlebody > div[style]:not([itemprop="articleBody"]).article_content
 modoodoc.com##a[id^="ad-"]
 modoodoc.com##div[class~="hospital-images-box"] ~ .row > .col-4
-namu.wiki##iframe[src*="//arca.live/external/callad"]
 noteforum.co.kr##table[width][cellspacing][cellpadding][border] tr:not([height]) > td[width]:not([id]) ~ td[id]
 esuwon.net###r_aside center > div[class="bn"]
 smartfn.co.kr##.mt30 .con_rt > style + div[style]:not([class])
@@ -1066,7 +1065,6 @@ coupang.com###sdp-bottom-banner
 coupang.com###sdpAdsBottom
 coupang.com###sdp-mid-banner-btf
 besteleven.com,newspim.com##.topbanner
-namu.wiki##iframe[src*="//arca.live/static/ad/"]
 mmzone.co.kr###main_premium_spon_block
 boannews.com,edu.donga.com,m.etoday.co.kr,mnews.sbs.co.kr,mbn.co.kr,cgv.co.kr,mmzone.co.kr##div[id$="_ad"]
 2cpu.co.kr##a[href*="./bbs/banner_link.php?"]
