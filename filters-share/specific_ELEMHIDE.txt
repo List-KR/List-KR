@@ -57,6 +57,8 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+namu.wiki##aside > div[class*=" "]:has(iframe[id^="google_ads_"])
+namu.wiki##article > div[class]:not([class*=" "]) ~ div[class*=" "]:has(iframe[id^="google_ads_"])
 humorpick.com##.view-mobile div[class*="margin-"]:has(#main_bn)
 shopping.naver.com##div[class^="shoppingHomeResponsive_inner"] div[class^="shoppingHomeResponsive_module__"]:has(> .trend_pick)
 mksports.co.kr##.read_txt> div[id^="slot"]
