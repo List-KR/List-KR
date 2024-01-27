@@ -84,10 +84,6 @@ body:
         - AdGuard Content Blocker
         - AdGuard DNS
         - uBlock Origin
-        - Unicorn PRO for Windows
-        - Unicorn PRO for Android
-        - Unicorn PRO for iPhone
-        - Unicorn PRO for Mac
         - (Other)
     validations:
       required: true
