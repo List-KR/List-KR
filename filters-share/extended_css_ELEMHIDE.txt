@@ -1,3 +1,4 @@
+namu.wiki#?#article div[class*=" "]:has(> span + ul > li) ~ div div + div[class*=" "]:has(iframe[id^="google_ads_"])
 news.tvchosun.com#?#.rnb > .rnb_cont:matches-css(height: 0px):matches-css(padding-top: 30px)
 humorpick.com#?#.item-list > .on:has(.ad-wrap-text)
 whosaeng.com#?##aside div[class^="scroll-in"] .bn:has(a[href^="/ad_link.php?"])
