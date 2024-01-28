@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+namu.wiki##aside > div[class*=" "]:has(iframe[src*="arca.live/external/callad"])
 namu.wiki##article div:not([class*=" "]):has(h1) ~ div div + div[class*=" "]:has(iframe[id^="google_ads_"], > div[id][class])
 namu.wiki##aside > div[class*=" "]:has(iframe[id^="google_ads_"])
 namu.wiki##article > div[class]:not([class*=" "]) ~ div[class*=" "]:has(iframe[id^="google_ads_"])
