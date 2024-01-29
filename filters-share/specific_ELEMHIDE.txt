@@ -31,7 +31,7 @@ mediatoday.co.kr,newsworker.co.kr##div[id^="AD"]
 ! ##div[class^="Banner"]
 moyoplan.com##div[class^="Banner"]
 ! ##div[class*="_ad"]
-hani.co.kr,asiatime.co.kr,kizmom.hankyung.com,cgv.co.kr,zum.com,kyeonggi.com,medicaltimes.com,kpanews.co.kr,donga.com,busan.com,fnnews.com,m.munhwa.com,m.kmib.co.kr##div[class*="_ad"]
+m.health.chosun.com,hani.co.kr,asiatime.co.kr,kizmom.hankyung.com,cgv.co.kr,zum.com,kyeonggi.com,medicaltimes.com,kpanews.co.kr,donga.com,busan.com,fnnews.com,m.munhwa.com,m.kmib.co.kr##div[class*="_ad"]
 ! ##div[id*="Banner"]
 evape.kr,kin.naver.com##div[id*="Banner"]
 ! ##div[class*="_AD"]
@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+m.health.chosun.com###content ~ .edit_bottom li:has(.li_ad)
 e-himart.co.kr##div[id*="Banner"]:not(#mainNewBanner)
 namu.wiki,~board.namu.wiki##aside > div[class*=" "][id][style] > div[id][class]
 namu.wiki,~board.namu.wiki##article div:not([class*=" "]):has(h1) ~ div div + div[class*=" "]:has(iframe[src*="arca.live/external/callad"])
@@ -389,7 +390,7 @@ m.beyondpost.co.kr##.wrap * + div[style*=";margin"]
 cnews.beyondpost.co.kr##.wr2_lt > div[class^="pcbview"][style*="margin-bottom:"]
 coronaita.com##.MuiGrid-item button[style^="background-color:"].MuiButtonBase-root
 news.heraldcorp.com##.article_area > .article_right
-news.heraldcorp.com###_popIn_recommend
+m.health.chosun.com,news.heraldcorp.com###_popIn_recommend
 m.betanews.net##center > div[style*="margin:"]
 vod.sportsseoul.com##div[id][style] > div[style*="margin-top:"]
 comic.sportsseoul.com###aside > div[style^="width:"]
