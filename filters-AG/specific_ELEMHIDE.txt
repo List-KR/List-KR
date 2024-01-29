@@ -1,3 +1,21 @@
+!#if adguard_ext_safari
+namu.wiki##aside > div[class*=" "][id][style] > div[id][class]
+namu.wiki##article div:not([class*=" "]):has(h1) ~ div div + div[class*=" "]:has(iframe[src*="arca.live/external/callad"])
+namu.wiki##article div:not([class*=" "]):has(h1) ~ div div + div[class*=" "]:has(> div[id][class])
+namu.wiki##article > div[class]:not([class*=" "]) ~ div[class*=" "]:has(iframe[src*="arca.live/external/callad"])
+namu.wiki##aside > div[class*=" "]:has(iframe[src*="arca.live/external/callad"])
+namu.wiki##article div:not([class*=" "]):has(h1) ~ div div + div[class*=" "]:has(iframe[id^="google_ads_"])
+namu.wiki##aside > div[class*=" "]:has(iframe[id^="google_ads_"])
+namu.wiki##article > div[class]:not([class*=" "]) ~ div[class*=" "]:has(iframe[id^="google_ads_"])
+board.namu.wiki#@#aside > div[class*=" "][id][style] > div[id][class]
+board.namu.wiki#@#article div:not([class*=" "]):has(h1) ~ div div + div[class*=" "]:has(iframe[src*="arca.live/external/callad"])
+board.namu.wiki#@#article div:not([class*=" "]):has(h1) ~ div div + div[class*=" "]:has(> div[id][class])
+board.namu.wiki#@#article > div[class]:not([class*=" "]) ~ div[class*=" "]:has(iframe[src*="arca.live/external/callad"])
+board.namu.wiki#@#aside > div[class*=" "]:has(iframe[src*="arca.live/external/callad"])
+board.namu.wiki#@#article div:not([class*=" "]):has(h1) ~ div div + div[class*=" "]:has(iframe[id^="google_ads_"])
+board.namu.wiki#@#aside > div[class*=" "]:has(iframe[id^="google_ads_"])
+board.namu.wiki#@#article > div[class]:not([class*=" "]) ~ div[class*=" "]:has(iframe[id^="google_ads_"])
+!#endif
 !#if adguard_app_ios
 cookmana18.com,cookmana19.com,cookmana20.com,cookmana21.com,cookmana22.com,cookmana23.com,cookmana24.com,cookmana25.com,cookmana26.com,cookmana27.com,cookmana28.com,cookmana29.com##.contents > .gridArea
 !#endif
