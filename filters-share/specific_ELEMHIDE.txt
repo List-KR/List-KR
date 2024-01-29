@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+ygosu.com##div[id^="clickmon_"]
 m.health.chosun.com###content ~ .edit_bottom li:has(.li_ad)
 e-himart.co.kr##div[id*="Banner"]:not(#mainNewBanner)
 namu.wiki,~board.namu.wiki##aside > div[class*=" "][id][style] > div[id][class]
