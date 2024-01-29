@@ -33,7 +33,7 @@ moyoplan.com##div[class^="Banner"]
 ! ##div[class*="_ad"]
 hani.co.kr,asiatime.co.kr,kizmom.hankyung.com,cgv.co.kr,zum.com,kyeonggi.com,medicaltimes.com,kpanews.co.kr,donga.com,busan.com,fnnews.com,m.munhwa.com,m.kmib.co.kr##div[class*="_ad"]
 ! ##div[id*="Banner"]
-evape.kr,e-himart.co.kr,kin.naver.com##div[id*="Banner"]
+evape.kr,kin.naver.com##div[id*="Banner"]
 ! ##div[class*="_AD"]
 0db.co.kr##div[class*="_AD"]
 ! ##section[class$="-ads"]
@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+e-himart.co.kr##div[id*="Banner"]:not(#mainNewBanner)
 namu.wiki,~board.namu.wiki##aside > div[class*=" "][id][style] > div[id][class]
 namu.wiki,~board.namu.wiki##article div:not([class*=" "]):has(h1) ~ div div + div[class*=" "]:has(iframe[src*="arca.live/external/callad"])
 namu.wiki,~board.namu.wiki##article div:not([class*=" "]):has(h1) ~ div div + div[class*=" "]:has(> div[id][class])
