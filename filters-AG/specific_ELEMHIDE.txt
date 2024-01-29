@@ -1,4 +1,4 @@
-!#if adguard_ext_safari
+!#if (adguard_ext_safari || adguard_app_ios)
 namu.wiki##aside > div[class*=" "][id][style] > div[id][class]
 namu.wiki##article div:not([class*=" "]):has(h1) ~ div div + div[class*=" "]:has(iframe[src*="arca.live/external/callad"])
 namu.wiki##article div:not([class*=" "]):has(h1) ~ div div + div[class*=" "]:has(> div[id][class])
