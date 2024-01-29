@@ -36,8 +36,6 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@##adContainer
 kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#ins.kakao_ad_area
 kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@##adBlockPixelTag
 kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
-! AdGlare Ad Server
-luckyquiz3.blogspot.com#%#//scriptlet('abort-current-inline-script', 'document.createElement', 'hasAdblock')
 ! meeco.kr
 meeco.kr##body > div[class][style*="box-shadow:"]
 meeco.kr#@#.googleAd
@@ -115,6 +113,12 @@ t.hi098123.com#$##hi-notice { height: 1px !important; visibility: hidden !import
 t.hi098123.com#@#iframe[src^="https://googleads.g.doubleclick.net/"]
 t.hi098123.com#@#.adsbygoogle-noablate
 !
+!#if (adguard_app_ios || adguard_ext_safari)
+luckyquiz3.blogspot.com#$#body > #pbt:has(.pbtadblock) { display: none !important; }
+luckyquiz3.blogspot.com#$#body { overflow: auto !important; }
+!#endif
+luckyquiz3.blogspot.com#%#//scriptlet('abort-on-stack-trace', 'Node.prototype.insertBefore', '.html')
+luckyquiz3.blogspot.com#%#//scriptlet('set-cookie', 'notToday2', 'Y')
 sbs.co.kr#%#//scriptlet('prevent-element-src-loading', 'script', 'imasdk.googleapis.com/js/sdkloader/ima3.js')
 !#if (adguard_app_ios)
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=sbs.co.kr
