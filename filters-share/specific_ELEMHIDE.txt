@@ -61,6 +61,7 @@ new-m.pay.naver.com##div[class*="_banner_"][style]
 ygosu.com##div[id^="clickmon_"]
 m.health.chosun.com###content ~ .edit_bottom li:has(.li_ad)
 e-himart.co.kr##div[id*="Banner"]:not(#mainNewBanner)
+namu.wiki,~board.namu.wiki##article > div[class]:not([class*=" "]) ~ div[class*=" "]:has(> div[id][class])
 namu.wiki,~board.namu.wiki##aside > div[class*=" "][id][style] > div[id][class]
 namu.wiki,~board.namu.wiki##article div:not([class*=" "]):has(h1) ~ div div + div[class*=" "]:has(iframe[src*="arca.live/external/callad"])
 namu.wiki,~board.namu.wiki##article div:not([class*=" "]):has(h1) ~ div div + div[class*=" "]:has(> div[id][class])
