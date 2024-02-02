@@ -48,11 +48,9 @@ m.bunjang.co.kr#?#div:has(> div > div > div:contains(연관상품) > div:has(> d
 !
 ! DOMAIN-REFRESHER: START
 !
-viewtorrent13.com,viewtorrent14.com,viewtorrent15.com,viewtorrent16.com,viewtorrent17.com,viewtorrent18.com,viewtorrent19.com,viewtorrent20.com,viewtorrent21.com,viewtorrent22.com,viewtorrent23.com,viewtorrent24.com,viewtorrent25.com#?#div[class^="col-md-"] div[class*="-main-"]:contains(/보증업체|검증업체/)
-torrentdia99.com,torrentdia100.com,torrentdia101.com,torrentdia102.com,torrentdia103.com,torrentdia104.com,torrentdia105.com,torrentdia106.com,torrentdia107.com,torrentdia108.com,torrentdia109.com,torrentdia110.com,torrentdia111.com,torrentdia112.com,torrentdia113.com#?#form#fboardlist table tr:has(span.text-muted:contains(AD))
 img.imimggggg87878.com#?#a[target="_blank"][href^="http://"].menu-a:contains(보증토토)
-frtoon199.com,frtoon200.com,frtoon201.com,frtoon202.com,frtoon203.com,frtoon204.com,frtoon205.com,frtoon206.com,frtoon207.com,frtoon208.com,frtoon209.com,frtoon210.com,frtoon211.com,frtoon212.com#?#.alert-danger.container:contains([AD])
-hdhd313.net,hdhd314.net,hdhd315.net,hdhd316.net,hdhd317.net,hdhd318.net,hdhd319.net,hdhd320.net,hdhd321.net,hdhd322.net,hdhd323.net,hdhd324.net,hdhd325.net,hdhd326.net,hdhd327.net#?#.menu-ul > .menu-li:has(> a:contains(보증토토))
-blacktoon253.com,blacktoon254.com,blacktoon255.com,blacktoon256.com,blacktoon257.com,blacktoon258.com,blacktoon259.com,blacktoon260.com,blacktoon261.com,blacktoon262.com,blacktoon263.com,blacktoon264.com#?#.alert.alert-danger:has(> a:contains([AD]))
+frtoon205.com,frtoon206.com,frtoon207.com,frtoon208.com,frtoon209.com,frtoon210.com,frtoon211.com,frtoon212.com,frtoon213.com,frtoon214.com,frtoon215.com,frtoon216.com,frtoon217.com,frtoon218.com#?#.alert-danger.container:contains([AD])
+hdhd315.net,hdhd316.net,hdhd317.net,hdhd318.net,hdhd319.net,hdhd320.net,hdhd321.net,hdhd322.net,hdhd323.net,hdhd324.net,hdhd325.net,hdhd326.net,hdhd327.net,hdhd328.net,hdhd329.net#?#.menu-ul > .menu-li:has(> a:contains(보증토토))
+blacktoon276.com,blacktoon277.com,blacktoon278.com,blacktoon279.com,blacktoon280.com,blacktoon281.com,blacktoon282.com,blacktoon283.com,blacktoon284.com,blacktoon285.com,blacktoon286.com,blacktoon287.com#?#.alert.alert-danger:has(> a:contains([AD]))
 !
 ! DOMAIN-REFRESHER: END
