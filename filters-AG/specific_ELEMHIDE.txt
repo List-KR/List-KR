@@ -1,21 +1,17 @@
 !#if (adguard_ext_safari || adguard_app_ios)
+board.namu.wiki#@#div[class]:not([class*=" "]) ~div[class*=" "] > *[class*=" "] > div:has(iframe[id^="google_ads_iframe_"])
+namu.wiki##div[class]:not([class*=" "]) ~div[class*=" "] > *[class*=" "] > div:has(iframe[id^="google_ads_iframe_"])
 namu.wiki##article > div[class]:not([class*=" "]) ~ div[class*=" "]:has(> div[id][class])
-namu.wiki##aside > div[class*=" "][id][style] > div[id][class]
 namu.wiki##article div:not([class*=" "]) ~ div div + div[class*=" "]:has(iframe[src*="arca.live/external/callad"])
 namu.wiki##article div:not([class*=" "]) ~ div div + div[class*=" "]:has(> div[id][class])
 namu.wiki##article > div[class]:not([class*=" "]) ~ div[class*=" "]:has(iframe[src*="arca.live/external/callad"])
-namu.wiki##aside > div[class*=" "]:has(iframe[src*="arca.live/external/callad"])
 namu.wiki##article div:not([class*=" "]) ~ div div + div[class*=" "]:has(iframe[id^="google_ads_"])
-namu.wiki##aside > div[class*=" "]:has(iframe[id^="google_ads_"])
 namu.wiki##article > div[class]:not([class*=" "]) ~ div[class*=" "]:has(iframe[id^="google_ads_"])
 board.namu.wiki#@#article > div[class]:not([class*=" "]) ~ div[class*=" "]:has(> div[id][class])
-board.namu.wiki#@#aside > div[class*=" "][id][style] > div[id][class]
 board.namu.wiki#@#article div:not([class*=" "]) ~ div div + div[class*=" "]:has(iframe[src*="arca.live/external/callad"])
 board.namu.wiki#@#article div:not([class*=" "]) ~ div div + div[class*=" "]:has(> div[id][class])
 board.namu.wiki#@#article > div[class]:not([class*=" "]) ~ div[class*=" "]:has(iframe[src*="arca.live/external/callad"])
-board.namu.wiki#@#aside > div[class*=" "]:has(iframe[src*="arca.live/external/callad"])
 board.namu.wiki#@#article div:not([class*=" "]) ~ div div + div[class*=" "]:has(iframe[id^="google_ads_"])
-board.namu.wiki#@#aside > div[class*=" "]:has(iframe[id^="google_ads_"])
 board.namu.wiki#@#article > div[class]:not([class*=" "]) ~ div[class*=" "]:has(iframe[id^="google_ads_"])
 !#endif
 !#if adguard_app_ios
