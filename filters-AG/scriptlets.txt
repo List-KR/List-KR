@@ -10,7 +10,7 @@ m.humoruniv.com#%#//scriptlet('abort-current-inline-script', '$.prototype.html',
 ! m.fmkorea.com
 m.fmkorea.com#%#//scriptlet('json-prune', 'tpl apply', 'tpl.[].c', '/fmkorea.com.[A-z]{8,}.js/')
 !
-m.10000recipe.com#%#//scriptlet('prevent-setTimeout', 'popup_goods')
+10000recipe.com#%#//scriptlet('prevent-setTimeout', 'popup_goods')
 oh-yes.co.kr#%#//scriptlet('set-cookie', 'ld_ac_timeout', 'Y')
 search.11st.co.kr#%#//scriptlet('json-prune', 'powerLink', 'powerLink.ads')
 ssodam.com#%#//scriptlet('set-cookie', 'adv', '1')
