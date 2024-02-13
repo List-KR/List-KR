@@ -95,23 +95,6 @@ spotvnow.co.kr#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com/pag
 aagag.com#@#ins.adsbygoogle
 aagag.com#$#.la { height: 75px !important; width: 75px !important; visibility: hidden !important; }
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=aagag.com,xmlhttprequest
-! t.hi098123.com
-@@||pagead2.googlesyndication.com/getconfig/$xmlhttprequest,domain=t.hi098123.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=t.hi098123.com
-@@||pagead2.googlesyndication.com/pagead/managed/$script,domain=t.hi098123.com
-||googleads.g.doubleclick.net/pagead/ads$subdocument,redirect=noopframe,domain=t.hi098123.com
-!#if (adguard_app_ios || adguard_ext_safari)
-@@||googleads.g.doubleclick.net/pagead/ads$subdocument,domain=t.hi098123.com
-!#endif
-!#safari_cb_affinity(privacy)
-@@||googletagmanager.com/gtag/$script,domain=t.hi098123.com
-!#safari_cb_affinity
-t.hi098123.com#@#ins.adsbygoogle
-t.hi098123.com#$#.tabad { height: 1px !important; }
-t.hi098123.com#$#ins.adsbygoogle * { height: 1px !important; visibility: hidden !important; }
-t.hi098123.com#$##hi-notice { height: 1px !important; visibility: hidden !important; }
-t.hi098123.com#@#iframe[src^="https://googleads.g.doubleclick.net/"]
-t.hi098123.com#@#.adsbygoogle-noablate
 !
 !#if (adguard_app_ios || adguard_ext_safari)
 luckyquiz3.blogspot.com#$#body > #pbt:has(.pbtadblock) { display: none !important; }
