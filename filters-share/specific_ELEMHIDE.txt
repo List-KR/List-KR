@@ -11,7 +11,7 @@ lolchess.gg,healtho.co.kr,economist.co.kr,m.comic.naver.com,sports.news.naver.co
 ! ##div[class$="_banner"]
 tokenpost.kr,mydaily.co.kr,section.cafe.naver.com,mlbpark.donga.com,forwarder.kr,kwnews.co.kr,ichannela.com,etoland.co.kr,m.mail.daum.net,zum.com,health.chosun.com,thebell.co.kr,fomos.kr,styleup.gameangel.com,yakup.com,jjan.kr,mitem.auction.co.kr,knnews.co.kr,joseilbo.com,m.mt.co.kr,order.kyobobook.co.kr,newsen.com,toomics.com,m.ytn.co.kr,djtimes.co.kr,mdjournal.kr,windowsforum.kr,dcnewsj.joins.com,berryjam.co.kr##div[class$="_banner"]
 ! ##div[class^="ad"]
-m.gamechosun.co.kr,hub.zum.com,news.heraldcorp.com,lalawin.com,badayak.com,ujnews.co.kr,realty.chosun.com,koreadaily.com,it.chosun.com,m.fmkorea.com,maple.gg,ytn.co.kr,www.ebs.co.kr,newsis.com,m.newsen.com,jwmx.tistory.com,thespike.co.kr,hobbyen.co.kr,socialvalue.kr,entertainpost.com,m.moneys.co.kr,basketkorea.com,m.ohmynews.com,heraldcorp.com,slrclub.com##div[class^="ad"]
+m.gamechosun.co.kr,hub.zum.com,news.heraldcorp.com,lalawin.com,badayak.com,ujnews.co.kr,realty.chosun.com,koreadaily.com,it.chosun.com,m.fmkorea.com,ytn.co.kr,www.ebs.co.kr,newsis.com,m.newsen.com,jwmx.tistory.com,thespike.co.kr,hobbyen.co.kr,socialvalue.kr,entertainpost.com,m.moneys.co.kr,basketkorea.com,m.ohmynews.com,heraldcorp.com,slrclub.com##div[class^="ad"]
 ! ##div[class^="banner_"]
 metroseoul.co.kr,m.hub.zum.com,gqkorea.co.kr,beyondpost.co.kr,m.fomos.kr,m.kin.naver.com,jjan.kr,m.sports.naver.com,newspic.kr,www.ebs.co.kr,prod.danawa.com,auth.danawa.com,socialvalue.kr,news.jtbc.co.kr,ajunews.com,mk.co.kr##div[class^="banner_"]
 ! ##div[class$="Banner"]
@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+maple.gg##.container-content div[class*=" "]:has(> div[id^="div-gpt-ad-"]):not(:has(*[class]:not([id])))
 namu.wiki,~board.namu.wiki##div[class]:not([class*=" "]) ~div[class*=" "] > *[class*=" "] > div:has(iframe[id^="google_ads_iframe_"])
 m.10000recipe.com##.sp_pdt_wrap
 new-m.pay.naver.com##div[class*="_banner_"][style]

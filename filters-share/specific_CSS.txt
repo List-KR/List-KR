@@ -1,3 +1,4 @@
+maple.gg#$#.container-content > section[class*=" "] ~ main[class*=" "] { margin-top: 50px !important; }
 courtauctionmap.com#$##map_area { height: 100% !important; }
 coolfun.zal.kr#$#.inner-body.hided .inside-content-background-gradient { display: none !important; }
 coolfun.zal.kr#$#.inner-body.hided .partners-inside { display: none !important; }
