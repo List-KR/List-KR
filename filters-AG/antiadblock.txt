@@ -95,6 +95,10 @@ spotvnow.co.kr#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com/pag
 aagag.com#@#ins.adsbygoogle
 aagag.com#$#.la { height: 75px !important; width: 75px !important; visibility: hidden !important; }
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=aagag.com,xmlhttprequest
+! t.hi098123.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=t.hi098123.com
+t.hi098123.com#$#.tabad { visibility: hidden !important; }
+t.hi098123.com#$#article.inner2 { top: 0px !important; }
 !
 !#if (adguard_app_ios || adguard_ext_safari)
 luckyquiz3.blogspot.com#$#body > #pbt:has(.pbtadblock) { display: none !important; }
