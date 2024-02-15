@@ -127,7 +127,7 @@ m.sports.naver.com##.main_grid_item> div[class*="_promotion__"]
 prod.danawa.com###powerShoppingContent
 m.richgo.ai##div[class^="DanjiInfomation__"] > div[class^="Divider__SD_Layout-"] + div[class^="Divider__SD_Layout-"]
 m.clien.net##.board_recommended > a.list_item ~ div[class*=" "]
-mystylezip.com,carandmore.co.kr,maxmovieen.com,tenbizt.com,mobilitytv.co.kr,thehousemagazine.kr,tminews.co.kr,capress.kr,youtu.co,dfast.kr,mememedia.co.kr,newautopost.co.kr###main > div[class*="-ad-"]
+hotplacehunter.co.kr,mystylezip.com,carandmore.co.kr,maxmovieen.com,tenbizt.com,mobilitytv.co.kr,thehousemagazine.kr,tminews.co.kr,capress.kr,youtu.co,dfast.kr,mememedia.co.kr,newautopost.co.kr###main > div[class*="-ad-"]
 newautopost.co.kr###coupang-ad-wrapper
 www.dt.co.kr##.main_wrap > center > div[style*=" height:"]
 www.dt.co.kr##.article_view > div[style$="overflow:hidden"].img_center
