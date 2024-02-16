@@ -255,7 +255,7 @@ op.gg##.vm-placement
 op.gg###content-header .FormItem + #opgg-video
 op.gg##.e17e77tq6
 op.gg###content-container > main > div[class^="css-"][class*=" "] ~ div[class^="css-"][class*=" "][style^="margin-bottom:"]
-etoland.co.kr##div[class^="power_link_"]
+etoland.co.kr##div[class^="power_link"]
 etoland.co.kr##ul.board_list > li.subject.ad_subject
 etoland.co.kr###mw_mobile > div[style^="margin-bottom:"]
 etoland.co.kr##.main_right > .youtube-container
