@@ -1,3 +1,4 @@
+||graph.facebook.com^$app=viva.republica.toss
 ||fundingchoicesmessages.google.com^$app=com.dencreak.spbook
 ||settings.cashwalk.io/cashwalk/*/notice/notice2_main|
 ||braze-images.com^$app=kr.co.rememberapp
