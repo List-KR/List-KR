@@ -57,6 +57,11 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+doctorjob.co.kr##.grand_banner
+doctorjob.co.kr##.grand_banner + .sectionc
+doctorjob.co.kr##.nurse_banner:has(a[href^="/business/recruit_write.php"])
+doctorjob.co.kr##.main_pay + .sectionc:has(a[href^="/business/recruit_write.php"])
+doctorjob.co.kr##.main_pay ~ .sectionc > .nurse_banner ~ *:is(.sectionc, .hire-list)
 m.fishingseasons.co.kr##.contents .table_cls > li
 newsnjoy.or.kr###article-view.mobile .wrapper > .clearfix
 newsnjoy.or.kr###leftFloat
