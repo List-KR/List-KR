@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+bbs.ruliweb.com###board_top .best_list ~ .border_box
 doctorjob.co.kr##.grand_banner
 doctorjob.co.kr##.grand_banner + .sectionc
 doctorjob.co.kr##.nurse_banner:has(a[href^="/business/recruit_write.php"])
