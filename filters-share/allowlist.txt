@@ -2,6 +2,7 @@
 @@||aitimes.com/bannerpop/uploads/image/1699431559523961142.png
 aitimes.com#@#img[src^="/bannerpop/"]
 !
+08dragon.com#@#[data-ez-name]
 @@||cdn.kbmaeil.com/bannerpop/uploads/js/976.js
 @@||cdn.kbmaeil.com/bannerpop/uploads/image/16224295341851316158.png
 @@||whosaeng.com/data/whosaeng_com/banner/2024010357483891
