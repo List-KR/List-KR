@@ -1,7 +1,3 @@
-! Must be rechecked in 2023 Dec 20.
-@@||aitimes.com/bannerpop/uploads/image/1699431559523961142.png
-aitimes.com#@#img[src^="/bannerpop/"]
-!
 08dragon.com#@#[data-ez-name]
 @@||cdn.kbmaeil.com/bannerpop/uploads/js/976.js
 @@||cdn.kbmaeil.com/bannerpop/uploads/image/16224295341851316158.png
