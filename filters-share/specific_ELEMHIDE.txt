@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+gall.dcinside.com##article#write_wrap > #write >  div[style]:has(ins.kakao_ad_area)
 monitor.co.kr##div[class^="notice"] .notice td[bgcolor="white"]:has(ins.adsbygoogle)
 bbs.ruliweb.com###board_top .best_list ~ .border_box
 doctorjob.co.kr##.grand_banner
