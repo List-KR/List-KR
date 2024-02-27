@@ -1163,8 +1163,9 @@ zzzz.lol##a[href*="/bbs/link.php?bo_table=partner&"]
 zzzz.lol##.ent_wrapper.slide-vertical-effect .ent_navigation
 zzzz.lol##a[href*="?bo_table=partner"]
 zzzz.lol###hd_pop
-torrentpi117.com,torrentpi118.com,torrentpi119.com,torrentpi120.com,torrentpi121.com,torrentpi122.com,torrentpi123.com,torrentpi124.com,torrentpi125.com,torrentpi126.com,torrentpi127.com,torrentpi128.com,torrentpi129.com,torrentpi130.com,torrentpi131.com,torrentpi132.com,torrentpi133.com,torrentpi134.com##div[class^="col-sm-"] > div:not([style]) .basic-post-gallery
-torrentpi117.com,torrentpi118.com,torrentpi119.com,torrentpi120.com,torrentpi121.com,torrentpi122.com,torrentpi123.com,torrentpi124.com,torrentpi125.com,torrentpi126.com,torrentpi127.com,torrentpi128.com,torrentpi129.com,torrentpi130.com,torrentpi131.com,torrentpi132.com,torrentpi133.com,torrentpi134.com###hd_pop
+torrentpi123.com,torrentpi124.com,torrentpi125.com,torrentpi126.com,torrentpi127.com,torrentpi128.com,torrentpi129.com,torrentpi130.com,torrentpi131.com,torrentpi132.com,torrentpi133.com,torrentpi134.com,torrentpi135.com,torrentpi136.com,torrentpi137.com,torrentpi138.com##.amina-header ~ .at-row .basic-post-gallery
+torrentpi123.com,torrentpi124.com,torrentpi125.com,torrentpi126.com,torrentpi127.com,torrentpi128.com,torrentpi129.com,torrentpi130.com,torrentpi131.com,torrentpi132.com,torrentpi133.com,torrentpi134.com,torrentpi135.com,torrentpi136.com,torrentpi137.com,torrentpi138.com##div[class^="col-sm-"] > div:not([style]) .basic-post-gallery
+torrentpi123.com,torrentpi124.com,torrentpi125.com,torrentpi126.com,torrentpi127.com,torrentpi128.com,torrentpi129.com,torrentpi130.com,torrentpi131.com,torrentpi132.com,torrentpi133.com,torrentpi134.com,torrentpi135.com,torrentpi136.com,torrentpi137.com,torrentpi138.com###hd_pop
 hasha.in##div[style^="min-height:"][class^="bg-hasha-"] > div[style] + .max-w-full
 tvzota92.com,tvzota93.com,tvzota94.com,tvzota95.com,tvzota96.com,tvzota97.com,tvzota98.com,tvzota99.com,tvzota100.com,tvzota101.com,tvzota102.com##div[class^="popup_"]
 tvzota92.com,tvzota93.com,tvzota94.com,tvzota95.com,tvzota96.com,tvzota97.com,tvzota98.com,tvzota99.com,tvzota100.com,tvzota101.com,tvzota102.com##.wid

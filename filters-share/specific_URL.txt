@@ -817,7 +817,7 @@
 /\/data\/zzapstream\/[0-9]+_[A-z0-9]+\.gif/$domain=zzzz.lol
 ||i.uuoobe.com//ad/
 /^https:\/\/(www\.)?filetender\.com\/images\/(?!logo).+\.(jpg|png)$/$domain=filetender.com
-/^https:\/\/(w[0-9]+\.)?torrentpi[0-9]+\.com\/data\/file\/ad\//
+/^https:\/\/(w[0-9]+\.)?torrentpi[0-9]+\.com\/data\/file\/ad/
 /^https:\/\/(w[0-9]+\.)?torrentpi[0-9]+\.com\/data\/editor\/[0-9]+\/[a-z0-9]+_[0-9]+_[0-9]+\./
 /^https:\/\/m[0-9]+\.kotbc\.com\/img\/[a-z0-9_\/]+\.gif$/
 ||i.imgur.com^$domain=torrentwhy101.xyz|torrentwhy102.xyz|torrentwhy103.xyz|torrentwhy104.xyz|torrentwhy105.xyz|torrentwhy106.xyz|torrentwhy107.xyz|torrentwhy108.xyz|torrentwhy109.xyz|torrentwhy110.xyz|torrentwhy111.xyz|torrentwhy112.xyz
