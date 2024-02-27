@@ -84,7 +84,6 @@ aladin.co.kr#?##welcomeMainBanner_welcome_tab li[id]:has(img[src*="/img/banner/f
 kharn.kr#?#div[class*="inner"].column > div:has(a[href*="/banner_click.php"])
 defensetimes.kr#?#table[id^="index_"] tr:has(ins.adsbygoogle)
 pinpointnews.co.kr#?##article-view div[style].float-center div[class^="m-view-"]:not(:has(> article))
-search.daum.net#?#div[class] > div[disp-attr] ~ div[disp-attr]:has(a[href*="//brandsearch.ad.daum.net/"][onclick^="smartLog"]) + .line
 search.daum.net#?#div[class] > div[disp-attr] ~ div[disp-attr]:has(a[href*="//brandsearch.ad.daum.net/"][onclick^="smartLog"])
 m.ruliweb.com#?#div[id^="list_read_"] ul[class*="_list"] > li:has(a[href][target="_blank"])
 m.ruliweb.com#?#.main_center .line_deco_bottom:has(div[class^="ad_"])
@@ -122,11 +121,7 @@ tipsandtrickskorea.com#?#div.article ~ aside#sidebar:has(.facebook_like:matches-
 webtoon.kakao.com#?#div[class^="left"] ~ div[class]:not([style]):has(ins.kakao_ad_area)
 pping.kr#?#.main_contents > div[class^="sc-"]:has(img[src*="//cdnimg.happyshopping.kr/img_ad/"])
 pedia.watcha.com#?#div[class*="-ContentSections"] div[class^="css-"] section:has(section[class*="-ContentSection"] div[class*="-AdContainer"])
-search.daum.net#?#body.nate article#mArticle [disp-attr].g_comp:has(iframe[src*="//ad.search.nate.com/"])
-search.daum.net#?#body.nate article#mArticle [disp-attr].g_comp:has(#bizDirtColl)
-search.daum.net#?#body.nate article#mArticle [disp-attr].g_comp:has(iframe[src*="//ad.search.nate.com/"]) + .line
 shoppinghow.kakao.com#?##contEtc > #rightContentbox:has(#SearchRightAdWrap)
-search.daum.net#?#article#mArticle [disp-attr].g_comp:has(.adLinkColl) + .line
 coocha.co.kr#?#.group-deal .list > div:has(span.ad:matches-css(background-image: /images\/deal\/ad\.png/))
 10000recipe.com#?#body .view_sp_banner .swipe-slide:has(img[src^="https://recipe1.ezmember.co.kr/cache/shop/"])
 m.moneys.co.kr#?#.one_line_article > ul.list > li.item:not(:has(a[href^="/article.html?no="]))
