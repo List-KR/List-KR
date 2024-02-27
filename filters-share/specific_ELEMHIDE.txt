@@ -57,6 +57,9 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+search.daum.net##body.nate .screen_out ~ div[disp-attr]:has(> #bizDirtColl)
+search.daum.net##body.nate .screen_out ~ div[disp-attr]:has(> div[style*="height:"])
+search.daum.net##body.nate aside#mAside > div[disp-attr]:has(> .wing_nate)
 search.daum.net##.screen_out ~ div[disp-attr]:has(c-list-ad)
 search.daum.net##.screen_out ~ div[disp-attr]:has(> div:is(#splinkColl, .adLinkColl))
 www.daum.net##.inner_main > div[data-tiara-layer="shopping"]
