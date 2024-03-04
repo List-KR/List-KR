@@ -25,6 +25,7 @@ te31.com#@#.textAd
 te31.com#@#.text_ad
 te31.com#@#.text_ads
 !
+@@||adxv.zum.com/view/targets?slots=$domain=zum.com
 svrforum.com##body > div[class][style*="box-shadow:"]
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=t.hi098123.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=luckyquiz3.blogspot.com

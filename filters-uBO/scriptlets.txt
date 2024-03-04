@@ -1,4 +1,7 @@
 ! This file includes a filter using action operators of uBlock Origin that can be converted to AdGuard scriptlet.
+!
+! Check after 2024 April 1st.
+zum.com##+js(set, _ads_zum_main_initbanner_750_zum_main_br_widget_336, true)
 ! PopMagic
 watchfreejavonline.co##+js(acis, popMagic.init)
 ! https://github.com/uBlockOrigin/uBlock-issues/issues/2130#issuecomment-1621684566

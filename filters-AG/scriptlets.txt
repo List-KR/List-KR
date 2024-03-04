@@ -1,3 +1,5 @@
+! Check after 2024 April 1st.
+zum.com#%#//scriptlet('set-constant', '_ads_zum_main_initbanner_750_zum_main_br_widget_336', 'true')
 ! PopMagic
 watchfreejavonline.co#%#//scriptlet('abort-current-inline-script', 'popMagic.init')
 ! m.humoruniv.com

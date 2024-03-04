@@ -1,3 +1,8 @@
+! Check after 2024 April 1st.
+!#if (adguard_app_ios || adguard_ext_android_cb || adguard_ext_safari)
+@@||adxv.zum.com/view/targets?slots=$domain=zum.com
+!#endif
+!
 !#if (adguard_app_ios)
 @@||tinnews.co.kr/data/tinnews_co_kr/banner/2020040642392902
 @@||tinnews.co.kr/data/tinnews_co_kr/banner/favicon.ico

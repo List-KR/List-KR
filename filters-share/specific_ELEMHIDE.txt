@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+zum.com##div[class$="-banners"]
 search.daum.net##body.nate .screen_out ~ div[disp-attr]:has(> #bizDirtColl)
 search.daum.net##body.nate .screen_out ~ div[disp-attr]:has(> div[style*="height:"])
 search.daum.net##body.nate aside#mAside > div[disp-attr]:has(> .wing_nate)
