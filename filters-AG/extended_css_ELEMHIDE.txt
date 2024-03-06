@@ -1,3 +1,4 @@
+search.tmon.co.kr#?#.deallist_wrap li[data-d].item:has(span[role="presentation"] > button:contains(AD))
 namu.wiki#?#aside > div[class*=" "]:has(> img[class] ~ div[class]:contains(광고))
 m.pay.naver.com#?##content > .recommend_section:has(> div[style^="padding:"] > #m_pay_deliverytracking):contains(/^[ \\n]+$/)
 pedia.watcha.com#?#section[class^="css-"] section[class^="css-"] > [class^="css-"]:is(:has(section > a[target="_blank"]), :has(> div[class^="media-area "])):contains( · AD):not(:has(section ~ section))
