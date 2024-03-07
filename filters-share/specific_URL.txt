@@ -1,3 +1,6 @@
+||google.com/adsense/ad
+||google.com/adsense/domains
+||google.com/adsense/search/$third-party
 ||okky.kr/api/okky-web/banners
 ||file.doctornow.co.kr/ad/banner-ad/
 ||arca.live/external/callad|
@@ -665,7 +668,6 @@
 ||m.ppomppu.co.kr/banner/google_ad.html
 ||prod.danawa.com/bridge/loadingBridgePowerClick.php$document
 ||mobile.newsis.com/ad_list/
-||google.com/adsense/
 ||m.news1.kr/template/ads/
 ||image.news1.kr/system/ads_t/
 ||nocutnews.co.kr/ad/
