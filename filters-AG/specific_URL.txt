@@ -4,6 +4,7 @@
 ||css-load.com^$document,popup,ping
 ||html-load.com^$document,popup,ping
 ||f97ae142.online^$document,popup,ping
+||22d2d4d9-0c15-4a3a-9562-384f2c100146.xyz^$document,popup,ping
 !#endif
 ! TODO: remove the following filter if https://github.com/AdguardTeam/CoreLibs/issues/1831 is resolved.
 !#if (adguard_app_android || adguard_app_mac || adguard_app_windows)
