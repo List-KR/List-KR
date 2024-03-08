@@ -1,0 +1,6 @@
+||07c225f3.online^$document,popup,ping
+||content-loader.com^$document,popup,ping
+||css-load.com^$document,popup,ping
+||html-load.com^$document,popup,ping
+||f97ae142.online^$document,popup,ping
+||22d2d4d9-0c15-4a3a-9562-384f2c100146.xyz^$document,popup,ping
