@@ -57,6 +57,9 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+www.instiz.net##body > div[style]:has(> div[class^="powerlink_"])
+www.instiz.net##body > .foot:has(> div[style*="margin:"][id^="d"])
+www.instiz.net###mboard tr:has(> td:not([class]) div[style^="margin:"][id^="d"])
 zum.com##div[class$="-banners"]
 search.daum.net##body.nate .screen_out ~ div[disp-attr]:has(> #bizDirtColl)
 search.daum.net##body.nate .screen_out ~ div[disp-attr]:has(> div[style*="height:"])
