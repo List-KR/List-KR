@@ -1194,7 +1194,7 @@ newtoki323.com,newtoki324.com,newtoki325.com,newtoki326.com,newtoki327.com,newto
 hellven.net##a[href^="http"][target="_blank"].thumbnail
 dajunbi.com##div[class^="banner_"]
 spotv112.com,spotv113.com,spotv114.com,spotv115.com,spotv116.com,spotv117.com,spotv118.com,spotv119.com,spotv120.com,spotv121.com,spotv122.com,spotv123.com,spotv124.com,spotv125.com,spotv126.com,spotv127.com,spotv128.com,spotv129.com,spotv130.com##div[id$="-banner"]
-anilife.life##div[class$="-banner"]
+anilife.*##div[class$="-banner"]
 qooqootv.fun##div[class^="banner_"]
 !#if !adguard_ext_android_cb
 lover924.net,lover925.net,lover926.net,lover927.net,lover928.net,lover929.net,lover930.net,lover931.net,lover932.net,lover933.net##.xe_content span ~ div[style]
@@ -1220,7 +1220,7 @@ moviepang.net##.sidebar[style] > aside[id^="text-"][class] ~ aside[id^="text-"][
 frtoon205.com,frtoon206.com,frtoon207.com,frtoon208.com,frtoon209.com,frtoon210.com,frtoon211.com,frtoon212.com,frtoon213.com,frtoon214.com,frtoon215.com,frtoon216.com,frtoon217.com,frtoon218.com##.ad-form > .row > div[class^="col-md-"]
 funbe332.com,funbe333.com,funbe334.com,funbe335.com,funbe336.com,funbe337.com,funbe338.com,funbe339.com,funbe340.com,funbe341.com,funbe342.com,funbe343.com,funbe344.com,funbe345.com,funbe346.com##div[class$="mobile-banner"][style]
 toon123.com##main > section[style]:not([class])
-anilife.live##.MainBnnWrap
+anilife.*##.MainBnnWrap
 manaboza58.com,manaboza59.com,manaboza60.com,manaboza61.com,manaboza62.com,manaboza63.com,manaboza64.com,manaboza65.com,manaboza66.com,manaboza67.com,manaboza68.com,manaboza69.com##.payment_fullbnr
 manaboza58.com,manaboza59.com,manaboza60.com,manaboza61.com,manaboza62.com,manaboza63.com,manaboza64.com,manaboza65.com,manaboza66.com,manaboza67.com,manaboza68.com,manaboza69.com##.comic_bot_bnr
 torrentmode.com##a[href^="https://torrentmode.com/bbs/bannerhit.php"]

@@ -871,7 +871,7 @@
 /^https:\/\/hohotoon[0-9]+\.com\/data\/banner\//
 /^https?:\/\/(www\.)?spotv[0-9]+\.com\/theme\/basic\/img\/[a-z]+_ad_/
 /^https:\/\/torrenthaja[0-9]*\.com\/data\/banner\//
-||anilife.life/assets/banner/
+||anilife.*/assets/images/banner/$domain=anilife.*
 /^https:\/\/xn--8-o68e16s35etqj\.com\/data\/editor\/[0-9]+\/[a-z0-9]+_[a-z0-9]+_[a-z0-9]+\./
 /^https:\/\/torrentmode[0-9]+\.com\/data\/zn_bimg\//
 ||az-cdn.com/banners/
@@ -911,7 +911,6 @@
 /^https:\/\/funbe[0-9]+\.com\/images\//
 /^https?:\/\/[0-9]+image\.[0-9]+toon\.com\/Image\/Banposter\//
 /^https?:\/\/toon[0-9]+\.com\/bbs\/myiframe\.html$/
-||anilife.live/assets/banner/
 /^https?:\/\/manaboza[0-9]+\.com\/static\/picture\/[0-9]{4}_[0-9]{10}\.[0-9]{4}\./
 /^https?:\/\/manaboza[0-9]+\.com\/static\/image\/header\//
 /^https:\/\/newtoon[0-9]+\.com\/banner\//
