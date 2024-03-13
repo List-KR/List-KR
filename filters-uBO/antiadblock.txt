@@ -44,7 +44,7 @@ spotvnow.co.kr##+js(no-fetch-if, pagead2.googlesyndication.com/pagead/js/adsbygo
 ! aagag.com
 aagag.com#@#ins.adsbygoogle
 aagag.com#$#.la { height: 75px !important; width: 75px !important; visibility: hidden !important; }
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=aagag.com
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=aagag.com,xmlhttprequest,redirect=googlesyndication_adsbygoogle.js
 ! t.hi098123.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=t.hi098123.com
 t.hi098123.com#$#.tabad { visibility: hidden !important; }

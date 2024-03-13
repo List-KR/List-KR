@@ -87,14 +87,12 @@ spotvnow.co.kr#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com/pag
 @@||advimg.ad-mapps.com/sdk/M_PLUS/Image/$domain=maxmovie.com
 !#endif
 ! aagag.com
-!#if (adguard_app_windows || adguard_app_mac || adguard_app_android || adguard_ext_firefox)
-||a.aagag.com/js/AAGAG_AA.js$replace=/https:\/\/pagead2\.googlesyndication\.com\/pagead\/js\/adsbygoogle\.js/\//
-||a.aagag.com/js/AAGAG_AA.js$replace=/result\.indexOf\('(google-adsense|googlesyndication)'\)/result.indexOf('')/
-||a.aagag.com/js/AAGAG_AA.js$replace=/result\.length>[0-9]+/true/
+!#if (adguard_ext_safari || adguard_app_ios)
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=aagag.com,xmlhttprequest
 !#endif
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=aagag.com,xmlhttprequest,redirect=googlesyndication-adsbygoogle
 aagag.com#@#ins.adsbygoogle
 aagag.com#$#.la { height: 75px !important; width: 75px !important; visibility: hidden !important; }
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=aagag.com,xmlhttprequest
 ! t.hi098123.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=t.hi098123.com
 t.hi098123.com#$#.tabad { visibility: hidden !important; }
