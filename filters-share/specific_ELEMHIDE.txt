@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+issuelink.co.kr##table.table-stripped tr:is(:has(.ad), :has(.adsbygoogle))
 www.instiz.net##body > div[style]:has(> div[class^="powerlink_"])
 www.instiz.net##body > .foot:has(> div[style*="margin:"][id^="d"])
 www.instiz.net###mboard tr:has(> td:not([class]) div[style^="margin:"][id^="d"])
