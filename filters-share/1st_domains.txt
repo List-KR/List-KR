@@ -1,3 +1,4 @@
+||kiesta.net^$third-party
 ||nsmartad.com^
 ||authanalysis.com^$third-party
 ||adfork.co.kr^
