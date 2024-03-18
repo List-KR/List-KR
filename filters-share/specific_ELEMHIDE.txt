@@ -1195,7 +1195,7 @@ newtoki323.com,newtoki324.com,newtoki325.com,newtoki326.com,newtoki327.com,newto
 hellven.net##a[href^="http"][target="_blank"].thumbnail
 dajunbi.com##div[class^="banner_"]
 spotv112.com,spotv113.com,spotv114.com,spotv115.com,spotv116.com,spotv117.com,spotv118.com,spotv119.com,spotv120.com,spotv121.com,spotv122.com,spotv123.com,spotv124.com,spotv125.com,spotv126.com,spotv127.com,spotv128.com,spotv129.com,spotv130.com##div[id$="-banner"]
-anilife.*##div[class$="-banner"]
+anilife.*##div[class^="banner-"]
 qooqootv.fun##div[class^="banner_"]
 !#if !adguard_ext_android_cb
 lover924.net,lover925.net,lover926.net,lover927.net,lover928.net,lover929.net,lover930.net,lover931.net,lover932.net,lover933.net##.xe_content span ~ div[style]
