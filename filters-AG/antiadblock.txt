@@ -95,8 +95,12 @@ aagag.com#@#ins.adsbygoogle
 aagag.com#$#.la { height: 75px !important; width: 75px !important; visibility: hidden !important; }
 ! t.hi098123.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=t.hi098123.com
-t.hi098123.com#$#.tabad { visibility: hidden !important; }
-t.hi098123.com#$#article.inner2 { top: 0px !important; }
+@@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_fy2021.js$domain=t.hi098123.com
+t.hi098123.com#@#ins.adsbygoogle
+!#safari_cb_affinity(privacy)
+@@||googletagmanager.com/gtag/js$domain=t.hi098123.com,script
+!#safari_cb_affinity
+t.hi098123.com#$#.tabad { top: -100px !important; }
 !
 svrforum.com##body > div[class][style*="box-shadow:"]
 !#if (adguard_app_ios || adguard_ext_safari)

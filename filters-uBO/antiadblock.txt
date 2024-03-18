@@ -47,8 +47,10 @@ aagag.com#$#.la { height: 75px !important; width: 75px !important; visibility: h
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=aagag.com,xmlhttprequest,redirect=googlesyndication_adsbygoogle.js
 ! t.hi098123.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=t.hi098123.com
-t.hi098123.com#$#.tabad { visibility: hidden !important; }
-t.hi098123.com#$#article.inner2 { top: 0px !important; }
+@@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_fy2021.js$domain=t.hi098123.com
+t.hi098123.com#@#ins.adsbygoogle
+@@||googletagmanager.com/gtag/js$domain=t.hi098123.com,script
+t.hi098123.com#$#.tabad { top: -100px !important; }
 !
 svrforum.com##body > div[class][style*="box-shadow:"]
 luckyquiz3.blogspot.com##+js(aost, Node.prototype.insertBefore, .html)
