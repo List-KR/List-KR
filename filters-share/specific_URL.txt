@@ -1,3 +1,5 @@
+||search.danawa.com/mobile/ajax/adProduct/$xmlhttprequest
+||search.danawa.com/ajax/adProduct/$xmlhttprequest
 ||bjapi.afreecatv.com/api/ad/
 ||google.com/adsense/ad
 ||google.com/adsense/domains
