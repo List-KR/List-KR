@@ -1,3 +1,4 @@
+||ad-img.gmarket.com/ADS/Contents_/$domain=signin.gmarket.co.kr
 ||search.danawa.com/mobile/ajax/adProduct/$xmlhttprequest
 ||search.danawa.com/ajax/adProduct/$xmlhttprequest
 ||bjapi.afreecatv.com/api/ad/
