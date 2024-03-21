@@ -855,7 +855,7 @@
 ||static.springbuilder.site/fs/userFiles-v2/$domain=tkr296.com|tkr297.com|tkr298.com|tkr299.com|tkr300.com|tkr301.com|tkr302.com|tkr303.com|tkr304.com|tkr305.com|tkr306.com|tkr307.com
 /^https:\/\/static\.tzstatic\.top\/t\/[a-z0-9]+\.gif$/
 /^https:\/\/image\.yaburi[0-9]+\.com\/image-storage\/banners\//
-/^https:\/\/torrentnx[0-9]+\.com\/thema\/Basic\/assets\//
+/^https:\/\/w[0-9]+\.torrentnx[0-9]+\.com\/data\/file\/notice\//$domain=torrentnx17.com|torrentnx18.com|torrentnx19.com|torrentnx20.com|torrentnx21.com|torrentnx22.com|torrentnx23.com|torrentnx24.com|torrentnx25.com|torrentnx26.com|torrentnx27.com
 ||imgur.com^$domain=torrentcar34.com|torrentcar35.com|torrentcar36.com|torrentcar37.com|torrentcar38.com|torrentcar39.com|torrentcar40.com|torrentcar41.com|torrentcar42.com|torrentcar43.com|torrentcar44.com|torrentcar45.com|torrentcar46.com
 ||i.imgur.com^$domain=etorrentro.net
 /^https:\/\/imgcloud[0-9]+\.net\//$domain=wftoon117.com|wftoon118.com|wftoon119.com|wftoon120.com|wftoon121.com|wftoon122.com|wftoon123.com|wftoon124.com|wftoon125.com|wftoon126.com|wftoon127.com|wftoon128.com|wftoon129.com|wftoon130.com|wftoon131.com
