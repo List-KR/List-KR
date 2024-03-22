@@ -76,7 +76,6 @@
 ##ins.adsbyadop
 ##iframe[src^="https://realdsp.realclick.co.kr"]
 ##iframe[src^="https://googleads.g.doubleclick.net/"]
-##div[id^="google_ads_iframe_"]
 ##ins.adsbygoogle
 ##iframe[src^="https://ads-partners.coupang.com/"]
 ##ins.kakao_ad_area
