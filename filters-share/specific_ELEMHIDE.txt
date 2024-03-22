@@ -57,6 +57,8 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+tftps.gg###top-area div[class*=" "]:has(> .vm-placement)
+tftps.gg###summoner-history-header ~ div[class*=" "][class^="sc-"]:not([id]):not([style])
 fow.kr##div[style^="display:"] > .fvideo:has(> .vm-placement)
 etoland.co.kr###coupang_cover_box
 etoland.co.kr##body[marginheight] #coupang_cover_box ~ section[style^="margin-top:"].box
