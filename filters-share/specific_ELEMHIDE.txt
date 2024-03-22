@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+fow.kr##div[style^="display:"] > .fvideo:has(> .vm-placement)
 etoland.co.kr###coupang_cover_box
 etoland.co.kr##body[marginheight] #coupang_cover_box ~ section[style^="margin-top:"].box
 talk-cargo.com##.basic-body-main > .margin-bottom-5:has(a[target="_blank"][tabindex])
