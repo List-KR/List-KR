@@ -228,7 +228,6 @@ shopping.interpark.com##.productSortingList > .choice
 shopping.interpark.com##.productListWrap > #serviceKeywordId
 hash.kr##table[border="0"] > tbody > tr > td:not(td > div:not(div.noresize) + b > a:not([target="_blank"]))
 mlbpark.donga.com##.left_cont > div[style^="width:"]
-esports.op.gg##div[class^="lg:bg-darkpurple-800"]
 ruliweb.com##.adrr
 forwarder.kr###aside > div[style^="background-color:"]
 fun-iyagi.co.kr,timecoffee.co.kr###custom_html-8
@@ -277,11 +276,6 @@ munhwa.com,kpanews.co.kr##section[class*="_ad"]
 etoland.co.kr##section.main_left > div[style*="width:"][style*="text-align:"] ~ div[style^="margin-bottom:"]
 mimint.co.kr###MiMintBottomViewLayer
 jellinggame.com##.popup
-op.gg##div[id^="banner-"]
-op.gg##.vm-placement
-op.gg###content-header .FormItem + #opgg-video
-op.gg##.e17e77tq6
-op.gg###content-container > main > div[class^="css-"][class*=" "] ~ div[class^="css-"][class*=" "][style^="margin-bottom:"]
 etoland.co.kr##div[class^="power_link"]
 etoland.co.kr##ul.board_list > li.subject.ad_subject
 etoland.co.kr###mw_mobile > div[style^="margin-bottom:"]
@@ -823,7 +817,7 @@ edufindkorea.com###body_wrap > #body_main > div[style]:nth-child(2)
 junggi.co.kr##img[src^="/data/__banner/"]
 junggi.co.kr##img[src^="/image/banner/"]
 danawa.com##.main__grid.main__grid--line .main__grid__right
-duo.op.gg,tgd.kr,dpg.danawa.com##div[id*="-ad-"]
+tgd.kr,dpg.danawa.com##div[id*="-ad-"]
 maxmovie.com,dcnewsj.joins.com,news.heraldcorp.com,biz.chosun.com,m.place.naver.com,styleup.gameangel.com,wowtv.co.kr,news.naver.com##div[id*="_ad_"]
 thelec.kr##div[onclick^="wcs.event("]
 m.starnewskorea.com###content > div[style^="background:"][class]

@@ -41,7 +41,6 @@ yes24.com#$##mbnRoll_001 > .mbnRollUnit > .pagen_2 { width: 239px !important; le
 yes24.com#$##mbnRoll_001 > .mbnRollUnit > .pagen_3 { width: 239px !important; left: 478px !important; }
 yes24.com#$##mbnRoll_001 > .mbnRollUnit > .pagen_4 { width: 240px !important; left: 717px !important; }
 www.naver.com#$#div[class^="Layout-module_"] #newsstand { margin-top: 0px !important; }
-op.gg#$##content-header form.FormItem { width: 100% !important; }
 ktestone.com#$#.article-adCover-div { height: 100% !important; }
 etoland.co.kr#$#.main-top-banner + .box { margin-top: 0px !important; }
 semoi.kr#$##bo_ad { display: none !important; }
