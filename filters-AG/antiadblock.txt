@@ -120,6 +120,7 @@ bera.world,sellas.ink,1412.live#$#.atc_ex { height: auto !important; overflow: v
 bera.world,sellas.ink,1412.live#%#//scriptlet('set-constant', 'adError', 'noopFunc')
 !#endif
 deokhu.com,3dpchip.com#%#//scriptlet('abort-current-inline-script', 'chp_ads_blocker_detector')
+3dpchip.com#%#//scriptlet('prevent-xhr', '/compass.adop.cc|adsbygoogle/')
 !#if (adguard_app_ios || adguard_ext_android_cb)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=3dpchip.com
 @@||ads-api.twitter.com/|$domain=3dpchip.com
