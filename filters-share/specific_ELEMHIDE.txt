@@ -57,6 +57,9 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+www.naver.com###newsstand ~ #feed.id_cargame .feed_box:has(span[class^="HighlightedColumnView-module__tag_ad_"])
+www.naver.com###root div[class^="Layout-module__content_"]:has(iframe[src^="https://shopsquare.naver.com/"])
+www.naver.com##div[class^="Layout-module__content_area_"]:has(> div[class*="_banner_"])
 muko.kr##.col-md-3 .eq .xe-widget-wrapper:has(.plusad_point)
 tftps.gg###content-container > div[class*=" "]:has(> .vm-placement)
 tftps.gg###top-area + div[class*=" "] > div[class*=" "]:not([id]):has(> .vm-placement)
