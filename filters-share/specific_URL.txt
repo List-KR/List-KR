@@ -588,7 +588,7 @@
 /^https:\/\/(comm\.|m\.)?news\.nate\.com\/(etc|Etc)\/[A-z]*(ad|Ad|AD)[A-z]*/$domain=nate.com
 ||shop-redapi.daum.net/red-apigate/shopad/
 ||t1.daumcdn.net/kas/static/ka-middle-ad-event-handler.js
-||t1.kakaocdn.net/gamepub/daumgame/gamebar/
+||t1.kakaocdn.net/gamepub/daumgame/gamebar/$domain=~www.daum.net
 ||ssl.pstatic.net/adimg3.search/*/nx_powerlink.css
 /^https:\/\/t1\.daumcdn\.net\/b2\/creative\/[0-9]{6}\/[a-z0-9]{32}\./
 /^https:\/\/www\.filecity\.co\.kr\/img\/btn\/top_banner_[a-z]{4}\./$domain=filecity.co.kr
