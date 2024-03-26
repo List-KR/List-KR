@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+muko.kr##.col-md-3 .eq .xe-widget-wrapper:has(.plusad_point)
 tftps.gg###content-container > div[class*=" "]:has(> .vm-placement)
 tftps.gg###top-area + div[class*=" "] > div[class*=" "]:not([id]):has(> .vm-placement)
 tftps.gg###top-area div[class*=" "]:has(> .vm-placement)

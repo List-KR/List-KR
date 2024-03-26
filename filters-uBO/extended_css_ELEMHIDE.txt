@@ -1,3 +1,4 @@
+muko.kr#?#.bd_lst .notice:has(.no > .list:has-text(AD))
 search.tmon.co.kr#?#.deallist_wrap li[data-d].item:has(span[role="presentation"] > button:has-text(AD))
 namu.wiki#?#aside > div[class*=" "]:has(> img[class] ~ div[class]:has-text(광고))
 m.pay.naver.com#?##content > .recommend_section:has(> div[style^="padding:"] > #m_pay_deliverytracking):has-text(/^[ \n]+$/)
