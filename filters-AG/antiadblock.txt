@@ -91,12 +91,12 @@ spotvnow.co.kr#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com/pag
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=aagag.com,xmlhttprequest
 !#endif
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=aagag.com,xmlhttprequest,redirect=googlesyndication-adsbygoogle
-aagag.com#@#ins.adsbygoogle
+aagag.com#@#ins.adsbygoogle[data-ad-slot]
 aagag.com#$#.la { height: 75px !important; width: 75px !important; visibility: hidden !important; }
 ! t.hi098123.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=t.hi098123.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_fy2021.js$domain=t.hi098123.com
-t.hi098123.com#@#ins.adsbygoogle
+t.hi098123.com#@#ins.adsbygoogle[data-ad-slot]
 !#safari_cb_affinity(privacy)
 @@||googletagmanager.com/gtag/js$domain=t.hi098123.com,script
 !#safari_cb_affinity
@@ -157,7 +157,7 @@ errornight.com#%#//scriptlet('abort-on-stack-trace', 'alert', 'chk_adBlock')
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=bera.world|1412.live|sellas.ink
 !#endif
 bera.world,sellas.ink,1412.live#@#.ads
-remiz.co.kr#@#ins.adsbygoogle
+remiz.co.kr#@#ins.adsbygoogle[data-ad-slot]
 remiz.co.kr#@#.googleAd
 remiz.co.kr#@##googleAd
 bera.world,sellas.ink,1412.live#@##google_ads
@@ -179,7 +179,7 @@ ssulwar.com#%#//scriptlet('abort-current-inline-script', 'document.getElementByI
 ||ad.smartmediarep.com/NetInsight/video/$redirect=nooptext,domain=mbn.co.kr
 detegice.github.io#%#//scriptlet('abort-on-property-read', '$.prototype.fadeIn')
 ilsangt.tistory.com#%#//scriptlet('abort-current-inline-script', '$', '.adsense-area')
-uda1004.tistory.com#@#ins.adsbygoogle
+uda1004.tistory.com#@#ins.adsbygoogle[data-ad-slot]
 sogirl.so#%#//scriptlet('set-constant', 'DHAntiAdBlocker', 'true')
 !#if adguard_app_ios
 @@||sogirl.so/wp-content/plugins/dh-anti-adblocker/public/js/ads-prebid.js
@@ -208,11 +208,11 @@ blackkiwi.net#%#//scriptlet('prevent-fetch', 'www3.doubleclick.net')
 !#endif
 persnacons.tistory.com#@#.topAD
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ff14angler.com
-uda1004.tistory.com,exey.io,ff14angler.com#@#ins.adsbygoogle
+uda1004.tistory.com,exey.io,ff14angler.com#@#ins.adsbygoogle[data-ad-slot]
 singingdalong.blogspot.com,sajuplus.net##.adsense-alt
 tistory.com,sajuplus.net#%#//scriptlet('set-constant', 'checkAds', 'noopFunc')
 ! foreign website
-play.aidungeon.io,tamrieltradecentre.com,downloads.descendant.me,html5.gamedistribution.com,paraphraser.io,sekai-kabuka.com,teemo.gg,xtremestream.co#@#ins.adsbygoogle
+play.aidungeon.io,tamrieltradecentre.com,downloads.descendant.me,html5.gamedistribution.com,paraphraser.io,sekai-kabuka.com,teemo.gg,xtremestream.co#@#ins.adsbygoogle[data-ad-slot]
 !
 ! DOMAIN-REFRESHER: START
 !

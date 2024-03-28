@@ -42,13 +42,13 @@ spotvnow.co.kr##+js(no-fetch-if, imasdk.googleapis.com/js/sdkloader/ima3.js)
 spotvnow.co.kr##+js(no-xhr-if, pagead2.googlesyndication.com/pagead/js/adsbygoogle.js)
 spotvnow.co.kr##+js(no-fetch-if, pagead2.googlesyndication.com/pagead/js/adsbygoogle.js)
 ! aagag.com
-aagag.com#@#ins.adsbygoogle
+aagag.com#@#ins.adsbygoogle[data-ad-slot]
 aagag.com#$#.la { height: 75px !important; width: 75px !important; visibility: hidden !important; }
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=aagag.com,xmlhttprequest,redirect=googlesyndication_adsbygoogle.js
 ! t.hi098123.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=t.hi098123.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_fy2021.js$domain=t.hi098123.com
-t.hi098123.com#@#ins.adsbygoogle
+t.hi098123.com#@#ins.adsbygoogle[data-ad-slot]
 @@||googletagmanager.com/gtag/js$domain=t.hi098123.com,script
 t.hi098123.com#$#.tabad { top: -100px !important; }
 !
@@ -73,7 +73,7 @@ genshin.gamedot.org##+js(nostif, blockCheck2022)
 errornight.com##+js(aost, alert, chk_adBlock)
 ||ssl.pstatic.net/tveta/libs/ssp-video/prod/ssp.web.sdk_$script,redirect=noop.js,domain=m.sports.naver.com
 bera.world,sellas.ink,1412.live#@#.ads
-remiz.co.kr#@#ins.adsbygoogle
+remiz.co.kr#@#ins.adsbygoogle[data-ad-slot]
 remiz.co.kr#@#.googleAd
 remiz.co.kr#@##googleAd
 bera.world,sellas.ink,1412.live#@##google_ads
@@ -87,7 +87,7 @@ ssulwar.com##+js(acis, document.getElementById, adblock)
 ||ad.smartmediarep.com/NetInsight/video/$redirect=noop.txt,domain=mbn.co.kr
 detegice.github.io##+js(aopr, $.prototype.fadeIn)
 ilsangt.tistory.com##+js(acis, $, .adsense-area)
-uda1004.tistory.com#@#ins.adsbygoogle
+uda1004.tistory.com#@#ins.adsbygoogle[data-ad-slot]
 sogirl.so##+js(set, DHAntiAdBlocker, true)
 @@||clien.net^$generichide
 @@||ad.smartmediarep.com/NetInsight/video/smr$domain=programs.sbs.co.kr|allclip.sbs.co.kr|mplay.mk.co.kr|static.cloud.sbs.co.kr
@@ -104,11 +104,11 @@ stockinfo7.com##+js(nostif, ad.innerHTML.replace)
 blackkiwi.net##+js(no-fetch-if, www3.doubleclick.net)
 persnacons.tistory.com#@#.topAD
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ff14angler.com
-uda1004.tistory.com,exey.io,ff14angler.com#@#ins.adsbygoogle
+uda1004.tistory.com,exey.io,ff14angler.com#@#ins.adsbygoogle[data-ad-slot]
 singingdalong.blogspot.com,sajuplus.net##.adsense-alt
 tistory.com,sajuplus.net##+js(set, checkAds, noopFunc)
 ! foreign website
-play.aidungeon.io,tamrieltradecentre.com,downloads.descendant.me,html5.gamedistribution.com,paraphraser.io,sekai-kabuka.com,teemo.gg,xtremestream.co#@#ins.adsbygoogle
+play.aidungeon.io,tamrieltradecentre.com,downloads.descendant.me,html5.gamedistribution.com,paraphraser.io,sekai-kabuka.com,teemo.gg,xtremestream.co#@#ins.adsbygoogle[data-ad-slot]
 !
 ! DOMAIN-REFRESHER: START
 !

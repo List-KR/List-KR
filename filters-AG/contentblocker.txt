@@ -27,7 +27,7 @@ te31.com#@#.text_ads
 !
 @@||googletagmanager.com/gtag/js$domain=t.hi098123.com,script
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_fy2021.js$domain=t.hi098123.com
-t.hi098123.com#@#ins.adsbygoogle
+t.hi098123.com#@#ins.adsbygoogle[data-ad-slot]
 @@||adxv.zum.com/view/targets?slots=$domain=zum.com
 svrforum.com##body > div[class][style*="box-shadow:"]
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=t.hi098123.com
@@ -57,7 +57,7 @@ avdbs.com#@#.ad-btn
 @@||ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js$script,domain=m.cafe.naver.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=spotvnow.co.kr
 bera.world,sellas.ink,1412.live#@#.ads
-remiz.co.kr#@#ins.adsbygoogle
+remiz.co.kr#@#ins.adsbygoogle[data-ad-slot]
 remiz.co.kr#@#.googleAd
 remiz.co.kr#@##googleAd
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=tsuvod.com
@@ -91,7 +91,7 @@ ilsangt.tistory.com#@#.adsense-area
 @@||tab2.clickmon.co.kr/pop/wp_ad_$script,domain=ilsangt.tistory.com
 @@||clickmon.co.kr/ADVER_server/ad_view/pop_ad.php$subdocument,domain=ilsangt.tistory.com
 clickmon.co.kr##html *
-uda1004.tistory.com#@#ins.adsbygoogle
+uda1004.tistory.com#@#ins.adsbygoogle[data-ad-slot]
 @@||ssl.pstatic.net/tveta/libs/ssp-video/prod/ssp.web.sdk_$script,domain=m.sports.naver.com
 @@||fafan.kr^$genericblock
 @@||poketory.com^$genericblock
@@ -108,7 +108,7 @@ meeco.kr#@#.adsbygoogle
 @@||meeco.kr^$generichide
 @@||iphonedev.co.kr^$generichide
 @@||iphonedev.co.kr/files/attach/images/*/*#ad&adv_keywords=-page-peel
-stockinfo7.com#@#ins.adsbygoogle
+stockinfo7.com#@#ins.adsbygoogle[data-ad-slot]
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=stockinfo7.com
 ||cdn.kollhong.com/wp-content/custom-js/fuckadblock.min.js
 @@||www3.doubleclick.net/|$xmlhttprequest,domain=blackkiwi.net
@@ -116,7 +116,7 @@ stockinfo7.com#@#ins.adsbygoogle
 @@||tistory.com^$generichide
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=noonnu.cc
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ff14angler.com
-ff14angler.com#@#ins.adsbygoogle
+ff14angler.com#@#ins.adsbygoogle[data-ad-slot]
 @@||avjamak.net^$generichide
 @@||videoads.kakao.com/adserver/api/v2/vmap$domain=tv.kakao.com|play-tv.kakao.com|entertain.daum.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cpsp.kr

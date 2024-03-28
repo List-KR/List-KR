@@ -8,7 +8,7 @@
 @@||tinnews.co.kr/data/tinnews_co_kr/banner/favicon.ico
 !#endif
 !#if (adguard_ext_android_cb)
-quiz.avatye.com#@#ins.adsbygoogle
+quiz.avatye.com#@#ins.adsbygoogle[data-ad-slot]
 !#endif
 auto.danawa.com#%#//scriptlet('set-constant', 'NAVER_ADPOST_V2', 'noopFunc')
 !#if (adguard_app_ios || adguard_ext_android_cb || adguard_ext_android_cb)
