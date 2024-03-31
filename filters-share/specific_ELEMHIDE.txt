@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+comic.naver.com##.wt_viewer .preview_store:not(:has(> img[src*="image-comic.pstatic.net/webtoon/event/contentsBanner/"]))
 app.dcinside.com,m.dcinside.com##.brick-wid > .grid:has(> *[id*="_title"] ~ *[style] .power-tittxt)
 www.naver.com###newsstand ~ #feed.id_cargame .feed_box:has(span[class^="HighlightedColumnView-module__tag_ad_"])
 www.naver.com###root div[class^="Layout-module__content_"]:has(iframe[src^="https://shopsquare.naver.com/"])
@@ -810,7 +811,6 @@ tipsandtrickskorea.com##.thecontent > .in-article-container
 tipsandtrickskorea.com##aside#sidebar > div[id^="text-"]
 reurl.kr##a[onclick^="go_banner"]
 m.comic.naver.com###ct div[class^="ly_"]
-comic.naver.com##.wt_viewer .preview_store
 m.nocutnews.co.kr###pnlContainer .con_b >.ct_box:not([style])
 fmkorea.com###sidebar div[style^="height:"]:not(.li)
 te31.com###contentmemo ~ .adsbygoogle > div[style^="background-color:"]
