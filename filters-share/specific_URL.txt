@@ -803,7 +803,7 @@
 /^https:\/\/ww[0-9]+\.torrentdin[0-9]+\.com\/data\/editor\/[0-9]+\/[a-z0-9]+_[a-z0-9]+_[a-z0-9]+\./
 /^https:\/\/ww[0-9]+\.torrentdin[0-9]+\.com\/data\/file\/ad\//
 /^https:\/\/[a-z]+\.aniwolf\.com\/storage\/[A-z0-9]+\./$domain=aniwolf.*
-||tinypic.host^$domain=tvroom.*
+||tinypic.host^$domain=tvroom.*|mvking.*
 /^https:\/\/www\.torrentreel[0-9]+\.site\/ad\//
 /^https:\/\/tvchak[0-9]+\.com\/img\/bbnn/
 /^https:\/\/agit[0-9]+\.com\/upload\/[0-9]+\/[0-9]+\/[0-9]+\./
