@@ -102,6 +102,7 @@ t.hi098123.com#@#ins.adsbygoogle[data-ad-slot]
 !#safari_cb_affinity
 t.hi098123.com#$#.tabad { top: -100px !important; }
 !
+chzzk.naver.com#%#//scriptlet('trusted-replace-xhr-response', ',"adFree":false', ',"adFree":true', 'my-info')
 svrforum.com##body > div[class][style*="box-shadow:"]
 !#if (adguard_app_ios || adguard_ext_safari)
 luckyquiz3.blogspot.com#$#body > #pbt:has(.pbtadblock) { display: none !important; }
