@@ -756,6 +756,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+||xvideos-kr.com/img/banner/
 ||images.request-support.com/br/$domain=tvwiki.*
 /__/nuevo.min.js$domain=avguri2.com|avguri3.com|avguri4.com|avguri5.com|avguri6.com|avguri7.com|avguri8.com|avguri9.com|avguri10.com|avguri11.com|avguri12.com|avguri13.com
 ||ohli365.*/data/apms/$domain=ohli365.*
