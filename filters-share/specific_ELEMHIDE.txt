@@ -1133,6 +1133,7 @@ www.erdcloud.com##.erd-ads-area
 !
 ! DOMAIN-REFRESHER: START
 !
+tvzone.*##.main_banner
 xvideos-kr.com##.thumb-ad
 torrentnx17.com,torrentnx18.com,torrentnx19.com,torrentnx20.com,torrentnx21.com,torrentnx22.com,torrentnx23.com,torrentnx24.com,torrentnx25.com,torrentnx26.com,torrentnx27.com##a[href*="/bbs/link.php"]
 coktv.*##.custom_banner_wrap
