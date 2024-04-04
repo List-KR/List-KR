@@ -1,3 +1,4 @@
+||brainbox.co.kr/data/banner/
 ||100news.kr/data/100news_kr/banner/
 ||ad-img.gmarket.com/ADS/Contents_/$domain=signin.gmarket.co.kr
 ||search.danawa.com/mobile/ajax/adProduct/$xmlhttprequest
