@@ -219,6 +219,7 @@
 ||safeframe.googlesyndication.com^
 ||adservice.google.com^
 ||partner.googleadservices.com^
+||cleanhaircut.com^
 !
 ! DOMAIN-REFRESHER: START
 !
