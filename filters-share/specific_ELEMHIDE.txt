@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+mail.naver.com##.mail_toolbar ~ .smart_channel
 brainbox.co.kr##section[class$="_banner"]
 comic.naver.com##.wt_viewer .preview_store:not(:has(> img[src*="image-comic.pstatic.net/webtoon/event/contentsBanner/"]))
 app.dcinside.com,m.dcinside.com##.brick-wid > .grid:has(> *[id*="_title"] ~ *[style] .power-tittxt)
