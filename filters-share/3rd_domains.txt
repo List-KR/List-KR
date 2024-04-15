@@ -1,7 +1,6 @@
 ||cdn.nhnace.com^
 ||tae.middlepoint.co.kr^
 ||d23poh9wsma6va.cloudfront.net^
-||cdn-ads.tmap.co.kr^
 ||d1cykymlllue3h.cloudfront.net^
 ||ad1.missyusa.com^
 ||ads.motorgraph.com^
