@@ -1,3 +1,4 @@
+/mnt/webdata/ad/*$domain=ekn.kr|yeongnam.com
 ||news1.kr/ads/iframe/
 ||data.navyism.com/asset/aliexpressDeal.png
 ||m.dcinside.com/ajax/naverad
@@ -583,7 +584,6 @@
 ||res.heraldm.com/banner/
 ||ilbe.com/oa/ad_bbs_list.js
 ||aitimes.com/bannerpop/uploads/
-||ekn.kr/mnt/webdata/ad/
 ||junggi.co.kr/data/__banner/
 ||junggi.co.kr/image/banner/
 ||photo.coolenjoy.co.kr/banner/
@@ -690,7 +690,6 @@
 ||hoppingcall.me/ad_shoppingCallme.php
 ||res.heraldm.com/HeraldResource/doubleuad/
 ||yeongnam.com/web/js/statAd.js
-||yeongnam.com/mnt/webdata/ad/
 ||5donews.co.kr/layouts/5donews/images/banner/
 ||image.ajunews.com/images/site/img/ads/
 ||r.yna.co.kr/ad/
