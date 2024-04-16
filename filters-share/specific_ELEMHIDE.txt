@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+m.etoday.co.kr##.containerWrap > .boxContWrap ~ section > div[style*="margin:"][style*="text-align:"]
 time.navyism.com###navyismMainContainer > div[style^="width:"]
 op.skill.or.kr##a[href^="https://link.coupang.com/"]
 mail.naver.com##.mail_toolbar ~ .smart_channel
