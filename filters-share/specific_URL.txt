@@ -881,7 +881,7 @@
 /^https:\/\/hohotoon[0-9]+\.com\/data\/banner\//
 /^https?:\/\/(www\.)?spotv[0-9]+\.com\/theme\/basic\/img\/[a-z]+_ad_/
 /^https:\/\/torrenthaja[0-9]*\.com\/data\/banner\//
-||anilife.*/assets/images/banner/$domain=anilife.*
+||anilife.*/imgs/banner/$domain=anilife.*
 /^https:\/\/xn--8-o68e16s35etqj\.com\/data\/editor\/[0-9]+\/[a-z0-9]+_[a-z0-9]+_[a-z0-9]+\./
 /^https:\/\/torrentmode[0-9]+\.com\/data\/zn_bimg\//
 ||az-cdn.com/banners/
