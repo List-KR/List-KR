@@ -760,6 +760,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+||anilife.*/assets/images/banner/$domain=anilife.*
 ||tvzone.*/data/banner/$domain=tvzone.*
 ||xvideos-kr.com/img/banner/
 ||images.request-support.com/br/$domain=tvwiki.*

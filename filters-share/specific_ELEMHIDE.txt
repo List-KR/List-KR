@@ -1139,6 +1139,7 @@ www.erdcloud.com##.erd-ads-area
 !
 ! DOMAIN-REFRESHER: START
 !
+anilife.*##.MainBnnWrap
 anilife.*##div[data-page] > div[class]:has(a[target="_blank"])
 tvzone.*##.main_banner
 xvideos-kr.com##.thumb-ad
