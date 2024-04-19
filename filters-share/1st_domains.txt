@@ -1,3 +1,5 @@
+||splash-ad.classting.com^
+||ad-files.classting.com^
 ||middlepoint.co.kr^$third-party
 ||kiesta.net^$third-party
 ||nsmartad.com^
