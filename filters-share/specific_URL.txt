@@ -1,3 +1,5 @@
+||stoo.com/banner/
+||stoo.com/ad/
 /mnt/webdata/ad/*$domain=ekn.kr|yeongnam.com|kyeongin.com
 ||news1.kr/ads/iframe/
 ||data.navyism.com/asset/aliexpressDeal.png
