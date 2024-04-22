@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+ssodam.com##div[class^="col-lg-offset-"] > div[style*="height:"].hidden-xs
 darakwon.co.kr##.main6.bottomto50
 stoo.com###content > div[style^="padding:"].module_box
 m.stoo.com###wrap > div[style*="height:"]
