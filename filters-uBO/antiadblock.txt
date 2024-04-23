@@ -31,7 +31,7 @@ meeco.kr##+js(set, adsBlocked, noopFunc)
 meeco.kr#$#.xe_content { opacity: 1 !important; }
 meeco.kr#$?#.adsbygoogle { remove: true; }
 ! Umanle S.R.L
-@@||arca.live^$generichide
+@@||arca.live^$generichide,domain=arca.live
 @@||newliweb.com/$frame,script,domain=namu.wiki|~board.namu.wiki
 @@||arca.live/$frame,script,domain=namu.wiki|~board.namu.wiki
 @@||namu.news/$frame,script,domain=namu.wiki|~board.namu.wiki
