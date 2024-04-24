@@ -66,7 +66,6 @@ dpg.danawa.com#%#//scriptlet('abort-current-inline-script', '$', 'myScript[myScr
 naver.com#%#//scriptlet('set-constant', 'getAdcrUrl', '')
 koreapas.com#%#//scriptlet('set-constant', 'random_imglink', 'noopFunc')
 imbc.com#%#//scriptlet('set-constant', 'vrixadsdk', 'undefined')
-~coupang.com,~coupangcdn.com#%#//scriptlet('set-constant', 'PartnersCoupang', 'undefined')
 !
 ! DOMAIN-REFRESHER: START
 !
