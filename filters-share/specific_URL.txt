@@ -763,6 +763,9 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+||xn--vv4b11c.com/main/data/file/_sh_banner_/
+||xn--vv4b11c.com/assets/img/banner_
+||xn--vv4b11c.com/main/data/file/goodsite/
 ||anilife.*/assets/images/banner/$domain=anilife.*
 ||tvzone.*/data/banner/$domain=tvzone.*
 ||xvideos-kr.com/img/banner/
