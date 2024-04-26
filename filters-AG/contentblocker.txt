@@ -117,6 +117,5 @@ stockinfo7.com#@#ins.adsbygoogle[data-ad-slot]
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=noonnu.cc
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ff14angler.com
 ff14angler.com#@#ins.adsbygoogle[data-ad-slot]
-@@||avjamak.net^$generichide
 @@||videoads.kakao.com/adserver/api/v2/vmap$domain=tv.kakao.com|play-tv.kakao.com|entertain.daum.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cpsp.kr
