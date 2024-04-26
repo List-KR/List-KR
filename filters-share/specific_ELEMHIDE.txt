@@ -1105,6 +1105,7 @@ mmzone.co.kr##div[id^="scm_ban"][style*="url(/media/banner/"]
 mmzone.co.kr###scm_premium_spon_block
 ilbe.com##ul.board-body > li[id^="sponser_ad_"]
 ilbe.com##img[src^="https://acache.ilbe.com/"]
+ilbe.com###sky-banner-wrap
 berryjam.co.kr##div[class*="slider-banner-"]
 now.rememberapp.co.kr##.now_content_ads__wrapper
 kinolights.com,m.ilbe.com##.banner-wrap
