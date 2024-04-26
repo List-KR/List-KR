@@ -22,9 +22,12 @@ cookmana18.com,cookmana19.com,cookmana20.com,cookmana21.com,cookmana22.com,cookm
 !#endif
 !#if adguard_app_ios
 m.humoruniv.com##div[id^="read_ok_"] ~ li[id][style*="border-top-style:"] > div[class]
-m.humoruniv.com##a[onclick*="_boom("] > div[id*="_boom_"]
 m.humoruniv.com##div[id$="_div"][class] > div[id][class*=" "][style]
-m.humoruniv.com###knock ~ dd[class^="gbt"]#d3
+m.humoruniv.com###read > .read_subject ~ div[style^="position:"]
+m.humoruniv.com##*[name="comm_cursor"] ~ div[id][class^="gbt"]:not([id*=" "])
+m.humoruniv.com##form[id$="_form"][action] ~ div[id][style^="border-top-width:"]:not([id*=" "])
+m.humoruniv.com##body > #mobile ~ div[id] > *[id$="_div"][style*="position:"]
+m.humoruniv.com##body > #mobile #list_body ~ div[id] > *[id][style*="position:"].box
 !#endif
 !#if adguard_app_ios
 m.news.nate.com##.adtive
