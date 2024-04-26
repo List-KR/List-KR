@@ -1056,6 +1056,9 @@ dundam.xyz,ddengle.com,thisisgame.com##div[id^="ad-"]
 thisisgame.com###divMsnAD
 thisisgame.com##iframe[src^="//ad"][src*=".thisisgame.com/ad"]
 dschool.co.kr##a[href^="/ws/include/banner_link.asp?"][target="_blank"]
+dschool.co.kr##.mdt1
+dschool.co.kr##.fvr
+dschool.co.kr##.btop
 ddanzi.com##.add_display
 m.naver.com##.ISSUE-BANNER-AD
 itcm.co.kr##.top-owl.owl-carousel
