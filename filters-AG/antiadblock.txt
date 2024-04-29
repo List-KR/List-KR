@@ -109,6 +109,7 @@ naver.com#%#//scriptlet('set-cookie', 'ba.uuid', '0')
 @@||ssl.pstatic.net/tveta/libs/glad/prod/$script,domain=chzzk.naver.com
 @@||nam.veta.naver.com/vas$xmlhttprequest,domain=chzzk.naver.com
 !
+chmodi.tistory.com##.floatdiv
 svrforum.com##body > div[class][style*="box-shadow:"]
 !#if (adguard_app_ios || adguard_ext_safari)
 luckyquiz3.blogspot.com#$#body > #pbt:has(.pbtadblock) { display: none !important; }

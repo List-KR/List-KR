@@ -25,6 +25,7 @@ te31.com#@#.textAd
 te31.com#@#.text_ad
 te31.com#@#.text_ads
 !
+chmodi.tistory.com##.floatdiv
 @@||googletagmanager.com/gtag/js$domain=t.hi098123.com,script
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_fy2021.js$domain=t.hi098123.com
 t.hi098123.com#@#ins.adsbygoogle[data-ad-slot]
