@@ -42,6 +42,7 @@ m.fmkorea.com##iframe[src*="//loader.fmkorea.com/"][src*="_loader/"]
 funbe332.com,funbe333.com,funbe334.com,funbe335.com,funbe336.com,funbe337.com,funbe338.com,funbe339.com,funbe340.com,funbe341.com,funbe342.com,funbe343.com,funbe344.com,funbe345.com,funbe346.com##img[src^="/images/"]
 !#endif
 !
+[$path=/(&|\\.|\\?)clubid=10912875(&|$)/]~m.cafe.naver.com,cafe.naver.com###editorMainContent tr:has(~ tr img[id="userImg8967591"])
 [$path=/ca-fe\\/web\\/cafes\\/(drhp|11196414)(\\/|\\?)/]m.cafe.naver.com##.banner_add
 [$path=/(&|\\.|\\?)clubid=11196414(&|$)/]~m.cafe.naver.com,cafe.naver.com##img[src][alt="매니저 등록 배너"]
 [$path=/ca-fe\\/web\\/cafes\\/(inmacbook|12175294)(\\/|\\?)/]m.cafe.naver.com##.banner_add
