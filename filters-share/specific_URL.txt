@@ -761,6 +761,8 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/^https:\/\/v[0-9]+\.dasibogo\.net\/wp-content\/uploads\/sites\/[0-9]+\/[0-9]+\/[0-9]+\/[a-z0-9]+\./$domain=dasibogo.net
+/^https:\/\/v[0-9]+\.jogemovie\.net\/wp-content\/uploads\/sites\/[0-9]+\/[0-9]+\/[0-9]+\/[a-z0-9-]+\./$domain=dasibogo.net
 ||xn--vv4b11c.com/main/data/file/_sh_banner_/
 ||xn--vv4b11c.com/assets/img/banner_
 ||xn--vv4b11c.com/main/data/file/goodsite/
