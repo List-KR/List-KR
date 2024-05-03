@@ -1,3 +1,4 @@
+||static.bidrich.com^
 ||ad.tpmn.io^
 ||cdn.nhnace.com^
 ||tae.middlepoint.co.kr^
