@@ -45,7 +45,7 @@ jobs:
         with:
           fetch-depth: 0
       - name: Create a Release
-        uses: List-KR/semver-release@2.1.2
+        uses: List-KR/semver-release@2.2.0
     needs: [lint]
     if: ${{ always() && github.event_name == 'push' && github.ref_name == 'master' && needs.lint.result == 'success' }}
   jsdelivrpurge:
