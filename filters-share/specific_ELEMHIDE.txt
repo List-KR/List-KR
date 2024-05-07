@@ -57,7 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
-damoang.net##.py-3 > .mb-4:has(a[href$="/free/445969"])
+damoang.net##a[data-dd-action-name*="Ads"]
 ggeal.com###body_read > div[style^="margin:"] > div[class=""][style*="width:"]
 sejonghub.com##div[id^="carousel_"].carousel.carousel-fade
 ssodam.com##div[class^="col-lg-offset-"] > div[style*="height:"].hidden-xs
