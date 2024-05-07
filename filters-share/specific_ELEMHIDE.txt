@@ -57,6 +57,8 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+lee-master.tistory.com##.contents_style > blockquote:has(img[src*="coupangcdn.com/image/affiliate/banner/"]) ~ p:has(~ blockquote)
+lee-master.tistory.com##.contents_style > blockquote:has(img[src*="coupangcdn.com/image/affiliate/banner/"])
 damoang.net##a[data-dd-action-name*="Ads"]
 ggeal.com###body_read > div[style^="margin:"] > div[class=""][style*="width:"]
 sejonghub.com##div[id^="carousel_"].carousel.carousel-fade
