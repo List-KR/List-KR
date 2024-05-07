@@ -1,3 +1,7 @@
+!#if (adguard_app_ios || adguard_ext_safari)
+newtoki.help##.ba_test
+newtoki.help##.banner2
+!#endif
 !#if (adguard_ext_safari || adguard_app_ios)
 board.namu.wiki#@#div:not([class*=" "]) ~ div div + div[class*=" "]:has(iframe[id^="google_ads_"])
 board.namu.wiki#@#div:not([class*=" "]) ~ div div + div[class*=" "]:has(iframe[src*="arca.live/external/callad"])

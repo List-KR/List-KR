@@ -3,6 +3,9 @@
 /^https:\/\/m[0-9]+\.kotbc\.com\/img\/[a-z0-9_/]+\.gif$/
 !#endif
 !#if (adguard_app_ios || adguard_ext_safari)
+||newtoki.*/banner*/$domain=newtoki.help
+!#endif
+!#if (adguard_app_ios || adguard_ext_safari)
 ||api-gw.sports.naver.com/cms/contents/adContents/$domain=m.sports.naver.com
 @@||api-gw.sports.naver.com/cms/contents/adContents/GENERAL$domain=m.sports.naver.com
 @@||api-gw.sports.naver.com/cms/contents/adContents/BRAND_STORY$domain=m.sports.naver.com
