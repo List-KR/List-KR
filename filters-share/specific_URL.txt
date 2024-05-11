@@ -1,3 +1,4 @@
+/data/file/main/*$image,domain=damoang.net
 ||damoang.net/data/file/banners/
 ||ggeal.com/banner/
 ||sejonghub.com/theme/BS4-Basic/storage/image/title-
