@@ -763,6 +763,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+||images.request-support.com/br/$domain=tv40.wiki|tv41.wiki|tv42.wiki|tv43.wiki|tv44.wiki|tv45.wiki|tv46.wiki|tv47.wiki|tv48.wiki|tv49.wiki|tv50.wiki|tv51.wiki|tv52.wiki|tv53.wiki
 ||cdn.ksportscdn.com/data/editor/
 ||xn--h10b90b998c.site/img/
 /^https:\/\/v[0-9]+\.dasibogo\.net\/wp-content\/uploads\/sites\/[0-9]+\/[0-9]+\/[0-9]+\/[a-z0-9]+\./$domain=dasibogo.net
@@ -773,7 +774,6 @@
 ||anilife.*/assets/images/banner/$domain=anilife.*
 ||tvzone.*/data/banner/$domain=tvzone.*
 ||xvideos-kr.com/img/banner/
-||images.request-support.com/br/$domain=tvwiki.*
 /__/nuevo.min.js$domain=avguri2.com|avguri3.com|avguri4.com|avguri5.com|avguri6.com|avguri7.com|avguri8.com|avguri9.com|avguri10.com|avguri11.com|avguri12.com|avguri13.com
 ||ohli365.*/data/apms/$domain=ohli365.*
 ||bbongtv.*/img/*.gif$domain=bbongtv.*
