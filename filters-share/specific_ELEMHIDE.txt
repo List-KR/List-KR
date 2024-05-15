@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+m.ruliweb.com##.aaddr_m_reward
 damoang.net##img[src*="/data/file/main/"]
 lee-master.tistory.com##.contents_style > blockquote:has(img[src*="coupangcdn.com/image/affiliate/banner/"]) ~ p:has(~ blockquote)
 lee-master.tistory.com##.contents_style > blockquote:has(img[src*="coupangcdn.com/image/affiliate/banner/"])
