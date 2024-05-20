@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+vietnamguide.co.kr##.T4Tutorials
 m.ruliweb.com##.aaddr_m_reward
 damoang.net##img[src*="/data/file/main/"]
 lee-master.tistory.com##.contents_style > blockquote:has(img[src*="coupangcdn.com/image/affiliate/banner/"]) ~ p:has(~ blockquote)
@@ -464,7 +465,7 @@ m.compuzone.co.kr##div[class*="_main_ban"]
 philgo.com##.content .left-wing > div
 quasarzone.com##div[role="main"] > .logo-area
 vitaminhealth.kr##iframe[data-ezsrc*="//coupa.ng/"]
-gentlysallim.com##div[class^="ai-viewport-"]
+vietnamguide.co.kr,gentlysallim.com##div[class^="ai-viewport-"]
 toptrend.blog##div[id^="toptr-"]
 bonik.me###banner
 rdsong.com##.entry-content > div[style*="height:"]
