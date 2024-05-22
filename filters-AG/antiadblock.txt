@@ -105,7 +105,6 @@ t.hi098123.com#$#.tabad { top: -100px !important; }
 ! The tusted scriptlet rule should be rechecked after https://github.com/AdguardTeam/Scriptlets/issues/419 is resolved.
 ! Check that PIP of a live streaming and chatting management of a channel work.
 ! chzzk.naver.com#%#//scriptlet('trusted-replace-xhr-response', ',"adFree":false', ',"adFree":true', 'my-info')
-chzzk.naver.com#%#//scriptlet('adjust-setTimeout', 'noPingPong||(e.sendPing', '', '0.001')
 naver.com#%#//scriptlet('set-cookie', 'ba.uuid', '0', '/', 'naver.com')
 @@||ssl.pstatic.net/tveta/libs/glad/prod/$script,domain=chzzk.naver.com
 @@||nam.veta.naver.com/vas$xmlhttprequest,domain=chzzk.naver.com
