@@ -157,6 +157,7 @@
 ||networkad.nate.com^
 ||cyad1.nate.com^
 ||adimg.nate.com^
+||api-ao-list.adison.co^
 ||ad-api.enuri.info^
 ||searchad-phinf.pstatic.net^
 ||ad.newspim.com^
