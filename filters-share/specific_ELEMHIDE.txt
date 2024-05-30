@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+en.namu.wiki##article h1 ~ div[class] > div[id]:has(> iframe[id^="google_ads_iframe_"])
 vietnamguide.co.kr##.T4Tutorials
 m.ruliweb.com##.aaddr_m_reward
 damoang.net##img[src*="/data/file/main/"]
