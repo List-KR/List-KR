@@ -3,7 +3,7 @@
 ! #%#//scriptlet('abort-current-inline-script', 'document.addEventListener', '/adscale_slot_id/')
 asdn.kr,healthfeed.co.kr,bikesell.co.kr,remiz.co.kr,enjoytaiwan.co.kr,poketory.com,withukor.com,tistory.com,love.asdn.kr,untitle.org,seo-marketing.co.kr#%#//scriptlet('abort-current-inline-script', 'document.addEventListener', '/adscale_slot_id/')
 ! #%#//scriptlet('prevent-setTimeout', '/\.displayMessage\(/')
-zuzunza.com,klauncher.kr,iphonedev.co.kr,tistory.com#%#//scriptlet('prevent-setTimeout', '/\.displayMessage\(/')
+zuzunza.com,iphonedev.co.kr,tistory.com#%#//scriptlet('prevent-setTimeout', '/\.displayMessage\(/')
 ! BlockAdBlock
 fafan.kr,blog.dalso.org,tistory.com#%#//scriptlet('prevent-bab')
 ! FuckAdBlock
@@ -109,6 +109,10 @@ naver.com#%#//scriptlet('set-cookie', 'ba.uuid', '0', '/', 'naver.com')
 @@||ssl.pstatic.net/tveta/libs/glad/prod/$script,domain=chzzk.naver.com
 @@||nam.veta.naver.com/vas$xmlhttprequest,domain=chzzk.naver.com
 !
+klauncher.kr#%#//scriptlet('prevent-fetch', 'doubleclick.net')
+!#if (adguard_app_ios || adguard_ext_safari)
+@@||doubleclick.net^|$xmlhttprequest,domain=klauncher.kr
+!#endif
 chmodi.tistory.com##.floatdiv
 svrforum.com##body > div[class][style*="box-shadow:"]
 !#if (adguard_app_ios || adguard_ext_safari)

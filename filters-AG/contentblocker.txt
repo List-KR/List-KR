@@ -25,6 +25,7 @@ te31.com#@#.textAd
 te31.com#@#.text_ad
 te31.com#@#.text_ads
 !
+@@||doubleclick.net^|$xmlhttprequest,domain=klauncher.kr
 chmodi.tistory.com##.floatdiv
 @@||googletagmanager.com/gtag/js$domain=t.hi098123.com,script
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_fy2021.js$domain=t.hi098123.com
@@ -70,8 +71,6 @@ mnews.jtbc.co.kr#@#.ad_bottom
 @@||kpanews.co.kr^$generichide
 starrykss.tistory.com##.adblock-on
 ||genshin.gamedot.org/module/genshinmaps/asset/image/ab-2211-*.
-@@||klauncher.kr/theme/NB-Basic/storage/image/logo-logo.png#ad&adv_keywords=
-@@||klauncher.kr^$generichide
 @@||jimnong.tistory.com^$generichide
 @@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.min.js$domain=x86.co.kr
 @@||x86.co.kr^$generichide
