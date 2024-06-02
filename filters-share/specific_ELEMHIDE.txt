@@ -57,6 +57,8 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+bbs.ruliweb.com##div[style*=" "] > div[id][style].relative
+bbs.ruliweb.com##div[class^="adrr_"]
 bbs.ruliweb.com##div[style].ti_wrapper
 en.namu.wiki##article h1 ~ div[class] > div[id]:has(> iframe[id^="google_ads_iframe_"])
 vietnamguide.co.kr##.T4Tutorials
@@ -1109,7 +1111,6 @@ kyeongin.com,sir.kr,catnews.net,m.coupang.com,kidkids.net,elle.co.kr,dprime.kr,p
 prod.danawa.com##div[class$="_ad_prodlist"]
 epnc.co.kr##div[id^="floating_banner_"]
 epnc.co.kr##div[onmousedown*="'event_label': 'AD'"]
-ruliweb.com###ti3
 news.v.daum.net##ul.list_column > li.item_ad
 mmzone.co.kr##div[id^="scm_ban"][style*="url(/media/banner/"]
 mmzone.co.kr###scm_premium_spon_block
@@ -1133,7 +1134,6 @@ besteleven.com,newspim.com##.topbanner
 mmzone.co.kr###main_premium_spon_block
 boannews.com,edu.donga.com,m.etoday.co.kr,mnews.sbs.co.kr,mbn.co.kr,cgv.co.kr,mmzone.co.kr##div[id$="_ad"]
 2cpu.co.kr##a[href*="./bbs/banner_link.php?"]
-ruliweb.com##div[id^="adsense_"]
 mlbpark.donga.com##div[class*="naver_power"]
 quasarzone.com##*:not(footer) > div[class^="main-"][class$="-banner"]
 lolchess.gg,koreatimes.net,phdkim.net,nongmin.com,hankookilbo.com##div[class^="banner-"]
