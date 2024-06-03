@@ -6,6 +6,11 @@ watchfreejavonline.co#%#//scriptlet('abort-current-inline-script', 'popMagic.ini
 ! !#if (adguard_app_ios || adguard_ext_safari)
 m.humoruniv.com#%#//scriptlet('abort-on-stack-trace', '$.prototype.html', 'ch')
 ! !#endif
+m.humoruniv.com#%#//scriptlet('set-constant', 'list_end_run_read_top_boom', 'noopFunc')
+m.humoruniv.com#%#//scriptlet('set-constant', 'list_end_run_pds_notice_boom', 'noopFunc')
+m.humoruniv.com#%#//scriptlet('set-constant', 'list_end_run_comment_bottom_boom', 'noopFunc')
+m.humoruniv.com#%#//scriptlet('set-constant', 'list_end_run_center_boom', 'noopFunc')
+m.humoruniv.com#%#//scriptlet('set-constant', 'list_end_run_list_bottom_boom', 'noopFunc')
 m.humoruniv.com#%#//scriptlet('prevent-setTimeout', 'height && 1 <= height && height <= 20')
 m.humoruniv.com#%#//scriptlet('set-constant', 'list_end_run', 'noopFunc')
 m.humoruniv.com#%#//scriptlet('abort-on-stack-trace', '$.prototype.html', '_boom')
