@@ -109,7 +109,7 @@ naver.com#%#//scriptlet('set-cookie', 'ba.uuid', '0', '/', 'naver.com')
 @@||ssl.pstatic.net/tveta/libs/glad/prod/$script,domain=chzzk.naver.com
 @@||nam.veta.naver.com/vas$xmlhttprequest,domain=chzzk.naver.com
 !
-klauncher.kr#%#//scriptlet('prevent-fetch', 'doubleclick.net')
+klauncher.kr#%#//scriptlet('set-constant', 'detectAdBlock', 'noopFunc')
 !#if (adguard_app_ios || adguard_ext_safari)
 @@||doubleclick.net^|$xmlhttprequest,domain=klauncher.kr
 !#endif
