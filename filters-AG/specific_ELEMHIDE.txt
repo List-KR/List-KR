@@ -3,11 +3,11 @@ newtoki.help##.ba_test
 newtoki.help##.banner2
 !#endif
 !#if (adguard_ext_safari || adguard_app_ios)
-board.namu.wiki#@#div:not([class*=" "]) ~ div div + div[class*=" "]:has(iframe[id^="google_ads_"])
-board.namu.wiki#@#div:not([class*=" "]) ~ div div + div[class*=" "]:has(iframe[src*="arca.live/external/callad"])
+board.namu.wiki#@#div[class] ~ div div + *[class]:not([class*=" "]) *[class*=" "] div[class]:has(iframe[id^="google_ads_"])
+board.namu.wiki#@#div[class] ~ div div + *[class]:not([class*=" "]) *[class*=" "] div[class]:has(iframe[src*="arca.live/external/callad"])
 board.namu.wiki#@#div:not([class*=" "]) ~ div div + div[class]:has(> div[id][class])
-namu.wiki##div:not([class*=" "]) ~ div div + div[class*=" "]:has(iframe[id^="google_ads_"])
-namu.wiki##div:not([class*=" "]) ~ div div + div[class*=" "]:has(iframe[src*="arca.live/external/callad"])
+namu.wiki##div[class] ~ div div + *[class]:not([class*=" "]) *[class*=" "] div[class]:has(iframe[id^="google_ads_"])
+namu.wiki##div[class] ~ div div + *[class]:not([class*=" "]) *[class*=" "] div[class]:has(iframe[src*="arca.live/external/callad"])
 namu.wiki##div:not([class*=" "]) ~ div div + div[class]:has(> div[id][class])
 board.namu.wiki#@#div[class]:not([class*=" "]) ~ div[class*=" "] > *[class*=" "] > *:has(iframe[id^="google_ads_iframe_"])
 namu.wiki##div[class]:not([class*=" "]) ~ div[class*=" "] > *[class*=" "] > *:has(iframe[id^="google_ads_iframe_"])
