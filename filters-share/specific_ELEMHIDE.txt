@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+m.thebigdata.co.kr##.fdimmed ~ div[style^="max-width:"]
 ajunews.com###articleBody ~ div[class$="_banner"]
 ajunews.com###articleBody > div[style*="height:"]
 new-m.pay.naver.com###root > div[class*="PaymentLayout_article_"] div[class*="AdBanner_article_"]
