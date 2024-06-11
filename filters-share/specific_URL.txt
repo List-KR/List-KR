@@ -1,3 +1,4 @@
+||img.investchosun.com/invbanner/
 ||img.daara.co.kr/kidd/banner/
 /data/file/main/*$image,domain=damoang.net
 ||damoang.net/data/file/banners/
