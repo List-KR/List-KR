@@ -57,6 +57,11 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+news.mtn.co.kr##div:not([class]) > a[href][target]
+news.mtn.co.kr##aside > div[class]:has(> div:not([class]) > div[id^="taboola-"])
+news.mtn.co.kr##aside > div[class]:has(> .adsbyadop)
+news.mtn.co.kr##aside > div[class]:has(> .swiper)
+news.mtn.co.kr##aside > div[class]:has(> div[id^="moneys_p_rs_"])
 kidd.co.kr##.act-banner-box-wrapper
 m.thebigdata.co.kr##.fdimmed ~ div[style^="max-width:"]
 ajunews.com###articleBody ~ div[class$="_banner"]
