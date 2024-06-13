@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+cvsnet.co.kr##.reserEvent
 news.mtn.co.kr##div:not([class]) > a[href][target]
 news.mtn.co.kr##aside > div[class]:has(> div:not([class]) > div[id^="taboola-"])
 news.mtn.co.kr##aside > div[class]:has(> .adsbyadop)
