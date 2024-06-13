@@ -19,6 +19,7 @@ m.humoruniv.com##+js(acis, $.prototype.html, /\/images\/[A-z0-9-_]+\.?(jpg|gif)/
 ! m.fmkorea.com
 m.fmkorea.com##+js(json-prune, tpl apply, tpl.[].c)
 !
+enjoyplan.tistory.com##+js(nostif, coupangAd)
 laftel.net##+js(nosiif, [native code], 1000)
 doctornow.co.kr##+js(json-prune, data, data.getBannerAdExchange)
 10000recipe.com##+js(nostif, popup_goods)
