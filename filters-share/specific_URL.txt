@@ -1,3 +1,4 @@
+||trendjournal.co.kr/theme/*/include/adsense.php
 ||cvsnet.co.kr/image/2024/4/202404230404320090.png
 ||ecomedia.co.kr/support/_updata/banner
 ||news.mtn.co.kr/_next/image?url=%2Fimages%2Fbanner%2Fbanner-
