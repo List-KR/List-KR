@@ -208,7 +208,7 @@ enterdiary.com,hotplacehunter.co.kr,mystylezip.com,carandmore.co.kr,maxmovieen.c
 newautopost.co.kr###coupang-ad-wrapper
 www.dt.co.kr##.main_wrap > center > div[style*=" height:"]
 www.dt.co.kr##.article_view > div[style$="overflow:hidden"].img_center
-gukjenews.com,mnews.imaeil.com##body > #bottom-sticky
+digitaltoday.co.kr,gukjenews.com,mnews.imaeil.com##body > #bottom-sticky
 bizhankook.com##footer ~ div[style^="position:"]
 m.ohmynews.com##iframe[src^="https://ojsfile.ohmynews.com/AD_FILE/"]
 extrememanual.net##.post_content > div[data-dest="placeholder"][style^="min-height:"]
