@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+m.gmarket.co.kr##.js-impressionable
 gmarket.co.kr###login-banner-box
 www.naver.com###shortcutArea .shortcut_item:has( > a[href*="veta.naver.com"] > i.ico_ad)
 cvsnet.co.kr##.reserEvent
