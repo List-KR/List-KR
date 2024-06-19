@@ -1,3 +1,4 @@
+www.naver.com#$##shortcutArea { padding-left: 64px !important; }
 ggulzam.zal.kr#$#.partners-inside { display: none !important; }
 ggulzam.zal.kr#$#.inside-content-background-gradient { display: none !important; }
 ggulzam.zal.kr#$##inner-content-body.hided { max-height: fit-content !important; }
