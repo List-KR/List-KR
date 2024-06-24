@@ -1,3 +1,5 @@
+||d2c8akc1t97nhh.cloudfront.net/static/images/academies/*_ad_banner_$domain=academy.prompie.com
+||d2c8akc1t97nhh.cloudfront.net/media/creators/$domain=academy.prompie.com
 ||cvsnet.co.kr/image/2024/4/202404230404320390.png
 ||mitem.gmarket.co.kr/Item/PowerClickAd
 ||trendjournal.co.kr/theme/*/include/adsense.php

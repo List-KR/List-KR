@@ -1,3 +1,6 @@
+academy.prompie.com#$#body > #academyMainModal:has(a[href^="https://academy.prompie.com/banners/"]) { display: none !important; }
+academy.prompie.com#$#body.modal-open:has(> #academyMainModal a[href^="https://academy.prompie.com/banners/"]) { overflow: auto !important; }
+academy.prompie.com#$#body > #academyMainModal:has(a[href^="https://academy.prompie.com/banners/"]) ~ .modal-backdrop { display: none !important; }
 www.naver.com#$##shortcutArea { padding-left: 64px !important; }
 ggulzam.zal.kr#$#.partners-inside { display: none !important; }
 ggulzam.zal.kr#$#.inside-content-background-gradient { display: none !important; }
