@@ -57,6 +57,8 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+mininote.co.kr##rs-fullwidth-wrap[style^="margin-top:"]
+mininote.co.kr##rs-module-wrap[id^="rev_slider_"]
 muko.kr##.xe-widget-wrapper > div[style]:has(a[href^="/ad"])
 m.gmarket.co.kr##.js-impressionable
 gmarket.co.kr###login-banner-box
