@@ -776,7 +776,6 @@
 !
 /^https:\/\/avpink[0-9]+\.com\/wp-content\/uploads\/[0-9]+\/[0-9]+\/[0-9-%A-Z]+x[0-9]+/$domain=avpink365.com|avpink366.com|avpink367.com|avpink368.com|avpink369.com|avpink370.com|avpink371.com|avpink372.com|avpink373.com
 /^https:\/\/avpink[0-9]+\.com\/wp-content\/uploads\/[0-9]+\/[0-9]+\/[0-9]+-[0-9]+-[0-9]+\./$domain=avpink365.com|avpink366.com|avpink367.com|avpink368.com|avpink369.com|avpink370.com|avpink371.com|avpink372.com|avpink373.com
-||images.request-support.com/br/$domain=tv40.wiki|tv41.wiki|tv42.wiki|tv43.wiki|tv44.wiki|tv45.wiki|tv46.wiki|tv47.wiki|tv48.wiki|tv49.wiki|tv50.wiki|tv51.wiki|tv52.wiki|tv53.wiki
 ||cdn.ksportscdn.com/data/editor/
 ||xn--h10b90b998c.site/img/
 /^https:\/\/v[0-9]+\.dasibogo\.net\/wp-content\/uploads\/sites\/[0-9]+\/[0-9]+\/[0-9]+\/[a-z0-9]+\./$domain=dasibogo.net
