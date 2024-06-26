@@ -1176,6 +1176,9 @@ www.erdcloud.com##.erd-ads-area
 !
 ! DOMAIN-REFRESHER: START
 !
+avpink365.com,avpink366.com,avpink367.com,avpink368.com,avpink369.com,avpink370.com,avpink371.com,avpink372.com,avpink373.com###foogallery_widget-3
+avpink365.com,avpink366.com,avpink367.com,avpink368.com,avpink369.com,avpink370.com,avpink371.com,avpink372.com,avpink373.com###foogallery_widget-12
+avpink365.com,avpink366.com,avpink367.com,avpink368.com,avpink369.com,avpink370.com,avpink371.com,avpink372.com,avpink373.com###foogallery_widget-13
 tv25.co##.code-block
 tv40.wiki,tv41.wiki,tv42.wiki,tv43.wiki,tv44.wiki,tv45.wiki,tv46.wiki,tv47.wiki,tv48.wiki,tv49.wiki,tv50.wiki,tv51.wiki,tv52.wiki,tv53.wiki##img[src*="images.request-support.com/br/"]
 xn--vv4b11c.com##.mp4-banner-view
