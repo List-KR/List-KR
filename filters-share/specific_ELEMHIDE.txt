@@ -1176,6 +1176,7 @@ www.erdcloud.com##.erd-ads-area
 !
 ! DOMAIN-REFRESHER: START
 !
+avguri4.com,avguri5.com,avguri6.com,avguri7.com,avguri8.com,avguri9.com,avguri10.com,avguri11.com,avguri12.com,avguri13.com,avguri14.com,avguri15.com##div[id$="_bn"]
 avpink365.com,avpink366.com,avpink367.com,avpink368.com,avpink369.com,avpink370.com,avpink371.com,avpink372.com,avpink373.com###foogallery_widget-3
 avpink365.com,avpink366.com,avpink367.com,avpink368.com,avpink369.com,avpink370.com,avpink371.com,avpink372.com,avpink373.com###foogallery_widget-12
 avpink365.com,avpink366.com,avpink367.com,avpink368.com,avpink369.com,avpink370.com,avpink371.com,avpink372.com,avpink373.com###foogallery_widget-13
@@ -1189,7 +1190,7 @@ tvzone.*##.main_banner
 xvideos-kr.com##.thumb-ad
 torrentnx17.com,torrentnx18.com,torrentnx19.com,torrentnx20.com,torrentnx21.com,torrentnx22.com,torrentnx23.com,torrentnx24.com,torrentnx25.com,torrentnx26.com,torrentnx27.com##a[href*="/bbs/link.php"]
 coktv.*##.custom_banner_wrap
-avguri3.com,avguri4.com,avguri5.com,avguri6.com,avguri7.com,avguri8.com,avguri9.com,avguri10.com,avguri11.com,avguri12.com,avguri13.com,avguri14.com###hd_pop
+avguri4.com,avguri5.com,avguri6.com,avguri7.com,avguri8.com,avguri9.com,avguri10.com,avguri11.com,avguri12.com,avguri13.com,avguri14.com,avguri15.com###hd_pop
 bbongtv.*##img[src^="/img/"][src*=".gif"]
 ygy48.com,ygy49.com,ygy50.com,ygy51.com,ygy52.com,ygy53.com,ygy54.com,ygy55.com,ygy56.com,ygy57.com,ygy58.com,ygy59.com,ygy60.com,ygy61.com##.popup_wrap
 moeni.net##img[src^="/img/sp/"]
