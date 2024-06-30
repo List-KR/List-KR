@@ -113,7 +113,7 @@ srank.kr#%#//scriptlet('prevent-fetch', 'doubleclick.net')
 !#if (adguard_app_ios || adguard_ext_safari)
 @@||doubleclick.net^|$xmlhttprequest,domain=srank.kr
 !#endif
-klauncher.kr#%#//scriptlet('set-constant', 'detectAdBlock', 'noopFunc')
+klauncher.kr#%#//scriptlet('prevent-addEventListener', 'load', 'AdBlock')
 !#if (adguard_app_ios || adguard_ext_safari)
 @@||doubleclick.net^|$xmlhttprequest,domain=klauncher.kr
 !#endif

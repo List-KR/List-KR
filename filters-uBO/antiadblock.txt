@@ -61,7 +61,7 @@ naver.com##+js(set-cookie, ba.uuid, 0, , domain, naver.com)
 @@||nam.veta.naver.com/vas$xmlhttprequest,domain=chzzk.naver.com
 !
 srank.kr##+js(no-fetch-if, doubleclick.net)
-klauncher.kr##+js(set, detectAdBlock, noopFunc)
+klauncher.kr##+js(aeld, load, AdBlock)
 chmodi.tistory.com##.floatdiv
 svrforum.com##body > div[class][style*="box-shadow:"]
 luckyquiz3.blogspot.com##+js(no-xhr-if, adsbygoogle)
