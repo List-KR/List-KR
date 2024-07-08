@@ -23,8 +23,6 @@ m.hub.zum.com#$#.banner_slot_top + #container .article_cover { top: 100px !impor
 mlbpark.donga.com#$#div[id^="SmartPhone_"][id$="_today"] .lists > li:before { padding-top: 0px !important; border-bottom: none !important; }
 enterdiary.com,hotplacehunter.co.kr,mystylezip.com,carandmore.co.kr,maxmovieen.com,tenbizt.com,mobilitytv.co.kr,thehousemagazine.kr,tminews.co.kr,capress.kr,youtu.co,dfast.kr,mememedia.co.kr,newautopost.co.kr#$#.news-view-wrap { padding-top: 0px !important; }
 gall.dcinside.com#$##zzbang_img { display: block !important; }
-tgd.kr#$#html[style*="background-image: url(//upload.tgd.kr/"].darkmode { background-image: none !important; background-color: #151515 !important; }
-tgd.kr#$#html[style*="background-image: url(//upload.tgd.kr/"]:not(.darkmode) { background-image: none !important; background-color: #f3f2f0 !important; }
 m.sports.chosun.com,m.sportschosun.com#$##wrap > div[style*="height:"][style^="position:"] + header { margin-top: 0px !important; }
 atlantachosun.com#$#article > div[class^="sc-"] > aside[class*=" "] { display: none !important; }
 atlantachosun.com#$#article > div[class^="sc-"] { grid-template-columns: none !important; }
@@ -156,7 +154,6 @@ jobkorea.co.kr#$#.byWd .matchingContWrap { margin-top: 0px !important; }
 newsis.com#$#.articleView + .aside .smallbox + .smallbox { border-top: none !important; }
 unsin.co.kr#$#.content_area .todayBox { width: 100% !important; }
 fnnews.com#$#.inner_contents { margin-bottom: 0px !important; }
-tgd.kr#$#div[align="center"] + .row > .col-xs-6 { width: 100% !important; }
 ppomppu.co.kr#$#div[class^="ppom_newSub"] .top_newSub .left_wt { width: 100% !important; }
 all-mice.co.kr#$##main_sec { margin-top: 100px !important; }
 cgv.co.kr#$#.wrap-login > .sect-login { margin-left: calc(50% - 270px) !important; }
@@ -174,8 +171,6 @@ funnyissue.com,googlewph.com,gyeomipang.co.kr#$##primary { width: 100% !importan
 www.ebs.co.kr#$#.ebs_item .inner > div[class] { width: 50% !important; }
 megabox.co.kr#$#header.main-header { top: 0px !important; }
 quasarzone.com#$#.bot-content-area .mid-util-wrap > div { width: calc(50% - 5px) !important; }
-tgd.kr#$##header-menu-left { border-right: none !important; }
-tgd.kr#$##header-menu-right { float: right !important; border-left: none !important; }
 edit.incruit.com#$#.errorlay .new-login-warp { padding-top: 20px !important; margin-left: calc(50% - 232.5px) !important; }
 m.nocutnews.co.kr#$##pnlContainer .con_b > .reply_b { margin: 0px auto !important; }
 kin.naver.com#$#.wrap_home .section_spot { width: 100% !important; }

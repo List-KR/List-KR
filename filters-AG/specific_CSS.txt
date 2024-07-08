@@ -7,9 +7,6 @@ m.joynews24.com,m.inews24.com#@$#header ~ header { margin-top: 50px !important; 
 dailypharm.com#$#header { height: 100px !important; }
 dailypharm.com#@$#header { height: 100px !important; }
 !#endif
-!#if adguard_ext_firefox
-tgd.kr#$##article-info > h2 { overflow: visible !important; }
-!#endif
 !#if (!adguard_ext_firefox)
 2cpu.co.kr#$#header .row[style] { margin-bottom: 35px !important; }
 sign.dcinside.com#$#.login_inputbox { width: 100% !important; }

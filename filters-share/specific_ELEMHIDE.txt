@@ -812,7 +812,7 @@ noteforum.co.kr##table[width][cellspacing][cellpadding][border] tr:not([height])
 esuwon.net###r_aside center > div[class="bn"]
 smartfn.co.kr##.mt30 .con_rt > style + div[style]:not([class])
 cmobile.g-enews.com,dailypharm.com,m.g-enews.com,smartfn.co.kr##div[class*="Ad"]
-tgd.kr,miraetv.net##div[id*="-banner-"]
+miraetv.net##div[id*="-banner-"]
 miraetv.net##.gdl-left-sidebar
 ddengle.com###content > .article > div[class][style]
 sports.chosun.com##div[style].row.no-gutters > .col-3:not([style])
@@ -843,8 +843,6 @@ inven.co.kr##.section_market_line
 inven.co.kr###inven_reservation_box
 inven.co.kr##.commu-content div[style].sh-wrap
 inven.co.kr##aside div[style]:not([class])
-tgd.kr###header-top-notice
-tgd.kr###main-menu div[style][align]
 hunnek.tistory.com##a[href^="https://www.panel.co.kr/user/join/etcpath/"]
 m.eye.seoul.co.kr,m.seoul.co.kr,m.nownews.seoul.co.kr###contentsBodyDiv > table[width]
 soccerline.kr##div[class$="Bann"]
@@ -870,7 +868,7 @@ edufindkorea.com###body_wrap > #body_main > div[style]:nth-child(2)
 junggi.co.kr##img[src^="/data/__banner/"]
 junggi.co.kr##img[src^="/image/banner/"]
 danawa.com##.main__grid.main__grid--line .main__grid__right
-tgd.kr,dpg.danawa.com##div[id*="-ad-"]
+dpg.danawa.com##div[id*="-ad-"]
 maxmovie.com,dcnewsj.joins.com,news.heraldcorp.com,biz.chosun.com,place.naver.com,styleup.gameangel.com,wowtv.co.kr,news.naver.com##div[id*="_ad_"]
 thelec.kr##div[onclick^="wcs.event("]
 m.starnewskorea.com###content > div[style^="background:"][class]

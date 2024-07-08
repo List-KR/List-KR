@@ -1,9 +1,6 @@
 ! https://github.com/uBlockOrigin/uBlock-issues/issues/2130#issuecomment-1621684566
 apycsports.com#$#.copas_btn { display: none !important; }
 !
-!#if env_firefox
-tgd.kr#$##article-info > h2 { overflow: visible !important; }
-!#endif
 !#if !env_firefox
 2cpu.co.kr#$#header .row[style] { margin-bottom: 35px !important; }
 sign.dcinside.com#$#.login_inputbox { width: 100% !important; }
