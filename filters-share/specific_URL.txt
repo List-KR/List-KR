@@ -529,7 +529,7 @@
 ||noteforum.co.kr/file/_banner/
 ||susailbo.com/banner/
 ||esuwon.net/data/esuwon_net/banner/
-||cgeimage.commutil.kr/phpwas/restmb_allidxmake.php
+||cgeimage.commutil.kr/phpwas/restmb_allidxmake.php$domain=~globalepic.co.kr
 ||cgeimage.commutil.kr/smartfn_www/img/*/*_banner*.
 ||db-times.com/banner/
 ||djmail.co.kr/data/intnews_net/banner/
