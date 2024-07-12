@@ -772,6 +772,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+||torrentpi*.com/data/file/ad/$domain=torrentpi144.com|torrentpi145.com|torrentpi146.com|torrentpi147.com|torrentpi148.com|torrentpi149.com|torrentpi150.com|torrentpi151.com|torrentpi152.com|torrentpi153.com|torrentpi154.com|torrentpi155.com|torrentpi156.com
 /^https:\/\/avpink[0-9]+\.com\/wp-content\/uploads\/[0-9]+\/[0-9]+\/[0-9-%A-Z]+x[0-9]+/$domain=avpink365.com|avpink366.com|avpink367.com|avpink368.com|avpink369.com|avpink370.com|avpink371.com|avpink372.com|avpink373.com
 /^https:\/\/avpink[0-9]+\.com\/wp-content\/uploads\/[0-9]+\/[0-9]+\/[0-9]+-[0-9]+-[0-9]+\./$domain=avpink365.com|avpink366.com|avpink367.com|avpink368.com|avpink369.com|avpink370.com|avpink371.com|avpink372.com|avpink373.com
 ||cdn.ksportscdn.com/data/editor/
