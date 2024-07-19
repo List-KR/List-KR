@@ -59,7 +59,7 @@ naver.com##+js(set-cookie, ba.uuid, 0, , domain, naver.com)
 @@||nam.veta.naver.com/vas$xmlhttprequest,domain=chzzk.naver.com
 !
 srank.kr##+js(no-fetch-if, doubleclick.net)
-@@||doubleclick.net^|$xmlhttprequest,domain=klauncher.kr
+@@||adservice.google.com^|$xmlhttprequest,domain=klauncher.kr
 chmodi.tistory.com##.floatdiv
 svrforum.com##body > div[class][style*="box-shadow:"]
 luckyquiz3.blogspot.com##+js(no-xhr-if, adsbygoogle)

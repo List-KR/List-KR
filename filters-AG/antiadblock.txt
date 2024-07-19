@@ -111,7 +111,7 @@ srank.kr#%#//scriptlet('prevent-fetch', 'doubleclick.net')
 !#if (adguard_app_ios || adguard_ext_safari)
 @@||doubleclick.net^|$xmlhttprequest,domain=srank.kr
 !#endif
-@@||doubleclick.net^|$xmlhttprequest,domain=klauncher.kr
+@@||adservice.google.com^|$xmlhttprequest,domain=klauncher.kr
 chmodi.tistory.com##.floatdiv
 svrforum.com##body > div[class][style*="box-shadow:"]
 !#if (adguard_app_ios || adguard_ext_safari)
