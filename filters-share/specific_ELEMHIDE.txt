@@ -299,7 +299,6 @@ dt.co.kr##center + .bk20
 dt.co.kr##iframe[src*="//adreal.dt.co.kr/"]
 dt.co.kr##iframe[src*="dt.co.kr/ad.html"]
 itempage3.auction.co.kr###content > div[class^="ad_"] *
-search.shopping.naver.com##div[class^="aside_aside_"] div[class^="basicView_recommend_brand_"]
 m.gamechosun.co.kr##div[id*="_banner"]
 nocutnews.co.kr##div[data-id*="-ad-"]
 www.naver.com##a[class*="_banner_"]
