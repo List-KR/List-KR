@@ -61,6 +61,7 @@ naver.com##+js(set-cookie, ba.uuid, 0, , domain, naver.com)
 hub.weirdhost.xyz##+js(no-fetch-if, adblockanalytics.com)
 hub.weirdhost.xyz##+js(no-fetch-if, adsbygoogle.js)
 srank.kr##+js(no-fetch-if, doubleclick.net)
+@@://www3.doubleclick.net^|$xmlhttprequest,domain=srank.kr
 @@||adservice.google.com^|$xmlhttprequest,domain=klauncher.kr
 chmodi.tistory.com##.floatdiv
 svrforum.com##body > div[class][style*="box-shadow:"]
