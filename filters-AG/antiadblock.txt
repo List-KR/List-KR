@@ -107,6 +107,12 @@ naver.com#%#//scriptlet('set-cookie', 'ba.uuid', '0', '/', 'naver.com')
 @@||ssl.pstatic.net/tveta/libs/glad/prod/$script,domain=chzzk.naver.com
 @@||nam.veta.naver.com/vas$xmlhttprequest,domain=chzzk.naver.com
 !
+hub.weirdhost.xyz#%#//scriptlet('prevent-fetch', 'adblockanalytics.com')
+hub.weirdhost.xyz#%#//scriptlet('prevent-fetch', 'adsbygoogle.js')
+!#if (adguard_app_ios || adguard_ext_safari)
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=hub.weirdhost.xyz,xmlhttprequest
+@@||adblockanalytics.com$domain=hub.weirdhost.xyz,xmlhttprequest
+!#endif
 srank.kr#%#//scriptlet('prevent-fetch', 'doubleclick.net')
 !#if (adguard_app_ios || adguard_ext_safari)
 @@||doubleclick.net^|$xmlhttprequest,domain=srank.kr
