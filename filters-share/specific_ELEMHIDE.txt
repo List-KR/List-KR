@@ -1259,6 +1259,7 @@ qooqootv.fun##div[class^="banner_"]
 !#if !adguard_ext_android_cb
 lover932.net,lover933.net,lover934.net,lover935.net,lover936.net,lover937.net,lover938.net,lover939.net,lover940.net,lover941.net##.xe_content span ~ div[style]
 !#endif
+theqoo.net##tr.notice:not([data-document_srl])
 yagong76.com,yagong77.com,yagong78.com,yagong79.com,yagong80.com,yagong81.com,yagong82.com,yagong83.com,yagong84.com,yagong85.com,yagong86.com,yagong87.com,yagong88.com,yagong89.com,yagong90.com,yagong91.com,yagong92.com,yagong93.com,yagong94.com,yagong95.com,yagong96.com,yagong97.com,yagong98.com##div[x-data="popups()"]
 redsun50.me,redsun51.me,redsun52.me,redsun53.me,redsun54.me,redsun55.me,redsun56.me,redsun57.me,redsun58.me,redsun59.me,redsun60.me,redsun61.me,redsun62.me,redsun63.me,redsun64.me,redsun65.me,redsun66.me,redsun67.me,redsun68.me,redsun69.me,redsun70.me,redsun71.me,redsun72.me,redsun73.me,redsun74.me##div[id*="ads"]
 manamoa99.com,manamoa100.com,manamoa101.com,manamoa102.com,manamoa103.com,manamoa104.com,manamoa105.com,manamoa106.com,manamoa107.com,manamoa108.com,manamoa109.com,manamoa110.com,manamoa111.com,manamoa112.com,manamoa113.com,manamoa114.com,manamoa115.com,manamoa116.com,manamoa117.com,manamoa118.com,manamoa119.com##div[class*="banner"]
