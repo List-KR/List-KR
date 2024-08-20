@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+m.dt.co.kr##div[data-slot^="adforus_"]
 fnnews.com##.col-300 > div[style^="height:"]
 hankookilbo.com##div[class*="-ad-"]:not(data-el)
 mininote.co.kr##rs-fullwidth-wrap[style^="margin-top:"]
