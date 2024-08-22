@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+a-ha.io##main div[class*=" "]:has(> div[id^="div-gpt-"] + div[height])
 naver.com##a[href^="https://siape.veta.naver.com/"]
 m.dt.co.kr##div[data-slot^="adforus_"]
 fnnews.com##.col-300 > div[style^="height:"]
