@@ -949,7 +949,7 @@
 /^https:\/\/bam[0-9]+co\.com\/_book\/_Contents\/banner\//
 ||imgsuperpower.com^$domain=hdhd344.net|hdhd345.net|hdhd346.net|hdhd347.net|hdhd348.net|hdhd349.net|hdhd350.net|hdhd351.net|hdhd352.net|hdhd353.net|hdhd354.net|hdhd355.net|hdhd356.net|hdhd357.net|hdhd358.net
 ||blogger.googleusercontent.com^$domain=hdhd344.net|hdhd345.net|hdhd346.net|hdhd347.net|hdhd348.net|hdhd349.net|hdhd350.net|hdhd351.net|hdhd352.net|hdhd353.net|hdhd354.net|hdhd355.net|hdhd356.net|hdhd357.net|hdhd358.net
-/^https:\/\/iabn[0-9]+\.net\//$domain=wfwf328.com|wfwf329.com|wfwf330.com|wfwf331.com|wfwf332.com|wfwf333.com|wfwf334.com|wfwf335.com|wfwf336.com|wfwf337.com|wfwf338.com|wfwf339.com|wfwf340.com
+/^https:\/\/iabn[0-9]+\.net\//$domain=wfwf345.com|wfwf346.com|wfwf347.com|wfwf348.com|wfwf349.com|wfwf350.com|wfwf351.com|wfwf352.com|wfwf353.com|wfwf354.com|wfwf355.com|wfwf356.com|wfwf357.com
 /^https:\/\/blacktoon[0-9]+\.com\/poster_js\/[0-9]+\.js/
 ||toonkor*.com/images/*.gif
 ||wwwimageup.angle777899.com/other/atoona/
