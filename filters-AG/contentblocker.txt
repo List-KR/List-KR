@@ -25,6 +25,7 @@ te31.com#@#.textAd
 te31.com#@#.text_ad
 te31.com#@#.text_ads
 !
+||tistory1.daumcdn.net/tistory/3827361/skin/images/script3.js$domain=devjit.tistory.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=hub.weirdhost.xyz,xmlhttprequest
 @@||adblockanalytics.com$domain=hub.weirdhost.xyz,xmlhttprequest
 @@||doubleclick.net^|$xmlhttprequest,domain=srank.kr

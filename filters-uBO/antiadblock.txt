@@ -58,6 +58,7 @@ naver.com##+js(set-cookie, ba.uuid, 0, , domain, naver.com)
 @@||ssl.pstatic.net/tveta/libs/glad/prod/$script,domain=chzzk.naver.com
 @@||nam.veta.naver.com/vas$xmlhttprequest,domain=chzzk.naver.com
 !
+||tistory1.daumcdn.net/tistory/3827361/skin/images/script3.js$domain=devjit.tistory.com
 hub.weirdhost.xyz##+js(no-fetch-if, adblockanalytics.com)
 hub.weirdhost.xyz##+js(no-fetch-if, adsbygoogle.js)
 srank.kr##+js(no-fetch-if, doubleclick.net)
