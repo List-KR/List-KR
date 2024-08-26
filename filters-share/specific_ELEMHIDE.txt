@@ -57,6 +57,8 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+lol.ps##div[class~="before:bg-psgr-disabled"]
+lol.ps##div[data-ad]
 a-ha.io##main div[class*=" "]:has(> div[id^="div-gpt-"] + div[height])
 naver.com##a[href^="https://siape.veta.naver.com/"]
 m.dt.co.kr##div[data-slot^="adforus_"]
