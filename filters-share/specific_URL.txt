@@ -772,6 +772,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/^https:\/\/cdn-[a-z]+-[0-9]+\.hasha\.in\/[a-zA-Z_0-9-]+\./$domain=hasha.in
 ||anilife.live/assets/banner/
 ||moeni.net/img/a/lula.gif
 /theme/basic/img/banner/*$domain=nunu4.tv|nunu5.tv|nunu6.tv|nunu7.tv|nunu8.tv|nunu9.tv|nunu10.tv|nunu11.tv
