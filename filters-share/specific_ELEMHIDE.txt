@@ -1293,9 +1293,9 @@ newtoki338.com,newtoki339.com,newtoki340.com,newtoki341.com,newtoki342.com,newto
 booktoki338.com,booktoki339.com,booktoki340.com,booktoki341.com,booktoki342.com,booktoki343.com,booktoki344.com,booktoki345.com,booktoki346.com,booktoki347.com,booktoki348.com,booktoki349.com,booktoki350.com,booktoki351.com,booktoki352.com,booktoki353.com###hd_pop
 newtoki338.com,newtoki339.com,newtoki340.com,newtoki341.com,newtoki342.com,newtoki343.com,newtoki344.com,newtoki345.com,newtoki346.com,newtoki347.com,newtoki348.com,newtoki349.com##div[id].col-15
 booktoki338.com,booktoki339.com,booktoki340.com,booktoki341.com,booktoki342.com,booktoki343.com,booktoki344.com,booktoki345.com,booktoki346.com,booktoki347.com,booktoki348.com,booktoki349.com,booktoki350.com,booktoki351.com,booktoki352.com,booktoki353.com##img[src^="/tokinbtoki/"]
-manatoki338.net,manatoki339.net,manatoki340.net,manatoki341.net,manatoki342.net,manatoki343.net,manatoki344.net,manatoki345.net,manatoki346.net,manatoki347.net,manatoki348.net,manatoki349.net,manatoki350.net##[style="margin-bottom: 20px;"].row.row-15
-manatoki338.net,manatoki339.net,manatoki340.net,manatoki341.net,manatoki342.net,manatoki343.net,manatoki344.net,manatoki345.net,manatoki346.net,manatoki347.net,manatoki348.net,manatoki349.net,manatoki350.net##.basic-banner.row.row-10
-manatoki338.net,manatoki339.net,manatoki340.net,manatoki341.net,manatoki342.net,manatoki343.net,manatoki344.net,manatoki345.net,manatoki346.net,manatoki347.net,manatoki348.net,manatoki349.net,manatoki350.net##.board-tail-banner
+manatoki351.net,manatoki352.net,manatoki353.net,manatoki354.net,manatoki355.net,manatoki356.net,manatoki357.net,manatoki358.net,manatoki359.net,manatoki360.net,manatoki361.net,manatoki362.net,manatoki363.net##[style="margin-bottom: 20px;"].row.row-15
+manatoki351.net,manatoki352.net,manatoki353.net,manatoki354.net,manatoki355.net,manatoki356.net,manatoki357.net,manatoki358.net,manatoki359.net,manatoki360.net,manatoki361.net,manatoki362.net,manatoki363.net##.basic-banner.row.row-10
+manatoki351.net,manatoki352.net,manatoki353.net,manatoki354.net,manatoki355.net,manatoki356.net,manatoki357.net,manatoki358.net,manatoki359.net,manatoki360.net,manatoki361.net,manatoki362.net,manatoki363.net##.board-tail-banner
 103.204.13.68##.product-banner
 103.204.13.68##div[class^="mobile-m ad720_"]
 !
