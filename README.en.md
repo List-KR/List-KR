@@ -1,6 +1,6 @@
 # List-KR
 
-You can learn more about AdGuard, uBlock Origin, and List-KR by [visiting List-KR community pages](https://community.list-kr.com).
+You can learn more about AdGuard, uBlock Origin, and List-KR by [visiting List-KR community pages](https://list-kr-community.pages.dev).
 
 Please leave related questions on [List-KR Discussions](https://github.com/List-KR/List-KR/discussions).
 
@@ -14,7 +14,7 @@ Suppported adblockers are AdGuard and uBlock Origin.
 
 Also, you can effectively block trackers and anti-right click scripts by combining tracking protection, URL tracking, and annoyances provided by AdGuard.
 
-If you need a private support via email, check out [our contacts on community.list-kr.com](https://community.list-kr.com/docs/).
+If you need a private support via email, check out [our contacts on list-kr-community.pages.dev](https://list-kr-community.pages.dev/docs/).
 
 ## Usage
 

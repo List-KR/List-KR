@@ -4,7 +4,7 @@
 ! Version: 2024.0904.0
 ! Expires: 1 day
 ! Homepage: https://github.com/List-KR/List-KR
-! Support: https://community.list-kr.com/docs/
+! Support: https://list-kr-community.pages.dev/docs/
 ! License: https://github.com/List-KR/List-KR/blob/master/LICENSE
 !
 ! Version must be UTC format.
