@@ -847,7 +847,7 @@
 ||xn--h10b90b998c.*/img/$domain=xn--h10b90b998c.*
 ||i.imgur.com^$domain=newtoki.*
 ||newtoki.*/banner*/$domain=newtoki.*
-||i.imgur.com^$domain=torrentqq316.com|torrentqq317.com|torrentqq318.com|torrentqq319.com|torrentqq320.com|torrentqq321.com|torrentqq322.com|torrentqq323.com|torrentqq324.com|torrentqq325.com|torrentqq326.com|torrentqq327.com|torrentqq328.com|torrentqq329.com|torrentqq330.com
+||i.imgur.com^$domain=torrentqq332.com|torrentqq333.com|torrentqq334.com|torrentqq335.com|torrentqq336.com|torrentqq337.com|torrentqq338.com|torrentqq339.com|torrentqq340.com|torrentqq341.com|torrentqq342.com|torrentqq343.com|torrentqq344.com|torrentqq345.com|torrentqq346.com
 ||cdn.jjun.live/BANNER/*.gif
 ||tvmon.*/img/ba
 ||tvmon.*/AD/
