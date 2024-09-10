@@ -57,6 +57,8 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+kilho.net###coupangModal
+kilho.net##.modal-backdrop
 a-ha.io##div[class*=" "]:has(> .gliaplayer-container)
 lol.ps##div[class~="before:bg-psgr-disabled"]
 lol.ps##div[data-ad]

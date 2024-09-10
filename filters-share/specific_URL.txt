@@ -1,3 +1,6 @@
+||kilho.net/img/b/
+/partners/*$domain=kilho.net
+||cpaheaven.co.kr/files/pr_banner/
 ||url.kr/my_url_ad.png
 ||d2c8akc1t97nhh.cloudfront.net/static/images/academies/*_ad_banner_$domain=academy.prompie.com
 ||d2c8akc1t97nhh.cloudfront.net/media/creators/$domain=academy.prompie.com
