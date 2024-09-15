@@ -59,7 +59,7 @@ sports.donga.com##div[id*="_AD"]
 !
 kilho.net###coupangModal
 kilho.net##.modal-backdrop
-kilho.net###kh_adsense_widget-2
+kilho.net##.adsense
 a-ha.io##div[class*=" "]:has(> .gliaplayer-container)
 lol.ps##div[class~="before:bg-psgr-disabled"]
 lol.ps##div[data-ad]
