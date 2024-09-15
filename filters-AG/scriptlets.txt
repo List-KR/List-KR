@@ -69,6 +69,7 @@ dpg.danawa.com#%#//scriptlet('abort-current-inline-script', '$', 'myScript[myScr
 naver.com#%#//scriptlet('set-constant', 'getAdcrUrl', '')
 koreapas.com#%#//scriptlet('set-constant', 'random_imglink', 'noopFunc')
 imbc.com#%#//scriptlet('set-constant', 'vrixadsdk', 'undefined')
+kilho.net#%#//scriptlet('set-constant', 'hahaha', 'noopFunc')
 !
 ! DOMAIN-REFRESHER: START
 !

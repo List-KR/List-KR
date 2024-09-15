@@ -71,6 +71,7 @@ dpg.danawa.com##+js(acis, $, myScript[myScript.length - 1 ])
 naver.com##+js(set, getAdcrUrl, '')
 koreapas.com##+js(set, random_imglink, noopFunc)
 imbc.com##+js(set, vrixadsdk, undefined)
+kilho.net##+js(set, hahaha, noopFunc)
 !
 ! DOMAIN-REFRESHER: START
 !
