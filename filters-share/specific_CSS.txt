@@ -108,7 +108,6 @@ mk.co.kr#$#.news_synthesis_sec .col.col_4 { width: 100% !important; }
 memberssl.auction.co.kr#$#.box__login #login_tab { width: 100% !important; }
 memberssl.auction.co.kr#$#.box__login .box__login-member { width: 100% !important; }
 auction.co.kr#$#.mod-top > .main-promo { margin-left: calc(50% - 205px) !important; }
-auction.co.kr#$##body > .hp_allkill { margin-top: 375px !important; }
 auction.co.kr#$#.modrow-top > div[class$="_banner"][id$="Banner"] { display: none !important; }
 orbi.kr#$#.layout-main .panel.no-margin { padding-top: 50px !important; }
 orbi.kr#$#.layout-main .main-menu { top: 0px !important; }
