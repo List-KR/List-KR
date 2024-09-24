@@ -1,3 +1,4 @@
+||moneypin.biz/_next/image/?url=https%3A%2F%2Fmoneypin-web.s3.ap-northeast-2.amazonaws.com%2Fbizno-ad%2F
 ||kilho.net/img/b/
 /partners/*$domain=kilho.net
 ||cpaheaven.co.kr/files/pr_banner/
