@@ -1,1 +1,1 @@
-meeco.kr$$script:contains(error-report.com)
+meeco.kr$$script[tag-content="error-report.com"]
