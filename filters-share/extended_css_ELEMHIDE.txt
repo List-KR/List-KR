@@ -137,7 +137,7 @@ opworlds18.com,opworlds19.com,opworlds20.com,opworlds21.com,opworlds22.com,opwor
 spochak.com#?#table .basic-info-alert:has(a[href="/marble/"])
 avsee.*#?#.widget-side-box > .main-box:has(img[src^="/imgs/"])
 zzzz.lol#?#.widget-side .widget-title:has(+ div a[href^="/bbs/link.php?bo_table="][target="_blank"])
-booktoki338.com,booktoki339.com,booktoki340.com,booktoki341.com,booktoki342.com,booktoki343.com,booktoki344.com,booktoki345.com,booktoki346.com,booktoki347.com,booktoki348.com,booktoki349.com,booktoki350.com,booktoki351.com,booktoki352.com,booktoki353.com#?#ul[class] > li:has(> a[href*="tokkiweb.com"])
+booktoki461.com,booktoki462.com,booktoki463.com,booktoki464.com,booktoki465.com,booktoki466.com,booktoki467.com,booktoki468.com,booktoki469.com,booktoki470.com,booktoki471.com,booktoki472.com,booktoki473.com,booktoki474.com,booktoki475.com,booktoki476.com#?#ul[class] > li:has(> a[href*="tokkiweb.com"])
 manatoki461.net,manatoki362.net,manatoki363.net,manatoki364.net,manatoki365.net,manatoki366.net,manatoki367.net,manatoki368.net,manatoki369.net,manatoki370.net,manatoki371.net,manatoki372.net,manatoki373.net#?#ul[class] > li:has(> a[href^="/guarantee.php"])
 newtoki338.com,newtoki339.com,newtoki340.com,newtoki341.com,newtoki342.com,newtoki343.com,newtoki344.com,newtoki345.com,newtoki346.com,newtoki347.com,newtoki348.com,newtoki349.com#?#ul[class] > li:has(> a[href^="/guarantee.php"])
 yagong76.com,yagong77.com,yagong78.com,yagong79.com,yagong80.com,yagong81.com,yagong82.com,yagong83.com,yagong84.com,yagong85.com,yagong86.com,yagong87.com,yagong88.com,yagong89.com,yagong90.com,yagong91.com,yagong92.com,yagong93.com,yagong94.com,yagong95.com,yagong96.com,yagong97.com,yagong98.com#?#div[class*="border"]:has(> a[href][target*="_blank"])
