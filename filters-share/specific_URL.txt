@@ -777,6 +777,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+||sptv-sportscdn.com/data/popup/
 ||images.request-support.com/br/
 /^https:\/\/cdn-[a-z]+-[0-9]+\.hasha\.in\/[a-zA-Z_0-9-]+\./$domain=hasha.in
 ||anilife.live/assets/banner/
