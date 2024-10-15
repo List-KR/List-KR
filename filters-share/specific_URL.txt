@@ -31,7 +31,7 @@
 ||ad-img.gmarket.com/ADS/Contents_/$domain=signin.gmarket.co.kr
 ||search.danawa.com/mobile/ajax/adProduct/$xmlhttprequest
 ||search.danawa.com/ajax/adProduct/$xmlhttprequest
-||bjapi.afreecatv.com/api/ad/
+||bjapi.sooplive.co.kr/api/ad/
 ||google.com/adsense/ad
 ||google.com/adsense/domains
 ||google.com/adsense/search/$third-party
@@ -187,7 +187,7 @@
 /^https?:\/\/adsenseforum[0-9]*\.co\.kr\/skin\/board\/WS_Board_QA.+\./$match-case,image,domain=adsenseforum.co.kr|adsenseforum2.co.kr
 ||avdbs.com/*/img/banner/
 ||avdbs.com/*/img/aashop/
-||live.afreecatv.com/api/get_ad.php
+||live.sooplive.co.kr/api/get_ad.php
 /^https:\/\/soxak\.com\/system\/covers\/[0-9]+\/[0-9]+\/[0-9]+\/[a-z0-9]+\/original_/$domain=soxak.com,image
 /^https:\/\/soxak\.com\/images\/([a-z]+_)?banner(_[a-z_]+)?\./$domain=soxak.com
 ||heye.kr/wysiwyg/
@@ -328,7 +328,7 @@
 ||cnbnews.com/data/banner/
 ||image.ajunews.com/content/ads/
 ||cdnimage.ebn.co.kr/ban/
-||img-display.afreecatv.com/creatives/
+||img-display.sooplive.co.kr/creatives/
 ||imnews.imbc.com/operate/common/view/ad/
 ||image.dnews.co.kr/uhtml/images/art/*_banner_
 ||gamefocus.co.kr/bncode2/banner_
@@ -663,8 +663,8 @@
 ||image.ichannela.com/images/common/shinhan_
 ||entertainpost.com/wp/wp-content/uploads/newPS/ad/
 ||entertainpost.com/wp/wp-content/uploads/newPS/css/sub/right_ad.css
-||res.afreecatv.com/script/da/af_da_block.js
-||res.afreecatv.com/script/da/ad_check.js
+||res.sooplive.co.kr/script/da/af_da_block.js
+||res.sooplive.co.kr/script/da/ad_check.js
 ||hankyung.com/resource/js/*/view.ads.js
 ||upto.tk/ads.html
 ||m.ytn.co.kr/ad/
@@ -749,7 +749,7 @@
 ||vogue.co.kr/wp-content/plugins/wppas/
 ||sslimg.appstory.co.kr/@files/snc/eventbanner/
 ||shop-redapi.daum.net/red-apigate/daumtop/
-||static.afreecatv.com/asset/service/ad/
+||static.sooplive.co.kr/asset/service/ad/
 ||image.thebell.co.kr/banner/
 ||koya-culture.com/data/banner/
 ||api.ruliweb.com/floating_ad|

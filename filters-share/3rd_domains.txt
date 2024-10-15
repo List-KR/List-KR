@@ -59,7 +59,7 @@
 ||zumads.vrixon.com^
 ||ad-script.viewus.co.kr^
 ||ad-insight.sellermill.com^
-||reqde.afreecatv.com^
+||reqde.sooplive.co.kr^
 ||serv.ds.kakao.com^
 ||ad.auction.co.kr^
 ||dadispapi.auction.co.kr^
@@ -84,7 +84,7 @@
 ||naverpa-phinf.pstatic.net^
 ||ad2.mimint.co.kr^
 ||wwwads.seoul.co.kr^
-||adballoon.afreecatv.com^
+||adballoon.sooplive.co.kr^
 ||ad.themedianw.com^
 ||ad.3dpop.kr^
 ||cdndn.3dpop.kr^
@@ -173,7 +173,7 @@
 ||adg.dawin.tv^
 ||ads.quanta.la^
 ||adm.smartmediarep.com^
-||deapi.afreecatv.com^
+||deapi.sooplive.co.kr^
 ||ds.11st.co.kr^
 ||ad.mrab.co.kr^
 ||ad.mediafarm.co.kr^
