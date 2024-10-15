@@ -443,6 +443,8 @@ m.clien.net##.content_list.search > div[class^="list_center_"]
 quasarzone.com##.price-compare-srch
 clien.net##div[id$="_content"][class^="content_"] > div[class^="list_top_"]:not([class*=" "])
 mnetplus.world###mnetplus-modal-root
+clien.net##div.main_top_cmdlfkgirjd
+clien.net##div.main_center_widjrhfirj
 clien.net##.aside > div[class^="side_"]:not([class*="account"])
 m.clien.net##.nav_container > .content_view_list > div[class^="list_bottom_"]
 m.clien.net##.nav_container > div[class^="content_"][class$="_list"] a[href^="/service/board"] ~ div[class^="list_center_"]
