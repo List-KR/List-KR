@@ -207,7 +207,7 @@ mobile.missyusa.com##.div_banner
 app.dcinside.com,m.dcinside.com##*[class^="adv-group"]
 url.kr##form[method="post"] > #maskLayer
 m.tinnews.co.kr##.bn
-etoland.co.kr###m_main_attendance_wrap ~ a[href^="../../plugin/mobile/board.php?bo_table=market_"]
+etoland.co.kr###m_main_attendance_wrap ~ a[href^="../../plugin/mobile/board.php?bo_table=market_"], a[href^="../../bbs/board.php?bo_table=market_"]
 m.fmkorea.com##div[id^="fmad_"] + div[style^="height:"][class]
 etoland.co.kr##article[class^="etoad-"]
 biz.newdaily.co.kr##div[itemprop="articleBody"] > div[style^="margin:"].clearfix
