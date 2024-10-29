@@ -1,3 +1,5 @@
+||mobon.net^$third-party
+||nhnace.com^$third-party
 ||splash-ad.classting.com^
 ||ad-files.classting.com^
 ||middlepoint.co.kr^$third-party
