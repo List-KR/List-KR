@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+dcinside.com##.trend-rank
 gnu.kilho.net##div[id^="detect"]
 moneypin.biz##.flex > a[href][target="_blank"]
 chzzk.naver.com##div[class^="popup_cheat_key_container__"]
