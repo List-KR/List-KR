@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+etoland.co.kr##div[style*="margin-top:"] > a[href*="?bo_table=store&wr_id="]
 zod.kr##a[class*="zod-banner"]
 zod.kr##.app-aside-content a[href^="https://link.coupang.com"]
 zod.kr##.app-main-banner
