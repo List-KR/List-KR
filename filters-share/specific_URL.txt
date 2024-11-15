@@ -1,3 +1,4 @@
+||cdn.theddari.com/banner/
 ||arca.live/static/assets/images/karisuma-point
 ||boardlife.co.kr/data/adv_sponsor
 ||boardlife.co.kr/data/adv_promote
