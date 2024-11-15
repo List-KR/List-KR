@@ -1,3 +1,4 @@
+||firebasestorage.googleapis.com/v0/b/kimchi-premium.appspot.com/o/banner-imgs
 ||cdn.theddari.com/banner/
 ||arca.live/static/assets/images/karisuma-point
 ||boardlife.co.kr/data/adv_sponsor
