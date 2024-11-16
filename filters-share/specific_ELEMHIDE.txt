@@ -1195,6 +1195,7 @@ orbi.kr##div.panel.class-event-wrap
 orbi.kr##a[href^="https://ads.orbi.kr/"]
 osen.mt.co.kr##div#close_mask
 www.erdcloud.com##.erd-ads-area
+tvroom5.org##div.banners_area
 !
 ! DOMAIN-REFRESHER: START
 !
