@@ -45,7 +45,7 @@ https://cdn.jsdelivr.net/gh/adguardteam/HostlistsRegistry@main/assets/filter_25.
 
 광고 차단기에서 제공하는 기능만으로는 일부 복잡한 광고를 효율적으로 차단할 수 없습니다.
 
-아래 사이트인 경우에는 [microShield 설치 방법](https://list-kr-community.pages.dev/docs/AdGuard/Userscripts/microShield)을 참고하셔서 microShield 유저스크립트를 설치하셔야 합니다:
+아래 사이트인 경우에는 [tinyShield 설치 방법](https://github.com/List-KR/tinyShield/blob/main/README.ko.md)을 참고하셔서 tinyShield 유저스크립트를 설치하셔야 합니다:
  - m.inven.co.kr
  - loawa.com
  - mlbpark.donga.com
