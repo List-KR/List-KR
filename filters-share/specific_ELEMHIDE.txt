@@ -1003,7 +1003,7 @@ m.ytn.co.kr##div[class^="text_ad_"]
 nts.go.kr##.blockUI.blockOverlay
 nts.go.kr##.blockUI.blockMsg.blockPage
 noonnu.cc##div[data-fonts-target="fontsContainer"] > div.group.min-h-auto:not(.duration-300):not(.justify-between)
-dogdrip.net##.ddnad-board
+dogdrip.net##.ddnad
 epnc.co.kr,hellot.net##ins.dcmads
 bizwatch.co.kr##[class*="ad_bizwatch_"]
 autopostkorea.com##div[class^="floating_ad_"]
