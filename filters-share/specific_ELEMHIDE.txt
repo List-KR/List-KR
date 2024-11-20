@@ -1197,6 +1197,7 @@ osen.mt.co.kr##div#close_mask
 www.erdcloud.com##.erd-ads-area
 tvroom5.org##div.banners_area
 gall.dcinside.com##tr.list_trend
+dcinside.com##div.dctrend_ranking
 !
 ! DOMAIN-REFRESHER: START
 !
