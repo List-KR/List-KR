@@ -1201,7 +1201,7 @@ www.erdcloud.com##.erd-ads-area
 tvroom5.org##div.banners_area
 gall.dcinside.com##tr.list_trend
 dcinside.com##div.dctrend_ranking
-m.dcinside.com##div.key-trendbox
+dcinside.com##.key-trendbox
 m.dcinside.com##ul.detail-top-lst.trend
 !
 ! DOMAIN-REFRESHER: START
