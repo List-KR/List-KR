@@ -1205,6 +1205,8 @@ m.dcinside.com##div.key-trendbox
 dcinside.com##div.key_trendbox
 m.dcinside.com##ul.detail-top-lst.trend
 clien.net##div:has(> div[class="ad_banner"])
+etoland.co.kr##div#super_store_skin_v1
+etoland.co.kr##div.my_880_100_wrap
 !
 ! DOMAIN-REFRESHER: START
 !
