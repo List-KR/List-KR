@@ -1,3 +1,5 @@
+||blog.kakaocdn.net/dn/$domain=heye.kr
+||ibb.co^$domain=heye.kr,image
 ||photo.jtbc.co.kr/news/cms/etc/
 ||cdn.lol.ps/assets/img/bg-skins/
 ||firebasestorage.googleapis.com/v0/b/kimchi-premium.appspot.com/o/banner-imgs
