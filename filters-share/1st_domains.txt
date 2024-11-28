@@ -1,3 +1,4 @@
+||planad.net^
 ||aedi.ai^$third-party
 ||mobon.net^$third-party
 ||nhnace.com^$third-party

@@ -57,6 +57,8 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+m.celuvmedia.com##.main_bnr
+m.celuvmedia.com###container > div[style="margin-top:10px"]
 celuvmedia.com###CmAdContent  > table[style]
 www.chosun.com##article.layout__article-main > .box--pad-bottom-lg
 www.chosun.com##article.layout__article-main > .box--pad-top-xl.box--hidden-sm:has(> .box--border-xs)
