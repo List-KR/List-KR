@@ -57,6 +57,8 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+chaoscube.co.kr##div[ad-size]
+chaoscube.co.kr##.venatus-container
 news.jtbc.co.kr##.MuiBox-root > .MuiBox-root > .swiper-initialized.swiper-backface-hidden:has([target="_blank"])
 news.jtbc.co.kr###ednp_wrap
 news.jtbc.co.kr##aside div[class*="my-"].e1ecreks0.MuiBox-root:has(> .MuiBox-root > div[id$="_AD"])
