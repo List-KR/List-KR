@@ -88,6 +88,9 @@ spotvnow.co.kr#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com/pag
 !#if (adguard_ext_safari || adguard_app_ios)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=aagag.com,xmlhttprequest
 !#endif
+!#if (adguard_app_windows || adguard_app_mac || adguard_app_android)
+aagag.com#%#//scriptlet('prevent-xhr', 'pagead2.googlesyndication.com')
+!#endif
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=aagag.com,xmlhttprequest,redirect=googlesyndication-adsbygoogle
 aagag.com#@#ins.adsbygoogle[data-ad-slot]
 aagag.com#$#.la { height: 75px !important; width: 75px !important; visibility: hidden !important; }
