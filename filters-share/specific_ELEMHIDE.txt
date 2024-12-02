@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+damoang.net##.list-group > .da-link-block:has(.rcmd-box.step-pai)
 m.celuvmedia.com##.main_bnr
 m.celuvmedia.com###container > div[style="margin-top:10px"]
 celuvmedia.com###CmAdContent  > table[style]
