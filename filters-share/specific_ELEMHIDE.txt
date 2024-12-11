@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 !
+bbs.ruliweb.com###ti3
 yna.co.kr##.article > aside[class^="aside-article"]
 lottecinema.co.kr##.banner_box_login
 lottecinema.co.kr##.login260_btn
