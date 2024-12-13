@@ -731,7 +731,7 @@ news.nate.com##.thisTimeNews > div[class^="bn"]
 search.naver.com##.brand_search
 search.naver.com##div[class*="_fashion"].more_prod
 m.search.naver.com##section[class*="ad_"]
-search.naver.com##li[data-nvmid]._ad
+search.naver.com##li._ad:has(> *[data-nvmid])
 ddaily.co.kr##.space_layout ~ div[class^="section_"] > div:not([style*="solid"]) + div[style]:not([class])
 kr-weathernews.com,view.nate.com,sportsseoul.com,enuri.com,newdaily.co.kr,koreatimes.net,nzkoreapost.com##div[class*="-ad-"]
 loawa.com##a[target="_blank"][data-href][data-banner-statics]
