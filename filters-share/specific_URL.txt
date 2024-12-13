@@ -1,6 +1,5 @@
 ||theceluv.com/banner/
 ||celuvmedia.com/ad/
-||blog.kakaocdn.net/dn/$image,domain=heye.kr
 ||ibb.co^$domain=heye.kr,image
 ||photo.jtbc.co.kr/news/cms/etc/
 ||cdn.lol.ps/assets/img/bg-skins/
