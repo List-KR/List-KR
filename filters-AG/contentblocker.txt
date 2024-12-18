@@ -61,7 +61,7 @@ meeco.kr#@#.googleAd
 @@||ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js$script,domain=m.search.naver.com
 avdbs.com#@#.ad-btn
 @@||errornight.com^$generichide
-@@||ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js$script,domain=m.cafe.naver.com
+@@||ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js$script,domain=m.cafe.naver.com|nid.naver.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=spotvnow.co.kr
 bera.world,sellas.ink,1412.live#@#.ads
 remiz.co.kr#@#ins.adsbygoogle[data-ad-slot]
