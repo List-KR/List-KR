@@ -23,7 +23,6 @@ dailymedipharm.com#?#table:has(> tbody > tr > td:has-text(bannerManager):not(:ha
 eggrank.com#?##right-sidebar > .inside-right-sidebar > div[class]:not(:has-text(Hi there, I\'m EGG.))
 2cpu.co.kr#?#tr:has(> td > a[href^="../ad_board/"]:has-text(광고))
 2cpu.co.kr#?#ul > li:has(> a[href^="./ad_board/"]:has-text(광고))
-game.dcinside.com,gall.dcinside.com#?#table.gall_list tr:not([data-type][data-no]):has(td:has-text(AD))
 2cpu.co.kr#?#tr.is_notice:has(span:has-text((광고)))
 arca.live#?#.topbar-area:has(> .badge:has-text(뉴스))
 newreop.com#?#.app-board-section > ul.app-board-template-list > li.notice:has(> a[href] > span > font[color]:has-text(AD))
