@@ -56,7 +56,9 @@ jobkorea.co.kr##div[id^="Banner"]
 eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
-!
+
+m.search.naver.com##ul[data-adlog].shop_default_list > ._product:has(._ad_icon)
+m.search.naver.com##div[data-meta-area*="_ad"]
 dak.gg##div[id^="venatus-"][id*="-banner-"]
 teamblind.com##div[class^="adfit_"]
 maple.gg###content-container > div[class*=" "]:has(.VenatusAdContainer)
