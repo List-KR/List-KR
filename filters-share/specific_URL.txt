@@ -1,3 +1,4 @@
+||url.kr/banner/admin/uploads/banners/
 ||theceluv.com/banner/
 ||celuvmedia.com/ad/
 ||ibb.co^$domain=heye.kr,image
