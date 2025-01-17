@@ -15,6 +15,7 @@ m.humoruniv.com#%#//scriptlet('abort-current-inline-script', '$.prototype.html',
 ! m.fmkorea.com
 m.fmkorea.com#%#//scriptlet('json-prune', 'tpl apply', 'tpl.[].c')
 !
+tv.nate.com#%#//scriptlet('trusted-dispatch-event', 'adended', 'video')
 enjoyplan.tistory.com#%#//scriptlet('prevent-setTimeout', 'coupangAd')
 laftel.net#%#//scriptlet('prevent-setInterval', '[native code]', '1000')
 doctornow.co.kr#%#//scriptlet('json-prune', 'data', 'data.getBannerAdExchange')
