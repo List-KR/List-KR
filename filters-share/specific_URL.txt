@@ -789,6 +789,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+||cdn.ksportscdn.com/data/popup/
 ||tvwiki*.com/AD
 ||media.cokcok.vip/assets/images/
 /https:\/\/tvwiki[0-9]+\.com\/AD\//$domain=tvwiki4.com|tvwiki5.com|tvwiki6.com|tvwiki7.com|tvwiki8.com|tvwiki9.com|tvwiki10.com|tvwiki11.com|tvwiki12.com|tvwiki13.com|tvwiki14.com|tvwiki15.com|tvwiki16.com|tvwiki17.com
