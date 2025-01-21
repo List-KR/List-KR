@@ -15,6 +15,7 @@ m.humoruniv.com#%#//scriptlet('abort-current-inline-script', '$.prototype.html',
 ! m.fmkorea.com
 m.fmkorea.com#%#//scriptlet('json-prune', 'tpl apply', 'tpl.[].c')
 !
+www.naver.com#%#//scriptlet('remove-class', 'type_ad', '#shortcutArea')
 tv.nate.com#%#//scriptlet('trusted-dispatch-event', 'adended', 'video')
 enjoyplan.tistory.com#%#//scriptlet('prevent-setTimeout', 'coupangAd')
 laftel.net#%#//scriptlet('prevent-setInterval', '[native code]', '1000')
