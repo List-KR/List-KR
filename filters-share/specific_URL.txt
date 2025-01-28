@@ -786,6 +786,7 @@
 ||loader2.fmkorea.com/_myphp/adpost/content_new.php
 ||loader.fmkorea.com/_loader/
 ||ssl.pstatic.net/tveta/libs/
+||vclock.kr/inf0/hot.php^
 !
 ! DOMAIN-REFRESHER: START
 !
