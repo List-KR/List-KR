@@ -102,7 +102,7 @@ uda1004.tistory.com#@#ins.adsbygoogle[data-ad-slot]
 @@||poketory.com^$genericblock
 @@||sogirl.so/wp-content/plugins/dh-anti-adblocker/public/js/ads-prebid.js
 plankim.com##body > div:not([class]):not([id])
-@@||clien.net^$generichide
+clien.net#@#.ad_banner
 @@||withukor.com^$generichide
 meeco.kr#@#.adsbygoogle
 @@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.min.js$domain=focuskr.tistory.com
