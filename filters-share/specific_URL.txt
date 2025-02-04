@@ -712,7 +712,7 @@
 ||m.news1.kr/template/ads/
 ||image.news1.kr/system/ads_t/
 ||nocutnews.co.kr/ad/
-||lawtimes.co.kr/data/ad/
+||image.lawtimes.co.kr/ContentsImgs/
 ||boannews.com/main_contents/main_banner_
 ||boannews.com/images/banner/
 ||etnews.com/tools/refresh_script.html?*src=
