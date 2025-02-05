@@ -791,6 +791,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+||mzgtoon.com/_next/image?url=https%*.mzgtoon.com%2Fbanner%2F%
 ||cdn.ksportscdn.com/data/popup/
 ||tvwiki*.com/AD
 ||media.cokcok.vip/assets/images/
