@@ -1241,6 +1241,7 @@ koreaminecraft.net##tr.notice:not(:has(.wst_member_title))
 !
 ! DOMAIN-REFRESHER: START
 !
+anilife.*##div[class] > a[class][href^="http"][target="_blank"]
 tvwiki13.com,tvwiki14.com,tvwiki15.com,tvwiki16.com,tvwiki17.com,tvwiki4.com,tvwiki18.com,tvwiki19.com,tvwiki20.com,tvwiki21.com,tvwiki22.com,tvwiki23.com,tvwiki24.com,tvwiki25.com##div[id] > ul:has(a[herf] > img[src^="/AD/"])
 hoduhodu.com##.relative > .bottom-0.bg-black
 kktv12.com,kktv13.com,kktv14.com,kktv15.com,kktv16.com,kktv17.com,kktv18.com,kktv19.com,kktv20.com,kktv21.com,kktv22.com,kktv23.com,kktv24.com,kktv25.com,kktv26.com##.modal_contents
