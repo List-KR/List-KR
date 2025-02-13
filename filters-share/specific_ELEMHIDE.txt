@@ -1243,6 +1243,7 @@ koreaminecraft.net##tr.notice:not(:has(.wst_member_title))
 !
 ! DOMAIN-REFRESHER: START
 !
+aniwolf.*##.banner-area
 anilife.*##div[class] > a[class][href^="http"][target="_blank"]
 tvwiki13.com,tvwiki14.com,tvwiki15.com,tvwiki16.com,tvwiki17.com,tvwiki4.com,tvwiki18.com,tvwiki19.com,tvwiki20.com,tvwiki21.com,tvwiki22.com,tvwiki23.com,tvwiki24.com,tvwiki25.com##div[id] > ul:has(a[herf] > img[src^="/AD/"])
 hoduhodu.com##.relative > .bottom-0.bg-black
