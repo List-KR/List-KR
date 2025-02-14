@@ -337,7 +337,7 @@ shopping.interpark.com##.AdvertisingList
 shopping.interpark.com###btnlist > #listChoiceScope
 shopping.interpark.com##.productSortingList > .choice
 shopping.interpark.com##.productListWrap > #serviceKeywordId
-hash.kr##table[border="0"] > tbody > tr > td:not(td > div:not(div.noresize) + b > a:not([target="_blank"]))
+wiki1.kr##table:has(.noresize img[alt*="배너"])
 mlbpark.donga.com##.left_cont > div[style^="width:"]
 ruliweb.com##.adrr
 forwarder.kr###aside > div[style^="background-color:"]
@@ -782,7 +782,7 @@ m.mimint.co.kr,m.dailian.co.kr,uwayapply.com,ypbooks.co.kr##div[id$="Banner"]
 ypbooks.co.kr##div[style]#cenArea > .today
 lawtalknews.co.kr##.tdn-inventory
 www.tmon.co.kr##ul#_dealListContainer.list > li.item.type_admon[data-maincategoryno]
-wiki.hash.kr##.wkbn_bk.tp
+wiki1.kr##.wkbn_bk.tp
 m.eye.seoul.co.kr,m.seoul.co.kr###Article > .Line_gray ~ div[style]:not([class]):not([id])
 m.fpn119.co.kr###top_src > div[style]
 fpn119.co.kr###r_aside > center > .bn
@@ -849,8 +849,8 @@ cmobile.g-enews.com,m.g-enews.com##.mwrap > div[style]:not([class])
 cmobile.g-enews.com,asiatime.co.kr,m.g-enews.com##div[class*="AD"]
 hyundaenews.com##a[href^="/ad_link.php?"]
 quasarplay.com##[class^="img_wrapper"]
-hash.kr##div[class^="bann_"]
-hash.kr##div[class^="bnn_"]
+wiki1.kr##div[class^="bann_"]
+wiki1.kr##div[class^="bnn_"]
 all-mice.co.kr###main_visual
 hotword.site,g-enews.com,cgv.co.kr##div[class$="ad"][style]
 cgv.co.kr##div[id$="_PlaceHolderContent_divMovieSelection_wrap"][class]
