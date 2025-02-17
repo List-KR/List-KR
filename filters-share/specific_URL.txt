@@ -797,6 +797,8 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+||xn--hy1bm2ltmr.com/img/banner/
+||xn--9i2bm5b28j1sr.com/img/banner/
 /^https:\/\/aniwolf\.com\/storage\/[A-Za-z0-9]+\./$domain=aniwolf.*
 ||hoduhodu.com/_next/image?url=https%3A*.hoduhodu.com%2Fbanner%2F%
 ||mzgtoon.com/_next/image?url=https%*.mzgtoon.com%2Fbanner%2F%
