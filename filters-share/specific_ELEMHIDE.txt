@@ -57,6 +57,9 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 
+edaily.co.kr###manyview_info
+edaily.co.kr##div[style][class^="boxshow_"]
+edaily.co.kr##.weekend_news
 readersnews.com##.user-aside > div[style^="padding"]
 newdaily.co.kr##.header-banner
 kgnews.co.kr###news_body_area > div[style*="height:"]
