@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 
+newdaily.co.kr##.header-banner
 kgnews.co.kr###news_body_area > div[style*="height:"]
 mlbpark.donga.com##div[id^="naver_cont"]
 namechart.kr##.container ~ .border-t:has(ins.adsbygoogle)
