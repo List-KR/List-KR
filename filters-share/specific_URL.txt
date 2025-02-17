@@ -1,3 +1,4 @@
+||wimg.heraldcorp.com/svc/banner/
 ||product.kyobobook.co.kr/api/gw/onk/ad/
 ||eyejokerdb.com/assets/banners/
 ||www.naver.com/nvhaproxy/*/lazy?*&target=PC-MEDIA-SHOPPING-TODAY
