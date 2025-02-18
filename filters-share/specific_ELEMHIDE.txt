@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 
+m.megabox.co.kr##.login-easy
 edaily.co.kr###manyview_info
 edaily.co.kr##div[style][class^="boxshow_"]
 edaily.co.kr##.weekend_news
