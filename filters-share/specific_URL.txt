@@ -797,6 +797,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+||365tvda.com/data/file/bojng/
 ||xn--hy1bm2ltmr.com/img/banner/
 ||xn--9i2bm5b28j1sr.com/img/banner/
 /^https:\/\/aniwolf\.com\/storage\/[A-Za-z0-9]+\./$domain=aniwolf.*
