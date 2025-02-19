@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 
+biz.heraldcorp.com##.hbanner
 ohmynews.com##.aside > div[style^="height:"]
 dealsite.co.kr##a[class^="main-banner"]
 m.humoruniv.com###read > div[style*="z-index"]:not([class],[id],[style="clear:both;"])
