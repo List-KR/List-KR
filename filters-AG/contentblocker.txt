@@ -25,6 +25,10 @@ te31.com#@#.textAd
 te31.com#@#.text_ad
 te31.com#@#.text_ads
 !
+tabriz.kr#@##AdHeader
+tabriz.kr#@##AD_Top
+tabriz.kr#@##ad-lead
+tabriz.kr#@##homead
 @@||boardlife.co.kr^$generichide
 ||tistory1.daumcdn.net/tistory/3827361/skin/images/script3.js$domain=devjit.tistory.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=hub.weirdhost.xyz,xmlhttprequest
