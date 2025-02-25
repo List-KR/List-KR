@@ -122,6 +122,7 @@ boardlife.co.kr##.promote-box
 dcinside.com##.trend-rank
 dcinside.com##iframe[src^="https://tm.interworksmedia.co.kr"]
 gall.dcinside.com##tr[data-type="icon_fnews"]
+hansbiz.co.kr##div.ad-view
 gnu.kilho.net##div[id^="detect"]
 moneypin.biz##.flex > a[href][target="_blank"]
 chzzk.naver.com##div[class^="popup_cheat_key_container__"]

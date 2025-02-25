@@ -81,3 +81,4 @@
 ##ins.kakao_ad_area
 ##iframe[src*="//www.mediacategory.com/servlet/"]
 ##div[id^="targetpushAd_"]
+##iframe[src*="clickon.kr"]
