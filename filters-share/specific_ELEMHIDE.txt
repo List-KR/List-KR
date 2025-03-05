@@ -57,6 +57,8 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 
+shopping.naver.com##ul[class^="compositeCardList_product_list_"] > li:has(div[class*="_advertisement_area__"])
+shopping.naver.com##div[class^="brandCRMProductList_"] li[class^="brandCRMProductList_item_"]:has(svg[class^="advertisementTag_"])
 search.naver.com##div[data-foryou-append-target] > .box:has(.store_ad)
 www.daum.net##div[style^="min-height:"].box_g
 m.ppomppu.co.kr##li[id$="_ad"]
