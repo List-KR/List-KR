@@ -1270,6 +1270,7 @@ koreaminecraft.net##tr.notice:not(:has(.wst_member_title))
 !
 ! DOMAIN-REFRESHER: START
 !
+jusokorea5.com,jusokorea6.com,jusokorea7.com,jusokorea8.com,jusokorea9.com,jusokorea10.com,jusokorea11.com,jusokorea12.com,jusokorea13.com,jusokorea14.com,jusokorea15.com,jusokorea16.com,jusokorea17.com,jusokorea18.com##div[class*="-ad-banner"]
 ntnt1.tv##a[data-testid="linkElement"][href^="http"][target="_blank"]:has(> wow-image)
 aniwolf.*##.banner-area
 anilife.*##div[class] > a[class][href^="http"][target="_blank"]
