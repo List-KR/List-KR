@@ -1,3 +1,4 @@
+||dcinside.com/ads/reload/
 ||dogdrip.net/modules/dnad/
 ||edge-live.joongna.com/api/web-ads/
 ||cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/
