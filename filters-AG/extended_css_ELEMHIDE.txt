@@ -1,3 +1,4 @@
+m.ruliweb.com#?#.TimelineHeaderMargin ~ div .infinite-scroll-component > div:has(span[style*="max-height:"]:contains(AD))
 www.naver.com#?#ul[class^="ContentHeaderView-"][role="tablist"] > li:has(> a:contains(쇼핑투데이))
 m.bunjang.co.kr#?#div[class^="sc-"] > div[class*=" "]:has(> a[href^="/products/"]):contains(AD)
 m.bunjang.co.kr#?#div[class^="sc-"] > div[class*=" "]:has(> a[href^="https://"]):contains(광고)
