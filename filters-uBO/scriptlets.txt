@@ -49,7 +49,6 @@ aannm.cafe24.com,beomil09121.cafe24.com##+js(acis, jQuery, coupang_dont_show_pro
 actingbaum.co.kr,picknpicker.com,moneyissues.co.kr,sotrychatter.com,skysky138.com,keela.co.kr,jiwootube.com,news.ssongyi.co.kr,xn--wh1b751afvcpsb.com##+js(acis, jQuery.prototype.on, is_coupang)
 fun-iyagi.co.kr,timecoffee.co.kr,333aaa.site##+js(set, pum_vars, undefined)
 inven.co.kr##+js(ra, placeholder, #webzineHeadmenuF1 input[placeholder][autocomplete="off"])
-comic.naver.com##+js(json-prune, adBannerList)
 hashnews.cafe24.com##+js(aopr, pum_popups)
 enuri.com##+js(json-prune, data.supertopADNos)
 sbs.co.kr##+js(set, player.renderAdSequence, undefined)

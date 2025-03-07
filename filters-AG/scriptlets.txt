@@ -48,7 +48,6 @@ aannm.cafe24.com,beomil09121.cafe24.com#%#//scriptlet('abort-current-inline-scri
 actingbaum.co.kr,picknpicker.com,moneyissues.co.kr,sotrychatter.com,skysky138.com,keela.co.kr,jiwootube.com,news.ssongyi.co.kr,xn--wh1b751afvcpsb.com#%#//scriptlet('abort-current-inline-script', 'jQuery.prototype.on', 'is_coupang')
 fun-iyagi.co.kr,timecoffee.co.kr,333aaa.site#%#//scriptlet('set-constant', 'pum_vars', 'undefined')
 inven.co.kr#%#//scriptlet('remove-attr', 'placeholder', '#webzineHeadmenuF1 input[placeholder][autocomplete="off"]')
-comic.naver.com#%#//scriptlet('json-prune', 'adBannerList')
 hashnews.cafe24.com#%#//scriptlet('abort-on-property-read', 'pum_popups')
 enuri.com#%#//scriptlet('json-prune', 'data.supertopADNos')
 sbs.co.kr#%#//scriptlet('set-constant', 'player.renderAdSequence', 'undefined')
