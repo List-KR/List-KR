@@ -64,7 +64,7 @@ search.naver.com##div[data-foryou-append-target] > .box:has(.store_ad)
 www.daum.net##div[style^="min-height:"].box_g
 m.ppomppu.co.kr##li[id$="_ad"]
 dogdrip.net##div[id^="npl-content-"]
-quasarzone.com##div[class^="venatus-wrapper-view-"]
+quasarzone.com##div[class^="venatus-wrapper-"]
 web.joongna.com##.mx-auto.px-4.box-content:has(> .text-red-600)
 biz.chosun.com##.article-print-sty1:has(> .box--position-absolute-left > a[href^="https://biz.chosun.com/money"])
 biz.heraldcorp.com##.hbanner
