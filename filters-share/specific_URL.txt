@@ -1,3 +1,6 @@
+||conist-cdn.com/*/iV/BO/
+||conist-cdn.com/*/9j/4A/
+||conist-cdn.com/dd/ad/
 ||dcinside.com/ads/reload/
 ||dogdrip.net/modules/dnad/
 ||edge-live.joongna.com/api/web-ads/
