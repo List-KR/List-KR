@@ -805,6 +805,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+.gif^$image,domain=itrulli.com
 ||365tvda.com/data/file/bojng/
 ||xn--hy1bm2ltmr.com/img/banner/
 ||xn--9i2bm5b28j1sr.com/img/banner/
