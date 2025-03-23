@@ -151,6 +151,8 @@ hankookilbo.com##div[class*="-ad-"]:not(data-el)
 mininote.co.kr##rs-fullwidth-wrap[style^="margin-top:"]
 mininote.co.kr##rs-module-wrap[id^="rev_slider_"]
 muko.kr##.xe-widget-wrapper > div[style]:has(a[href^="/ad"])
+banhub.xyz##div.fixed:has(> div.container)
+banhub.xyz##div.hidden[class*="xl:block"]
 m.gmarket.co.kr##.js-impressionable
 gmarket.co.kr###login-banner-box
 www.naver.com###shortcutArea .shortcut_item:has( > a[href*="veta.naver.com"] > i.ico_ad)

@@ -71,6 +71,7 @@ naver.com#%#//scriptlet('set-constant', 'getAdcrUrl', '')
 koreapas.com#%#//scriptlet('set-constant', 'random_imglink', 'noopFunc')
 imbc.com#%#//scriptlet('set-constant', 'vrixadsdk', 'undefined')
 kilho.net#%#//scriptlet('set-constant', 'hahaha', 'noopFunc')
+banhub.xyz#%#//scriptlet('remove-class', 'backdrop-blur-lg')
 !
 ! DOMAIN-REFRESHER: START
 !
