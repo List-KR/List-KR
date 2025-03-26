@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 
+zod.kr##a[href^="https://zod.kr/go/"]
 instiz.net##div[id^="sense"][style]
 webtoonguide.com##.ticket-banner
 webtoonguide.com##.webtoonguide-pick-swiper-container:not(:has(a[href^="/ko/db/"]))
