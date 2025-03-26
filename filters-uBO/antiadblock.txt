@@ -81,7 +81,8 @@ sysnet.pe.kr##+js(nostif, banner_book)
 @@||new-in.pmirnc.com/public/fingerprint2.js$script
 @@||cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js$script,domain=typing.works
 ||ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js$script,domain=m.search.naver.com,redirect=noop.js
-avdbs.com##+js(aopr, ad_blk)
+avdbs.com##+js(scis, ad_blk)
+avdbs.com#@#.ad-btn
 genshin.gamedot.org##+js(nostif, blockCheck2022)
 errornight.com##+js(aost, alert, chk_adBlock)
 ||ssl.pstatic.net/tveta/libs/ssp-video/prod/ssp.web.sdk_$script,redirect=noop.js,domain=m.sports.naver.com

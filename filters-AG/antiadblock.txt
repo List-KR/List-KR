@@ -164,7 +164,8 @@ m.search.naver.com#%#//scriptlet('prevent-element-src-loading', 'script', 'ssl.p
 !#if (adguard_app_ios || adguard_ext_safari)
 @@||ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js$script,domain=m.search.naver.com
 !#endif
-avdbs.com#%#//scriptlet('abort-on-property-read', 'ad_blk')
+avdbs.com#%#//scriptlet('abort-current-inline-script', '$', 'ad_blk')
+avdbs.com#@#.ad-btn
 genshin.gamedot.org#%#//scriptlet('prevent-setTimeout', 'blockCheck2022')
 !#if (adguard_app_ios)
 @@||errornight.com^$generichide
