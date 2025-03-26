@@ -57,11 +57,12 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 
+instiz.net##.responsive_main > div[id][style*=";min-height:250px;"]
+instiz.net###topfixed ~ div[class]:has(> div[id^="sense"][style])
 zod.kr##a[href^="https://zod.kr/go/"]
 instiz.net##div[id^="sense"][style]
 webtoonguide.com##.ticket-banner
 webtoonguide.com##.webtoonguide-pick-swiper-container:not(:has(a[href^="/ko/db/"]))
-instiz.net###topfixed ~ .view_top
 m.search.naver.com##.sp_brand
 shopping.naver.com##ul[class^="compositeCardList_product_list_"] > li:has(div[class*="_advertisement_area__"])
 shopping.naver.com##div[class^="brandCRMProductList_"] li[class^="brandCRMProductList_item_"]:has(svg[class^="advertisementTag_"])
