@@ -1,3 +1,4 @@
+||c.011st.com/img/common/sprites/sp_ad_2x.png
 ||conist-cdn.com/*/iV/BO/
 ||conist-cdn.com/*/9j/4A/
 ||conist-cdn.com/dd/ad/
