@@ -516,7 +516,7 @@ m.humoruniv.com##body > .adsbygoogle
 bizhankook.com##a[href^="/b/c/NPM"]
 mobile.newsis.com##div[style~="padding:10px"][style~="10px;"] > div[style^="height:"]
 starnewskorea.com##div[itemprop="articleBody"] > div[style^="float:"]
-m.slrclub.com,m.sportschosun.com,m.starnewskorea.com##div[id$="ad"][style]
+m.slrclub.com,m.sportschosun.com,m.starnewskorea.com##div[id$="ad"][style]:not(#menu-head)
 heraldpop.com##.article_area .list_r
 heraldpop.com##div[id*="_ad"]
 heraldpop.com##.article_wrap div[class^="ad"]
