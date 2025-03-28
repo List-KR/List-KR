@@ -1281,6 +1281,7 @@ koreaminecraft.net##tr.notice:not(:has(.wst_member_title))
 !
 ! DOMAIN-REFRESHER: START
 !
+yako.gg##.banner_grid
 v119.com##.zone-right > *:has(~ .no-pd):not(:has(> .tabbox))
 v119.com##.at-boxed .zone-center > .widget-box ~ *
 ! aglint-disable-next-line
