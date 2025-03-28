@@ -1281,6 +1281,8 @@ koreaminecraft.net##tr.notice:not(:has(.wst_member_title))
 !
 ! DOMAIN-REFRESHER: START
 !
+! aglint-disable-next-line
+newtoki359.com,newtoki360.com,newtoki361.com,newtoki362.com,newtoki363.com,newtoki364.com,newtoki365.com,newtoki366.com,newtoki367.com,newtoki368.com,newtoki369.com,newtoki370.com,newtoki371.com,newtoki372.com,newtoki373.com,newtoki374.com,newtoki375.com##img[title="소울_뉴토끼_이벤트_배너"]
 itrulli.com##div.elementor-widget-shortcode
 avjoa69.com##img[onclick]
 avjoa69.com##.happy-header
