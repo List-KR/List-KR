@@ -6,6 +6,6 @@
 ||bigkinds.or.kr/resources/files/banner/$redirect=2x2-transparent.png
 ||bigkinds.or.kr/assets/*/img/content/*banner$redirect=2x2-transparent.png
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=googlesyndication-adsbygoogle,domain=~duden.de
-||amazon-adsystem.com/aax2/apstag.js$script,redirect=amazon-apstag
+||amazon-adsystem.com/aax2/apstag.js$script,redirect=amazon-apstag,domain=~wcyb.com
 ||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices-gpt
-||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices-gpt,domain=~investing.com
+||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices-gpt,domain=~investing.com|~wcyb.com
