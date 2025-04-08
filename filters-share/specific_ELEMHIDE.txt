@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 
+pizzaalvolo.co.kr##.btn-loginPhone
 instiz.net##.responsive_main > div[id][style*=";min-height:250px;"]
 instiz.net###topfixed ~ div[class]:has(> div[id^="sense"][style])
 zod.kr##a[href^="https://zod.kr/go/"]
