@@ -1282,6 +1282,7 @@ koreaminecraft.net##tr.notice:not(:has(.wst_member_title))
 !
 ! DOMAIN-REFRESHER: START
 !
+blacktoon1.info##div[data-mesh-id="comp-m8jy31rninlineContent"]
 tkor10.com,tkor11.com,tkor12.com,tkor13.com,tkor14.com,tkor15.com,tkor16.com,tkor17.com,tkor18.com,tkor19.com,tkor20.com,tkor21.com,tkor22.com,tkor23.com,tkor24.com,tkor25.com,tkor26.com,tkor27.com,tkor28.com##*[class*="top_bann"]
 toonkor.wiki##.banner
 yako.gg##.banner_grid
