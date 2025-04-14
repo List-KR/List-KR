@@ -50,6 +50,8 @@ t.hi098123.com#@#ins.adsbygoogle[data-ad-slot]
 @@||googletagmanager.com/gtag/js$domain=t.hi098123.com,script
 t.hi098123.com#$#.tabad { top: -100px !important; }
 !
+start.klauncher.kr##+js(set, googletag.getVersion, trueFunc)
+||pagead2.googlesyndication.com^$redirect=noopjs,domain=start.klauncher.kr
 tabriz.kr#@##AdHeader
 tabriz.kr#@##AD_Top
 tabriz.kr#@##ad-lead
