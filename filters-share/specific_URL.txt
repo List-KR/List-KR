@@ -1,3 +1,4 @@
+||darknsilver.com/reaction
 ||item.gmarket.co.kr/Nbp/PowerClick
 ||seemsinfo.com/api/inventory
 ||script.auction.co.kr/style/js/ad_icon.js
