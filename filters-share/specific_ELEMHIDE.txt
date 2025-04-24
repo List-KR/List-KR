@@ -57,6 +57,8 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 
+eyejokerdb.com##div[class$="max-w-[1200px]"].w-full > .rounded-lg
+eyejokerdb.com##next-route-announcer + .flex > div[class$="z-[5]"].relative
 jogemoa.com###container > .banner_list
 jogemoa.com###container > .banner_list ~ div[style^="padding:"]
 jogemoa.com##.popup_wrap

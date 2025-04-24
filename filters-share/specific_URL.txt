@@ -1,3 +1,4 @@
+||api.eyejokerdb.com/api/banners/
 ||darknsilver.com/reaction
 ||item.gmarket.co.kr/Nbp/PowerClick
 ||seemsinfo.com/api/inventory
