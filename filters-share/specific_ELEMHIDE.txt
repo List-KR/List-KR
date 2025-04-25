@@ -1051,7 +1051,6 @@ game.dcinside.com,gall.dcinside.com##.con_banner
 game.naver.com##div[class^="styles_Banner"]
 coinpan.com##img[class^="banner_"]
 blackkiwi.net##div[class^="style__GoogleAdSenseContainer-"]
-prod.danawa.com###ebayPowerClickBottomArea
 kimpga.com##div.max-w-screen-lg > .relative > div > div[class=""]:nth-child(1)
 m.danawa.com##.goods-list__ad
 ombudsmannews.com,kpja.kr,hungryapp.co.kr,usjournal.kr,socialvalue.kr,happycampus.com,chimhaha.net##div[id^="banner"]
@@ -1061,7 +1060,7 @@ sportalkorea.com##p[class^="ad_"]
 soccerline.kr,sportalkorea.com##div[class][data-ad][style]
 sportalkorea.com##div[id^="topAd"]
 ppomppu.co.kr##body .contents .container .topSub-nav
-prod.danawa.com###powerClickProductListArea
+prod.danawa.com###powerClickListArea
 entertainpost.com##body > div[style]:not([class])
 www.naver.com##div[id^="veta_"]
 newautopost.co.kr,munhwa.com,ppomppu.co.kr,starnewskorea.com,mimint.co.kr,bada.io,arca.live##div.ad
