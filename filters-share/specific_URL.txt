@@ -811,6 +811,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+||blogger.googleusercontent.com/img/$domain=yasyadong.*
 .gif^$image,domain=itrulli.com
 ||365tvda.com/data/file/bojng/
 ||xn--hy1bm2ltmr.com/img/banner/
