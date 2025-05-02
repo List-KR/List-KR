@@ -208,8 +208,9 @@ www.erdcloud.com#$#.erd-container { width: 100% !important; }
 !
 ! DOMAIN-REFRESHER: START
 !
-spotv120.com,spotv121.com,spotv122.com,spotv123.com,spotv124.com,spotv125.com,spotv126.com,spotv127.com,spotv128.com,spotv129.com,spotv130.com,spotv131.com,spotv132.com,spotv133.com,spotv134.com,spotv135.com,spotv136.com,spotv137.com,spotv138.com#$#header { top: 0px !important; }
 ! aglint-disable-next-line
-[$domain=/newtoki[0-9]+\.com/]#$#body { overflow: auto !important; }
+[$domain=/^spotv\d*+\.com$/]##header { top: 0px !important; }
+! aglint-disable-next-line
+[$domain=/newtoki\d+\.com/]#$#body { overflow: auto !important; }
 !
 ! DOMAIN-REFRESHER: END
