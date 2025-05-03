@@ -1287,39 +1287,39 @@ koreaminecraft.net##tr.notice:not(:has(.wst_member_title))
 ! DOMAIN-REFRESHER: START
 !
 blacktoon1.info##div[data-mesh-id="comp-m8jy31rninlineContent"]
-[$domain=/^tkor\d*+\.com/]##*[class*="top_bann"]
+[$domain=/^tkor\d+\.com/]##*[class*="top_bann"]
 toonkor.wiki##.banner
 yako.gg##.banner_grid
 v119.com##.zone-right > *:has(~ .no-pd):not(:has(> .tabbox))
 v119.com##.at-boxed .zone-center > .widget-box ~ *
 ! aglint-disable-next-line
-[$domain=/^newtoki\d*+\.com/]##img[title="소울_뉴토끼_이벤트_배너"]
+[$domain=/^newtoki\d+\.com/]##img[title="소울_뉴토끼_이벤트_배너"]
 itrulli.com##div.elementor-widget-shortcode
 avjoa69.com##img[onclick]
 avjoa69.com##.happy-header
-[$domain=/^jusokorea\d*+\.com/]##div[class*="-ad-banner"]
+[$domain=/^jusokorea\d+\.com/]##div[class*="-ad-banner"]
 ntnt1.tv##a[data-testid="linkElement"][href^="http"][target="_blank"]:has(> wow-image)
 aniwolf.*##.banner-area
 anilife.*##div[class] > a[class][href^="http"][target="_blank"]
-[$domain=/^tvwiki\d*+\.com/]##div[id] > ul:has(a[href] > img[src^="/AD/"])
+[$domain=/^tvwiki\d+\.com/]##div[id] > ul:has(a[href] > img[src^="/AD/"])
 hoduhodu.com##.w-full > a[target="_blank"] > img
-[$domain=/^kktv\d*+\.com/]##.modal_contents
-[$domain=/^tvmon\d*+\.org/]##.row-banner
+[$domain=/^kktv\d+\.com/]##.modal_contents
+[$domain=/^tvmon\d+\.org/]##.row-banner
 tvroom5.org##div.banners_area
 tvroom5.org##div.banner_l
 tvroom5.org##.pop-up.iziModal
 tvroom5.org##.iziModal-overlay
-[$domain=/^torrentnx\d*+\.com/]##a[href*="/bbs/link.php"]
-[$domain=/^cokcoktv\d*+\.com/]###cpb-popup-banners
-[$domain=/^cokcoktv\d*+\.com/]###custom_banner_wrap
-[$domain=/^cokcoktv\d*+\.com/]##.custom_banner_wrap
-[$domain=/^tvwiki\d*+\.com/]##ul[class^="banner"]
-[$domain=/^sptv\d*+\.com/]##.modal_contents
-[$domain=/^torrentpi\d*+\.com/]##style ~ .basic-post-gallery
-[$domain=/^avguri\d*+\.com/]##div[id$="_bn"]
-[$domain=/^avpink\d*+\.com/]###foogallery_widget-3
-[$domain=/^avpink\d*+\.com/]###foogallery_widget-12
-[$domain=/^avpink\d*+\.com/]###foogallery_widget-13
+[$domain=/^torrentnx\d+\.com/]##a[href*="/bbs/link.php"]
+[$domain=/^cokcoktv\d+\.com/]###cpb-popup-banners
+[$domain=/^cokcoktv\d+\.com/]###custom_banner_wrap
+[$domain=/^cokcoktv\d+\.com/]##.custom_banner_wrap
+[$domain=/^tvwiki\d+\.com/]##ul[class^="banner"]
+[$domain=/^sptv\d+\.com/]##.modal_contents
+[$domain=/^torrentpi\d+\.com/]##style ~ .basic-post-gallery
+[$domain=/^avguri\d+\.com/]##div[id$="_bn"]
+[$domain=/^avpink\d+\.com/]###foogallery_widget-3
+[$domain=/^avpink\d+\.com/]###foogallery_widget-12
+[$domain=/^avpink\d+\.com/]###foogallery_widget-13
 tv25.co##.code-block
 xn--vv4b11c.com##.mp4-banner-view
 xn--vv4b11c.com###xcontent-goodsite
@@ -1327,7 +1327,7 @@ anilife.*##.MainBnnWrap
 anilife.*##div[data-page] > div[class]:has(a[target="_blank"])
 tvzone.*##.main_banner
 xvideos-kr.com##.thumb-ad
-[$domain=/^torrentnx\d*+\.com/]##a[href*="/bbs/link.php"]
+[$domain=/^torrentnx\d+\.com/]##a[href*="/bbs/link.php"]
 coktv.*##.custom_banner_wrap
 [$domain=/^avguri\d+\.com/]###hd_pop
 bbongtv.*##img[src^="/img/"][src*=".gif"]
@@ -1374,9 +1374,9 @@ save-1.net##div[id^="float"]
 save-1.net##div[class^="header-banner-"]
 save-1.net##.at-main > .widget-box
 save-1.net##.w-banner
-[$domain=/^jgmoa\d+\.com$/]##.popup
-[$domain=/^torrenttop\d+\.com$/]##a[href^="/adver-"]
-[$domain=/^yaburi\d+\.com$/]###popups
+[$domain=/^jgmoa\d+\.com/]##.popup
+[$domain=/^torrenttop\d+\.com/]##a[href^="/adver-"]
+[$domain=/^yaburi\d+\.com/]###popups
 etorrentro.net##div[id^="banner"]
 1004girl.com##.page-content > .row.no-gap.no-space > .col-33
 [$domain=/^linkrand\d+\.com/]##.is-hover a[href^="http"][target="_blank"]
@@ -1389,7 +1389,7 @@ linkkf.app###banner
 [$domain=/^booktoki\d+\.com/]##div[id*="-banner-"] > div[class*=" "] > div[class*=" "][style*=" "]
 hellven.net##a[href^="http"][target="_blank"].thumbnail
 dajunbi.com##div[class^="banner_"]
-[$domain=/^spotv\d+\.com$/]##div[id$="-banner"]
+[$domain=/^spotv\d+\.com/]##div[id$="-banner"]
 qooqootv.fun##div[class^="banner_"]
 !#if !adguard_ext_android_cb
 [$domain=/^lover\d+\.net/]##.xe_content span ~ div[style]
