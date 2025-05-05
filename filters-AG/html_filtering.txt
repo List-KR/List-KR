@@ -1,1 +1,2 @@
 meeco.kr$$script[tag-content="error-report.com"]
+kio.ac$$script[tag-content="K$()"]
