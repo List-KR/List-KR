@@ -1,10 +1,8 @@
 ||biz.sbs.co.kr/ad/
 ||biz.sbs.co.kr/img/pc/end_banner_250423.jpg
-||2days.aboda.kr/api/inventory
 ||api.eyejokerdb.com/api/banners/
 ||darknsilver.com/reaction
 ||item.gmarket.co.kr/Nbp/PowerClick
-||seemsinfo.com/api/inventory
 ||script.auction.co.kr/style/js/ad_icon.js
 ||c.011st.com/img/common/sprites/sp_ad_2x.png
 ||conist-cdn.com/*/iV/BO/
