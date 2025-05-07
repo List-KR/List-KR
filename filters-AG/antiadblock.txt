@@ -103,6 +103,7 @@ t.hi098123.com#@#ins.adsbygoogle[data-ad-slot]
 !#safari_cb_affinity
 t.hi098123.com#$#.tabad { top: -100px !important; }
 !
+minipol.tistory.com#%#//scriptlet('set-constant', 'checkAdBlock', 'undefined')
 start.klauncher.kr#%#//scriptlet('set-constant', 'googletag.getVersion', 'trueFunc')
 start.klauncher.kr#%#//scriptlet('prevent-element-src-loading', 'script', 'pagead2.googlesyndication.com')
 tabriz.kr#@##AdHeader
