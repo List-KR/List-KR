@@ -209,7 +209,7 @@ www.erdcloud.com#$#.erd-container { width: 100% !important; }
 ! DOMAIN-REFRESHER: START
 !
 ! aglint-disable-next-line
-[$domain=/^spotv\d*+\.com$/]##header { top: 0px !important; }
+[$domain=/^spotv\d+\.com$/]##header { top: 0px !important; }
 ! aglint-disable-next-line
 [$domain=/newtoki\d+\.com/]#$#body { overflow: auto !important; }
 !

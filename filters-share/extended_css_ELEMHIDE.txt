@@ -143,6 +143,6 @@ booktoki461.com,booktoki462.com,booktoki463.com,booktoki464.com,booktoki465.com,
 manatoki464.net,manatoki465.net,manatoki466.net,manatoki467.net,manatoki468.net,manatoki489.net,manatoki490.net,manatoki491.net,manatoki492.net,manatoki493.net,manatoki494.net,manatoki495.net,manatoki496.net#?#ul[class] > li:has(> a[href^="/guarantee.php"])
 ! aglint-disable-next-line
 [$domain=/newtoki\d+\.com/]#?#ul[class] > li:has(> a[href^="/guarantee.php"])
-[$domain=/^yagong\d*+\.com$/]##div[class*="border"]:has(> a[href][target*="_blank"])
+[$domain=/^yagong\d+\.com$/]##div[class*="border"]:has(> a[href][target*="_blank"])
 !
 ! DOMAIN-REFRESHER: END
