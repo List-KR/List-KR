@@ -21,6 +21,7 @@ m.humoruniv.com##+js(acis, $.prototype.html, /\/images\/[A-z0-9-_]+\.?(jpg|gif)/
 ! m.fmkorea.com
 m.fmkorea.com##+js(json-prune, tpl apply, tpl.[].c)
 !
+kilho.net##+js(acis, jQuery, .adsbygoogle)
 mplay.mk.co.kr##+js(no-xhr-if, ad.smartmediarep.com/NetInsight/video/smr, length:300)
 www.naver.com##+js(rc, type_ad, #shortcutArea)
 enjoyplan.tistory.com##+js(nostif, coupangAd)
