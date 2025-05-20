@@ -83,7 +83,6 @@
 ||api.botad.kr^
 ||adimg.cgv.co.kr^
 ||ad.cgv.co.kr^
-||veta.naver.com^
 ||naverpa-phinf.pstatic.net^
 ||ad2.mimint.co.kr^
 ||wwwads.seoul.co.kr^
