@@ -1,3 +1,4 @@
+||veta.naver.com^
 ||planad.net^
 ||aedi.ai^$third-party
 ||mobon.net^$third-party
