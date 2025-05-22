@@ -1300,7 +1300,7 @@ itrulli.com##div.elementor-widget-shortcode
 avjoa69.com##img[onclick]
 avjoa69.com##.happy-header
 [$domain=/^jusokorea\[0-9\]+\.com/]##div[class*="-ad-banner"]
-ntnt1.tv##a[data-testid="linkElement"][href^="http"][target="_blank"]:has(> wow-image)
+ntnt4.tv##a[data-testid="linkElement"][href^="http"][target="_blank"]:has(> wow-image)
 aniwolf.*##.banner-area
 anilife.*##div[class] > a[class][href^="http"][target="_blank"]
 [$domain=/^tvwiki\[0-9\]+\.com/]##div[id] > ul:has(a[href] > img[src^="/AD/"])
