@@ -28,16 +28,12 @@
     "sanvit"
   ],
   "license": "GPL-3.0-only",
+  "type": "module",
   "scripts": {
     "lint": "aglint",
     "prepare": "husky install"
   },
-  "lint-staged": {
-      "*.txt": "aglint"
-  },
   "devDependencies": {
-      "@adguard/aglint": "^2.0.8",
-      "husky": "^8.0.3",
-      "lint-staged": "^15.2.0"
+    "@adguard/aglint": "^3.0.0"
   }
 }

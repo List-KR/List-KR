@@ -21,15 +21,15 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 'lts/*'
-          cache: yarn
+          cache: npm
 
       - name: Install dependencies
-        run: yarn install --frozen-lockfile
+        run: npm install
 
       # If the linter found any errors, it will exit with a non-zero code,
       # which will cause the job to fail
       - name: Run AGLint
-        run: yarn lint
+        run: npm run lint
  
   release:
     runs-on: ubuntu-latest
