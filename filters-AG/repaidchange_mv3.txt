@@ -1,3 +1,6 @@
 ||i.imgur.com^$domain=torrentqq368.com|torrentqq369.com|torrentqq370.com|torrentqq371.com|torrentqq372.com|torrentqq373.com|torrentqq374.com|torrentqq375.com
 torrentqq368.com,torrentqq369.com,torrentqq370.com,torrentqq371.com,torrentqq372.com,torrentqq373.com,torrentqq374.com,torrentqq375.com##.row-banner
 torrentqq368.com,torrentqq369.com,torrentqq370.com,torrentqq371.com,torrentqq372.com,torrentqq373.com,torrentqq374.com,torrentqq375.com##.at-banner
+tvwiki20.com,tvwiki21.com,tvwiki22.com,tvwiki23.com,tvwiki24.com,tvwiki25.com,tvwiki26.com,tvwiki27.com,tvwiki28.com,tvwiki29.com,tvwiki30.com,tvwiki31.com,tvwiki32.com##div[id] > ul:has(a[href] > img[src^="/AD/"])
+tvwiki20.com,tvwiki21.com,tvwiki22.com,tvwiki23.com,tvwiki24.com,tvwiki25.com,tvwiki26.com,tvwiki27.com,tvwiki28.com,tvwiki29.com,tvwiki30.com,tvwiki31.com,tvwiki32.com##ul[class^="banner"]
+/https:\/\/tvwiki[0-9]+\.com\/AD\//$domain=tvwiki20.com|tvwiki21.com|tvwiki22.com|tvwiki23.com|tvwiki24.com|tvwiki25.com|tvwiki26.com|tvwiki27.com|tvwiki28.com|tvwiki29.com|tvwiki30.com|tvwiki31.com|tvwiki32.com
