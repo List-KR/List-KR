@@ -30,8 +30,7 @@
   "license": "GPL-3.0-only",
   "type": "module",
   "scripts": {
-    "lint": "aglint",
-    "prepare": "husky install"
+    "lint": "aglint"
   },
   "devDependencies": {
     "@adguard/aglint": "^3.0.0"
