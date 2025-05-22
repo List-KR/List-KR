@@ -1,7 +1,7 @@
 [AdGuard]
 ! Title: List-KR for AdGuard
 ! Description: List-KR for AdGuard. Maintained by the adblock community and AdGuard.
-! Version: 2025.0522.0
+! Version: 2025.0522.1
 ! Expires: 1 day
 ! Homepage: https://github.com/List-KR/List-KR
 ! Support: https://list-kr-community.pages.dev/docs/
@@ -77,4 +77,8 @@
 !#include filters-AG/desktop/macos_app/allowlist.txt
 !#include filters-AG/desktop/macos_app/antiadblock.txt
 !#include filters-AG/desktop/macos_app/specific_URL.txt
+!#endif
+
+!#if (adguard && adguard_ext_chromium_mv3)
+!#include filters-AG/repaidchange_mv3.txt
 !#endif
