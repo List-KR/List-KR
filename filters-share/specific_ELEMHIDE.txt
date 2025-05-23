@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 
+yna.co.kr##aside[class^="aside-box"]:has(yna-ad-script)
 coupang.com##.ads-line-banner-container
 eyejokerdb.com##div[class$="max-w-[1200px]"].w-full > .rounded-lg
 eyejokerdb.com##next-route-announcer + .flex > div[class$="z-[5]"].relative
