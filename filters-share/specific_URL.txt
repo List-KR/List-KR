@@ -1,3 +1,4 @@
+||newsis.com/h_www/advertise/
 ||static.kbs.co.kr/advertisement/ad_config.json
 ||ggtics-static.s3.ap-northeast-1.amazonaws.com/dev-slot-image/$domain=your.gg
 ||biz.sbs.co.kr/ad/
