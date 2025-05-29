@@ -815,6 +815,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+||sutom.org/wp-content/uploads/*.webp
 ||nooo*.tv/theme/basic_player/img/banner/$domain=/nooo[0-9]+\.tv/
 ||blogger.googleusercontent.com/img/$domain=yasyadong.*
 .gif^$image,domain=itrulli.com

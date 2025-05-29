@@ -1290,6 +1290,8 @@ kio.ac##main > div:has(> div > div > a > img)
 !
 ! DOMAIN-REFRESHER: START
 !
+sutom.org##div[data-id="9429d5d"]
+sutom.org###sutom-pro
 blacktoon1.info##div[data-mesh-id="comp-m8jy31rninlineContent"]
 [$domain=/^tkor\[0-9\]+\.com/]##*[class*="top_bann"]
 toonkor.wiki##.banner
