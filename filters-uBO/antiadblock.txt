@@ -50,6 +50,7 @@ t.hi098123.com#@#ins.adsbygoogle[data-ad-slot]
 @@||googletagmanager.com/gtag/js$domain=t.hi098123.com,script
 t.hi098123.com#$#.tabad { top: -100px !important; }
 !
+checkwhoiam.tistory.com##+js(nostif, adblock)
 ||shana.pe.kr/shana_check/script.js
 kilho.net###detect-alert
 vod.jtbc.co.kr#@#.ad-unit:not(.textads)
