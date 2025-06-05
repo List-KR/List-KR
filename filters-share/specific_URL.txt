@@ -1,3 +1,4 @@
+||pedia.watcha.com/api/contents/*/venus|
 ||betanews.net/data/beta/upload/save/banner/
 ||newsis.com/h_www/advertise/
 ||static.kbs.co.kr/advertisement/ad_config.json
