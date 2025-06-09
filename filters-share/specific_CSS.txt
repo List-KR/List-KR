@@ -27,7 +27,7 @@ jovelys.ulog.kr,coolfun.zal.kr#$#.inner-body.hided .partners-inside { display: n
 jovelys.ulog.kr,coolfun.zal.kr#$#.inner-body.hided { overflow-y: auto !important; max-height: none !important; }
 etoland.co.kr#$##mw_mobile > .mw_icon_box { margin-top: 25px !important; }
 m.hub.zum.com#$#.banner_slot_top + #container .article_cover { top: 100px !important; }
-mlbpark.donga.com#$#div[id^="SmartPhone_"][id$="_today"] .lists > li:before { padding-top: 0px !important; border-bottom: none !important; }
+mlbpark.donga.com#$#div[id^="SmartPhone_"][id$="_today"] .lists > li::before { padding-top: 0px !important; border-bottom: none !important; }
 enterdiary.com,hotplacehunter.co.kr,mystylezip.com,carandmore.co.kr,maxmovieen.com,tenbizt.com,mobilitytv.co.kr,thehousemagazine.kr,tminews.co.kr,capress.kr,youtu.co,dfast.kr,mememedia.co.kr,newautopost.co.kr#$#.news-view-wrap { padding-top: 0px !important; }
 gall.dcinside.com#$##zzbang_img { display: block !important; }
 m.sports.chosun.com,m.sportschosun.com#$##wrap > div[style*="height:"][style^="position:"] + header { margin-top: 0px !important; }
