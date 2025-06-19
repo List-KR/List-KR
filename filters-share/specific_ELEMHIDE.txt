@@ -57,6 +57,8 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 
+issuetory.co.kr##.code-block-6
+issuetory.co.kr##.entry-content.read-details > .code-block
 damoang.net###sidebar-site-menu > h3:has(> a[href="https://damoang.net/promotion"])
 damoang.net###sidebar-site-menu > h3:has(> a[href="https://damoang.net/promotion"]) + .line-top.mb-4
 qquing.net##.ad-actual

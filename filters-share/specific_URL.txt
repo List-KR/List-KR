@@ -1,3 +1,4 @@
+||issuetory.co.kr/wp-content/boost-cache/static/4f167c936d.min.js
 ||pedia.watcha.com/api/contents/*/venus|
 ||betanews.net/data/beta/upload/save/banner/
 ||newsis.com/h_www/advertise/
