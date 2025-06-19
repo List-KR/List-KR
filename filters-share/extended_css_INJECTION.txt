@@ -30,5 +30,6 @@ banhub.xyz#$#html{ overflow: visible !important; }
 ! DOMAIN-REFRESHER: START
 !
 zzzz.lol#$?#.ent_wrapper.slide-vertical-effect .ent_news:not(:has(.ent_prefix:contains(ZZAPFLIX))) { remove: true; }
+aniya24.com#$?#div[class*="-player-wrapper"] > .play-media-control ~ div[class^="beeteam"][class*="-player-sub-element"] { remove: true; }
 !
 ! DOMAIN-REFRESHER: END
