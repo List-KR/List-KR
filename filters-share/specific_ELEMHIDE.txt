@@ -1278,8 +1278,8 @@ ruliweb.com##div.board_main > table > tbody tr.table_body.list_inner
 dcinside.com##tr.ub-content:has(a[onclick^="survey"])
 dcinside.com##div[class^="rightbanner"]
 dcinside.com##ul.cmt_list > li[id^="comment_li_"].ub-content.dory
-app.dcinside.com,m.dcinside.com#?#.detail-top-lst li:has(a[href*="//link.coupang.com/"])
-gall.dcinside.com#?#.gall_list .ub-content:not(.us-post):has(a[href*="//link.coupang.com/"])
+app.dcinside.com,m.dcinside.com##.detail-top-lst li:has(a[href*="//link.coupang.com/"])
+gall.dcinside.com##.gall_list .ub-content:not(.us-post):has(a[href*="//link.coupang.com/"])
 orbi.kr##div.panel.class-event-wrap
 orbi.kr##a[href^="https://ads.orbi.kr/"]
 osen.mt.co.kr##div#close_mask
