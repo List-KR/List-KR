@@ -1,3 +1,5 @@
+torrentbot200.site,torrentbot201.site,torrentbot202.site,torrentbot203.site,torrentbot204.site,torrentbot205.site,torrentbot206.site,torrentbot207.site,torrentbot208.site##a[href^="/go/"][target="_blank"]
+torrentbot200.site,torrentbot201.site,torrentbot202.site,torrentbot203.site,torrentbot204.site,torrentbot205.site,torrentbot206.site,torrentbot207.site,torrentbot208.site##div[id^="ad_"]
 ||i.imgur.com^$domain=torrentqq368.com|torrentqq369.com|torrentqq370.com|torrentqq371.com|torrentqq372.com|torrentqq373.com|torrentqq374.com|torrentqq375.com
 torrentqq368.com,torrentqq369.com,torrentqq370.com,torrentqq371.com,torrentqq372.com,torrentqq373.com,torrentqq374.com,torrentqq375.com##.row-banner
 torrentqq368.com,torrentqq369.com,torrentqq370.com,torrentqq371.com,torrentqq372.com,torrentqq373.com,torrentqq374.com,torrentqq375.com##.at-banner

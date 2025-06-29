@@ -997,7 +997,7 @@
 ||i.imgur.com^$domain=/^torrentgram[0-9]+\.com/
 /^https:\/\/dc\.filesbest\.xyz\/uploadfile\/images\/[a-z0-9]+\.gif$/
 /^https:\/\/torrentwiz[0-9]+\.com\/data\/editor\/\d{4}\//
-/^https:\/\/torrentbot[0-9]+\.com\/uploadfile\/up[a-z0-9]+\.gif$/
+/^https:\/\/torrentbot[0-9]+\.[a-z]+\/uploadfile\/up[a-z0-9]+\.gif$/
 ||imgbox.com^$domain=/^ktxtorrent[0-9]+\.com/
 ||static.filesbest.xyz^$domain=/^ktxtorrent[0-9]+\.com/
 ||i.imgur.com^$domain=/^bobaelink[0-9]+\.xyz/

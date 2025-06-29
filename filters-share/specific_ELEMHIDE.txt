@@ -1421,8 +1421,8 @@ theqoo.net##tr.notice:not([data-document_srl])
 [$domain=/^torrentgram\[0-9\]+\.com/]##.npia-board-gallery
 [$domain=/^torrentgram\[0-9\]+\.com/]###body_text > .at-main.at-col[style]
 [$domain=/^torrentbam\[0-9\]+\.com/]##a[href*="/ad/"][target="_blank"]
-[$domain=/^torrentbot\[0-9\]+\.com/]##a[href^="/go/"][target="_blank"]
-[$domain=/^torrentbot\[0-9\]+\.com/]##div[id^="ad_"]
+[$domain=/^torrentbot\[0-9\]+\.[a-z]+/]##a[href^="/go/"][target="_blank"]
+[$domain=/^torrentbot\[0-9\]+\.[a-z]+/]##div[id^="ad_"]
 [$domain=/^ktxtorrent\[0-9\]+\.com/]##img[src*=".imgbox.com/"]
 [$domain=/^torrentsome\[0-9\]+\.com/]##a[href^="/go/"][target="_blank"]
 [$domain=/^torrentrj\[0-9\]+\.com/]##a[href^="/go/"][target="_blank"]
