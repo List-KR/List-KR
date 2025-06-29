@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 
+quasarzone.com##div[id^="venatusHumor"]
 quasarzone.com##.g123-wrapper
 quasarzone.com##.side-banner-list .point-logo
 thewordcracker.com##.entry-header .unique-container
