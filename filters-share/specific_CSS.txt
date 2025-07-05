@@ -1,3 +1,5 @@
+lol.ps#$#div[class*="w-full min-w-[280px] pt-10"] > .p-4.pb-0 div[class*="max-w-[480px]"] { width: 100% !important; max-width: none !important; }
+lol.ps#$##summoner-name-header-container { width: 100% !important; }
 2798731938.zigcou.com#$#.relative > .z-0 { display: none !important; }
 2798731938.zigcou.com#$#.relative .post-contents > div[style] { height: auto !important; }
 lawtimes.co.kr#$#div[class*=" "]:has( + div[class*=" "] > div > a[target="_blank"][href^="https://"]) { width: 100% !important; }

@@ -1,3 +1,4 @@
+||cdn.lol.ps/static/prod/*/_app/immutable/assets/banner-
 ||platformgreat.kr/coupang_1.jpg
 ||maplescouter.com/ads/
 ||issuetory.co.kr/wp-content/boost-cache/static/4f167c936d.min.js
