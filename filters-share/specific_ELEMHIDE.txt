@@ -1309,6 +1309,8 @@ kio.ac##main > div:has(> div > div > a > img)
 !
 ! DOMAIN-REFRESHER: START
 !
+[$domain=/^tv[0-9]+\.wiki/]###cpb-popup-banners
+[$domain=/^tv[0-9]+\.wiki/]##.custom_banner_wrap
 aniya24.com##.popup-container
 sutom.org##div[data-id="9429d5d"]
 sutom.org###sutom-pro
