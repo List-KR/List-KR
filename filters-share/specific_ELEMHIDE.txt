@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 
+ppomppu.co.kr##div[align="center"] > #header_box ~ div[style*="min-height:100px;"]
 lol.ps##main[style^="cursor: default;"][class="desktop:min-w-[1280px]"] > div[class^="modal-"]
 lol.ps##.overflow-x-hidden > div[class*="inset-x-0 top-[80px]"]
 lol.ps###banner-container
