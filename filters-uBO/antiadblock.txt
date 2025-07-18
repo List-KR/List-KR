@@ -50,9 +50,9 @@ t.hi098123.com#@#ins.adsbygoogle[data-ad-slot]
 @@||googletagmanager.com/gtag/js$domain=t.hi098123.com,script
 t.hi098123.com#$#.tabad { top: -100px !important; }
 !
-shana.pe.kr##+js(set, checkShanaBlock, noopFunc)
+shana.pe.kr##+js(set, CSB, noopFunc)
 checkwhoiam.tistory.com##+js(set, adblockChecker, noopFunc)
-||shana.pe.kr/shana_check/script.js
+||shana.pe.kr/shana_check/csb3.js
 kilho.net###detect-alert
 vod.jtbc.co.kr#@#.ad-unit:not(.textads)
 vod.jtbc.co.kr#@#.ad-zone:not(.textads)
