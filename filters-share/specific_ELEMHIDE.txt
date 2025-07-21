@@ -57,6 +57,8 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 
+damoang.net##div[data-testid="board-ads-banner"]
+damoang.net##.ad-container
 m.daum.net##div[style*="/top/daum/op/chanel/"].imgdeco_below
 www.daum.net##div[aria-hidden="true"].imgdeco_below
 ppomppu.co.kr##div[align="center"] > #header_box ~ div[style*="min-height:100px;"]
