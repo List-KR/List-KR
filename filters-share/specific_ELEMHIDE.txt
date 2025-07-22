@@ -57,6 +57,9 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 
+m-sooriya.tistory.com##div[id^="fix_scroll_sidebar_DIV_"]
+m-sooriya.tistory.com##a[href^="https://soz.kr/"]
+m-sooriya.tistory.com##.script_add_ads
 damoang.net##div[data-testid="board-ads-banner"]
 damoang.net##.ad-container
 m.daum.net##div[style*="/top/daum/op/chanel/"].imgdeco_below
