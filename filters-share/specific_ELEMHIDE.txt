@@ -324,6 +324,7 @@ app.dcinside.com,m.dcinside.com##*[class^="adv-group"]
 app.dcinside.com,m.dcinside.com##li.adv-inner
 url.kr##form[method="post"] > #maskLayer
 m.tinnews.co.kr##.bn
+dnn.ne.kr##div:has(> ins.adsbygoogle)
 etoland.co.kr###m_main_attendance_wrap ~ a[href^="../../plugin/mobile/board.php?bo_table=market_"]
 m.fmkorea.com##div[id^="fmad_"] + div[style^="height:"][class]
 fmkorea.com##div.fmad_wrapper
