@@ -1,4 +1,1 @@
-!#if adguard_app_ios
-m.fmkorea.com#$?#body[class^="mac_os"] > div[id^="bd_"].bd:not([style]):has(> p > a[href]:matches-property(listeners.click) ~ a[href]:matches-property(listeners.click):contians(/^http/)) { remove: true; }
-m.fmkorea.com#$?#body[class="mac_os"] > .bd > div[style]:has(> .bd_mobile > p > a[href]:matches-property(listeners.click) ~ a[href]:matches-property(listeners.click):contians(/^http/)) { remove: true; }
-!#endif
+!
