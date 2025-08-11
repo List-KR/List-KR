@@ -139,9 +139,9 @@ spochak.com#?#table .basic-info-alert:has(a[href="/marble/"])
 avsee.*#?#.widget-side-box > .main-box:has(img[src^="/imgs/"])
 zzzz.lol#?#.widget-side .widget-title:has(+ div a[href^="/bbs/link.php?bo_table="][target="_blank"])
 ! aglint-disable-next-line
-[$domain=/booktoki\[0-9\]+\.com/]#?#ul[class] > li:has(> a[href*="tokkiweb.com"])
-[$domain=/manatoki\[0-9\]+\.com/]#?#ul[class] > li:has(> a[href^="/guarantee.php"])
-[$domain=/newtoki\[0-9\]+\.com/]#?#ul[class] > li:has(> a[href^="/guarantee.php"])
-[$domain=/^yagong\[0-9\]+\.com$/]##div[class*="border"]:has(> a[href][target*="_blank"])
+[$domain=/booktoki[0-9]+\.com/]#?#ul[class] > li:has(> a[href*="tokkiweb.com"])
+[$domain=/manatoki[0-9]+\.com/]#?#ul[class] > li:has(> a[href^="/guarantee.php"])
+[$domain=/newtoki[0-9]+\.com/]#?#ul[class] > li:has(> a[href^="/guarantee.php"])
+[$domain=/^yagong[0-9]+\.com$/]##div[class*="border"]:has(> a[href][target*="_blank"])
 !
 ! DOMAIN-REFRESHER: END
