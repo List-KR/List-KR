@@ -1,3 +1,5 @@
+||ad.altools.co.kr^$redirect=noopframe
+||altools.zum.com/PC_altoolspopskin_display_pop_
 ||cubec.gomtv.com/TextAdInfo_new.gom
 ||safevisit.org/appdisplay?$redirect=noopframe
 184.25.232.20:443$network,app=ALYac.aye
