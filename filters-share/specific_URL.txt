@@ -823,6 +823,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+||wdwd*.com/data/banner/
 ||static.tzstatic.top/z/*.gif
 ||ddal.xyz/project/mc/js/nuevo.min.js
 *$image,domain=/tvwiki[0-9]+\.tv/
