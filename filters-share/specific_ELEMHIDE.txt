@@ -1325,6 +1325,7 @@ kio.ac##main > div:has(> div > div > a > img)
 !
 ! DOMAIN-REFRESHER: START
 !
+[$domain=/tvwiki[0-9]+\.tv/]##a:has(> img[src^="https://static.wixstatic.com/media/"])
 [$domain=/torrentzota[0-9]+\.com/]##a[href^="/adver-"]
 [$domain=/^tv[0-9]+\.wiki/]###cpb-popup-banners
 [$domain=/^tv[0-9]+\.wiki/]##.custom_banner_wrap
