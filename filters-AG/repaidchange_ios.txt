@@ -1,3 +1,4 @@
+*$image,domain=tvwiki2.tv|tvwiki2.tv|tvwiki3.tv|tvwiki4.tv|tvwiki5.tv|tvwiki6.tv|tvwiki7.tv|tvwiki8.tv|tvwiki9.tv|tvwiki10.tv
 manatoki468.net,manatoki489.net,manatoki490.net,manatoki491.net,manatoki492.net,manatoki493.net,manatoki494.net,manatoki495.net,manatoki496.net##[style="margin-bottom: 20px;"].row.row-15
 manatoki468.net,manatoki489.net,manatoki490.net,manatoki491.net,manatoki492.net,manatoki493.net,manatoki494.net,manatoki495.net,manatoki496.net##.basic-banner.row.row-10
 manatoki468.net,manatoki489.net,manatoki490.net,manatoki491.net,manatoki492.net,manatoki493.net,manatoki494.net,manatoki495.net,manatoki496.net##.board-tail-banner
