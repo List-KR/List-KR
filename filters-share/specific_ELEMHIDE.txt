@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 
+ilbe.com###container > .vote_list:has(> a[href="/member/poll?idx=11594093073"])
 ilbe.com###sponser_ad_new
 ilbe.com###g123_game_ad_container_wrapper
 m.ruliweb.com##.main_center .line_deco_bottom:has(div[class^="ad_"]:only-child)

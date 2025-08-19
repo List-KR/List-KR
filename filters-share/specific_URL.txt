@@ -1,3 +1,4 @@
+*$denyallow=ilbe.com,script,xmlhttprequest,domain=ilbe.com
 ||i.postimg.cc^$domain=m-sooriya.tistory.com
 ||t1.daumcdn.net/top/daum/op/chanel/
 ||t1.daumcdn.net/top/daum/op/smartfarm/
