@@ -1,3 +1,5 @@
+.gif$domain=torrentpi150.com|torrentpi151.com|torrentpi152.com|torrentpi153.com|torrentpi154.com|torrentpi155.com|torrentpi156.com|torrentpi157.com|torrentpi158.com|torrentpi159.com|torrentpi160.com
+||torrentpi*.com/data/file/ad/$domain=torrentpi150.com|torrentpi151.com|torrentpi152.com|torrentpi153.com|torrentpi154.com|torrentpi155.com|torrentpi156.com|torrentpi157.com|torrentpi158.com|torrentpi159.com|torrentpi160.com
 *$image,domain=tvwiki2.tv|tvwiki2.tv|tvwiki3.tv|tvwiki4.tv|tvwiki5.tv|tvwiki6.tv|tvwiki7.tv|tvwiki8.tv|tvwiki9.tv|tvwiki10.tv
 torrentbot200.site,torrentbot201.site,torrentbot202.site,torrentbot203.site,torrentbot204.site,torrentbot205.site,torrentbot206.site,torrentbot207.site,torrentbot208.site##a[href^="/go/"][target="_blank"]
 torrentbot200.site,torrentbot201.site,torrentbot202.site,torrentbot203.site,torrentbot204.site,torrentbot205.site,torrentbot206.site,torrentbot207.site,torrentbot208.site##div[id^="ad_"]
