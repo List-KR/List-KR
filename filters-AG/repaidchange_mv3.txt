@@ -1,3 +1,4 @@
+||i.imgur.com^$domain=torrentqq381.com|torrentqq382.com|torrentqq383.com|torrentqq384.com|torrentqq385.com|torrentqq386.com|torrentqq387.com|torrentqq388.com|torrentqq389.com
 .gif$domain=torrentpi150.com|torrentpi151.com|torrentpi152.com|torrentpi153.com|torrentpi154.com|torrentpi155.com|torrentpi156.com|torrentpi157.com|torrentpi158.com|torrentpi159.com|torrentpi160.com
 ||torrentpi*.com/data/file/ad/$domain=torrentpi150.com|torrentpi151.com|torrentpi152.com|torrentpi153.com|torrentpi154.com|torrentpi155.com|torrentpi156.com|torrentpi157.com|torrentpi158.com|torrentpi159.com|torrentpi160.com
 *$image,domain=tvwiki2.tv|tvwiki2.tv|tvwiki3.tv|tvwiki4.tv|tvwiki5.tv|tvwiki6.tv|tvwiki7.tv|tvwiki8.tv|tvwiki9.tv|tvwiki10.tv
