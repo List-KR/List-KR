@@ -1,3 +1,4 @@
+||cdn.011st.com^$app=com.towneers.www
 ||graph.facebook.com^$app=viva.republica.toss
 ||fundingchoicesmessages.google.com^$app=com.dencreak.spbook
 ||settings.cashwalk.io/cashwalk/*/notice/notice2_main|
