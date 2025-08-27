@@ -1,3 +1,4 @@
+||ssl.pstatic.net/t.static.blog/mylog/versioning/SspAdPost-
 ||nate.com/js/common/natead_
 ||nate.com/js/data/jsonAdFunFun.js
 ||static.kbdmp.com/moa/moa_ads_
