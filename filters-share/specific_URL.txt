@@ -1,3 +1,5 @@
+||nate.com/js/common/natead_
+||nate.com/js/data/jsonAdFunFun.js
 ||static.kbdmp.com/moa/moa_ads_
 *$denyallow=ilbe.com,script,xmlhttprequest,domain=ilbe.com
 ||i.postimg.cc^$domain=m-sooriya.tistory.com
