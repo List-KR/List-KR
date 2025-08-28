@@ -57,6 +57,8 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 
+coupang.com###srpKeywordProductTopBanner
+coupang.com###srp-bottom-carousel-dco-container
 ilbe.com###container > .vote_list:has(> a[href="/member/poll?idx=11594093073"])
 ilbe.com###sponser_ad_new
 ilbe.com###g123_game_ad_container_wrapper
