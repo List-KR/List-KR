@@ -1,1 +1,2 @@
-!
+! https://github.com/AdguardTeam/AdguardFilters/issues/208160
+@@||m.sktuniverse.co.kr/html/template/*.html$xmlhttprequest,elemhide,jsinject,extension
