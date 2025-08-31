@@ -1,4 +1,3 @@
-||static.sooplive.co.kr/asset/service/da/AdParameter.js
 ||prod.danawa.com/list/ajax/getAdSmartProductList.ajax.php
 ||img.danawa.com/ui_category/topBanner/
 ||ssl.pstatic.net/t.static.blog/mylog/versioning/SspAdPost-
