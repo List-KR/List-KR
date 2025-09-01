@@ -1,3 +1,4 @@
+||admize.io^
 ||adguru.kr^$third-party
 ||image.cauly.co.kr^
 ||bridgelabs.kr^
