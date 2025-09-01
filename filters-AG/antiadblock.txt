@@ -103,6 +103,11 @@ t.hi098123.com#@#ins.adsbygoogle[data-ad-slot]
 !#safari_cb_affinity
 t.hi098123.com#$#.tabad { top: -100px !important; }
 !
+mylocation.co.kr#%#//scriptlet('prevent-setTimeout', 'adBlockedMessage')
+!#if (adguard_app_ios || adguard_ext_safari)
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mylocation.co.kr
+@@||mylocation.co.kr^$generichide
+!#endif
 ||shana.pe.kr/shana_check/csb3.js
 remiz.co.kr#%#//scriptlet('spoof-css', '.adsbygoogle', 'display', 'block')
 remiz.co.kr#@#.ad-body
