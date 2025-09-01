@@ -62,7 +62,6 @@ kyobobook.co.kr#%#//scriptlet('remove-attr', 'placeholder', 'input#searchMainKey
 kyobobook.co.kr#%#//scriptlet('remove-attr', 'placeholder', 'input#searchKeyword')
 mjmedi.com#%#//scriptlet('abort-current-inline-script', 'bannerpop.popup')
 laftel.net#%#//scriptlet('prevent-xhr', 'api/avods/v1/advertisement')
-uwayapply.com#%#//scriptlet('set-constant', 'admode', '0')
 tvchosun.com#%#//scriptlet('set-constant', 'player.advertisement_finished', 'true')
 cfnews.kr#%#//scriptlet('abort-current-inline-script', 'window.open', '/gears/popup/default.aspx')
 sjtoday.kr#%#//scriptlet('abort-current-inline-script', 'window.open', 'notice_view_html.php')

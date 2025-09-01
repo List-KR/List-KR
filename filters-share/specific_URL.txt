@@ -1,3 +1,4 @@
+||uwayapply.com/js/adscript_
 ||prod.danawa.com/list/ajax/getAdSmartProductList.ajax.php
 ||img.danawa.com/ui_category/topBanner/
 ||ssl.pstatic.net/t.static.blog/mylog/versioning/SspAdPost-
@@ -491,7 +492,6 @@
 !#endif
 ||tv.nate.com/adv/
 ||pervsi.com/info/skin_board/m/img/coupang.jpeg
-||uwayapply.com/img/common/frame_bn_btn
 ||image.laftel.net/guango/
 ||hairshop.kakao.com/proxy/app/*/search/around/hair-shops/ad|
 ||community.rememberapp.co.kr/_next/image?url=*%2Fuploads%2Fbanner%2F
