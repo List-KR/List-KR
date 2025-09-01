@@ -51,7 +51,7 @@ t.hi098123.com#@#ins.adsbygoogle[data-ad-slot]
 t.hi098123.com#$#.tabad { top: -100px !important; }
 !
 mylocation.co.kr##+js(nostif, adBlockedMessage)
-||shana.pe.kr/shana_check/csb3.js
+||shana.pe.kr/shana_check/csb*.js$script
 remiz.co.kr##+js(spoof-css, .adsbygoogle, display, block)
 remiz.co.kr#@#.ad-body
 checkwhoiam.tistory.com##+js(set, adblockChecker, noopFunc)

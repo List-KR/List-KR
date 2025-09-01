@@ -27,7 +27,7 @@ te31.com#@#.text_ads
 !
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mylocation.co.kr
 @@||mylocation.co.kr^$generichide
-||shana.pe.kr/shana_check/csb3.js
+||shana.pe.kr/shana_check/csb*.js$script
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=vod.jtbc.co.kr
 vod.jtbc.co.kr#@#.ad-unit:not(.textads)
 vod.jtbc.co.kr#@#.ad-zone:not(.textads)
