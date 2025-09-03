@@ -1,3 +1,4 @@
+||ssl.pstatic.net/t.static.blog/mylog/versioning//js/post/ssp/SspAdContentCallerFor
 ||uwayapply.com/js/adscript_
 ||prod.danawa.com/list/ajax/getAdSmartProductList.ajax.php
 ||img.danawa.com/ui_category/topBanner/
