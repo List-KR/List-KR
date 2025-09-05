@@ -50,7 +50,7 @@ t.hi098123.com#@#ins.adsbygoogle[data-ad-slot]
 @@||googletagmanager.com/gtag/js$domain=t.hi098123.com,script
 t.hi098123.com#$#.tabad { top: -100px !important; }
 !
-chzzkban.xyz##+js(norafif, window.getComputedStyle()
+chzzkban.xyz##+js(norafif, window.getComputedStyle())
 mylocation.co.kr##+js(nostif, adBlockedMessage)
 ||shana.pe.kr/shana_check/csb*.js$script
 remiz.co.kr##+js(spoof-css, .adsbygoogle, display, block)
