@@ -98,6 +98,28 @@
 !#include antiadblockplus/filters-share/removeparam.txt
 !#include antiadblockplus/filters-uBO/allowlist.txt
 !#include antiadblockplus/filters-uBO/specific_URL.txt
+
+!#include international/filters-share/3rd_domains.txt
+!#include international/filters-share/1st_domains.txt
+!#include international/filters-share/general_elemhide.txt
+!#include international/filters-uBO/specific_ELEMHIDE.txt
+!#include international/filters-share/general_url.txt
+!#include international/filters-uBO/general_url.txt
+!#include international/filters-share/specific_URL.txt
+!#include international/filters-share/specific_ELEMHIDE.txt
+!#include international/filters-share/allowlist.txt
+!#include international/filters-share/extended_css_ELEMHIDE.txt
+!#include international/filters-share/extended_css_INJECTION.txt
+!#include international/filters-uBO/specific_REDIRECT.txt
+!#include international/filters-uBO/extended_css_ELEMHIDE.txt
+!#include international/filters-uBO/extended_css_INJECTION.txt
+!#include international/filters-uBO/scriptlets.txt
+!#include international/filters-share/javascript.txt
+!#include international/filters-uBO/javascript.txt
+!#include international/filters-uBO/antiadblock.txt
+!#include international/filters-share/removeparam.txt
+!#include international/filters-uBO/allowlist.txt
+!#include international/filters-uBO/specific_URL.txt
 !#endif
 
 !#if cap_user_stylesheet
@@ -112,6 +134,9 @@
 
 !#include antiadblockplus/filters-share/specific_CSS.txt
 !#include antiadblockplus/filters-uBO/specific_CSS.txt
+
+!#include international/filters-share/specific_CSS.txt
+!#include international/filters-uBO/specific_CSS.txt
 !#endif
 
 !#if cap_html_filtering
@@ -122,4 +147,6 @@
 !#include annoyance/filters-uBO/html_filtering.txt
 
 !#include antiadblockplus/filters-uBO/html_filtering.txt
+
+!#include international/filters-uBO/html_filtering.txt
 !#endif

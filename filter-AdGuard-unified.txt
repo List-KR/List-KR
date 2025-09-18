@@ -58,6 +58,18 @@
 !#include antiadblockplus/filters-share/allowlist.txt
 !#include antiadblockplus/filters-AG/allowlist.txt
 !#include antiadblockplus/filters-AG/specific_URL.txt
+
+!#include international/filters-share/3rd_domains.txt
+!#include international/filters-share/1st_domains.txt
+!#include international/filters-share/general_elemhide.txt
+!#include international/filters-AG/specific_ELEMHIDE.txt
+!#include international/filters-share/general_url.txt
+!#include international/filters-AG/general_url.txt
+!#include international/filters-share/specific_URL.txt
+!#include international/filters-share/specific_ELEMHIDE.txt
+!#include international/filters-share/allowlist.txt
+!#include international/filters-AG/allowlist.txt
+!#include international/filters-AG/specific_URL.txt
 !#endif
 
 !#if (adguard && !adguard_ext_android_cb)
@@ -104,6 +116,17 @@
 !#include antiadblockplus/filters-share/javascript.txt
 !#include antiadblockplus/filters-AG/javascript.txt
 !#include antiadblockplus/filters-AG/antiadblock.txt
+
+!#include international/filters-share/specific_CSS.txt
+!#include international/filters-AG/specific_CSS.txt
+!#include international/filters-share/extended_css_ELEMHIDE.txt
+!#include international/filters-share/extended_css_INJECTION.txt
+!#include international/filters-AG/extended_css_ELEMHIDE.txt
+!#include international/filters-AG/extended_css_INJECTION.txt
+!#include international/filters-AG/scriptlets.txt
+!#include international/filters-share/javascript.txt
+!#include international/filters-AG/javascript.txt
+!#include international/filters-AG/antiadblock.txt
 !#endif
 
 !#if (adguard && !adguard_app_ios && !adguard_ext_safari)
@@ -114,6 +137,8 @@
 !#include annoyance/filters-AG/specific_REDIRECT.txt
 
 !#include antiadblockplus/filters-AG/specific_REDIRECT.txt
+
+!#include international/filters-AG/specific_REDIRECT.txt
 !#endif
 
 !#if (adguard && adguard_ext_android_cb)
@@ -124,6 +149,8 @@
 !#include annoyance/filters-AG/contentblocker.txt
 
 !#include antiadblockplus/filters-AG/contentblocker.txt
+
+!#include international/filters-AG/contentblocker.txt
 !#endif
 
 !#if (adguard && (adguard_ext_firefox || adguard_app_windows || adguard_app_mac || adguard_app_android))
@@ -134,6 +161,8 @@
 !#include annoyance/filters-AG/html_filtering.txt
 
 !#include antiadblockplus/filters-AG/html_filtering.txt
+
+!#include international/filters-AG/html_filtering.txt
 !#endif
 
 !#if (adguard && (adguard_app_windows || adguard_app_mac || adguard_app_android || adguard_ext_firefox || adguard_ext_chromium || adguard_ext_edge ))
@@ -144,6 +173,8 @@
 !#include annoyance/filters-share/removeparam.txt
 
 !#include antiadblockplus/filters-share/removeparam.txt
+
+!#include international/filters-share/removeparam.txt
 !#endif
 
 !#if (adguard && adguard_app_android)
@@ -170,6 +201,12 @@
 !#include antiadblockplus/filters-AG/mobile/android/android_app.txt
 !#include antiadblockplus/filters-AG/mobile/android/android_specific.txt
 !#include antiadblockplus/filters-AG/mobile/android/antiadblock_android_app.txt
+
+!#include international/filters-AG/mobile/android/allowlist.txt
+!#include international/filters-AG/mobile/android/allowlist_android_app.txt
+!#include international/filters-AG/mobile/android/android_app.txt
+!#include international/filters-AG/mobile/android/android_specific.txt
+!#include international/filters-AG/mobile/android/antiadblock_android_app.txt
 !#endif
 
 !#if (adguard && adguard_app_ios)
@@ -192,6 +229,11 @@
 !#include antiadblockplus/filters-AG/mobile/ios/antiadblock_ios_app.txt
 !#include antiadblockplus/filters-AG/mobile/ios/ios_app.txt
 !#include antiadblockplus/filters-AG/mobile/ios/ios_specific.txt
+
+!#include international/filters-AG/mobile/ios/allowlist_ios_app.txt
+!#include international/filters-AG/mobile/ios/antiadblock_ios_app.txt
+!#include international/filters-AG/mobile/ios/ios_app.txt
+!#include international/filters-AG/mobile/ios/ios_specific.txt
 !#endif
 
 !#if (adguard && adguard_app_windows)
@@ -210,6 +252,10 @@
 !#include antiadblockplus/filters-AG/desktop/windows_app/allowlist.txt
 !#include antiadblockplus/filters-AG/desktop/windows_app/antiadblock.txt
 !#include antiadblockplus/filters-AG/desktop/windows_app/specific_URL.txt
+
+!#include international/filters-AG/desktop/windows_app/allowlist.txt
+!#include international/filters-AG/desktop/windows_app/antiadblock.txt
+!#include international/filters-AG/desktop/windows_app/specific_URL.txt
 !#endif
 
 !#if (adguard && adguard_app_mac)
@@ -228,6 +274,10 @@
 !#include antiadblockplus/filters-AG/desktop/macos_app/allowlist.txt
 !#include antiadblockplus/filters-AG/desktop/macos_app/antiadblock.txt
 !#include antiadblockplus/filters-AG/desktop/macos_app/specific_URL.txt
+
+!#include international/filters-AG/desktop/macos_app/allowlist.txt
+!#include international/filters-AG/desktop/macos_app/antiadblock.txt
+!#include international/filters-AG/desktop/macos_app/specific_URL.txt
 !#endif
 
 !#if (adguard && adguard_app_ios)
@@ -238,4 +288,6 @@
 !#include annoyance/filters-AG/repaidchange_ios.txt
 
 !#include antiadblockplus/filters-AG/repaidchange_ios.txt
+
+!#include international/filters-AG/repaidchange_ios.txt
 !#endif
