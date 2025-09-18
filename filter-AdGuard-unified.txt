@@ -1,0 +1,293 @@
+[AdGuard]
+! Title: List-KR for AdGuard
+! Description: List-KR for AdGuard. Maintained by the adblock community and AdGuard.
+! Version: 2025.0918.0
+! Expires: 1 day
+! Homepage: https://github.com/List-KR/List-KR
+! Support: https://list-kr-community.pages.dev/docs/
+! License: https://github.com/List-KR/List-KR/blob/master/LICENSE
+!
+! Version must be UTC format.
+!
+
+!#if adguard
+!#include adblocking/filters-share/3rd_domains.txt
+!#include adblocking/filters-share/1st_domains.txt
+!#include adblocking/filters-share/general_elemhide.txt
+!#include adblocking/filters-AG/specific_ELEMHIDE.txt
+!#include adblocking/filters-share/general_url.txt
+!#include adblocking/filters-AG/general_url.txt
+!#include adblocking/filters-share/specific_URL.txt
+!#include adblocking/filters-share/specific_ELEMHIDE.txt
+!#include adblocking/filters-share/allowlist.txt
+!#include adblocking/filters-AG/allowlist.txt
+!#include adblocking/filters-AG/specific_URL.txt
+
+!#include analytics/filters-share/3rd_domains.txt
+!#include analytics/filters-share/1st_domains.txt
+!#include analytics/filters-share/general_elemhide.txt
+!#include analytics/filters-AG/specific_ELEMHIDE.txt
+!#include analytics/filters-share/general_url.txt
+!#include analytics/filters-AG/general_url.txt
+!#include analytics/filters-share/specific_URL.txt
+!#include analytics/filters-share/specific_ELEMHIDE.txt
+!#include analytics/filters-share/allowlist.txt
+!#include analytics/filters-AG/allowlist.txt
+!#include analytics/filters-AG/specific_URL.txt
+
+!#include annoyance/filters-share/3rd_domains.txt
+!#include annoyance/filters-share/1st_domains.txt
+!#include annoyance/filters-share/general_elemhide.txt
+!#include annoyance/filters-AG/specific_ELEMHIDE.txt
+!#include annoyance/filters-share/general_url.txt
+!#include annoyance/filters-AG/general_url.txt
+!#include annoyance/filters-share/specific_URL.txt
+!#include annoyance/filters-share/specific_ELEMHIDE.txt
+!#include annoyance/filters-share/allowlist.txt
+!#include annoyance/filters-AG/allowlist.txt
+!#include annoyance/filters-AG/specific_URL.txt
+
+!#include antiadblockplus/filters-share/3rd_domains.txt
+!#include antiadblockplus/filters-share/1st_domains.txt
+!#include antiadblockplus/filters-share/general_elemhide.txt
+!#include antiadblockplus/filters-AG/specific_ELEMHIDE.txt
+!#include antiadblockplus/filters-share/general_url.txt
+!#include antiadblockplus/filters-AG/general_url.txt
+!#include antiadblockplus/filters-share/specific_URL.txt
+!#include antiadblockplus/filters-share/specific_ELEMHIDE.txt
+!#include antiadblockplus/filters-share/allowlist.txt
+!#include antiadblockplus/filters-AG/allowlist.txt
+!#include antiadblockplus/filters-AG/specific_URL.txt
+
+!#include international/filters-share/3rd_domains.txt
+!#include international/filters-share/1st_domains.txt
+!#include international/filters-share/general_elemhide.txt
+!#include international/filters-AG/specific_ELEMHIDE.txt
+!#include international/filters-share/general_url.txt
+!#include international/filters-AG/general_url.txt
+!#include international/filters-share/specific_URL.txt
+!#include international/filters-share/specific_ELEMHIDE.txt
+!#include international/filters-share/allowlist.txt
+!#include international/filters-AG/allowlist.txt
+!#include international/filters-AG/specific_URL.txt
+!#endif
+
+!#if (adguard && !adguard_ext_android_cb)
+!#include adblocking/filters-share/specific_CSS.txt
+!#include adblocking/filters-AG/specific_CSS.txt
+!#include adblocking/filters-share/extended_css_ELEMHIDE.txt
+!#include adblocking/filters-share/extended_css_INJECTION.txt
+!#include adblocking/filters-AG/extended_css_ELEMHIDE.txt
+!#include adblocking/filters-AG/extended_css_INJECTION.txt
+!#include adblocking/filters-AG/scriptlets.txt
+!#include adblocking/filters-share/javascript.txt
+!#include adblocking/filters-AG/javascript.txt
+!#include adblocking/filters-AG/antiadblock.txt
+
+!#include analytics/filters-share/specific_CSS.txt
+!#include analytics/filters-AG/specific_CSS.txt
+!#include analytics/filters-share/extended_css_ELEMHIDE.txt
+!#include analytics/filters-share/extended_css_INJECTION.txt
+!#include analytics/filters-AG/extended_css_ELEMHIDE.txt
+!#include analytics/filters-AG/extended_css_INJECTION.txt
+!#include analytics/filters-AG/scriptlets.txt
+!#include analytics/filters-share/javascript.txt
+!#include analytics/filters-AG/javascript.txt
+!#include analytics/filters-AG/antiadblock.txt
+
+!#include annoyance/filters-share/specific_CSS.txt
+!#include annoyance/filters-AG/specific_CSS.txt
+!#include annoyance/filters-share/extended_css_ELEMHIDE.txt
+!#include annoyance/filters-share/extended_css_INJECTION.txt
+!#include annoyance/filters-AG/extended_css_ELEMHIDE.txt
+!#include annoyance/filters-AG/extended_css_INJECTION.txt
+!#include annoyance/filters-AG/scriptlets.txt
+!#include annoyance/filters-share/javascript.txt
+!#include annoyance/filters-AG/javascript.txt
+!#include annoyance/filters-AG/antiadblock.txt
+
+!#include antiadblockplus/filters-share/specific_CSS.txt
+!#include antiadblockplus/filters-AG/specific_CSS.txt
+!#include antiadblockplus/filters-share/extended_css_ELEMHIDE.txt
+!#include antiadblockplus/filters-share/extended_css_INJECTION.txt
+!#include antiadblockplus/filters-AG/extended_css_ELEMHIDE.txt
+!#include antiadblockplus/filters-AG/extended_css_INJECTION.txt
+!#include antiadblockplus/filters-AG/scriptlets.txt
+!#include antiadblockplus/filters-share/javascript.txt
+!#include antiadblockplus/filters-AG/javascript.txt
+!#include antiadblockplus/filters-AG/antiadblock.txt
+
+!#include international/filters-share/specific_CSS.txt
+!#include international/filters-AG/specific_CSS.txt
+!#include international/filters-share/extended_css_ELEMHIDE.txt
+!#include international/filters-share/extended_css_INJECTION.txt
+!#include international/filters-AG/extended_css_ELEMHIDE.txt
+!#include international/filters-AG/extended_css_INJECTION.txt
+!#include international/filters-AG/scriptlets.txt
+!#include international/filters-share/javascript.txt
+!#include international/filters-AG/javascript.txt
+!#include international/filters-AG/antiadblock.txt
+!#endif
+
+!#if (adguard && !adguard_app_ios && !adguard_ext_safari)
+!#include adblocking/filters-AG/specific_REDIRECT.txt
+
+!#include analytics/filters-AG/specific_REDIRECT.txt
+
+!#include annoyance/filters-AG/specific_REDIRECT.txt
+
+!#include antiadblockplus/filters-AG/specific_REDIRECT.txt
+
+!#include international/filters-AG/specific_REDIRECT.txt
+!#endif
+
+!#if (adguard && adguard_ext_android_cb)
+!#include adblocking/filters-AG/contentblocker.txt
+
+!#include analytics/filters-AG/contentblocker.txt
+
+!#include annoyance/filters-AG/contentblocker.txt
+
+!#include antiadblockplus/filters-AG/contentblocker.txt
+
+!#include international/filters-AG/contentblocker.txt
+!#endif
+
+!#if (adguard && (adguard_ext_firefox || adguard_app_windows || adguard_app_mac || adguard_app_android))
+!#include adblocking/filters-AG/html_filtering.txt
+
+!#include analytics/filters-AG/html_filtering.txt
+
+!#include annoyance/filters-AG/html_filtering.txt
+
+!#include antiadblockplus/filters-AG/html_filtering.txt
+
+!#include international/filters-AG/html_filtering.txt
+!#endif
+
+!#if (adguard && (adguard_app_windows || adguard_app_mac || adguard_app_android || adguard_ext_firefox || adguard_ext_chromium || adguard_ext_edge ))
+!#include adblocking/filters-share/removeparam.txt
+
+!#include analytics/filters-share/removeparam.txt
+
+!#include annoyance/filters-share/removeparam.txt
+
+!#include antiadblockplus/filters-share/removeparam.txt
+
+!#include international/filters-share/removeparam.txt
+!#endif
+
+!#if (adguard && adguard_app_android)
+!#include adblocking/filters-AG/mobile/android/allowlist.txt
+!#include adblocking/filters-AG/mobile/android/allowlist_android_app.txt
+!#include adblocking/filters-AG/mobile/android/android_app.txt
+!#include adblocking/filters-AG/mobile/android/android_specific.txt
+!#include adblocking/filters-AG/mobile/android/antiadblock_android_app.txt
+
+!#include analytics/filters-AG/mobile/android/allowlist.txt
+!#include analytics/filters-AG/mobile/android/allowlist_android_app.txt
+!#include analytics/filters-AG/mobile/android/android_app.txt
+!#include analytics/filters-AG/mobile/android/android_specific.txt
+!#include analytics/filters-AG/mobile/android/antiadblock_android_app.txt
+
+!#include annoyance/filters-AG/mobile/android/allowlist.txt
+!#include annoyance/filters-AG/mobile/android/allowlist_android_app.txt
+!#include annoyance/filters-AG/mobile/android/android_app.txt
+!#include annoyance/filters-AG/mobile/android/android_specific.txt
+!#include annoyance/filters-AG/mobile/android/antiadblock_android_app.txt
+
+!#include antiadblockplus/filters-AG/mobile/android/allowlist.txt
+!#include antiadblockplus/filters-AG/mobile/android/allowlist_android_app.txt
+!#include antiadblockplus/filters-AG/mobile/android/android_app.txt
+!#include antiadblockplus/filters-AG/mobile/android/android_specific.txt
+!#include antiadblockplus/filters-AG/mobile/android/antiadblock_android_app.txt
+
+!#include international/filters-AG/mobile/android/allowlist.txt
+!#include international/filters-AG/mobile/android/allowlist_android_app.txt
+!#include international/filters-AG/mobile/android/android_app.txt
+!#include international/filters-AG/mobile/android/android_specific.txt
+!#include international/filters-AG/mobile/android/antiadblock_android_app.txt
+!#endif
+
+!#if (adguard && adguard_app_ios)
+!#include adblocking/filters-AG/mobile/ios/allowlist_ios_app.txt
+!#include adblocking/filters-AG/mobile/ios/antiadblock_ios_app.txt
+!#include adblocking/filters-AG/mobile/ios/ios_app.txt
+!#include adblocking/filters-AG/mobile/ios/ios_specific.txt
+
+!#include analytics/filters-AG/mobile/ios/allowlist_ios_app.txt
+!#include analytics/filters-AG/mobile/ios/antiadblock_ios_app.txt
+!#include analytics/filters-AG/mobile/ios/ios_app.txt
+!#include analytics/filters-AG/mobile/ios/ios_specific.txt
+
+!#include annoyance/filters-AG/mobile/ios/allowlist_ios_app.txt
+!#include annoyance/filters-AG/mobile/ios/antiadblock_ios_app.txt
+!#include annoyance/filters-AG/mobile/ios/ios_app.txt
+!#include annoyance/filters-AG/mobile/ios/ios_specific.txt
+
+!#include antiadblockplus/filters-AG/mobile/ios/allowlist_ios_app.txt
+!#include antiadblockplus/filters-AG/mobile/ios/antiadblock_ios_app.txt
+!#include antiadblockplus/filters-AG/mobile/ios/ios_app.txt
+!#include antiadblockplus/filters-AG/mobile/ios/ios_specific.txt
+
+!#include international/filters-AG/mobile/ios/allowlist_ios_app.txt
+!#include international/filters-AG/mobile/ios/antiadblock_ios_app.txt
+!#include international/filters-AG/mobile/ios/ios_app.txt
+!#include international/filters-AG/mobile/ios/ios_specific.txt
+!#endif
+
+!#if (adguard && adguard_app_windows)
+!#include adblocking/filters-AG/desktop/windows_app/allowlist.txt
+!#include adblocking/filters-AG/desktop/windows_app/antiadblock.txt
+!#include adblocking/filters-AG/desktop/windows_app/specific_URL.txt
+
+!#include analytics/filters-AG/desktop/windows_app/allowlist.txt
+!#include analytics/filters-AG/desktop/windows_app/antiadblock.txt
+!#include analytics/filters-AG/desktop/windows_app/specific_URL.txt
+
+!#include annoyance/filters-AG/desktop/windows_app/allowlist.txt
+!#include annoyance/filters-AG/desktop/windows_app/antiadblock.txt
+!#include annoyance/filters-AG/desktop/windows_app/specific_URL.txt
+
+!#include antiadblockplus/filters-AG/desktop/windows_app/allowlist.txt
+!#include antiadblockplus/filters-AG/desktop/windows_app/antiadblock.txt
+!#include antiadblockplus/filters-AG/desktop/windows_app/specific_URL.txt
+
+!#include international/filters-AG/desktop/windows_app/allowlist.txt
+!#include international/filters-AG/desktop/windows_app/antiadblock.txt
+!#include international/filters-AG/desktop/windows_app/specific_URL.txt
+!#endif
+
+!#if (adguard && adguard_app_mac)
+!#include adblocking/filters-AG/desktop/macos_app/allowlist.txt
+!#include adblocking/filters-AG/desktop/macos_app/antiadblock.txt
+!#include adblocking/filters-AG/desktop/macos_app/specific_URL.txt
+
+!#include analytics/filters-AG/desktop/macos_app/allowlist.txt
+!#include analytics/filters-AG/desktop/macos_app/antiadblock.txt
+!#include analytics/filters-AG/desktop/macos_app/specific_URL.txt
+
+!#include annoyance/filters-AG/desktop/macos_app/allowlist.txt
+!#include annoyance/filters-AG/desktop/macos_app/antiadblock.txt
+!#include annoyance/filters-AG/desktop/macos_app/specific_URL.txt
+
+!#include antiadblockplus/filters-AG/desktop/macos_app/allowlist.txt
+!#include antiadblockplus/filters-AG/desktop/macos_app/antiadblock.txt
+!#include antiadblockplus/filters-AG/desktop/macos_app/specific_URL.txt
+
+!#include international/filters-AG/desktop/macos_app/allowlist.txt
+!#include international/filters-AG/desktop/macos_app/antiadblock.txt
+!#include international/filters-AG/desktop/macos_app/specific_URL.txt
+!#endif
+
+!#if (adguard && adguard_app_ios)
+!#include adblocking/filters-AG/repaidchange_ios.txt
+
+!#include analytics/filters-AG/repaidchange_ios.txt
+
+!#include annoyance/filters-AG/repaidchange_ios.txt
+
+!#include antiadblockplus/filters-AG/repaidchange_ios.txt
+
+!#include international/filters-AG/repaidchange_ios.txt
+!#endif

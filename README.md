@@ -1,7 +1,5 @@
 # List-KR
 
-[List-KR 커뮤니티 페이지에 방문](https://list-kr-community.pages.dev)하여 AdGuard, uBlock Origin, 그리고 List-KR에 대해 더 알아볼 수 있습니다.
-
 관련된 질문은 [List-KR Discussions](https://github.com/orgs/List-KR/discussions)에 남겨주세요.
 
 ---
@@ -11,11 +9,12 @@
 List-KR은 애드블록 커뮤니티와 AdGuard에서 관리하는 한국어 광고 차단 필터입니다.
 
 지원하는 광고 차단기는 AdGuard와 uBlock Origin입니다.
-AdGuard 플렛폼에서는 별도의 안내가 없는 경우 AdGuard 베이스 필터와 함께 사용하셔야 최상의 결과를 얻으실 수 있습니다.
 
-또 AdGuard에서 제공하는 추적 보호 필터, URL 추적 필터 그리고 방해 요소 필터 또한 함께 사용하면 웹 사이트에 설치된 추적기나 우클릭 방지 스크립트도 효율적으로 차단할 수 있습니다.
+이메일을 통한 비공개 지원이 필요하시면 각 기여자의 GitHub 프로필에서 연락처를 확인하실 수 있습니다.
 
-이메일을 통한 비공개 지원이 필요하시면 [list-kr-community.pages.dev의 연락처 문서](https://list-kr-community.pages.dev/docs/)에서 연락처를 확인하실 수 있습니다.
+AdGuard에 사전 탑재된 List-KR 필터 리스트는 광고와 AdGuard에서 수용하기로 결정한 법적 요청을 제외한 안티-애드블록을 처리합니다.
+그러나, cdn.jsdelivr.net로 배포되는 필터 리스트들은 광고, 각 기여자가 책임을 지는 안티-애드블록, 추적기, 방해 요소 등을 처리합니다.
+`filter-<PLATFORM>-unified.txt` 버전은 cdn.jsdelivr.net로 배포되는 필터 리스트 버전에 YouTube 같은 한국에서도 높은 트래픽을 가진 국제 웹 사이트에 대한 대응도 포함됩니다.
 
 ## 사용법
 
@@ -36,6 +35,15 @@ https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filter-AdGuard.txt
 https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filter-uBlockOrigin.txt
 ```
 
+**AdGuard Unified**:
+```
+https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filter-AdGuard-unified.txt
+```
+**uBlock Origin Unified**:
+```
+https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filter-uBlockOrigin-unified.txt
+```
+
 **List-KR DNS**:
 ```
 https://cdn.jsdelivr.net/gh/adguardteam/HostlistsRegistry@main/assets/filter_25.txt
@@ -45,7 +53,7 @@ https://cdn.jsdelivr.net/gh/adguardteam/HostlistsRegistry@main/assets/filter_25.
 
 광고 차단기에서 제공하는 기능만으로는 일부 복잡한 광고를 효율적으로 차단할 수 없습니다.
 
-아래 사이트인 경우에는 [tinyShield 설치 방법](https://github.com/List-KR/tinyShield/blob/main/README.ko.md)을 참고하셔서 tinyShield 유저스크립트를 설치하셔야 합니다:
+아래 사이트인 경우에는 [tinyShield 설치 방법](https://github.com/FilteringDev/tinyShield/blob/main/README.ko.md)을 참고하셔서 tinyShield 유저스크립트를 설치하셔야 합니다:
  - m.inven.co.kr
  - loawa.com
  - mlbpark.donga.com

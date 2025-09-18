@@ -1,0 +1,152 @@
+[uBlock Origin]
+! Title: List-KR for uBlock Origin
+! Description: List-KR for uBlock Origin. Maintained by the adblock community and AdGuard.
+! Version: 2025.0918.0
+! Expires: 12 hours
+! Homepage: https://github.com/List-KR/List-KR
+! Support: https://list-kr-community.pages.dev/docs/
+! License: https://github.com/List-KR/List-KR/blob/master/LICENSE
+!
+! Version must be UTC format.
+!
+
+!#if ext_ublock
+!#include adblocking/filters-share/3rd_domains.txt
+!#include adblocking/filters-share/1st_domains.txt
+!#include adblocking/filters-share/general_elemhide.txt
+!#include adblocking/filters-uBO/specific_ELEMHIDE.txt
+!#include adblocking/filters-share/general_url.txt
+!#include adblocking/filters-uBO/general_url.txt
+!#include adblocking/filters-share/specific_URL.txt
+!#include adblocking/filters-share/specific_ELEMHIDE.txt
+!#include adblocking/filters-share/allowlist.txt
+!#include adblocking/filters-share/extended_css_ELEMHIDE.txt
+!#include adblocking/filters-share/extended_css_INJECTION.txt
+!#include adblocking/filters-uBO/specific_REDIRECT.txt
+!#include adblocking/filters-uBO/extended_css_ELEMHIDE.txt
+!#include adblocking/filters-uBO/extended_css_INJECTION.txt
+!#include adblocking/filters-uBO/scriptlets.txt
+!#include adblocking/filters-share/javascript.txt
+!#include adblocking/filters-uBO/javascript.txt
+!#include adblocking/filters-uBO/antiadblock.txt
+!#include adblocking/filters-share/removeparam.txt
+!#include adblocking/filters-uBO/allowlist.txt
+!#include adblocking/filters-uBO/specific_URL.txt
+
+!#include analytics/filters-share/3rd_domains.txt
+!#include analytics/filters-share/1st_domains.txt
+!#include analytics/filters-share/general_elemhide.txt
+!#include analytics/filters-uBO/specific_ELEMHIDE.txt
+!#include analytics/filters-share/general_url.txt
+!#include analytics/filters-uBO/general_url.txt
+!#include analytics/filters-share/specific_URL.txt
+!#include analytics/filters-share/specific_ELEMHIDE.txt
+!#include analytics/filters-share/allowlist.txt
+!#include analytics/filters-share/extended_css_ELEMHIDE.txt
+!#include analytics/filters-share/extended_css_INJECTION.txt
+!#include analytics/filters-uBO/specific_REDIRECT.txt
+!#include analytics/filters-uBO/extended_css_ELEMHIDE.txt
+!#include analytics/filters-uBO/extended_css_INJECTION.txt
+!#include analytics/filters-uBO/scriptlets.txt
+!#include analytics/filters-share/javascript.txt
+!#include analytics/filters-uBO/javascript.txt
+!#include analytics/filters-uBO/antiadblock.txt
+!#include analytics/filters-share/removeparam.txt
+!#include analytics/filters-uBO/allowlist.txt
+!#include analytics/filters-uBO/specific_URL.txt
+
+!#include annoyance/filters-share/3rd_domains.txt
+!#include annoyance/filters-share/1st_domains.txt
+!#include annoyance/filters-share/general_elemhide.txt
+!#include annoyance/filters-uBO/specific_ELEMHIDE.txt
+!#include annoyance/filters-share/general_url.txt
+!#include annoyance/filters-uBO/general_url.txt
+!#include annoyance/filters-share/specific_URL.txt
+!#include annoyance/filters-share/specific_ELEMHIDE.txt
+!#include annoyance/filters-share/allowlist.txt
+!#include annoyance/filters-share/extended_css_ELEMHIDE.txt
+!#include annoyance/filters-share/extended_css_INJECTION.txt
+!#include annoyance/filters-uBO/specific_REDIRECT.txt
+!#include annoyance/filters-uBO/extended_css_ELEMHIDE.txt
+!#include annoyance/filters-uBO/extended_css_INJECTION.txt
+!#include annoyance/filters-uBO/scriptlets.txt
+!#include annoyance/filters-share/javascript.txt
+!#include annoyance/filters-uBO/javascript.txt
+!#include annoyance/filters-uBO/antiadblock.txt
+!#include annoyance/filters-share/removeparam.txt
+!#include annoyance/filters-uBO/allowlist.txt
+!#include annoyance/filters-uBO/specific_URL.txt
+
+!#include antiadblockplus/filters-share/3rd_domains.txt
+!#include antiadblockplus/filters-share/1st_domains.txt
+!#include antiadblockplus/filters-share/general_elemhide.txt
+!#include antiadblockplus/filters-uBO/specific_ELEMHIDE.txt
+!#include antiadblockplus/filters-share/general_url.txt
+!#include antiadblockplus/filters-uBO/general_url.txt
+!#include antiadblockplus/filters-share/specific_URL.txt
+!#include antiadblockplus/filters-share/specific_ELEMHIDE.txt
+!#include antiadblockplus/filters-share/allowlist.txt
+!#include antiadblockplus/filters-share/extended_css_ELEMHIDE.txt
+!#include antiadblockplus/filters-share/extended_css_INJECTION.txt
+!#include antiadblockplus/filters-uBO/specific_REDIRECT.txt
+!#include antiadblockplus/filters-uBO/extended_css_ELEMHIDE.txt
+!#include antiadblockplus/filters-uBO/extended_css_INJECTION.txt
+!#include antiadblockplus/filters-uBO/scriptlets.txt
+!#include antiadblockplus/filters-share/javascript.txt
+!#include antiadblockplus/filters-uBO/javascript.txt
+!#include antiadblockplus/filters-uBO/antiadblock.txt
+!#include antiadblockplus/filters-share/removeparam.txt
+!#include antiadblockplus/filters-uBO/allowlist.txt
+!#include antiadblockplus/filters-uBO/specific_URL.txt
+
+!#include international/filters-share/3rd_domains.txt
+!#include international/filters-share/1st_domains.txt
+!#include international/filters-share/general_elemhide.txt
+!#include international/filters-uBO/specific_ELEMHIDE.txt
+!#include international/filters-share/general_url.txt
+!#include international/filters-uBO/general_url.txt
+!#include international/filters-share/specific_URL.txt
+!#include international/filters-share/specific_ELEMHIDE.txt
+!#include international/filters-share/allowlist.txt
+!#include international/filters-share/extended_css_ELEMHIDE.txt
+!#include international/filters-share/extended_css_INJECTION.txt
+!#include international/filters-uBO/specific_REDIRECT.txt
+!#include international/filters-uBO/extended_css_ELEMHIDE.txt
+!#include international/filters-uBO/extended_css_INJECTION.txt
+!#include international/filters-uBO/scriptlets.txt
+!#include international/filters-share/javascript.txt
+!#include international/filters-uBO/javascript.txt
+!#include international/filters-uBO/antiadblock.txt
+!#include international/filters-share/removeparam.txt
+!#include international/filters-uBO/allowlist.txt
+!#include international/filters-uBO/specific_URL.txt
+!#endif
+
+!#if cap_user_stylesheet
+!#include adblocking/filters-share/specific_CSS.txt
+!#include adblocking/filters-uBO/specific_CSS.txt
+
+!#include analytics/filters-share/specific_CSS.txt
+!#include analytics/filters-uBO/specific_CSS.txt
+
+!#include annoyance/filters-share/specific_CSS.txt
+!#include annoyance/filters-uBO/specific_CSS.txt
+
+!#include antiadblockplus/filters-share/specific_CSS.txt
+!#include antiadblockplus/filters-uBO/specific_CSS.txt
+
+!#include international/filters-share/specific_CSS.txt
+!#include international/filters-uBO/specific_CSS.txt
+!#endif
+
+!#if cap_html_filtering
+!#include adblocking/filters-uBO/html_filtering.txt
+
+!#include analytics/filters-uBO/html_filtering.txt
+
+!#include annoyance/filters-uBO/html_filtering.txt
+
+!#include antiadblockplus/filters-uBO/html_filtering.txt
+
+!#include international/filters-uBO/html_filtering.txt
+!#endif
