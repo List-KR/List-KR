@@ -1,8 +1,5 @@
 # List-KR
 
-> [!IMPORTANT]
-> There is an update for List-KR organization and the filter. Please see https://github.com/List-KR/List-KR/issues/1005.
-
 [List-KR 커뮤니티 페이지에 방문](https://list-kr-community.pages.dev)하여 AdGuard, uBlock Origin, 그리고 List-KR에 대해 더 알아볼 수 있습니다.
 
 관련된 질문은 [List-KR Discussions](https://github.com/orgs/List-KR/discussions)에 남겨주세요.
