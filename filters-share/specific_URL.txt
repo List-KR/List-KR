@@ -808,6 +808,7 @@
 ||koya-culture.com/data/banner/
 ||api.ruliweb.com/floating_ad|
 ||file.osen.co.kr/*/css/ad.css
+||api.aniplustv.com:3100/geoip$domain=aniplustv.com
 ||img.mbn.co.kr/ad/
 ||techworld.speedgabia.com/epnc.co.kr/ad/
 ||clien.net/service/api/coupang/ad?
