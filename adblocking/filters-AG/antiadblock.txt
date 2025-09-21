@@ -136,12 +136,8 @@ hub.weirdhost.xyz#%#//scriptlet('prevent-fetch', 'adsbygoogle.js')
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=hub.weirdhost.xyz,xmlhttprequest
 @@||adblockanalytics.com$domain=hub.weirdhost.xyz,xmlhttprequest
 !#endif
-srank.kr#%#//scriptlet('prevent-fetch', 'doubleclick.net')
-@@://www3.doubleclick.net^|$xmlhttprequest,domain=srank.kr
-!#if (adguard_app_ios || adguard_ext_safari)
-@@||doubleclick.net^|$xmlhttprequest,domain=srank.kr
-!#endif
 @@||adservice.google.com^|$xmlhttprequest,domain=klauncher.kr
+||www3.doubleclick.net^$script,redirect=noopjs,domain=srank.kr
 chmodi.tistory.com##.floatdiv
 svrforum.com##body > div[class][style*="box-shadow:"]
 !#if (adguard_app_ios || adguard_ext_safari)

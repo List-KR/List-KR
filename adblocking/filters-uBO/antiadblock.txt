@@ -75,8 +75,7 @@ klauncher.kr##+js(aeld, load, _0x)
 ||tistory1.daumcdn.net/tistory/3827361/skin/images/script3.js$domain=devjit.tistory.com
 hub.weirdhost.xyz##+js(no-fetch-if, adblockanalytics.com)
 hub.weirdhost.xyz##+js(no-fetch-if, adsbygoogle.js)
-srank.kr##+js(no-fetch-if, doubleclick.net)
-@@://www3.doubleclick.net^|$xmlhttprequest,domain=srank.kr
+||www3.doubleclick.net^$script,redirect=noop.js,domain=srank.kr
 @@||adservice.google.com^|$xmlhttprequest,domain=klauncher.kr
 chmodi.tistory.com##.floatdiv
 svrforum.com##body > div[class][style*="box-shadow:"]
