@@ -102,6 +102,9 @@ t.hi098123.com#@#ins.adsbygoogle[data-ad-slot]
 @@||googletagmanager.com/gtag/js$domain=t.hi098123.com,script
 !#safari_cb_affinity
 t.hi098123.com#$#.tabad { top: -100px !important; }
+! dcinside.com
+dcinside.com#%#//scriptlet('remove-cookie', 'gaejuki_ad')
+dcinside.com#%#//scriptlet('abort-current-inline-script', 'EventTarget.prototype.addEventListener', '_ad=')
 !
 chzzkban.xyz#%#//scriptlet('prevent-setTimeout', 'window.getComputedStyle')
 mylocation.co.kr#%#//scriptlet('prevent-setTimeout', 'adBlockedMessage')

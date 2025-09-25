@@ -49,6 +49,9 @@ aagag.com#$#.la { height: 75px !important; width: 75px !important; visibility: h
 t.hi098123.com#@#ins.adsbygoogle[data-ad-slot]
 @@||googletagmanager.com/gtag/js$domain=t.hi098123.com,script
 t.hi098123.com#$#.tabad { top: -100px !important; }
+! dcinside.com
+dcinside.com##+js(remove-cookie, gaejuki_ad)
+dcinside.com##+js(acis, EventTarget.prototype.addEventListener, _ad=)
 !
 chzzkban.xyz##+js(nostif, window.getComputedStyle)
 mylocation.co.kr##+js(nostif, adBlockedMessage)
