@@ -1,1 +1,1 @@
-!
+heye.kr##^script:has-text(/window\.open\([^)]*\);\s*\w+\.focus/)

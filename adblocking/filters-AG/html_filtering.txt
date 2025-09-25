@@ -1,3 +1,4 @@
+heye.kr$$script:contains(/window\.open\([^)]*\);\s*\w+\.focus/)
 m.humoruniv.com$$script:contains(/run[\s\S]*?data[\s\S]*?OnClick[\s\S]*?ad\d_/)
 meeco.kr$$script[tag-content="error-report.com"]
 kio.ac$$script[tag-content="K$()"]
