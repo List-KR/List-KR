@@ -16,7 +16,7 @@ m.humoruniv.com#%#//scriptlet('abort-current-inline-script', '$.prototype.html',
 ! m.fmkorea.com
 m.fmkorea.com#%#//scriptlet('json-prune', 'tpl apply', 'tpl.[].c')
 ! chzzk.naver.com
-chzzk.naver.com#%#//scriptlet('json-prune-xhr-response', 'content.playerAdDisplayResponse', '', 'api.chzzk.naver.com/service/ method:GET')
+chzzk.naver.com#%#//scriptlet('json-prune-xhr-response', 'content.playerAdDisplayResponse', '', 'api.chzzk.naver.com/service/t/')
 !
 heye.kr#%#//scriptlet('prevent-window-open', 'pandalive.co.kr/evt/')
 newneek.co#%#//scriptlet('prevent-xhr', 'api-v2.adrop.io/request')

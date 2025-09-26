@@ -21,7 +21,7 @@ m.humoruniv.com##+js(acis, $.prototype.html, /\/images\/[A-z0-9-_]+\.?(jpg|gif)/
 ! m.fmkorea.com
 m.fmkorea.com##+js(json-prune, tpl apply, tpl.[].c)
 ! chzzk.naver.com
-chzzk.naver.com##+js(json-prune-xhr-response, content.playerAdDisplayResponse, , propsToMatch, 'url:api.chzzk.naver.com/service/ method:GET')
+chzzk.naver.com##+js(json-prune-xhr-response, content.playerAdDisplayResponse, , propsToMatch, 'url:api.chzzk.naver.com/service/t/')
 !
 heye.kr##+js(nowoif, pandalive.co.kr/evt/)
 newneek.co##+js(no-xhr-if, api-v2.adrop.io/request)
