@@ -50,6 +50,8 @@ t.hi098123.com#@#ins.adsbygoogle[data-ad-slot]
 @@||googletagmanager.com/gtag/js$domain=t.hi098123.com,script
 t.hi098123.com#$#.tabad { top: -100px !important; }
 ! dcinside.com
+dcinside.com##+js(remove-cookie, gaejuki_ad)
+dcinside.com##+js(acis, EventTarget.prototype.addEventListener, _ad=)
 dcinside.com##+js(nostif, addc.dcinside.com)
 dcinside.com##+js(set-local-storage-item, /adblock_detected/, $remove$)
 dcinside.com##+js(acis, setTimeout, ajax/naverad)
