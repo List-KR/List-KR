@@ -109,6 +109,7 @@ m.dcinside.com#%#//scriptlet('prevent-addEventListener', 'pageshow', '/\.persist
 m.dcinside.com#%#//scriptlet('set-local-storage-item', '/adblock_detected/', '$remove$')
 gall.dcinside.com#%#//scriptlet('abort-on-property-read', 'blockedState')
 gall.dcinside.com#%#//scriptlet('remove-node-text', 'script', '/finally *{\n* *document.documentElement.removeChild\( *[A-Za-z0-9]+ *\) *;\n* *}([ \n]|.)+_ad"]\);/')
+dcinside.com#$?##gaejukimg { remove: true; }
 ! chzzkban.xyz
 chzzkban.xyz#%#//scriptlet('prevent-xhr', 'pagead2.googlesyndication.com method:HEAD')
 chzzkban.xyz#%#//scriptlet('prevent-setTimeout', 'getComputedStyle')
