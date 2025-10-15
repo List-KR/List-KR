@@ -114,6 +114,7 @@ chzzkban.xyz#%#//scriptlet('prevent-xhr', 'pagead2.googlesyndication.com method:
 chzzkban.xyz#%#//scriptlet('prevent-setTimeout', 'getComputedStyle')
 chzzkban.xyz#%#//scriptlet('prevent-setTimeout', '!window.__adsToken,')
 !
+erdcloud.com#$?#.ads-block-warning-overlay { remove: true; }
 mylocation.co.kr#%#//scriptlet('prevent-setTimeout', 'adBlockedMessage')
 !#if (adguard_app_ios || adguard_ext_safari)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mylocation.co.kr
