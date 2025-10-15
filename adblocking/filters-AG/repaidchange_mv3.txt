@@ -11,3 +11,4 @@ tvwiki22.com,tvwiki23.com,tvwiki24.com,tvwiki25.com,tvwiki26.com,tvwiki27.com,tv
 tvwiki22.com,tvwiki23.com,tvwiki24.com,tvwiki25.com,tvwiki26.com,tvwiki27.com,tvwiki28.com,tvwiki29.com,tvwiki30.com,tvwiki31.com,tvwiki32.com,tvwiki33.com,tvwiki34.com##ul[class^="banner"]
 /https:\/\/tvwiki[0-9]+\.com\/AD\//$domain=tvwiki22.com|tvwiki23.com|tvwiki24.com|tvwiki25.com|tvwiki26.com|tvwiki27.com|tvwiki28.com|tvwiki29.com|tvwiki30.com|tvwiki31.com|tvwiki32.com|tvwiki33.com|tvwiki34.com
 /https:\/\/tvwiki[0-9]+\.com\/data\/banner\//$domain=tvwiki22.com|tvwiki23.com|tvwiki24.com|tvwiki25.com|tvwiki26.com|tvwiki27.com|tvwiki28.com|tvwiki29.com|tvwiki30.com|tvwiki31.com|tvwiki32.com|tvwiki33.com|tvwiki34.com
+/https:\/\/tvwiki[0-9]+\.net\/data\/banner\//$domain=tvwiki1.net|tvwiki2.net|tvwiki3.net|tvwiki4.net|tvwiki5.net|tvwiki6.net|tvwiki7.net|tvwiki8.net|tvwiki9.net|tvwiki10.net|tvwiki11.net|tvwiki12.net|tvwiki13.net|tvwiki14.net|tvwiki15.net
