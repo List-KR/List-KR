@@ -51,12 +51,14 @@ t.hi098123.com#@#ins.adsbygoogle[data-ad-slot]
 t.hi098123.com#$#.tabad { top: -100px !important; }
 ! dcinside.com
 dcinside.com##+js(remove-cookie, gaejuki_ad)
+m.dcinside.com##+js(remove-cookie, find_ab)
 m.dcinside.com##+js(nostif, addc.dcinside.com)
 m.dcinside.com##+js(set-local-storage-item, /adblock_detected/, $remove$)
 m.dcinside.com##+js(aeld, pageshow, /\.persisted *&& *interval_Ad *&& *clearInterval\( *interval_Ad *\)/)
-gall.dcinside.com##+js(aopr, blockedState)
+m.dcinside.com##+js(no-xhr-if, addc.dcinside.com, emptyStr)
+gall.dcinside.com##+js(set, blockedState, '')
+gall.dcinside.com##+js(remove-node-text, script, /background:[\s\S]+setTimeout\( *\( *\) *=> *[A-Za-z0-9]+\.remove\( *\)[\s\S]+Math\.random\( *\) *< *percent *\/ *100/)
 gall.dcinside.com##+js(remove-node-text, script, /finally *{\n* *document.documentElement.removeChild\( *[A-Za-z0-9]+ *\) *;\n* *}([ \n]|.)+_ad"]\);/)
-dcinside.com#$?##gaejukimg { remove: true; }
 ! chzzkban.xyz
 chzzkban.xyz##+js(no-fetch-if, pagead2.googlesyndication.com method:HEAD)
 chzzkban.xyz##+js(nostif, getComputedStyle)
