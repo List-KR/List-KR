@@ -832,6 +832,7 @@
 ||loader.fmkorea.com/_loader/
 ||ssl.pstatic.net/tveta/libs/
 ||vclock.kr/inf0/hot.php^
+||aproxy-vast.wavve.com/*/v/*_AD_*/req/$xmlhttprequest
 !
 ! DOMAIN-REFRESHER: START
 !
