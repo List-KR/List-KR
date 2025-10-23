@@ -837,6 +837,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+||cokcok.stream/public/vast.php
 /^https:\/\/tvwiki[0-9]+\.net\/data\/banner\//$domain=/tvwiki[0-9]+\.net/
 ||wdwd*.com/data/banner/
 ||static.tzstatic.top/z/*.gif
