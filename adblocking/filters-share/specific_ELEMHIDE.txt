@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 
+web.humoruniv.com###naver_adpost_wrap
 maplescouter.com##div.items-center:empty
 yozm.wishket.com##.grid-in-advertisement > a[href]
 yozm.wishket.com##div.box-border:has(> a[href] > img[alt="advertisement"])
