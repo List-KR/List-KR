@@ -76,8 +76,7 @@ vod.jtbc.co.kr#@#.ad-zone:not(.textads)
 news.jtbc.co.kr##+js(spoof-css, .ad-banner.adsbox.ad-unit.ad-zone, display, block)
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=google-ima.js,domain=vod.jtbc.co.kr|news.jtbc.co.kr
 minipol.tistory.com##+js(set, checkAdBlock, undefined)
-start.klauncher.kr##+js(set, googletag.getVersion, trueFunc)
-||pagead2.googlesyndication.com^$script,redirect=noop.js,domain=start.klauncher.kr
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=start.klauncher.kr,script
 tabriz.kr#@##AdHeader
 tabriz.kr#@##AD_Top
 tabriz.kr#@##ad-lead

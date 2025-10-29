@@ -1,7 +1,7 @@
 [AdGuard]
 ! Title: List-KR Unified for AdGuard
 ! Description: List-KR for AdGuard. Maintained by the adblock community and AdGuard.
-! Version: 2025.1029.0
+! Version: 2025.1030.0
 ! Expires: 1 day
 ! Homepage: https://github.com/List-KR/List-KR
 ! Support: https://list-kr-community.pages.dev/docs/
