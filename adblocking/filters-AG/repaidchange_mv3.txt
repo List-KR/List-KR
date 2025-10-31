@@ -1,3 +1,9 @@
+lover937.net,lover938.net,lover939.net,lover940.net,lover941.net,lover942.net,lover943.net,lover944.net,lover945.net,lover946.net#%#//scriptlet('prevent-addEventListener', 'click', 'popMagic')
+lover937.net,lover938.net,lover939.net,lover940.net,lover941.net,lover942.net,lover943.net,lover944.net,lover945.net,lover946.net#%#//scriptlet('prevent-addEventListener', 'click', 'popMagic')
+lover937.net,lover938.net,lover939.net,lover940.net,lover941.net,lover942.net,lover943.net,lover944.net,lover945.net,lover946.net##.div-over
+/lover[0-9]\.net\/file\/tohotv\/.*\.gif$domain=lover937.net|lover938.net|lover939.net|lover940.net|lover941.net|lover942.net|lover943.net|lover944.net|lover945.net|lover946.net
+/lover[0-9]\.net\/file\/1bet\/.*\.gif$domain=lover937.net|lover938.net|lover939.net|lover940.net|lover941.net|lover942.net|lover943.net|lover944.net|lover945.net|lover946.net
+/lover[0-9]\.net\/file\/eve\/.*\.png$domain=lover937.net|lover938.net|lover939.net|lover940.net|lover941.net|lover942.net|lover943.net|lover944.net|lover945.net|lover946.net
 ||i.imgur.com^$domain=torrentqq381.com|torrentqq382.com|torrentqq383.com|torrentqq384.com|torrentqq385.com|torrentqq386.com|torrentqq387.com|torrentqq388.com|torrentqq389.com
 .gif$domain=torrentpi150.com|torrentpi151.com|torrentpi152.com|torrentpi153.com|torrentpi154.com|torrentpi155.com|torrentpi156.com|torrentpi157.com|torrentpi158.com|torrentpi159.com|torrentpi160.com
 ||torrentpi*.com/data/file/ad/$domain=torrentpi150.com|torrentpi151.com|torrentpi152.com|torrentpi153.com|torrentpi154.com|torrentpi155.com|torrentpi156.com|torrentpi157.com|torrentpi158.com|torrentpi159.com|torrentpi160.com

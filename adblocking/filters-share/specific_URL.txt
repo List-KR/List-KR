@@ -838,6 +838,9 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/lover[0-9]\.net\/file\/tohotv\/.*\.gif$domain=/lover[0-9]\.net/
+/lover[0-9]\.net\/file\/1bet\/.*\.gif$domain=/lover[0-9]\.net/
+/lover[0-9]\.net\/file\/eve\/.*\.png$domain=/lover[0-9]\.net/
 ||cokcok.stream/public/vast.php
 /^https:\/\/tvwiki[0-9]+\.net\/data\/banner\//$domain=/tvwiki[0-9]+\.net/
 ||wdwd*.com/data/banner/

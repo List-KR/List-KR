@@ -1354,6 +1354,7 @@ kio.ac##main > div:has(> div > div > a > img)
 !
 ! DOMAIN-REFRESHER: START
 !
+[$domain=/lover[0-9]\.net/]##.div-over
 [$domain=/^torrentqq[0-9]+.com/]##.at-banner
 [$domain=/torrentpi[0-9]+\.com/]##.basic-post-gallery
 [$domain=/tvwiki[0-9]+\.tv/]##a:has(> img[src^="https://static.wixstatic.com/media/"])
