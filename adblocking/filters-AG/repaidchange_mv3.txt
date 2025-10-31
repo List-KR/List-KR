@@ -1,3 +1,4 @@
+/^https:\/\/(www\.)?yako[0-9]+\.com\/upload\/banner\//$domain=yako01.com|yako02.com|yako03.com|yako04.com|yako05.com|yako06.com|yako07.com|yako08.com|yako09.com|yako10.com|yako11.com|yako12.com|yako13.com
 lover937.net,lover938.net,lover939.net,lover940.net,lover941.net,lover942.net,lover943.net,lover944.net,lover945.net,lover946.net#%#//scriptlet('prevent-addEventListener', 'click', 'popMagic')
 lover937.net,lover938.net,lover939.net,lover940.net,lover941.net,lover942.net,lover943.net,lover944.net,lover945.net,lover946.net#%#//scriptlet('prevent-addEventListener', 'click', 'popMagic')
 lover937.net,lover938.net,lover939.net,lover940.net,lover941.net,lover942.net,lover943.net,lover944.net,lover945.net,lover946.net##.div-over
