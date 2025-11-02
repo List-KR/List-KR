@@ -85,8 +85,10 @@ kilho.net##+js(set, hahaha, noopFunc)
 !
 ! DOMAIN-REFRESHER: START
 !
+! aglint-disable-next-line
 [$domain=/lover[0-9]\.net/]##+js(aeld, click, 'opMagic)
 zzzz.lol##+js(nosiif, animationEffects[settings.animation.effect])
+! aglint-disable-next-line
 [$domain=/lover[0-9]\.net/]##+js(nano-stb, closeBtn.innerHTML, , 0.001)
 !
 ! DOMAIN-REFRESHER: END
