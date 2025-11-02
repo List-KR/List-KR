@@ -1,3 +1,5 @@
+||gall.dcinside.com/_js/ad.js
+||gall.dcinside.com/_js/ad_context_powLink.js
 ||filetad.tygem.com/updata/banner/
 ||cdn.wishket.com/yozmit_ad/ad_image/
 ||cdn.zigcou.com/static/*.webp$domain=2798731938.zigcou.com
