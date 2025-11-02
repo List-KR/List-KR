@@ -116,6 +116,8 @@ gall.dcinside.com#%#//scriptlet('remove-node-text', 'script', '/finally *{\n* *d
 chzzkban.xyz#%#//scriptlet('prevent-xhr', 'pagead2.googlesyndication.com method:HEAD')
 chzzkban.xyz#%#//scriptlet('prevent-setTimeout', 'getComputedStyle')
 chzzkban.xyz#%#//scriptlet('prevent-setTimeout', '!window.__adsToken,')
+! start.klauncher.kr
+start.klauncher.kr#%#//scriptlet('abort-on-stack-trace', 'setTimeout', 'isBlocked')
 !
 erdcloud.com#$?#.ads-block-warning-overlay { remove: true; }
 mylocation.co.kr#%#//scriptlet('prevent-setTimeout', 'adBlockedMessage')
@@ -133,7 +135,6 @@ vod.jtbc.co.kr#@#.ad-zone:not(.textads)
 news.jtbc.co.kr#%#//scriptlet('spoof-css', '.ad-banner.adsbox.ad-unit.ad-zone', 'display', 'block')
 news.jtbc.co.kr,vod.jtbc.co.kr#%#//scriptlet('prevent-element-src-loading', 'script', 'imasdk.googleapis.com/js/sdkloader/ima3.js')
 minipol.tistory.com#%#//scriptlet('set-constant', 'checkAdBlock', 'undefined')
-@@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=start.klauncher.kr,script
 tabriz.kr#@##AdHeader
 tabriz.kr#@##AD_Top
 tabriz.kr#@##ad-lead
