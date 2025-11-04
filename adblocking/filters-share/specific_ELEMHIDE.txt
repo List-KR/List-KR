@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 
+viewership.softc.one##.container.px-4 > .box-border.gap-8 > .rounded-md.min-h-\[140px\]:has(ins.adsbygoogle)
 damoang.net##.da-adsense-container
 m.inven.co.kr##div[class^="ad-bbs-view-"]
 zod.kr##.app-content > div[id][class*=" "]:has(img.app-main-banner-bg)
