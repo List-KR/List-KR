@@ -1,3 +1,4 @@
+||myrealtrip.com/ad/
 ||trip.com/restapi/soa2/*/bjjson/queryAdsDisplayData
 ||json*.dcinside.com/json*/notify_ad.php
 ||gall.dcinside.com/_js/ad.js
