@@ -555,7 +555,7 @@
 ||hogaeng.co.kr/data/file/sponsor_
 ||hogaeng.co.kr/data/banner/
 ||talk.gamemarket.kr/images/*%EB%B0%B0%EB%84%88
-/^https:\/\/coolenjoy\.net\/data\/editor\/[0-9]{4}\/[0-9]{14}_[a-z]{8}\./$domain=coolenjoy.net
+/^https:\/\/photo\.coolenjoy\.(net|co\.kr)\/data\/editor\/[0-9]{4}\/[0-9]{14}_[a-z0-9]{32}_[a-z0-9]{4}\./$domain=coolenjoy.net
 ||paxnet.co.kr/banner/
 ||image.paxnet.co.kr/rpan/common/js/mobile_ad.js
 ||paxnet.co.kr/common/*BannerAjax|

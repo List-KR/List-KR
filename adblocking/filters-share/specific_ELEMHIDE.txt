@@ -568,7 +568,7 @@ search.11st.co.kr##.search_content > section[data-log-actionid-area="power"]
 m.ygosu.com###article_list > li:not([class])
 m.ygosu.com##.container >  div[style*="height:"]
 ygosu.com###contain > div[style*="margin-bottom:"]
-coolenjoy.net##div[id^="carousel_"] a[target="_blank"]
+coolenjoy.net##div[id^="carousel_"] a:is([target="_blank"], [href^="https://coolenjoy.net/bbs/point/"])
 te31.com##div[style^="width:"][class="adsbygoogle"]
 m.search.naver.com##._shopAdRoot
 te31.com##.content > .nextbr ~ div[style^="min-height:"]
