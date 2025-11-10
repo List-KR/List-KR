@@ -116,6 +116,7 @@ gall.dcinside.com#%#//scriptlet('remove-node-text', 'script', '/finally *{\n* *d
 chzzkban.xyz#%#//scriptlet('prevent-xhr', 'pagead2.googlesyndication.com method:HEAD')
 chzzkban.xyz#%#//scriptlet('prevent-setTimeout', 'getComputedStyle')
 chzzkban.xyz#%#//scriptlet('prevent-setTimeout', '!window.__adsToken,')
+chzzkban.xyz#%#//scriptlet('prevent-requestAnimationFrame', 'window.__adsToken')
 !
 erdcloud.com#$?#.ads-block-warning-overlay { remove: true; }
 mylocation.co.kr#%#//scriptlet('prevent-setTimeout', 'adBlockedMessage')

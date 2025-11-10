@@ -63,6 +63,7 @@ gall.dcinside.com##+js(remove-node-text, script, /finally *{\n* *document.docume
 chzzkban.xyz##+js(no-fetch-if, pagead2.googlesyndication.com method:HEAD)
 chzzkban.xyz##+js(nostif, getComputedStyle)
 chzzkban.xyz##+js(nostif, '!window.__adsToken,')
+chzzkban.xyz##+js(norafif, window.__adsToken)
 !
 erdcloud.com#$?#.ads-block-warning-overlay { remove: true; }
 mylocation.co.kr##+js(nostif, adBlockedMessage)
