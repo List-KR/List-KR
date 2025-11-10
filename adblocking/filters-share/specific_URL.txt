@@ -1,3 +1,8 @@
+||search.danawa.com/js/adSmart.min.js
+||search.danawa.com/js/powerShopping.min.js
+||search.danawa.com/js/powerClick.min.js
+||search.danawa.com/js/powerLink.min.js
+||search.danawa.com/js/temuAd.min.js
 ||asked.kr/pclickframe/
 ||myrealtrip.com/ad/
 ||trip.com/restapi/soa2/*/bjjson/queryAdsDisplayData
