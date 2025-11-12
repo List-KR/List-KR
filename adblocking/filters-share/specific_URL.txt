@@ -1,3 +1,4 @@
+||coupang.com/next-api/products/banners?productId=
 ||search.danawa.com/js/adSmart.min.js
 ||search.danawa.com/js/powerShopping.min.js
 ||search.danawa.com/js/powerClick.min.js
