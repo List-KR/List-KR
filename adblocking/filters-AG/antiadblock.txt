@@ -113,10 +113,8 @@ gall.dcinside.com#%#//scriptlet('set-constant', 'blockedState', '', '', '', 'tru
 gall.dcinside.com#%#//scriptlet('remove-node-text', 'script', '/background:[\s\S]+setTimeout\( *\( *\) *=> *[A-Za-z0-9]+\.remove\( *\)[\s\S]+Math\.random\( *\) *< *percent *\/ *100/')
 gall.dcinside.com#%#//scriptlet('remove-node-text', 'script', '/finally *{\n* *document.documentElement.removeChild\( *[A-Za-z0-9]+ *\) *;\n* *}([ \n]|.)+_ad"]\);/')
 ! chzzkban.xyz
-chzzkban.xyz#%#//scriptlet('prevent-xhr', 'pagead2.googlesyndication.com method:HEAD')
-chzzkban.xyz#%#//scriptlet('prevent-setTimeout', 'getComputedStyle')
-chzzkban.xyz#%#//scriptlet('prevent-setTimeout', '!window.__adsToken,')
-chzzkban.xyz#%#//scriptlet('prevent-requestAnimationFrame', 'window.__adsToken')
+chzzkban.xyz#%#//scriptlet('trusted-suppress-native-method', 'Object.values', '{"easyListBlocked":true}', 'abort')
+chzzkban.xyz#%#//scriptlet('trusted-suppress-native-method', 'Object.values', '{"setTimeoutBlocked":true}', 'abort')
 !
 erdcloud.com#$?#.ads-block-warning-overlay { remove: true; }
 mylocation.co.kr#%#//scriptlet('prevent-setTimeout', 'adBlockedMessage')
