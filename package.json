@@ -30,9 +30,9 @@
   "license": "GPL-3.0-only",
   "type": "module",
   "scripts": {
-    "lint": "aglint"
+    "lint": "aglint **/*.txt"
   },
   "devDependencies": {
-    "@adguard/aglint": "^3.0.0"
+    "@adguard/aglint": "4.0.0-beta.2"
   }
 }
