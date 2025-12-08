@@ -63,7 +63,7 @@ gall.dcinside.com##+js(remove-node-text, script, /finally *{\n* *document.docume
 chzzkban.xyz##+js(no-fetch-if, pagead2.googlesyndication.com/pagead/js/adsbygoogle.js method:HEAD, emptyStr)
 chzzkban.xyz##+js(trusted-suppress-native-method, Node.prototype.contains, '{"className":"adsbygoogle"}', abort)
 !
-mvod.jtbc.co.kr,onair.jtbc.co.kr##+js(nostif, 'getComputedStyle(t).getPropertyValue("visibility")')
+tv.jtbc.co.kr,mvod.jtbc.co.kr,onair.jtbc.co.kr##+js(nostif, 'getComputedStyle(t).getPropertyValue("visibility")')
 erdcloud.com#$?#.ads-block-warning-overlay { remove: true; }
 mylocation.co.kr##+js(nostif, adBlockedMessage)
 ||shana.pe.kr/shana_check/scp*.js$script
@@ -74,7 +74,7 @@ kilho.net###detect-alert
 vod.jtbc.co.kr#@#.ad-unit:not(.textads)
 vod.jtbc.co.kr#@#.ad-zone:not(.textads)
 news.jtbc.co.kr##+js(spoof-css, .ad-banner.adsbox.ad-unit.ad-zone, display, block)
-||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=google-ima.js,domain=vod.jtbc.co.kr|news.jtbc.co.kr|mvod.jtbc.co.kr
+||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=google-ima.js,domain=vod.jtbc.co.kr|news.jtbc.co.kr|mvod.jtbc.co.kr|tv.jtbc.co.kr
 minipol.tistory.com##+js(set, checkAdBlock, undefined)
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=start.klauncher.kr,script
 tabriz.kr#@##AdHeader

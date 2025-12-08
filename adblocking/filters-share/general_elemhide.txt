@@ -1,3 +1,4 @@
+##iframe[src*="//ad.imp.joins.com/"]
 ##amp-ad
 ##iframe[src*="//authanalysis.com/"]
 ##amp-embed

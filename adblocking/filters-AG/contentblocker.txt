@@ -25,6 +25,7 @@ te31.com#@#.textAd
 te31.com#@#.text_ad
 te31.com#@#.text_ads
 !
+@@||tv.jtbc.co.kr^$generichide
 @@||mvod.jtbc.co.kr^$generichide
 @@||onair.jtbc.co.kr^$generichide
 @@||api-v2.adrop.io/request$xmlhttprequest,domain=newneek.co
