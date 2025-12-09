@@ -1,3 +1,5 @@
+||p-api.vortexgaming.io/api/banner?
+||resources.vortexgaming.io/default/abadsimages/
 ||enuri.com/api/adRelay.jsp
 ||enuri.com/wide/script_min/ad/
 ||coupang.com/next-api/products/banners?productId=
