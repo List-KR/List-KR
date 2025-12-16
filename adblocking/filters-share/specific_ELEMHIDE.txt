@@ -58,6 +58,10 @@ eegosa.com##section[id*="_ads_"]
 sports.donga.com##div[id*="_AD"]
 
 
+kyobobook.co.kr##main.min-h-\[calc\(100vh-80px\)\] > .h-\[180px\]
+kyobobook.co.kr##main.min-h-\[calc\(100vh-80px\)\] > .h-\[150px\]
+kyobobook.co.kr##.wpromo-banner
+kyobobook.co.kr##.fly_menu_banner
 mvod.jtbc.co.kr##div[class^="iframe_"][class$="_ad"]
 app.pizzaalvolo.co.kr##div[class^="css-"][style^="gap: "] > div[tabindex="0"]:has(div[style^="position: absolute; right:"])
 etoland.co.kr##div[class^="etoad_"]

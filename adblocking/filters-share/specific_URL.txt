@@ -1,3 +1,5 @@
+||kyobobook.co.kr/api/gw/onk/ad/
+||contents.kyobobook.co.kr/advrcntr/IMAC/creatives/
 ||p-api.vortexgaming.io/api/banner?
 ||resources.vortexgaming.io/default/abadsimages/
 ||enuri.com/api/adRelay.jsp
