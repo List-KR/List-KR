@@ -1,3 +1,5 @@
+||web.joongna.com/main-web/_next/static/chunks/ProductAdsBlock
+||common.joongna.com/static/json/exclude-adsense.json
 ||kyobobook.co.kr/api/gw/onk/ad/
 ||contents.kyobobook.co.kr/advrcntr/IMAC/creatives/
 ||p-api.vortexgaming.io/api/banner?
