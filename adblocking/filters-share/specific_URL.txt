@@ -1,3 +1,4 @@
+||img.tvchosun.com/news/article/content_ad.js
 ||mapleland.gg/img/Latal
 ||web.joongna.com/main-web/_next/static/chunks/ProductAdsBlock
 ||common.joongna.com/static/json/exclude-adsense.json
