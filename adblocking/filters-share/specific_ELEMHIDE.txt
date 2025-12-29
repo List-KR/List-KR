@@ -58,6 +58,7 @@ eegosa.com##section[id*="_ads_"]
 sports.donga.com##div[id*="_AD"]
 
 
+m.cafe.daum.net##.nativead-placeholder
 w.nicesongtoyou.com##.post-content p ~ div:has(.chatgin-a)
 mapleland.gg##main.relative > .md\:px-0.z-\[999\]
 kyobobook.co.kr##main.min-h-\[calc\(100vh-80px\)\] > .h-\[180px\]
