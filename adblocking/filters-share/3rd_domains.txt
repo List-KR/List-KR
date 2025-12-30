@@ -1,3 +1,4 @@
+||ad.adwiser.kr^
 ||digitalcamp.co.kr^$third-party
 ||mman.kr^
 ||admize.io^
