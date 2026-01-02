@@ -1,4 +1,4 @@
-namu.wiki,~board.namu.wiki##div[class^="_"] > div[class*=" _"] > div[class*=" _"]:has(> div[id][class^="_"])
+namu.wiki,~board.namu.wiki##div[class] > div[class*=" "] > div[class*=" "] ~ div[class*=" "] > div[id][class]:not([class*=" "]):empty
 namu.wiki,~board.namu.wiki##div[class*=" "]:not([class^="_"]) > div[class]:not([class*=" "]) > div[class*=" "]:has(> div[id][class] > div[id][class])
 !
 m.cafe.naver.com##.banner_add:matches-path(/ca-fe\\/web\\/cafes\\/(dieselmania|11262350)(\\/|\\?)/)
