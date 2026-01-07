@@ -116,6 +116,7 @@ gall.dcinside.com#%#//scriptlet('remove-node-text', 'script', '/finally *{\n* *d
 chzzkban.xyz#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com/pagead/js/adsbygoogle.js method:HEAD', 'emptyStr')
 chzzkban.xyz#%#//scriptlet('trusted-suppress-native-method', 'Node.prototype.contains', '{"className":"adsbygoogle"}', 'abort')
 !
+3dpchip.com##+js(prevent-xhr, /compass.adop.cc|adsbygoogle|taboola/, emptyStr)
 tv.jtbc.co.kr,mvod.jtbc.co.kr,onair.jtbc.co.kr#%#//scriptlet('prevent-setTimeout', 'getComputedStyle(t).getPropertyValue("visibility")')
 erdcloud.com#$?#.ads-block-warning-overlay { remove: true; }
 mylocation.co.kr#%#//scriptlet('prevent-setTimeout', 'adBlockedMessage')
@@ -167,9 +168,10 @@ bera.world,sellas.ink,1412.live#$#.atc_ex { height: auto !important; overflow: v
 bera.world,sellas.ink,1412.live#%#//scriptlet('set-constant', 'adError', 'noopFunc')
 !#endif
 deokhu.com,3dpchip.com#%#//scriptlet('abort-current-inline-script', 'chp_ads_blocker_detector')
-3dpchip.com#%#//scriptlet('prevent-xhr', '/(compass.adop.cc|adsbygoogle)/', 'emptyStr')
+3dpchip.com#%#//scriptlet('prevent-xhr', '/(compass.adop.cc|adsbygoogle|taboola)/', 'emptyStr')
 3dpchip.com#%#//scriptlet('prevent-element-src-loading', 'script', 'compass.adop.cc')
 !#if (adguard_app_ios || adguard_ext_android_cb)
+@@||cdn.taboola.com/libtrc/3dp/loader.js$domain=3dpchip.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=3dpchip.com
 @@||ads-api.twitter.com/|$domain=3dpchip.com
 @@||ads.pinterest.com/|$domain=3dpchip.com

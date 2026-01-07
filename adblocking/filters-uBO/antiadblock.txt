@@ -96,7 +96,7 @@ svrforum.com##body > div[class][style*="box-shadow:"]
 luckyquiz3.blogspot.com##+js(no-xhr-if, adsbygoogle)
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=google-ima.js,domain=sbs.co.kr
 deokhu.com,3dpchip.com##+js(acis, chp_ads_blocker_detector)
-3dpchip.com##+js(no-xhr-if, /compass.adop.cc|adsbygoogle/, emptyStr)
+3dpchip.com##+js(prevent-xhr, /compass.adop.cc|adsbygoogle|taboola/, emptyStr)
 ||compass.adop.cc^$script,redirect=noop.js,domain=3dpchip.com
 3dpchip.com##+js(aopw, HTMLAnchorElement.prototype.onclick)
 @@||advimg.ad-mapps.com/sdk/js/ver/200/ad_script.js$domain=maxmovie.com
