@@ -77,6 +77,7 @@ m.fmkorea.com##iframe[src*="//loader.fmkorea.com/"][src*="_loader/"]
 !
 ! DOMAIN-REFRESHER: START
 !
+[$domain=/torrentsee[0-9]+\.com/]##.container > div[style^="z-index:999; "]
 !
 ! DOMAIN-REFRESHER: END
 !
