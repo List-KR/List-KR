@@ -116,6 +116,7 @@ gall.dcinside.com#%#//scriptlet('remove-node-text', 'script', '/finally *{\n* *d
 chzzkban.xyz#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com/pagead/js/adsbygoogle.js method:HEAD', 'emptyStr')
 chzzkban.xyz#%#//scriptlet('trusted-suppress-native-method', 'Node.prototype.contains', '{"className":"adsbygoogle"}', 'abort')
 !
+cheatdot.com#%#//scriptlet('prevent-setTimeout', 'window.getComputedStyle(t).display')
 3dpchip.com##+js(prevent-xhr, /compass.adop.cc|adsbygoogle|taboola/, emptyStr)
 tv.jtbc.co.kr,mvod.jtbc.co.kr,onair.jtbc.co.kr#%#//scriptlet('prevent-setTimeout', 'getComputedStyle(t).getPropertyValue("visibility")')
 erdcloud.com#$?#.ads-block-warning-overlay { remove: true; }
