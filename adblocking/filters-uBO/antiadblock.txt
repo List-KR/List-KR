@@ -62,6 +62,12 @@ gall.dcinside.com##+js(remove-node-text, script, /finally *{\n* *document.docume
 ! chzzkban.xyz
 chzzkban.xyz##+js(no-fetch-if, pagead2.googlesyndication.com/pagead/js/adsbygoogle.js method:HEAD, emptyStr)
 chzzkban.xyz##+js(trusted-suppress-native-method, Node.prototype.contains, '{"className":"adsbygoogle"}', abort)
+! dicoall.com
+dicoall.com#@##AdHeader
+dicoall.com#@##AD_Top
+dicoall.com#@##homead
+dicoall.com#@##ad-lead
+dicoall.com#@##rightAd
 !
 cheatdot.com##+js(nostif, 'window.getComputedStyle(t).display')
 tv.jtbc.co.kr,mvod.jtbc.co.kr,onair.jtbc.co.kr##+js(nostif, 'getComputedStyle(t).getPropertyValue("visibility")')

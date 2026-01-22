@@ -24,6 +24,12 @@ te31.com#@#.text-ads
 te31.com#@#.textAd
 te31.com#@#.text_ad
 te31.com#@#.text_ads
+! dicoall.com
+dicoall.com#@##AdHeader
+dicoall.com#@##AD_Top
+dicoall.com#@##homead
+dicoall.com#@##ad-lead
+dicoall.com#@##rightAd
 !
 @@||cheatdot.com^$generichide
 @@||tv.jtbc.co.kr^$generichide
