@@ -1,4 +1,4 @@
 ! KakaoTalk - 소식/숏폼/쇼핑 탭 차단
-||talk-pilsner.kakao.com^$app=com.kakao.talk
-||play.kakao.com^$app=com.kakao.talk
-||shopper.kakao.com^$app=com.kakao.talk
+||talk-pilsner.kakao.com
+||play.kakao.com
+||shopper.kakao.com
