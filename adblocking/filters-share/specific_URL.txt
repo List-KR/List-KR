@@ -331,7 +331,6 @@
 ||inven.co.kr/common/lib/js/ad_$script
 ||isplus.com/data/isp/upload/save/banner/
 ||daumcdn.net/tistory_admin/static/revenue/
-||m.enuri.com/*/ajax/getSearchSponsor_ajax.jsp
 ||daisomall.co.kr/data/templet_data/templet/daiso/images/login_phone.jpg
 ||enuri.com/*/api/ad/
 ||enuri.com/*/ajax/getNewBrandThema_ajax.jsp
