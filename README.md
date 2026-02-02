@@ -24,7 +24,7 @@ AdGuard에 사전 탑재된 List-KR 필터 리스트는 광고와 AdGuard에서 
 > iOS용 AdGuard에서는 특정 언어 필터에서 List-KR을 찾아 활성화해야 정상적인 사용이 가능합니다.
 
 > [!IMPORTANT]
-> List-KR 필터는 AdGuard와 uBlock Origin를 제외한 애드블록에서 지원되지 않으며, 사용자에 의해 추가된다고 한들 예상된 작동은 커녕 오작동을 불러올 수 있습니다.
+> List-KR 필터 리스트는 AdGuard와 uBlock Origin를 제외한 애드블록에서 지원되지 않으며, 사용자에 의해 추가된다고 한들 예상된 작동은 커녕 오작동을 불러올 수 있습니다. 관련된 요청은 무시되고 닫힙니다.
 
 **AdGuard**:
 ```
@@ -49,22 +49,6 @@ https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filter-uBlockOrigin-unified.t
 https://cdn.jsdelivr.net/gh/adguardteam/HostlistsRegistry@main/assets/filter_25.txt
 ```
 
-### 유저스크립트 지원
-
-광고 차단기에서 제공하는 기능만으로는 일부 복잡한 광고를 효율적으로 차단할 수 없습니다.
-
-아래 사이트인 경우에는 [tinyShield 설치 방법](https://github.com/FilteringDev/tinyShield/blob/main/README.ko.md)을 참고하셔서 tinyShield 유저스크립트를 설치하셔야 합니다:
- - m.inven.co.kr
- - loawa.com
- - mlbpark.donga.com
- - a-ha.io
- - dogdrip.net
- - ygosu.com
- - etoday.co.kr
- - jjang0u.com
-
- 그 외 여러 사이트들
-
 ### 네이버 카페
 
 네이버 카페 내의 배너 구좌에 설치된 광고는 열매 1 이상 랭킹인 경우에만 차단됩니다.
@@ -75,4 +59,4 @@ https://cdn.jsdelivr.net/gh/adguardteam/HostlistsRegistry@main/assets/filter_25.
 
 ## 라이선스
 
-List-KR 필터는 GNU GPLv3하에 라이선스됩니다.
+List-KR 필터 리스트는 GNU GPLv3하에 라이선스됩니다.

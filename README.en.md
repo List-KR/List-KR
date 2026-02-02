@@ -24,7 +24,7 @@ You can use following URLs to add List-KR to your ad blocker.
 > You need to enable List-KR by finding it in language specific filters for List-KR to be work properly.
 
 > [!IMPORTANT]
-> List-KR filter is not supported on any adblockers except AdGuard and uBlock Origin; even if it is added by an uesr, it may cause a malfunction, let alone the expected operation.
+> List-KR filters list is not supported on any adblockers except AdGuard and uBlock Origin; even if it is added by an uesr, it may cause a malfunction, let alone the expected operation. Any related request will be ignored and closed.
 
 **AdGuard**:
 ```
@@ -39,23 +39,6 @@ https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filter-uBlockOrigin.txt
 ```
 https://cdn.jsdelivr.net/gh/adguardteam/HostlistsRegistry@main/assets/filter_25.txt
 ```
-
-### UserScript support
-
-Using the only functions provided by ad blocker cannot block complex ads effectively.
-
-If you visit the following websites, you need to install microShield userscript by referring [microShield installation guide](https://github.com/List-KR/microShield):
- - genshinlab.com
- - warcraftrumbledeck.com
- - thesaurus.net
- - gamingdeputy.com
- - golf-live.at
- - hancinema.net
- - hometownstation.com
- - thestockmarketwatch.com
-
- And, other websites.
-
 ### Naver Cafe
 
 Ads installed on banner area in Naver Cafe will be blocked only if the ranking is fruit 1 or higher.
@@ -66,4 +49,4 @@ Read [CONTRIBUTING.md](https://github.com/List-KR/List-KR/blob/master/CONTRIBUTI
 
 ## License
 
-List-KR is licensed under GPL v3.
+List-KR filters list is licensed under GPL v3.
