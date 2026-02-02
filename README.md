@@ -24,7 +24,7 @@ AdGuard에 사전 탑재된 List-KR 필터 리스트는 광고와 AdGuard에서 
 > iOS용 AdGuard에서는 특정 언어 필터에서 List-KR을 찾아 활성화해야 정상적인 사용이 가능합니다.
 
 > [!IMPORTANT]
-> List-KR 필터 리스트는 AdGuard와 uBlock Origin를 제외한 애드블록에서 지원되지 않으며, 사용자에 의해 추가된다고 한들 예상된 작동은 커녕 오작동을 불러올 수 있습니다. 관련된 요청은 무시되고 닫힙니다.
+> List-KR 필터 리스트는 **오직** AdGuard와 uBlock Origin만 지원합니다. 사용자에 의해 다른 애드블록에 추가된다고 한들 예상된 작동은 커녕 오작동을 불러올 수 있습니다. 관련된 요청은 무시되고 닫힙니다.
 
 **AdGuard**:
 ```
