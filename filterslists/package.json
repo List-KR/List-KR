@@ -1,0 +1,38 @@
+{
+  "name": "list-kr",
+  "version": "1.0.0",
+  "description": "List-KR filters list blocks advertisements on Korean language websites.",
+  "contributors": [
+    "AdGuard Software Ltd.",
+    "PiQuark6046",
+    "green1052",
+    "seia-soto",
+    "JobcenterTycoon",
+    "Raiden-Ei",
+    "yous",
+    "Yuki2718",
+    "liberaldev",
+    "gaeulbyul",
+    "kiwitreekor",
+    "Baw-Appie",
+    "tytyqrqr",
+    "lidarbtc",
+    "Xvezda",
+    "Taewan-P",
+    "mapx-",
+    "tachibana-shin",
+    "iam-py-test",
+    "DavidLee3835",
+    "solban1",
+    "edoko",
+    "sanvit"
+  ],
+  "license": "GPL-3.0-only",
+  "type": "module",
+  "scripts": {
+    "lint": "aglint **/*.txt"
+  },
+  "devDependencies": {
+    "@adguard/aglint": "4.0.0-beta.2"
+  }
+}

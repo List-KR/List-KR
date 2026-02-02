@@ -1,0 +1,6 @@
+# https://github.com/AdguardTeam/AGLint#configuration
+root: true
+extends:
+  - aglint:recommended
+syntax:
+  - Common
