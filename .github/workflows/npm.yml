@@ -1,0 +1,159 @@
+name: Publish and Deploy
+
+on:
+  push:
+    branches: [ master ]
+  schedule:
+    - cron: "*/15 * * * *"
+
+jobs:
+  check:
+    name: Check whether build should run
+    runs-on: ubuntu-slim
+    permissions:
+      actions: read
+      contents: read
+    outputs:
+      should_run: ${{ steps.gate.outputs.should_run }}
+      matched_run_id: ${{ steps.gate.outputs.matched_run_id }}
+      matched_time: ${{ steps.gate.outputs.matched_time }}
+    steps:
+      - name: Decide whether build should run
+        id: gate
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          WORKFLOW_FILE: example.yml
+          TARGET_JOB_NAME: build
+          MIN_SECONDS: "3600"
+          CURRENT_RUN_ID: ${{ github.run_id }}
+        run: |
+          set -euo pipefail
+          now="$(date -u +%s)"
+
+          # Default policy: "If there is no previous successful build, run the first build"
+          should_run="true"
+          matched_run_id=""
+          matched_time=""
+          found_any_success="false"
+
+          while read -r run_id concl updated_at; do
+            [ -n "$run_id" ] || continue
+            [ "$run_id" = "$CURRENT_RUN_ID" ] && continue
+
+            # ✅ Exclude workflow failures: failure/cancelled/timed_out/action_required
+            case "$concl" in
+              failure|cancelled|timed_out|action_required)
+                continue
+                ;;
+            esac
+
+            # Check if the build job in this run was successful
+            jobs="$(gh api -H "Accept: application/vnd.github+json" \
+              "/repos/${REPO}/actions/runs/${run_id}/jobs?per_page=100")"
+
+            job_concl="$(echo "$jobs" | jq -r --arg NAME "$TARGET_JOB_NAME" \
+              '.jobs[] | select(.name == $NAME) | .conclusion' | head -n 1 || true)"
+
+            [ "$job_concl" = "success" ] || continue
+
+            found_any_success="true"
+            matched_run_id="$run_id"
+            matched_time="$updated_at"
+
+            past="$(date -u -d "$updated_at" +%s 2>/dev/null || true)"
+            [ -n "$past" ] || break
+
+            elapsed=$(( now - past ))
+
+            # If the last successful build was more than 1 hour ago, run; otherwise, skip
+            if [ "$elapsed" -ge "$MIN_SECONDS" ]; then
+              should_run="true"
+            else
+              should_run="false"
+            fi
+            break
+          done < <(
+            gh api --paginate -H "Accept: application/vnd.github+json" \
+              "/repos/${REPO}/actions/workflows/${WORKFLOW_FILE}/runs?status=completed&per_page=100" \
+            | jq -r '.workflow_runs[] | "\(.id) \(.conclusion) \(.updated_at)"'
+          )
+
+          echo "should_run=$should_run" >> "$GITHUB_OUTPUT"
+          echo "matched_run_id=$matched_run_id" >> "$GITHUB_OUTPUT"
+          echo "matched_time=$matched_time" >> "$GITHUB_OUTPUT"
+          echo "found_any_success=$found_any_success" >> "$GITHUB_OUTPUT"
+  prepare:
+    name: Print decision info
+    needs: check
+    if: needs.check.outputs.should_run == 'true'
+    runs-on: ubuntu-slim
+    permissions:
+      contents: none
+    steps:
+      - name: Print decision info
+        run: |
+          echo "Matched run id: ${{ needs.check.outputs.matched_run_id }}"
+          echo "Matched time:   ${{ needs.check.outputs.matched_time }}"
+  lint:
+    name: Run AGLint
+    needs: prepare
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Check out to repository
+        uses: actions/checkout@v6
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 'lts/*'
+
+      - name: Install dependencies
+        run: npm install
+
+      # If the linter found any errors, it will exit with a non-zero code,
+      # which will cause the job to fail
+      - name: Run AGLint
+        run: npm run lint
+  build:
+    name: Build and Publish to npm
+    needs: lint
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      id-token: write
+    steps:
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 'lts/*'
+          registry-url: 'https://registry.npmjs.org'
+      - name: Check out to repository
+        uses: actions/checkout@v6
+      - name: Install dependencies
+        run: npm install
+      - name: Build
+        run: npm run build
+      - name : Publish to npm
+        run: npm publish --tag latest --access public
+  purge:
+    name: Purge jsdelivr cache
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      actions: read
+    steps:
+      - name: Set up NodeJS LTS
+        uses: actions/setup-node@v6
+        with:
+          node-version: 'lts/*'
+      - name: Purge jsdelivr cache
+        uses: FilteringDev/jsdelivr-purge-npm@1.0.7
+        with:
+          package: '@list-kr/filterslists'
+          disttag: 'latest'
+    needs: build
+  

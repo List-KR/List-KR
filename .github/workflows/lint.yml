@@ -1,0 +1,31 @@
+name: AGLint
+
+on:
+  push:
+    branches:
+      - "**"
+  pull_request:
+    # The branches below must be a subset of the branches above
+    branches: 
+      - "**"
+
+jobs:
+  lint:
+    name: Run AGLint
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out to repository
+        uses: actions/checkout@v6
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 'lts/*'
+
+      - name: Install dependencies
+        run: npm install
+
+      # If the linter found any errors, it will exit with a non-zero code,
+      # which will cause the job to fail
+      - name: Run AGLint
+        run: npm run lint
