@@ -1,0 +1,77 @@
+!#if adguard
+!#include adblocking/filters-share/3rd_domains.txt
+!#include adblocking/filters-share/1st_domains.txt
+!#include adblocking/filters-share/general_elemhide.txt
+!#include adblocking/filters-AG/specific_ELEMHIDE.txt
+!#include adblocking/filters-share/general_url.txt
+!#include adblocking/filters-AG/general_url.txt
+!#include adblocking/filters-share/specific_URL.txt
+!#include adblocking/filters-share/specific_ELEMHIDE.txt
+!#include adblocking/filters-share/allowlist.txt
+!#include adblocking/filters-AG/allowlist.txt
+!#include adblocking/filters-AG/specific_URL.txt
+!#endif
+
+!#if (adguard && !adguard_ext_android_cb)
+!#include adblocking/filters-share/specific_CSS.txt
+!#include adblocking/filters-AG/specific_CSS.txt
+!#include adblocking/filters-share/extended_css_ELEMHIDE.txt
+!#include adblocking/filters-share/extended_css_INJECTION.txt
+!#include adblocking/filters-AG/extended_css_ELEMHIDE.txt
+!#include adblocking/filters-AG/extended_css_INJECTION.txt
+!#include adblocking/filters-AG/scriptlets.txt
+!#include adblocking/filters-share/javascript.txt
+!#include adblocking/filters-AG/javascript.txt
+!#include adblocking/filters-AG/antiadblock.txt
+!#endif
+
+!#if (adguard && !adguard_app_ios && !adguard_ext_safari)
+!#include adblocking/filters-AG/specific_REDIRECT.txt
+!#endif
+
+!#if (adguard && adguard_ext_android_cb)
+!#include adblocking/filters-AG/contentblocker.txt
+!#endif
+
+!#if (adguard && (adguard_ext_firefox || adguard_app_windows || adguard_app_mac || adguard_app_android))
+!#include adblocking/filters-AG/html_filtering.txt
+!#endif
+
+!#if (adguard && (adguard_app_windows || adguard_app_mac || adguard_app_android || adguard_ext_firefox || adguard_ext_chromium || adguard_ext_edge ))
+!#include adblocking/filters-share/removeparam.txt
+!#endif
+
+!#if (adguard && adguard_app_android)
+!#include adblocking/filters-AG/mobile/android/allowlist.txt
+!#include adblocking/filters-AG/mobile/android/allowlist_android_app.txt
+!#include adblocking/filters-AG/mobile/android/android_app.txt
+!#include adblocking/filters-AG/mobile/android/android_specific.txt
+!#include adblocking/filters-AG/mobile/android/antiadblock_android_app.txt
+!#endif
+
+!#if (adguard && adguard_app_ios)
+!#include adblocking/filters-AG/mobile/ios/allowlist_ios_app.txt
+!#include adblocking/filters-AG/mobile/ios/antiadblock_ios_app.txt
+!#include adblocking/filters-AG/mobile/ios/ios_app.txt
+!#include adblocking/filters-AG/mobile/ios/ios_specific.txt
+!#endif
+
+!#if (adguard && adguard_app_windows)
+!#include adblocking/filters-AG/desktop/windows_app/allowlist.txt
+!#include adblocking/filters-AG/desktop/windows_app/antiadblock.txt
+!#include adblocking/filters-AG/desktop/windows_app/specific_URL.txt
+!#endif
+
+!#if (adguard && adguard_app_mac)
+!#include adblocking/filters-AG/desktop/macos_app/allowlist.txt
+!#include adblocking/filters-AG/desktop/macos_app/antiadblock.txt
+!#include adblocking/filters-AG/desktop/macos_app/specific_URL.txt
+!#endif
+
+!#if (adguard && adguard_app_ios)
+!#include adblocking/filters-AG/repaidchange_ios.txt
+!#endif
+
+!#if (adguard && adguard_ext_chromium_mv3)
+!#include adblocking/filters-AG/repaidchange_mv3.txt
+!#endif
