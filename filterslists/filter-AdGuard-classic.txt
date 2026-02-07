@@ -1,5 +1,3 @@
-[AdGuard]
-
 !#if adguard
 !#include adblocking/filters-share/3rd_domains.txt
 !#include adblocking/filters-share/1st_domains.txt
