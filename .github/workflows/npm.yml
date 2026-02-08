@@ -6,6 +6,10 @@ on:
   schedule:
     - cron: "*/15 * * * *"
 
+concurrency:
+  group: publish-and-deploy
+  cancel-in-progress: false
+
 jobs:
   check:
     name: Check whether build should run
@@ -17,6 +21,8 @@ jobs:
       should_run: ${{ steps.gate.outputs.should_run }}
       matched_run_id: ${{ steps.gate.outputs.matched_run_id }}
       matched_time: ${{ steps.gate.outputs.matched_time }}
+      blocked_by_run_id: ${{ steps.gate.outputs.blocked_by_run_id }}
+      blocked_by_job: ${{ steps.gate.outputs.blocked_by_job }}
     steps:
       - name: Decide whether build should run
         id: gate
@@ -24,8 +30,8 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
           REPO: ${{ github.repository }}
-          WORKFLOW_FILE: example.yml
-          TARGET_JOB_NAME: build
+          WORKFLOW_FILE: npm.yml
+          TARGET_JOB_NAME: prepare
           MIN_SECONDS: "3600"
           CURRENT_RUN_ID: ${{ github.run_id }}
         run: |
@@ -38,6 +44,54 @@ jobs:
           matched_time=""
           found_any_success="false"
 
+          # --- Block if another run is already past prepare (or is in prepare) ---
+          # If any job among prepare/lint/build/purge is queued or in_progress in another run,
+          # skip this run immediately to avoid duplicate publish/deploy.
+          BLOCK_JOB_NAMES_REGEX='^(prepare|lint|build|purge)$'
+          blocked_by_run_id=""
+          blocked_by_job=""
+
+          for st in in_progress queued; do
+            while read -r other_run_id; do
+              [ -n "$other_run_id" ] || continue
+              [ "$other_run_id" = "$CURRENT_RUN_ID" ] && continue
+
+              jobs="$(gh api -H "Accept: application/vnd.github+json" \
+                "/repos/${REPO}/actions/runs/${other_run_id}/jobs?per_page=100")"
+
+              hit="$(echo "$jobs" | jq -r --arg re "$BLOCK_JOB_NAMES_REGEX" '
+                .jobs[]
+                | select(.name | test($re))
+                | select(.status == "queued" or .status == "in_progress")
+                | "\(.name) \(.status)"' | head -n 1 || true)"
+
+              if [ -n "$hit" ]; then
+                blocked_by_run_id="$other_run_id"
+                blocked_by_job="$hit"
+                break 2
+              fi
+            done < <(
+              gh api --paginate -H "Accept: application/vnd.github+json" \
+                "/repos/${REPO}/actions/workflows/${WORKFLOW_FILE}/runs?status=${st}&per_page=100" \
+              | jq -r '.workflow_runs[].id'
+            )
+          done
+
+          if [ -n "$blocked_by_run_id" ]; then
+            echo "Found another active run past prepare; skipping this run."
+            should_run="false"
+
+            echo "should_run=$should_run" >> "$GITHUB_OUTPUT"
+            echo "matched_run_id=$matched_run_id" >> "$GITHUB_OUTPUT"
+            echo "matched_time=$matched_time" >> "$GITHUB_OUTPUT"
+            echo "blocked_by_run_id=$blocked_by_run_id" >> "$GITHUB_OUTPUT"
+            echo "blocked_by_job=$blocked_by_job" >> "$GITHUB_OUTPUT"
+            echo "found_any_success=$found_any_success" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          # --- end block ---
+
+          # --- Time gate: find latest successful TARGET_JOB_NAME in completed runs ---
           while read -r run_id concl updated_at; do
             [ -n "$run_id" ] || continue
             [ "$run_id" = "$CURRENT_RUN_ID" ] && continue
@@ -83,7 +137,10 @@ jobs:
           echo "should_run=$should_run" >> "$GITHUB_OUTPUT"
           echo "matched_run_id=$matched_run_id" >> "$GITHUB_OUTPUT"
           echo "matched_time=$matched_time" >> "$GITHUB_OUTPUT"
+          echo "blocked_by_run_id=$blocked_by_run_id" >> "$GITHUB_OUTPUT"
+          echo "blocked_by_job=$blocked_by_job" >> "$GITHUB_OUTPUT"
           echo "found_any_success=$found_any_success" >> "$GITHUB_OUTPUT"
+
   prepare:
     name: Print decision info
     needs: check
