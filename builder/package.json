@@ -3,7 +3,8 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "build": "tsx source/buildci.ts"
+    "build": "tsx source/buildci.ts",
+    "lint": "eslint . --ext .ts"
   },
   "devDependencies": {
     "@adguard/agtree": "^3.4.3",
