@@ -44,38 +44,25 @@ jobs:
           matched_time=""
           found_any_success="false"
 
-          # --- Block if another run is already past prepare (or is in prepare) ---
-          # If any job among prepare/lint/build/purge is queued or in_progress in another run,
-          # skip this run immediately to avoid duplicate publish/deploy.
-          BLOCK_JOB_NAMES_REGEX='^(prepare|lint|build|purge)$'
-          blocked_by_run_id=""
-          blocked_by_job=""
+          # Condition B: no concurrently executing run (run.status=in_progress)
+          blocked_by_run_id="$(gh api --paginate -H "Accept: application/vnd.github+json" \
+            "/repos/${REPO}/actions/workflows/${WORKFLOW_FILE}/runs?status=in_progress&per_page=100" \
+          | jq -r --arg CUR "$CURRENT_RUN_ID" '.workflow_runs[]|select((.id|tostring)!=$CUR)|.id' \
+          | head -n1 || true)"
+          blocked_by_job="run_status=in_progress"
+          if [ -n "$blocked_by_run_id" ]; then
+            should_run=false
+            echo "should_run=$should_run" >> "$GITHUB_OUTPUT"
+            echo "blocked_by_run_id=$blocked_by_run_id" >> "$GITHUB_OUTPUT"
+            echo "blocked_by_job=$blocked_by_job" >> "$GITHUB_OUTPUT"
+            echo "matched_run_id=$matched_run_id" >> "$GITHUB_OUTPUT"
+            echo "matched_time=$matched_time" >> "$GITHUB_OUTPUT"
+            echo "found_any_success=$found_any_success" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
 
-          for st in in_progress queued; do
-            while read -r other_run_id; do
-              [ -n "$other_run_id" ] || continue
-              [ "$other_run_id" = "$CURRENT_RUN_ID" ] && continue
 
-              jobs="$(gh api -H "Accept: application/vnd.github+json" \
-                "/repos/${REPO}/actions/runs/${other_run_id}/jobs?per_page=100")"
 
-              hit="$(echo "$jobs" | jq -r --arg re "$BLOCK_JOB_NAMES_REGEX" '
-                .jobs[]
-                | select(.name | test($re))
-                | select(.status == "queued" or .status == "in_progress")
-                | "\(.name) \(.status)"' | head -n 1 || true)"
-
-              if [ -n "$hit" ]; then
-                blocked_by_run_id="$other_run_id"
-                blocked_by_job="$hit"
-                break 2
-              fi
-            done < <(
-              gh api --paginate -H "Accept: application/vnd.github+json" \
-                "/repos/${REPO}/actions/workflows/${WORKFLOW_FILE}/runs?status=${st}&per_page=100" \
-              | jq -r '.workflow_runs[].id'
-            )
-          done
 
           if [ -n "$blocked_by_run_id" ]; then
             echo "Found another active run past prepare; skipping this run."
@@ -91,48 +78,22 @@ jobs:
           fi
           # --- end block ---
 
-          # --- Time gate: find latest successful TARGET_JOB_NAME in completed runs ---
-          while read -r run_id concl updated_at; do
-            [ -n "$run_id" ] || continue
-            [ "$run_id" = "$CURRENT_RUN_ID" ] && continue
+          if [ "${goto_output_and_exit:-0}" != 1 ]; then
+            while read -r run_id; do
+              [ "$run_id" = "$CURRENT_RUN_ID" ] && continue
+              jobs="$(gh api -H "Accept: application/vnd.github+json" \
+                "/repos/${REPO}/actions/runs/${run_id}/jobs?per_page=100")"
+              read -r job_concl job_done < <(echo "$jobs" | jq -r --arg N "$TARGET_JOB_NAME" \
+                '.jobs[]|select(.name==$N)|"\(.conclusion) \(.completed_at)"' | head -n1)
+              [ "$job_concl" = "success" ] || continue
+              found_any_success=true; matched_run_id="$run_id"; matched_time="$job_done"
+              past="$(date -u -d "$job_done" +%s)"; elapsed=$((now-past))
+              should_run=$([ "$elapsed" -lt "$MIN_SECONDS" ] && echo false || echo true); break
+            done < <(gh api --paginate -H "Accept: application/vnd.github+json" \
+                "/repos/${REPO}/actions/workflows/${WORKFLOW_FILE}/runs?status=completed&per_page=100" \
+              | jq -r '.workflow_runs|sort_by(.created_at)|reverse|.[]|.id')
+          fi
 
-            # ✅ Exclude workflow failures: failure/cancelled/timed_out/action_required
-            case "$concl" in
-              failure|cancelled|timed_out|action_required)
-                continue
-                ;;
-            esac
-
-            # Check if the build job in this run was successful
-            jobs="$(gh api -H "Accept: application/vnd.github+json" \
-              "/repos/${REPO}/actions/runs/${run_id}/jobs?per_page=100")"
-
-            job_concl="$(echo "$jobs" | jq -r --arg NAME "$TARGET_JOB_NAME" \
-              '.jobs[] | select(.name == $NAME) | .conclusion' | head -n 1 || true)"
-
-            [ "$job_concl" = "success" ] || continue
-
-            found_any_success="true"
-            matched_run_id="$run_id"
-            matched_time="$updated_at"
-
-            past="$(date -u -d "$updated_at" +%s 2>/dev/null || true)"
-            [ -n "$past" ] || break
-
-            elapsed=$(( now - past ))
-
-            # If the last successful build was more than 1 hour ago, run; otherwise, skip
-            if [ "$elapsed" -ge "$MIN_SECONDS" ]; then
-              should_run="true"
-            else
-              should_run="false"
-            fi
-            break
-          done < <(
-            gh api --paginate -H "Accept: application/vnd.github+json" \
-              "/repos/${REPO}/actions/workflows/${WORKFLOW_FILE}/runs?status=completed&per_page=100" \
-            | jq -r '.workflow_runs[] | "\(.id) \(.conclusion) \(.updated_at)"'
-          )
 
           echo "should_run=$should_run" >> "$GITHUB_OUTPUT"
           echo "matched_run_id=$matched_run_id" >> "$GITHUB_OUTPUT"
@@ -174,7 +135,7 @@ jobs:
       # If the linter found any errors, it will exit with a non-zero code,
       # which will cause the job to fail
       - name: Run AGLint
-        run: npm run lint
+        run: npm run lint:aglint
   build:
     name: Build and Publish to npm
     needs: lint
