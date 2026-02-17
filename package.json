@@ -1,38 +1,26 @@
 {
-  "name": "list-kr",
-  "version": "1.0.0",
-  "description": "List-KR filters list blocks advertisements on Korean language websites.",
-  "contributors": [
-    "AdGuard Software Ltd.",
-    "PiQuark6046",
-    "green1052",
-    "seia-soto",
-    "JobcenterTycoon",
-    "Raiden-Ei",
-    "yous",
-    "Yuki2718",
-    "liberaldev",
-    "gaeulbyul",
-    "kiwitreekor",
-    "Baw-Appie",
-    "tytyqrqr",
-    "lidarbtc",
-    "Xvezda",
-    "Taewan-P",
-    "mapx-",
-    "tachibana-shin",
-    "iam-py-test",
-    "DavidLee3835",
-    "solban1",
-    "edoko",
-    "sanvit"
-  ],
-  "license": "GPL-3.0-only",
+  "name": "@list-kr/filterslists",
+  "version": "0.0.0",
+  "description": "The adblock filters lists for uBO and AdGuard, designed for Korean-language websites",
   "type": "module",
+  "workspaces": [
+    "builder",
+    "filterslists"
+  ],
   "scripts": {
-    "lint": "aglint **/*.txt"
+    "build": "npm run build -w builder",
+    "lint:aglint": "npm run lint -w filterslists",
+    "lint:eslint": "npm run lint -w builder"
   },
-  "devDependencies": {
-    "@adguard/aglint": "4.0.0-beta.2"
-  }
+  "files": [
+    "dist/**/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/List-KR/List-KR.git"
+  },
+  "engines": {
+    "node": ">=24"
+  },
+  "license": "GPL-3.0-only"
 }

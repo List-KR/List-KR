@@ -114,3 +114,64 @@ jobs:
         run: |
           echo "Matched run id: ${{ needs.check.outputs.matched_run_id }}"
           echo "Matched time:   ${{ needs.check.outputs.matched_time }}"
+  lint:
+    name: Run AGLint
+    needs: prepare
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Check out to repository
+        uses: actions/checkout@v6
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 'lts/*'
+
+      - name: Install dependencies
+        run: npm install
+
+      # If the linter found any errors, it will exit with a non-zero code,
+      # which will cause the job to fail
+      - name: Run AGLint
+        run: npm run lint:aglint
+  build:
+    name: Build and Publish to npm
+    needs: lint
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      id-token: write
+    steps:
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 'lts/*'
+          registry-url: 'https://registry.npmjs.org'
+      - name: Check out to repository
+        uses: actions/checkout@v6
+      - name: Install dependencies
+        run: npm install
+      - name: Build
+        run: npm run build
+      - name : Publish to npm
+        run: npm publish --tag latest --access public
+  purge:
+    name: Purge jsdelivr cache
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      actions: read
+    steps:
+      - name: Set up NodeJS LTS
+        uses: actions/setup-node@v6
+        with:
+          node-version: 'lts/*'
+      - name: Purge jsdelivr cache
+        uses: FilteringDev/jsdelivr-purge-npm@1.0.7
+        with:
+          package: '@list-kr/filterslists'
+          disttag: 'latest'
+    needs: build
+  

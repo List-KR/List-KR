@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "NodeNext",
+    "target": "ES2024",
+    "moduleResolution": "NodeNext",
+    "removeComments": false,
+    "alwaysStrict": false,
+    "skipLibCheck": true,
+    "paths": {
+      "@builder/*": ["./builder/source/*"],
+      "@reporoot/*": ["./*"]
+    }
+  }
+}
