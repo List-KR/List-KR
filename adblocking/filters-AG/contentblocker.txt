@@ -31,6 +31,7 @@ dicoall.com#@##homead
 dicoall.com#@##ad-lead
 dicoall.com#@##rightAd
 !
+algumon.com##div[id^="deal-"].card ~ .bg-base-100:has(> div[style] > div[class^="fallback svelte-"])
 @@||cheatdot.com^$generichide
 @@||tv.jtbc.co.kr^$generichide
 @@||mvod.jtbc.co.kr^$generichide
