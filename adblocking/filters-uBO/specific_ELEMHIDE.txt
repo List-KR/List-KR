@@ -1,6 +1,8 @@
 namu.wiki,~board.namu.wiki##div[class] > div[class*=" "] > div[class*=" "] ~ div[class*=" "] > div[id][class]:not([class*=" "]):empty
 namu.wiki,~board.namu.wiki##div[class*=" "]:not([class^="_"]) > div[class]:not([class*=" "]) > div[class*=" "]:has(> div[id][class] > div[id][class])
 !
+m.cafe.naver.com##.banner_add:matches-path(/ca-fe\\/web\\/cafes\\/(ghdi58|14062859)(\\/|\\?)/)
+~m.cafe.naver.com,cafe.naver.com##img[src][alt="매니저 등록 배너"]:matches-path(/(&|\\.|\\?)clubid=14062859(&|$)/)
 m.cafe.naver.com##.banner_add:matches-path(/ca-fe\\/web\\/cafes\\/(dieselmania|11262350)(\\/|\\?)/)
 ~m.cafe.naver.com,cafe.naver.com##img[src][alt="매니저 등록 배너"]:matches-path(/(&|\\.|\\?)clubid=11262350(&|$)/)
 ~m.cafe.naver.com,cafe.naver.com###editorMainContent tr:has(~ tr img[id="userImg8967591"]):matches-path(/(&|\\.|\\?)clubid=10912875(&|$)/)
