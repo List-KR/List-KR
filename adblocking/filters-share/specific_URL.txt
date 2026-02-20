@@ -1,3 +1,4 @@
+/mobus/resources/images/route_inquiry_addBoxImg$domain=m.bustago.or.kr
 ||m.stock.naver.com/front-api/ad/reward
 ||img.tvchosun.com/news/article/content_ad.js
 ||mapleland.gg/img/Latal
