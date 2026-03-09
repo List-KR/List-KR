@@ -58,6 +58,7 @@ eegosa.com##section[id*="_ads_"]
 sports.donga.com##div[id*="_AD"]
 
 
+damoang.net##div[data-slot="board-list-promotion"]
 bbs.ruliweb.com##.board_main ~ div[style^="width: 100%; height: "][style$="align-items: center;"]
 m.bustago.or.kr###safeconnectAddBox
 dundam.xyz##.instv-ad
