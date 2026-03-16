@@ -862,6 +862,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+||mingk*.net/data/file/passfree/$domain=/mingky[0-9]+\.net/
 /^https:\/\/(www\.)?yako[0-9]+\.com\/upload\/banner\//$domain=/yako[0-9]+\.com/
 /lover[0-9]\.net\/file\/tohotv\/.*\.gif$domain=/lover[0-9]\.net/
 /lover[0-9]\.net\/file\/1bet\/.*\.gif$domain=/lover[0-9]\.net/
