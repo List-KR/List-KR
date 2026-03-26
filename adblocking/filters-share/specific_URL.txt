@@ -862,6 +862,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/^https:\/\/cdn\.xtoon[0-9]+\.com\/collaboration\//$domain=/xtoon[0-9]+\.com/
 /^https:\/\/funbe[0-9]+\.com\/images\//$domain=/funbe[0-9]+\.com/
 ||mingk*.net/data/file/passfree/$domain=/mingky[0-9]+\.net/
 /^https:\/\/(www\.)?yako[0-9]+\.com\/upload\/banner\//$domain=/yako[0-9]+\.com/
