@@ -2,11 +2,11 @@ import * as Piscina from 'piscina'
 import * as Fs from 'node:fs'
 import * as Path from 'node:path'
 import * as Process from 'node:process'
-import { GetWorkingDirectory } from './utils/cwd.ts'
+import { SafeInitCwd } from './utils/cwd.ts'
 import { LoadFiltersListsConfig } from './filterslists-config.ts'
 
 // Determine working directory
-const WorkingDirectory = GetWorkingDirectory()
+const WorkingDirectory = SafeInitCwd({ Cwd: Process.cwd(), InitCwd: Process.env.INIT_CWD })
 const FiltersListDirectory = Path.resolve(WorkingDirectory, 'filterslists')
 
 // Validate existence of filters lists directory and config file
