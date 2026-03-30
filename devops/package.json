@@ -1,0 +1,23 @@
+{
+  "name": "@list-kr/filterslists-devops",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "ci:decideDeploy": "tsx source/decide-deploy.ts",
+    "lint": "eslint . --ext .ts"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^8.57.2",
+    "@typescript-eslint/parser": "^8.57.2",
+    "eslint": "^10.1.0",
+    "typescript-eslint": "^8.57.2"
+  },
+  "dependencies": {
+    "@actions/core": "^3.0.0",
+    "@octokit/rest": "^22.0.1",
+    "temporal-kit": "^0.2.7",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3",
+    "zod": "^4.3.6"
+  }
+}
