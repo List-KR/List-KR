@@ -6,15 +6,15 @@
 
 [![jsDelivr Stats](https://data.jsdelivr.com/v1/package/gh/List-KR/List-KR/badge)](https://www.jsdelivr.com/package/gh/List-KR/List-KR)
 
-List-KR은 애드블록 커뮤니티와 AdGuard에서 관리하는 한국어 광고 차단 필터입니다.
+List-KR은 애드블록 커뮤니티와 AdGuard에서 관리하는 한국어 광고 차단 필터 리스트입니다.
 
 지원하는 광고 차단기는 AdGuard와 uBlock Origin입니다.
 
 이메일을 통한 비공개 지원이 필요하시면 각 기여자의 GitHub 프로필에서 연락처를 확인하실 수 있습니다.
 
-AdGuard에 사전 탑재된 List-KR 필터 리스트는 광고와 AdGuard에서 수용하기로 결정한 법적 요청을 제외한 안티-애드블록을 처리합니다.
-그러나, cdn.jsdelivr.net로 배포되는 필터 리스트들은 광고, 각 기여자가 책임을 지는 안티-애드블록, 추적기, 방해 요소 등을 처리합니다.
-`filter-<PLATFORM>-unified.txt` 버전은 cdn.jsdelivr.net로 배포되는 필터 리스트 버전에 YouTube 같은 한국에서도 높은 트래픽을 가진 국제 웹 사이트에 대한 대응도 포함됩니다.
+AdGuard에 사전 탑재된 List-KR 필터 리스트(List-KR filters list Classic)는 광고와 AdGuard에서 수용하기로 결정한 법적 요청을 제외한 안티-애드블록을 처리합니다.
+그러나, 일반 필터 리스트들(List-KR filters list)은 광고, 각 기여자가 책임을 지는 안티-애드블록, 추적기, 방해 요소 등을 처리합니다.
+List-KR filters list Unified 버전은 cdn.jsdelivr.net로 배포되는 필터 리스트 버전에 YouTube 같은 한국에서도 높은 트래픽을 가진 국제 웹 사이트에 대한 대응도 포함됩니다.
 
 ## 사용법
 
@@ -26,22 +26,31 @@ AdGuard에 사전 탑재된 List-KR 필터 리스트는 광고와 AdGuard에서 
 > [!IMPORTANT]
 > List-KR 필터 리스트는 **오직** AdGuard와 uBlock Origin만 지원합니다. 사용자에 의해 다른 애드블록에 추가된다고 한들 예상된 작동은 커녕 오작동을 불러올 수 있습니다. 관련된 요청은 무시되고 닫힙니다.
 
-**AdGuard**:
+**List-KR filters list Classic for AdGuard**:
 ```
-https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filter-AdGuard.txt
+https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-AdGuard-classic.txt
 ```
-**uBlock Origin**:
+**List-KR filters list Classic for uBlock Origin**:
 ```
-https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filter-uBlockOrigin.txt
+https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-uBlockOrigin-classic.txt
 ```
 
-**AdGuard Unified**:
+**List-KR filters list for AdGuard**:
 ```
-https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filter-AdGuard-unified.txt
+https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-AdGuard.txt
 ```
-**uBlock Origin Unified**:
+**List-KR filters list for uBlock Origin**:
 ```
-https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filter-uBlockOrigin-unified.txt
+https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-uBlockOrigin.txt
+```
+
+**List-KR filters list Unified for AdGuard**:
+```
+https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-AdGuard-unified.txt
+```
+**List-KR filters list Unified for uBlock Origin**:
+```
+https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-uBlockOrigin-unified.txt
 ```
 
 **List-KR DNS**:
