@@ -122,6 +122,7 @@ dicoall.com#@##homead
 dicoall.com#@##ad-lead
 dicoall.com#@##rightAd
 !
+algumon.com##div[id^="deal-"].card ~ .bg-base-100:has(> div[style] > div[class^="fallback svelte-"])
 cheatdot.com#%#//scriptlet('prevent-setTimeout', 'window.getComputedStyle(t).display')
 3dpchip.com##+js(prevent-xhr, /compass.adop.cc|adsbygoogle|taboola/, emptyStr)
 tv.jtbc.co.kr,mvod.jtbc.co.kr,onair.jtbc.co.kr#%#//scriptlet('prevent-setTimeout', 'getComputedStyle(t).getPropertyValue("visibility")')

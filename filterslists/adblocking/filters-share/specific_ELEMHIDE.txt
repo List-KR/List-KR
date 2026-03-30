@@ -58,6 +58,18 @@ eegosa.com##section[id*="_ads_"]
 sports.donga.com##div[id*="_AD"]
 
 
+www.algumon.com##.deal-content .deal-2col:is(:has(> div[style^="display: flex; justify-content: center;"]), :has(> div[style^="display:flex;"] > .adsbygoogle))
+damoang.net##div[data-slot="board-list-promotion"]
+damoang.net##main .gap-4.sm\:grid-cols-3 > .gap-1
+damoang.net##aside .gap-4 > div[data-slot="sidebar-banner"]
+damoang.net##aside .gap-4 > .gap-4:has(.ad-slot-container)
+damoang.net##aside .gap-4 > .top-\[64px\].space-y-4
+damoang.net##main .divide-border.overflow-hidden.-mx-5.md\:mx-0 a.promo-classic-row
+damoang.net##main .divide-border.overflow-hidden.-mx-5.md\:mx-0 .py-2:has(> .ad-slot-container)
+damoang.net##div[data-slot="board-list-promotion"]
+bbs.ruliweb.com##.board_main ~ div[style^="width: 100%; height: "][style$="align-items: center;"]
+m.bustago.or.kr###safeconnectAddBox
+dundam.xyz##.instv-ad
 algumon.com##.bg-base-100:has(> div.adsense-container > ins.adsbygoogle)
 excellesports.com##.modal_contents .modal_wrap
 m.search.naver.com##div[data-block-id^="review/prs_template_"] .sds-comps-header ~ div[data-template-type="vertical"] .sds-comps-vertical-layout.sds-comps-full-layout:has(> .sds-comps-vertical-layout a[href^="https://ader.naver.com/"])
@@ -1378,6 +1390,11 @@ kio.ac##main > div:has(> div > div > a > img)
 !
 ! DOMAIN-REFRESHER: START
 !
+[$domain=/xtoon[0-9]+\.com/]##.container > div.row > div > a[target="_blank"] > picture
+[$domain=/funbe[0-9]+\.com/]##.mobile-banner > div[class^="main_top_bann"]
+[$domain=/funbe[0-9]+\.com/]##.mobile-banner div.banner_m
+[$domain=/funbe[0-9]+\.com/]###bo_list div[class^="bancol"]
+[$domain=/mingky[0-9]+\.net/]##.contents_wrap.column div[style="display: flex; flex-direction: column; align-items: center;"]
 nightofpeace.com,ilovebees.io##.e-con-full.e-flex.e-con:has(a[target="_blank"] img)
 nightofpeace.com,ilovebees.io##.e-grid.e-con-full.e-con.e-child:has(a[target="_blank"] img)
 [$domain=/lover[0-9]\.net/]##.div-over

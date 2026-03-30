@@ -42,7 +42,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           REPO: ${{ github.repository }}
           WORKFLOW_FILE: npm.yml
-          TARGET_JOB_NAME: prepare
+          TARGET_JOB_NAME: "Print decision info"
           MIN_SECONDS: "3600"
           CURRENT_RUN_ID: ${{ github.run_id }}
         run: npm run ci:decideDeploy -w devops
