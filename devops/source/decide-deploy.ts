@@ -1,6 +1,5 @@
 import * as Core from '@actions/core'
 import { Octokit } from '@octokit/rest'
-import * as TemporalKit from 'temporal-kit'
 import * as Zod from 'zod'
 import * as Process from 'node:process'
 
@@ -90,10 +89,9 @@ if (LatestSuccessfulPrepare !== null) {
   MatchedRunId = String(LatestSuccessfulPrepare.RunId)
   MatchedTime = LatestSuccessfulPrepare.CompletedAt
 
-  const CompletedAtParsed = TemporalKit.fromISO(LatestSuccessfulPrepare.CompletedAt)
-  const CompletedAtUtc = TemporalKit.isInstant(CompletedAtParsed) ? CompletedAtParsed.toZonedDateTimeISO('UTC') : CompletedAtParsed
-  const ThresholdUtc = TemporalKit.subtract(TemporalKit.nowZoned('UTC'), { seconds: Env.MIN_SECONDS })
-  ShouldRun = !TemporalKit.isAfter(CompletedAtUtc, ThresholdUtc)
+  const CompletedAtMs = Date.parse(LatestSuccessfulPrepare.CompletedAt)
+  const ThresholdMs = Date.now() - (Env.MIN_SECONDS * 1000)
+  ShouldRun = Number.isFinite(CompletedAtMs) && CompletedAtMs <= ThresholdMs
 
   if (!ShouldRun) {
     BlockedByRunId = String(LatestSuccessfulPrepare.RunId)
