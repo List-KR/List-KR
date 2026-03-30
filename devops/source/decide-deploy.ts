@@ -10,7 +10,8 @@ const Env = await Zod.object({
   TARGET_JOB_NAME: Zod.string().nonempty(),
   MIN_SECONDS: Zod.string().nonempty().transform(V => Number(V)).refine(V => Number.isFinite(V) && V >= 0),
   CURRENT_RUN_ID: Zod.string().nonempty().transform(V => Number(V)),
-  FORCE_RUN: Zod.string().nonempty().transform(V => V === 'true')
+  FORCE_RUN: Zod.string().nonempty().transform(V => V === 'true'),
+  EVENT_NAME: Zod.string().nonempty()
 }).strip().parseAsync(Process.env)
 
 const OctokitInstance = new Octokit({
@@ -98,11 +99,23 @@ if (LatestSuccessfulPrepare !== null) {
 
   const CompletedAtMs = Date.parse(LatestSuccessfulPrepare.CompletedAt)
   const ThresholdMs = Date.now() - (Env.MIN_SECONDS * 1000)
-  ShouldRun = Number.isFinite(CompletedAtMs) && CompletedAtMs <= ThresholdMs
+  const CooldownPassed = Number.isFinite(CompletedAtMs) && CompletedAtMs <= ThresholdMs
 
-  if (!ShouldRun) {
+  if (!CooldownPassed) {
     BlockedByRunId = String(LatestSuccessfulPrepare.RunId)
     BlockedByJob = LatestSuccessfulPrepare.JobName
+    ShouldRun = false
+  } else if (Env.EVENT_NAME === 'schedule') {
+    const NewCommits = await OctokitInstance.repos.listCommits({
+      owner: Owner,
+      repo: Repo,
+      sha: 'master',
+      since: LatestSuccessfulPrepare.CompletedAt,
+      per_page: 1
+    })
+    ShouldRun = NewCommits.data.length > 0
+  } else {
+    ShouldRun = true
   }
 } else {
   ShouldRun = true

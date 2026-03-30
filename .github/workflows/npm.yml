@@ -56,6 +56,7 @@ jobs:
           MIN_SECONDS: "3600"
           CURRENT_RUN_ID: ${{ github.run_id }}
           FORCE_RUN: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.force_run == 'true' }}
+          EVENT_NAME: ${{ github.event_name }}
         run: npm run ci:decideDeploy -w devops
           
   prepare:
