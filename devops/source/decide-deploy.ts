@@ -97,6 +97,8 @@ if (LatestSuccessfulPrepare !== null) {
     BlockedByRunId = String(LatestSuccessfulPrepare.RunId)
     BlockedByJob = LatestSuccessfulPrepare.JobName
   }
+} else {
+  ShouldRun = true
 }
 
 EmitDecision()
