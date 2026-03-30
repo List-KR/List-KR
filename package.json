@@ -5,12 +5,15 @@
   "type": "module",
   "workspaces": [
     "builder",
-    "filterslists"
+    "filterslists",
+    "devops"
   ],
   "scripts": {
     "build": "npm run build -w builder",
+    "ci:decideDeploy": "npm run ci:decideDeploy -w devops",
     "lint:aglint": "npm run lint -w filterslists",
-    "lint:eslint": "npm run lint -w builder"
+    "lint:builder": "npm run lint -w builder",
+    "lint:devops": "npm run lint -w devops"
   },
   "files": [
     "dist/**/*"
