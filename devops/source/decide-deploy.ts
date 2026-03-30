@@ -90,7 +90,8 @@ if (LatestSuccessfulPrepare !== null) {
   MatchedRunId = String(LatestSuccessfulPrepare.RunId)
   MatchedTime = LatestSuccessfulPrepare.CompletedAt
 
-  const CompletedAtUtc = TemporalKit.fromISO(LatestSuccessfulPrepare.CompletedAt)
+  const CompletedAtParsed = TemporalKit.fromISO(LatestSuccessfulPrepare.CompletedAt)
+  const CompletedAtUtc = TemporalKit.isInstant(CompletedAtParsed) ? CompletedAtParsed.toZonedDateTimeISO('UTC') : CompletedAtParsed
   const ThresholdUtc = TemporalKit.subtract(TemporalKit.nowZoned('UTC'), { seconds: Env.MIN_SECONDS })
   ShouldRun = !TemporalKit.isAfter(CompletedAtUtc, ThresholdUtc)
 
