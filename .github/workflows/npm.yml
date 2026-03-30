@@ -5,6 +5,16 @@ on:
     branches: [ master ]
   schedule:
     - cron: "*/25 * * * *"
+  workflow_dispatch:
+    inputs:
+      force_run:
+        description: Force should_run=true and bypass cooldown check
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'false'
+          - 'true'
 
 concurrency:
   group: publish-and-deploy
@@ -45,6 +55,7 @@ jobs:
           TARGET_JOB_NAME: "Print decision info"
           MIN_SECONDS: "3600"
           CURRENT_RUN_ID: ${{ github.run_id }}
+          FORCE_RUN: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.force_run == 'true' }}
         run: npm run ci:decideDeploy -w devops
           
   prepare:

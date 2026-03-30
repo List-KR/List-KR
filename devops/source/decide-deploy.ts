@@ -9,7 +9,8 @@ const Env = await Zod.object({
   WORKFLOW_FILE: Zod.string().nonempty(),
   TARGET_JOB_NAME: Zod.string().nonempty(),
   MIN_SECONDS: Zod.string().nonempty().transform(V => Number(V)).refine(V => Number.isFinite(V) && V >= 0),
-  CURRENT_RUN_ID: Zod.string().nonempty().transform(V => Number(V))
+  CURRENT_RUN_ID: Zod.string().nonempty().transform(V => Number(V)),
+  FORCE_RUN: Zod.string().nonempty().transform(V => V === 'true')
 }).strip().parseAsync(Process.env)
 
 const OctokitInstance = new Octokit({
@@ -48,6 +49,12 @@ function EmitDecision(): void {
   Core.setOutput('matched_time', MatchedTime)
   Core.setOutput('blocked_by_run_id', BlockedByRunId)
   Core.setOutput('blocked_by_job', BlockedByJob)
+}
+
+if (Env.FORCE_RUN) {
+  ShouldRun = true
+  EmitDecision()
+  Process.exit(0)
 }
 
 if (PreviousRuns.length === 0) {
