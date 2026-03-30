@@ -52,7 +52,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           REPO: ${{ github.repository }}
           WORKFLOW_FILE: npm.yml
-          TARGET_JOB_NAME: "Print decision info"
+          TARGET_JOB_NAME: "Build and Publish to npm"
           MIN_SECONDS: "3600"
           CURRENT_RUN_ID: ${{ github.run_id }}
           FORCE_RUN: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.force_run == 'true' }}
