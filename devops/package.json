@@ -4,10 +4,13 @@
   "private": true,
   "scripts": {
     "ci:decideDeploy": "tsx source/decide-deploy.ts",
+    "ci:applyPackageJson": "tsx source/apply-packagejson.ts",
     "lint": "eslint . --ext .ts"
   },
   "devDependencies": {
     "@types/node": "^24.12.0",
+    "@types/npmcli__package-json": "^4.0.4",
+    "@types/semver": "^7.7.1",
     "@typescript-eslint/eslint-plugin": "^8.57.2",
     "@typescript-eslint/parser": "^8.57.2",
     "eslint": "^10.1.0",
@@ -15,7 +18,10 @@
   },
   "dependencies": {
     "@actions/core": "^3.0.0",
+    "@npmcli/package-json": "^7.0.5",
     "@octokit/rest": "^22.0.1",
+    "@typescriptprime/securereq": "^1.2.0",
+    "semver": "^7.7.4",
     "tsx": "^4.21.0",
     "typescript": "^5.9.3",
     "zod": "^4.3.6"
