@@ -15,7 +15,7 @@ class BuildBundledFiltersListsWithIfs extends BuildBundledFiltersLists {
   Build(FiltersListDefinition: FiltersListsConfigWithVersion[number], FiltersList: AGTree.FilterList): void {
     const BundledFiltersList = this.BundleIncludes(FiltersList)
     const HeaderFilterList = this.BuildHeaderFilterList(FiltersListDefinition)
-    const OutputFileName = this.GetBundledOutputFileName(FiltersListDefinition.DefinitionFileName)
+    const OutputFileName = FiltersListDefinition.DefinitionFileName
 
     Fs.mkdirSync(Path.resolve(this.WorkingDirectory, 'dist'), { recursive: true })
     Fs.writeFileSync(

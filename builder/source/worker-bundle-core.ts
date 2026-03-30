@@ -58,10 +58,6 @@ export class BuildBundledFiltersLists {
     return AGTree.FilterListParser.parse(Fs.readFileSync(FilePath, 'utf-8'), { parseUboSpecificRules: true })
   }
 
-  protected GetBundledOutputFileName(DefinitionFileName: string): string {
-    return DefinitionFileName.replace(/^filterslist-/, 'filter-')
-  }
-
   protected StringifyFilterList(FiltersList: AGTree.FilterList): string {
     let Output = ''
 
