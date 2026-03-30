@@ -1,0 +1,28 @@
+{
+  "name": "@list-kr/filterslists-builder",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "tsx source/buildci.ts",
+    "lint": "eslint . --ext .ts"
+  },
+  "devDependencies": {
+    "@adguard/agtree": "^4.0.4",
+    "@npmcli/package-json": "^7.0.5",
+    "@types/node": "^24.12.0",
+    "@types/npmcli__package-json": "^4.0.4",
+    "@types/semver": "^7.7.1",
+    "@typescript-eslint/eslint-plugin": "^8.57.2",
+    "@typescript-eslint/parser": "^8.57.2",
+    "@typescriptprime/parsing": "^2.0.0",
+    "@typescriptprime/securereq": "^1.2.0",
+    "eslint": "^10.1.0",
+    "memfs": "^4.57.1",
+    "piscina": "^5.1.4",
+    "semver": "^7.7.4",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.57.2",
+    "zod": "^4.3.6"
+  }
+}

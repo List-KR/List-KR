@@ -1,0 +1,62 @@
+[
+  {
+    "Name": "List-KR classic filters list (AdGuard)",
+    "DefinitionFileName": "filterslist-AdGuard-classic.txt",
+    "Description": "AdGuard용 List-KR 클래식 필터 리스트입니다. 한국어권 웹 페이지 및 앱에 있는 광고와 거부되지 않은 안티 애드블록을 차단합니다.",
+    "ExpireDuration": 1,
+    "HomepageUrl": "https://github.com/List-KR/List-KR",
+    "SupportUrl": "https://github.com/List-KR/List-KR/issues",
+    "LicenseUrl": "https://github.com/List-KR/List-KR/blob/master/LICENSE",
+    "AdblockType": "AdGuard"
+  },
+  {
+    "Name": "List-KR classic filters list (uBO)",
+    "DefinitionFileName": "filterslist-uBlockOrigin-classic.txt",
+    "Description": "uBlock Origin용 List-KR 클래식 필터 리스트입니다. 한국어권 웹 페이지 및 앱에 있는 광고와 거부되지 않은 안티 애드블록을 차단합니다.",
+    "ExpireDuration": 1,
+    "HomepageUrl": "https://github.com/List-KR/List-KR",
+    "SupportUrl": "https://github.com/List-KR/List-KR/issues",
+    "LicenseUrl": "https://github.com/List-KR/List-KR/blob/master/LICENSE",
+    "AdblockType": "uBlockOrigin"
+  },
+  {
+    "Name": "List-KR filters list (AdGuard)",
+    "DefinitionFileName": "filterslist-AdGuard.txt",
+    "Description": "AdGuard용 List-KR 필터 리스트입니다. 한국어권 웹 페이지 및 앱에 있는 광고, 트래커, 방해 요소와 안티 애드블록을 차단합니다.",
+    "ExpireDuration": 1,
+    "HomepageUrl": "https://github.com/List-KR/List-KR",
+    "SupportUrl": "https://github.com/List-KR/List-KR/issues",
+    "LicenseUrl": "https://github.com/List-KR/List-KR/blob/master/LICENSE",
+    "AdblockType": "AdGuard"
+  },
+  {
+    "Name": "List-KR filters list (uBO)",
+    "DefinitionFileName": "filterslist-uBlockOrigin.txt",
+    "Description": "uBlock Origin용 List-KR 필터 리스트입니다. 한국어권 웹 페이지 및 앱에 있는 광고, 트래커, 방해 요소와 안티 애드블록을 차단합니다.",
+    "ExpireDuration": 1,
+    "HomepageUrl": "https://github.com/List-KR/List-KR",
+    "SupportUrl": "https://github.com/List-KR/List-KR/issues",
+    "LicenseUrl": "https://github.com/List-KR/List-KR/blob/master/LICENSE",
+    "AdblockType": "uBlockOrigin"
+  },
+  {
+    "Name": "List-KR unified filters list (AdGuard)",
+    "DefinitionFileName": "filterslist-AdGuard-unified.txt",
+    "Description": "AdGuard용 List-KR 통합 필터 리스트입니다. 한국어권 및 국제 웹 페이지 및 앱에 있는 광고, 트래커, 방해 요소와 안티 애드블록을 차단합니다.",
+    "ExpireDuration": 1,
+    "HomepageUrl": "https://github.com/List-KR/List-KR",
+    "SupportUrl": "https://github.com/List-KR/List-KR/issues",
+    "LicenseUrl": "https://github.com/List-KR/List-KR/blob/master/LICENSE",
+    "AdblockType": "AdGuard"
+  },
+  {
+    "Name": "List-KR unified filters list (uBlock Origin)",
+    "DefinitionFileName": "filterslist-uBlockOrigin-unified.txt",
+    "Description": "uBlock Origin용 List-KR 통합 필터 리스트입니다. 한국어권 및 국제 웹 페이지 및 앱에 있는 광고, 트래커, 방해 요소와 안티 애드블록을 차단합니다.",
+    "ExpireDuration": 1,
+    "HomepageUrl": "https://github.com/List-KR/List-KR",
+    "SupportUrl": "https://github.com/List-KR/List-KR/issues",
+    "LicenseUrl": "https://github.com/List-KR/List-KR/blob/master/LICENSE",
+    "AdblockType": "uBlockOrigin"
+  }
+]

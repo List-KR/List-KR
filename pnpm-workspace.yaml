@@ -1,0 +1,4 @@
+packages:
+  - "builder"
+  - "devops"
+  - "filterslists"

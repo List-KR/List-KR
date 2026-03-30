@@ -1,0 +1,11 @@
+{
+  "name": "@list-kr/filterslists-raw",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "lint": "aglint **/*.txt"
+  },
+  "devDependencies": {
+    "@adguard/aglint": "4.0.0-beta.2"
+  }
+}

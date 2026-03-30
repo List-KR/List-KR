@@ -29,7 +29,7 @@ jobs:
       # which will cause the job to fail
       - name: Run AGLint
         run: npm run lint:aglint
-  eslint:
+  eslint-builder:
     name: Run ESLint
     runs-on: ubuntu-latest
     steps:
@@ -47,4 +47,23 @@ jobs:
       # If the linter found any errors, it will exit with a non-zero code,
       # which will cause the job to fail
       - name: Run ESLint
-        run: npm run lint:eslint
+        run: npm run lint:builder
+  eslint-devops:
+    name: Run ESLint
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out to repository
+        uses: actions/checkout@v6
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 'lts/*'
+
+      - name: Install dependencies
+        run: npm install
+
+      # If the linter found any errors, it will exit with a non-zero code,
+      # which will cause the job to fail
+      - name: Run ESLint
+        run: npm run lint:devops

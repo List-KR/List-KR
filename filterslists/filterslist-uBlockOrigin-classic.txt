@@ -1,0 +1,32 @@
+!#if ext_ublock
+!#include adblocking/filters-share/3rd_domains.txt
+!#include adblocking/filters-share/1st_domains.txt
+!#include adblocking/filters-share/general_elemhide.txt
+!#include adblocking/filters-uBO/specific_ELEMHIDE.txt
+!#include adblocking/filters-share/general_url.txt
+!#include adblocking/filters-uBO/general_url.txt
+!#include adblocking/filters-share/specific_URL.txt
+!#include adblocking/filters-share/specific_ELEMHIDE.txt
+!#include adblocking/filters-share/allowlist.txt
+!#include adblocking/filters-share/extended_css_ELEMHIDE.txt
+!#include adblocking/filters-share/extended_css_INJECTION.txt
+!#include adblocking/filters-uBO/specific_REDIRECT.txt
+!#include adblocking/filters-uBO/extended_css_ELEMHIDE.txt
+!#include adblocking/filters-uBO/extended_css_INJECTION.txt
+!#include adblocking/filters-uBO/scriptlets.txt
+!#include adblocking/filters-share/javascript.txt
+!#include adblocking/filters-uBO/javascript.txt
+!#include adblocking/filters-uBO/antiadblock.txt
+!#include adblocking/filters-share/removeparam.txt
+!#include adblocking/filters-uBO/allowlist.txt
+!#include adblocking/filters-uBO/specific_URL.txt
+!#endif
+
+!#if cap_user_stylesheet
+!#include adblocking/filters-share/specific_CSS.txt
+!#include adblocking/filters-uBO/specific_CSS.txt
+!#endif
+
+!#if cap_html_filtering
+!#include adblocking/filters-uBO/html_filtering.txt
+!#endif
