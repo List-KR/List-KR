@@ -45,6 +45,9 @@ jobs:
       - name: Install pnpm
         run: npm install -g pnpm
 
+      - name: Set pnpm store path
+        run: mkdir -p ~/.pnpm-store && pnpm config set store ~/.pnpm-store
+
       - name: Install dependencies
         run: pnpm install --no-lockfile
 
@@ -94,6 +97,9 @@ jobs:
       - name: Install pnpm
         run: npm install -g pnpm
 
+      - name: Set pnpm store path
+        run: mkdir -p ~/.pnpm-store && pnpm config set store ~/.pnpm-store
+
       - name: Install dependencies
         run: pnpm install --no-lockfile
 
@@ -120,6 +126,8 @@ jobs:
         run: npm install -g pnpm
       - name: Install dependencies
         run: pnpm install --no-lockfile
+      - name: Set pnpm store path
+        run: mkdir -p ~/.pnpm-store && pnpm config set store ~/.pnpm-store
       - name: Build
         run: npm run build
       - name: Apply new version to package.json
