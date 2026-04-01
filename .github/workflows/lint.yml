@@ -30,7 +30,7 @@ jobs:
       - name: Run AGLint
         run: npm run lint:aglint
   eslint-builder:
-    name: Run ESLint
+    name: Run ESLint for builder
     runs-on: ubuntu-latest
     steps:
       - name: Check out to repository
@@ -49,7 +49,7 @@ jobs:
       - name: Run ESLint
         run: npm run lint:builder
   eslint-devops:
-    name: Run ESLint
+    name: Run ESLint for devops
     runs-on: ubuntu-latest
     steps:
       - name: Check out to repository
