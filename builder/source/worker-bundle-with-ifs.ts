@@ -1,7 +1,10 @@
 import * as AGTree from '@adguard/agtree'
+import * as ActionCore from '@actions/core'
 import * as Piscina from 'piscina'
 import * as Path from 'node:path'
 import * as Fs from 'node:fs'
+import * as Process from 'node:process'
+import * as WorkerThread from 'node:worker_threads'
 import type { FiltersListsConfigWithVersion } from './filterslists-config.ts'
 import { BuildBundledFiltersLists } from './worker-bundle-core.ts'
 
@@ -13,19 +16,24 @@ type WorkerData = {
 
 class BuildBundledFiltersListsWithIfs extends BuildBundledFiltersLists {
   Build(FiltersListDefinition: FiltersListsConfigWithVersion[number], FiltersList: AGTree.FilterList): void {
+    ActionCore.info(`[bundle-with-ifs pid=${Process.pid} threadid=${WorkerThread.threadId}] Building bundled list for ${FiltersListDefinition.DefinitionFileName}`)
+
     const BundledFiltersList = this.BundleIncludes(FiltersList)
     const HeaderFilterList = this.BuildHeaderFilterList(FiltersListDefinition)
     const OutputFileName = FiltersListDefinition.DefinitionFileName
+    const OutputFilePath = Path.resolve(this.WorkingDirectory, 'dist', OutputFileName)
 
     Fs.mkdirSync(Path.resolve(this.WorkingDirectory, 'dist'), { recursive: true })
     Fs.writeFileSync(
-      Path.resolve(this.WorkingDirectory, 'dist', OutputFileName),
+      OutputFilePath,
       this.StringifyFilterList({
         ...BundledFiltersList,
         children: [...HeaderFilterList.children, ...BundledFiltersList.children]
       }),
       'utf-8'
     )
+
+    ActionCore.info(`[bundle-with-ifs pid=${Process.pid} threadid=${WorkerThread.threadId}] Wrote bundled list to ${OutputFilePath}`)
   }
 }
 

@@ -1,7 +1,10 @@
 import * as Fs from 'node:fs'
 import * as Path from 'node:path'
+import * as Process from 'node:process'
+import * as WorkerThread from 'node:worker_threads'
 import * as Memfs from 'memfs'
 import * as AGTree from '@adguard/agtree'
+import * as ActionCore from '@actions/core'
 import type { FiltersListsConfigWithVersion } from './filterslists-config.ts'
 
 type WorkerData = {
@@ -51,7 +54,14 @@ export class BuildBundledFiltersLists {
   }
 
   protected IsPreProcessorCommentRule(Filter: AGTree.AnyRule): Filter is AGTree.PreProcessorCommentRule {
-    return Filter.type === 'PreProcessorCommentRule'
+    const IsPreProcessor = Filter.type === 'PreProcessorCommentRule'
+
+    if (IsPreProcessor) {
+      const PreProcessorFilter = Filter as AGTree.PreProcessorCommentRule
+      ActionCore.debug(`[bundle-core pid=${Process.pid} threadid=${WorkerThread.threadId}] Encountered preprocessor directive #${PreProcessorFilter.name.value}`)
+    }
+
+    return IsPreProcessor
   }
 
   protected ParseFilterList(FilePath: string): AGTree.FilterList {
@@ -88,16 +98,25 @@ export class BuildBundledFiltersLists {
 
   protected EvalIf(Filter: AGTree.PreProcessorCommentRule, Vars: Record<string, boolean>): boolean {
     const Expression = Filter.params
-    if (!Expression) return false
-
-    if (Expression.type === 'Value') {
-      return !!Vars[Expression.value]
+    if (!Expression) {
+      ActionCore.debug(`[bundle-core pid=${Process.pid} threadid=${WorkerThread.threadId}] EvalIf: empty expression, resolved as false`)
+      return false
     }
 
-    return AGTree.LogicalExpressionUtils.evaluate(Expression as AGTree.AnyExpressionNode, Vars)
+    if (Expression.type === 'Value') {
+      const Result = !!Vars[Expression.value]
+      ActionCore.debug(`[bundle-core pid=${Process.pid} threadid=${WorkerThread.threadId}] EvalIf: variable "${Expression.value}" resolved as ${Result}`)
+      return Result
+    }
+
+    const Result = AGTree.LogicalExpressionUtils.evaluate(Expression as AGTree.AnyExpressionNode, Vars)
+    ActionCore.debug(`[bundle-core pid=${Process.pid} threadid=${WorkerThread.threadId}] EvalIf: expression node "${Expression.type}" resolved as ${Result}`)
+
+    return Result
   }
 
   protected BundleIncludes(FiltersList: AGTree.FilterList): AGTree.FilterList {
+    ActionCore.debug(`[bundle-core pid=${Process.pid} threadid=${WorkerThread.threadId}] BundleIncludes: start (${FiltersList.children.length} rules)`)
     const FiltersChildren: AGTree.AnyRule[] = []
 
     for (const Filter of FiltersList.children) {
@@ -107,13 +126,19 @@ export class BuildBundledFiltersLists {
       }
 
       const IncludedFilePath = Path.resolve(this.FiltersListDirectory, Filter.params.value)
+      ActionCore.debug(`[bundle-core pid=${Process.pid} threadid=${WorkerThread.threadId}] BundleIncludes: include candidate ${IncludedFilePath}`)
+
       if (!this.FiltersProcessableCache.get(IncludedFilePath)) {
+        ActionCore.debug(`[bundle-core pid=${Process.pid} threadid=${WorkerThread.threadId}] BundleIncludes: skipped include ${IncludedFilePath} (not processable)`)
         continue
       }
 
       const IncludedFiltersList = this.BundleIncludes(this.ParseFilterList(IncludedFilePath))
+      ActionCore.debug(`[bundle-core pid=${Process.pid} threadid=${WorkerThread.threadId}] BundleIncludes: expanded include ${IncludedFilePath} with ${IncludedFiltersList.children.length} rules`)
       FiltersChildren.push(...IncludedFiltersList.children)
     }
+
+    ActionCore.debug(`[bundle-core pid=${Process.pid} threadid=${WorkerThread.threadId}] BundleIncludes: completed (${FiltersChildren.length} rules)`)
 
     return {
       ...FiltersList,
@@ -128,12 +153,15 @@ export class BuildBundledFiltersLists {
     for (const Filter of FiltersList.children) {
       if (this.IsPreProcessorCommentRule(Filter)) {
         if (Filter.name.value === 'if') {
-          IfStack.push(this.EvalIf(Filter, Vars))
+          const IfResult = this.EvalIf(Filter, Vars)
+          IfStack.push(IfResult)
+          ActionCore.debug(`[bundle-core pid=${Process.pid} threadid=${WorkerThread.threadId}] ResolveForPlatform: push #if => ${IfResult}, depth=${IfStack.length}`)
           continue
         }
 
         if (Filter.name.value === 'endif') {
           IfStack.pop()
+          ActionCore.debug(`[bundle-core pid=${Process.pid} threadid=${WorkerThread.threadId}] ResolveForPlatform: pop #endif, depth=${IfStack.length}`)
           continue
         }
       }
@@ -164,6 +192,7 @@ export class BuildBundledFiltersLists {
   }
 
   ExtractAsMap(FiltersList: AGTree.FilterList, Definition: FiltersListsConfigWithVersion[number]): Map<string, AGTree.FilterList> {
+    ActionCore.info(`[bundle-core pid=${Process.pid} threadid=${WorkerThread.threadId}] Start extracting resolved lists for ${Definition.DefinitionFileName}`)
     const BundledFiltersList = this.BundleIncludes(FiltersList)
     const HeaderFilterList = this.BuildHeaderFilterList(Definition)
     const OutputFiltersLists = new Map<string, AGTree.FilterList>()
@@ -175,11 +204,14 @@ export class BuildBundledFiltersLists {
       }
 
       const ResolvedFiltersList = this.ResolveForPlatform(BundledFiltersList, PlatformConfig.Vars)
+      ActionCore.debug(`[bundle-core pid=${Process.pid} threadid=${WorkerThread.threadId}] Resolved ${FileName} (${PlatformKey}) with ${ResolvedFiltersList.children.length} rules`)
       OutputFiltersLists.set(FileName, {
         ...ResolvedFiltersList,
         children: [...HeaderFilterList.children, ...ResolvedFiltersList.children]
       })
     }
+
+    ActionCore.info(`[bundle-core pid=${Process.pid} threadid=${WorkerThread.threadId}] Completed extracting ${OutputFiltersLists.size} resolved lists for ${Definition.DefinitionFileName}`)
 
     return OutputFiltersLists
   }
