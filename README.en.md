@@ -1,47 +1,65 @@
 # List-KR
 
-You can learn more about AdGuard, uBlock Origin, and List-KR by [visiting List-KR community pages](https://list-kr-community.pages.dev).
-
 Please leave related questions on [List-KR Discussions](https://github.com/List-KR/List-KR/discussions).
 
 ---
 
-[![jsDelivr Stats](https://data.jsdelivr.com/v1/package/gh/List-KR/List-KR/badge)](https://www.jsdelivr.com/package/gh/List-KR/List-KR)
+[![jsDelivr Stats](https://data.jsdelivr.com/v1/package/npm/@list-kr/filterslists/badge)](https://www.jsdelivr.com/package/npm/@list-kr/filterslists)
 
-List-KR is ad blocking filter maintained by Ad Blocking community and AdGuard.
+List-KR is an ad blocking filter list maintained by the Ad Blocking community and AdGuard.
 
-Suppported adblockers are AdGuard and uBlock Origin.
+Supported adblockers are AdGuard and uBlock Origin.
 
-Also, you can effectively block trackers and anti-right click scripts by combining tracking protection, URL tracking, and annoyances provided by AdGuard.
+If you need private support via email, check each contributor’s GitHub profile for their contact information.
 
-If you need a private support via email, check out [our contacts on list-kr-community.pages.dev](https://list-kr-community.pages.dev/docs/).
+AdGuard-preinstalled List-KR filter list (List-KR filters list Classic) handles ads and anti-adblock rules except those allowed by AdGuard under legal requests.
+
+List-KR filters list (standard) handles ads, anti-adblock rules (maintained by contributors), trackers, and annoyances.
+
+List-KR filters list Unified includes extra coverage for high-traffic global sites such as YouTube, in addition to List-KR filters list (standard).
 
 ## Usage
 
-You can use following URLs to add List-KR to your ad blocker.
-
-> [!NOTE]
-> You need to enable List-KR by finding it in language specific filters for List-KR to be work properly.
+You can use the following URLs to add List-KR to your ad blocker.
 
 > [!IMPORTANT]
-> List-KR filters list supports **only** on AdGuard and uBlock Origin; even if it is added by an uesr, it may cause a malfunction, let alone the expected operation. Any related request will be ignored and closed.
+> List-KR filter lists support **only** AdGuard and uBlock Origin. If used in other blockers, it may malfunction instead of work as intended. Related requests will be ignored and closed.
 
-**AdGuard**:
+**List-KR filters list Classic for AdGuard**:
 ```
-https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filter-AdGuard.txt
+https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-AdGuard-classic.txt
 ```
-**uBlock Origin**:
+**List-KR filters list Classic for uBlock Origin**:
 ```
-https://cdn.jsdelivr.net/gh/List-KR/List-KR@latest/filter-uBlockOrigin.txt
+https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-uBlockOrigin-classic.txt
+```
+
+**List-KR filters list for AdGuard**:
+```
+https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-AdGuard.txt
+```
+**List-KR filters list for uBlock Origin**:
+```
+https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-uBlockOrigin.txt
+```
+
+**List-KR filters list Unified for AdGuard**:
+```
+https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-AdGuard-unified.txt
+```
+**List-KR filters list Unified for uBlock Origin**:
+```
+https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-uBlockOrigin-unified.txt
 ```
 
 **List-KR DNS**:
 ```
 https://cdn.jsdelivr.net/gh/adguardteam/HostlistsRegistry@main/assets/filter_25.txt
 ```
+
 ### Naver Cafe
 
-Ads installed on banner area in Naver Cafe will be blocked only if the ranking is fruit 1 or higher.
+Ads installed in the banner area in Naver Cafe are blocked only if the ranking is fruit 1 or higher.
 
 ## Contributing
 
@@ -49,4 +67,4 @@ Read [CONTRIBUTING.md](https://github.com/List-KR/List-KR/blob/master/CONTRIBUTI
 
 ## License
 
-List-KR filters list is licensed under GPL v3.
+List-KR filters list is licensed under GNU GPLv3.
