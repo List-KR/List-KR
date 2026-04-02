@@ -24,6 +24,7 @@ m.fmkorea.com##+js(json-prune, tpl apply, tpl.[].c)
 chzzk.naver.com##+js(json-prune-xhr-response, ads.[-].eventTracking.ackImpressions.[].url, ads.[].adInfo.responseSize, propsToMatch, 'url:api.chzzk.naver.com/service/t/')
 chzzk.naver.com##+js(json-prune-xhr-response, adBreaks.[-].adSources.[].withRemindAd, videoAdScheduleId, propsToMatch, 'url:api.chzzk.naver.com/service/t/')
 !
+stock.naver.com##+js(set, MobileDetect, noopFunc)
 excellesports.com##+js(set-cookie, popup_view, disable)
 maple.gg##+js(set-cookie, hideFrontPagePopup, true)
 enuri.com##+js(set, getPowerLink, noopFunc)

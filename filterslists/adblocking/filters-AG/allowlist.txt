@@ -3,6 +3,9 @@
 @@||adxv.zum.com/view/targets?slots=$domain=zum.com
 !#endif
 !
+!#if (adguard_app_ios || adguard_ext_android_cb)
+@@||ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js$domain=stock.naver.com
+!#endif
 !#if (adguard_app_ios)
 @@||tinnews.co.kr/data/tinnews_co_kr/banner/2020040642392902
 @@||tinnews.co.kr/data/tinnews_co_kr/banner/favicon.ico
