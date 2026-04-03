@@ -1,11 +1,11 @@
 import * as Zod from 'zod'
 import * as Semver from 'semver'
 import PackageJson from '@npmcli/package-json'
-import { HTTPS2Request } from '@typescriptprime/securereq'
+import { SimpleSecureReq } from '@typescriptprime/securereq'
 import { SafeInitCwd } from './utils/cwd.ts'
 
 // eslint-disable-next-line @typescript-eslint/naming-convention
-type NpmRegistrySemverResponse = Awaited<ReturnType<typeof HTTPS2Request>> & { Body: { 'dist-tags': { latest: string }}}
+type NpmRegistrySemverResponse = Awaited<ReturnType<typeof SimpleSecureReq.Request>> & { Body: { 'dist-tags': { latest: string }}}
 
 const CurrentDate = new Date()
 const CurrentDaytimeUTC = Math.trunc(Math.floor(CurrentDate.getTime() / 1000) / 86400)
@@ -17,7 +17,7 @@ const NpmRegistryPackageDistTagSchema = Zod.object({
 })
 
 async function NewSemverVersion(): Promise<string> {
-  const CurrentNpmRegistryPackageDef: NpmRegistrySemverResponse = await HTTPS2Request(new URL('https://registry.npmjs.com/@list-kr/filterslists'), {
+  const CurrentNpmRegistryPackageDef: NpmRegistrySemverResponse = await SimpleSecureReq.Request(new URL('https://registry.npmjs.com/@list-kr/filterslists'), {
       HttpMethod: 'GET',
       ExpectedAs: 'JSON',
       TLS: {
