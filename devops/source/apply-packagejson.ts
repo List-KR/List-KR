@@ -24,7 +24,8 @@ async function NewSemverVersion(): Promise<string> {
         IsHTTPSEnforced: true,
         MinTLSVersion: 'TLSv1.2',
         MaxTLSVersion: 'TLSv1.2',
-        Ciphers: ['ECDHE-ECDSA-AES256-GCM-SHA384', 'ECDHE-ECDSA-CHACHA20-POLY1305']
+        Ciphers: ['ECDHE-ECDSA-AES256-GCM-SHA384', 'ECDHE-ECDSA-CHACHA20-POLY1305'],
+        KeyExchanges: ['x25519', 'secp521r1', 'secp384r1', 'secp256r1']
       }
     }) as NpmRegistrySemverResponse
   await NpmRegistryPackageDistTagSchema.parseAsync(CurrentNpmRegistryPackageDef.Body)
