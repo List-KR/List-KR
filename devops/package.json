@@ -20,7 +20,7 @@
     "@actions/core": "^3.0.0",
     "@npmcli/package-json": "^7.0.5",
     "@octokit/rest": "^22.0.1",
-    "@typescriptprime/securereq": "^1.2.0",
+    "@typescriptprime/securereq": "^2.0.0",
     "semver": "^7.7.4",
     "tsx": "^4.21.0",
     "typescript": "^6.0.2",

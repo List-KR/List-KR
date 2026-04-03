@@ -15,7 +15,7 @@
     "@typescript-eslint/eslint-plugin": "^8.58.0",
     "@typescript-eslint/parser": "^8.58.0",
     "@typescriptprime/parsing": "^2.0.0",
-    "@typescriptprime/securereq": "^1.2.0",
+    "@typescriptprime/securereq": "2.0.0",
     "eslint": "^10.1.0",
     "memfs": "^4.57.1",
     "piscina": "^5.1.4",

@@ -1,7 +1,7 @@
 import * as Zod from 'zod'
 import * as Semver from 'semver'
 import * as Fs from 'node:fs'
-import { HTTPS2Request } from '@typescriptprime/securereq'
+import { SimpleSecureReq } from '@typescriptprime/securereq'
 
 const FiltersListsConfigSchema = Zod.array(Zod.strictObject({
   Name: Zod.string(),
@@ -24,7 +24,7 @@ const CurrentDate = new Date()
 const CurrentDaytimeUTC = Math.trunc(Math.floor(CurrentDate.getTime() / 1000) / 86400)
 
 // eslint-disable-next-line @typescript-eslint/naming-convention
-type NpmRegistrySemverResponse = Awaited<ReturnType<typeof HTTPS2Request>> & { Body: { 'dist-tags': { latest: string }}}
+type NpmRegistrySemverResponse = Awaited<ReturnType<typeof SimpleSecureReq.Request>> & { Body: { 'dist-tags': { latest: string }}}
 export type FiltersListsConfigWithVersion = (Zod.infer<typeof FiltersListsConfigSchema>[number] & { Version: string })[]
 
 export async function LoadFiltersListsConfig(ConfigFilePath: string): Promise<FiltersListsConfigWithVersion> {
@@ -33,14 +33,15 @@ export async function LoadFiltersListsConfig(ConfigFilePath: string): Promise<Fi
   await FiltersListsConfigSchema.parseAsync(FiltersListConfig)
 
   // Download npm package definition from registry.npmjs.com
-  const CurrentNpmRegistryPackageDef: NpmRegistrySemverResponse = await HTTPS2Request(new URL('https://registry.npmjs.com/@list-kr/filterslists'), {
+  const CurrentNpmRegistryPackageDef: NpmRegistrySemverResponse = await SimpleSecureReq.Request(new URL('https://registry.npmjs.com/@list-kr/filterslists'), {
     HttpMethod: 'GET',
     ExpectedAs: 'JSON',
     TLS: {
       IsHTTPSEnforced: true,
       MinTLSVersion: 'TLSv1.2',
       MaxTLSVersion: 'TLSv1.2',
-      Ciphers: ['ECDHE-ECDSA-AES256-GCM-SHA384', 'ECDHE-ECDSA-CHACHA20-POLY1305']
+      Ciphers: ['ECDHE-ECDSA-AES256-GCM-SHA384', 'ECDHE-ECDSA-CHACHA20-POLY1305'],
+      KeyExchanges: ['x25519', 'secp521r1', 'secp384r1', 'secp256r1']
     }
   }) as NpmRegistrySemverResponse
   await NpmRegistryPackageDistTagSchema.parseAsync(CurrentNpmRegistryPackageDef.Body)
