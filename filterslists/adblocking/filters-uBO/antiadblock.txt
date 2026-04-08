@@ -68,6 +68,10 @@ dicoall.com#@##AD_Top
 dicoall.com#@##homead
 dicoall.com#@##ad-lead
 dicoall.com#@##rightAd
+! litomi.in
+||jads.co^$script,redirect=noop.js,domain=litomi.in
+litomi.in##+js(trusted-create-html, #juicy-ads-banner > div[data-juicy-ads-slot] > div, <iframe></iframe>)
+litomi.in##ins
 !
 algumon.com##div[id^="deal-"].card ~ .bg-base-100:has(> div[style] > div[class^="fallback svelte-"])
 cheatdot.com##+js(nostif, 'window.getComputedStyle(t).display')
