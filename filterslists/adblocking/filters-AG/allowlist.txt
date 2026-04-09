@@ -3,6 +3,7 @@
 @@||adxv.zum.com/view/targets?slots=$domain=zum.com
 !#endif
 !
+@@||ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js$domain=m.stock.naver.com
 !#if (adguard_app_ios || adguard_ext_android_cb)
 @@||ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js$domain=stock.naver.com
 !#endif
