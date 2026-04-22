@@ -1,4 +1,3 @@
-*$image,domain=tvwiki2.tv|tvwiki2.tv|tvwiki3.tv|tvwiki4.tv|tvwiki5.tv|tvwiki6.tv|tvwiki7.tv|tvwiki8.tv|tvwiki9.tv|tvwiki10.tv
 manatoki469.net,manatoki470.net,manatoki471.net,manatoki472.net,manatoki473.net,manatoki474.net,manatoki475.net,manatoki476.net,manatoki477.net##[style="margin-bottom: 20px;"].row.row-15
 manatoki469.net,manatoki470.net,manatoki471.net,manatoki472.net,manatoki473.net,manatoki474.net,manatoki475.net,manatoki476.net,manatoki477.net##.basic-banner.row.row-10
 manatoki469.net,manatoki470.net,manatoki471.net,manatoki472.net,manatoki473.net,manatoki474.net,manatoki475.net,manatoki476.net,manatoki477.net##.board-tail-banner
@@ -7,4 +6,4 @@ tvwiki22.com,tvwiki23.com,tvwiki24.com,tvwiki25.com,tvwiki26.com,tvwiki27.com,tv
 /https:\/\/tvwiki[0-9]+\.com\/AD\//$domain=tvwiki22.com|tvwiki23.com|tvwiki24.com|tvwiki25.com|tvwiki26.com|tvwiki27.com|tvwiki28.com|tvwiki29.com|tvwiki30.com|tvwiki31.com|tvwiki32.com|tvwiki33.com|tvwiki34.com
 /https:\/\/tvwiki[0-9]+\.com\/data\/banner\//$domain=tvwiki22.com|tvwiki23.com|tvwiki24.com|tvwiki25.com|tvwiki26.com|tvwiki27.com|tvwiki28.com|tvwiki29.com|tvwiki30.com|tvwiki31.com|tvwiki32.com|tvwiki33.com|tvwiki34.com
 ||hoohootv*.*/static/bnner/$domain=hoohootv310.xyz|hoohootv311.xyz|hoohootv312.xyz|hoohootv313.xyz|hoohootv314.xyz|hoohootv315.xyz|hoohootv316.xyz|hoohootv317.xyz|hoohootv318.xyz|hoohootv319.xyz|hoohootv320.xyz|hoohootv321.xyz
-/https:\/\/tvwiki[0-9]+\.net\/data\/banner\//$domain=tvwiki1.net|tvwiki2.net|tvwiki3.net|tvwiki4.net|tvwiki5.net|tvwiki6.net|tvwiki7.net|tvwiki8.net|tvwiki9.net|tvwiki10.net|tvwiki11.net|tvwiki12.net|tvwiki13.net|tvwiki14.net|tvwiki15.net
+/^https:\/\/cdn[a-z0-9]+\.site\/data\/banner\//$domain=tvwiki18.net|tvwiki19.net|tvwik20.net|tvwik21.net|tvwik22.net|tvwik23.net|tvwik24.net|tvwik25.net|tvwik26.net|tvwiki27.net|tvwiki28.net|tvwiki29.net|tvwiki30.net|tvwiki31.net|tvwiki32.net
