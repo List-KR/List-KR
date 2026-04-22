@@ -32,7 +32,7 @@ dicoall.com#@##ad-lead
 dicoall.com#@##rightAd
 !
 @@||bser-koroshi.vercel.app/_vercel/insights/script.js$domain=bser-koroshi.vercel.app,xmlhttprequest
-algumon.com##div[id^="deal-"].card ~ .bg-base-100:has(> div[style] > div[class^="fallback svelte-"])
+algumon.com##div[id^="deal-"].card ~ .bg-base-100:has(div[style] > div[class*=" svelte-"])
 @@||cheatdot.com^$generichide
 @@||tv.jtbc.co.kr^$generichide
 @@||mvod.jtbc.co.kr^$generichide
