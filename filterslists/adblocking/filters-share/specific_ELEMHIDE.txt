@@ -1167,8 +1167,8 @@ gginews.co.kr##center > .bn
 mangacat.cc##.col-md-3.at-col.at-side > .row.fix-gutters-5
 mangacat.cc##img[src^="/mainhover/"]
 mangacat.cc##.basic-banner.row.row-10
-m.ytn.co.kr##div[class^="newsview_ad_"]
-m.ytn.co.kr##div[class^="text_ad_"]
+ytn.co.kr##.ad_newsview_text
+ytn.co.kr##.ad_newsview_bottom
 nts.go.kr##.blockUI.blockOverlay
 nts.go.kr##.blockUI.blockMsg.blockPage
 noonnu.cc##div[data-fonts-target="fontsContainer"] > div.group.min-h-auto:not(.duration-300):not(.justify-between)
