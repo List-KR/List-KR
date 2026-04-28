@@ -50,6 +50,7 @@ ygosunews.com#$#body { padding-top: 0px !important; }
 www.auction.co.kr#$##allKillItemList > .item_list_wrap { width: 100% !important; }
 yes24.com#$##ySContent .loginCont { margin-left: 200px !important; }
 yes24.com#$#.mContRT .mbnZone { left: 94.5px !important; }
+~m.ytn.co.kr,ytn.co.kr#$#.editor_news.YTN_CSA_editorrecomm { width: initial !important; flex-shrink: initial !important; }
 m.ytn.co.kr#$##entFlick { height: auto !important; }
 yes24.com#$##yHeader .yesSearch .key_latest .lastest_word { width: 100% !important; }
 yes24.com#$##yWelMid .yWelNowBook { width: 100% !important; }
