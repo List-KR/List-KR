@@ -1169,6 +1169,11 @@ mangacat.cc##img[src^="/mainhover/"]
 mangacat.cc##.basic-banner.row.row-10
 m.ytn.co.kr##.iwm_ba
 m.ytn.co.kr##.bx_ad
+!#if ext_ublock
+m.ytn.co.kr#?#div:has(> h2:has-text(실시간 정보))
+!#else
+m.ytn.co.kr#?#div:has(> h2:contains(실시간 정보))
+!#endif
 m.ytn.co.kr##li.pnews:not(:has(*))
 ~m.ytn.co.kr,ytn.co.kr##.ad_1200
 ~m.ytn.co.kr,ytn.co.kr##.ad_300
