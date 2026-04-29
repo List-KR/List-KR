@@ -11,19 +11,19 @@
     "@types/node": "^24.12.2",
     "@types/npmcli__package-json": "^4.0.4",
     "@types/semver": "^7.7.1",
-    "@typescript-eslint/eslint-plugin": "^8.58.0",
-    "@typescript-eslint/parser": "^8.58.0",
-    "eslint": "^10.2.0",
-    "typescript-eslint": "^8.58.0"
+    "@typescript-eslint/eslint-plugin": "^8.59.1",
+    "@typescript-eslint/parser": "^8.59.1",
+    "eslint": "^10.2.1",
+    "typescript-eslint": "^8.59.1"
   },
   "dependencies": {
-    "@actions/core": "^3.0.0",
+    "@actions/core": "^3.0.1",
     "@npmcli/package-json": "^7.0.5",
     "@octokit/rest": "^22.0.1",
     "@typescriptprime/securereq": "^2.0.0",
     "semver": "^7.7.4",
     "tsx": "^4.21.0",
-    "typescript": "^6.0.2",
+    "typescript": "^6.0.3",
     "zod": "^4.3.6"
   }
 }
