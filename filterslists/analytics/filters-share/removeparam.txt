@@ -1,2 +1,3 @@
 ridibooks.com$removeparam=_rdt_sid
 ridibooks.com$removeparam=_rdt_idx
+ridibooks.com$removeparam=_rdt_arg
