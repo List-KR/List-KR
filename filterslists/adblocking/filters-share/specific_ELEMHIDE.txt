@@ -85,6 +85,9 @@ kyobobook.co.kr##main.min-h-\[calc\(100vh-80px\)\] > .h-\[180px\]
 kyobobook.co.kr##main.min-h-\[calc\(100vh-80px\)\] > .h-\[150px\]
 kyobobook.co.kr##.wpromo-banner
 kyobobook.co.kr##.fly_menu_banner
+tenasia.co.kr##.ad-area-wrap
+tenasia.co.kr##.ad-bottom-fix
+tenasia.co.kr##div:has(> [id^="dablewidget"])
 mvod.jtbc.co.kr##div[class^="iframe_"][class$="_ad"]
 app.pizzaalvolo.co.kr##div[class^="css-"][style^="gap: "] > div[tabindex="0"]:has(div[style^="position: absolute; right:"])
 etoland.co.kr##div[class^="etoad_"]
