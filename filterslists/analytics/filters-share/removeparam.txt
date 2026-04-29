@@ -1,1 +1,2 @@
-!
+ridibooks.com$removeparam=_rdt_sid
+ridibooks.com$removeparam=_rdt_idx
