@@ -1167,8 +1167,15 @@ gginews.co.kr##center > .bn
 mangacat.cc##.col-md-3.at-col.at-side > .row.fix-gutters-5
 mangacat.cc##img[src^="/mainhover/"]
 mangacat.cc##.basic-banner.row.row-10
-m.ytn.co.kr##div[class^="newsview_ad_"]
-m.ytn.co.kr##div[class^="text_ad_"]
+m.ytn.co.kr##.iwm_ba
+m.ytn.co.kr##li.pnews:empty
+~m.ytn.co.kr,ytn.co.kr##.ad_1200
+~m.ytn.co.kr,ytn.co.kr##.ad_300
+~m.ytn.co.kr,ytn.co.kr##div[class*="YTN_CSA_mainbnr"]
+~m.ytn.co.kr,ytn.co.kr##.recomm_news_slider.YTN_CSA_editorrecomm
+~m.ytn.co.kr,ytn.co.kr###zone2 + div:has(iframe[name^="AdServerChange"])
+ytn.co.kr##.ad_newsview_text
+ytn.co.kr##.ad_newsview_bottom
 nts.go.kr##.blockUI.blockOverlay
 nts.go.kr##.blockUI.blockMsg.blockPage
 noonnu.cc##div[data-fonts-target="fontsContainer"] > div.group.min-h-auto:not(.duration-300):not(.justify-between)
