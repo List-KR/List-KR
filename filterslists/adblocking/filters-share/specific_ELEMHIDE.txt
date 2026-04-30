@@ -1168,7 +1168,6 @@ mangacat.cc##.col-md-3.at-col.at-side > .row.fix-gutters-5
 mangacat.cc##img[src^="/mainhover/"]
 mangacat.cc##.basic-banner.row.row-10
 m.ytn.co.kr##.iwm_ba
-m.ytn.co.kr##.bx_ad
 m.ytn.co.kr##li.pnews:not(:has(*))
 ~m.ytn.co.kr,ytn.co.kr##.ad_1200
 ~m.ytn.co.kr,ytn.co.kr##.ad_300
