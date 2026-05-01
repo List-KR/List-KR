@@ -71,6 +71,7 @@ www.algumon.com##.deal-content .deal-2col:is(:has(div[style^="display: flex; jus
 damoang.net##div[data-slot="board-list-promotion"]
 damoang.net##aside .gap-4 > div[data-slot="sidebar-banner"]
 bbs.ruliweb.com##.board_main ~ div[style^="width: 100%; height: "][style$="align-items: center;"]
+m.ruliweb.com##.fixed_ad_wrapper
 m.bustago.or.kr###safeconnectAddBox
 dundam.xyz##.instv-ad
 algumon.com##.bg-base-100:has(> div.adsense-container > ins.adsbygoogle)
