@@ -31,6 +31,7 @@ dicoall.com#@##homead
 dicoall.com#@##ad-lead
 dicoall.com#@##rightAd
 !
+||ragmaya.kr/static/rm_adblock_wall.js
 @@||bser-koroshi.vercel.app/_vercel/insights/script.js$domain=bser-koroshi.vercel.app,xmlhttprequest
 algumon.com##div[id^="deal-"].card ~ .bg-base-100:has(div[style] > div[class*=" svelte-"])
 @@||cheatdot.com^$generichide
