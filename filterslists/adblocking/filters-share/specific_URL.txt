@@ -857,6 +857,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/^https:\/\/[a-z0-9-]+\.[a-z0-9-]+\/[a-z0-9-_]+\./$image,domain=/wfwf[0-9]+\.com/
 /^https:\/\/cdn\.xtoon[0-9]+\.com\/collaboration\//$domain=/xtoon[0-9]+\.com/
 /^https:\/\/funbe[0-9]+\.com\/images\//$domain=/funbe[0-9]+\.com/
 ||mingk*.net/data/file/passfree/$domain=/mingky[0-9]+\.net/
@@ -1070,7 +1071,6 @@
 /^https:\/\/bam[0-9]+co\.com\/_book\/_Contents\/banner\//
 ||imgsuperpower.com^$domain=/^hdhd[0-9]+\.net/
 ||blogger.googleusercontent.com^$domain=/^hdhd[0-9]+\.net/
-/^https:\/\/iabn[0-9]+\.net\//$domain=/wfwf[0-9]+\.net/
 /^https:\/\/blacktoon[0-9]+\.com\/poster_js\/[0-9]+\.js/
 ||toonkor*.com/images/*.gif
 ||wwwimageup.angle777899.com/other/atoona/
