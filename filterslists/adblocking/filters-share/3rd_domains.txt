@@ -1,3 +1,4 @@
+||delivery.pryzmads.com^
 ||barohere.xyz^
 ||ad.adwiser.kr^
 ||digitalcamp.co.kr^$third-party

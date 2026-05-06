@@ -57,6 +57,9 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 
+mbiz.heraldcorp.com##div[data-svcad]
+mbiz.heraldcorp.com##.view_editor_bg div[id^="da"][style^="min-height:"]
+mbiz.heraldcorp.com##.view_editor_bg div[style^="width:"][style*="min-height:"]
 etoland.co.kr##main > section[class=""] > article.w-full[data-pl-type]
 etoland.co.kr##div[class$="-banner h-full"]
 vod.sooplive.com##.adballoon_icon
