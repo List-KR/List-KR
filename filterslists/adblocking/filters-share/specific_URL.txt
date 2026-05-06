@@ -138,7 +138,6 @@
 ||dentalnews.or.kr/data/banner/
 ||m2.nateimg.co.kr/cms/*.gif|$image
 /^https?:\/\/www\.tinnews\.co\.kr\/data\/tinnews_co_kr\/banner\/(?!(favicon\.ico|2020040642392902))/$domain=tinnews.co.kr
-/^https:\/\/www\.etoland\.co\.kr\/img\/nasmedia\/[0-9]+x[0-9]+_+/$domain=etoland.co.kr
 /^https:\/\/api-gw\.sports\.naver\.com\/cms\/contents\/adContents\/(?!(GENERAL|BRAND_STORY))/$domain=m.sports.naver.com
 ||da.namu.la^$domain=arca.live
 ||arca.live/api/*pagead?$xmlhttprequest
@@ -226,9 +225,6 @@
 ||images.mimint.co.kr/banner/
 ||melon-pan.com/plugin/adcover/
 /wp-content/plugins/brave-popup-builder/assets/frontend/brave.js$domain=smartinpress.com|hotissuepoint.com|keela.co.kr
-||etoland.co.kr/img/renewal/games/squidland/
-||youtube.com/iframe_api|$domain=etoland.co.kr
-||etoland.co.kr/data/file0207/point1/
 ||resources.chimhaha.net/banner/
 ||ilbe.com/img/banner/
 ||i0.wp.com/atlantak.com/wp-content/uploads/*.gif?resize=*&ssl=1

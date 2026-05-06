@@ -31,6 +31,14 @@ dicoall.com#@##homead
 dicoall.com#@##ad-lead
 dicoall.com#@##rightAd
 !
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=etoland.co.kr,xmlhttprequest
+@@||googleads.g.doubleclick.net/pagead/id$domain=etoland.co.kr,xmlhttprequest
+@@||googleads.g.doubleclick.net|$domain=etoland.co.kr,xmlhttprequest
+@@||googlesyndication.com|$domain=etoland.co.kr,xmlhttprequest
+@@||doubleclick.net|$domain=etoland.co.kr,xmlhttprequest
+@@||googletagservices.com/tag/js/gpt.js$domain=etoland.co.kr,xmlhttprequest
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=etoland.co.kr,xmlhttprequest
+@@||www.google-analytics.com|$domain=etoland.co.kr,xmlhttprequest
 ||ragmaya.kr/static/rm_adblock_wall.js
 @@||bser-koroshi.vercel.app/_vercel/insights/script.js$domain=bser-koroshi.vercel.app,xmlhttprequest
 algumon.com##div[id^="deal-"].card ~ .bg-base-100:has(div[style] > div[class*=" svelte-"])
