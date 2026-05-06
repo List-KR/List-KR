@@ -73,6 +73,7 @@ dicoall.com#@##rightAd
 litomi.in##+js(trusted-create-html, #juicy-ads-banner > div[data-juicy-ads-slot] > div, <iframe></iframe>)
 litomi.in##ins
 !
+etoland.co.kr##+js(no-fetch-if, /pagead2.googlesyndication.com|googleads.g.doubleclick.net|googletagservices.com|securepubads.g.doubleclick.net|googleads.g.doubleclick.net|google-analytics.com|googlesyndication.com|doubleclick.net/)
 ||ragmaya.kr/static/rm_adblock_wall.js
 _vercel/insights/script.js$domain=bser-koroshi.vercel.app,redirect=nooptext
 algumon.com##div[id^="deal-"].card ~ .bg-base-100:has(> div[style] > div[class^="fallback svelte-"])
