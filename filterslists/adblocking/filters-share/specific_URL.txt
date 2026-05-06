@@ -946,7 +946,7 @@
 /^https:\/\/jusoyo[0-9]+\.(net|com)\/data\/apms\/background\//
 /^https:\/\/jusoyo[0-9]+\.(net|com)\/.+\.webp$/
 /^https:\/\/yadong[0-9]+\.net\/Uploads\/images\/\d{4}-\d{2}-\d{2}/
-||i.imgur.com^$domain=yasyadong.*
+||i.imgur.com^$domain=yasyadong.*|/yasyadong[0-9]+\.tv/
 /^https:\/\/iabn[0-9]+\.net\//$domain=/^fxfx[0-9]+\.com/
 /^https:\/\/mkmk[0-9]+\.com\/img\/[a-z]+[0-9]+x[0-9]+\//
 /^https:\/\/mkmk[0-9]+\.com\/img\/[a-z0-9_-]+\.gif$/
