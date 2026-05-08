@@ -2,3 +2,7 @@ packages:
   - "builder"
   - "devops"
   - "filterslists"
+
+allowBuilds:
+  core-js-pure: false
+  esbuild: true
