@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 
+etoland.co.kr###list-header + section li.h-fit.min-h-14:not(.border-b-etoDivider-1)
 zod.kr##a[rel="sponsored"]
 zod.kr##.swiper-container.swiper-initialized.swiper-horizontal li[style^="width:"] > a[target]
 tenasia.co.kr###article-body > div[style^="min-height:"]
