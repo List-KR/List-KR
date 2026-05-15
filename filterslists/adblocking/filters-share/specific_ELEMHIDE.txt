@@ -1012,6 +1012,7 @@ newsis.com##div[id][style~="height:100px;"]
 newsis.com##iframe[src^="/view/ad/"]
 newsis.com##div[class^="w_header_"]:nth-child(1)
 newsis.com##table[class*="Ad"]
+m.etoday.co.kr##section > div[style*="height:250px"]
 jootc.com,funissu.com##aside[id^="ai_widget-"]
 poro.gg##div[class^="flex"][class$="h-[250px]"]
 bada.io##div[id*="amazon_shopping"]
