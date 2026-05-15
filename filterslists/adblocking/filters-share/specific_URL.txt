@@ -969,8 +969,6 @@
 /^https:\/\/sonagitv\.[a-z]+\/images\/banner\/(?!webtoon_)/$domain=sonagitv.*
 ||i.imgur.com^$domain=sonagitv.*
 ||xn--h10b90b998c.*/img/$domain=xn--h10b90b998c.*
-||i.imgur.com^$domain=newtoki.*
-||newtoki.*/banner*/$domain=newtoki.*
 ||i.imgur.com^$domain=/^torrentqq[0-9]+.com/
 ||cdn.jjun.live/BANNER/*.gif
 ||tvmon.*/img/ba
@@ -1002,7 +1000,6 @@
 /^https:\/\/cdn-nl-[0-9]+\.hasha\.in\/[A-z0-9_]+\.gif$/$domain=hasha.in
 ||jusotop.com/b/$domain=yatv.net|yadongtube.net|yadongkorea.red|yadongwang.org|yako.red
 /^https:\/\/jgmoa[0-9]+\.com\/upload_files\/popup\//
-/^https:\/\/newtoki[0-9]+\.com\/tokinbtoki\/[0-9]+/
 /^https:\/\/manatoki[0-9]+\.net\/tokinbtoki\//
 ||imgsuperpower.com^$domain=/^tkr[0-9]+\.com/
 ||blogger.googleusercontent.com/img/$domain=/^tkr[0-9]+\.com/

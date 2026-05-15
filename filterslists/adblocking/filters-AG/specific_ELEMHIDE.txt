@@ -21,10 +21,6 @@ m.ruliweb.com##.fixed_ad_wrapper
 !#if (adguard_app_ios)
 m.humoruniv.com###list_body ~ *[id][style^="border-bottom-width:"]
 !#endif
-!#if (adguard_app_ios || adguard_ext_safari)
-newtoki.help##.ba_test
-newtoki.help##.banner2
-!#endif
 !#if (adguard_ext_safari || adguard_app_ios)
 board.namu.wiki#@#div[class] ~ div div + *[class]:not([class*=" "]) *[class*=" "] div[class]:has(> iframe[id^="google_ads_"])
 board.namu.wiki#@#div[class] ~ div div + *[class]:not([class*=" "]) *[class*=" "] div[class]:has(iframe[src*="arca.live/external/callad"])
@@ -143,6 +139,7 @@ m.fmkorea.com##iframe[src*="//loader.fmkorea.com/"][src*="_loader/"]
 !
 ! DOMAIN-REFRESHER: START
 !
+[$domain=/sbxh[0-9]+\.com/]##.banner-row[class*="banner-row--"]
 [$domain=/torrentsee[0-9]+\.com/]##.container > div[style^="z-index:999; "]
 !
 ! DOMAIN-REFRESHER: END

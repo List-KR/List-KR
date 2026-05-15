@@ -92,6 +92,7 @@ m.cafe.naver.com##.banner_add.bottom:matches-path(/ca-fe\\/web\\/cafes\\/(steami
 !
 ! DOMAIN-REFRESHER: START
 !
+/sbxh[0-9]+\.com/##.banner-row[class*="banner-row--"]
 /torrentsee[0-9]+\.com/##.container > div[style^="z-index:999; "]
 !
 ! DOMAIN-REFRESHER: END
