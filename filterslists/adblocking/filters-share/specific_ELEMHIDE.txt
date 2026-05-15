@@ -743,7 +743,6 @@ tailstar.net###wrap_right > #right
 m.yakup.com##.news_view_con ~ div[style]
 yakup.com##a[style*="background-image"][style*="/data/banner/"]
 enjoytaiwan.co.kr##.widget-box > div[style*="min-height:"]
-m.humoruniv.com##div[id*="_"][style*=" "] ~ div[id][class]:not([id*="_"])
 osmanias.com##.taboola
 instiz.net###menufoot > .hot_under
 instiz.net##div[id^="sidead"]
