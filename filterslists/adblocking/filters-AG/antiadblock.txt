@@ -122,16 +122,9 @@ dicoall.com#@##homead
 dicoall.com#@##ad-lead
 dicoall.com#@##rightAd
 ! bser-koroshi.vercel.app
-!#if (adguard_app_windows || adguard_app_mac || adguard_app_android || adguard_app_cli || adguard_ext_firefox || adguard_ext_chromium || adguard_ext_chromium_mv3)
-_vercel/insights/script.js$domain=bser-koroshi.vercel.app,redirect=nooptext
-!#else
-bser-koroshi.vercel.app#%#//scriptlet('prevent-fetch', '_vercel/insights/script.js')
-!#endif
-!#if (adguard_app_ios || adguard_ext_safari)
 !#safari_cb_affinity(privacy)
 @@||bser-koroshi.vercel.app/_vercel/insights/script.js$domain=bser-koroshi.vercel.app,xmlhttprequest
 !#safari_cb_affinity
-!#endif
 ! windowsforum.kr
 windowsforum.kr#%#//scriptlet('prevent-constructor', 'MutationObserver', 'offsetHeight === 0')
 windowsforum.kr#%#//scriptlet('prevent-addEventListener', 'load', 'setTimeout(function() {')
