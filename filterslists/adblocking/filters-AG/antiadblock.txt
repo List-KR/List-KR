@@ -305,6 +305,7 @@ play.aidungeon.io,tamrieltradecentre.com,downloads.descendant.me,html5.gamedistr
 !
 ! DOMAIN-REFRESHER: START
 !
+[$domain=/sbxh[0-9]+\.com/]#%#//scriptlet('prevent-setTimeout', '/[A-Za-z0-9]+ *\( *\) *, *[A-Za-z0-9]+ *\. *[A-Za-z0-9]+ *= *window\.setInterval *\(/')
 hasha.in#%#//scriptlet('prevent-fetch', 'adManager.js')
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=hasha.in
 @@||js.wpadmngr.com/static/adManager.js$xmlhttprequest,domain=hasha.in
