@@ -31,6 +31,7 @@ dicoall.com#@##homead
 dicoall.com#@##ad-lead
 dicoall.com#@##rightAd
 !
+@@||windowsforum.kr/prebid.js
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=windowsforum.kr
 windowsforum.kr#@#.adsbygoogle-noablate
 windowsforum.kr#@#ins.adsbygoogle[data-ad-slot]

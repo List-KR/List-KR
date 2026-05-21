@@ -12,7 +12,7 @@ x86.co.kr,1004lucifer.blogspot.com,te31.com,tistory.com##+js(aopr, adBlockDetect
 plankim.com##+js(acis, ai_adb.init)
 jootc.com,ehpub.co.kr##+js(acis, ai_run_scripts)
 ! fundingchoicesmessages.google.com
-||fundingchoicesmessages.google.com^$domain=damoang.net|maplescouter.com|vivatv.cc|svrforum.com|singingdalong.blogspot.com|goodgag.net|bera.world|sellas.ink|hunigo.com|windowsforum.kr|iteastory.com|snskeyboard.com|rdsong.com|mongri.net|meeco.kr|poketory.com|youthassembly.kr|kr.jugomobile.com|1412.live|pyrasis.com|oceansabyss.com|yongtj.com|dora-guide.com|tailstar.net|creativestudio.kr|gamejay.net|mksports.co.kr|sisamagazine.co.kr|dreamrail.co.kr|tistory.com|gukjenews.com|issuelink.co.kr|webtool.cusis.net|koreaminecraft.net
+||fundingchoicesmessages.google.com^$domain=damoang.net|maplescouter.com|vivatv.cc|svrforum.com|singingdalong.blogspot.com|goodgag.net|bera.world|sellas.ink|hunigo.com|iteastory.com|snskeyboard.com|rdsong.com|mongri.net|meeco.kr|poketory.com|youthassembly.kr|kr.jugomobile.com|1412.live|pyrasis.com|oceansabyss.com|yongtj.com|dora-guide.com|tailstar.net|creativestudio.kr|gamejay.net|mksports.co.kr|sisamagazine.co.kr|dreamrail.co.kr|tistory.com|gukjenews.com|issuelink.co.kr|webtool.cusis.net|koreaminecraft.net
 ! Kakao TV
 /^https:\/\/videoads\.kakao\.com\/adserver\/api\/v[0-9]+\/vmap/$redirect=noop.txt,domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
 tv.kakao.com,play-tv.kakao.com,kakaotv.daum.net##+js(no-xhr-if, /^https.\/\/videoads\.kakao\.com\/adserver\/api\/v[0-9]{1\,2}\/vmap$/)
@@ -73,7 +73,7 @@ dicoall.com#@##rightAd
 litomi.in##+js(trusted-create-html, #juicy-ads-banner > div[data-juicy-ads-slot] > div, <iframe></iframe>)
 litomi.in##ins
 !
-windowsforum.kr##+js(aeld, load, 'setTimeout(function() {')
+windowsforum.kr##+js(set, isAdBlockDisabled, true)
 etoland.co.kr##+js(no-fetch-if, /pagead2.googlesyndication.com|googleads.g.doubleclick.net|googletagservices.com|securepubads.g.doubleclick.net|googleads.g.doubleclick.net|google-analytics.com|googlesyndication.com|doubleclick.net/)
 ||ragmaya.kr/static/rm_adblock_wall.js
 @@_vercel/insights/script.js$domain=bser-koroshi.vercel.app,xmlhttprequest

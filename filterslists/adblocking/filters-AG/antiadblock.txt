@@ -126,8 +126,10 @@ dicoall.com#@##rightAd
 @@||bser-koroshi.vercel.app/_vercel/insights/script.js$domain=bser-koroshi.vercel.app,xmlhttprequest
 !#safari_cb_affinity
 ! windowsforum.kr
-windowsforum.kr#%#//scriptlet('prevent-constructor', 'MutationObserver', 'offsetHeight === 0')
-windowsforum.kr#%#//scriptlet('prevent-addEventListener', 'load', 'setTimeout(function() {')
+windowsforum.kr#%#//scriptlet('set-constant', 'isAdBlockDisabled', 'true')
+!#if (adguard_app_ios || adguard_ext_safari)
+@@||windowsforum.kr/prebid.js
+!#endif
 !
 etoland.co.kr#%#//scriptlet('prevent-fetch', '/pagead2.googlesyndication.com|googleads.g.doubleclick.net|googletagservices.com|securepubads.g.doubleclick.net|googleads.g.doubleclick.net|google-analytics.com|googlesyndication.com|doubleclick.net/')
 !#if (adguard_app_ios || adguard_ext_safari)
