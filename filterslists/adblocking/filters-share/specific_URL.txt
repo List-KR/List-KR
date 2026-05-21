@@ -1,3 +1,4 @@
+||static.fmkorea.com/modules/fmad/tpl/*/naver_power_link.
 ||jeongcheogi.edugamja.com/ads/
 ||algumon.com/n/api/ca/list
 ||api.coupangstreaming.com/ads-vod-public/
