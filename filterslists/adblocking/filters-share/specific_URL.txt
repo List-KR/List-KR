@@ -858,6 +858,9 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/\/data\/apms\/banner\//$domain=/mato[0-9]+\.com/
+/\/data\/apms\/banner\//$domain=/newto[0-9]+\.com/
+/\/data\/apms\/banner\//$domain=/bookto[0-9]+\.com/
 /^https:\/\/[a-z0-9-]+\.[a-z0-9-]+\/[a-z0-9-_]+\./$image,domain=/wfwf[0-9]+\.com/
 /^https:\/\/cdn\.xtoon[0-9]+\.com\/collaboration\//$domain=/xtoon[0-9]+\.com/
 /^https:\/\/funbe[0-9]+\.com\/images\//$domain=/funbe[0-9]+\.com/
