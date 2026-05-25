@@ -169,11 +169,6 @@ play.aidungeon.io,tamrieltradecentre.com,downloads.descendant.me,html5.gamedistr
 !
 ! DOMAIN-REFRESHER: START
 !
-/sbxh[0-9]+\.com/##+js(set-local-storage-item, /ntk_blk_/, '$remove$')
-/sbxh[0-9]+\.com/##+js(set-local-storage-item, /ntk_dev_/, '$remove$')
-/sbxh[0-9]+\.com/##+js(spoof-css, '[data-bs], img[width], img[height], [data-bp]', width, 100)
-/sbxh[0-9]+\.com/##+js(spoof-css, '[data-bs], img[width], img[height], [data-bp]', height, 100)
-/^https:\/\/sbxh[0-9]+\.com\/init\/block\.js/$domain=/sbxh[0-9]+\.com/
 hasha.in##+js(no-fetch-if, adManager.js)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=hasha.in
 @@||js.wpadmngr.com/static/adManager.js$xmlhttprequest,domain=hasha.in
