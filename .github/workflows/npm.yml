@@ -146,7 +146,7 @@ jobs:
         with:
           node-version: 'lts/*'
       - name: Purge jsdelivr cache
-        uses: FilteringDev/jsdelivr-purge-npm@7c9cc8086effaa6758d6cc144d1092f8a9abe92c
+        uses: FilteringDev/jsdelivr-purge-npm@0bee790e911f359243cd8d98cd87f6bbbc879e80
         with:
           package: '@list-kr/filterslists'
           disttag: 'latest'
