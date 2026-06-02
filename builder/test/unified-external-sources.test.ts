@@ -1,8 +1,7 @@
-import * as Assert from 'node:assert/strict'
-import * as Test from 'node:test'
 import * as Path from 'node:path'
 import * as Process from 'node:process'
 import * as AGTree from '@adguard/agtree'
+import Test from 'ava'
 import { BuildBundledFiltersLists } from '../source/worker-bundle-core.ts'
 import {
   DoesCandidateMatchUnifiedDomains,
@@ -38,7 +37,7 @@ function RawTexts(FiltersList: AGTree.FilterList): string[] {
   return FiltersList.children.map(Filter => Filter.raws?.text ?? AGTree.RuleGenerator.generate(Filter))
 }
 
-Test.test('ParseUnifiedDomains ignores comments and normalizes domains', () => {
+Test('ParseUnifiedDomains ignores comments and normalizes domains', T => {
   const Domains = ParseUnifiedDomains([
     '! comment',
     '# comment',
@@ -48,48 +47,48 @@ Test.test('ParseUnifiedDomains ignores comments and normalizes domains', () => {
     ''
   ].join('\n'))
 
-  Assert.deepEqual([...Domains].sort(), ['example.com', 'sub.example.net', 'wildcard.example.org'])
+  T.deepEqual([...Domains].sort(), ['example.com', 'sub.example.net', 'wildcard.example.org'])
 })
 
-Test.test('DoesCandidateMatchUnifiedDomains matches subdomains', () => {
+Test('DoesCandidateMatchUnifiedDomains matches subdomains', T => {
   const Domains = new Set(['example.com'])
 
-  Assert.equal(DoesCandidateMatchUnifiedDomains('ads.example.com', Domains), true)
-  Assert.equal(DoesCandidateMatchUnifiedDomains('example.net', Domains), false)
+  T.is(DoesCandidateMatchUnifiedDomains('ads.example.com', Domains), true)
+  T.is(DoesCandidateMatchUnifiedDomains('example.net', Domains), false)
 })
 
-Test.test('RuleMatchesUnifiedDomains reads $domain and ignores excluded domains', () => {
+Test('RuleMatchesUnifiedDomains reads $domain and ignores excluded domains', T => {
   const MatchingRule = ParseRule('||tracker.example.net^$domain=example.com|~ignored.example.com')
   const ExcludedOnlyRule = ParseRule('||tracker.example.net^$domain=~example.com')
   const Domains = new Set(['example.com'])
 
-  Assert.equal(RuleMatchesUnifiedDomains(MatchingRule, Domains), true)
-  Assert.equal(RuleMatchesUnifiedDomains(ExcludedOnlyRule, Domains), false)
+  T.is(RuleMatchesUnifiedDomains(MatchingRule, Domains), true)
+  T.is(RuleMatchesUnifiedDomains(ExcludedOnlyRule, Domains), false)
 })
 
-Test.test('RuleMatchesUnifiedDomains reads $denyallow and ignores excluded domains', () => {
+Test('RuleMatchesUnifiedDomains reads $denyallow and ignores excluded domains', T => {
   const MatchingRule = ParseRule('||tracker.example.net^$denyallow=example.com|~ignored.example.com')
   const ExcludedOnlyRule = ParseRule('||tracker.example.net^$denyallow=~example.com')
   const Domains = new Set(['example.com'])
 
-  Assert.equal(RuleMatchesUnifiedDomains(MatchingRule, Domains), true)
-  Assert.equal(RuleMatchesUnifiedDomains(ExcludedOnlyRule, Domains), false)
+  T.is(RuleMatchesUnifiedDomains(MatchingRule, Domains), true)
+  T.is(RuleMatchesUnifiedDomains(ExcludedOnlyRule, Domains), false)
 })
 
-Test.test('GetRuleCandidateDomains extracts canonical network host patterns', () => {
+Test('GetRuleCandidateDomains extracts canonical network host patterns', T => {
   const Rule = ParseRule('||ads.sub.example.com^$script')
   const WildcardRule = ParseRule('||*.sub.example.com^$script')
   const PathRule = ParseRule('||ads.sub.example.com/path$script')
 
-  Assert.deepEqual(GetRuleCandidateDomains(Rule), ['ads.sub.example.com'])
-  Assert.deepEqual(GetRuleCandidateDomains(WildcardRule), ['*.sub.example.com'])
-  Assert.deepEqual(GetRuleCandidateDomains(PathRule), ['ads.sub.example.com'])
-  Assert.equal(RuleMatchesUnifiedDomains(Rule, new Set(['example.com'])), true)
-  Assert.equal(RuleMatchesUnifiedDomains(WildcardRule, new Set(['example.com'])), true)
-  Assert.equal(RuleMatchesUnifiedDomains(PathRule, new Set(['example.com'])), true)
+  T.deepEqual(GetRuleCandidateDomains(Rule), ['ads.sub.example.com'])
+  T.deepEqual(GetRuleCandidateDomains(WildcardRule), ['*.sub.example.com'])
+  T.deepEqual(GetRuleCandidateDomains(PathRule), ['ads.sub.example.com'])
+  T.is(RuleMatchesUnifiedDomains(Rule, new Set(['example.com'])), true)
+  T.is(RuleMatchesUnifiedDomains(WildcardRule, new Set(['example.com'])), true)
+  T.is(RuleMatchesUnifiedDomains(PathRule, new Set(['example.com'])), true)
 })
 
-Test.test('FilterExternalRulesByDomains preserves matching hints and if branch wrappers', () => {
+Test('FilterExternalRulesByDomains preserves matching hints and if branch wrappers', T => {
   const FiltersList = ParseFilterList([
     '!#if env_chromium',
     '!+ PLATFORM(ext_ublock)',
@@ -103,7 +102,7 @@ Test.test('FilterExternalRulesByDomains preserves matching hints and if branch w
     children: FilterExternalRulesByDomains(FiltersList, new Set(['example.com'])).Rules
   }
 
-  Assert.deepEqual(RawTexts(FilteredList), [
+  T.deepEqual(RawTexts(FilteredList), [
     '!#if env_chromium',
     '!+ PLATFORM(ext_ublock)',
     'example.com##.ad',
@@ -111,7 +110,7 @@ Test.test('FilterExternalRulesByDomains preserves matching hints and if branch w
   ])
 })
 
-Test.test('FilterExternalRulesByDomains preserves matching else branch wrappers', () => {
+Test('FilterExternalRulesByDomains preserves matching else branch wrappers', T => {
   const FiltersList = ParseFilterList([
     '!#if env_chromium',
     'example.com##.ad',
@@ -124,7 +123,7 @@ Test.test('FilterExternalRulesByDomains preserves matching else branch wrappers'
     children: FilterExternalRulesByDomains(FiltersList, new Set(['other.com'])).Rules
   }
 
-  Assert.deepEqual(RawTexts(FilteredList), [
+  T.deepEqual(RawTexts(FilteredList), [
     '!#if env_chromium',
     '!#else',
     'other.com##.ad',
@@ -132,7 +131,7 @@ Test.test('FilterExternalRulesByDomains preserves matching else branch wrappers'
   ])
 })
 
-Test.test('ResolveForPlatform handles #else branches', () => {
+Test('ResolveForPlatform handles #else branches', T => {
   const Builder = new TestBuilder({
     FiltersProcessableCache: new Map(),
     WorkingDirectory: Process.cwd(),
@@ -147,11 +146,11 @@ Test.test('ResolveForPlatform handles #else branches', () => {
     '!#endif'
   ].join('\n'))
 
-  Assert.deepEqual(RawTexts(Builder.Resolve(FiltersList, { env_chromium: true })), ['chromium.example##.ad'])
-  Assert.deepEqual(RawTexts(Builder.Resolve(FiltersList, { env_chromium: false })), ['firefox.example##.ad'])
+  T.deepEqual(RawTexts(Builder.Resolve(FiltersList, { env_chromium: true })), ['chromium.example##.ad'])
+  T.deepEqual(RawTexts(Builder.Resolve(FiltersList, { env_chromium: false })), ['firefox.example##.ad'])
 })
 
-Test.test('uBO external source selection uses the uAssets ads template set', () => {
+Test('uBO external source selection uses the uAssets ads template set', T => {
   const UboSources = GetUnifiedExternalSourceUrls('uBlockOrigin')
   const UboUrls = UboSources.map(Source => Source.Url)
 
@@ -166,10 +165,10 @@ Test.test('uBO external source selection uses the uAssets ads template set', () 
     'filters-2025.txt',
     'filters-2026.txt'
   ]) {
-    Assert.equal(UboUrls.some(Url => Url.endsWith('/uAssets/filters/' + FilterFileName)), true)
+    T.is(UboUrls.some(Url => Url.endsWith('/uAssets/filters/' + FilterFileName)), true)
   }
 
-  Assert.equal(UboUrls.some(Url => Url.includes('/BaseFilter/')), false)
-  Assert.equal(UboUrls.some(Url => Url.includes('/SpywareFilter/sections/')), true)
-  Assert.equal(UboUrls.some(Url => Url.includes('/TrackParamFilter/sections/')), true)
+  T.is(UboUrls.some(Url => Url.includes('/BaseFilter/')), false)
+  T.is(UboUrls.some(Url => Url.includes('/SpywareFilter/sections/')), true)
+  T.is(UboUrls.some(Url => Url.includes('/TrackParamFilter/sections/')), true)
 })
