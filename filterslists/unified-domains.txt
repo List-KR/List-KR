@@ -1,0 +1,7 @@
+! Domains used to select upstream rules for List-KR unified filters.
+! Add one bare domain or hostname per line, for example:
+! example.com
+youtube.com
+msn.com
+google.com
+reddit.com
