@@ -7,10 +7,13 @@ import {
   DoesCandidateMatchUnifiedDomains,
   FilterExternalRulesByDomains,
   GetRuleCandidateDomains,
-  GetUnifiedExternalSourceUrls,
   ParseUnifiedDomains,
   RuleMatchesUnifiedDomains
 } from '../source/unified-external-sources.ts'
+import {
+  DeduplicateUnifiedExternalSources,
+  GetUnifiedExternalSourceUrls
+} from '../source/unified-external-source-urls.ts'
 
 const ParserOptions: AGTree.ParserOptions = {
   ...AGTree.defaultParserOptions,
@@ -171,4 +174,17 @@ Test('uBO external source selection uses the uAssets ads template set', T => {
   T.is(UboUrls.some(Url => Url.includes('/BaseFilter/')), false)
   T.is(UboUrls.some(Url => Url.includes('/SpywareFilter/sections/')), true)
   T.is(UboUrls.some(Url => Url.includes('/TrackParamFilter/sections/')), true)
+})
+
+Test('DeduplicateUnifiedExternalSources keeps the first source for duplicate URLs', T => {
+  const Sources = DeduplicateUnifiedExternalSources([
+    { Name: 'first', Url: 'https://example.com/filter.txt' },
+    { Name: 'duplicate', Url: 'https://example.com/filter.txt' },
+    { Name: 'second', Url: 'https://example.com/second.txt' }
+  ])
+
+  T.deepEqual(Sources, [
+    { Name: 'first', Url: 'https://example.com/filter.txt' },
+    { Name: 'second', Url: 'https://example.com/second.txt' }
+  ])
 })
