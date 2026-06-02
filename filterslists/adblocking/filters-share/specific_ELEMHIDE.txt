@@ -1380,7 +1380,6 @@ kio.ac##main > div:has(> div > div > a > img)
 !
 ! DOMAIN-REFRESHER: START
 !
-[$domain=/majorlink[0-9]+\.com/]##.major_site_latest
 [$domain=/xtoon[0-9]+\.com/]##.container > div.row > div > a[target="_blank"] > picture
 [$domain=/funbe[0-9]+\.com/]##.mobile-banner > div[class^="main_top_bann"]
 [$domain=/funbe[0-9]+\.com/]##.mobile-banner div.banner_m
