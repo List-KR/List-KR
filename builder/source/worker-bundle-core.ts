@@ -6,11 +6,13 @@ import * as Memfs from 'memfs'
 import * as AGTree from '@adguard/agtree'
 import * as ActionCore from '@actions/core'
 import type { FiltersListsConfigWithVersion } from './filterslists-config.ts'
+import type { UnifiedExternalRulesByAdblockType } from './unified-external-sources.ts'
 
 type WorkerData = {
   FiltersProcessableCache: Map<string, boolean>
   WorkingDirectory: string
   FiltersListDirectory: string
+  UnifiedExternalRules?: UnifiedExternalRulesByAdblockType
 }
 
 type PlatformConfig = {
@@ -25,11 +27,13 @@ export class BuildBundledFiltersLists {
   protected FiltersListOutputFS: ReturnType<typeof Memfs.memfs>
   protected PlatformKey2FilenameMap: Map<string, string>
   protected PlatformConfigMap: Map<string, PlatformConfig>
+  protected UnifiedExternalRules: UnifiedExternalRulesByAdblockType
 
   constructor(WorkerData: WorkerData) {
     this.FiltersListDirectory = WorkerData.FiltersListDirectory
     this.WorkingDirectory = WorkerData.WorkingDirectory
     this.FiltersProcessableCache = WorkerData.FiltersProcessableCache
+    this.UnifiedExternalRules = WorkerData.UnifiedExternalRules ?? {}
     this.FiltersListOutputFS = Memfs.memfs()
 
     const PlatformConfigs: [string, PlatformConfig][] = [
@@ -39,14 +43,14 @@ export class BuildBundledFiltersLists {
       [AGTree.stringifyPlatforms(AGTree.SpecificPlatform.AdgExtChrome), { FileName: 'adguard-chromium.txt', Vars: { adguard: true, adguard_ext_chromium: true } }],
       [AGTree.stringifyPlatforms(AGTree.SpecificPlatform.AdgExtEdge), { FileName: 'adguard-edge.txt', Vars: { adguard: true, adguard_ext_edge: true } }],
       [AGTree.stringifyPlatforms(AGTree.SpecificPlatform.AdgExtFirefox), { FileName: 'adguard-firefox.txt', Vars: { adguard: true, adguard_ext_firefox: true } }],
-      [AGTree.stringifyPlatforms(AGTree.SpecificPlatform.AdgExtOpera), { FileName: 'adguard-opera.txt', Vars: { adguard: true, adguard_ext_chromium: true } }],
+      [AGTree.stringifyPlatforms(AGTree.SpecificPlatform.AdgExtOpera), { FileName: 'adguard-opera.txt', Vars: { adguard: true, adguard_ext_chromium: true, adguard_ext_opera: true } }],
       [AGTree.stringifyPlatforms(AGTree.SpecificPlatform.AdgOsAndroid), { FileName: 'adguard-android.txt', Vars: { adguard: true, adguard_app_android: true } }],
       [AGTree.stringifyPlatforms(AGTree.SpecificPlatform.AdgOsMac), { FileName: 'adguard-mac.txt', Vars: { adguard: true, adguard_app_mac: true } }],
       [AGTree.stringifyPlatforms(AGTree.SpecificPlatform.AdgOsWindows), { FileName: 'adguard-windows.txt', Vars: { adguard: true, adguard_app_windows: true } }],
-      [AGTree.stringifyPlatforms(AGTree.SpecificPlatform.UboExtChrome), { FileName: 'ubo-chromium.txt', Vars: { ext_ublock: true, cap_user_stylesheet: true, cap_html_filtering: true } }],
-      [AGTree.stringifyPlatforms(AGTree.SpecificPlatform.UboExtEdge), { FileName: 'ubo-edge.txt', Vars: { ext_ublock: true, cap_user_stylesheet: true, cap_html_filtering: true } }],
-      [AGTree.stringifyPlatforms(AGTree.SpecificPlatform.UboExtFirefox), { FileName: 'ubo-firefox.txt', Vars: { ext_ublock: true, cap_user_stylesheet: true, cap_html_filtering: true } }],
-      [AGTree.stringifyPlatforms(AGTree.SpecificPlatform.UboExtOpera), { FileName: 'ubo-opera.txt', Vars: { ext_ublock: true, cap_user_stylesheet: true, cap_html_filtering: true } }]
+      [AGTree.stringifyPlatforms(AGTree.SpecificPlatform.UboExtChrome), { FileName: 'ubo-chromium.txt', Vars: { ext_ublock: true, cap_user_stylesheet: true, cap_html_filtering: true, cap_ipaddress: true, env_chromium: true } }],
+      [AGTree.stringifyPlatforms(AGTree.SpecificPlatform.UboExtEdge), { FileName: 'ubo-edge.txt', Vars: { ext_ublock: true, cap_user_stylesheet: true, cap_html_filtering: true, cap_ipaddress: true, env_chromium: true } }],
+      [AGTree.stringifyPlatforms(AGTree.SpecificPlatform.UboExtFirefox), { FileName: 'ubo-firefox.txt', Vars: { ext_ublock: true, cap_user_stylesheet: true, cap_html_filtering: true, cap_ipaddress: true, env_firefox: true } }],
+      [AGTree.stringifyPlatforms(AGTree.SpecificPlatform.UboExtOpera), { FileName: 'ubo-opera.txt', Vars: { ext_ublock: true, cap_user_stylesheet: true, cap_html_filtering: true, cap_ipaddress: true, env_chromium: true } }]
     ]
 
     this.PlatformKey2FilenameMap = new Map(PlatformConfigs.map(([PlatformKey, Config]) => [PlatformKey, Config.FileName]))
@@ -159,6 +163,14 @@ export class BuildBundledFiltersLists {
           continue
         }
 
+        if (Filter.name.value === 'else') {
+          if (IfStack.length > 0) {
+            IfStack[IfStack.length - 1] = !IfStack[IfStack.length - 1]
+          }
+          ActionCore.debug(`[bundle-core pid=${Process.pid} threadid=${WorkerThread.threadId}] ResolveForPlatform: toggle #else, depth=${IfStack.length}`)
+          continue
+        }
+
         if (Filter.name.value === 'endif') {
           IfStack.pop()
           ActionCore.debug(`[bundle-core pid=${Process.pid} threadid=${WorkerThread.threadId}] ResolveForPlatform: pop #endif, depth=${IfStack.length}`)
@@ -174,6 +186,24 @@ export class BuildBundledFiltersLists {
     return {
       ...FiltersList,
       children: FiltersChildren
+    }
+  }
+
+  protected AppendUnifiedExternalRules(FiltersList: AGTree.FilterList, Definition: FiltersListsConfigWithVersion[number]): AGTree.FilterList {
+    if (!Definition.UnifiedDomainListFileName) {
+      return FiltersList
+    }
+
+    const ExternalRules = this.UnifiedExternalRules[Definition.AdblockType] ?? []
+    if (ExternalRules.length === 0) {
+      return FiltersList
+    }
+
+    ActionCore.info(`[bundle-core pid=${Process.pid} threadid=${WorkerThread.threadId}] Appending ${ExternalRules.length} unified external rules for ${Definition.DefinitionFileName}`)
+
+    return {
+      ...FiltersList,
+      children: [...FiltersList.children, ...ExternalRules]
     }
   }
 
@@ -193,7 +223,7 @@ export class BuildBundledFiltersLists {
 
   ExtractAsMap(FiltersList: AGTree.FilterList, Definition: FiltersListsConfigWithVersion[number]): Map<string, AGTree.FilterList> {
     ActionCore.info(`[bundle-core pid=${Process.pid} threadid=${WorkerThread.threadId}] Start extracting resolved lists for ${Definition.DefinitionFileName}`)
-    const BundledFiltersList = this.BundleIncludes(FiltersList)
+    const BundledFiltersList = this.AppendUnifiedExternalRules(this.BundleIncludes(FiltersList), Definition)
     const HeaderFilterList = this.BuildHeaderFilterList(Definition)
     const OutputFiltersLists = new Map<string, AGTree.FilterList>()
 

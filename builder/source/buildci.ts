@@ -4,6 +4,7 @@ import * as Path from 'node:path'
 import * as Process from 'node:process'
 import { SafeInitCwd } from './utils/cwd.ts'
 import { LoadFiltersListsConfig } from './filterslists-config.ts'
+import { LoadUnifiedExternalRules } from './unified-external-sources.ts'
 
 // Determine working directory
 const WorkingDirectory = SafeInitCwd({ Cwd: Process.cwd(), InitCwd: Process.env.INIT_CWD })
@@ -35,16 +36,18 @@ for (const FiltersPath of FiltersPathes) {
 (await Promise.all(FiltersProcessableResults)).forEach(Result => FiltersProcessableCache.set(Result.FileName, Result.Result))
 console.log(`Preprocessed ${FiltersProcessableCache.size} filters files for processability.`)
 
+const UnifiedExternalRules = await LoadUnifiedExternalRules(FiltersListsConfigWithVersion, FiltersListDirectory)
+
 // Build: Process each filters list definition
 const FiltersBuildResolvedWorkerpool = new Piscina.Piscina({
   filename: Path.resolve(WorkingDirectory, 'builder/source/worker-bundle-resolved.ts'),
   execArgv: [...Process.execArgv, '--import=tsx'],
-  workerData: { FiltersProcessableCache, WorkingDirectory, FiltersListDirectory }
+  workerData: { FiltersProcessableCache, WorkingDirectory, FiltersListDirectory, UnifiedExternalRules }
 })
 const FiltersBuildWorkerpool = new Piscina.Piscina({
   filename: Path.resolve(WorkingDirectory, 'builder/source/worker-bundle-with-ifs.ts'),
   execArgv: [...Process.execArgv, '--import=tsx'],
-  workerData: { FiltersProcessableCache, WorkingDirectory, FiltersListDirectory }
+  workerData: { FiltersProcessableCache, WorkingDirectory, FiltersListDirectory, UnifiedExternalRules }
 })
 const FiltersBuildResults: Promise<void>[] = []
 for (const FiltersListDefinition of FiltersListsConfigWithVersion) {

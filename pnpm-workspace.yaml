@@ -5,3 +5,5 @@ packages:
 allowBuilds:
   core-js-pure: false
   esbuild: true
+minimumReleaseAgeExclude:
+  - '@typescriptprime/securereq@2.0.1'
