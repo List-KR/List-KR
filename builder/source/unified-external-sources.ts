@@ -95,7 +95,20 @@ const UAssetsAdsFilterFiles = [
   'quick-fixes.txt'
 ]
 
-const NetworkHostTerminatingChars = new Set(['^', '/', '$', ':', '?', '#', '[', ']', '\\'])
+const DenyallowModifierName = 'denyallow'
+const DomainModifierName = 'domain'
+const DomainModifierNames = new Set([DenyallowModifierName, DomainModifierName])
+const NetworkHostTerminatingChars = new Set([
+  AGTree.ADBLOCK_URL_SEPARATOR,
+  '/',
+  AGTree.NETWORK_RULE_SEPARATOR,
+  ':',
+  '?',
+  '#',
+  '[',
+  ']',
+  '\\'
+])
 
 const ParserOptions: AGTree.ParserOptions = {
   ...AGTree.defaultParserOptions,
@@ -148,7 +161,7 @@ export function ParseUnifiedDomains(RawDomainList: string): Set<string> {
       continue
     }
 
-    const Domain = NormalizeCandidateDomain(TrimmedLine)
+    const Domain = ParseUnifiedDomainLine(TrimmedLine) ?? NormalizeCandidateDomain(TrimmedLine)
     if (Domain) {
       Domains.add(Domain)
     }
@@ -190,7 +203,7 @@ export function GetRuleCandidateDomains(Filter: AGTree.AnyRule): string[] {
 
   if (IsNetworkRule(Filter)) {
     return [
-      ...ExtractNetworkPatternCandidates(Filter.pattern.value),
+      ...ExtractNetworkPatternCandidates(Filter),
       ...ExtractModifierDomainCandidates(Filter.modifiers)
     ]
   }
@@ -411,28 +424,28 @@ function ExtractModifierDomainCandidates(Modifiers?: AGTree.ModifierList): strin
   const Candidates: string[] = []
 
   for (const Modifier of Modifiers?.children ?? []) {
-    if (!Modifier.value || (Modifier.name.value !== 'domain' && Modifier.name.value !== 'denyallow')) {
+    if (!Modifier.value || !DomainModifierNames.has(Modifier.name.value)) {
       continue
     }
 
-    try {
-      const DomainList = AGTree.DomainListParser.parse(Modifier.value.value, ParserOptions, Modifier.value.start ?? 0, '|')
+    const DomainList = ParseDomainList(Modifier.value.value, Modifier.value.start ?? 0, AGTree.PIPE_MODIFIER_SEPARATOR)
+    if (DomainList) {
       Candidates.push(...ExtractDomainListCandidates(DomainList))
-    } catch {
-      continue
     }
   }
 
   return Candidates
 }
 
-function ExtractNetworkPatternCandidates(Pattern: string): string[] {
-  if (!Pattern.startsWith('||')) {
+function ExtractNetworkPatternCandidates(Filter: AGTree.NetworkRule): string[] {
+  const Pattern = Filter.pattern.value
+
+  if (!Pattern.startsWith(AGTree.ADBLOCK_URL_START)) {
     return []
   }
 
   let Host = ''
-  for (let Index = 2; Index < Pattern.length; Index += 1) {
+  for (let Index = AGTree.ADBLOCK_URL_START.length; Index < Pattern.length; Index += 1) {
     const Character = Pattern[Index]
     if (NetworkHostTerminatingChars.has(Character)) {
       break
@@ -444,6 +457,29 @@ function ExtractNetworkPatternCandidates(Pattern: string): string[] {
   return Host ? [Host] : []
 }
 
+function ParseUnifiedDomainLine(RawLine: string): string | null {
+  const DomainList = ParseDomainList(RawLine, 0)
+
+  if (!DomainList || DomainList.children.length !== 1) {
+    return null
+  }
+
+  const Domain = DomainList.children[0]
+  if (Domain.exception) {
+    return null
+  }
+
+  return NormalizeCandidateDomain(Domain.value)
+}
+
+function ParseDomainList(RawDomainList: string, BaseOffset: number, Separator?: AGTree.DomainListSeparator): AGTree.DomainList | null {
+  try {
+    return AGTree.DomainListParser.parse(RawDomainList, ParserOptions, BaseOffset, Separator)
+  } catch {
+    return null
+  }
+}
+
 function NormalizeCandidateDomain(RawDomain: string): string | null {
   let Domain = RawDomain.trim().toLowerCase()
 
@@ -451,13 +487,13 @@ function NormalizeCandidateDomain(RawDomain: string): string | null {
     return null
   }
 
-  if (Domain.startsWith('||')) {
-    Domain = Domain.slice(2)
+  if (Domain.startsWith(AGTree.ADBLOCK_URL_START)) {
+    Domain = Domain.slice(AGTree.ADBLOCK_URL_START.length)
   }
-  if (Domain.startsWith('*.')) {
-    Domain = Domain.slice(2)
+  if (Domain.startsWith(AGTree.ADBLOCK_WILDCARD + '.')) {
+    Domain = Domain.slice((AGTree.ADBLOCK_WILDCARD + '.').length)
   }
-  if (Domain.endsWith('^')) {
+  if (Domain.endsWith(AGTree.ADBLOCK_URL_SEPARATOR)) {
     Domain = Domain.slice(0, -1)
   }
   if (Domain.endsWith('.')) {
@@ -482,9 +518,9 @@ function IsNetworkRule(Filter: AGTree.AnyRule): Filter is AGTree.NetworkRule {
 }
 
 function IsHintCommentRule(Filter: AGTree.AnyRule): Filter is AGTree.HintCommentRule {
-  return Filter.type === 'HintCommentRule'
+  return Filter.type === AGTree.CommentRuleType.HintCommentRule
 }
 
 function IsPreProcessorCommentRule(Filter: AGTree.AnyRule): Filter is AGTree.PreProcessorCommentRule {
-  return Filter.type === 'PreProcessorCommentRule'
+  return Filter.type === AGTree.CommentRuleType.PreProcessorCommentRule
 }

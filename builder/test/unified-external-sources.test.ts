@@ -15,6 +15,7 @@ import {
 
 const ParserOptions: AGTree.ParserOptions = {
   ...AGTree.defaultParserOptions,
+  parseAbpSpecificRules: true,
   parseUboSpecificRules: true,
   includeRaws: true
 }
@@ -42,11 +43,12 @@ Test.test('ParseUnifiedDomains ignores comments and normalizes domains', () => {
     '! comment',
     '# comment',
     'Example.COM',
+    '*.Wildcard.Example.ORG',
     '||Sub.Example.NET^',
     ''
   ].join('\n'))
 
-  Assert.deepEqual([...Domains].sort(), ['example.com', 'sub.example.net'])
+  Assert.deepEqual([...Domains].sort(), ['example.com', 'sub.example.net', 'wildcard.example.org'])
 })
 
 Test.test('DoesCandidateMatchUnifiedDomains matches subdomains', () => {
@@ -65,11 +67,26 @@ Test.test('RuleMatchesUnifiedDomains reads $domain and ignores excluded domains'
   Assert.equal(RuleMatchesUnifiedDomains(ExcludedOnlyRule, Domains), false)
 })
 
+Test.test('RuleMatchesUnifiedDomains reads $denyallow and ignores excluded domains', () => {
+  const MatchingRule = ParseRule('||tracker.example.net^$denyallow=example.com|~ignored.example.com')
+  const ExcludedOnlyRule = ParseRule('||tracker.example.net^$denyallow=~example.com')
+  const Domains = new Set(['example.com'])
+
+  Assert.equal(RuleMatchesUnifiedDomains(MatchingRule, Domains), true)
+  Assert.equal(RuleMatchesUnifiedDomains(ExcludedOnlyRule, Domains), false)
+})
+
 Test.test('GetRuleCandidateDomains extracts canonical network host patterns', () => {
   const Rule = ParseRule('||ads.sub.example.com^$script')
+  const WildcardRule = ParseRule('||*.sub.example.com^$script')
+  const PathRule = ParseRule('||ads.sub.example.com/path$script')
 
   Assert.deepEqual(GetRuleCandidateDomains(Rule), ['ads.sub.example.com'])
+  Assert.deepEqual(GetRuleCandidateDomains(WildcardRule), ['*.sub.example.com'])
+  Assert.deepEqual(GetRuleCandidateDomains(PathRule), ['ads.sub.example.com'])
   Assert.equal(RuleMatchesUnifiedDomains(Rule, new Set(['example.com'])), true)
+  Assert.equal(RuleMatchesUnifiedDomains(WildcardRule, new Set(['example.com'])), true)
+  Assert.equal(RuleMatchesUnifiedDomains(PathRule, new Set(['example.com'])), true)
 })
 
 Test.test('FilterExternalRulesByDomains preserves matching hints and if branch wrappers', () => {
