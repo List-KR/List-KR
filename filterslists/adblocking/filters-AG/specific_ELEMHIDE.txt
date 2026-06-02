@@ -1,3 +1,15 @@
+!#if (adguard_ext_safari || adguard_app_ios)
+m.ytn.co.kr#@#.ad_1200
+m.ytn.co.kr#@#.ad_300
+m.ytn.co.kr#@#div[class*="YTN_CSA_mainbnr"]
+m.ytn.co.kr#@#.recomm_news_slider.YTN_CSA_editorrecomm
+ytn.co.kr##.ad_1200
+m.ytn.co.kr#@##zone2 + div:has(iframe[name^="AdServerChange"])
+ytn.co.kr##.ad_300
+ytn.co.kr##div[class*="YTN_CSA_mainbnr"]
+ytn.co.kr##.recomm_news_slider.YTN_CSA_editorrecomm
+ytn.co.kr###zone2 + div:has(iframe[name^="AdServerChange"])
+!#endif
 namu.wiki,~board.namu.wiki##div[class] ~ div div + *[class]:not([class*=" "]) *[class*=" "] div[class]:has(> iframe[id^="google_ads_"])
 namu.wiki,~board.namu.wiki##div[class] ~ div div + *[class]:not([class*=" "]) *[class*=" "] div[class]:has(iframe[src*="arca.live/external/callad"])
 namu.wiki,~board.namu.wiki##*[class]:not([class*=" "]) > div[class]:not([class*=" "]) ~ *:not([class]) > *[class]:has(iframe[id^="google_ads_iframe_"])
@@ -8,10 +20,6 @@ m.ruliweb.com##.fixed_ad_wrapper
 !#endif
 !#if (adguard_app_ios)
 m.humoruniv.com###list_body ~ *[id][style^="border-bottom-width:"]
-!#endif
-!#if (adguard_app_ios || adguard_ext_safari)
-newtoki.help##.ba_test
-newtoki.help##.banner2
 !#endif
 !#if (adguard_ext_safari || adguard_app_ios)
 board.namu.wiki#@#div[class] ~ div div + *[class]:not([class*=" "]) *[class*=" "] div[class]:has(> iframe[id^="google_ads_"])
@@ -131,6 +139,10 @@ m.fmkorea.com##iframe[src*="//loader.fmkorea.com/"][src*="_loader/"]
 !
 ! DOMAIN-REFRESHER: START
 !
+[$domain=/newto[0-9]+\.com/]##div[class^="basic-banner-"]
+[$domain=/bookto[0-9]+\.com/]##div[class^="basic-banner-"]
+[$domain=/mato[0-9]+\.com/]##div[class^="basic-banner-"]
+[$domain=/sbxh[0-9]+\.com/]##[data-brs][data-br]
 [$domain=/torrentsee[0-9]+\.com/]##.container > div[style^="z-index:999; "]
 !
 ! DOMAIN-REFRESHER: END

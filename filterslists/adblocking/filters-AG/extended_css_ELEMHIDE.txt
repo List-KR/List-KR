@@ -1,3 +1,4 @@
+m.ytn.co.kr#?#div:has(> h2:contains(실시간 정보))
 vortexgaming.io#?#div[class^="PostAsideCardList_card_list_inner__"]  > div[class^="PostAsideCardList_card__"]:has(div[class^="PostAsideCardList_close__"]:contains(AD))
 pedia.watcha.com#?#div[class] > section[class*=" "]:has(> section > a h3 > p:contains( · AD))
 m.ruliweb.com#?#.TimelineHeaderMargin ~ div .infinite-scroll-component > div:has(span[style*="max-height:"]:contains(AD))

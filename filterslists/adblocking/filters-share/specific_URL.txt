@@ -1,3 +1,4 @@
+||static.fmkorea.com/modules/fmad/tpl/*/naver_power_link.
 ||jeongcheogi.edugamja.com/ads/
 ||algumon.com/n/api/ca/list
 ||api.coupangstreaming.com/ads-vod-public/
@@ -138,7 +139,6 @@
 ||dentalnews.or.kr/data/banner/
 ||m2.nateimg.co.kr/cms/*.gif|$image
 /^https?:\/\/www\.tinnews\.co\.kr\/data\/tinnews_co_kr\/banner\/(?!(favicon\.ico|2020040642392902))/$domain=tinnews.co.kr
-/^https:\/\/www\.etoland\.co\.kr\/img\/nasmedia\/[0-9]+x[0-9]+_+/$domain=etoland.co.kr
 /^https:\/\/api-gw\.sports\.naver\.com\/cms\/contents\/adContents\/(?!(GENERAL|BRAND_STORY))/$domain=m.sports.naver.com
 ||da.namu.la^$domain=arca.live
 ||arca.live/api/*pagead?$xmlhttprequest
@@ -226,9 +226,6 @@
 ||images.mimint.co.kr/banner/
 ||melon-pan.com/plugin/adcover/
 /wp-content/plugins/brave-popup-builder/assets/frontend/brave.js$domain=smartinpress.com|hotissuepoint.com|keela.co.kr
-||etoland.co.kr/img/renewal/games/squidland/
-||youtube.com/iframe_api|$domain=etoland.co.kr
-||etoland.co.kr/data/file0207/point1/
 ||resources.chimhaha.net/banner/
 ||ilbe.com/img/banner/
 ||i0.wp.com/atlantak.com/wp-content/uploads/*.gif?resize=*&ssl=1
@@ -861,6 +858,10 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/\/data\/apms\/banner\//$domain=/mato[0-9]+\.com/
+/\/data\/apms\/banner\//$domain=/newto[0-9]+\.com/
+/\/data\/apms\/banner\//$domain=/bookto[0-9]+\.com/
+/^https:\/\/[a-z0-9-]+\.[a-z0-9-]+\/[a-z0-9-_]+\./$image,domain=/wfwf[0-9]+\.com/
 /^https:\/\/cdn\.xtoon[0-9]+\.com\/collaboration\//$domain=/xtoon[0-9]+\.com/
 /^https:\/\/funbe[0-9]+\.com\/images\//$domain=/funbe[0-9]+\.com/
 ||mingk*.net/data/file/passfree/$domain=/mingky[0-9]+\.net/
@@ -950,7 +951,7 @@
 /^https:\/\/jusoyo[0-9]+\.(net|com)\/data\/apms\/background\//
 /^https:\/\/jusoyo[0-9]+\.(net|com)\/.+\.webp$/
 /^https:\/\/yadong[0-9]+\.net\/Uploads\/images\/\d{4}-\d{2}-\d{2}/
-||i.imgur.com^$domain=yasyadong.*
+||i.imgur.com^$domain=yasyadong.*|/yasyadong[0-9]+\.tv/
 /^https:\/\/iabn[0-9]+\.net\//$domain=/^fxfx[0-9]+\.com/
 /^https:\/\/mkmk[0-9]+\.com\/img\/[a-z]+[0-9]+x[0-9]+\//
 /^https:\/\/mkmk[0-9]+\.com\/img\/[a-z0-9_-]+\.gif$/
@@ -972,8 +973,6 @@
 /^https:\/\/sonagitv\.[a-z]+\/images\/banner\/(?!webtoon_)/$domain=sonagitv.*
 ||i.imgur.com^$domain=sonagitv.*
 ||xn--h10b90b998c.*/img/$domain=xn--h10b90b998c.*
-||i.imgur.com^$domain=newtoki.*
-||newtoki.*/banner*/$domain=newtoki.*
 ||i.imgur.com^$domain=/^torrentqq[0-9]+.com/
 ||cdn.jjun.live/BANNER/*.gif
 ||tvmon.*/img/ba
@@ -1005,7 +1004,6 @@
 /^https:\/\/cdn-nl-[0-9]+\.hasha\.in\/[A-z0-9_]+\.gif$/$domain=hasha.in
 ||jusotop.com/b/$domain=yatv.net|yadongtube.net|yadongkorea.red|yadongwang.org|yako.red
 /^https:\/\/jgmoa[0-9]+\.com\/upload_files\/popup\//
-/^https:\/\/newtoki[0-9]+\.com\/tokinbtoki\/[0-9]+/
 /^https:\/\/manatoki[0-9]+\.net\/tokinbtoki\//
 ||imgsuperpower.com^$domain=/^tkr[0-9]+\.com/
 ||blogger.googleusercontent.com/img/$domain=/^tkr[0-9]+\.com/
@@ -1074,7 +1072,6 @@
 /^https:\/\/bam[0-9]+co\.com\/_book\/_Contents\/banner\//
 ||imgsuperpower.com^$domain=/^hdhd[0-9]+\.net/
 ||blogger.googleusercontent.com^$domain=/^hdhd[0-9]+\.net/
-/^https:\/\/iabn[0-9]+\.net\//$domain=/wfwf[0-9]+\.net/
 /^https:\/\/blacktoon[0-9]+\.com\/poster_js\/[0-9]+\.js/
 ||toonkor*.com/images/*.gif
 ||wwwimageup.angle777899.com/other/atoona/
