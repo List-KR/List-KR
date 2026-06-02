@@ -18,7 +18,7 @@ class BuildBundledFiltersListsWithIfs extends BuildBundledFiltersLists {
   Build(FiltersListDefinition: FiltersListsConfigWithVersion[number], FiltersList: AGTree.FilterList): void {
     ActionCore.info(`[bundle-with-ifs pid=${Process.pid} threadid=${WorkerThread.threadId}] Building bundled list for ${FiltersListDefinition.DefinitionFileName}`)
 
-    const BundledFiltersList = this.BundleIncludes(FiltersList)
+    const BundledFiltersList = this.AppendUnifiedExternalRules(this.BundleIncludes(FiltersList), FiltersListDefinition)
     const HeaderFilterList = this.BuildHeaderFilterList(FiltersListDefinition)
     const OutputFileName = FiltersListDefinition.DefinitionFileName
     const OutputFilePath = Path.resolve(this.WorkingDirectory, 'dist', OutputFileName)

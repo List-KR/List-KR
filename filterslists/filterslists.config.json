@@ -47,7 +47,8 @@
     "HomepageUrl": "https://github.com/List-KR/List-KR",
     "SupportUrl": "https://github.com/List-KR/List-KR/issues",
     "LicenseUrl": "https://github.com/List-KR/List-KR/blob/master/LICENSE",
-    "AdblockType": "AdGuard"
+    "AdblockType": "AdGuard",
+    "UnifiedDomainListFileName": "unified-domains.txt"
   },
   {
     "Name": "List-KR unified filters list (uBlock Origin)",
@@ -57,6 +58,7 @@
     "HomepageUrl": "https://github.com/List-KR/List-KR",
     "SupportUrl": "https://github.com/List-KR/List-KR/issues",
     "LicenseUrl": "https://github.com/List-KR/List-KR/blob/master/LICENSE",
-    "AdblockType": "uBlockOrigin"
+    "AdblockType": "uBlockOrigin",
+    "UnifiedDomainListFileName": "unified-domains.txt"
   }
 ]
