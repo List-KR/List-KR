@@ -12,6 +12,7 @@ type WorkerData = {
   FiltersProcessableCache: Map<string, boolean>
   WorkingDirectory: string
   FiltersListDirectory: string
+  OutputDirectory: string
 }
 
 class BuildBundledFiltersListsWithIfs extends BuildBundledFiltersLists {
@@ -21,9 +22,9 @@ class BuildBundledFiltersListsWithIfs extends BuildBundledFiltersLists {
     const BundledFiltersList = this.AppendUnifiedExternalRules(this.BundleIncludes(FiltersList), FiltersListDefinition)
     const HeaderFilterList = this.BuildHeaderFilterList(FiltersListDefinition)
     const OutputFileName = FiltersListDefinition.DefinitionFileName
-    const OutputFilePath = Path.resolve(this.WorkingDirectory, 'dist', OutputFileName)
+    const OutputFilePath = Path.resolve(this.OutputDirectory, OutputFileName)
 
-    Fs.mkdirSync(Path.resolve(this.WorkingDirectory, 'dist'), { recursive: true })
+    Fs.mkdirSync(this.OutputDirectory, { recursive: true })
     Fs.writeFileSync(
       OutputFilePath,
       this.StringifyFilterList({

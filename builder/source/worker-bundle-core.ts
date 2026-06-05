@@ -12,6 +12,7 @@ type WorkerData = {
   FiltersProcessableCache: Map<string, boolean>
   WorkingDirectory: string
   FiltersListDirectory: string
+  OutputDirectory: string
   UnifiedExternalRules?: UnifiedExternalRulesByAdblockType
 }
 
@@ -24,6 +25,7 @@ export class BuildBundledFiltersLists {
   protected FiltersProcessableCache: Map<string, boolean>
   protected WorkingDirectory: string
   protected FiltersListDirectory: string
+  protected OutputDirectory: string
   protected FiltersListOutputFS: ReturnType<typeof Memfs.memfs>
   protected PlatformKey2FilenameMap: Map<string, string>
   protected PlatformConfigMap: Map<string, PlatformConfig>
@@ -32,6 +34,7 @@ export class BuildBundledFiltersLists {
   constructor(WorkerData: WorkerData) {
     this.FiltersListDirectory = WorkerData.FiltersListDirectory
     this.WorkingDirectory = WorkerData.WorkingDirectory
+    this.OutputDirectory = WorkerData.OutputDirectory
     this.FiltersProcessableCache = WorkerData.FiltersProcessableCache
     this.UnifiedExternalRules = WorkerData.UnifiedExternalRules ?? {}
     this.FiltersListOutputFS = Memfs.memfs()

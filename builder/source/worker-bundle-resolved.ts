@@ -12,6 +12,7 @@ type WorkerData = {
   FiltersProcessableCache: Map<string, boolean>
   WorkingDirectory: string
   FiltersListDirectory: string
+  OutputDirectory: string
 }
 
 class BuildBundledResolvedFiltersLists extends BuildBundledFiltersLists {
@@ -31,7 +32,7 @@ class BuildBundledResolvedFiltersLists extends BuildBundledFiltersLists {
   }
 
   Extract(OutputDirectoryName: string): void {
-    const OutputDirectoryPath = Path.resolve(this.WorkingDirectory, 'dist', 'resolved', OutputDirectoryName)
+    const OutputDirectoryPath = Path.resolve(this.OutputDirectory, 'resolved', OutputDirectoryName)
     ActionCore.info(`[bundle-resolved pid=${Process.pid} threadid=${WorkerThread.threadId}] Extracting resolved outputs to ${OutputDirectoryPath}`)
     Fs.mkdirSync(OutputDirectoryPath, { recursive: true })
 

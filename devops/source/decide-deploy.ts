@@ -4,17 +4,20 @@ import * as Zod from 'zod'
 import * as Fs from 'node:fs'
 import * as Path from 'node:path'
 import * as Process from 'node:process'
+import * as Os from 'node:os'
+import * as ChildProcess from 'node:child_process'
 import { SimpleSecureReq } from '@typescriptprime/securereq'
 import {
-  DeduplicateUnifiedExternalSources,
-  GetUnifiedExternalSourceUrls,
-  type UnifiedExternalSource,
-  type UnifiedExternalSourceAdblockType
-} from '@builder/unified-external-source-urls.ts'
+  BuildManifestFileName,
+  CompareBuildManifests,
+  CreateDefinitionVersionMap,
+  ParseBuildManifest,
+  type BuildManifest
+} from '@builder/build-manifest.ts'
+import { GetLatestPackageVersion, GetNextPackageVersionFromLatest, GetPublishedBuildManifestUrl } from '@builder/package-version.ts'
 
-const UnifiedFiltersListsConfigSchema = Zod.array(Zod.object({
-  AdblockType: Zod.enum(['AdGuard', 'uBlockOrigin']),
-  UnifiedDomainListFileName: Zod.string().optional()
+const FiltersListsConfigSchema = Zod.array(Zod.object({
+  DefinitionFileName: Zod.string()
 }).loose())
 
 const Env = await Zod.object({
@@ -29,31 +32,34 @@ const Env = await Zod.object({
   UNIFIED_CONFIG_FILE: Zod.string().nonempty().default('filterslists/filterslists.config.json')
 }).strip().parseAsync(Process.env)
 
-type UnifiedExternalSourceHeadResponse = Awaited<ReturnType<typeof SimpleSecureReq.Request>> & {
-  Headers: Record<string, string | string[] | undefined>
+type BuildManifestResponse = Awaited<ReturnType<typeof SimpleSecureReq.Request>> & {
+  Body: unknown
 }
 
-type ChangedUnifiedExternalSource = UnifiedExternalSource & {
-  ModifiedAt: string
-  Reason: string
+type PackageVersionContext = {
+  LatestPackageVersion: string
+  NextPackageVersion: string
+}
+
+type PreviousBuildManifestResult = {
+  Manifest: BuildManifest | null
+  Url: string
 }
 
 const WorkingDirectory = Path.resolve(import.meta.dirname, '../..')
-const HeadRequestTimeoutMs = 30000
+const Owner = Env.REPO.split('/')[0]
+const Repo = Env.REPO.split('/')[1]
 
 const OctokitInstance = new Octokit({
   auth: Env.GH_TOKEN
 })
 
 const WorkflowRuns = await OctokitInstance.actions.listWorkflowRunsForRepo({
-  owner: Env.REPO.split('/')[0],
-  repo: Env.REPO.split('/')[1],
+  owner: Owner,
+  repo: Repo,
   workflow_id: Env.WORKFLOW_FILE,
   per_page: 100
 })
-
-const Owner = Env.REPO.split('/')[0]
-const Repo = Env.REPO.split('/')[1]
 
 const PreviousRuns = WorkflowRuns.data.workflow_runs
   .filter(Run => Run.id !== Env.CURRENT_RUN_ID)
@@ -68,6 +74,11 @@ let ExternalSourceChanged = false
 let MatchedExternalSourceName = ''
 let MatchedExternalSourceUrl = ''
 let MatchedExternalSourceModifiedAt = ''
+let NextPackageVersion = ''
+let ManifestAvailable = false
+let ChangedDefinitionFileNames: string[] = []
+let ChangedOutputPaths: string[] = []
+let DefinitionVersionsJson = '{}'
 
 function EmitDecision(): void {
   Core.info(`should_run=${ShouldRun}`)
@@ -79,6 +90,11 @@ function EmitDecision(): void {
   Core.info(`matched_external_source_name=${MatchedExternalSourceName}`)
   Core.info(`matched_external_source_url=${MatchedExternalSourceUrl}`)
   Core.info(`matched_external_source_modified_at=${MatchedExternalSourceModifiedAt}`)
+  Core.info(`next_package_version=${NextPackageVersion}`)
+  Core.info(`manifest_available=${ManifestAvailable}`)
+  Core.info(`changed_definition_file_names=${JSON.stringify(ChangedDefinitionFileNames)}`)
+  Core.info(`changed_output_paths=${JSON.stringify(ChangedOutputPaths)}`)
+  Core.info(`definition_versions_json=${DefinitionVersionsJson}`)
 
   Core.setOutput('should_run', String(ShouldRun))
   Core.setOutput('matched_run_id', MatchedRunId)
@@ -89,110 +105,136 @@ function EmitDecision(): void {
   Core.setOutput('matched_external_source_name', MatchedExternalSourceName)
   Core.setOutput('matched_external_source_url', MatchedExternalSourceUrl)
   Core.setOutput('matched_external_source_modified_at', MatchedExternalSourceModifiedAt)
+  Core.setOutput('next_package_version', NextPackageVersion)
+  Core.setOutput('manifest_available', String(ManifestAvailable))
+  Core.setOutput('changed_definition_file_names', JSON.stringify(ChangedDefinitionFileNames))
+  Core.setOutput('changed_output_paths', JSON.stringify(ChangedOutputPaths))
+  Core.setOutput('definition_versions_json', DefinitionVersionsJson)
 }
 
-function LoadUnifiedExternalSources(ConfigFilePath: string): UnifiedExternalSource[] {
-  const RawConfig = JSON.parse(Fs.readFileSync(ConfigFilePath, 'utf-8')) as unknown
-  const FiltersListsConfig = UnifiedFiltersListsConfigSchema.parse(RawConfig)
-  const UnifiedAdblockTypes = new Set<UnifiedExternalSourceAdblockType>()
-
-  for (const Definition of FiltersListsConfig) {
-    if (typeof Definition.UnifiedDomainListFileName === 'string') {
-      UnifiedAdblockTypes.add(Definition.AdblockType)
-    }
-  }
-
-  const Sources = [...UnifiedAdblockTypes].flatMap(AdblockTypeValue => GetUnifiedExternalSourceUrls(AdblockTypeValue))
-  return DeduplicateUnifiedExternalSources(Sources)
-}
-
-async function FindChangedUnifiedExternalSource(Since: string): Promise<ChangedUnifiedExternalSource | null> {
-  const SinceMs = Date.parse(Since)
-  if (!Number.isFinite(SinceMs)) {
-    Core.warning('[unified-external] Cannot check external source updates because matched_time is invalid: ' + Since)
-    return null
-  }
-
+function LoadConfiguredDefinitionFileNames(): string[] {
   const ConfigFilePath = Path.resolve(WorkingDirectory, Env.UNIFIED_CONFIG_FILE)
-  const Sources = LoadUnifiedExternalSources(ConfigFilePath)
-  Core.info('[unified-external] Checking ' + Sources.length + ' external sources for updates since ' + Since)
+  const RawConfig = JSON.parse(Fs.readFileSync(ConfigFilePath, 'utf-8')) as unknown
+  const FiltersListsConfig = FiltersListsConfigSchema.parse(RawConfig)
 
-  for (const Source of Sources) {
-    const ChangedSource = await CheckUnifiedExternalSource(Source, SinceMs)
-    if (ChangedSource !== null) {
-      return ChangedSource
-    }
-  }
-
-  return null
+  return FiltersListsConfig.map(Definition => Definition.DefinitionFileName)
 }
 
-async function CheckUnifiedExternalSource(Source: UnifiedExternalSource, SinceMs: number): Promise<ChangedUnifiedExternalSource | null> {
+async function LoadPackageVersionContext(): Promise<PackageVersionContext> {
+  const LatestPackageVersion = await GetLatestPackageVersion()
+
+  return {
+    LatestPackageVersion,
+    NextPackageVersion: GetNextPackageVersionFromLatest(LatestPackageVersion)
+  }
+}
+
+async function LoadPreviousBuildManifest(LatestPackageVersion: string): Promise<PreviousBuildManifestResult> {
+  const Url = GetPublishedBuildManifestUrl(LatestPackageVersion)
+
   try {
-    const Response = await SimpleSecureReq.Request(new URL(Source.Url), {
-      HttpMethod: 'HEAD',
-      ExpectedAs: 'String',
+    const Response = await SimpleSecureReq.Request(new URL(Url), {
+      HttpMethod: 'GET',
+      ExpectedAs: 'JSON',
       FollowRedirects: true,
       MaxRedirects: 5,
-      TimeoutMs: HeadRequestTimeoutMs
-    }) as UnifiedExternalSourceHeadResponse
+      TimeoutMs: 30000
+    }) as BuildManifestResponse
 
     if (Response.StatusCode < 200 || Response.StatusCode >= 300) {
-      Core.warning('[unified-external] Skipping ' + Source.Name + ' (' + Source.Url + '): HTTP ' + Response.StatusCode)
-      return null
+      Core.warning('[build-manifest] Failed to download previous manifest from ' + Url + ': HTTP ' + Response.StatusCode)
+      return { Manifest: null, Url }
     }
 
-    const LastModified = GetHttpHeader(Response.Headers, 'last-modified')
-    if (!LastModified) {
-      Core.warning('[unified-external] ' + Source.Name + ' has no Last-Modified header; treating it as changed')
-      return {
-        ...Source,
-        ModifiedAt: 'unknown',
-        Reason: 'missing-last-modified'
-      }
-    }
-
-    const LastModifiedMs = Date.parse(LastModified)
-    if (!Number.isFinite(LastModifiedMs)) {
-      Core.warning('[unified-external] ' + Source.Name + ' has an invalid Last-Modified header; treating it as changed: ' + LastModified)
-      return {
-        ...Source,
-        ModifiedAt: LastModified,
-        Reason: 'invalid-last-modified'
-      }
-    }
-
-    Core.info('[unified-external] ' + Source.Name + ': last-modified=' + LastModified)
-    if (LastModifiedMs > SinceMs) {
-      return {
-        ...Source,
-        ModifiedAt: LastModified,
-        Reason: 'newer-than-matched-build'
-      }
-    }
+    return { Manifest: ParseBuildManifest(Response.Body), Url }
   } catch (ErrorValue) {
-    Core.warning('[unified-external] Failed to check ' + Source.Name + ' (' + Source.Url + '): ' + FormatError(ErrorValue))
+    Core.warning('[build-manifest] Failed to load previous manifest from ' + Url + ': ' + FormatError(ErrorValue))
+    return { Manifest: null, Url }
   }
-
-  return null
 }
 
-function GetHttpHeader(Headers: Record<string, string | string[] | undefined>, HeaderName: string): string | null {
-  const NormalizedHeaderName = HeaderName.toLowerCase()
+async function BuildCandidateManifest(PackageVersion: string): Promise<BuildManifest> {
+  const OutputDirectory = Fs.mkdtempSync(Path.join(Os.tmpdir(), 'filterslists-preflight-'))
+  const ManifestFilePath = Path.join(OutputDirectory, BuildManifestFileName)
 
-  for (const [CurrentHeaderName, HeaderValue] of Object.entries(Headers)) {
-    if (CurrentHeaderName.toLowerCase() !== NormalizedHeaderName) {
-      continue
-    }
+  Core.info('[build-manifest] Building candidate outputs in ' + OutputDirectory)
+  await RunNpmBuild({
+    ...Process.env,
+    FILTERSLISTS_OUTPUT_DIR: OutputDirectory,
+    FILTERSLISTS_BUILD_MANIFEST_FILE: ManifestFilePath,
+    FILTERSLISTS_NEXT_PACKAGE_VERSION: PackageVersion,
+    FILTERSLISTS_DEFINITION_VERSIONS_JSON: undefined
+  })
 
-    if (Array.isArray(HeaderValue)) {
-      return HeaderValue[0] ?? null
-    }
+  return ParseBuildManifest(JSON.parse(Fs.readFileSync(ManifestFilePath, 'utf-8')) as unknown)
+}
 
-    return HeaderValue ?? null
+async function RunNpmBuild(Environment: NodeJS.ProcessEnv): Promise<void> {
+  await new Promise<void>((Resolve, Reject) => {
+    const Child = ChildProcess.spawn('npm', ['run', 'build', '-w', 'builder'], {
+      cwd: WorkingDirectory,
+      env: Environment,
+      stdio: 'inherit'
+    })
+
+    Child.on('error', Reject)
+    Child.on('exit', Code => {
+      if (Code === 0) {
+        Resolve()
+      } else {
+        Reject(new Error('Candidate build failed with exit code ' + String(Code)))
+      }
+    })
+  })
+}
+
+function UseAllDefinitions(VersionContext: PackageVersionContext): void {
+  NextPackageVersion = VersionContext.NextPackageVersion
+  ChangedDefinitionFileNames = LoadConfiguredDefinitionFileNames()
+  ChangedOutputPaths = []
+  DefinitionVersionsJson = JSON.stringify(Object.fromEntries(
+    ChangedDefinitionFileNames.map(DefinitionFileName => [DefinitionFileName, VersionContext.NextPackageVersion])
+  ))
+  ShouldRun = true
+}
+
+function ApplyManifestDecision(
+  PreviousManifest: BuildManifest | null,
+  CandidateManifest: BuildManifest,
+  VersionContext: PackageVersionContext,
+  HasNewCommits: boolean
+): void {
+  const Diff = CompareBuildManifests(PreviousManifest, CandidateManifest)
+  const DefinitionVersionMap = CreateDefinitionVersionMap(
+    PreviousManifest,
+    CandidateManifest,
+    Diff.ChangedDefinitionFileNames,
+    VersionContext.NextPackageVersion
+  )
+
+  NextPackageVersion = VersionContext.NextPackageVersion
+  ChangedDefinitionFileNames = Diff.ChangedDefinitionFileNames
+  ChangedOutputPaths = Diff.ChangedOutputPaths
+  DefinitionVersionsJson = JSON.stringify(DefinitionVersionMap)
+  ShouldRun = ChangedDefinitionFileNames.length > 0
+  ExternalSourceChanged = ShouldRun && Env.EVENT_NAME === 'schedule' && !HasNewCommits
+  if (ExternalSourceChanged) {
+    MatchedExternalSourceName = 'output-hash-manifest'
+    MatchedExternalSourceUrl = GetPublishedBuildManifestUrl(VersionContext.LatestPackageVersion)
+    MatchedExternalSourceModifiedAt = CandidateManifest.generatedAt
   }
+}
 
-  return null
+async function HasNewCommitsSince(Since: string): Promise<boolean> {
+  const NewCommits = await OctokitInstance.repos.listCommits({
+    owner: Owner,
+    repo: Repo,
+    sha: 'master',
+    since: Since,
+    per_page: 1
+  })
+
+  return NewCommits.data.length > 0
 }
 
 function FormatError(ErrorValue: unknown): string {
@@ -204,13 +246,13 @@ function FormatError(ErrorValue: unknown): string {
 }
 
 if (Env.FORCE_RUN) {
-  ShouldRun = true
+  UseAllDefinitions(await LoadPackageVersionContext())
   EmitDecision()
   Process.exit(0)
 }
 
 if (PreviousRuns.length === 0) {
-  ShouldRun = true
+  UseAllDefinitions(await LoadPackageVersionContext())
   EmitDecision()
   Process.exit(0)
 }
@@ -256,33 +298,21 @@ if (LatestSuccessfulPrepare !== null) {
     BlockedByRunId = String(LatestSuccessfulPrepare.RunId)
     BlockedByJob = LatestSuccessfulPrepare.JobName
     ShouldRun = false
-  } else if (Env.EVENT_NAME === 'schedule') {
-    const NewCommits = await OctokitInstance.repos.listCommits({
-      owner: Owner,
-      repo: Repo,
-      sha: 'master',
-      since: LatestSuccessfulPrepare.CompletedAt,
-      per_page: 1
-    })
-
-    if (NewCommits.data.length > 0) {
-      ShouldRun = true
-    } else {
-      const ChangedExternalSource = await FindChangedUnifiedExternalSource(LatestSuccessfulPrepare.CompletedAt)
-      if (ChangedExternalSource !== null) {
-        ExternalSourceChanged = true
-        MatchedExternalSourceName = ChangedExternalSource.Name
-        MatchedExternalSourceUrl = ChangedExternalSource.Url
-        MatchedExternalSourceModifiedAt = ChangedExternalSource.ModifiedAt
-        Core.info('[unified-external] Build required by ' + ChangedExternalSource.Name + ' (' + ChangedExternalSource.Reason + ')')
-        ShouldRun = true
-      }
-    }
   } else {
-    ShouldRun = true
+    const VersionContext = await LoadPackageVersionContext()
+    const PreviousManifest = await LoadPreviousBuildManifest(VersionContext.LatestPackageVersion)
+    const CandidateManifest = await BuildCandidateManifest(VersionContext.NextPackageVersion)
+    const HasNewCommits = Env.EVENT_NAME === 'schedule'
+      ? await HasNewCommitsSince(LatestSuccessfulPrepare.CompletedAt)
+      : true
+
+    ManifestAvailable = PreviousManifest.Manifest !== null
+    ApplyManifestDecision(PreviousManifest.Manifest, CandidateManifest, VersionContext, HasNewCommits)
+    Core.info('[build-manifest] Changed definitions: ' + ChangedDefinitionFileNames.join(', '))
+    Core.info('[build-manifest] Changed outputs: ' + ChangedOutputPaths.join(', '))
   }
 } else {
-  ShouldRun = true
+  UseAllDefinitions(await LoadPackageVersionContext())
 }
 
 EmitDecision()

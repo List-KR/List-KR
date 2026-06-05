@@ -37,6 +37,11 @@ jobs:
       matched_external_source_name: ${{ steps.check.outputs.matched_external_source_name }}
       matched_external_source_url: ${{ steps.check.outputs.matched_external_source_url }}
       matched_external_source_modified_at: ${{ steps.check.outputs.matched_external_source_modified_at }}
+      next_package_version: ${{ steps.check.outputs.next_package_version }}
+      changed_definition_file_names: ${{ steps.check.outputs.changed_definition_file_names }}
+      changed_output_paths: ${{ steps.check.outputs.changed_output_paths }}
+      manifest_available: ${{ steps.check.outputs.manifest_available }}
+      definition_versions_json: ${{ steps.check.outputs.definition_versions_json }}
     steps:
       - name: Check out to repository
         uses: actions/checkout@v6
@@ -88,6 +93,10 @@ jobs:
           echo "Matched external source name: ${{ needs.check.outputs.matched_external_source_name }}"
           echo "Matched external source url: ${{ needs.check.outputs.matched_external_source_url }}"
           echo "Matched external source modified at: ${{ needs.check.outputs.matched_external_source_modified_at }}"
+          echo "Next package version: ${{ needs.check.outputs.next_package_version }}"
+          echo "Manifest available: ${{ needs.check.outputs.manifest_available }}"
+          echo 'Changed definitions: ${{ needs.check.outputs.changed_definition_file_names }}'
+          echo 'Changed outputs: ${{ needs.check.outputs.changed_output_paths }}'
   lint:
     name: Run AGLint
     needs: prepare
@@ -138,8 +147,13 @@ jobs:
       - name: Install dependencies
         run: pnpm install --no-lockfile
       - name: Build
+        env:
+          FILTERSLISTS_NEXT_PACKAGE_VERSION: ${{ needs.check.outputs.next_package_version }}
+          FILTERSLISTS_DEFINITION_VERSIONS_JSON: ${{ needs.check.outputs.definition_versions_json }}
         run: npm run build
       - name: Apply new version to package.json
+        env:
+          FILTERSLISTS_NEXT_PACKAGE_VERSION: ${{ needs.check.outputs.next_package_version }}
         run: npm run ci:applyPackageJson -w devops
       - name : Publish to npm
         run: npm publish --tag latest --access public
