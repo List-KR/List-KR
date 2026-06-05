@@ -23,7 +23,7 @@ concurrency:
 jobs:
   check:
     name: Check whether build should run
-    runs-on: ubuntu-slim
+    runs-on: ubuntu-latest
     permissions:
       actions: read
       contents: read
@@ -127,7 +127,7 @@ jobs:
         run: npm run lint:aglint
   build:
     name: Build and Publish to npm
-    needs: lint
+    needs: [lint, check]
     runs-on: ubuntu-latest
     permissions:
       contents: read
