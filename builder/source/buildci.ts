@@ -19,7 +19,7 @@ const BuildManifestFilePath = Path.resolve(
   WorkingDirectory,
   Process.env.FILTERSLISTS_BUILD_MANIFEST_FILE ?? Path.join(OutputDirectory, BuildManifestFileName)
 )
-const NextPackageVersion = Process.env.FILTERSLISTS_NEXT_PACKAGE_VERSION ?? await GetNextPackageVersion()
+const NextPackageVersion = Process.env.FILTERSLISTS_NEXT_PACKAGE_VERSION?.trim() || await GetNextPackageVersion()
 const DefinitionVersionMap = LoadDefinitionVersionMap(Process.env.FILTERSLISTS_DEFINITION_VERSIONS_JSON)
 
 // Validate existence of filters lists directory and config file
