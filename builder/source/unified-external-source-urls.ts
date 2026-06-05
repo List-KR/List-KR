@@ -8,6 +8,11 @@ export type UnifiedExternalSource = {
 const AdGuardPagesRoot = 'https://adguardteam.github.io/AdguardFilters/'
 const UAssetsFiltersRoot = 'https://ublockorigin.github.io/uAssets/filters/'
 
+const EasyListSource: UnifiedExternalSource = {
+  Name: 'EasyList/easylist.txt',
+  Url: 'https://easylist-downloads.adblockplus.org/easylist.txt'
+}
+
 const AdGuardBaseSections = [
   'general_elemhide.txt',
   'allowlist_stealth.txt',
@@ -82,12 +87,14 @@ export function GetUnifiedExternalSourceUrls(AdblockTypeValue: UnifiedExternalSo
   if (AdblockTypeValue === 'uBlockOrigin') {
     return [
       ...BuildUAssetsFilterSources(UAssetsAdsFilterFiles),
+      EasyListSource,
       ...AdGuardTrackingSources
     ]
   }
 
   return [
     ...BuildAdGuardSectionSources('BaseFilter', 'AdGuard Base', AdGuardBaseSections),
+    EasyListSource,
     ...AdGuardTrackingSources
   ]
 }

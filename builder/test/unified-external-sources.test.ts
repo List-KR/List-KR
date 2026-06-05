@@ -172,8 +172,19 @@ Test('uBO external source selection uses the uAssets ads template set', T => {
   }
 
   T.is(UboUrls.some(Url => Url.includes('/BaseFilter/')), false)
+  T.is(UboUrls.includes('https://easylist-downloads.adblockplus.org/easylist.txt'), true)
   T.is(UboUrls.some(Url => Url.includes('/SpywareFilter/sections/')), true)
   T.is(UboUrls.some(Url => Url.includes('/TrackParamFilter/sections/')), true)
+})
+
+Test('AdGuard external source selection includes EasyList', T => {
+  const AdGuardSources = GetUnifiedExternalSourceUrls('AdGuard')
+  const AdGuardUrls = AdGuardSources.map(Source => Source.Url)
+
+  T.is(AdGuardUrls.some(Url => Url.includes('/BaseFilter/sections/')), true)
+  T.is(AdGuardUrls.includes('https://easylist-downloads.adblockplus.org/easylist.txt'), true)
+  T.is(AdGuardUrls.some(Url => Url.includes('/SpywareFilter/sections/')), true)
+  T.is(AdGuardUrls.some(Url => Url.includes('/TrackParamFilter/sections/')), true)
 })
 
 Test('DeduplicateUnifiedExternalSources keeps the first source for duplicate URLs', T => {
