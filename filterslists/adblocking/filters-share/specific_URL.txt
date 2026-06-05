@@ -858,6 +858,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/^https:\/\/imancomics\.com\/wp-content\/uploads\/[0-9]+/$domain=imancomics.com
 +/https:\/\/majorlink[0-9]+\.com\/uploads\/post\//$domain=/majorlink[0-9]+\.com/
 /\/data\/apms\/banner\//$domain=/mato[0-9]+\.com/
 /\/data\/apms\/banner\//$domain=/newto[0-9]+\.com/

@@ -33,6 +33,10 @@ jobs:
       matched_time: ${{ steps.check.outputs.matched_time }}
       blocked_by_run_id: ${{ steps.check.outputs.blocked_by_run_id }}
       blocked_by_job: ${{ steps.check.outputs.blocked_by_job }}
+      external_source_changed: ${{ steps.check.outputs.external_source_changed }}
+      matched_external_source_name: ${{ steps.check.outputs.matched_external_source_name }}
+      matched_external_source_url: ${{ steps.check.outputs.matched_external_source_url }}
+      matched_external_source_modified_at: ${{ steps.check.outputs.matched_external_source_modified_at }}
     steps:
       - name: Check out to repository
         uses: actions/checkout@v6
@@ -63,6 +67,7 @@ jobs:
           CURRENT_RUN_ID: ${{ github.run_id }}
           FORCE_RUN: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.force_run == 'true' }}
           EVENT_NAME: ${{ github.event_name }}
+          UNIFIED_CONFIG_FILE: filterslists/filterslists.config.json
         run: npm run ci:decideDeploy -w devops
           
   prepare:
@@ -79,6 +84,10 @@ jobs:
           echo "Matched time:   ${{ needs.check.outputs.matched_time }}"
           echo "Blocked by run id: ${{ needs.check.outputs.blocked_by_run_id }}"
           echo "Blocked by job: ${{ needs.check.outputs.blocked_by_job }}"
+          echo "External source changed: ${{ needs.check.outputs.external_source_changed }}"
+          echo "Matched external source name: ${{ needs.check.outputs.matched_external_source_name }}"
+          echo "Matched external source url: ${{ needs.check.outputs.matched_external_source_url }}"
+          echo "Matched external source modified at: ${{ needs.check.outputs.matched_external_source_modified_at }}"
   lint:
     name: Run AGLint
     needs: prepare
