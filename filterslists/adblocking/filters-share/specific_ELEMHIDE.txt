@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 
+mlbpark.donga.com##.naver_place.place_view:has(a[href*="ader.naver.com"])
 muko.kr###popupAdOverlay
 muko.kr##.muko-ad-impression
 damoang.net##div[data-dm-slot]
