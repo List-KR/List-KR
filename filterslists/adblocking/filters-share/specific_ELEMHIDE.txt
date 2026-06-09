@@ -57,6 +57,14 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 
+newautopost.co.kr###onesignal-slidedown-container
+newautopost.co.kr##.pc-post-ad-header
+newautopost.co.kr##.pc-post-ad-left-wrap
+newautopost.co.kr##.pc-post-ad-right-wrap
+newautopost.co.kr##.right-ad-event
+newautopost.co.kr##.weekly-best
+newautopost.co.kr##.rside-ad-01
+newautopost.co.kr##.newautopost-adsense-grid
 mlbpark.donga.com##.naver_place.place_view:has(a[href*="ader.naver.com"])
 muko.kr###popupAdOverlay
 muko.kr##.muko-ad-impression
