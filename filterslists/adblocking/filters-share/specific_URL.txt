@@ -859,6 +859,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+*$image,denyallow=tvchak.live|smartnote.blog|wiselife.blog,domain=tvchak.live
 /^https:\/\/nooo[0-9]+\.tv\/theme\/renew\/img\/banner\//$domain=/nooo[0-9]+\.tv/
 /^https:\/\/www\.tfreeca[0-9]+\.[a-z]+\/ad\//$domain=/tfreeca[0-9]+\.[a-z]+/
 /^https:\/\/imancomics\.com\/wp-content\/uploads\/[0-9]+/$domain=imancomics.com
