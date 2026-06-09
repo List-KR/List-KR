@@ -859,6 +859,7 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/^https:\/\/nooo[0-9]+\.tv\/theme\/renew\/img\/banner\//$domain=/nooo[0-9]+\.tv/
 /^https:\/\/www\.tfreeca[0-9]+\.[a-z]+\/ad\//$domain=/tfreeca[0-9]+\.[a-z]+/
 /^https:\/\/imancomics\.com\/wp-content\/uploads\/[0-9]+/$domain=imancomics.com
 /https:\/\/majorlink[0-9]+\.com\/uploads\/post\//$domain=/majorlink[0-9]+\.com/

@@ -9,3 +9,4 @@ tvwiki22.com,tvwiki23.com,tvwiki24.com,tvwiki25.com,tvwiki26.com,tvwiki27.com,tv
 /https:\/\/tvwiki[0-9]+\.com\/data\/banner\//$domain=tvwiki22.com|tvwiki23.com|tvwiki24.com|tvwiki25.com|tvwiki26.com|tvwiki27.com|tvwiki28.com|tvwiki29.com|tvwiki30.com|tvwiki31.com|tvwiki32.com|tvwiki33.com|tvwiki34.com
 ||hoohootv*.*/static/bnner/$domain=hoohootv310.xyz|hoohootv311.xyz|hoohootv312.xyz|hoohootv313.xyz|hoohootv314.xyz|hoohootv315.xyz|hoohootv316.xyz|hoohootv317.xyz|hoohootv318.xyz|hoohootv319.xyz|hoohootv320.xyz|hoohootv321.xyz
 /^https:\/\/cdn[a-z0-9]+\.site\/data\/banner\//$domain=tvwiki18.net|tvwiki19.net|tvwik20.net|tvwik21.net|tvwik22.net|tvwik23.net|tvwik24.net|tvwik25.net|tvwik26.net|tvwiki27.net|tvwiki28.net|tvwiki29.net|tvwiki30.net|tvwiki31.net|tvwiki32.net
+/^https:\/\/nooo[0-9]+\.tv\/theme\/renew\/img\/banner\//$domain=nooo10.tv|nooo11.tv|nooo12.tv|nooo13.tv|nooo14.tv|nooo15.tv|nooo16.tv|nooo17.tv|nooo18.tv|nooo19.tv|nooo20.tv
