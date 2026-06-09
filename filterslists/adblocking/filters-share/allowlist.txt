@@ -1,3 +1,4 @@
+@@||newautopost.co.kr/wp-content/plugins/advanced-ads/public/assets/js/advanced.min.js
 @@||ssl.pstatic.net/melona/libs/gfp-nac-module/synchronizer.js$domain=smartstore.naver.com
 @@||nam.veta.naver.com/nac/$xmlhttprequest,domain=smartstore.naver.com
 @@||d2i2w6ttft7yxi.cloudfront.net/ad_banner/$domain=witchform.com
