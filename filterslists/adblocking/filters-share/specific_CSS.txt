@@ -1,3 +1,6 @@
+chzzk.naver.com#$#header#header[style^="transform"] { transform: none !important; }
+chzzk.naver.com#$#aside#sidebar[style^="transform"] { transform: translateY(50px) !important; }
+chzzk.naver.com#$#aside#sidebar[style^="transform"] + #layout-body { padding-top: 0px !important; }
 damoang.net#$#.mb-6.grid-cols-1.gap-4.sm\:grid-cols-3 { grid-template-columns: auto !important; }
 m.bustago.or.kr#$#.InquiryList { height: 100% !important; }
 dundam.xyz#$#.today-grade { width: 100% !important; }

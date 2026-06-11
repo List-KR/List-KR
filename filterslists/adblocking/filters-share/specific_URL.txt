@@ -1,3 +1,4 @@
+||nng-phinf.pstatic.net/*.PNG/PC_$domain=chzzk.naver.com,image
 ||muko.kr/files/attach/ads/
 ||static.fmkorea.com/modules/fmad/tpl/*/naver_power_link.
 ||jeongcheogi.edugamja.com/ads/
