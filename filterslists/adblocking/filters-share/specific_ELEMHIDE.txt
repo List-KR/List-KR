@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 
+m.ilbe.com##.cutin_banner_new
 aniwolf.com##.banner-area
 newautopost.co.kr###onesignal-slidedown-container
 newautopost.co.kr##.pc-post-ad-header
