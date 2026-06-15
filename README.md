@@ -1,6 +1,10 @@
 # List-KR
 
-관련된 질문은 [List-KR Discussions](https://github.com/orgs/List-KR/discussions)에 남겨주세요.
+List-KR 필터 리스트에 관련된 질문이나 문의는 이 레포의 이슈 트래커에 올려주세요. 이메일을 통한 비공개 지원이 필요하시면 각 기여자의 GitHub 프로필에서 연락처를 확인하실 수 있습니다.
+
+tinyShield 유저스크립트와 NamuLink 유저스크립트 관련해서는 [tinyShield](https://github.com/FilteringDev/tinyShield/issues)와 [NamuLink](https://github.com/FilteringDev/NamuLink/issues) 이슈 트래커를 참고해주세요.
+
+AdGuard 필터 리스트 이슈라면 [AdguardFilters](https://github.com/AdguardTeam/AdguardFilters/issues) 이슈 트래커 또는 [Adguard 익명 제보 시스템](https://reports.adguard.com/ko/new_issue.html)을 이용해주세요.
 
 ---
 

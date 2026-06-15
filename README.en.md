@@ -1,9 +1,5 @@
 # List-KR
 
-Please leave related questions on [List-KR Discussions](https://github.com/List-KR/List-KR/discussions).
-
----
-
 [![jsDelivr Stats](https://data.jsdelivr.com/v1/package/npm/@list-kr/filterslists/badge)](https://www.jsdelivr.com/package/npm/@list-kr/filterslists)
 
 List-KR is an ad blocking filter list maintained by the Ad Blocking community and AdGuard.
