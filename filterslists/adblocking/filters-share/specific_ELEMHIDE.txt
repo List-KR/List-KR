@@ -77,8 +77,6 @@ damoang.net##div[style^="--ad-slot-min-height:"]
 damoang.net##.gap-4.flex-col > div:has(> div[data-position="side-image-text-banner"])
 ruliweb.com##.ti_reserved_slot[style^="min-height:"]
 etoland.co.kr###list-header + section li.h-fit.min-h-14:not(.border-b-etoDivider-1)
-zod.kr##a[rel="sponsored"]
-zod.kr##.swiper-container.swiper-initialized.swiper-horizontal li[style^="width:"] > a[target]
 tenasia.co.kr###article-body > div[style^="min-height:"]
 tenasia.co.kr##.article-view > div[style^="min-height:"]:has(> div[id^="dablewidget_"])
 mbiz.heraldcorp.com##div[data-svcad]
