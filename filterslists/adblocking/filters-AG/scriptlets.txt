@@ -20,6 +20,7 @@ m.fmkorea.com#%#//scriptlet('json-prune', 'tpl apply', 'tpl.[].c')
 chzzk.naver.com#%#//scriptlet('json-prune-xhr-response', 'ads.[-].eventTracking.ackImpressions.[].url', 'ads.[].adInfo.responseSize', 'api.chzzk.naver.com/service/t/')
 chzzk.naver.com#%#//scriptlet('json-prune-xhr-response', 'adBreaks.[-].adSources.[].withRemindAd', 'videoAdScheduleId', 'api.chzzk.naver.com/service/t/')
 !
+chzzk.naver.com#%#//scriptlet('trusted-local-storage-item', 'homeSkinCollapsedUntil', '9999999999999')
 map.naver.com#%#//scriptlet('trusted-json-set', 'Array.prototype.find', '$.*.item.[adClickLog, adDescription, adId, adImages]', '$remove$', '', 'this')
 vod.sooplive.com#%#//scriptlet('json-prune-xhr-response', 'data.adballoon', '', 'station/video/a/view')
 stock.naver.com#%#//scriptlet('set-constant', 'MobileDetect', 'noopFunc')
