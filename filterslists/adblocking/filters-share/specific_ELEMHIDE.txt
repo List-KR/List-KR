@@ -57,6 +57,8 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 
+a-ha.io##hr:has(+ div[aria-label="advertisement"])
+a-ha.io##div[aria-label="advertisement"]
 section.blog.naver.com##.area_advertisement
 i-boss.co.kr##div[data-unit]
 m.ilbe.com##.cutin_banner_new
