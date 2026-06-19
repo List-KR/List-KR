@@ -1,3 +1,4 @@
+tenbizt.com#$##fv-ol-wrap { display: none !important; }
 tenbizt.com#$#body { overflow: initial !important; position: initial !important; top: initial !important; }
 damoang.net#$#.mb-6.grid-cols-1.gap-4.sm\:grid-cols-3 { grid-template-columns: auto !important; }
 m.bustago.or.kr#$#.InquiryList { height: 100% !important; }
