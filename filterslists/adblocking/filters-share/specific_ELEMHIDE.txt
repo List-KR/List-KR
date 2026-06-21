@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 
+chzzk.naver.com###viewport-box + div:has(> a[href="https://chzzk.naver.com/home/sports/fifa-worldcup-2026"])
 a-ha.io##.fixed.h-dvh:has(> div > img[alt="coffee"])
 a-ha.io##hr:has(+ div[aria-label="advertisement"])
 a-ha.io##div[aria-label="advertisement"]
