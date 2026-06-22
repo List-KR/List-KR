@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 
+xn--v69ak0xskm.com##div[class$="-ad-anchor"]
 a-ha.io##.fixed.h-dvh:has(> div > img[alt="coffee"])
 a-ha.io##hr:has(+ div[aria-label="advertisement"])
 a-ha.io##div[aria-label="advertisement"]
