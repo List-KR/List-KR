@@ -1,1 +1,1 @@
-!
+m-emart.ssg.com#$?##content div[style*="contents"]:has(.chakra-stack + div[class] span:has-text(AD)) { remove: true; }

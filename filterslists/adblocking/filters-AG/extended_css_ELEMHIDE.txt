@@ -56,6 +56,6 @@ m.bunjang.co.kr#?#div:has(> div > div > div:contains(연관상품) > div:has(> d
 img.imimggggg87878.com#?#a[target="_blank"][href^="http://"].menu-a:contains(보증토토)
 frtoon220.com,frtoon221.com,frtoon222.com,frtoon223.com,frtoon224.com,frtoon225.com,frtoon226.com,frtoon227.com,frtoon228.com,frtoon229.com,frtoon230.com,frtoon231.com,frtoon232.com,frtoon233.com#?#.alert-danger.container:contains([AD])
 hdhd344.net,hdhd345.net,hdhd346.net,hdhd347.net,hdhd348.net,hdhd349.net,hdhd350.net,hdhd351.net,hdhd352.net,hdhd353.net,hdhd354.net,hdhd355.net,hdhd356.net,hdhd357.net,hdhd358.net#?#.menu-ul > .menu-li:has(> a:contains(보증토토))
-blacktoon302.com,blacktoon303.com,blacktoon304.com,blacktoon305.com,blacktoon306.com,blacktoon307.com,blacktoon308.com,blacktoon309.com,blacktoon310.com,blacktoon311.com,blacktoon312.com,blacktoon313.com#?#.alert.alert-danger:has(> a:contains([AD]))
+[$domain=/blacktoon[0-9]+\.com/]#?#.alert.alert-danger:has(> a:contains([AD]))
 !
 ! DOMAIN-REFRESHER: END
