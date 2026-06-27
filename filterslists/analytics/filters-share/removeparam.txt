@@ -1,3 +1,7 @@
 ||ridibooks.com^$removeparam=_rdt_sid
 ||ridibooks.com^$removeparam=_rdt_idx
 ||ridibooks.com^$removeparam=_rdt_arg
+||ridibooks.com^$removeparam=https_deeplink
+||ridibooks.com^$removeparam=short_id
+||ridibooks.com^$removeparam=airbridge_referrer
+
