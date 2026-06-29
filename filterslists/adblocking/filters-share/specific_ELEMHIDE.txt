@@ -57,6 +57,9 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 
+sports.khan.co.kr##.pAd
+sports.khan.co.kr##.mAd
+sports.khan.co.kr###adBottom
 ichannela.com##.news_view_wrapper > div[class^="onair_"]:has(div[id^="dablewidget_"])
 ichannela.com##div[class^="news_right_ad"]
 mksports.co.kr###container_right > div[style^="position:relative;"][style*="height:"]
