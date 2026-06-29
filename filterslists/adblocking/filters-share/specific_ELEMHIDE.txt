@@ -57,6 +57,8 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 
+mksports.co.kr###container_right > div[style^="position:relative;"][style*="height:"]
+mksports.co.kr###artText div[style^="width:"]:has(ins.adsbygoogle)
 richgo.ai##div[class^="UISet_RichgoMap_IntroAd__"]
 xn--v69ak0xskm.com##div[class$="-ad-anchor"]
 chzzk.naver.com###layout-body > div[class^="_container_"] > div[class^="_section_"] > section[class^="_container_"] > div[class^="_list_"] > .flicking-viewport > .flicking-camera > div[class^="_item_"]:has(> a[href^="https://mkt.naver.com/"])

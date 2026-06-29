@@ -1,3 +1,4 @@
+||wimg.mk.co.kr/svc/banner/
 ||service-images.richgo.ai/original/campaign/
 ||danawa.com/main/ajax/getAdSmartProductList.ajax.php
 ||muko.kr/files/attach/ads/
