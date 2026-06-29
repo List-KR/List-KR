@@ -84,7 +84,7 @@ newautopost.co.kr##.right-ad-event
 newautopost.co.kr##.weekly-best
 newautopost.co.kr##.rside-ad-01
 newautopost.co.kr##.newautopost-adsense-grid
-mlbpark.donga.com##.naver_place.place_view:has(a[href*="ader.naver.com"])
+mlbpark.donga.com##.contents .naver_place:has(a[href*="ader.naver.com"])
 muko.kr###popupAdOverlay
 muko.kr##.muko-ad-impression
 damoang.net##div[data-dm-slot]
