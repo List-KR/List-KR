@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 
+tvreport.co.kr###unse-banner
 sports.khan.co.kr##.pAd
 sports.khan.co.kr##.mAd
 sports.khan.co.kr###adBottom
