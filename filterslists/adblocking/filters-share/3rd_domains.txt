@@ -1,3 +1,5 @@
+||awesomeclick.co.kr^
+||optbeacon.net^
 ||api.adapi.co.kr^
 ||adv.imadrep.co.kr^
 ||delivery.pryzmads.com^
