@@ -1,3 +1,4 @@
+mhnse.com#$##main.news-view-wrap { padding-top: 0px !important; }
 tenbizt.com#$##fv-ol-wrap { display: none !important; }
 tenbizt.com#$#body { overflow: initial !important; position: initial !important; top: initial !important; }
 damoang.net#$#.mb-6.grid-cols-1.gap-4.sm\:grid-cols-3 { grid-template-columns: auto !important; }
