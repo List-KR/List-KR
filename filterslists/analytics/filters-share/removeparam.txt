@@ -1,7 +1,15 @@
+||ridibooks.com^$removeparam=airbridge_referrer
+||ridibooks.com^$removeparam=client_id
+||ridibooks.com^$removeparam=event_uuid
+||ridibooks.com^$removeparam=short_id
+||ridibooks.com^$removeparam=channel
+||ridibooks.com^$removeparam=campaign
+||ridibooks.com^$removeparam=tracking_template_id
+||ridibooks.com^$removeparam=routing_short_id
+||ridibooks.com^$removeparam=og_tag_id
 ||ridibooks.com^$removeparam=_rdt_sid
 ||ridibooks.com^$removeparam=_rdt_idx
 ||ridibooks.com^$removeparam=_rdt_arg
 ||ridibooks.com^$removeparam=https_deeplink
 ||ridibooks.com^$removeparam=short_id
-||ridibooks.com^$removeparam=airbridge_referrer
 
