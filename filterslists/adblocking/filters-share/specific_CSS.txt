@@ -1,3 +1,4 @@
+mhnse.com#$##main.news-view-wrap { padding-top: 0px !important; }
 chzzk.naver.com#$##viewport-box + div:has(> a[href="https://chzzk.naver.com/home/sports/fifa-worldcup-2026"]) { display: none !important; }
 chzzk.naver.com#$##viewport-box + div:has(> a[href="https://chzzk.naver.com/home/sports/fifa-worldcup-2026"]) + #header { transform: initial !important; }
 chzzk.naver.com#$##viewport-box + div:has(> a[href="https://chzzk.naver.com/home/sports/fifa-worldcup-2026"]) + #header + #sidebar { transform: translateY(60px) !important; }

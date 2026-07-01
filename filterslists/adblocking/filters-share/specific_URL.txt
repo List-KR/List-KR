@@ -1,3 +1,9 @@
+||assets.cueknow.co.kr/script/phantomad.min.js
+||82cook.com/imagedb/headline/nmain_banner
+||static.viewus.co.kr/image/unse_banner_new
+||image.ichannela.com/images/ad/
+||wimg.mk.co.kr/svc/banner/
+||service-images.richgo.ai/original/campaign/
 ||danawa.com/main/ajax/getAdSmartProductList.ajax.php
 ||muko.kr/files/attach/ads/
 ||static.fmkorea.com/modules/fmad/tpl/*/naver_power_link.
@@ -860,6 +866,8 @@
 !
 ! DOMAIN-REFRESHER: START
 !
+/^https:\/\/tkor[0-9]+\.com\/bann\//
+/^https:\/\/tkor[0-9]+\.com\/images\//
 *$image,denyallow=tvchak.live|smartnote.blog|wiselife.blog,domain=tvchak.live
 /^https:\/\/nooo[0-9]+\.tv\/theme\/renew\/img\/banner\//$domain=/nooo[0-9]+\.tv/
 /^https:\/\/www\.tfreeca[0-9]+\.[a-z]+\/ad\//$domain=/tfreeca[0-9]+\.[a-z]+/

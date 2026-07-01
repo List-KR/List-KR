@@ -92,6 +92,7 @@ m.cafe.naver.com##.banner_add.bottom:matches-path(/ca-fe\\/web\\/cafes\\/(steami
 !
 ! DOMAIN-REFRESHER: START
 !
+/blacktoon[0-9]+\.com/##.toon-viewer .col-12[style^="padding:"]
 /majorlink[0-9]+\.com/##.major_site_latest
 /newto[0-9]+\.com/##div[class^="basic-banner-"]
 /bookto[0-9]+\.com/##div[class^="basic-banner-"]
