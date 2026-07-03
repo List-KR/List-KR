@@ -92,6 +92,92 @@ m.cafe.naver.com##.banner_add.bottom:matches-path(/ca-fe\\/web\\/cafes\\/(steami
 !
 ! DOMAIN-REFRESHER: START
 !
+/xtoon[0-9]+\.com/##.container > div.row > div > a[target="_blank"] > picture
+/funbe[0-9]+\.com/##.mobile-banner > div[class^="main_top_bann"]
+/funbe[0-9]+\.com/##.mobile-banner div.banner_m
+/funbe[0-9]+\.com/###bo_list div[class^="bancol"]
+/mingky[0-9]+\.net/##.contents_wrap.column div[style="display: flex; flex-direction: column; align-items: center;"]
+nightofpeace.com,ilovebees.io##.e-con-full.e-flex.e-con:has(a[target="_blank"] img)
+nightofpeace.com,ilovebees.io##.e-grid.e-con-full.e-con.e-child:has(a[target="_blank"] img)
+/lover[0-9]\.net/##.div-over
+/^torrentqq[0-9]+.com/##.at-banner
+/torrentpi[0-9]+\.com/##.basic-post-gallery
+/tvwiki[0-9]+\.tv/##a:has(> img[src^="https://static.wixstatic.com/media/"])
+/torrentzota[0-9]+\.com/##a[href^="/adver-"]
+/^tv[0-9]+\.wiki/###cpb-popup-banners
+/^tv[0-9]+\.wiki/##.custom_banner_wra
+/^tkor[0-9]+\.com/##*[class*="top_bann"]
+/^jusokorea[0-9]+\.com/##div[class*="-ad-banner"]
+/^torrentnx[0-9]+\.com/##a[href*="/bbs/link.php"]
+/^cokcoktv[0-9]+\.com/###cpb-popup-banners
+/^cokcoktv[0-9]+\.com/###custom_banner_wrap
+/^cokcoktv[0-9]+\.com/##.custom_banner_wrap
+/^tvwiki[0-9]+\.com/##ul[class^="banner"]
+/^sptv[0-9]+\.com/##.modal_contents
+/^torrentpi[0-9]+\.com/##style ~ .basic-post-gallery
+/^avguri[0-9]+\.com/##div[id$="_bn"]
+/^avpink[0-9]+\.com/###foogallery_widget-3
+/^avpink[0-9]+\.com/###foogallery_widget-12
+/^avpink[0-9]+\.com/###foogallery_widget-13
+/^torrentnx[0-9]+\.com/##a[href*="/bbs/link.php"]
+/^avguri[0-9]+\.com/###hd_pop
+/^ygy[0-9]+\.com/##.popup_wrap
+/^nolgoga[0-9]+\.com/###hd_pop
+/^bontv[0-9]+\.com/##div[class$="_ban"]
+/^bontv[0-9]+\.com/##div[class^="popup_"]
+/^tvzota[0-9]+\.com/##div[class$="_ban"]
+/^tvzota[0-9]+\.com/##div[class^="popup_"]
+/^opworlds1[0-9]+\.com/##.basic-banner-gallery
+/^jusoyo1[0-9]+\.net/##.hd_pops
+/^jusoyo1[0-9]+\.net/##.basic-banner-gallery
+/^torrentdin[0-9]+\.com/###hd_pop
+/^torrentdin[0-9]+\.com/##div[class*="at-"] > .widget-box
+/^tvchak[0-9]+\.com/##div[style].border-shadow
+/^tvchak[0-9]+\.com/##.banner-box
+/^agit[0-9]+\.com/##.banner
+/^torrentqq[0-9]+\.com/##.at-banner
+/^torrentqq[0-9]+\.com/##.row-banner
+/^torrenttip[0-9]+\.com/##a[href*="/ad/"]
+/^torrenttt[0-9]+\.com/##a[href*="/ad/"][target="_blank"]
+/^tvzota[0-9]+\.com/##div[class^="popup_"]
+/^tvzota[0-9]+\.com/##.wid
+/^jgmoa[0-9]+\.com/##.popup
+/^torrenttop[0-9]+\.com/##a[href^="/adver-"]
+/^yaburi[0-9]+\.com/###popups
+/^linkrand[0-9]+\.com/##.is-hover a[href^="http"][target="_blank"]
+/^linkrand[0-9]+\.com/##div[id][class*=" "][data-interval] div[style*="/data/apms/background"]
+/^tvbox[0-9]+\.xyz/##div[class*="-banner"] div[class*=" "][style=" "]
+/^ydbox[0-9]+\.com/##div[class*="-banner"] div[class*=" "][style=" "]
+/^linkeye[0-9]+\.com/##div[class*="banner-"]
+/^booktoki[0-9]+\.com/##div[id*="-banner-"] > div[class*=" "] > div[class*=" "][style*=" "]
+/^spotv[0-9]+\.com/##div[id$="-banner"]
+!#if !adguard_ext_android_cb
+/^lover[0-9]+\.net/##.xe_content span ~ div[style]
+!#endif
+/^yagong[0-9]+\.com/##div[x-data="popups()"]
+/^redsun[0-9]+\.me/##div[id*="ads"]
+/^manamoa[0-9]+\.com/##div[class*="banner"]
+/^torrentgram[0-9]+\.com/##.panel-default ~ .row > .col-sm-6
+/^torrentgram[0-9]+\.com/##.npia-board-gallery
+/^torrentgram[0-9]+\.com/###body_text > .at-main.at-col[style]
+/^torrentbam[0-9]+\.com/##a[href*="/ad/"][target="_blank"]
+/^torrentbot[0-9]+\.[a-z]+/##a[href^="/go/"][target="_blank"]
+/^torrentbot[0-9]+\.[a-z]+/##div[id^="ad_"]
+/^ktxtorrent[0-9]+\.com/##img[src*=".imgbox.com/"]
+/^torrentsome[0-9]+\.com/##a[href^="/go/"][target="_blank"]
+/^torrentrj[0-9]+\.com/##a[href^="/go/"][target="_blank"]
+/^bobaelink[0-9]+\.xyz/##a[href^="/ad-"]
+/^frtoon[0-9]+\.com/##.ad-form > .row > div[class^="col-md-"]
+/^manaboza[0-9]+\.com/##.payment_fullbnr
+/^manaboza[0-9]+\.com/##.comic_bot_bnr
+/^newtoon[0-9]+\.com/##.ad-form > .row > div[class^="col-md-"]
+/^blacktoon[0-9]+\.com/##.banner.container > .row > .col-6
+/^manatoki[0-9]+\.net/###hd_pop
+/^booktoki[0-9]+\.com/###hd_pop
+/^booktoki[0-9]+\.com/##img[src^="/tokinbtoki/"]
+/^manatoki[0-9]+\.net/##[style="margin-bottom: 20px;"].row.row-15
+/^manatoki[0-9]+\.net/##.basic-banner.row.row-10
+/^manatoki[0-9]+\.net/##.board-tail-banner
 /blacktoon[0-9]+\.com/##.toon-viewer .col-12[style^="padding:"]
 /majorlink[0-9]+\.com/##.major_site_latest
 /newto[0-9]+\.com/##div[class^="basic-banner-"]
