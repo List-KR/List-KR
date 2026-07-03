@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 
+search.naver.com##ul > li[data-slog-content][data-slog-visible]:has(svg path[d^="M13.596 10.988c0 1.133-1.265"])
 coupang.com###product-list > li[class^="ProductUnit"]:has(.fw-opacity-50.fw-text-\[12px\].fw-text-bluegray-900)
 82cook.com###mainHeadline
 tvreport.co.kr###unse-banner
@@ -246,7 +247,7 @@ namechart.kr##.container ~ .border-t:has(ins.adsbygoogle)
 dogdrip.net##.board-list .list > li:has(> #dogdripPowerLink, > #npl-list)
 m.search.naver.com##.square_tile_area .tile_area > .tile_list:has(._ad_icon)
 m.search.naver.com##.square_tile_area .tile_area > ._ad
-search.naver.com##li:is([data-slog-content*="shs_lis:pmax-"], [data-nmb_hpl-doc-id*="_nad-"], [data-loc_plce-doc-id*="_nad-"], [data-slog-content*=":nad-"], [data-rbp_lpa-doc-id*="nad-"])
+search.naver.com##li:is([data-slog-content*="shp_tre:pmax-"], [data-slog-content*="shs_lis:pmax-"], [data-nmb_hpl-doc-id*="_nad-"], [data-loc_plce-doc-id*="_nad-"], [data-slog-content*=":nad-"], [data-rbp_lpa-doc-id*="nad-"])
 search.naver.com###sub_pack > .brand_new_ui.searching_view
 url.kr##body > header ~ .py-4 ~ .container:has(~  .mt-5)
 url.kr##.alert-danger ~ .container
