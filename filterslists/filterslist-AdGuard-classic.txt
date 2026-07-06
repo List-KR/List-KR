@@ -56,6 +56,12 @@
 !#include adblocking/filters-AG/mobile/ios/ios_specific.txt
 !#endif
 
+!#if (adguard && adguard_app_cli)
+!#include adblocking/filters-AG/desktop/linux_cli/allowlist.txt
+!#include adblocking/filters-AG/desktop/linux_cli/antiadblock.txt
+!#include adblocking/filters-AG/desktop/linux_cli/specific_URL.txt
+!#endif
+
 !#if (adguard && adguard_app_windows)
 !#include adblocking/filters-AG/desktop/windows_app/allowlist.txt
 !#include adblocking/filters-AG/desktop/windows_app/antiadblock.txt

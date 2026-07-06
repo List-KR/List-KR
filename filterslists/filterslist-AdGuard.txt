@@ -200,6 +200,24 @@
 !#include antiadblockplus/filters-AG/desktop/windows_app/specific_URL.txt
 !#endif
 
+!#if (adguard && adguard_app_cli)
+!#include adblocking/filters-AG/desktop/linux_cli/allowlist.txt
+!#include adblocking/filters-AG/desktop/linux_cli/antiadblock.txt
+!#include adblocking/filters-AG/desktop/linux_cli/specific_URL.txt
+
+!#include analytics/filters-AG/desktop/linux_cli/allowlist.txt
+!#include analytics/filters-AG/desktop/linux_cli/antiadblock.txt
+!#include analytics/filters-AG/desktop/linux_cli/specific_URL.txt
+
+!#include annoyance/filters-AG/desktop/linux_cli/allowlist.txt
+!#include annoyance/filters-AG/desktop/linux_cli/antiadblock.txt
+!#include annoyance/filters-AG/desktop/linux_cli/specific_URL.txt
+
+!#include antiadblockplus/filters-AG/desktop/linux_cli/allowlist.txt
+!#include antiadblockplus/filters-AG/desktop/linux_cli/antiadblock.txt
+!#include antiadblockplus/filters-AG/desktop/linux_cli/specific_URL.txt
+!#endif
+
 !#if (adguard && adguard_app_mac)
 !#include adblocking/filters-AG/desktop/macos_app/allowlist.txt
 !#include adblocking/filters-AG/desktop/macos_app/antiadblock.txt
