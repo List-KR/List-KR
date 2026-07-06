@@ -1,1 +1,2 @@
-!
+@@||pagead2.googlesyndication.com^$app=co.benx.weverse
+@@||imasdk.googleapis.com^$app=com.google.android.youtube
