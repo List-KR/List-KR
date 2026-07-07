@@ -1,7 +1,7 @@
 mhnse.com#$##main.news-view-wrap { padding-top: 0px !important; }
 chzzk.naver.com#$##viewport-box + div:has(> a[href="https://chzzk.naver.com/home/sports/fifa-worldcup-2026"]) { display: none !important; }
 chzzk.naver.com#$##viewport-box + div:has(> a[href="https://chzzk.naver.com/home/sports/fifa-worldcup-2026"]) + #header { transform: initial !important; }
-chzzk.naver.com#$##viewport-box + div:has(> a[href="https://chzzk.naver.com/home/sports/fifa-worldcup-2026"]) + #header + #sidebar { transform: translateY(60px) !important; }
+chzzk.naver.com#$##viewport-box + div:has(> a[href="https://chzzk.naver.com/home/sports/fifa-worldcup-2026"]) + #header + #sidebar { transform: translateY(60px) !important; height: 100% !important; }
 chzzk.naver.com#$##viewport-box + div:has(> a[href="https://chzzk.naver.com/home/sports/fifa-worldcup-2026"]) + #header + #sidebar + #layout-body { padding-top: 0 !important; }
 chzzk.naver.com#$##viewport-box + div:has(> a[href="https://chzzk.naver.com/home/sports/fifa-worldcup-2026"]) + #header + #sidebar + #layout-body > div[class^="_container_"] > section > div[class^="_filter_"] { top: 51px !important; }
 chzzk.naver.com#$##viewport-box + div:has(> a[href="https://chzzk.naver.com/home/sports/fifa-worldcup-2026"]) + #header + #sidebar + #layout-body > div[class^="_container_"] > section > div[class^="_tab_"] { top: 51px !important; }
