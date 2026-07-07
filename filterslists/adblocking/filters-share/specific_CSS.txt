@@ -2,7 +2,7 @@ mhnse.com#$##main.news-view-wrap { padding-top: 0px !important; }
 chzzk.naver.com#$##viewport-box + div:has(> a[href="https://chzzk.naver.com/home/sports/fifa-worldcup-2026"]) { display: none !important; }
 chzzk.naver.com#$##header { transform: initial !important; }
 chzzk.naver.com#$##sidebar { transform: translateY(60px) !important; height: 100% !important; }
-chzzk.naver.com#$##layout-body { padding-top: 0 !important; }
+chzzk.naver.com#$##layout-body { padding-top: 0 !important; height: 100% !important; }
 chzzk.naver.com#$##layout-body > div[class^="_container_"] > section > div[class^="_filter_"] { top: 51px !important; }
 chzzk.naver.com#$##layout-body > div[class^="_container_"] > section > div[class^="_tab_"] { top: 51px !important; }
 chzzk.naver.com#$##layout-body > div[class^="_container_"] > section > main > div[class^="_wrapper_"] { top: 124px !important; }
