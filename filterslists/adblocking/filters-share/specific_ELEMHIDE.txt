@@ -65,7 +65,7 @@ coupang.com###product-list > li[class^="ProductUnit"]:has(.fw-opacity-50.fw-text
 tvreport.co.kr###unse-banner
 sports.khan.co.kr##.pAd
 sports.khan.co.kr##.mAd
-sports.khan.co.kr###adBottom
+weekly.khan.co.kr,sports.khan.co.kr###adBottom
 ichannela.com##.news_view_wrapper > div[class^="onair_"]:has(div[id^="dablewidget_"])
 ichannela.com##div[class^="news_right_ad"]
 mksports.co.kr###container_right > div[style^="position:relative;"][style*="height:"]
