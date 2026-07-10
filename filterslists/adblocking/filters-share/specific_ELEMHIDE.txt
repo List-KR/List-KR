@@ -58,6 +58,10 @@ eegosa.com##section[id*="_ads_"]
 sports.donga.com##div[id*="_AD"]
 
 naver.com##[aria-label="웨일 브라우저 설치 안내"] 
+etoland.co.kr##[data-inouts-click="true"]
+etoland.co.kr##[data-pl-type]
+etoland.co.kr##body > .bg-black\/75.px-4.py-6
+naver.com##.banner_top[aria-label="웨일 브라우저 설치 안내"] 
 m.search.naver.com##ul > li[data-slog-content][data-slog-visible]:has(> div[class] > div[id^="view_type_"] a[href="https://m.help.pay.naver.com/faq/list.help?rootCategoryId=10503&faqId=10891"])
 search.naver.com##ul > li[data-slog-content][data-slog-visible]:has(svg path[d^="M13.596 10.988c0 1.133-1.265"])
 coupang.com###product-list > li[class^="ProductUnit"]:has(.fw-opacity-50.fw-text-\[12px\].fw-text-bluegray-900)
@@ -65,7 +69,7 @@ coupang.com###product-list > li[class^="ProductUnit"]:has(.fw-opacity-50.fw-text
 tvreport.co.kr###unse-banner
 sports.khan.co.kr##.pAd
 sports.khan.co.kr##.mAd
-sports.khan.co.kr###adBottom
+weekly.khan.co.kr,sports.khan.co.kr###adBottom
 ichannela.com##.news_view_wrapper > div[class^="onair_"]:has(div[id^="dablewidget_"])
 ichannela.com##div[class^="news_right_ad"]
 mksports.co.kr###container_right > div[style^="position:relative;"][style*="height:"]
@@ -95,14 +99,11 @@ damoang.net##div[data-dm-slot]
 damoang.net##div[style^="--ad-slot-min-height:"]
 damoang.net##.gap-4.flex-col > div:has(> div[data-position="side-image-text-banner"])
 ruliweb.com##.ti_reserved_slot[style^="min-height:"]
-etoland.co.kr###list-header + section li.h-fit.min-h-14:not(.border-b-etoDivider-1)
 tenasia.co.kr###article-body > div[style^="min-height:"]
 tenasia.co.kr##.article-view > div[style^="min-height:"]:has(> div[id^="dablewidget_"])
 mbiz.heraldcorp.com##div[data-svcad]
 mbiz.heraldcorp.com##.view_editor_bg div[id^="da"][style^="min-height:"]
 mbiz.heraldcorp.com##.view_editor_bg div[style^="width:"][style*="min-height:"]
-etoland.co.kr##main > section[class=""] > article.w-full[data-pl-type]
-etoland.co.kr##div[class$="-banner h-full"]
 vod.sooplive.com##.adballoon_icon
 jeongcheogi.edugamja.com##a[rel="noopener noreferrer sponsored"]
 instiz.net##body > div[style^="min-height:"]
