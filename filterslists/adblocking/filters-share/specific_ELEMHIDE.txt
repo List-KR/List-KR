@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 
+naver.com##[aria-label="웨일 브라우저 설치 안내"] 
 etoland.co.kr##[data-inouts-click="true"]
 etoland.co.kr##[data-pl-type]
 etoland.co.kr##body > .bg-black\/75.px-4.py-6
