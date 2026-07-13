@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 
+m.humoruniv.com###comment #power_place
 starnewskorea.com##.ad-tag
 naver.com##[aria-label="웨일 브라우저 설치 안내"] 
 etoland.co.kr##[data-inouts-click="true"]
