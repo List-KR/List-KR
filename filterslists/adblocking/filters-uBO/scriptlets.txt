@@ -25,6 +25,7 @@ chzzk.naver.com##+js(json-prune-xhr-response, ads.[-].eventTracking.ackImpressio
 chzzk.naver.com##+js(json-prune-xhr-response, adBreaks.[-].adSources.[].withRemindAd, videoAdScheduleId, propsToMatch, 'url:api.chzzk.naver.com/service/t/')
 chzzk.naver.com##+js(trusted-set-local-storage-item, homeSkinCollapsedUntil, 9999999999999)
 !
+www.naver.com##+js(set, EAGER-DATA.CAS-MINICONTENT-PC-WHALE-BANNER-BOTTOM, null)
 vod.sooplive.com##+js(json-prune-xhr-response, data.adballoon, , 'station/video/a/view')
 stock.naver.com##+js(set, MobileDetect, noopFunc)
 excellesports.com##+js(set-cookie, popup_view, disable)
