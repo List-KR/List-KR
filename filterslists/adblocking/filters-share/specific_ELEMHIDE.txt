@@ -63,7 +63,6 @@ naver.com##[aria-label="웨일 브라우저 설치 안내"]
 etoland.co.kr##[data-inouts-click="true"]
 etoland.co.kr##[data-pl-type]
 etoland.co.kr##body > .bg-black\/75.px-4.py-6
-naver.com##.banner_top[aria-label="웨일 브라우저 설치 안내"] 
 m.search.naver.com##ul > li[data-slog-content][data-slog-visible]:has(> div[class] > div[id^="view_type_"] a[href="https://m.help.pay.naver.com/faq/list.help?rootCategoryId=10503&faqId=10891"])
 search.naver.com##ul > li[data-slog-content][data-slog-visible]:has(svg path[d^="M13.596 10.988c0 1.133-1.265"])
 coupang.com###product-list > li[class^="ProductUnit"]:has(.fw-opacity-50.fw-text-\[12px\].fw-text-bluegray-900)
