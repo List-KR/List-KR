@@ -57,6 +57,8 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 
+~m.danawa.com,danawa.com###main-rightbnr
+~m.danawa.com,danawa.com###main-rightbnr-btm
 m.danawa.com###mdnw-main-dimm:has(+ #mdnw-main-bottomSheet-container > .box__banner> a[href^="https://white.contentsfeed.com/RealMedia/ads/click_lx.ads/"])
 m.danawa.com###mdnw-main-bottomSheet-container:has( > .box__banner> a[href^="https://white.contentsfeed.com/RealMedia/ads/click_lx.ads/"])
 search.danawa.com###powerShoppingAreaTop
