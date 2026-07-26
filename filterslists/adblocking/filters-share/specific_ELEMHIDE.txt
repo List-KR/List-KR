@@ -1280,6 +1280,7 @@ etnews.com##div.clearfix:has(> div[class^="ad"])
 etnews.com##iframe[src*="//www.etnews.com/tools/refresh_script.html?"]
 imaeil.com##.wcms_banner
 fnnews.com##div[id^="add_view_"][style]
+mediapen.com##div[style]:has(> a > img[src*="banner"])
 mediapen.com##iframe[src^="/banners/load/"]
 mediapen.com##img[src*="//img.mediapen.com/banners/"]
 insight.co.kr##div.aside-popular > ul.aside-popular-wrap > li > div[style~="300px;height:"][style~="block;width:"]
