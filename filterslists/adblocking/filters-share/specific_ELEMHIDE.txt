@@ -1504,3 +1504,4 @@ vop.co.kr##div.arcad
 breaknews.com##div.bn
 sisafocus.co.kr##div.clearfix:has(> script[id^="ban"])
 news.hada.io##div.gn-ad-slot
+mediawatch.kr##div.com_ban
