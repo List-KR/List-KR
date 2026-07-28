@@ -1,1 +1,2 @@
-!
+m.11st.co.kr##+js(trusted-click-element, .c-bottom-drawer__close)
+m.11st.co.kr##+js(set-cookie, web2AppPopupDisable, Y)

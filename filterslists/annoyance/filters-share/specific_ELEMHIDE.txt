@@ -1,3 +1,9 @@
+m.11st.co.kr##div[data-log-actionid-area="brand_floating"]
+m.11st.co.kr##.c-tabbar-lottie:has(> button[aria-label="이벤트 보기"])
+m.11st.co.kr###banner > .c-webtoapp
+!#if (adguard_app_ios || adguard_ext_android_cb || adguard_ext_safari)
+m.11st.co.kr###web2appPopup
+!#endif
 muko.kr##.lp-install-chip
 muko.kr###xt_join_site_addons
 www.naver.com###whale-banner
