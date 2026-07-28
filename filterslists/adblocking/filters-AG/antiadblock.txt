@@ -128,6 +128,7 @@ dicoall.com#@##rightAd
 ! windowsforum.kr
 windowsforum.kr#%#//scriptlet('prevent-addEventListener', 'load', 'banner.offsetHeight')
 !
+thelabyrinth.co.kr#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com method:HEAD')
 etoland.co.kr#%#//scriptlet('prevent-fetch', '/pagead2.googlesyndication.com|googleads.g.doubleclick.net|googletagservices.com|securepubads.g.doubleclick.net|googleads.g.doubleclick.net|google-analytics.com|googlesyndication.com|doubleclick.net/')
 !#if (adguard_app_ios || adguard_ext_safari)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=etoland.co.kr,xmlhttprequest
