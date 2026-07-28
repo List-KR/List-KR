@@ -129,6 +129,7 @@ m.bustago.or.kr###safeconnectAddBox
 dundam.xyz##.instv-ad
 algumon.com##.bg-base-100:has(> div.adsense-container > ins.adsbygoogle)
 excellesports.com##.modal_contents .modal_wrap
+search.shopping.naver.com###content > div[class^="section_section__"] > div[class^="brandStoreBlock_brand_store_module__"] ul.flicking-camera > li[class^="brandStoreProductList_item__"]:has(> div > a[href^="https://ader.naver.com/"])
 m.search.naver.com##div[data-block-id^="review/prs_template_"] .sds-comps-header ~ div[data-template-type="vertical"] .sds-comps-vertical-layout.sds-comps-full-layout:has(> .sds-comps-vertical-layout a[href^="https://ader.naver.com/"])
 m.search.naver.com##div[data-block-id^="review/prs_template_"] .sds-comps-header ~ div[data-template-type="vertical"] .sds-comps-vertical-layout.sds-comps-full-layout:has(> .sds-comps-vertical-layout a[href^="https://ader.naver.com/"]) + span
 enjuso.com##.enjuso_exp > a[href^="https://"]
