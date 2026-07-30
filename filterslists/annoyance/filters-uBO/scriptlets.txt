@@ -1,1 +1,2 @@
-!
+m.11st.co.kr##+js(trusted-click-element, #arBottomDrawer > .swiper-container:has(> .swiper-wrapper > .swiper-slide > a[href^="https://plan.11st.co.kr/plan"]) + .c-bottom-drawer__tools > button.c-bottom-drawer__close)
+m.11st.co.kr##+js(set-cookie, web2AppPopupDisable, Y)
