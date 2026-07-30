@@ -231,7 +231,7 @@ instiz.net###topfixed ~ div[class]:has(> div[id^="sense"][style])
 instiz.net##div[id^="sense"][style]
 webtoonguide.com##.ticket-banner
 webtoonguide.com##.webtoonguide-pick-swiper-container:not(:has(a[href^="/ko/db/"]))
-m.search.naver.com##.sp_brand
+m.search.naver.com##body .sp_brand
 shopping.naver.com##ul[class^="compositeCardList_product_list_"] > li:has(div[class*="_advertisement_area__"])
 shopping.naver.com##div[class^="brandCRMProductList_"] li[class^="brandCRMProductList_item_"]:has(svg[class^="advertisementTag_"])
 search.naver.com##div[data-foryou-append-target] > .box:has(.store_ad)
