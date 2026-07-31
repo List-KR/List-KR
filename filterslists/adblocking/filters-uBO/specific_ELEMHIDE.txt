@@ -1,3 +1,5 @@
+naver.com##[aria-label="웨일 브라우저 설치 안내"] 
+!
 namu.wiki,~board.namu.wiki##div[class] > div[class*=" "] > div[class*=" "] ~ div[class*=" "] > div[id][class]:not([class*=" "]):empty
 namu.wiki,~board.namu.wiki##div[class*=" "]:not([class^="_"]) > div[class]:not([class*=" "]) > div[class*=" "]:has(> div[id][class] > div[id][class])
 !
