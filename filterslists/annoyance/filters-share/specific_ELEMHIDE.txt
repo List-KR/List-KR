@@ -1,5 +1,3 @@
-m.11st.co.kr##div[data-log-actionid-area="brand_floating"]
-m.11st.co.kr##.c-tabbar-lottie:has(> button[aria-label="이벤트 보기"])
 m.11st.co.kr###banner > .c-webtoapp
 muko.kr##.lp-install-chip
 muko.kr###xt_join_site_addons
