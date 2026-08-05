@@ -1,1 +1,2 @@
+lottecinema.co.kr#%#//scriptlet('set-cookie', 'MainPopup', 'true')
 m.11st.co.kr#%#//scriptlet('set-cookie', 'web2AppPopupDisable', 'Y')

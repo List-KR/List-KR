@@ -1,3 +1,5 @@
+lottecinema.co.kr##.appbannermain_wrap
+lottecinema.co.kr##.banner_appinstall
 m.11st.co.kr###banner > .c-webtoapp
 muko.kr##.lp-install-chip
 muko.kr###xt_join_site_addons
