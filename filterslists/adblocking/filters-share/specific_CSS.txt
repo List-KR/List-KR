@@ -1,3 +1,5 @@
+m.megabox.co.kr#$#.ad-popup2 { display: none !important }
+m.megabox.co.kr#$#.layer-dimmed { display: none !important; }
 mhnse.com#$##main.news-view-wrap { padding-top: 0px !important; }
 chzzk.naver.com#$##viewport-box + div:has(> a[href="https://chzzk.naver.com/home/sports/fifa-worldcup-2026"]) { display: none !important; }
 chzzk.naver.com#$##header { transform: initial !important; }
