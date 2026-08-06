@@ -1,3 +1,5 @@
+m.bunjang.co.kr##footer > a[href="https://go.bgzt.link/app"]
+m.bunjang.co.kr##header > section[class*="_top-banner_"]:has( > section >  a[href="https://go.bgzt.link/app"])
 lottecinema.co.kr##.appbannermain_wrap
 lottecinema.co.kr##.banner_appinstall
 m.11st.co.kr###banner > .c-webtoapp
