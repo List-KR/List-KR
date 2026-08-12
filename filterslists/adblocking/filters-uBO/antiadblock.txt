@@ -72,6 +72,15 @@ dicoall.com#@##rightAd
 ||jads.co^$script,redirect=noop.js,domain=litomi.in
 litomi.in##+js(trusted-create-html, #juicy-ads-banner > div[data-juicy-ads-slot] > div, <iframe></iframe>)
 litomi.in##ins
+! cpsp.kr
+cpsp.kr#@#.adsbox
+cpsp.kr#@#.ad-banner
+cpsp.kr#@#.ad-unit:not(.textads)
+cpsp.kr#@#.pub_300x250
+cpsp.kr#@#.pub_728x90
+cpsp.kr#@#.text-ad
+cpsp.kr#@#.text_ads
+cpsp.kr##+js(no-fetch-if, pagead2.googlesyndication.com/pagead/js/adsbygoogle.js)
 !
 thelabyrinth.co.kr##+js(no-fetch-if, pagead2.googlesyndication.com method:HEAD)
 windowsforum.kr##+js(aeld, load, 'banner.offsetHeight')

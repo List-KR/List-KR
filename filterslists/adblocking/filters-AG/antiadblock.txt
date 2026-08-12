@@ -127,6 +127,19 @@ dicoall.com#@##rightAd
 !#safari_cb_affinity
 ! windowsforum.kr
 windowsforum.kr#%#//scriptlet('prevent-addEventListener', 'load', 'banner.offsetHeight')
+! .text_ads
+!#if (adguard_app_ios || adguard_ext_safari)
+cpsp.kr#@#.adsbox
+cpsp.kr#@#.ad-banner
+cpsp.kr#@#.ad-unit:not(.textads)
+cpsp.kr#@#.pub_300x250
+cpsp.kr#@#.pub_728x90
+cpsp.kr#@#.text-ad
+cpsp.kr#@#.text_ads
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=cpsp.kr
+!#endif
+cpsp.kr#%#//scriptlet('prevent-constructor', 'Promise', 'width: 1px !important')
+cpsp.kr#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com/pagead/js/adsbygoogle.js')
 !
 thelabyrinth.co.kr#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com method:HEAD')
 etoland.co.kr#%#//scriptlet('prevent-fetch', '/pagead2.googlesyndication.com|googleads.g.doubleclick.net|googletagservices.com|securepubads.g.doubleclick.net|googleads.g.doubleclick.net|google-analytics.com|googlesyndication.com|doubleclick.net/')
