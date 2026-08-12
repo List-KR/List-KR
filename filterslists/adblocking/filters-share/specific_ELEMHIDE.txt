@@ -1488,7 +1488,6 @@ av19.gg###page ~ div[style^="min-height:"]#content.row
 agitwebtoon.*##.advx
 agitnovel.*##.banner
 spochak.com##.list-webzine .list-item
-cokcok.*##.custom_banner_item
 tvhot.*##div[id*="-banner-"]
 tvhot.*###body_wrap > div[class][style^="margin:"]
 sonagitv.*##a[href][target="_blank"] > img[src^="/images/banner/"]:not([src^="/images/banner/webtoon_"])

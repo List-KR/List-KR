@@ -142,6 +142,7 @@ m.fmkorea.com##iframe[src*="//loader.fmkorea.com/"][src*="_loader/"]
 !
 ! DOMAIN-REFRESHER: START
 !
+[$domain=/cokcok[0-9]+\.com/]###cpb-popup-banners
 [$domain=/xtoon[0-9]+\.com/]##.container > div.row > div > a[target="_blank"] > picture
 [$domain=/funbe[0-9]+\.com/]##.mobile-banner > div[class^="main_top_bann"]
 [$domain=/funbe[0-9]+\.com/]##.mobile-banner div.banner_m
@@ -159,9 +160,6 @@ nightofpeace.com,ilovebees.io##.e-grid.e-con-full.e-con.e-child:has(a[target="_b
 [$domain=/^tkor[0-9]+\.com/]##*[class*="top_bann"]
 [$domain=/^jusokorea[0-9]+\.com/]##div[class*="-ad-banner"]
 [$domain=/^torrentnx[0-9]+\.com/]##a[href*="/bbs/link.php"]
-[$domain=/^cokcoktv[0-9]+\.com/]###cpb-popup-banners
-[$domain=/^cokcoktv[0-9]+\.com/]###custom_banner_wrap
-[$domain=/^cokcoktv[0-9]+\.com/]##.custom_banner_wrap
 [$domain=/^tvwiki[0-9]+\.com/]##ul[class^="banner"]
 [$domain=/^sptv[0-9]+\.com/]##.modal_contents
 [$domain=/^torrentpi[0-9]+\.com/]##style ~ .basic-post-gallery
