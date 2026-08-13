@@ -1,5 +1,8 @@
 # List-KR
 
+> [!IMPORTANT]
+> List-KR has been privatized by AdGuard. https://github.com/List-KR/List-KR/issues/1095
+
 [![jsDelivr Stats](https://data.jsdelivr.com/v1/package/npm/@list-kr/filterslists/badge)](https://www.jsdelivr.com/package/npm/@list-kr/filterslists)
 
 List-KR is an ad blocking filter list maintained by the Ad Blocking community.

@@ -1,5 +1,8 @@
 # List-KR
 
+> [!IMPORTANT]
+> List-KR 필터는 AdGuard에 의해 사유화되었습니다. https://github.com/List-KR/List-KR/issues/1095
+
 List-KR 필터 리스트에 관련된 질문이나 문의는 이 레포의 이슈 트래커에 올려주세요. 이메일을 통한 비공개 지원이 필요하시면 각 기여자의 GitHub 프로필에서 연락처를 확인하실 수 있습니다.
 
 tinyShield 유저스크립트와 NamuLink 유저스크립트 관련해서는 [tinyShield](https://github.com/FilteringDev/tinyShield/issues)와 [NamuLink](https://github.com/FilteringDev/NamuLink/issues) 이슈 트래커를 참고해주세요.
