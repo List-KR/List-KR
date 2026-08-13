@@ -10,7 +10,7 @@ AdGuard 필터 리스트 이슈라면 [AdguardFilters](https://github.com/Adguar
 
 [![jsDelivr Stats](https://data.jsdelivr.com/v1/package/npm/@list-kr/filterslists/badge)](https://www.jsdelivr.com/package/npm/@list-kr/filterslists)
 
-List-KR은 애드블록 커뮤니티와 AdGuard에서 관리하는 한국어 광고 차단 필터 리스트입니다.
+List-KR은 애드블록 커뮤니티에서 관리하는 한국어 광고 차단 필터 리스트입니다.
 
 지원하는 광고 차단기는 AdGuard와 uBlock Origin입니다.
 

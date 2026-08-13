@@ -2,7 +2,7 @@
 
 [![jsDelivr Stats](https://data.jsdelivr.com/v1/package/npm/@list-kr/filterslists/badge)](https://www.jsdelivr.com/package/npm/@list-kr/filterslists)
 
-List-KR is an ad blocking filter list maintained by the Ad Blocking community and AdGuard.
+List-KR is an ad blocking filter list maintained by the Ad Blocking community.
 
 Supported adblockers are AdGuard and uBlock Origin.
 
