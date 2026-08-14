@@ -19,7 +19,7 @@ mimint.co.kr,economist.co.kr,dailian.co.kr,bigkinds.or.kr,hungryapp.co.kr,rhythm
 ! ##div[class$="banner"]
 sports.chosun.com,dcinside.com##div[class$="banner"]
 ! ##div[class$="-banner"]
-m.megabox.co.kr,signin.gmarket.co.kr,eanews.kr,economist.co.kr,philgo.com,ondisk.co.kr,blockchainhub.kr,cineaste.co.kr,paxnet.co.kr,bigkinds.or.kr,toomics.com,ilbe.com##div[class$="-banner"]
+m.megabox.co.kr,signin.gmarket.co.kr,eanews.kr,economist.co.kr,philgo.com,ondisk.co.kr,cineaste.co.kr,paxnet.co.kr,bigkinds.or.kr,toomics.com,ilbe.com##div[class$="-banner"]
 ! ##div[class^="banner"]
 bgchang.co.kr,edit.incruit.com,m.hungryapp.co.kr,m.edaily.co.kr,m.news1.kr,bntnews.co.kr##div[class^="banner"]
 ! ##div[class$="-ad"]
@@ -1024,7 +1024,7 @@ m.joynews24.com##hr[style].blank
 joynews24.com,inews24.com##ad
 playcraft.tistory.com##.module.module_plugin a[href*="//coinone.co.kr/user/signup?ref="]
 playcraft.tistory.com##.module.module_plugin a[href*="//link.coupang.com/"]
-youthassembly.kr,blockchainhub.kr,wowtv.co.kr,mobiinside.co.kr,phdkim.net,quasarzone.com##div[class*="-banner-"]
+youthassembly.kr,wowtv.co.kr,mobiinside.co.kr,phdkim.net,quasarzone.com##div[class*="-banner-"]
 minimap.net##div[class*="-ad"]:not(.container):not([style])
 minimap.net##.feed-list-wrap .feed-item-wrap-SPONSORED
 m.tf.co.kr###artContent > div[style]:not([class])
