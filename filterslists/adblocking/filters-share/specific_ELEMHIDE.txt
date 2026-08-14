@@ -1512,7 +1512,6 @@ etorrentro.net##div[id^="banner"]
 img.imimggggg87878.com##div[class$="-banner"]
 linkkf.app###banner
 hellven.net##a[href^="http"][target="_blank"].thumbnail
-dajunbi.com##div[class^="banner_"]
 qooqootv.fun##div[class^="banner_"]
 theqoo.net##tr.notice:not([data-document_srl])
 uuoobe.com##td[valign="top"] ~ td[width][valign][bgcolor][align] table[width][height][border][cellpadding]
