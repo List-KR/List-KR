@@ -512,6 +512,8 @@ web.humoruniv.com###wrap_cnts > div[style*="margin:"][style^="width:"].box
 m.mydaily.co.kr##.article_view ~ div[style^="width:"].clean_banner ~ .wcms_banner ~ .h50
 m.mydaily.co.kr##.article_view ~ div[style^="text-align:"].clean_banner ~ .wcms_banner + .h45
 m.mydaily.co.kr##.article_view ~ div[style^="text-align:"].clean_banner +.h50
+sportschosun.com##div[data-nosnippet]
+sportschosun.com##div.d-none:has(> div > div > div[class^="ad"])
 m.sports.chosun.com,m.sportschosun.com##div[id$="ad"][class^="ad"]
 emmaru.com##.SubInforDiv_article table ~ div[style^="padding:"][align="center"]
 koreatimes.com##div[class^="bn_"]:not([class*=" "])
