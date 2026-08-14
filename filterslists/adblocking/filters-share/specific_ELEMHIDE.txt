@@ -1428,8 +1428,6 @@ kio.ac##main > div:has(> div > div > a > img)
 !
 tvchak.live##.banner-box
 aniya24.com##.popup-container
-sutom.org##div[data-id="9429d5d"]
-sutom.org###sutom-pro
 blacktoon1.info##div[data-mesh-id="comp-m8jy31rninlineContent"]
 toonkor.wiki##.banner
 yako.gg##.banner_grid
