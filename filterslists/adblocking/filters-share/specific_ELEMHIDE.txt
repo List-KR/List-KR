@@ -948,7 +948,6 @@ nzkoreapost.com##div[id^="agnb-"][class^="agnb-"][style]
 nzkoreapost.com##li[class$="-ad"]
 nzkoreapost.com##div[id^="article"].miso-post-gallery
 orbi.kr##.oxad
-hashcode.co.kr##[class][itemtype*="//schema.org/"] > .right
 okky.kr##main div[class*="space-"].hidden.flex-none
 pinpointnews.co.kr###article-view div[style].float-center .clearfix > div[class^="box-margin"]
 pinpointnews.co.kr###article-view div[style].float-center .clearfix > center[style]
