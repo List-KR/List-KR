@@ -996,7 +996,6 @@ cjlogistics.com##a[target="_blank"][href][onclick][class*="Banner"]
 coolenjoy.net,genshin.gamedot.org,itworld.co.kr,ciokorea.com##div[class*="-banner"]
 newsworker.co.kr##.user-content > .user-aside
 m.pann.nate.com##iframe[src^="/da/"]
-earlyadopter.co.kr##div[itemprop="articleBody"] > div[class][style]
 m.search.daum.net##body.nate .section_cont [disp-attr] > div[style*="height:"]
 m.search.daum.net##body.nate .section_cont [disp-attr] > #specialMColl
 sundayjournalusa.com##div[style] > a[href][target="_blank"]
