@@ -1029,8 +1029,6 @@
 /^https:\/\/ydbox[0-9]+\.com\/data\/apms\/background\/.+\.gif$/
 /^https:\/\/nightyd[0-9]+\.com\/uploadfile\/up[a-z0-9]+\./
 /^https:\/\/linkeye[0-9]+\.com\/data\/file\/banner\//
-||static.springbuilder.site/fs/userFiles-v2/$domain=img.imimggggg87878.com
-||i.imgur.com^$domain=img.imimggggg87878.com
 ||hellven.net/data/apms/imgb/
 ||toonthe.com/img/banner/
 /^https:\/\/hohotoon[0-9]+\.com\/data\/banner\//
