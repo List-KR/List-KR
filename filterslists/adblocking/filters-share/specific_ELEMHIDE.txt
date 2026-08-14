@@ -554,7 +554,6 @@ wiki1.kr##table:has(.noresize img[alt*="배너"])
 mlbpark.donga.com##.left_cont > div[style^="width:"]
 ruliweb.com##.adrr
 forwarder.kr###aside > div[style^="background-color:"]
-timecoffee.co.kr###custom_html-8
 m.sedaily.com###contentArea > div[style^="width:"][id]
 ygosunews.com##.recommended_wrap
 ygosunews.com##.rangking_wrap
