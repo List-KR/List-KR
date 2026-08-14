@@ -745,7 +745,6 @@ philgo.com##.content .left-wing > div
 quasarzone.com##div[role="main"] > .logo-area
 vitaminhealth.kr##iframe[data-ezsrc*="//coupa.ng/"]
 vietnamguide.co.kr,gentlysallim.com##div[class^="ai-viewport-"]
-toptrend.blog##div[id^="toptr-"]
 bonik.me###banner
 rdsong.com##.entry-content > div[style*="height:"]
 thewordcracker.com##.et_bloom_popup
