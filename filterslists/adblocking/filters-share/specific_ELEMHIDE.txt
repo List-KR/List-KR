@@ -1141,7 +1141,6 @@ gamemeca.com##iframe[src^="https://ads.gamemeca.com/"]
 mobile.newsis.com##div[class$="adPos"][class^="listStyle"][style]
 news.sbs.co.kr###sn_banner_side_top
 sign.dcinside.com##.ban_box
-playwares.com##a[href*="../api/redirectAd.php?"]
 kormedi.com##div[id^="better-ads-"]
 kormedi.com##iframe[src*="/wp-content/uploads/ads/"]
 ajunews.com,khan.co.kr,zdnet.co.kr,msearch.shopping.naver.com,pann.nate.com,theqoo.net,asiatoday.co.kr,realty.chosun.com,newstong.co.kr,it.chosun.com,cm.asiae.co.kr,modoodoc.com,salgoonews.com,xportsnews.com##div[class*="_ad_"]
