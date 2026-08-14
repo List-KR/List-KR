@@ -9,7 +9,7 @@ fnnews.com,tenasia.co.kr,m.dcinside.com,osen.co.kr,url.kr,polinews.co.kr,teambli
 ! ##.banner
 m.inven.co.kr,lolchess.gg,healtho.co.kr,economist.co.kr,m.comic.naver.com,sports.news.naver.com,ebn.co.kr,paxnet.co.kr,ajl.co.kr,yhinews.com,m.sedaily.com,bloter.net,mosen.mt.co.kr,hinfomax.kr,hinfomax.co.kr,pressian.com,kukinews.com##.banner
 ! ##div[class$="_banner"]
-10000recipe.com,www.daum.net,tokenpost.kr,mydaily.co.kr,section.cafe.naver.com,mlbpark.donga.com,forwarder.kr,kwnews.co.kr,ichannela.com,m.mail.daum.net,zum.com,health.chosun.com,thebell.co.kr,fomos.kr,styleup.gameangel.com,yakup.com,jjan.kr,mitem.auction.co.kr,knnews.co.kr,joseilbo.com,m.mt.co.kr,order.kyobobook.co.kr,newsen.com,toomics.com,m.ytn.co.kr,djtimes.co.kr,mdjournal.kr,windowsforum.kr,dcnewsj.joins.com,berryjam.co.kr##div[class$="_banner"]
+10000recipe.com,www.daum.net,tokenpost.kr,mydaily.co.kr,section.cafe.naver.com,mlbpark.donga.com,forwarder.kr,kwnews.co.kr,ichannela.com,m.mail.daum.net,zum.com,health.chosun.com,thebell.co.kr,fomos.kr,yakup.com,jjan.kr,mitem.auction.co.kr,knnews.co.kr,joseilbo.com,m.mt.co.kr,order.kyobobook.co.kr,newsen.com,toomics.com,m.ytn.co.kr,djtimes.co.kr,mdjournal.kr,windowsforum.kr,dcnewsj.joins.com,berryjam.co.kr##div[class$="_banner"]
 ! ##div[class^="ad"]
 m.gamechosun.co.kr,hub.zum.com,news.heraldcorp.com,lalawin.com,badayak.com,ujnews.co.kr,realty.chosun.com,koreadaily.com,it.chosun.com,m.fmkorea.com,ytn.co.kr,www.ebs.co.kr,newsis.com,m.newsen.com,jwmx.tistory.com,thespike.co.kr,hobbyen.co.kr,socialvalue.kr,m.moneys.co.kr,basketkorea.com,m.ohmynews.com,heraldcorp.com,slrclub.com##div[class^="ad"]
 ! ##div[class^="banner_"]
@@ -778,8 +778,6 @@ bozayo.net##.widget-side div[style*=" "]
 wowtv.co.kr##div[class^="adv-"]
 koreanbots.dev##.container div[style^="height:"].mx-auto
 m.compuzone.co.kr##.right_btn
-styleup.gameangel.com##.game_wrap ~ div[style*=" "]
-styleup.gameangel.com##div[id^="ads_"]
 eomisae.co.kr##main#main .eq.section > div[class$=" "][style^="background-position"] ~ div[style^="float: "]
 kidkids.net##td[width]:not([valign]) ~ td[align="left"] ul.banner
 kidkids.net##div[class*=" "] > div[class*=" "][class*="_"] ~ div[class$="fright"]
@@ -1106,7 +1104,7 @@ junggi.co.kr##img[src^="/data/__banner/"]
 junggi.co.kr##img[src^="/image/banner/"]
 danawa.com##.main__grid.main__grid--line .main__grid__right
 kookje.co.kr,dpg.danawa.com##div[id*="-ad-"]
-maxmovie.com,dcnewsj.joins.com,news.heraldcorp.com,biz.chosun.com,place.naver.com,styleup.gameangel.com,wowtv.co.kr,news.naver.com##div[id*="_ad_"]
+maxmovie.com,dcnewsj.joins.com,news.heraldcorp.com,biz.chosun.com,place.naver.com,wowtv.co.kr,news.naver.com##div[id*="_ad_"]
 thelec.kr##div[onclick^="wcs.event("]
 m.starnewskorea.com###content > div[style^="background:"][class]
 news.nate.com###newsSidebar > div[class*="ad"]
