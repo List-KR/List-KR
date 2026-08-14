@@ -176,7 +176,6 @@ app.pizzaalvolo.co.kr##div[class^="css-"][style^="gap: "] > div[tabindex="0"]:ha
 enuri.com###coupangCpcSection
 enuri.com##.lp-ad--naver
 gall.dcinside.com,m.dcinside.com##ul[class$="_ad"]
-start.klauncher.kr##.auxiliary-section
 asked.kr##div[class*="ad_"][style*=":"]
 asked.kr##div[class^="inner_"] > div[class^="banner_"]
 chzzkban.xyz##div[class*=" "]:is([style^="height:"], [style^="pointer-events:"], [style^="width:"]):has(div[id^="adv-"])

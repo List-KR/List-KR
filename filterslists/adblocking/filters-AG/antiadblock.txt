@@ -121,10 +121,6 @@ dicoall.com#@##AD_Top
 dicoall.com#@##homead
 dicoall.com#@##ad-lead
 dicoall.com#@##rightAd
-! bser-koroshi.vercel.app
-!#safari_cb_affinity(privacy)
-@@||bser-koroshi.vercel.app/_vercel/insights/script.js$domain=bser-koroshi.vercel.app,xmlhttprequest
-!#safari_cb_affinity
 ! windowsforum.kr
 windowsforum.kr#%#//scriptlet('prevent-addEventListener', 'load', 'banner.offsetHeight')
 ! .text_ads
@@ -185,7 +181,6 @@ tabriz.kr#@##homead
 namechart.kr,eftlibrary.com#%#//scriptlet('prevent-fetch', 'www3.doubleclick.net')
 dinfo.3dpchip.com#%#//scriptlet('set-constant', 'linkPass', 'true')
 boardlife.co.kr#$##top-sponsor { height: 60px !important; top: -60px !important; position: absolute !important; visibility: hidden !important; }
-klauncher.kr#%#//scriptlet('prevent-addEventListener', 'load', '_0x')
 ||tistory1.daumcdn.net/tistory/3827361/skin/images/script3.js$domain=devjit.tistory.com
 hub.weirdhost.xyz#%#//scriptlet('prevent-fetch', 'adblockanalytics.com')
 hub.weirdhost.xyz#%#//scriptlet('prevent-fetch', 'adsbygoogle.js')
@@ -193,8 +188,6 @@ hub.weirdhost.xyz#%#//scriptlet('prevent-fetch', 'adsbygoogle.js')
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=hub.weirdhost.xyz,xmlhttprequest
 @@||adblockanalytics.com$domain=hub.weirdhost.xyz,xmlhttprequest
 !#endif
-@@||adservice.google.com^|$xmlhttprequest,domain=klauncher.kr
-||www3.doubleclick.net^$script,redirect=noopjs,domain=srank.kr
 chmodi.tistory.com##.floatdiv
 svrforum.com##body > div[class][style*="box-shadow:"]
 !#if (adguard_app_ios || adguard_ext_safari)

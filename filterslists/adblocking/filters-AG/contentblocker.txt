@@ -56,7 +56,6 @@ windowsforum.kr#@#div[class$="_banner"]
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=etoland.co.kr,xmlhttprequest
 @@||www.google-analytics.com|$domain=etoland.co.kr,xmlhttprequest
 ||ragmaya.kr/static/rm_adblock_wall.js
-@@||bser-koroshi.vercel.app/_vercel/insights/script.js$domain=bser-koroshi.vercel.app,xmlhttprequest
 algumon.com##div[id^="deal-"].card ~ .bg-base-100:has(div[style] > div[class*=" svelte-"])
 @@||cheatdot.com^$generichide
 @@||tv.jtbc.co.kr^$generichide
@@ -77,7 +76,6 @@ tabriz.kr#@##homead
 ||tistory1.daumcdn.net/tistory/3827361/skin/images/script3.js$domain=devjit.tistory.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=hub.weirdhost.xyz,xmlhttprequest
 @@||adblockanalytics.com$domain=hub.weirdhost.xyz,xmlhttprequest
-@@||adservice.google.com^|$xmlhttprequest,domain=klauncher.kr
 chmodi.tistory.com##.floatdiv
 @@||googletagmanager.com/gtag/js$domain=t.hi098123.com,script
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_fy2021.js$domain=t.hi098123.com

@@ -86,7 +86,6 @@ thelabyrinth.co.kr##+js(no-fetch-if, pagead2.googlesyndication.com method:HEAD)
 windowsforum.kr##+js(aeld, load, 'banner.offsetHeight')
 etoland.co.kr##+js(no-fetch-if, /pagead2.googlesyndication.com|googleads.g.doubleclick.net|googletagservices.com|securepubads.g.doubleclick.net|googleads.g.doubleclick.net|google-analytics.com|googlesyndication.com|doubleclick.net/)
 ||ragmaya.kr/static/rm_adblock_wall.js
-@@_vercel/insights/script.js$domain=bser-koroshi.vercel.app,xmlhttprequest
 algumon.com##div[id^="deal-"].card ~ .bg-base-100:has(> div[style] > div[class^="fallback svelte-"])
 cheatdot.com##+js(nostif, 'window.getComputedStyle(t).display')
 tv.jtbc.co.kr,mvod.jtbc.co.kr,onair.jtbc.co.kr##+js(nostif, 'getComputedStyle(t).getPropertyValue("visibility")')
@@ -102,7 +101,6 @@ vod.jtbc.co.kr#@#.ad-zone:not(.textads)
 onair.jtbc.co.kr,news.jtbc.co.kr##+js(spoof-css, .ad-banner.adsbox.ad-unit.ad-zone, display, block)
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=google-ima.js,domain=vod.jtbc.co.kr|news.jtbc.co.kr|mvod.jtbc.co.kr|tv.jtbc.co.kr|onair.jtbc.co.kr
 minipol.tistory.com##+js(set, checkAdBlock, undefined)
-@@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=start.klauncher.kr,script
 tabriz.kr#@##AdHeader
 tabriz.kr#@##AD_Top
 tabriz.kr#@##ad-lead
@@ -110,13 +108,9 @@ tabriz.kr#@##homead
 namechart.kr,eftlibrary.com##+js(no-fetch-if, www3.doubleclick.net)
 dinfo.3dpchip.com##+js(set, linkPass, true)
 boardlife.co.kr#$##top-sponsor { height: 60px !important; top: -60px !important; position: absolute !important; visibility: hidden !important; }
-klauncher.kr##+js(aeld, load, _0x)
 ||tistory1.daumcdn.net/tistory/3827361/skin/images/script3.js$domain=devjit.tistory.com
 hub.weirdhost.xyz##+js(no-fetch-if, adblockanalytics.com)
 hub.weirdhost.xyz##+js(no-fetch-if, adsbygoogle.js)
-||www3.doubleclick.net^$script,redirect=noop.js,domain=srank.kr
-@@||doubleclick.net^$xhr,domain=srank.kr
-@@||adservice.google.com^|$xmlhttprequest,domain=klauncher.kr
 chmodi.tistory.com##.floatdiv
 svrforum.com##body > div[class][style*="box-shadow:"]
 luckyquiz3.blogspot.com##+js(no-xhr-if, adsbygoogle)
