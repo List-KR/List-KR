@@ -746,8 +746,6 @@
 ||dcinside.com/_js/ad.js
 ||prod.danawa.com/info/ajax/getPowerClickProductList.ajax.php
 ||image.ichannela.com/images/common/shinhan_
-||entertainpost.com/wp/wp-content/uploads/newPS/ad/
-||entertainpost.com/wp/wp-content/uploads/newPS/css/sub/right_ad.css
 ||res.sooplive.com/script/da/af_da_block.js
 ||res.sooplive.com/script/da/ad_check.js
 ||hankyung.com/resource/js/*/view.ads.js
