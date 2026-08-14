@@ -245,7 +245,6 @@
 ||thepumpkin.io/wp-content/uploads/*/length
 ||thepumpkin.io/wp-content/uploads/*/width
 ||economist.co.kr/data/ecn/upload/save/popup/
-||semoi.kr/data/file/ad
 ||m.ytn.co.kr/img/etc/btn_ad_close.png
 ||cdn.ppomppu.co.kr/zboard/data*/banner/
 ||i.ibb.co/*/$domain=rgy0409.tistory.com

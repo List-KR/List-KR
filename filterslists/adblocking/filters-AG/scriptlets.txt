@@ -66,7 +66,6 @@ apycsports.com#%#//scriptlet('abort-current-inline-script', '$.prototype.ready',
 whathappen.co.kr,momkim.co.kr#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 'link.coupang.com')
 momkim.co.kr,yachuk.com#%#//scriptlet('remove-class', 'not_cookie', '*[class*="not_cookie"]')
 yachuk.com#%#//scriptlet('abort-current-inline-script', 'jQuery', 'link.coupang.com')
-semoi.kr#%#//scriptlet('remove-class', 'mheight', '#bo_v_atc.mheight')
 aannm.cafe24.com,beomil09121.cafe24.com#%#//scriptlet('abort-current-inline-script', 'jQuery', 'coupang_dont_show_prompty_interval')
 actingbaum.co.kr,picknpicker.com,moneyissues.co.kr,sotrychatter.com,skysky138.com,keela.co.kr,jiwootube.com,news.ssongyi.co.kr,xn--wh1b751afvcpsb.com#%#//scriptlet('abort-current-inline-script', 'jQuery.prototype.on', 'is_coupang')
 timecoffee.co.kr,333aaa.site#%#//scriptlet('set-constant', 'pum_vars', 'undefined')

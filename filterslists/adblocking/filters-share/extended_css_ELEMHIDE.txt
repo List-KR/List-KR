@@ -22,8 +22,6 @@ pcmap.place.naver.com#?#div[data-nclicks-area-code] > div[class="place_section"]
 shopping.interpark.com#?#.productSortingList > .listTitle:has(a[aria-describedby^="adLayerChoice"])
 geekorea.com#?#.gb-container > .container-widget:has(ins.adsbygoogle)
 atlantak.com#?#div:is([aria-label="Primary Sidebar"], #home-sidebar) > aside:has(img.image)
-semoi.kr#?##container > div[style*="margin-bottom:"]:has(img[src*="/data/file/ad"])
-semoi.kr#?##aside #ol_before ~ div[style]:not(:has(.tbl_head_lt))
 dprime.kr#?##list_aside div[id^="list_row_"].list_table_row_notice:has(a[href$="?bo_table=notice&sca=%EC%8A%A4%ED%8F%B0%EC%84%9C"])
 i-boss.co.kr#?#.outer-container table[width="100%"] tr:has(td a[data-bd].banner)
 avada.tistory.com#?#.swim-side .module_plugin:has(a[target="_blank"])
