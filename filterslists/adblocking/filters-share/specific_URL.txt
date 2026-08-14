@@ -205,7 +205,7 @@
 ||likeonepiece77.com/wp-content/plugins/bloom/js/custom.js
 ||pigpeople.net/data/banner/
 ||etfcheck.co.kr/assets/img/banner/
-||click.linkprice.com/lpfront/coupang_iframe.php 
+||click.linkprice.com/lpfront/coupang_iframe.php
 ||shopping.interpark.com/resources/js/common/powerLink.js
 ||shopping.interpark.com/static/styles/pages/powerLink.css
 ||shopapi.interpark.com/advertisement/
@@ -341,7 +341,6 @@
 ||disco.re/detail/getAreaAdSale/
 ||thebook.io/img/banners/
 ||inven.co.kr/*/lib/js/zicf*.js
-||blockchainhub.kr/data/apms/background/
 ||inven.co.kr/common/lib/js/ad_$script
 ||isplus.com/data/isp/upload/save/banner/
 ||daumcdn.net/tistory_admin/static/revenue/
