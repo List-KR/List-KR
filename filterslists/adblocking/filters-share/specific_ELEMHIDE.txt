@@ -1232,8 +1232,6 @@ dogdrip.net##div[class^="ddnad"]
 epnc.co.kr,hellot.net##ins.dcmads
 bizwatch.co.kr##[class*="ad_bizwatch_"]
 autopostkorea.com##div[class^="floating_ad_"]
-newreop.com##.app-layout-content > #app-board > .app-board-section > .app-board-container > div[style]:not([class])
-newreop.com##main.app-main > .app-layout-container > .app-layout-content > #app-board > div > div[style]:not([class])
 cuonet.com##div[style~="background-image:"][style*=".cuonet.com/data/apms/background/"].item
 newsfeed.dispatch.co.kr,soxak.com,itwind.co.kr,koreatimes.net##div[id$="-ad"]
 minelist.kr##.content.ad
