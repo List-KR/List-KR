@@ -246,9 +246,6 @@ yna.co.kr##aside[class^="aside-box"]:has(yna-ad-script)
 coupang.com##.ads-line-banner-container
 eyejokerdb.com##div[class$="max-w-[1200px]"].w-full > .rounded-lg
 eyejokerdb.com##next-route-announcer + .flex > div[class$="z-[5]"].relative
-jogemoa.com###container > .banner_list
-jogemoa.com###container > .banner_list ~ div[style^="padding:"]
-jogemoa.com##.popup_wrap
 pizzaalvolo.co.kr##.btn-loginPhone
 instiz.net##.responsive_main > div[id][style*=";min-height:250px;"]
 instiz.net###topfixed ~ div[class]:has(> div[id^="sense"][style])
