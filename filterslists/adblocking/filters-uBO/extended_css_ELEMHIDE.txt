@@ -1,4 +1,5 @@
-! namu.wiki#?#table:has(> tbody > tr > td table a[href^="#s-"]:contains(/^(?:www\.)?(?:[a-z0-9-]+\.)+[a-z]{2,}(?:\/\S*)?$/i)):upward(2):remove()
+namu.wiki##:has(>div>div>div>table img[src='//i.namu.wiki/i/rAG2tySpj971yrKQTz8QTFvbCuc5nD7EVGYFuvyRZ8I.png']):not(:has(>div>div>div>div))
+namu.wiki##:has(>div>div>table img[src='//i.namu.wiki/i/rAG2tySpj971yrKQTz8QTFvbCuc5nD7EVGYFuvyRZ8I.png'])
 namu.wiki#?##_gad_article_top:upward(2):remove()
 m.bunjang.co.kr##main > section:has(> div[class^="_titleContainer_"] > span:has-text(AD))
 lottecinema.co.kr##.main_movie_list .owl-carousel .owl-item:has(> .item > .top_info > .poster_info > .num_info:has-text(AD))
