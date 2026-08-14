@@ -285,7 +285,6 @@
 ||api.smartbaedal.com/web/site/*/ad/
 ||quasarzone.com/banner/display
 ||pennmike.com/script/bannerpop.js
-||jjang0u.com/img/banner_ad_
 ||ssl.pstatic.net/static*/comic/im*/txt_ads_v
 ||medicaltimes.com/Main/images/*AD
 ||newstomato.com/js/adtomato_lib_
@@ -593,7 +592,6 @@
 ||ibjnews.kr/modules//banner/
 ||anewsa.com/master/banner/
 ||kcilbo.com/gears/banner_pds/
-||jjang0u.com/js/jjang_banner.js
 ||sjtoday.kr/upload/userfiles/
 ||hn-morning.com/banner/
 ||hn-morning.com/event/popup.php3

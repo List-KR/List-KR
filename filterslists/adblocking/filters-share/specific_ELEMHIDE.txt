@@ -711,7 +711,6 @@ clien.net##.nav_container > div[id$="_content"][class^="content_"] .section_list
 clien.net##.nav_content > div[id$="_content"][class^="content_"] div[class^="post_"] > div[class^="view_center_"]
 quasarzone.com##div[id^="bidrich-"]
 bera.world,1412.live##div[style].fancybox-type-inline
-jjang0u.com##article[class*="-banner"]
 msearch.shopping.naver.com##div[class^="products_search_list"] div[class^="adProduct_"][id*="lst_"]
 22st.net###googleTop
 meeco.kr##html[class*="mobile"] .list_document li:not([class])
