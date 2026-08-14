@@ -74,7 +74,6 @@ yes24.com#$##mbnRoll_001 > .mbnRollUnit > .pagen_3 { width: 239px !important; le
 yes24.com#$##mbnRoll_001 > .mbnRollUnit > .pagen_4 { width: 240px !important; left: 717px !important; }
 www.naver.com#$#div[class^="Layout-module_"] #newsstand { margin-top: 0px !important; }
 ktestone.com#$#.article-adCover-div { height: 100% !important; }
-semoi.kr#$##bo_ad { display: none !important; }
 chchclub.com#$#.content.partners-wrap { max-height: 100% !important; }
 chchclub.com#$#.partners-wrap #partners { display: none !important; }
 thepumpkin.io#$#.bottomPop { display: none !important; }
