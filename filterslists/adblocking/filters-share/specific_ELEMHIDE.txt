@@ -1504,7 +1504,6 @@ save-1.net##div[id^="float"]
 save-1.net##div[class^="header-banner-"]
 save-1.net##.at-main > .widget-box
 save-1.net##.w-banner
-etorrentro.net##div[id^="banner"]
 1004girl.com##.page-content > .row.no-gap.no-space > .col-33
 img.imimggggg87878.com##div[class$="-banner"]
 linkkf.app###banner
