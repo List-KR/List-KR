@@ -546,8 +546,6 @@ kyobobook.co.kr##div[name="popAdv"]
 gugomah.tistory.com##.poketory_sidebar > b
 web.humoruniv.com###wrap_cnts > div[style*="min-height:"]
 inven.co.kr##.invenbanner
-m.shop.interpark.com##.productListWrapper > .loadWrap
-m.shop.interpark.com##.productListWrapper > .choiceWrap
 shopping.interpark.com##.productListWrap > #idRecommendWrap
 shopping.interpark.com##.AdvertisingList
 shopping.interpark.com###btnlist > #listChoiceScope
