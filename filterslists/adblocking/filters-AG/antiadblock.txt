@@ -3,7 +3,7 @@ asdn.kr,healthfeed.co.kr,bikesell.co.kr,remiz.co.kr,enjoytaiwan.co.kr,poketory.c
 ! #%#//scriptlet('prevent-setTimeout', '/\.displayMessage\(/')
 zuzunza.com,iphonedev.co.kr,tistory.com#%#//scriptlet('prevent-setTimeout', '/\.displayMessage\(/')
 ! BlockAdBlock
-fafan.kr,blog.dalso.org,tistory.com#%#//scriptlet('prevent-bab')
+blog.dalso.org,tistory.com#%#//scriptlet('prevent-bab')
 ! FuckAdBlock
 !#if (adguard_app_windows || adguard_app_mac || adguard_ext_safari)
 x86.co.kr#$?##google_ads { remove: true; }
