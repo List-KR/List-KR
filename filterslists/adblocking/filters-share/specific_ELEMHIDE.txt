@@ -604,7 +604,6 @@ yes24.com##div[id$="_Ad"]
 yes24.com###yWelMid .yWelPubBook
 munhwa.com,kpanews.co.kr##section[class*="_ad"]
 mimint.co.kr###MiMintBottomViewLayer
-jellinggame.com##.popup
 m.ilbe.com##article[id$="_banner"]
 m.inven.co.kr##div[class^="mobileDaNs"]
 atlantak.com###home-sidebar >  a[target="_blank"]
