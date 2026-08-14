@@ -1426,7 +1426,6 @@ kio.ac##main > div:has(> div > div > a > img)
 tvchak.live##.banner-box
 aniya24.com##.popup-container
 blacktoon1.info##div[data-mesh-id="comp-m8jy31rninlineContent"]
-yako.gg##.banner_grid
 v119.com##.zone-right > *:has(~ .no-pd):not(:has(> .tabbox))
 v119.com##.at-boxed .zone-center > .widget-box ~ *
 itrulli.com##div.elementor-widget-shortcode
