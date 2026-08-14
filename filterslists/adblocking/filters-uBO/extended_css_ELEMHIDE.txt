@@ -31,7 +31,6 @@ eggrank.com#?##right-sidebar > .inside-right-sidebar > div[class]:not(:has-text(
 2cpu.co.kr#?#ul > li:has(> a[href^="./ad_board/"]:has-text(광고))
 2cpu.co.kr#?#tr.is_notice:has(span:has-text((광고)))
 arca.live#?#.topbar-area:has(> .badge:has-text(뉴스))
-newreop.com#?#.app-board-section > ul.app-board-template-list > li.notice:has(> a[href] > span > font[color]:has-text(AD))
 ajunews.com#?#.aside_item.banner:has(> h4[style~="font-size:13px;color:#999999;margin:0"]:has-text(AD))
 koreaminecraft.net#?#table.table-divider > tbody > tr.notice:has(> td.title > a > strong[style]:has-text([프리미엄]))
 app.dcinside.com,m.dcinside.com#?#section.gall-lst-group > ul > li:has(> div.detail-top-lnk > a[href*="//addc.dcinside.com/"].lt > span:has-text(AD))
