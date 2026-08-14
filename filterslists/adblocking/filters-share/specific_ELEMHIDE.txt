@@ -756,7 +756,6 @@ bonik.me###banner
 rdsong.com##.entry-content > div[style*="height:"]
 thewordcracker.com##.et_bloom_popup
 wjdqhzld.com##div[id^="wjdqh"]
-search.wemakeprice.com##.search_box_listdeal > .aiplus
 tistory.com,oracionspace.com,poketory.com##.revenue_unit_wrap
 topstarnews.net##div[class^="Ad"]
 news.mt.co.kr##.aside_bundle > div[style*="height:"]
