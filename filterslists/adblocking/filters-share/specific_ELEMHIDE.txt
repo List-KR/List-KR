@@ -420,8 +420,6 @@ newsnjoy.or.kr###article-view.mobile .wrapper > .clearfix
 newsnjoy.or.kr###leftFloat
 tenbizt.com##div[class*="-adsense-"]
 g-enews.*##div[id^="tdn_"][style*="height:"]
-3277532532.reviewtoday.net##*[class*="-coupas-"]
-3277532532.reviewtoday.net##div[class^="Post_post__"] > .text-center:has(ins.adsbygoogle)
 search.naver.com##div[id^="power_link_together_"]
 maple.gg##.container-content div[class*=" "]:has(> div[id^="div-gpt-ad-"]):not(:has(*[class]:not([id])))
 m.10000recipe.com##.sp_pdt_wrap
