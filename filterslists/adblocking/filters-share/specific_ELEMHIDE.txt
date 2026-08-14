@@ -555,8 +555,6 @@ mlbpark.donga.com##.left_cont > div[style^="width:"]
 ruliweb.com##.adrr
 forwarder.kr###aside > div[style^="background-color:"]
 m.sedaily.com###contentArea > div[style^="width:"][id]
-ygosunews.com##.recommended_wrap
-ygosunews.com##.rangking_wrap
 m.ygosu.com###levbar_info ~ .container ~ div[style^="height:"]
 ygosu.com###contain > div[style^="height:"]
 maxmovie.com##div[id^="ad"][class^="ad"][style]
@@ -822,8 +820,8 @@ humoruniv.com###wrap_mdd ~ div[style*="height:"]
 humoruniv.com###wrap_cnts > div[style^="margin:"]
 ibabynews.com###article-view-content-div div[class$="-banner"]
 autopostkorea.com##.tagdiv-type .best_news_wrap_mo
-ygosunews.com,autopostkorea.com##.td-pb-span4.td-main-sidebar
-ygosunews.com,autopostkorea.com##div[class^="adsense_"]
+autopostkorea.com##.td-pb-span4.td-main-sidebar
+autopostkorea.com##div[class^="adsense_"]
 m.boannews.com##section[class^="banner-"]
 newdaily.co.kr###article_conent > div[style].clearfix
 time.navyism.com###navyismMainContainer > div[style] + div:not([style*=" "]):not([id])j
