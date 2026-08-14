@@ -880,7 +880,6 @@ web.humoruniv.com##div[id*="_right_list_"] ~ div[style]
 m.idsn.co.kr###viewConts div[style][id^="articleBody"] + p ~ center
 idsn.co.kr###viewConts div[style][id^="articleBody"]
 fntoday.co.kr##aside.user-aside div[data-direction]#side-scroll-in > .float-center
-fafan.kr###container > div#rightContents > div[style*="height:"]
 haninvegas.com##div[itemprop="mainContentOfPage"].theme-content + aside
 cineaste.co.kr##.container > div[style][id]
 star.ohmynews.com,m.cafe.daum.net,shopping.naver.com,isplus.com##div[id$="Ad"]

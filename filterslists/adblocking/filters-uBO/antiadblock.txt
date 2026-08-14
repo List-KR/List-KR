@@ -3,7 +3,7 @@ asdn.kr,healthfeed.co.kr,bikesell.co.kr,remiz.co.kr,enjoytaiwan.co.kr,poketory.c
 ! ##+js(nostif, /\.displayMessage\(/)
 zuzunza.com,iphonedev.co.kr,tistory.com##+js(nostif, /\.displayMessage\(/)
 ! BlockAdBlock
-fafan.kr,blog.dalso.org,tistory.com##+js(nobab)
+blog.dalso.org,tistory.com##+js(nobab)
 tistory.com##+js(nobab2)
 ! FuckAdBlock
 te31.com,tistory.com##+js(nofab)
