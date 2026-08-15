@@ -143,7 +143,6 @@ ilsangt.tistory.com#@#.adsense-area
 clickmon.co.kr##html *
 uda1004.tistory.com#@#ins.adsbygoogle[data-ad-slot]
 @@||ssl.pstatic.net/tveta/libs/ssp-video/prod/ssp.web.sdk_$script,domain=m.sports.naver.com
-@@||fafan.kr^$genericblock
 @@||poketory.com^$genericblock
 @@||sogirl.so/wp-content/plugins/dh-anti-adblocker/public/js/ads-prebid.js
 plankim.com##body > div:not([class]):not([id])

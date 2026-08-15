@@ -3,7 +3,7 @@ asdn.kr,healthfeed.co.kr,bikesell.co.kr,remiz.co.kr,enjoytaiwan.co.kr,poketory.c
 ! ##+js(nostif, /\.displayMessage\(/)
 zuzunza.com,iphonedev.co.kr,tistory.com##+js(nostif, /\.displayMessage\(/)
 ! BlockAdBlock
-fafan.kr,blog.dalso.org,tistory.com##+js(nobab)
+blog.dalso.org,tistory.com##+js(nobab)
 tistory.com##+js(nobab2)
 ! FuckAdBlock
 te31.com,tistory.com##+js(nofab)
@@ -176,7 +176,6 @@ play.aidungeon.io,tamrieltradecentre.com,downloads.descendant.me,html5.gamedistr
 hasha.in##+js(no-fetch-if, adManager.js)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=hasha.in
 @@||js.wpadmngr.com/static/adManager.js$xmlhttprequest,domain=hasha.in
-||fundingchoicesmessages.google.com^$domain=tv25.co
 lover932.net,lover933.net,lover934.net,lover935.net,lover936.net,lover937.net,lover938.net,lover939.net,lover940.net,lover941.net##+js(nostif, document[_0x)
 !
 ! DOMAIN-REFRESHER: END

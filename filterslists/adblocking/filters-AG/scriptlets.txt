@@ -66,10 +66,9 @@ apycsports.com#%#//scriptlet('abort-current-inline-script', '$.prototype.ready',
 whathappen.co.kr,momkim.co.kr#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 'link.coupang.com')
 momkim.co.kr,yachuk.com#%#//scriptlet('remove-class', 'not_cookie', '*[class*="not_cookie"]')
 yachuk.com#%#//scriptlet('abort-current-inline-script', 'jQuery', 'link.coupang.com')
-semoi.kr#%#//scriptlet('remove-class', 'mheight', '#bo_v_atc.mheight')
 aannm.cafe24.com,beomil09121.cafe24.com#%#//scriptlet('abort-current-inline-script', 'jQuery', 'coupang_dont_show_prompty_interval')
 actingbaum.co.kr,picknpicker.com,moneyissues.co.kr,sotrychatter.com,skysky138.com,keela.co.kr,jiwootube.com,news.ssongyi.co.kr,xn--wh1b751afvcpsb.com#%#//scriptlet('abort-current-inline-script', 'jQuery.prototype.on', 'is_coupang')
-fun-iyagi.co.kr,timecoffee.co.kr,333aaa.site#%#//scriptlet('set-constant', 'pum_vars', 'undefined')
+333aaa.site#%#//scriptlet('set-constant', 'pum_vars', 'undefined')
 inven.co.kr#%#//scriptlet('remove-attr', 'placeholder', '#webzineHeadmenuF1 input[placeholder][autocomplete="off"]')
 hashnews.cafe24.com#%#//scriptlet('abort-on-property-read', 'pum_popups')
 enuri.com#%#//scriptlet('json-prune', 'data.supertopADNos')
@@ -98,7 +97,6 @@ banhub.xyz#%#//scriptlet('remove-class', 'backdrop-blur-lg')
 !
 cokcok.stream#%#//scriptlet('trusted-replace-node-text', 'script', '/const *_[a-z0-9]+ *= *{ *"media_file" *: *" *https:\\\/\\\/cdn[0-9]+\.cokcok\.[a-z0-9]+\\\/assets\\\/videos\\\/.+"click_through" *:.+};/', 'media_file', '')
 [$domain=/lover[0-9]\.net/]#%#//scriptlet('prevent-addEventListener', 'click', 'popMagic')
-zzzz.lol#%#//scriptlet('prevent-setInterval', 'animationEffects[settings.animation.effect]')
 [$domain=/lover[0-9]\.net/]#%#//scriptlet('adjust-setTimeout', 'closeBtn.innerHTML', '*', '0.001')
 !
 ! DOMAIN-REFRESHER: END

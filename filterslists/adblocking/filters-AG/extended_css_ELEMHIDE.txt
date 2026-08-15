@@ -15,13 +15,11 @@ pedia.watcha.com#?#section[class^="css-"] section[class^="css-"] > [class^="css-
 eomisae.co.kr#?#._listA tr.notice:has(span[style]:contains(AD))
 bonik.me#?##sidebar > .module:contains(Ad)
 msearch.wemakeprice.com#?#article[data-list-container="searchList"] li:has(span:contains(AD).gray_round_badge)
-search.wemakeprice.com#?#.search_box_listdeal > .list_conts_wrap:has(span:contains(AD).round_badge)
 eomisae.co.kr#?#main#main .eq.section #bd table tr:has(.no ~ .title span:contains([AD]))
 koreatimes.net#?#.container .recent_news_inner:has(> h3:contains(AD))
 ypbooks.co.kr#?#.section-intro > .m-latest-renew:has(h3:contains(오늘의 책))
 ypbooks.co.kr#?#.section-intro > .m-latest-renew:has(h3:contains(MD 추천도서))
 ypbooks.co.kr#?#div[style]#cenArea > h2[style]:contains(오늘의 책)
-alltimelegend.net#?#section > div[class*=" "]:has(ins.adsbygoogle, a[href][target="_blank"][referrerpolicy="unsafe-url"])
 m.yna.co.kr#?##container aside[class^="aside-"]:has(ul[id^="ad"], iframe:matches-css(display: none))
 hogangnono.com#?#.offer-container > .suggestion-item:has(a[href="#"] > span:contains(광고))
 dailymedipharm.com#?#table:has(> tbody > tr > td:contains(bannerManager):not(:has(> *)))
@@ -30,7 +28,6 @@ eggrank.com#?##right-sidebar > .inside-right-sidebar > div[class]:not(:contains(
 2cpu.co.kr#?#ul > li:has(> a[href^="./ad_board/"]:contains(광고))
 2cpu.co.kr#?#tr.is_notice:has(span:contains((광고)))
 arca.live#?#.topbar-area:has(> .badge:contains(뉴스))
-newreop.com#?#.app-board-section > ul.app-board-template-list > li.notice:has(> a[href] > span > font[color]:contains(AD))
 ajunews.com#?#.aside_item.banner:has(> h4[style~="font-size:13px;color:#999999;margin:0"]:contains(AD))
 koreaminecraft.net#?#table.table-divider > tbody > tr.notice:has(> td.title > a > strong[style]:contains([프리미엄]))
 app.dcinside.com,m.dcinside.com#?#section.gall-lst-group > ul > li:has(> div.detail-top-lnk > a[href*="//addc.dcinside.com/"].lt > span:contains(AD))
@@ -56,7 +53,6 @@ m.bunjang.co.kr#?#div:has(> div > div > div:contains(연관상품) > div:has(> d
 !
 ! DOMAIN-REFRESHER: START
 !
-img.imimggggg87878.com#?#a[target="_blank"][href^="http://"].menu-a:contains(보증토토)
 frtoon220.com,frtoon221.com,frtoon222.com,frtoon223.com,frtoon224.com,frtoon225.com,frtoon226.com,frtoon227.com,frtoon228.com,frtoon229.com,frtoon230.com,frtoon231.com,frtoon232.com,frtoon233.com#?#.alert-danger.container:contains([AD])
 hdhd344.net,hdhd345.net,hdhd346.net,hdhd347.net,hdhd348.net,hdhd349.net,hdhd350.net,hdhd351.net,hdhd352.net,hdhd353.net,hdhd354.net,hdhd355.net,hdhd356.net,hdhd357.net,hdhd358.net#?#.menu-ul > .menu-li:has(> a:contains(보증토토))
 [$domain=/blacktoon[0-9]+\.com/]#?#.alert.alert-danger:has(> a:contains([AD]))

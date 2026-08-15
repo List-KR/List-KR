@@ -192,8 +192,8 @@
 ||msearch.shopping.naver.com/api/search/reactiveSearchAd
 ||recipe1.ezmember.co.kr/ad/img/
 ||slrclub.com/bbs/*.php*slrclub.ch*keyword*&callback=
-||static.coupangcdn.com/image/$domain=lifedesk.co.kr|eanews.kr
-||ehom.kr/banner/$domain=lifedesk.co.kr|eanews.kr
+||static.coupangcdn.com/image/$domain=eanews.kr
+||ehom.kr/banner/$domain=eanews.kr
 ||catnews.net/data/mtopbanner/
 ||catnews.net/img/banner/banner
 ||catnews.net/bbs/img/banner
@@ -205,7 +205,7 @@
 ||likeonepiece77.com/wp-content/plugins/bloom/js/custom.js
 ||pigpeople.net/data/banner/
 ||etfcheck.co.kr/assets/img/banner/
-||click.linkprice.com/lpfront/coupang_iframe.php 
+||click.linkprice.com/lpfront/coupang_iframe.php
 ||shopping.interpark.com/resources/js/common/powerLink.js
 ||shopping.interpark.com/static/styles/pages/powerLink.css
 ||shopapi.interpark.com/advertisement/
@@ -248,8 +248,6 @@
 ||thepumpkin.io/wp-content/uploads/*/length
 ||thepumpkin.io/wp-content/uploads/*/width
 ||economist.co.kr/data/ecn/upload/save/popup/
-||semoi.kr/data/file/ad
-||deliverypoint.co.kr/data/file/ad
 ||m.ytn.co.kr/img/etc/btn_ad_close.png
 ||cdn.ppomppu.co.kr/zboard/data*/banner/
 ||i.ibb.co/*/$domain=rgy0409.tistory.com
@@ -289,7 +287,6 @@
 ||api.smartbaedal.com/web/site/*/ad/
 ||quasarzone.com/banner/display
 ||pennmike.com/script/bannerpop.js
-||jjang0u.com/img/banner_ad_
 ||ssl.pstatic.net/static*/comic/im*/txt_ads_v
 ||medicaltimes.com/Main/images/*AD
 ||newstomato.com/js/adtomato_lib_
@@ -341,7 +338,6 @@
 ||disco.re/detail/getAreaAdSale/
 ||thebook.io/img/banners/
 ||inven.co.kr/*/lib/js/zicf*.js
-||blockchainhub.kr/data/apms/background/
 ||inven.co.kr/common/lib/js/ad_$script
 ||isplus.com/data/isp/upload/save/banner/
 ||daumcdn.net/tistory_admin/static/revenue/
@@ -499,8 +495,6 @@
 ||pds.dailypharm.com/ADManager_
 ||vod.dailypharm.com/tv_AdVOD/
 ||dailypharm.com/Users/Event/
-||drapt.com/banner/
-||drapt.com/index/img/*_bnn
 ||realty.chosun.com/RealtyCommon/
 ||gameinsight.co.kr/banner/
 ||gameinsight.co.kr/Autobox/
@@ -554,7 +548,6 @@
 ||ssl.pstatic.net/static/kin/*/promotion/main/
 ||dqwc99gnfppi1.cloudfront.net/media/banner/
 ||loader.fmkorea.com//_loader/
-||image.alltimelegend.net/ad/
 ||kayak.co.kr/ads/dfp/*/ads.js|
 ||image.hogangnono.com/image/nowatermark/original/ad/
 ||d29dbfyawlamz6.cloudfront.net/media/ad/
@@ -600,7 +593,6 @@
 ||ibjnews.kr/modules//banner/
 ||anewsa.com/master/banner/
 ||kcilbo.com/gears/banner_pds/
-||jjang0u.com/js/jjang_banner.js
 ||sjtoday.kr/upload/userfiles/
 ||hn-morning.com/banner/
 ||hn-morning.com/event/popup.php3
@@ -715,8 +707,6 @@
 ||ssl.pstatic.net/melona/libs/
 ||images.coocha.co.kr/static/images/deal/ad.png
 ||ilbe.com/oa/loader.js
-||playwares.com/api/redirectAd.php$document
-/^https?:\/\/playwares\.com\/files\/attach\/images\/[0-9]{8}\/[0-9]{3}\/[0-9]{3}\/[0-9]{3}\/[a-z0-9]{32}\./$domain=playwares.com
 ||kormedi.com/wp-content/uploads/ads/
 /^https:\/\/shop[0-9]\.daumcdn\.net\/shophow\/sib\/[0-9]_[0-9]{12}_[A-z]{10,}/
 /^https:\/\/image[0-9]{1,2}\.compuzone\.co\.kr\/img\/images\/main[0-9]{4}\/[A-z]{1,2}\/[A-z]{3,}Banner(|[0-9])_(|add_)[0-9]{5,6}\./$domain=compuzone.co.kr
@@ -753,8 +743,6 @@
 ||dcinside.com/_js/ad.js
 ||prod.danawa.com/info/ajax/getPowerClickProductList.ajax.php
 ||image.ichannela.com/images/common/shinhan_
-||entertainpost.com/wp/wp-content/uploads/newPS/ad/
-||entertainpost.com/wp/wp-content/uploads/newPS/css/sub/right_ad.css
 ||res.sooplive.com/script/da/af_da_block.js
 ||res.sooplive.com/script/da/ad_check.js
 ||hankyung.com/resource/js/*/view.ads.js
@@ -835,7 +823,6 @@
 ||itcm.co.kr/files/thumbnails
 ||adshort.co/toolfp.js
 ||knowledgepower.co.kr/uploads/cpcbanner/
-||img.entertainpost.com/uploads/someblossom/$domain=postshare.co.kr
 ||img.postshare.co.kr/images/banner/
 ||image.ruliweb.com/view/view.js?zoneid=
 ||vogue.co.kr/wp-content/plugins/wppas/
@@ -903,7 +890,6 @@
 /https:\/\/tvwiki[0-9]+\.com\/data\/banner\//$domain=/tvwiki[0-9]+\.com/
 /^https:\/\/(www\.)?aniya24\.com\/wp-content\/uploads\/[0-9]+\/[0-9]+\/[a-z]+[0-9]+x[0-9]+\./$domain=aniya24.com
 ||aniya24.com/wp-content/uploads/*.gif
-||sutom.org/wp-content/uploads/*.webp
 ||nooo*.tv/theme/basic_player/img/banner/
 ||blogger.googleusercontent.com/img/$domain=yasyadong.*
 .gif^$image,domain=itrulli.com
@@ -997,7 +983,6 @@
 ||filesbest.xyz/uploadfile/images/*.gif$domain=/^torrenttip[0-9]+\.com/
 /^https:\/\/(www\.)?bobaelink[0-9]+\.xyz\/images\/ad\//
 ||i.uuoobe.com/images/250x250-6005.jpg
-/\/data\/zzapstream\/[0-9]+_[A-z0-9]+\.gif/$domain=zzzz.lol
 ||i.uuoobe.com//ad/
 /^https:\/\/(www\.)?filetender\.com\/images\/(?!logo).+\.(jpg|png)$/$domain=filetender.com
 /^https:\/\/m[0-9]+\.kotbc\.com\/img\/[a-z0-9_\/]+\.gif$/
@@ -1019,7 +1004,7 @@
 ||save-1.net/thema/Save1/widget/miso-top-banner/topbar.js
 /^https:\/\/img\.cdnfor\.me\/images\/[0-9]+\/[0-9]+\/[0-9]+\/[a-z0-9_-]+\./$domain=save-1.net
 /^https:\/\/cdn-nl-[0-9]+\.hasha\.in\/[A-z0-9_]+\.gif$/$domain=hasha.in
-||jusotop.com/b/$domain=yatv.net|yadongtube.net|yadongkorea.red|yadongwang.org|yako.red
+||jusotop.com/b/$domain=yadongtube.net|yadongkorea.red|yako.red
 /^https:\/\/jgmoa[0-9]+\.com\/upload_files\/popup\//
 /^https:\/\/manatoki[0-9]+\.net\/tokinbtoki\//
 ||imgsuperpower.com^$domain=/^tkr[0-9]+\.com/
@@ -1028,7 +1013,6 @@
 /^https:\/\/static\.tzstatic\.top\/t\/[a-z0-9]+\.gif$/
 /^https:\/\/image\.yaburi[0-9]+\.com\/image-storage\/banners\//
 /^https:\/\/w[0-9]+\.torrentnx[0-9]+\.com\/data\/file\/notice\//$domain=/^torrentnx[0-9]+\.com/
-||i.imgur.com^$domain=etorrentro.net
 /^https:\/\/imgcloud[0-9]+\.net\//$domain=/^wftoon[0-9]+\.com/
 /^https:\/\/torrentten[0-9]+\.com\/thema\/Basic\/assets\/img\/.+\.gif$/
 /^https:\/\/linkrand[0-9]+\.com\/thema\/Miso-Basic\d\/assets\/img\/banne/
@@ -1039,8 +1023,6 @@
 /^https:\/\/ydbox[0-9]+\.com\/data\/apms\/background\/.+\.gif$/
 /^https:\/\/nightyd[0-9]+\.com\/uploadfile\/up[a-z0-9]+\./
 /^https:\/\/linkeye[0-9]+\.com\/data\/file\/banner\//
-||static.springbuilder.site/fs/userFiles-v2/$domain=img.imimggggg87878.com
-||i.imgur.com^$domain=img.imimggggg87878.com
 ||hellven.net/data/apms/imgb/
 ||toonthe.com/img/banner/
 /^https:\/\/hohotoon[0-9]+\.com\/data\/banner\//
