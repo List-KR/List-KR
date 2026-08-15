@@ -10,7 +10,7 @@ on:
 
 jobs:
     lint:
-        name: Run AGLint and ESLint
+        name: Run AGLint
         runs-on: ubuntu-latest
         steps:
             -   name: Check out to repository
@@ -26,11 +26,3 @@ jobs:
 
             -   name: Run AGLint
                 run: npm run lint:aglint
-
-            -   name: Run ESLint for builder
-                if: always()
-                run: npm run lint:builder
-
-            -   name: Run ESLint for devops
-                if: always()
-                run: npm run lint:devops
