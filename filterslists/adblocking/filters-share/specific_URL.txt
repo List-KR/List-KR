@@ -823,7 +823,6 @@
 ||itcm.co.kr/files/thumbnails
 ||adshort.co/toolfp.js
 ||knowledgepower.co.kr/uploads/cpcbanner/
-||img.entertainpost.com/uploads/someblossom/$domain=postshare.co.kr
 ||img.postshare.co.kr/images/banner/
 ||image.ruliweb.com/view/view.js?zoneid=
 ||vogue.co.kr/wp-content/plugins/wppas/
