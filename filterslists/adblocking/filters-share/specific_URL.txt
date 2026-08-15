@@ -548,7 +548,6 @@
 ||ssl.pstatic.net/static/kin/*/promotion/main/
 ||dqwc99gnfppi1.cloudfront.net/media/banner/
 ||loader.fmkorea.com//_loader/
-||image.alltimelegend.net/ad/
 ||kayak.co.kr/ads/dfp/*/ads.js|
 ||image.hogangnono.com/image/nowatermark/original/ad/
 ||d29dbfyawlamz6.cloudfront.net/media/ad/
