@@ -1,5 +1,3 @@
-import * as fs from "node:fs";
-
 export type AdblockType = "AdGuard" | "uBlockOrigin"
 
 export type FiltersListsConfigEntry = {
@@ -41,8 +39,8 @@ function asAdblockType(v: unknown): AdblockType {
     return v;
 }
 
-export function loadFiltersListsConfig(configPath: string): FiltersListsConfig {
-    const raw = JSON.parse(fs.readFileSync(configPath, "utf-8")) as unknown;
+export async function loadFiltersListsConfig(configPath: string): Promise<FiltersListsConfig> {
+    const raw = JSON.parse(await Bun.file(configPath).text()) as unknown;
     if (typeof raw !== "object" || raw === null || !Array.isArray((raw as { definitions?: unknown }).definitions)) {
         throw new Error("Config must be an object with a \"definitions\" array");
     }

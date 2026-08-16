@@ -1,4 +1,4 @@
-export type UnifiedExternalSourceAdblockType = "AdGuard" | "uBlockOrigin"
+import type {AdblockType} from "./config";
 
 export type UnifiedExternalSource = {
     name: string
@@ -78,7 +78,7 @@ function buildUAssetsFilterSources(files: string[]): UnifiedExternalSource[] {
     }));
 }
 
-export function getUnifiedExternalSourceUrls(type: UnifiedExternalSourceAdblockType): UnifiedExternalSource[] {
+export function getUnifiedExternalSourceUrls(type: AdblockType): UnifiedExternalSource[] {
     const tracking = [
         ...buildAdGuardSectionSources("SpywareFilter", "AdGuard Tracking Protection", adGuardTrackingProtectionSections),
         ...buildAdGuardSectionSources("TrackParamFilter", "AdGuard URL Tracking", adGuardUrlTrackingSections)

@@ -1,23 +1,23 @@
 {
-    "name": "@list-kr/filterslists",
-    "version": "0.0.0",
-    "description": "The adblock filters lists for uBO and AdGuard, designed for Korean-language websites",
-    "type": "module",
-    "scripts": {
-        "build": "bun run src/build.ts",
-        "lint": "aglint \"filterslists/**/*.txt\""
-    },
-    "files": [
-        "dist/**/*"
-    ],
-    "repository": "github:List-KR/List-KR",
-    "license": "GPL-3.0-only",
-    "devDependencies": {
-        "@adguard/aglint": "^4.0.0-beta.5",
-        "@adguard/agtree": "^4.2.1",
-        "@types/bun": "^1.3.14"
-    },
-    "peerDependencies": {
-        "typescript": "^7.0.2"
-    }
+  "name": "@list-kr/filterslists",
+  "version": "2026.228.48614540",
+  "description": "The adblock filters lists for uBO and AdGuard, designed for Korean-language websites",
+  "type": "module",
+  "scripts": {
+    "build": "bun run src/build.ts",
+    "lint": "aglint \"filterslists/**/*.txt\""
+  },
+  "files": [
+    "dist/**/*"
+  ],
+  "repository": "github:List-KR/List-KR",
+  "license": "GPL-3.0-only",
+  "devDependencies": {
+    "@adguard/aglint": "^4.0.0-beta.5",
+    "@adguard/agtree": "^4.2.1",
+    "@types/bun": "^1.3.14"
+  },
+  "peerDependencies": {
+    "typescript": "^7.0.2"
+  }
 }

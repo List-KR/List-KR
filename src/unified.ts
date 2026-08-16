@@ -1,5 +1,4 @@
-import * as fs from "node:fs";
-import * as path from "node:path";
+import path from "node:path";
 import * as AGTree from "@adguard/agtree";
 import type {AdblockType, FiltersListsConfigEntry} from "./config";
 import {getUnifiedExternalSourceUrls, type UnifiedExternalSource} from "./unifiedSources";
@@ -20,6 +19,8 @@ const networkHostTerminatingChars = new Set([
     "]",
     "\\"
 ]);
+
+const FETCH_TIMEOUT_MS = 60_000;
 
 const parserOptions: AGTree.ParserOptions = {
     ...AGTree.defaultParserOptions,
@@ -149,7 +150,7 @@ export async function loadUnifiedExternalRules(
 
     for (const def of unifiedDefs) {
         const domainListPath = path.resolve(filtersListDir, def.unifiedDomainListFileName);
-        const domains = parseUnifiedDomains(fs.readFileSync(domainListPath, "utf-8"));
+        const domains = parseUnifiedDomains(await Bun.file(domainListPath).text());
         const rules: AGTree.AnyRule[] = [];
 
         if (domains.size === 0) {
@@ -184,7 +185,7 @@ async function loadParsedExternalSource(
     if (cached) return cached;
 
     console.log(`[unified] downloading ${source.name} from ${source.url}`);
-    const res = await fetch(source.url, {signal: AbortSignal.timeout(60000)});
+    const res = await fetch(source.url, {signal: AbortSignal.timeout(FETCH_TIMEOUT_MS)});
     if (!res.ok) throw new Error(`Failed to download ${source.url}: HTTP ${res.status}`);
     const body = await res.text();
     const errors: unknown[] = [];

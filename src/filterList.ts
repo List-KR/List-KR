@@ -1,13 +1,12 @@
-import * as fs from "node:fs";
-import * as path from "node:path";
+import path from "node:path";
 import * as AGTree from "@adguard/agtree";
 import type {FiltersListsConfigEntry} from "./config";
 import type {UnifiedExternalRulesByAdblockType} from "./unified";
 
 const parseOptions: AGTree.ParserOptions = {parseUboSpecificRules: true};
 
-export function parseFilterList(filePath: string): AGTree.FilterList {
-    return AGTree.FilterListParser.parse(fs.readFileSync(filePath, "utf-8"), parseOptions);
+export async function parseFilterList(filePath: string): Promise<AGTree.FilterList> {
+    return AGTree.FilterListParser.parse(await Bun.file(filePath).text(), parseOptions);
 }
 
 export function stringifyFilterList(list: AGTree.FilterList): string {
@@ -33,8 +32,8 @@ export function stringifyFilterList(list: AGTree.FilterList): string {
     return out;
 }
 
-export function isProcessable(filePath: string): boolean {
-    const tree = AGTree.FilterListParser.parse(fs.readFileSync(filePath, "utf-8"), parseOptions);
+export async function isProcessable(filePath: string): Promise<boolean> {
+    const tree = AGTree.FilterListParser.parse(await Bun.file(filePath).text(), parseOptions);
     return tree.children.some(
         c => typeof c.category === "string" && c.category !== "Empty" && c.category !== "Comment"
     );
@@ -49,11 +48,11 @@ function isPreProcessorCommentRule(f: AGTree.AnyRule): f is AGTree.PreProcessorC
     return f.type === "PreProcessorCommentRule";
 }
 
-export function bundleIncludes(
+export async function bundleIncludes(
     list: AGTree.FilterList,
     filtersListDir: string,
     processableCache: Map<string, boolean>
-): AGTree.FilterList {
+): Promise<AGTree.FilterList> {
     const out: AGTree.AnyRule[] = [];
     for (const f of list.children) {
         if (!isPreProcessorCommentRule(f) || f.name.value !== "include" || !f.params || f.params.type !== "Value") {
@@ -62,7 +61,7 @@ export function bundleIncludes(
         }
         const includePath = path.resolve(filtersListDir, f.params.value);
         if (!processableCache.get(includePath)) continue;
-        const included = bundleIncludes(parseFilterList(includePath), filtersListDir, processableCache);
+        const included = await bundleIncludes(await parseFilterList(includePath), filtersListDir, processableCache);
         out.push(...included.children);
     }
     return {...list, children: out};
@@ -76,7 +75,7 @@ export function buildHeader(entry: FiltersListsConfigEntry, now = new Date()): s
         `! Last modified: ${now.toISOString()}`,
         `! Expires: ${entry.expireDuration} ${expiresLabel} (update frequency)`,
         `! Homepage: ${entry.homepageUrl}`,
-        `! Licence: ${entry.licenseUrl}`,
+        `! License: ${entry.licenseUrl}`,
         ""
     ].join("\n");
 }
@@ -101,16 +100,15 @@ export async function buildDefinition(
     externalRules: UnifiedExternalRulesByAdblockType
 ): Promise<string> {
     const defPath = path.resolve(filtersListDir, entry.definitionFileName);
-    const parsed = parseFilterList(defPath);
+    const parsed = await parseFilterList(defPath);
     const bundled = appendUnifiedExternalRules(
-        bundleIncludes(parsed, filtersListDir, processableCache),
+        await bundleIncludes(parsed, filtersListDir, processableCache),
         entry,
         externalRules
     );
     const header = buildHeader(entry);
     const body = header + stringifyFilterList(bundled);
     const outPath = path.resolve(outputDir, entry.definitionFileName);
-    await fs.promises.mkdir(outputDir, {recursive: true});
     await Bun.write(outPath, body);
     return outPath;
 }
