@@ -3,7 +3,6 @@
     "version": "0.0.0",
     "description": "The adblock filters lists for uBO and AdGuard, designed for Korean-language websites",
     "type": "module",
-    "packageManager": "pnpm@11.21.0",
     "scripts": {
         "build": "tsx src/build.ts",
         "lint": "aglint \"filterslists/**/*.txt\""
