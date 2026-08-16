@@ -1,177 +1,70 @@
 name: Publish and Deploy
 
 on:
-  push:
-    branches: [ master ]
-  schedule:
-    - cron: "*/25 * * * *"
-  workflow_dispatch:
-    inputs:
-      force_run:
-        description: Force should_run=true and bypass cooldown check
-        required: false
-        default: 'false'
-        type: choice
-        options:
-          - 'false'
-          - 'true'
+    push:
+        branches: [ master ]
+    workflow_dispatch:
 
 concurrency:
-  group: publish-and-deploy
-  cancel-in-progress: false
+    group: publish-and-deploy
+    cancel-in-progress: false
 
 jobs:
-  check:
-    name: Check whether build should run
-    runs-on: ubuntu-latest
-    permissions:
-      actions: read
-      contents: read
-    outputs:
-      should_run: ${{ steps.check.outputs.should_run }}
-      matched_run_id: ${{ steps.check.outputs.matched_run_id }}
-      matched_time: ${{ steps.check.outputs.matched_time }}
-      blocked_by_run_id: ${{ steps.check.outputs.blocked_by_run_id }}
-      blocked_by_job: ${{ steps.check.outputs.blocked_by_job }}
-      external_source_changed: ${{ steps.check.outputs.external_source_changed }}
-      matched_external_source_name: ${{ steps.check.outputs.matched_external_source_name }}
-      matched_external_source_url: ${{ steps.check.outputs.matched_external_source_url }}
-      matched_external_source_modified_at: ${{ steps.check.outputs.matched_external_source_modified_at }}
-      next_package_version: ${{ steps.check.outputs.next_package_version }}
-      changed_definition_file_names: ${{ steps.check.outputs.changed_definition_file_names }}
-      changed_output_paths: ${{ steps.check.outputs.changed_output_paths }}
-      manifest_available: ${{ steps.check.outputs.manifest_available }}
-      definition_versions_json: ${{ steps.check.outputs.definition_versions_json }}
-    steps:
-      - name: Check out to repository
-        uses: actions/checkout@v6
+    lint:
+        name: Run AGLint
+        runs-on: ubuntu-latest
+        permissions:
+            contents: read
+        steps:
+            -   name: Check out to repository
+                uses: actions/checkout@v7
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v6
-        with:
-          node-version: 'lts/*'
+            -   name: Set up Bun
+                uses: oven-sh/setup-bun@v2
 
-      - name: Install pnpm
-        run: npm install -g pnpm
+            -   name: Install dependencies
+                run: bun install
 
-      - name: Set pnpm store-dir path
-        run: mkdir -p ~/.pnpm-store && pnpm config set store-dir ~/.pnpm-store
+            -   name: Run AGLint
+                run: bun run lint
 
-      - name: Install dependencies
-        run: pnpm install --no-lockfile
+    build:
+        name: Build and Publish to npm
+        needs: lint
+        runs-on: ubuntu-latest
+        permissions:
+            contents: read
+            id-token: write
+        steps:
+            -   name: Check out to repository
+                uses: actions/checkout@v7
 
-      - name: Decide whether build should run
-        id: check
-        shell: bash
-        env:
-          GH_TOKEN: ${{ github.token }}
-          REPO: ${{ github.repository }}
-          WORKFLOW_FILE: npm.yml
-          TARGET_JOB_NAME: "Build and Publish to npm"
-          MIN_SECONDS: "3600"
-          CURRENT_RUN_ID: ${{ github.run_id }}
-          FORCE_RUN: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.force_run == 'true' }}
-          EVENT_NAME: ${{ github.event_name }}
-          UNIFIED_CONFIG_FILE: filterslists/filterslists.config.json
-        run: npm run ci:decideDeploy -w devops
-          
-  prepare:
-    name: Print decision info
-    needs: check
-    if: needs.check.outputs.should_run == 'true'
-    runs-on: ubuntu-slim
-    permissions:
-      contents: none
-    steps:
-      - name: Print decision info
-        run: |
-          echo "Matched run id: ${{ needs.check.outputs.matched_run_id }}"
-          echo "Matched time:   ${{ needs.check.outputs.matched_time }}"
-          echo "Blocked by run id: ${{ needs.check.outputs.blocked_by_run_id }}"
-          echo "Blocked by job: ${{ needs.check.outputs.blocked_by_job }}"
-          echo "External source changed: ${{ needs.check.outputs.external_source_changed }}"
-          echo "Matched external source name: ${{ needs.check.outputs.matched_external_source_name }}"
-          echo "Matched external source url: ${{ needs.check.outputs.matched_external_source_url }}"
-          echo "Matched external source modified at: ${{ needs.check.outputs.matched_external_source_modified_at }}"
-          echo "Next package version: ${{ needs.check.outputs.next_package_version }}"
-          echo "Manifest available: ${{ needs.check.outputs.manifest_available }}"
-          echo 'Changed definitions: ${{ needs.check.outputs.changed_definition_file_names }}'
-          echo 'Changed outputs: ${{ needs.check.outputs.changed_output_paths }}'
-  lint:
-    name: Run AGLint
-    needs: prepare
-    runs-on: ubuntu-latest
-    permissions:
-      contents: read
-    steps:
-      - name: Check out to repository
-        uses: actions/checkout@v6
+            -   name: Set up Bun
+                uses: oven-sh/setup-bun@v2
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v6
-        with:
-          node-version: 'lts/*'
+            -   name: Set up Node.js for npm publish
+                uses: actions/setup-node@v7
+                with:
+                    node-version: latest
 
-      - name: Install pnpm
-        run: npm install -g pnpm
+            -   name: Install dependencies
+                run: bun install
 
-      - name: Set pnpm store-dir path
-        run: mkdir -p ~/.pnpm-store && pnpm config set store-dir ~/.pnpm-store
+            -   name: Build
+                run: bun run build
 
-      - name: Install dependencies
-        run: pnpm install --no-lockfile
+            -   name: Publish to npm
+                run: npm publish
 
-      # If the linter found any errors, it will exit with a non-zero code,
-      # which will cause the job to fail
-      - name: Run AGLint
-        run: npm run lint:aglint
-  build:
-    name: Build and Publish to npm
-    needs: [lint, check]
-    runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      id-token: write
-    steps:
-      - name: Set up Node.js
-        uses: actions/setup-node@v6
-        with:
-          node-version: 'lts/*'
-          registry-url: 'https://registry.npmjs.org'
-      - name: Check out to repository
-        uses: actions/checkout@v6
-      - name: Install pnpm
-        run: npm install -g pnpm
-      - name: Set pnpm store-dir path
-        run: mkdir -p ~/.pnpm-store && pnpm config set store-dir ~/.pnpm-store
-      - name: Install dependencies
-        run: pnpm install --no-lockfile
-      - name: Build
-        env:
-          FILTERSLISTS_NEXT_PACKAGE_VERSION: ${{ needs.check.outputs.next_package_version }}
-          FILTERSLISTS_DEFINITION_VERSIONS_JSON: ${{ needs.check.outputs.definition_versions_json }}
-        run: npm run build
-      - name: Apply new version to package.json
-        env:
-          FILTERSLISTS_NEXT_PACKAGE_VERSION: ${{ needs.check.outputs.next_package_version }}
-        run: npm run ci:applyPackageJson -w devops
-      - name : Publish to npm
-        run: npm publish --tag latest --access public
-  purge:
-    name: Purge jsdelivr cache
-    runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      actions: read
-    steps:
-      - name: Set up NodeJS LTS
-        uses: actions/setup-node@v6
-        with:
-          node-version: 'lts/*'
-      - name: Purge jsdelivr cache
-        uses: FilteringDev/jsdelivr-purge-npm@0bee790e911f359243cd8d98cd87f6bbbc879e80
-        with:
-          package: '@list-kr/filterslists'
-          disttag: 'latest'
-    needs: build
-  
+    purge:
+        name: Purge jsdelivr cache
+        needs: build
+        runs-on: ubuntu-latest
+        permissions:
+            contents: read
+        steps:
+            -   name: Purge jsdelivr cache
+                uses: FilteringDev/jsdelivr-purge-npm@0bee790e911f359243cd8d98cd87f6bbbc879e80
+                with:
+                    package: @list-kr/filterslists
+                    disttag: latest
