@@ -57,6 +57,7 @@ eegosa.com##section[id*="_ads_"]
 ! ##div[id*="_AD"]
 sports.donga.com##div[id*="_AD"]
 
+cctimes.kr###adbay_floatingid
 m.danawa.com##.banner_ajungdang
 m.danawa.com##.box__tooltip-internet
 m.bunjang.co.kr##main > div[class^="_container_"] + section:has(> span[class*="_adTitle_"])
