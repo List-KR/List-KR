@@ -1,29 +1,24 @@
 {
-  "name": "@list-kr/filterslists",
-  "version": "0.0.0",
-  "description": "The adblock filters lists for uBO and AdGuard, designed for Korean-language websites",
-  "type": "module",
-  "workspaces": [
-    "builder",
-    "filterslists",
-    "devops"
-  ],
-  "scripts": {
-    "build": "npm run build -w builder",
-    "ci:decideDeploy": "npm run ci:decideDeploy -w devops",
-    "lint:aglint": "npm run lint -w filterslists",
-    "lint:builder": "npm run lint -w builder",
-    "lint:devops": "npm run lint -w devops"
-  },
-  "files": [
-    "dist/**/*"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/List-KR/List-KR.git"
-  },
-  "engines": {
-    "node": ">=24"
-  },
-  "license": "GPL-3.0-only"
+    "name": "@list-kr/filterslists",
+    "version": "0.0.0",
+    "description": "The adblock filters lists for uBO and AdGuard, designed for Korean-language websites",
+    "type": "module",
+    "packageManager": "pnpm@11.21.0",
+    "scripts": {
+        "build": "tsx src/build.ts",
+        "lint": "aglint \"filterslists/**/*.txt\""
+    },
+    "files": [
+        "dist/**/*"
+    ],
+    "repository": "github:List-KR/List-KR",
+    "license": "GPL-3.0-only",
+    "devDependencies": {
+        "@adguard/aglint": "^4.0.0-beta.5",
+        "@adguard/agtree": "^4.2.1",
+        "@types/node": "^26.2.0",
+        "tsx": "^4.23.12",
+        "typescript": "^7.0.2"
+    },
+    "packageManager": "pnpm@11.22.0"
 }

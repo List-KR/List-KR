@@ -2,5 +2,32 @@
 root: true
 extends:
   - aglint:recommended
-syntax:
-  - Common
+rules:
+  no-unsupported-css-pseudo-class:
+    - error
+    - fuzzyThreshold: 0.6
+      additionalSupportedExtCssPseudoClasses:
+        - -abp-contains
+        - -abp-has
+        - contains
+        - has-text
+        - if
+        - if-not
+        - matches-attr
+        - matches-css
+        - matches-css-after
+        - matches-css-before
+        - matches-media
+        - matches-path
+        - matches-prop
+        - matches-property
+        - min-text-length
+        - nth-ancestor
+        - others
+        - remove
+        - remove-attr
+        - remove-class
+        - style
+        - upward
+        - watch-attr
+        - xpath
