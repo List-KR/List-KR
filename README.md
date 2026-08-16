@@ -30,39 +30,14 @@ List-KR filters list Unified 버전은 일반 필터 리스트들(List-KR filter
 사용하시는 광고 차단기에 아래 URL로 List-KR을 추가할 수 있습니다.
 
 > [!IMPORTANT]
-> List-KR 필터 리스트는 **오직** AdGuard와 uBlock Origin만 지원합니다. 사용자에 의해 다른 애드블록에 추가된다고 한들 예상된 작동은 커녕 오작동을 불러올 수 있습니다. 관련된 요청은 무시되고 닫힙니다.
+> List-KR은 **오직** AdGuard와 uBlock Origin만 지원합니다. 사용자에 의해 다른 애드블록에 추가된다고 한들 예상된 작동은 커녕 오작동을 불러올 수 있습니다. 관련된 요청은 무시되고 닫힙니다.
 
-**List-KR filters list Classic for AdGuard**:
-```
-https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-AdGuard-classic.txt
-```
-**List-KR filters list Classic for uBlock Origin**:
-```
-https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-uBlockOrigin-classic.txt
-```
-
-**List-KR filters list for AdGuard**:
-```
-https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-AdGuard.txt
-```
-**List-KR filters list for uBlock Origin**:
-```
-https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-uBlockOrigin.txt
-```
-
-**List-KR filters list Unified for AdGuard**:
-```
-https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-AdGuard-unified.txt
-```
-**List-KR filters list Unified for uBlock Origin**:
-```
-https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-uBlockOrigin-unified.txt
-```
-
-**List-KR DNS**:
-```
-https://cdn.jsdelivr.net/gh/adguardteam/HostlistsRegistry@main/assets/filter_25.txt
-```
+| 구분 | AdGuard | uBlock Origin |
+|---|---|---|
+| **Classic** | `https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-AdGuard-classic.txt` | `https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-uBlockOrigin-classic.txt` |
+| **기본** | `https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-AdGuard.txt` | `https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-uBlockOrigin.txt` |
+| **Unified** | `https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-AdGuard-unified.txt` | `https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-uBlockOrigin-unified.txt` |
+| **DNS** | `https://cdn.jsdelivr.net/gh/adguardteam/HostlistsRegistry@main/assets/filter_25.txt` | — |
 
 ### 네이버 카페
 
