@@ -90,13 +90,8 @@ naver.com##+js(set, getAdcrUrl, '')
 koreapas.com##+js(set, random_imglink, noopFunc)
 imbc.com##+js(set, vrixadsdk, undefined)
 kilho.net##+js(set, hahaha, noopFunc)
-!
-! DOMAIN-REFRESHER: START
-!
 cokcok.stream##+js(trusted-replace-node-text, script, '/const *_[a-z0-9]+ *= *{ *"media_file" *: *" *https:\\\/\\\/cdn[0-9]+\.cokcok\.[a-z0-9]+\\\/assets\\\/videos\\\/.+"click_through" *:.+};/', media_file, '')
 ! aglint-disable-next-line
 /lover[0-9]\.net/##+js(aeld, click, 'opMagic)
 ! aglint-disable-next-line
 /lover[0-9]\.net/##+js(nano-stb, closeBtn.innerHTML, , 0.001)
-!
-! DOMAIN-REFRESHER: END

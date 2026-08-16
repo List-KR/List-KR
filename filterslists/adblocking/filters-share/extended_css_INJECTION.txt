@@ -27,9 +27,4 @@ algumon.com#$?#.nav-mobile:matches-css(display: none) ~ .base > .main { width: c
 5donews.co.kr#$?#.body > .content.xe_content:not(:has(article)) { width: auto !important; }
 mule.co.kr#$?#.section-lefttop-center:has(> .mule-today) { width: 100% !important; }
 banhub.xyz#$#html { overflow: visible !important; }
-!
-! DOMAIN-REFRESHER: START
-!
 aniya24.com#$?#div[class*="-player-wrapper"] > .play-media-control ~ div[class^="beeteam"][class*="-player-sub-element"] { remove: true; }
-!
-! DOMAIN-REFRESHER: END

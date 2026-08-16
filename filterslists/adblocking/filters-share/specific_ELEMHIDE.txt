@@ -1419,9 +1419,6 @@ m.dcinside.com##ul.detail-top-lst.trend
 clien.net##div:has(> div[class="ad_banner"])
 koreaminecraft.net##tr.notice:not(:has(.wst_member_title))
 kio.ac##main > div:has(> div > div > a > img)
-!
-! DOMAIN-REFRESHER: START
-!
 tvchak.live##.banner-box
 aniya24.com##.popup-container
 blacktoon1.info##div[data-mesh-id="comp-m8jy31rninlineContent"]
@@ -1477,5 +1474,3 @@ filetender.com##iframe[src="https://filetender.com/mobon.html"]
 moviepang.net##.sidebar[style] > aside[id^="text-"][class] ~ aside[id^="text-"][class]
 103.204.13.68##.product-banner
 103.204.13.68##div[class^="mobile-m ad720_"]
-!
-! DOMAIN-REFRESHER: END

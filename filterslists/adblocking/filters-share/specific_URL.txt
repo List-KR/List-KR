@@ -856,9 +856,6 @@
 ||ssl.pstatic.net/tveta/libs/
 ||vclock.kr/inf0/hot.php^
 ||aproxy-vast.wavve.com/*/v/*_AD_*/req/$xmlhttprequest
-!
-! DOMAIN-REFRESHER: START
-!
 /^https:\/\/cdn[0-9]+\.cokcok\.[a-z0-9]+\/assets\/images\//$domain=/cokcok[0-9]+\.com/
 /^https:\/\/tkor[0-9]+\.com\/bann\//
 /^https:\/\/tkor[0-9]+\.com\/images\//
@@ -1074,5 +1071,3 @@
 /^https:\/\/blacktoon[0-9]+\.com\/poster_js\/[0-9]+\.js/
 ||toonkor*.com/images/*.gif
 ||wwwimageup.angle777899.com/other/atoona/
-!
-! DOMAIN-REFRESHER: END

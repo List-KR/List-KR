@@ -91,9 +91,6 @@ m.cafe.naver.com##.banner_add.bottom:matches-path(/ca-fe\\/web\\/cafes\\/(steami
 ~m.cafe.naver.com,cafe.naver.com##img[src][alt="매니저 등록 배너"]:matches-path(/\\/steamindiegame(\\/|$)/)
 ~m.cafe.naver.com,cafe.naver.com##img[src][alt="매니저 등록 배너"]:matches-path(/\\/f-e\\/cafes\\/27842958(\\/|$)/)
 ~m.cafe.naver.com,cafe.naver.com##img[src][alt="매니저 등록 배너"]:matches-path(/clubid(=|%3[Dd])27842958/)
-!
-! DOMAIN-REFRESHER: START
-!
 /cokcok[0-9]+\.com/###cpb-popup-banners
 /xtoon[0-9]+\.com/##.container > div.row > div > a[target="_blank"] > picture
 /funbe[0-9]+\.com/##.mobile-banner > div[class^="main_top_bann"]
@@ -185,6 +182,3 @@ nightofpeace.com,ilovebees.io##.e-grid.e-con-full.e-con.e-child:has(a[target="_b
 /mato[0-9]+\.com/##div[class^="basic-banner-"]
 /sbxh[0-9]+\.com/##[data-brs][data-br]
 /torrentsee[0-9]+\.com/##.container > div[style^="z-index:999; "]
-!
-! DOMAIN-REFRESHER: END
-!

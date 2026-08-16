@@ -139,9 +139,6 @@ m.fmkorea.com##iframe[src*="//loader.fmkorea.com/"][src*="_loader/"]
 [$path=/\/steamindiegame(\/|$)/]~m.cafe.naver.com,cafe.naver.com##img[src][alt="매니저 등록 배너"]
 [$path=/\/f-e\/cafes\/27842958(\/|$)/]~m.cafe.naver.com,cafe.naver.com##img[src][alt="매니저 등록 배너"]
 [$path=/clubid(=|%3[Dd])27842958/]~m.cafe.naver.com,cafe.naver.com##img[src][alt="매니저 등록 배너"]
-!
-! DOMAIN-REFRESHER: START
-!
 [$domain=/cokcok[0-9]+\.com/]###cpb-popup-banners
 [$domain=/xtoon[0-9]+\.com/]##.container > div.row > div > a[target="_blank"] > picture
 [$domain=/funbe[0-9]+\.com/]##.mobile-banner > div[class^="main_top_bann"]
@@ -233,6 +230,3 @@ nightofpeace.com,ilovebees.io##.e-grid.e-con-full.e-con.e-child:has(a[target="_b
 [$domain=/mato[0-9]+\.com/]##div[class^="basic-banner-"]
 [$domain=/sbxh[0-9]+\.com/]##[data-brs][data-br]
 [$domain=/torrentsee[0-9]+\.com/]##.container > div[style^="z-index:999; "]
-!
-! DOMAIN-REFRESHER: END
-!

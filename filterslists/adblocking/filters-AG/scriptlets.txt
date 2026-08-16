@@ -92,11 +92,6 @@ koreapas.com#%#//scriptlet('set-constant', 'random_imglink', 'noopFunc')
 imbc.com#%#//scriptlet('set-constant', 'vrixadsdk', 'undefined')
 kilho.net#%#//scriptlet('set-constant', 'hahaha', 'noopFunc')
 banhub.xyz#%#//scriptlet('remove-class', 'backdrop-blur-lg')
-!
-! DOMAIN-REFRESHER: START
-!
 cokcok.stream#%#//scriptlet('trusted-replace-node-text', 'script', '/const *_[a-z0-9]+ *= *{ *"media_file" *: *" *https:\\\/\\\/cdn[0-9]+\.cokcok\.[a-z0-9]+\\\/assets\\\/videos\\\/.+"click_through" *:.+};/', 'media_file', '')
 [$domain=/lover[0-9]\.net/]#%#//scriptlet('prevent-addEventListener', 'click', 'popMagic')
 [$domain=/lover[0-9]\.net/]#%#//scriptlet('adjust-setTimeout', 'closeBtn.innerHTML', '*', '0.001')
-!
-! DOMAIN-REFRESHER: END
