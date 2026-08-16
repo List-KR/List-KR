@@ -1,4 +1,6 @@
 import path from "node:path";
+import {existsSync} from "node:fs";
+import {readFile, writeFile} from "node:fs/promises";
 import {loadFiltersListsConfig} from "./config";
 import {getNextPackageVersion} from "./version";
 import {loadUnifiedExternalRules} from "./unified";
@@ -13,7 +15,7 @@ const config = await loadFiltersListsConfig(path.join(filtersListDir, "filtersli
 
 for (const entry of config) {
     const defPath = path.join(filtersListDir, entry.definitionFileName);
-    if (!await Bun.file(defPath).exists()) throw new Error(`Definition file not found: ${defPath}`);
+    if (!existsSync(defPath)) throw new Error(`Definition file not found: ${defPath}`);
 }
 
 const filterFiles = scanFilterFiles(filtersListDir);
@@ -27,8 +29,8 @@ const externalRules = await loadUnifiedExternalRules(config, filtersListDir);
 await Promise.all(config.map(entry => buildDefinition(entry, filtersListDir, outputDir, processableCache, externalRules)));
 
 const pkgPath = path.resolve(repoRoot, "package.json");
-const pkg = await Bun.file(pkgPath).json();
+const pkg = JSON.parse(await readFile(pkgPath, "utf-8")) as {version: string};
 pkg.version = nextVersion;
-await Bun.write(pkgPath, JSON.stringify(pkg, null, 2) + "\n");
+await writeFile(pkgPath, JSON.stringify(pkg, null, 2) + "\n");
 
 console.log(`Build complete: ${nextVersion}`);

@@ -1,4 +1,5 @@
 import path from "node:path";
+import {readFile} from "node:fs/promises";
 import * as AGTree from "@adguard/agtree";
 import type {AdblockType, FiltersListsConfigEntry} from "./config";
 import {getUnifiedExternalSourceUrls, type UnifiedExternalSource} from "./unifiedSources";
@@ -150,7 +151,7 @@ export async function loadUnifiedExternalRules(
 
     for (const def of unifiedDefs) {
         const domainListPath = path.resolve(filtersListDir, def.unifiedDomainListFileName);
-        const domains = parseUnifiedDomains(await Bun.file(domainListPath).text());
+        const domains = parseUnifiedDomains(await readFile(domainListPath, "utf-8"));
         const rules: AGTree.AnyRule[] = [];
 
         if (domains.size === 0) {

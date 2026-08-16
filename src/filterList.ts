@@ -1,4 +1,6 @@
 import path from "node:path";
+import {readdirSync} from "node:fs";
+import {readFile, writeFile, mkdir} from "node:fs/promises";
 import * as AGTree from "@adguard/agtree";
 import type {FiltersListsConfigEntry} from "./config";
 import type {UnifiedExternalRulesByAdblockType} from "./unified";
@@ -6,7 +8,7 @@ import type {UnifiedExternalRulesByAdblockType} from "./unified";
 const parseOptions: AGTree.ParserOptions = {parseUboSpecificRules: true};
 
 export async function parseFilterList(filePath: string): Promise<AGTree.FilterList> {
-    return AGTree.FilterListParser.parse(await Bun.file(filePath).text(), parseOptions);
+    return AGTree.FilterListParser.parse(await readFile(filePath, "utf-8"), parseOptions);
 }
 
 export function stringifyFilterList(list: AGTree.FilterList): string {
@@ -33,15 +35,23 @@ export function stringifyFilterList(list: AGTree.FilterList): string {
 }
 
 export async function isProcessable(filePath: string): Promise<boolean> {
-    const tree = AGTree.FilterListParser.parse(await Bun.file(filePath).text(), parseOptions);
+    const tree = AGTree.FilterListParser.parse(await readFile(filePath, "utf-8"), parseOptions);
     return tree.children.some(
         c => typeof c.category === "string" && c.category !== "Empty" && c.category !== "Comment"
     );
 }
 
 export function scanFilterFiles(filtersListDir: string): string[] {
-    const glob = new Bun.Glob("**/*.txt");
-    return [...glob.scanSync({cwd: filtersListDir, absolute: true})];
+    const out: string[] = [];
+    const walk = (dir: string) => {
+        for (const ent of readdirSync(dir, {withFileTypes: true})) {
+            const p = path.join(dir, ent.name);
+            if (ent.isDirectory()) walk(p);
+            else if (ent.name.endsWith(".txt")) out.push(p);
+        }
+    };
+    walk(filtersListDir);
+    return out;
 }
 
 function isPreProcessorCommentRule(f: AGTree.AnyRule): f is AGTree.PreProcessorCommentRule {
@@ -109,6 +119,7 @@ export async function buildDefinition(
     const header = buildHeader(entry);
     const body = header + stringifyFilterList(bundled);
     const outPath = path.resolve(outputDir, entry.definitionFileName);
-    await Bun.write(outPath, body);
+    await mkdir(path.dirname(outPath), {recursive: true});
+    await writeFile(outPath, body);
     return outPath;
 }

@@ -1,3 +1,5 @@
+import {readFile} from "node:fs/promises";
+
 export type AdblockType = "AdGuard" | "uBlockOrigin"
 
 export type FiltersListsConfigEntry = {
@@ -40,7 +42,7 @@ function asAdblockType(v: unknown): AdblockType {
 }
 
 export async function loadFiltersListsConfig(configPath: string): Promise<FiltersListsConfig> {
-    const raw = JSON.parse(await Bun.file(configPath).text()) as unknown;
+    const raw = JSON.parse(await readFile(configPath, "utf-8")) as unknown;
     if (typeof raw !== "object" || raw === null || !Array.isArray((raw as { definitions?: unknown }).definitions)) {
         throw new Error("Config must be an object with a \"definitions\" array");
     }
