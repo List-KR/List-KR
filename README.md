@@ -19,23 +19,26 @@ List-KR은 애드블록 커뮤니티에서 관리하는 한국어 광고 차단 
 
 이메일을 통한 비공개 지원이 필요하시면 각 기여자의 GitHub 프로필에서 연락처를 확인하실 수 있습니다.
 
-AdGuard에 사전 탑재된 List-KR 필터 리스트(List-KR filters list Classic)는 광고와 AdGuard에서 수용하기로 결정한 법적 요청을 제외한 안티-애드블록을 처리합니다.
-그러나, 일반 필터 리스트들(List-KR filters list)은 광고, 각 기여자가 책임을 지는 안티-애드블록, 추적기, 방해 요소 등을 처리합니다.
-List-KR filters list Unified 버전은 일반 필터 리스트들(List-KR filters list)에 YouTube 같은 한국에서도 높은 트래픽을 가진 국제 웹 사이트에 대한 대응도 포함됩니다.
-
 ## 사용법
 
 사용하시는 광고 차단기에 아래 URL로 List-KR을 추가할 수 있습니다.
 
 > [!IMPORTANT]
-> List-KR은 **오직** AdGuard와 uBlock Origin만 지원합니다. 사용자에 의해 다른 애드블록에 추가된다고 한들 예상된 작동은 커녕 오작동을 불러올 수 있습니다. 관련된 요청은 무시되고 닫힙니다.
+> List-KR은 **오직** AdGuard와 uBlock Origin만 지원합니다.
 
-| 구분 | AdGuard | uBlock Origin |
-|---|---|---|
-| **Classic** | `https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-AdGuard-classic.txt` | `https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-uBlockOrigin-classic.txt` |
-| **기본** | `https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-AdGuard.txt` | `https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-uBlockOrigin.txt` |
-| **Unified** | `https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-AdGuard-unified.txt` | `https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-uBlockOrigin-unified.txt` |
-| **DNS** | `https://cdn.jsdelivr.net/gh/adguardteam/HostlistsRegistry@main/assets/filter_25.txt` | — |
+**List-KR filters list for AdGuard**:
+```
+https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-AdGuard.txt
+```
+**List-KR filters list for uBlock Origin**:
+```
+https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-uBlockOrigin.txt
+```
+
+**List-KR DNS**:
+```
+https://cdn.jsdelivr.net/gh/adguardteam/HostlistsRegistry@main/assets/filter_25.txt
+```
 
 ### 네이버 카페
 
