@@ -2,5 +2,6 @@
 root: true
 extends:
   - aglint:recommended
-syntax:
-  - Common
+platforms:
+  - adg_any
+  - ubo_any
