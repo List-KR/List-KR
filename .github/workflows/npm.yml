@@ -69,5 +69,5 @@ jobs:
             -   name: Purge jsdelivr cache
                 uses: FilteringDev/jsdelivr-purge-npm@0bee790e911f359243cd8d98cd87f6bbbc879e80
                 with:
-                    package: @list-kr/filterslists
+                    package: '@list-kr/filterslists'
                     disttag: latest
