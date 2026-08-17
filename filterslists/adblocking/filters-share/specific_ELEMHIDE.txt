@@ -176,6 +176,9 @@ mvod.jtbc.co.kr##div[class^="iframe_"][class$="_ad"]
 app.pizzaalvolo.co.kr##div[class^="css-"][style^="gap: "] > div[tabindex="0"]:has(div[style^="position: absolute; right:"])
 enuri.com###coupangCpcSection
 enuri.com##.lp-ad--naver
+issuefeed.dcinside.com##div[class*="ad"]
+issuefeed.dcinside.com##a:has(> img[src*="banner"])
+issuefeed.dcinside.com##div[class*="sticky"]:has(> button)
 gall.dcinside.com,m.dcinside.com##ul[class$="_ad"]
 asked.kr##div[class*="ad_"][style*=":"]
 asked.kr##div[class^="inner_"] > div[class^="banner_"]
