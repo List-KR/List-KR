@@ -11,7 +11,6 @@ export type FiltersListsConfigEntry = {
     supportUrl: string
     licenseUrl: string
     adblockType: AdblockType
-    unifiedDomainListFileName?: string
 }
 
 export type FiltersListsConfig = FiltersListsConfigEntry[]
@@ -28,7 +27,6 @@ type RawDefinition = RawDefaults & {
     definitionFileName?: unknown
     description?: unknown
     adblockType?: unknown
-    unifiedDomainListFileName?: unknown
 }
 
 function asString(v: unknown, field: string): string {
@@ -64,8 +62,7 @@ export async function loadFiltersListsConfig(configPath: string): Promise<Filter
             homepageUrl: typeof item.homepageUrl === "string" ? item.homepageUrl : asString(defaults.homepageUrl, "homepageUrl"),
             supportUrl: typeof item.supportUrl === "string" ? item.supportUrl : asString(defaults.supportUrl, "supportUrl"),
             licenseUrl: typeof item.licenseUrl === "string" ? item.licenseUrl : asString(defaults.licenseUrl, "licenseUrl"),
-            adblockType: asAdblockType(item.adblockType),
-            unifiedDomainListFileName: typeof item.unifiedDomainListFileName === "string" ? item.unifiedDomainListFileName : undefined
+            adblockType: asAdblockType(item.adblockType)
         };
     });
 }

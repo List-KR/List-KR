@@ -3,7 +3,6 @@ import {readdirSync} from "node:fs";
 import {readFile, writeFile, mkdir} from "node:fs/promises";
 import * as AGTree from "@adguard/agtree";
 import type {FiltersListsConfigEntry} from "./config";
-import type {UnifiedExternalRulesByAdblockType} from "./unified";
 
 const parseOptions: AGTree.ParserOptions = {parseUboSpecificRules: true};
 
@@ -91,32 +90,15 @@ export function buildHeader(entry: FiltersListsConfigEntry, now = new Date()): s
     ].join("\n");
 }
 
-export function appendUnifiedExternalRules(
-    list: AGTree.FilterList,
-    entry: FiltersListsConfigEntry,
-    externalRules: UnifiedExternalRulesByAdblockType
-): AGTree.FilterList {
-    if (!entry.unifiedDomainListFileName) return list;
-    const rules = externalRules[entry.adblockType] ?? [];
-    if (rules.length === 0) return list;
-    console.log(`Appending ${rules.length} unified external rules for ${entry.definitionFileName}`);
-    return {...list, children: [...list.children, ...rules]};
-}
-
 export async function buildDefinition(
     entry: FiltersListsConfigEntry,
     filtersListDir: string,
     outputDir: string,
-    processableCache: Map<string, boolean>,
-    externalRules: UnifiedExternalRulesByAdblockType
+    processableCache: Map<string, boolean>
 ): Promise<string> {
     const defPath = path.resolve(filtersListDir, entry.definitionFileName);
     const parsed = await parseFilterList(defPath);
-    const bundled = appendUnifiedExternalRules(
-        await bundleIncludes(parsed, filtersListDir, processableCache),
-        entry,
-        externalRules
-    );
+    const bundled = await bundleIncludes(parsed, filtersListDir, processableCache);
     const header = buildHeader(entry);
     const body = header + stringifyFilterList(bundled);
     const outPath = path.resolve(outputDir, entry.definitionFileName);

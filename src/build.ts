@@ -3,7 +3,6 @@ import {existsSync} from "node:fs";
 import {readFile, writeFile} from "node:fs/promises";
 import {loadFiltersListsConfig} from "./config";
 import {getNextPackageVersion} from "./version";
-import {loadUnifiedExternalRules} from "./unified";
 import {buildDefinition, isProcessable, scanFilterFiles} from "./filterList";
 
 const repoRoot = path.resolve(import.meta.dirname, "..");
@@ -24,9 +23,7 @@ const processableFlags = await Promise.all(filterFiles.map(isProcessable));
 for (let i = 0; i < filterFiles.length; i++) processableCache.set(filterFiles[i]!, processableFlags[i]!);
 console.log(`Preprocessed ${processableCache.size} filter files`);
 
-const externalRules = await loadUnifiedExternalRules(config, filtersListDir);
-
-await Promise.all(config.map(entry => buildDefinition(entry, filtersListDir, outputDir, processableCache, externalRules)));
+await Promise.all(config.map(entry => buildDefinition(entry, filtersListDir, outputDir, processableCache)));
 
 const pkgPath = path.resolve(repoRoot, "package.json");
 const pkg = JSON.parse(await readFile(pkgPath, "utf-8")) as {version: string};
