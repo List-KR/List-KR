@@ -7,13 +7,13 @@
         {
             "name": "List-KR classic filters list (AdGuard)",
             "definitionFileName": "filterslist-AdGuard-classic.txt",
-            "description": "AdGuard용 List-KR 클래식 필터 리스트입니다. 한국어권 웹 페이지 및 앱에 있는 광고와 거부되지 않은 안티 애드블록을 차단합니다.",
+            "description": "DEPRECATED: 호환성을 위해 유지되는 구독 주소입니다. 새 구독 주소: https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-AdGuard.txt",
             "adblockType": "AdGuard"
         },
         {
             "name": "List-KR classic filters list (uBO)",
             "definitionFileName": "filterslist-uBlockOrigin-classic.txt",
-            "description": "uBlock Origin용 List-KR 클래식 필터 리스트입니다. 한국어권 웹 페이지 및 앱에 있는 광고와 거부되지 않은 안티 애드블록을 차단합니다.",
+            "description": "DEPRECATED: 호환성을 위해 유지되는 구독 주소입니다. 새 구독 주소: https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-uBlockOrigin.txt",
             "adblockType": "uBlockOrigin"
         },
         {
@@ -31,16 +31,14 @@
         {
             "name": "List-KR unified filters list (AdGuard)",
             "definitionFileName": "filterslist-AdGuard-unified.txt",
-            "description": "AdGuard용 List-KR 통합 필터 리스트입니다. 한국어권 및 국제 웹 페이지 및 앱에 있는 광고, 트래커, 방해 요소와 안티 애드블록을 차단합니다.",
-            "adblockType": "AdGuard",
-            "unifiedDomainListFileName": "unified-domains.txt"
+            "description": "DEPRECATED: 호환성을 위해 유지되는 구독 주소입니다. 새 구독 주소: https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-AdGuard.txt",
+            "adblockType": "AdGuard"
         },
         {
             "name": "List-KR unified filters list (uBlock Origin)",
             "definitionFileName": "filterslist-uBlockOrigin-unified.txt",
-            "description": "uBlock Origin용 List-KR 통합 필터 리스트입니다. 한국어권 및 국제 웹 페이지 및 앱에 있는 광고, 트래커, 방해 요소와 안티 애드블록을 차단합니다.",
-            "adblockType": "uBlockOrigin",
-            "unifiedDomainListFileName": "unified-domains.txt"
+            "description": "DEPRECATED: 호환성을 위해 유지되는 구독 주소입니다. 새 구독 주소: https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-uBlockOrigin.txt",
+            "adblockType": "uBlockOrigin"
         }
     ]
 }

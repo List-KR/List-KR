@@ -37,7 +37,8 @@ export function stringifyFilterList(list: AGTree.FilterList): string {
 export async function isProcessable(filePath: string): Promise<boolean> {
     const tree = AGTree.FilterListParser.parse(await readFile(filePath, "utf-8"), parseOptions);
     return tree.children.some(
-        c => typeof c.category === "string" && c.category !== "Empty" && c.category !== "Comment"
+        c => c.type === "PreProcessorCommentRule" && c.name.value === "include"
+            || typeof c.category === "string" && c.category !== "Empty" && c.category !== "Comment"
     );
 }
 
