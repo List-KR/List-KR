@@ -3,6 +3,13 @@ name: Publish and Deploy
 on:
     push:
         branches: [ master ]
+        paths:
+            - "filterslists/**"
+            - "src/**"
+            - package.json
+            - pnpm-lock.yaml
+            - pnpm-workspace.yaml
+            - tsconfig.json
     workflow_dispatch:
 
 concurrency:
