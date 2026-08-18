@@ -129,3 +129,6 @@ chzzk.naver.com##+js(no-xhr-if, /(veta.naver.com\/vas|veta.naver.com\/gfp|veta.n
 ! kio.ac
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noop.js,domain=kio.ac,important
 ||lib.wtg-ads.com/publisher/kio.ac/sb_interstitial_wtg.js$script,redirect=noop.js,domain=kio.ac,important
+! dicoall.com
+dicoall.com##+js(no-fetch-if, fundingchoicesmessages.google.com/b/pub-1437333416759682 method:HEAD)
+

@@ -262,3 +262,6 @@ chzzk.naver.com#%#//scriptlet('prevent-xhr', '/(veta.naver.com\/vas|veta.naver.c
 ! kio.ac
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=kio.ac,important
 ||lib.wtg-ads.com/publisher/kio.ac/sb_interstitial_wtg.js$script,redirect=noopjs,domain=kio.ac,important
+kio.ac#%#//scriptlet('prevent-setTimeout', '', '200')
+! dicoall.com
+dicoall.com#%#//scriptlet('prevent-fetch', 'fundingchoicesmessages.google.com/b/pub-1437333416759682 method:HEAD')
