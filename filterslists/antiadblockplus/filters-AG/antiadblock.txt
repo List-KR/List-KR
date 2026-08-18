@@ -14,3 +14,6 @@ chzzk.naver.com#%#//scriptlet('trusted-json-set-xhr-response', 'content.playerAd
 chzzk.naver.com#%#//scriptlet('prevent-xhr', '/(veta.naver.com\/vas|veta.naver.com\/gfp|veta.naver.com\/call)/ method:OPTIONS')
 !#endif
 !#endif
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=kio.ac,important
+||lib.wtg-ads.com/publisher/kio.ac/sb_interstitial_wtg.js$script,redirect=noopjs,domain=kio.ac,important
+

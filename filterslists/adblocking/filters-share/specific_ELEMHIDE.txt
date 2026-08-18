@@ -1422,6 +1422,7 @@ dcinside.com##div.key_trendbox
 m.dcinside.com##ul.detail-top-lst.trend
 clien.net##div:has(> div[class="ad_banner"])
 koreaminecraft.net##tr.notice:not(:has(.wst_member_title))
+kio.ac##div.flex:has(> div.bg-white)
 kio.ac##main > div:has(> div > div > a > img)
 tvchak.live##.banner-box
 aniya24.com##.popup-container
