@@ -35,6 +35,9 @@ jobs:
         name: Build and Publish to npm
         needs: lint
         runs-on: ubuntu-latest
+        outputs:
+            version: ${{ steps.package.outputs.version }}
+            previous_version: ${{ steps.package.outputs.previous_version }}
         permissions:
             contents: read
             id-token: write
@@ -51,6 +54,12 @@ jobs:
             -   name: Build
                 run: pnpm run build
 
+            -   name: Record package versions
+                id: package
+                run: |
+                    echo "version=$(node -p "require('./package.json').version")" >> "$GITHUB_OUTPUT"
+                    echo "previous_version=$(npm view '@list-kr/filterslists@latest' version)" >> "$GITHUB_OUTPUT"
+
             -   name: Set up Node.js
                 uses: actions/setup-node@v7
                 with:
@@ -63,16 +72,89 @@ jobs:
         name: Purge jsdelivr cache
         needs: build
         runs-on: ubuntu-latest
-        permissions:
-            contents: read
+        timeout-minutes: 5
+        permissions: {}
         steps:
-            -   name: Set up Node.js
-                uses: actions/setup-node@v7
-                with:
-                    node-version: 24
-
             -   name: Purge jsdelivr cache
-                uses: FilteringDev/jsdelivr-purge-npm@0bee790e911f359243cd8d98cd87f6bbbc879e80
-                with:
-                    package: '@list-kr/filterslists'
-                    disttag: latest
+                env:
+                    PACKAGE: '@list-kr/filterslists'
+                    VERSION: ${{ needs.build.outputs.version }}
+                    PREVIOUS_VERSION: ${{ needs.build.outputs.previous_version }}
+                run: |
+                    set -euo pipefail
+
+                    request() {
+                        curl --fail-with-body --silent --show-error \
+                            --connect-timeout 10 --max-time 30 \
+                            --retry 3 --retry-delay 2 --retry-max-time 20 --retry-all-errors \
+                            --header "User-Agent: List-KR GitHub Actions (${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY})" \
+                            "$@"
+                    }
+
+                    fetch_files() {
+                        local version="$1" response
+                        for delay in 0 2 5 10 20; do
+                            sleep "$delay"
+                            if response="$(request "https://data.jsdelivr.com/v1/packages/npm/${PACKAGE}@${version}?structure=flat")" \
+                                && jq -e --arg version "$version" '
+                                    .version == $version
+                                    and (.files | type == "array" and length > 0)
+                                    and all(.files[]; .name | type == "string" and startswith("/"))
+                                ' <<< "$response" > /dev/null; then
+                                jq -r '.files[].name' <<< "$response"
+                                return
+                            fi
+                        done
+                        echo "::error::jsDelivr did not index ${PACKAGE}@${version} in time" >&2
+                        return 1
+                    }
+
+                    previous_files="$(fetch_files "$PREVIOUS_VERSION")"
+                    current_files="$(fetch_files "$VERSION")"
+                    mapfile -t files < <(printf '%s\n%s\n' "$previous_files" "$current_files" | sort -u)
+
+                    # ponytail: jsDelivr accepts 20 paths per request; batch if this package grows beyond that.
+                    ((${#files[@]} <= 20)) || {
+                        echo "::error::Too many package files to purge in one request (${#files[@]})"
+                        exit 1
+                    }
+
+                    payload="$(printf '%s\n' "${files[@]}" | jq -Rsc --arg prefix "/npm/${PACKAGE}@latest" '
+                        {path: [split("\n")[] | select(length > 0) | $prefix + .]}
+                    ')"
+                    response="$(request \
+                        --request POST \
+                        --header 'Content-Type: application/json' \
+                        --data-binary "$payload" \
+                        https://purge.jsdelivr.net/)"
+                    id="$(jq -er '.id | strings | select(test("^[A-Za-z0-9_-]+$"))' <<< "$response")"
+
+                    for _ in {1..30}; do
+                        sleep 2
+                        if ! response="$(request "https://purge.jsdelivr.net/status/${id}")"; then
+                            continue
+                        fi
+                        status="$(jq -er '.status | select(. == "pending" or . == "finished" or . == "failed")' <<< "$response")"
+                        case "$status" in
+                            pending) continue ;;
+                            failed)
+                                jq . <<< "$response"
+                                exit 1
+                                ;;
+                            finished)
+                                jq . <<< "$response"
+                                jq -e '
+                                    (.paths | type == "object" and length > 0)
+                                    and all(.paths[];
+                                        .throttled == false
+                                        and (.providers | type == "object" and length > 0)
+                                        and all(.providers[]; . == true)
+                                    )
+                                ' <<< "$response" > /dev/null
+                                exit
+                                ;;
+                        esac
+                    done
+
+                    echo "::error::Timed out waiting for jsDelivr purge ${id}"
+                    exit 1
