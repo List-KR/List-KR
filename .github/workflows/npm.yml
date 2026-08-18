@@ -42,9 +42,6 @@ jobs:
         name: Build and Publish to npm
         needs: lint
         runs-on: ubuntu-latest
-        outputs:
-            version: ${{ steps.package.outputs.version }}
-            previous_version: ${{ steps.package.outputs.previous_version }}
         permissions:
             contents: read
             id-token: write
@@ -61,12 +58,6 @@ jobs:
             -   name: Build
                 run: pnpm run build
 
-            -   name: Record package versions
-                id: package
-                run: |
-                    echo "version=$(node -p "require('./package.json').version")" >> "$GITHUB_OUTPUT"
-                    echo "previous_version=$(npm view '@list-kr/filterslists@latest' version)" >> "$GITHUB_OUTPUT"
-
             -   name: Set up Node.js
                 uses: actions/setup-node@v7
                 with:
@@ -80,13 +71,15 @@ jobs:
         needs: build
         runs-on: ubuntu-latest
         timeout-minutes: 5
-        permissions: {}
+        permissions:
+            contents: read
         steps:
+            -   name: Check out to repository
+                uses: actions/checkout@v7
+
             -   name: Purge jsdelivr cache
                 env:
                     PACKAGE: '@list-kr/filterslists'
-                    VERSION: ${{ needs.build.outputs.version }}
-                    PREVIOUS_VERSION: ${{ needs.build.outputs.previous_version }}
                 run: |
                     set -euo pipefail
 
@@ -98,37 +91,14 @@ jobs:
                             "$@"
                     }
 
-                    fetch_files() {
-                        local version="$1" response
-                        for delay in 0 2 5 10 20; do
-                            sleep "$delay"
-                            if response="$(request "https://data.jsdelivr.com/v1/packages/npm/${PACKAGE}@${version}?structure=flat")" \
-                                && jq -e --arg version "$version" '
-                                    .version == $version
-                                    and (.files | type == "array" and length > 0)
-                                    and all(.files[]; .name | type == "string" and startswith("/"))
-                                ' <<< "$response" > /dev/null; then
-                                jq -r '.files[].name' <<< "$response"
-                                return
-                            fi
-                        done
-                        echo "::error::jsDelivr did not index ${PACKAGE}@${version} in time" >&2
-                        return 1
-                    }
-
-                    previous_files="$(fetch_files "$PREVIOUS_VERSION")"
-                    current_files="$(fetch_files "$VERSION")"
-                    mapfile -t files < <(printf '%s\n%s\n' "$previous_files" "$current_files" | sort -u)
-
-                    # ponytail: jsDelivr accepts 20 paths per request; batch if this package grows beyond that.
-                    ((${#files[@]} <= 20)) || {
-                        echo "::error::Too many package files to purge in one request (${#files[@]})"
-                        exit 1
-                    }
-
-                    payload="$(printf '%s\n' "${files[@]}" | jq -Rsc --arg prefix "/npm/${PACKAGE}@latest" '
-                        {path: [split("\n")[] | select(length > 0) | $prefix + .]}
-                    ')"
+                    # ponytail: current outputs only; include the previous config if filenames start changing.
+                    payload="$(jq -ce --arg prefix "/npm/${PACKAGE}@latest/dist/" '
+                        [.definitions[].definitionFileName | $prefix + .]
+                        | unique
+                        | if length > 0 and length <= 20 then {path: .}
+                          else error("Expected 1–20 package files")
+                          end
+                    ' filterslists/filterslists.config.json)"
                     response="$(request \
                         --request POST \
                         --header 'Content-Type: application/json' \
