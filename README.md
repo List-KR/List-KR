@@ -1,7 +1,7 @@
 # List-KR
 
 > [!IMPORTANT]
-> List-KR 필터는 AdGuard에 의해 사유화되었습니다. https://github.com/List-KR/List-KR/issues/1095
+> 향후 List-KR 필터의 운영 방향에 대한 안내: https://github.com/List-KR/List-KR/issues/1109
 
 List-KR 필터 리스트에 관련된 질문이나 문의는 이 레포의 이슈 트래커에 올려주세요. 이메일을 통한 비공개 지원이 필요하시면 각 기여자의 GitHub 프로필에서 연락처를 확인하실 수 있습니다.
 
