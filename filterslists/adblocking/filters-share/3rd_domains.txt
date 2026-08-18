@@ -73,7 +73,6 @@
 ||ads.sportsseoul.com^
 ||ad.cyycoy.com^
 ||ads.admaru.com^
-||wmars-client.wemakeprice.com^
 ||displayad.lotteon.com^
 ||ad-script.viewus.co.kr^
 ||ad-insight.sellermill.com^

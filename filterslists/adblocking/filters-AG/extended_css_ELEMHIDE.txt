@@ -14,7 +14,6 @@ m.pay.naver.com#?##content > .recommend_section:has(> div[style^="padding:"] > #
 pedia.watcha.com#?#section[class^="css-"] section[class^="css-"] > [class^="css-"]:is(:has(section > a[target="_blank"]), :has(> div[class^="media-area "])):contains( · AD):not(:has(section ~ section))
 eomisae.co.kr#?#._listA tr.notice:has(span[style]:contains(AD))
 bonik.me#?##sidebar > .module:contains(Ad)
-msearch.wemakeprice.com#?#article[data-list-container="searchList"] li:has(span:contains(AD).gray_round_badge)
 eomisae.co.kr#?#main#main .eq.section #bd table tr:has(.no ~ .title span:contains([AD]))
 koreatimes.net#?#.container .recent_news_inner:has(> h3:contains(AD))
 ypbooks.co.kr#?#.section-intro > .m-latest-renew:has(h3:contains(오늘의 책))
