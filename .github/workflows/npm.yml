@@ -32,9 +32,6 @@ jobs:
                     runtime: node@24
                     cache: true
 
-            -   name: Install dependencies
-                run: pnpm install
-
             -   name: Run AGLint
                 run: pnpm run lint
 

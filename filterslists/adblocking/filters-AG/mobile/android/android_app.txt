@@ -5,7 +5,6 @@
 ||braze-images.com^$app=kr.co.rememberapp
 ||app.dcinside.com/api/_ad_search_link2.php
 ||firebaseinstallations.googleapis.com^$app=instasaver.instagram.video.downloader.photo
-||ds.11st.co.kr/NetInsight/text/11st/11st_mobile/mobile_product
 ||centaurs-rest.coupang.com^$app=com.timespread.Timetable2
 ||img.samsungapps.com/display^$app=com.samsung.android.game.gamehome
 ||adlibr.com^
@@ -14,5 +13,4 @@
 ||d131nj8pwjizfu.cloudfront.net^
 ||adpies.com^
 ||ssp-ad.momento.dev^
-||sdk-bid.exelbid.com^
 ||t1.daumcdn.net/cafe_cj/app/js/*/nativead.js

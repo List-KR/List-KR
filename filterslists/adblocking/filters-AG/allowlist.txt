@@ -15,9 +15,19 @@
 quiz.avatye.com#@#ins.adsbygoogle[data-ad-slot]
 !#endif
 auto.danawa.com#%#//scriptlet('set-constant', 'NAVER_ADPOST_V2', 'noopFunc')
-!#if (adguard_app_ios || adguard_ext_android_cb || adguard_ext_android_cb)
+!#if (adguard_app_ios || adguard_ext_android_cb)
 @@||ssl.pstatic.net/adimg3.search/adpost/js/adpost_show_ads_v2.min.js$domain=danawa.com
 !#endif
 !#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb)
 @@||ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js$script,domain=m.cafe.naver.com
+!#endif
+@@||newliweb.com/$subdocument,script,domain=namu.wiki|~board.namu.wiki
+@@||arca.live/$subdocument,script,domain=namu.wiki|~board.namu.wiki
+@@||namu.news/$subdocument,script,domain=namu.wiki|~board.namu.wiki
+@@||namu.wiki/$subdocument,script,domain=namu.wiki|~board.namu.wiki
+!#if (adguard_app_windows || adguard_app_mac || adguard_app_cli || adguard_app_android)
+! https://github.com/AdguardTeam/CoreLibs/issues/2084
+@@||inven.co.kr/sitebuilder/common/?mode=leftmenu$xmlhttprequest,elemhide,jsinject,extension
+! https://github.com/AdguardTeam/AdguardFilters/issues/208160
+@@||m.sktuniverse.co.kr/html/template/*.html$xmlhttprequest,elemhide,jsinject,extension
 !#endif

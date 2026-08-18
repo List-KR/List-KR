@@ -1,2 +1,0 @@
-kio.ac#%#//scriptlet('prevent-setTimeout', '', '200')
-

@@ -1,4 +1,4 @@
-m.bunjang.co.kr##+js('trusted-click-element', '.bun-ui-bottom-sheet-portal:has(.bun-ui-bottom-sheet > section[class^="BottomSheet_bodyRecipe__"] > img[src^="/static/media/app-nudge."]) .bun-ui-bottom-sheet-dim')
-lottecinema.co.kr##+js('set-cookie', 'MainPopup', 'true')
-m.11st.co.kr##+js('set-cookie', 'web2AppPopupDisable', 'Y')
-muko.kr##+js('set-cookie', 'muko_gs_modal_dismissed', '1')
+m.bunjang.co.kr##+js(trusted-click-element, '.bun-ui-bottom-sheet-portal:has(.bun-ui-bottom-sheet > section[class^="BottomSheet_bodyRecipe__"] > img[src^="/static/media/app-nudge."]) .bun-ui-bottom-sheet-dim')
+lottecinema.co.kr##+js(set-cookie, 'MainPopup', 'true')
+m.11st.co.kr##+js(set-cookie, 'web2AppPopupDisable', 'Y')
+muko.kr##+js(set-cookie, 'muko_gs_modal_dismissed', '1')

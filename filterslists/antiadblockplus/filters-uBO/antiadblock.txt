@@ -1,4 +1,0 @@
-chzzk.naver.com##+js(spoof-css, .banner_ad_wrapper, display, block)
-chzzk.naver.com##+js(no-xhr-if, /(veta.naver.com\/vas|veta.naver.com\/gfp|veta.naver.com\/call)/ method:OPTIONS)
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noop.js,domain=kio.ac,important
-||lib.wtg-ads.com/publisher/kio.ac/sb_interstitial_wtg.js$script,redirect=noop.js,domain=kio.ac,important

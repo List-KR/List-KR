@@ -75,8 +75,6 @@
 ||ads.admaru.com^
 ||wmars-client.wemakeprice.com^
 ||displayad.lotteon.com^
-||io.smartmyd.com^
-||zumads.vrixon.com^
 ||ad-script.viewus.co.kr^
 ||ad-insight.sellermill.com^
 ||reqde.sooplive.com^
@@ -128,7 +126,6 @@
 ||poweredby.jads.co^
 ||ad.a-ads.com^
 ||acceptable.a-ads.com^
-||display.admonseller.com^
 ||ad.ciokorea.com^
 ||cf-eba.everytime.kr^
 ||ad.everytime.kr^
@@ -148,7 +145,6 @@
 ||action.adoffice.11st.co.kr^
 ||adw.heraldm.com^
 ||ad.adjw.co.kr^
-||adn.admixer.co.kr^
 ||adv.khan.co.kr^
 ||ad.yonhapnews.co.kr^
 ||nvapi.feeldmc.com^
@@ -196,7 +192,6 @@
 ||ad.mrab.co.kr^
 ||ad.mediafarm.co.kr^
 ||ad.cauly.co.kr^
-||xconf.cauly.co.kr^
 ||adx-exchange.toast.com^
 ||adsrv-up.mcrony.com^
 ||ads.priel.co.kr^
@@ -207,7 +202,6 @@
 ||simg.imadrep.co.kr^
 ||adv.dailyissue.co.kr^
 ||ad.idnad.co.kr^
-||deepdive.zum.com^
 ||minishop.linkprice.com^
 ||ad.linkprice.com^
 ||ad.tjtune.com^
@@ -217,7 +211,6 @@
 ||ad.esmplus.com^
 ||adcheck.about.co.kr^
 ||ads.mncmedia.co.kr^
-||mtag.mman.kr^
 ||ssp.meba.kr^
 ||ad.adnmore.co.kr^
 ||adapi.about.co.kr^
@@ -226,26 +219,20 @@
 ||adservice.google.co.*
 ||ads-partners.coupang.com^
 ||tvetamovie.pstatic.net^
-||searchad-phinf.pstatic.net^
-||ad.adjw.co.kr^
 ||compass.adop.cc^
 ||ad.adinc.kr^
 ||ad.about.co.kr^
-||adv.imadrep.co.kr^
 ||ad.reople.co.kr^
 ||ad.daum.net^
 ||adcr.naver.com^
 ||ads.stickyadstv.com^
 ||ads-*.v.ssp.yahoo.com^
-||ads.adaptv.advertising.com^
 ||ads.betweendigital.com^
 ||pagead2.googlesyndication.com^
 ||safeframe.googlesyndication.com^
 ||adservice.google.com^
-||partner.googleadservices.com^
 ||ad.qanda.ai^
 ||ntkimg.cloud^
 ||ttse.b-cdn.net^
 ||i.keezip.com^
 ||awd.spochak.com^
-
