@@ -1426,7 +1426,6 @@ avjoa69.com##.happy-header
 ntnt4.tv##a[data-testid="linkElement"][href^="http"][target="_blank"]:has(> wow-image)
 aniwolf.*##.banner-area
 anilife.*##div[class] > a[class][href^="http"][target="_blank"]
-[$domain=/^tvwiki[0-9]+\.com/]##div[id] > ul:has(a[href] > img[src^="/AD/"])
 hoduhodu.com##.w-full > a[target="_blank"] > img
 [$domain=/^kktv[0-9]+\.com/]##.modal_contents
 [$domain=/^tvmon[0-9]+\.org/]##.row-banner

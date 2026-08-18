@@ -102,13 +102,11 @@ nightofpeace.com,ilovebees.io##.e-grid.e-con-full.e-con.e-child:has(a[target="_b
 /lover[0-9]\.net/##.div-over
 /^torrentqq[0-9]+.com/##.at-banner
 /torrentpi[0-9]+\.com/##.basic-post-gallery
-/tvwiki[0-9]+\.tv/##a:has(> img[src^="https://static.wixstatic.com/media/"])
 /torrentzota[0-9]+\.com/##a[href^="/adver-"]
 /^tv[0-9]+\.wiki/###cpb-popup-banners
 /^tv[0-9]+\.wiki/##.custom_banner_wra
 /^tkor[0-9]+\.com/##*[class*="top_bann"]
 /^jusokorea[0-9]+\.com/##div[class*="-ad-banner"]
-/^tvwiki[0-9]+\.com/##ul[class^="banner"]
 /^sptv[0-9]+\.com/##.modal_contents
 /^torrentpi[0-9]+\.com/##style ~ .basic-post-gallery
 /^avguri[0-9]+\.com/##div[id$="_bn"]

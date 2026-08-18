@@ -15,9 +15,4 @@ torrentbot200.site,torrentbot201.site,torrentbot202.site,torrentbot203.site,torr
 torrentbot200.site,torrentbot201.site,torrentbot202.site,torrentbot203.site,torrentbot204.site,torrentbot205.site,torrentbot206.site,torrentbot207.site,torrentbot208.site##div[id^="ad_"]
 torrentqq390.com,torrentqq391.com,torrentqq392.com,torrentqq393.com,torrentqq394.com,torrentqq395.com,torrentqq396.com,torrentqq397.com##.row-banner
 torrentqq390.com,torrentqq391.com,torrentqq392.com,torrentqq393.com,torrentqq394.com,torrentqq395.com,torrentqq396.com,torrentqq397.com##.at-banner
-tvwiki22.com,tvwiki23.com,tvwiki24.com,tvwiki25.com,tvwiki26.com,tvwiki27.com,tvwiki28.com,tvwiki29.com,tvwiki30.com,tvwiki31.com,tvwiki32.com,tvwiki33.com,tvwiki34.com##div[id] > ul:has(a[href] > img[src^="/AD/"])
-tvwiki22.com,tvwiki23.com,tvwiki24.com,tvwiki25.com,tvwiki26.com,tvwiki27.com,tvwiki28.com,tvwiki29.com,tvwiki30.com,tvwiki31.com,tvwiki32.com,tvwiki33.com,tvwiki34.com##ul[class^="banner"]
-/https:\/\/tvwiki[0-9]+\.com\/AD\//$domain=tvwiki22.com|tvwiki23.com|tvwiki24.com|tvwiki25.com|tvwiki26.com|tvwiki27.com|tvwiki28.com|tvwiki29.com|tvwiki30.com|tvwiki31.com|tvwiki32.com|tvwiki33.com|tvwiki34.com
-/https:\/\/tvwiki[0-9]+\.com\/data\/banner\//$domain=tvwiki22.com|tvwiki23.com|tvwiki24.com|tvwiki25.com|tvwiki26.com|tvwiki27.com|tvwiki28.com|tvwiki29.com|tvwiki30.com|tvwiki31.com|tvwiki32.com|tvwiki33.com|tvwiki34.com
-/^https:\/\/cdn[a-z0-9]+\.site\/data\/banner\//$domain=tvwiki18.net|tvwiki19.net|tvwik20.net|tvwik21.net|tvwik22.net|tvwik23.net|tvwik24.net|tvwik25.net|tvwik26.net|tvwiki27.net|tvwiki28.net|tvwiki29.net|tvwiki30.net|tvwiki31.net|tvwiki32.net
 /^https:\/\/nooo[0-9]+\.tv\/theme\/renew\/img\/banner\//$domain=nooo10.tv|nooo11.tv|nooo12.tv|nooo13.tv|nooo14.tv|nooo15.tv|nooo16.tv|nooo17.tv|nooo18.tv|nooo19.tv|nooo20.tv
