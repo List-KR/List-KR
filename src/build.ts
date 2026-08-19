@@ -28,6 +28,6 @@ await Promise.all(config.map(entry => buildDefinition(entry, filtersListDir, out
 const pkgPath = path.resolve(repoRoot, "package.json");
 const pkg = JSON.parse(await readFile(pkgPath, "utf-8")) as {version: string};
 pkg.version = nextVersion;
-await writeFile(pkgPath, JSON.stringify(pkg, null, 2) + "\n");
+await writeFile(pkgPath, JSON.stringify(pkg, null, 4) + "\n");
 
 console.log(`Build complete: ${nextVersion}`);
