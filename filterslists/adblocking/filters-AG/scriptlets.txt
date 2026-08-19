@@ -96,3 +96,4 @@ cokcok.stream#%#//scriptlet('trusted-replace-node-text', 'script', '/const *_[a-
 [$domain=/lover[0-9]\.net/]#%#//scriptlet('prevent-addEventListener', 'click', 'popMagic')
 [$domain=/lover[0-9]\.net/]#%#//scriptlet('adjust-setTimeout', 'closeBtn.innerHTML', '*', '0.001')
 map.naver.com#%#//scriptlet('json-prune', 'items.[-].adId')
+goodmorningcc.com#%#//scriptlet('set-constant', '___popup', 'undefined')
