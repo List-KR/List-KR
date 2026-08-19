@@ -17,7 +17,7 @@ m.cafe.daum.net,biz.sbs.co.kr,metroseoul.co.kr,m.hub.zum.com,gqkorea.co.kr,beyon
 ! ##div[class$="Banner"]
 mimint.co.kr,economist.co.kr,dailian.co.kr,bigkinds.or.kr,hungryapp.co.kr,rhythmer.net##div[class$="Banner"]
 ! ##div[class$="banner"]
-sports.chosun.com,dcinside.com##div[class$="banner"]
+mt.co.kr,sports.chosun.com,dcinside.com##div[class$="banner"]
 ! ##div[class$="-banner"]
 m.megabox.co.kr,signin.gmarket.co.kr,eanews.kr,economist.co.kr,philgo.com,ondisk.co.kr,cineaste.co.kr,paxnet.co.kr,bigkinds.or.kr,toomics.com,ilbe.com##div[class$="-banner"]
 ! ##div[class^="banner"]
@@ -755,6 +755,8 @@ wjdqhzld.com##div[id^="wjdqh"]
 tistory.com,oracionspace.com,poketory.com##.revenue_unit_wrap
 topstarnews.net##div[class^="Ad"]
 news.mt.co.kr##.aside_bundle > div[style*="height:"]
+mt.co.kr##div:has(> div[class$="ad"])
+mt.co.kr##div.wing_ads_area
 search.11st.co.kr,m.munhwa.com##section[class$="_ad"]
 topstarnews.net##header .dis-table > div[style^="padding-top:"].dis-table-cell
 thebook.io##section[id$="_banner"]
