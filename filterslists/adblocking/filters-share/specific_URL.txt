@@ -63,6 +63,7 @@
 ||pedia.watcha.com/api/contents/*/venus|
 ||betanews.net/data/beta/upload/save/banner/
 ||newsis.com/h_www/advertise/
+||adflow.kr/ad/$third-party
 ||static.kbs.co.kr/advertisement/ad_config.json
 ||ggtics-static.s3.ap-northeast-1.amazonaws.com/dev-slot-image/$domain=your.gg
 ||biz.sbs.co.kr/ad/
@@ -1057,3 +1058,4 @@
 ||fundingchoicesmessages.google.com^$domain=damoang.net|maplescouter.com|vivatv.cc|singingdalong.blogspot.com|goodgag.net|bera.world|sellas.ink|hunigo.com|iteastory.com|snskeyboard.com|rdsong.com|mongri.net|meeco.kr|poketory.com|youthassembly.kr|kr.jugomobile.com|1412.live|pyrasis.com|oceansabyss.com|yongtj.com|dora-guide.com|tailstar.net|creativestudio.kr|gamejay.net|mksports.co.kr|sisamagazine.co.kr|dreamrail.co.kr|tistory.com|gukjenews.com|issuelink.co.kr|webtool.cusis.net|koreaminecraft.net
 ||goodmorningcc.com/bannerpop/$popup
 ||autopostkorea.com/wp-content/themes/fastviewPressTwo/local/ad.css^
+
