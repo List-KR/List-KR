@@ -29,3 +29,4 @@ mule.co.kr#$?#.section-lefttop-center:has(> .mule-today) { width: 100% !importan
 banhub.xyz#$#html { overflow: visible !important; }
 aniya24.com#$?#div[class*="-player-wrapper"] > .play-media-control ~ div[class^="beeteam"][class*="-player-sub-element"] { remove: true; }
 khan.co.kr#$?#aside.list-wrap { margin-top: 0 !important; }
+mlbpark.donga.com#$?#div.left_cont { float: none !important; margin-left: auto !important; margin-right: auto !important; }
