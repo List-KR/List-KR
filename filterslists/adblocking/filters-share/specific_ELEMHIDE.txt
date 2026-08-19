@@ -126,7 +126,7 @@ newautopost.co.kr###onesignal-slidedown-container
 newautopost.co.kr##.pc-post-ad-header
 newautopost.co.kr##.pc-post-ad-left-wrap
 newautopost.co.kr##.pc-post-ad-right-wrap
-newautopost.co.kr##.right-ad-event
+newautopost.co.kr##article.ad
 newautopost.co.kr##.weekly-best
 newautopost.co.kr##.rside-ad-01
 newautopost.co.kr##.newautopost-adsense-grid
