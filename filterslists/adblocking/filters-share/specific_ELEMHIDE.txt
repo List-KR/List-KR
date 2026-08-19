@@ -288,6 +288,7 @@ readersnews.com##.user-aside > div[style^="padding"]
 newdaily.co.kr##.header-banner
 kgnews.co.kr###news_body_area > div[style*="height:"]
 mlbpark.donga.com##div[id^="naver_cont"]
+mlbpark.donga.com##li.commercial
 namechart.kr##.container ~ .border-t:has(ins.adsbygoogle)
 dogdrip.net##.board-list .list > li:has(> #dogdripPowerLink, > #npl-list)
 m.search.naver.com##.square_tile_area .tile_area > .tile_list:has(._ad_icon)
