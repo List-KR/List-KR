@@ -1471,3 +1471,4 @@ svrforum.com##body > div[class][style*="box-shadow:"]
 bosik.kr##div.ad-template
 gj-senior.or.kr##div[id^="dsp-ad-container"]
 autopostkorea.com##article.ad
+wikitree.co.kr##section.section.container:has(> ul.article_list span.promoted)
