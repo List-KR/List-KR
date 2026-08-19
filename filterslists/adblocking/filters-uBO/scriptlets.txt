@@ -94,3 +94,4 @@ cokcok.stream##+js(trusted-replace-node-text, script, media_file, , includes, /c
 /lover[0-9]\.net/##+js(adjust-setTimeout, closeBtn.innerHTML, *, 0.001)
 ! kio.ac
 kio.ac##+js(nostif, , 200)
+map.naver.com##+js(json-prune, items.[-].adId)
