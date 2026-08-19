@@ -189,6 +189,7 @@ asked.kr##div[class^="realclickInner_"]
 news.jtbc.co.kr##.videoPlayerContainer > .print-hide:has(> .e1ecreks0 > .MuiBox-root)
 viewership.softc.one##.container.px-4 > .box-border.gap-8 > .rounded-md.min-h-\[140px\]:has(ins.adsbygoogle)
 m.inven.co.kr##div[class^="ad-bbs-view-"]
+inven.co.kr##div[style]:has(> section[class^="ad"])
 bada.us##.google_sense
 bada.us##.ad-thumb
 bada.us##div:has(> div[id^="div-gpt-ad"]:only-child)
