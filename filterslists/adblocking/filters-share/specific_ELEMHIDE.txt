@@ -1481,3 +1481,4 @@ autopostkorea.com##article.ad
 wikitree.co.kr##section.section.container:has(> ul.article_list span.promoted)
 fpn119.co.kr##div.bn
 pennmike.com##div[id^="popup"]:has(img[src*="banner"])
+kyeongin.com##div[id^="svcad"]
