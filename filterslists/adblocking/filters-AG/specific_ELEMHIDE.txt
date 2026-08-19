@@ -214,12 +214,6 @@ algumon.com##div[id^="deal-"].card ~ .bg-base-100:has(div[style] > div[class*=" 
 [$domain=/^manaboza[0-9]+\.com/]##.comic_bot_bnr
 [$domain=/^newtoon[0-9]+\.com/]##.ad-form > .row > div[class^="col-md-"]
 [$domain=/^blacktoon[0-9]+\.com/]##.banner.container > .row > .col-6
-[$domain=/^manatoki[0-9]+\.net/]###hd_pop
-[$domain=/^booktoki[0-9]+\.com/]###hd_pop
-[$domain=/^booktoki[0-9]+\.com/]##img[src^="/tokinbtoki/"]
-[$domain=/^manatoki[0-9]+\.net/]##[style="margin-bottom: 20px;"].row.row-15
-[$domain=/^manatoki[0-9]+\.net/]##.basic-banner.row.row-10
-[$domain=/^manatoki[0-9]+\.net/]##.board-tail-banner
 [$domain=/blacktoon[0-9]+\.com/]##.toon-viewer .col-12[style^="padding:"]
 [$domain=/majorlink[0-9]+\.com/]##.major_site_latest
 [$domain=/newto[0-9]+\.com/]##div[class^="basic-banner-"]

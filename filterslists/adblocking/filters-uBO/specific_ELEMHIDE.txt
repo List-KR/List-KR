@@ -142,7 +142,6 @@ nightofpeace.com,ilovebees.io##.e-grid.e-con-full.e-con.e-child:has(a[target="_b
 /^tvbox[0-9]+\.xyz/##div[class*="-banner"] div[class*=" "][style=" "]
 /^ydbox[0-9]+\.com/##div[class*="-banner"] div[class*=" "][style=" "]
 /^linkeye[0-9]+\.com/##div[class*="banner-"]
-/^booktoki[0-9]+\.com/##div[id*="-banner-"] > div[class*=" "] > div[class*=" "][style*=" "]
 /^spotv[0-9]+\.com/##div[id$="-banner"]
 !#if !adguard_ext_android_cb
 /^lover[0-9]+\.net/##.xe_content span ~ div[style]
@@ -165,12 +164,6 @@ nightofpeace.com,ilovebees.io##.e-grid.e-con-full.e-con.e-child:has(a[target="_b
 /^manaboza[0-9]+\.com/##.comic_bot_bnr
 /^newtoon[0-9]+\.com/##.ad-form > .row > div[class^="col-md-"]
 /^blacktoon[0-9]+\.com/##.banner.container > .row > .col-6
-/^manatoki[0-9]+\.net/###hd_pop
-/^booktoki[0-9]+\.com/###hd_pop
-/^booktoki[0-9]+\.com/##img[src^="/tokinbtoki/"]
-/^manatoki[0-9]+\.net/##[style="margin-bottom: 20px;"].row.row-15
-/^manatoki[0-9]+\.net/##.basic-banner.row.row-10
-/^manatoki[0-9]+\.net/##.board-tail-banner
 /blacktoon[0-9]+\.com/##.toon-viewer .col-12[style^="padding:"]
 /majorlink[0-9]+\.com/##.major_site_latest
 /newto[0-9]+\.com/##div[class^="basic-banner-"]
