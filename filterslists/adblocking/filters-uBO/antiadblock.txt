@@ -119,9 +119,6 @@ persnacons.tistory.com#@#.topAD
 singingdalong.blogspot.com,sajuplus.net##.adsense-alt
 tistory.com,sajuplus.net##+js(set, checkAds, noopFunc)
 ! foreign website
-hasha.in##+js(no-fetch-if, adManager.js)
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=hasha.in
-@@||js.wpadmngr.com/static/adManager.js$xmlhttprequest,domain=hasha.in
 lover932.net,lover933.net,lover934.net,lover935.net,lover936.net,lover937.net,lover938.net,lover939.net,lover940.net,lover941.net##+js(nostif, document[_0x)
 ! chzzk.naver.com
 chzzk.naver.com##+js(spoof-css, .banner_ad_wrapper, display, block)
@@ -131,4 +128,3 @@ chzzk.naver.com##+js(no-xhr-if, /(veta.naver.com\/vas|veta.naver.com\/gfp|veta.n
 ||lib.wtg-ads.com/publisher/kio.ac/sb_interstitial_wtg.js$script,redirect=noop.js,domain=kio.ac,important
 ! dicoall.com
 dicoall.com##+js(no-fetch-if, fundingchoicesmessages.google.com/b/pub-1437333416759682 method:HEAD)
-
