@@ -1055,3 +1055,4 @@
 ||goodmorningcc.com/bannerpop/$popup
 ||autopostkorea.com/wp-content/themes/fastviewPressTwo/local/ad.css^
 ||wimg.kyeongin.com/svc/banner/
+/mt/banner^$image,to=menu.mt.co.kr

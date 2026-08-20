@@ -759,6 +759,7 @@ topstarnews.net##div[class^="Ad"]
 news.mt.co.kr##.aside_bundle > div[style*="height:"]
 mt.co.kr##div:has(> div[class$="ad"])
 mt.co.kr##div.wing_ads_area
+mt.co.kr##div.cms_banner
 search.11st.co.kr,m.munhwa.com##section[class$="_ad"]
 topstarnews.net##header .dis-table > div[style^="padding-top:"].dis-table-cell
 thebook.io##section[id$="_banner"]
