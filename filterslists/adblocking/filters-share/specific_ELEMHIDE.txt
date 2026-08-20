@@ -1177,7 +1177,6 @@ dpg.danawa.com###danawa-gnb-banner
 joynews24.com,inews24.com##aside > hr[class]
 m.joynews24.com,inews24.com##article > div[style]:not([class])
 arca.live##div#newsRank
-arca.live##a.vrow.column.notice:not([href*="/b/"]):not(.notice-unfilter)
 m.happymoney.co.kr##.topBannerUse
 happymoney.co.kr###topBnrWrap
 happymoney.co.kr###content  > .mainBanner
