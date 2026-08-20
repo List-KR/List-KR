@@ -50,12 +50,10 @@ m.dcinside.com##+js(no-xhr-if, addc.dcinside.com, emptyStr)
 gall.dcinside.com##+js(set, blockedState, '')
 gall.dcinside.com##+js(remove-node-text, script, /background:[\s\S]+setTimeout\( *\( *\) *=> *[A-Za-z0-9]+\.remove\( *\)[\s\S]+Math\.random\( *\) *< *percent *\/ *100/)
 gall.dcinside.com##+js(remove-node-text, script, /finally *{\n* *document.documentElement.removeChild\( *[A-Za-z0-9]+ *\) *;\n* *}([ \n]|.)+_ad"]\);/)
-! chzzkban.xyz
-chzzkban.xyz##+js(no-fetch-if, pagead2.googlesyndication.com/pagead/js/adsbygoogle.js method:HEAD, emptyStr)
-! litomi.in
-||jads.co^$script,redirect=noop.js,domain=litomi.in
-litomi.in##+js(trusted-create-html, #juicy-ads-banner > div[data-juicy-ads-slot] > div, <iframe></iframe>)
-litomi.in##ins
+! litomi.cc
+||jads.co^$script,redirect=noop.js,domain=litomi.cc
+litomi.cc##+js(trusted-create-html, #juicy-ads-banner > div[data-juicy-ads-slot] > div, <iframe></iframe>)
+litomi.cc##ins
 ! cpsp.kr
 cpsp.kr#@#.adsbox
 cpsp.kr#@#.ad-banner
