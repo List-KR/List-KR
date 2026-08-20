@@ -22,7 +22,6 @@ pcmap.place.naver.com#?#div[data-nclicks-area-code] > div[class="place_section"]
 shopping.interpark.com#?#.productSortingList > .listTitle:has(a[aria-describedby^="adLayerChoice"])
 geekorea.com#?#.gb-container > .container-widget:has(ins.adsbygoogle)
 atlantak.com#?#div:is([aria-label="Primary Sidebar"], #home-sidebar) > aside:has(img.image)
-dprime.kr#?##list_aside div[id^="list_row_"].list_table_row_notice:has(a[href$="?bo_table=notice&sca=%EC%8A%A4%ED%8F%B0%EC%84%9C"])
 i-boss.co.kr#?#.outer-container table[width="100%"] tr:has(td a[data-bd].banner)
 avada.tistory.com#?#.swim-side .module_plugin:has(a[target="_blank"])
 search.11st.co.kr#?##cts .l-grid--nobg:has(button[data-log-actionid-area="power"])
@@ -90,7 +89,6 @@ fntimes.com#?#.con_rt > div[class^="lcrt"] ~ div[class^="mcrt"]:has(img[src*="/c
 ceoscoredaily.com#?#.wcms_bestnews ~ div[class]:has(~ div[class] ~ .side_major_company)
 kayak.co.kr#?#.keel-grid .col-list-body .resultsList div:not([class]):not([id]):has(div[class*="-promo-"] span[class$="-sponsored-text"])
 zdnet.co.kr#?#.power_box div[class^="asset"]:has(iframe[src*="//adv.zdnet.co.kr/"])
-dprime.kr#?##sidebar_container .relative:has([class*="_ad_"]) ~ div[class^="spacer"]
 kayak.co.kr#?#.Ui-Hotels-Results-List-Components-RheaLiteWrapper-container div:not([class]):has(div[class$="-sponsored"])
 m.search.daum.net#?#body.nate .section_cont [disp-attr]:has(> div:matches-css(display: none))
 extmovie.com#?#div[style].xe-widget-wrapper:has(a[href^="/sisaing"])
@@ -102,7 +100,6 @@ noteforum.co.kr#?#table[style][width][cellspacing][cellpadding] tr[valign] > td[
 sports.chosun.com#?#.popular-news-widget:has(> *:matches-css(display: none))
 pohangnews.co.kr#?#table td[valign][width] table > tbody > tr:not([bgcolor]) > td[height]:has(a[target="_blank"])
 ohmytaxinews.com#?#table[bgcolor][cellspacing] td[bgcolor] table[width][cellspacing]:not([bgcolor]):has(tr marquee#innovationGA)
-dprime.kr#?##view_warning .relative:has(ins.adsbygoogle):not([class*="_content"])
 m.inven.co.kr#?#.swiper-slide-active .part-visible-normal:has(img[src*="//static.marketinven.com/data/brand/"])
 www.incruit.com#?#.cPrdlists_wrap > .cPrdlists_rows:has(script[src*="//nvapi.feeldmc.com/"])
 0db.co.kr#?#.wrap_body .clearBoth ~ div[class^="margin_bottom"]:not(:has(+ *))
