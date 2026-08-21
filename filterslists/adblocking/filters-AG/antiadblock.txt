@@ -245,6 +245,7 @@ chzzk.naver.com#@#.banner_ad_wrapper
 !#else
 chzzk.naver.com#%#//scriptlet('spoof-css', '.banner_ad_wrapper', 'display', 'block')
 chzzk.naver.com#%#//scriptlet('trusted-json-set-xhr-response', 'content.playerAdDisplayResponse', 'json:{"preRoll":false,"midRoll":false}', 'content.playerAdDisplayResponse.preRoll', '/ad/display-status')
+chzzk.naver.com#%#//scriptlet('trusted-suppress-native-method', 'atob', '"c2V0UmVxdWVzdEhlYWRlcg=="', 'abort', 'isXhrTampered')
 !#if (adguard_app_windows || adguard_app_mac || adguard_app_cli || adguard_app_android)
 ||nam.veta.naver.com/vas|$xmlhttprequest,domain=chzzk.naver.com,redirect=nooptext
 ||nam.veta.naver.com/gfp$xmlhttprequest,domain=chzzk.naver.com,redirect=nooptext
