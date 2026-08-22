@@ -1,6 +1,6 @@
 {
     "name": "@list-kr/filterslists",
-    "version": "0.0.0",
+    "version": "2026.20687.48044690",
     "description": "The adblock filters lists for uBO and AdGuard, designed for Korean-language websites",
     "type": "module",
     "scripts": {
