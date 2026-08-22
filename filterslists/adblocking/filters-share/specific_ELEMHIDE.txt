@@ -1489,3 +1489,4 @@ fpn119.co.kr##div.bn
 pennmike.com##div[id^="popup"]:has(img[src*="banner"])
 kyeongin.com##div[id^="svcad"]
 weather.com##div[data-block-id]:has(> div :is(section.adContainer, div[id^="taboola"]))
+wikidocs.net##div.blog-adsense-block
