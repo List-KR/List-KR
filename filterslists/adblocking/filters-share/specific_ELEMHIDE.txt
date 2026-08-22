@@ -449,6 +449,7 @@ news.tvchosun.com##iframe[src*="//img.tvchosun.com/upload_img/"][src*="/ad/"]
 news.tvchosun.com###banner_header
 game.naver.com##img[src^="https://nng-phinf.pstatic.net/"][src*="_naverads."]
 chimhaha.net###adsense
+chimhaha.net##div[id^="slot"][name]
 hani.co.kr###content div[class^="ArticleDetail_section_"] > div[class^="MainNativeLab_wrap"]
 humorpick.com##.list-body > .list-item-ad
 betanews.net##iframe[src*="/banner.html"]

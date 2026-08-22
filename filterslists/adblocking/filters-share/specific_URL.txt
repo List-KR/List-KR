@@ -242,6 +242,10 @@
 ||melon-pan.com/plugin/adcover/
 /wp-content/plugins/brave-popup-builder/assets/frontend/brave.js$domain=smartinpress.com|hotissuepoint.com|keela.co.kr
 ||resources.chimhaha.net/banner/
+||resources.chimhaha.net/app/*/js/googleTagManager.min.js
+||resources.chimhaha.net/app/*/js/adsSlotChange.min.js
+||resources.chimhaha.net/app/*/css/naverPowerLink.css^
+||resources.chimhaha.net/app/*/js/naverPowerLink.min.js^
 ||ilbe.com/img/banner/
 ||i0.wp.com/atlantak.com/wp-content/uploads/*.gif?resize=*&ssl=1
 ||i0.wp.com/atlantak.com/wp-content/uploads/*?w=*&ssl=1
