@@ -450,6 +450,9 @@ news.tvchosun.com###banner_header
 game.naver.com##img[src^="https://nng-phinf.pstatic.net/"][src*="_naverads."]
 chimhaha.net###adsense
 chimhaha.net##div[id^="slot"][name]
+chimhaha.net##div[style="margin-top: 50px;"]
+chimhaha.net##div[style="margin-bottom: 20px;"]
+chimhaha.net##div.powerLinkAdsCenter
 hani.co.kr###content div[class^="ArticleDetail_section_"] > div[class^="MainNativeLab_wrap"]
 humorpick.com##.list-body > .list-item-ad
 betanews.net##iframe[src*="/banner.html"]
