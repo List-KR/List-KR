@@ -1,6 +1,6 @@
 import {readFile} from "node:fs/promises";
 
-export type AdblockType = "AdGuard" | "uBlockOrigin"
+export type AdblockType = "AdGuard" | "uBlockOrigin" | "DNS"
 
 export type FiltersListsConfigEntry = {
     name: string
@@ -35,7 +35,7 @@ function asString(v: unknown, field: string): string {
 }
 
 function asAdblockType(v: unknown): AdblockType {
-    if (v !== "AdGuard" && v !== "uBlockOrigin") throw new Error(`Invalid adblockType: ${v}`);
+    if (v !== "AdGuard" && v !== "uBlockOrigin" && v !== "DNS") throw new Error(`Invalid adblockType: ${v}`);
     return v;
 }
 
