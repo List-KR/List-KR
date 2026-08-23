@@ -26,3 +26,9 @@ jobs:
 
             -   name: Run AGLint
                 run: pnpm run lint
+
+            -   name: Run tests
+                run: pnpm test
+
+            -   name: Build filter lists
+                run: pnpm run build

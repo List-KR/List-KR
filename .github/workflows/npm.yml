@@ -35,6 +35,9 @@ jobs:
             -   name: Run AGLint
                 run: pnpm run lint
 
+            -   name: Run tests
+                run: pnpm test
+
     build:
         name: Build and Publish to npm
         needs: lint

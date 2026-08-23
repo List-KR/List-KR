@@ -39,6 +39,16 @@
             "definitionFileName": "filterslist-uBlockOrigin-unified.txt",
             "description": "DEPRECATED: 호환성을 위해 유지되는 구독 주소입니다. 새 구독 주소: https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-uBlockOrigin.txt",
             "adblockType": "uBlockOrigin"
+        },
+        {
+            "name": "List-KR DNS",
+            "definitionFileName": "filterslist-DNS.txt",
+            "description": "DNS 수준에서 한국어권 웹 페이지 및 앱의 광고 및 트래커 도메인을 차단합니다.",
+            "exclusions": [
+                "||ad-api.band.us^",
+                "||veta.naver.com^"
+            ],
+            "adblockType": "DNS"
         }
     ]
 }

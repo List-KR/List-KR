@@ -5,6 +5,10 @@ import * as AGTree from "@adguard/agtree";
 import type {FiltersListsConfigEntry} from "./config";
 
 const parseOptions: AGTree.ParserOptions = {parseUboSpecificRules: true};
+const removableDnsModifiers = new Set(["third-party", "3p", "document", "doc", "all", "popup", "network"]);
+const supportedDnsModifiers = new Set([
+    "client", "denyallow", "dnstype", "dnsrewrite", "important", "badfilter", "ctag", "respgeo"
+]);
 
 export async function parseFilterList(filePath: string): Promise<AGTree.FilterList> {
     return AGTree.FilterListParser.parse(await readFile(filePath, "utf-8"), parseOptions);
@@ -77,6 +81,37 @@ export async function bundleIncludes(
     return {...list, children: out};
 }
 
+export function prepareDnsFilterList(list: AGTree.FilterList, exclusions: readonly string[]): AGTree.FilterList {
+    const excludedRules = new Set(exclusions);
+    const seenRules = new Set<string>();
+    const children = list.children.flatMap((rule): AGTree.AnyRule[] => {
+        if (rule.type !== "NetworkRule") return [rule];
+
+        let normalized: AGTree.NetworkRule = rule;
+        if (rule.modifiers) {
+            const modifiers = rule.modifiers.children.filter(
+                ({name}) => !removableDnsModifiers.has(name.value.toLowerCase())
+            );
+            const unsupported = modifiers.filter(({name}) => !supportedDnsModifiers.has(name.value.toLowerCase()));
+            if (unsupported.length > 0) {
+                const names = unsupported.map(({name}) => `$${name.value}`).join(", ");
+                throw new Error(`Unsupported DNS modifier(s) ${names} in rule: ${AGTree.RuleGenerator.generate(rule)}`);
+            }
+            if (modifiers.length !== rule.modifiers.children.length) normalized = {
+                ...rule,
+                raws: undefined,
+                modifiers: modifiers.length > 0 ? {...rule.modifiers, children: modifiers} : undefined
+            };
+        }
+
+        const text = AGTree.RuleGenerator.generate(normalized);
+        if (excludedRules.has(text) || seenRules.has(text)) return [];
+        seenRules.add(text);
+        return [normalized];
+    });
+    return {...list, children};
+}
+
 export function buildHeader(entry: FiltersListsConfigEntry, now = new Date()): string {
     const expiresLabel = entry.expireDuration === 1 ? "day" : "days";
     return [
@@ -99,8 +134,9 @@ export async function buildDefinition(
     const defPath = path.resolve(filtersListDir, entry.definitionFileName);
     const parsed = await parseFilterList(defPath);
     const bundled = await bundleIncludes(parsed, filtersListDir, processableCache);
+    const prepared = entry.adblockType === "DNS" ? prepareDnsFilterList(bundled, entry.exclusions) : bundled;
     const header = buildHeader(entry);
-    const body = header + stringifyFilterList(bundled);
+    const body = header + stringifyFilterList(prepared);
     const outPath = path.resolve(outputDir, entry.definitionFileName);
     await mkdir(path.dirname(outPath), {recursive: true});
     await writeFile(outPath, body);

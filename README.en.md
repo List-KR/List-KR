@@ -27,7 +27,7 @@ https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-uBloc
 
 **List-KR DNS**:
 ```
-https://cdn.jsdelivr.net/gh/adguardteam/HostlistsRegistry@main/assets/filter_25.txt
+https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-DNS.txt
 ```
 
 ### Naver Cafe

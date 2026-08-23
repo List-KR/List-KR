@@ -1,11 +1,12 @@
 import {readFile} from "node:fs/promises";
 
-export type AdblockType = "AdGuard" | "uBlockOrigin"
+export type AdblockType = "AdGuard" | "uBlockOrigin" | "DNS"
 
 export type FiltersListsConfigEntry = {
     name: string
     definitionFileName: string
     description: string
+    exclusions: string[]
     expireDuration: number
     homepageUrl: string
     supportUrl: string
@@ -26,6 +27,7 @@ type RawDefinition = RawDefaults & {
     name?: unknown
     definitionFileName?: unknown
     description?: unknown
+    exclusions?: unknown
     adblockType?: unknown
 }
 
@@ -35,7 +37,15 @@ function asString(v: unknown, field: string): string {
 }
 
 function asAdblockType(v: unknown): AdblockType {
-    if (v !== "AdGuard" && v !== "uBlockOrigin") throw new Error(`Invalid adblockType: ${v}`);
+    if (v !== "AdGuard" && v !== "uBlockOrigin" && v !== "DNS") throw new Error(`Invalid adblockType: ${v}`);
+    return v;
+}
+
+function asStringArray(v: unknown, field: string): string[] {
+    if (v === undefined) return [];
+    if (!Array.isArray(v) || !v.every((item): item is string => typeof item === "string")) {
+        throw new Error(`Config ${field} must be an array of strings`);
+    }
     return v;
 }
 
@@ -56,6 +66,7 @@ export async function loadFiltersListsConfig(configPath: string): Promise<Filter
             name: item.name,
             definitionFileName: item.definitionFileName,
             description: typeof item.description === "string" ? item.description : "",
+            exclusions: asStringArray(item.exclusions, "exclusions"),
             expireDuration: typeof item.expireDuration === "number"
                 ? item.expireDuration
                 : typeof defaults.expireDuration === "number" ? defaults.expireDuration : 1,
