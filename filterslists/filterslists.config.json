@@ -43,7 +43,11 @@
         {
             "name": "List-KR DNS",
             "definitionFileName": "filterslist-DNS.txt",
-            "description": "List-KR DNS 필터 리스트입니다. 한국어권 웹 페이지 및 앱에 있는 광고, 트래커, 방해 요소와 안티 애드블록을 차단합니다.",
+            "description": "DNS 수준에서 한국어권 웹 페이지 및 앱의 광고 및 트래커 도메인을 차단합니다.",
+            "exclusions": [
+                "||ad-api.band.us^",
+                "||veta.naver.com^"
+            ],
             "adblockType": "DNS"
         }
     ]

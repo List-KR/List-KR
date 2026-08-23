@@ -1,11 +1,12 @@
 {
     "name": "@list-kr/filterslists",
-    "version": "2026.20687.48044690",
+    "version": "0.0.0",
     "description": "The adblock filters lists for uBO and AdGuard, designed for Korean-language websites",
     "type": "module",
     "scripts": {
         "build": "tsx src/build.ts",
-        "lint": "aglint \"filterslists/**/*.txt\""
+        "lint": "aglint \"filterslists/**/*.txt\"",
+        "test": "tsc --noEmit && node --import tsx --test src/filterList.test.ts"
     },
     "files": [
         "dist/**/*"
