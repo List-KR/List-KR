@@ -5,7 +5,10 @@ import * as AGTree from "@adguard/agtree";
 import type {FiltersListsConfigEntry} from "./config";
 
 const parseOptions: AGTree.ParserOptions = {parseUboSpecificRules: true};
-const unsupportedDnsModifiers = new Set(["third-party", "3p", "document", "doc", "all", "popup", "network"]);
+const removableDnsModifiers = new Set(["third-party", "3p", "document", "doc", "all", "popup", "network"]);
+const supportedDnsModifiers = new Set([
+    "client", "denyallow", "dnstype", "dnsrewrite", "important", "badfilter", "ctag", "respgeo"
+]);
 
 export async function parseFilterList(filePath: string): Promise<AGTree.FilterList> {
     return AGTree.FilterListParser.parse(await readFile(filePath, "utf-8"), parseOptions);
@@ -86,7 +89,14 @@ export function prepareDnsFilterList(list: AGTree.FilterList, exclusions: readon
 
         let normalized: AGTree.NetworkRule = rule;
         if (rule.modifiers) {
-            const modifiers = rule.modifiers.children.filter(({name}) => !unsupportedDnsModifiers.has(name.value));
+            const modifiers = rule.modifiers.children.filter(
+                ({name}) => !removableDnsModifiers.has(name.value.toLowerCase())
+            );
+            const unsupported = modifiers.filter(({name}) => !supportedDnsModifiers.has(name.value.toLowerCase()));
+            if (unsupported.length > 0) {
+                const names = unsupported.map(({name}) => `$${name.value}`).join(", ");
+                throw new Error(`Unsupported DNS modifier(s) ${names} in rule: ${AGTree.RuleGenerator.generate(rule)}`);
+            }
             if (modifiers.length !== rule.modifiers.children.length) normalized = {
                 ...rule,
                 raws: undefined,
