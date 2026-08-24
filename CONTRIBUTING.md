@@ -11,16 +11,6 @@ If you want to become a maintainer, please follow the folllowing rules:
 
 And, email one of the administrators.
 
-## Become a Sub-Maintainer
-If you want to become a sub-maintainer, please follow the folllowing rules:
- - You have write permission (or higher) of AdguardFilters or uAssets.
- - You are a member of [listauthorschat.slack.com](https://listauthorschat.slack.com).
- - All commit that is pushed to master branch must be signed.
- - Publishing your OpenPGP public key is highly recommended.
-
-And, email one of the administrators.
-
-## Work without an offline editor
 ### With write permission
 1. Sign in to GitHub.
 2. Go to https://github.dev/List-KR/List-KR or press `.`.
