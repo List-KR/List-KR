@@ -1499,3 +1499,5 @@ bbs2.tunaground.net##div[class^="CustomHtml"]:has(ins.adsbygoogle)
 todayhumor.co.kr##div.under_ad_div
 incheonation.kr##div.side_banner
 infosto.tistory.com##aside#aside
+vop.co.kr##div.arcad
+
