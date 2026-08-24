@@ -25,7 +25,7 @@ bgchang.co.kr,edit.incruit.com,m.hungryapp.co.kr,m.edaily.co.kr,m.news1.kr,bntne
 ! ##div[class$="-ad"]
 m.yonhapnewstv.co.kr,kyeongin.com,youtu.co,dfast.kr,mememedia.co.kr,tvreport.co.kr,m.tenbizt.com,acmicpc.net,www.auction.co.kr,m.11st.co.kr,todaysppc.com,gmarket.co.kr,kpenews.com,m.diningcode.com,insight.co.kr,cgv.co.kr,m.inven.co.kr,tipsandtrickskorea.com,gamemeca.com,yeongnam.com##div[class$="-ad"]
 ! ##div[id^="ad"]
-app.dcinside.com,m.tf.co.kr,search.daum.net,search.zum.com,newdaily.co.kr,nzkoreapost.com,moneys.co.kr,fmkorea.com,newstomato.com,gamemeca.com,m.khan.co.kr,m.dcinside.com##div[id^="ad"]
+mydaily.co.kr,app.dcinside.com,m.tf.co.kr,search.daum.net,search.zum.com,newdaily.co.kr,nzkoreapost.com,moneys.co.kr,fmkorea.com,newstomato.com,gamemeca.com,m.khan.co.kr,m.dcinside.com##div[id^="ad"]
 ! ##div[id^="AD"]
 mediatoday.co.kr,newsworker.co.kr##div[id^="AD"]
 ! ##div[class^="Banner"]
@@ -516,9 +516,7 @@ wadiz.kr##div[class^="RecommendationMobile_cardWrapper_"] > a[class^="MainBanner
 wadiz.kr##div[class^="KeyVisualBanner_container_"]
 ppss.kr##ad-shield-ads
 web.humoruniv.com###wrap_cnts > div[style*="margin:"][style^="width:"].box
-m.mydaily.co.kr##.article_view ~ div[style^="width:"].clean_banner ~ .wcms_banner ~ .h50
-m.mydaily.co.kr##.article_view ~ div[style^="text-align:"].clean_banner ~ .wcms_banner + .h45
-m.mydaily.co.kr##.article_view ~ div[style^="text-align:"].clean_banner +.h50
+mydaily.co.kr##:is(.wcms_banner, .clean_banner) + [class^="h"]
 sportschosun.com##div[data-nosnippet]
 sportschosun.com##div.d-none:has(> div > div > div[class^="ad"])
 m.sports.chosun.com,m.sportschosun.com##div[id$="ad"][class^="ad"]
