@@ -1494,3 +1494,5 @@ weather.com##div[data-block-id]:has(> div :is(section.adContainer, div[id^="tabo
 wikidocs.net##div.blog-adsense-block
 itssa.co.kr##div[style]:has(> div[style] > ins[id*="ad"])
 
+redflame.co.kr##section:has(> ins.adsbygoogle)
+
