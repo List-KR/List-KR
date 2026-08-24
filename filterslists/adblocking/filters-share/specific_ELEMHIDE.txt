@@ -1498,4 +1498,4 @@ redflame.co.kr##section:has(> ins.adsbygoogle)
 beautywiki.net##div.container > div.fixed:has(button[aria-label$="배너"])
 bbs2.tunaground.net##div[class^="CustomHtml"]:has(ins.adsbygoogle)
 todayhumor.co.kr##div.under_ad_div
-
+incheonation.kr##div.side_banner
