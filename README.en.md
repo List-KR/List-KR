@@ -9,6 +9,8 @@ List-KR is an ad blocking filter list maintained by the Ad Blocking community.
 
 If you need private support via email, check each contributor’s GitHub profile for their contact information.
 
+**List-KR is not affiliated with AdGuard Software Limited. If you have issues or concerns which is related to AdGuard, not List-KR, please open issue on [AdguardFilters](https://github.com/AdguardTeam/AdguardFilters) or use [AdGuard Report Issue Form](https://reports.adguard.com/en/new_issue.html) instead.**
+
 ## Usage
 
 You can use the following URLs to add List-KR to your ad blocker.

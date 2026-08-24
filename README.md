@@ -7,7 +7,7 @@ List-KR 필터 리스트에 관련된 질문이나 문의는 이 레포의 이�
 
 나무위키 광고차단은 [namuwiki-powerlink-blocker](https://github.com/List-KR/namuwiki-powerlink-blocker), Ad-Shield 차단은 [adshield-defense](https://github.com/List-KR/adshield-defense) 레포지토리를 참고해주세요.
 
-AdGuard 필터 리스트 이슈라면 [AdguardFilters](https://github.com/AdguardTeam/AdguardFilters/issues) 이슈 트래커 또는 [Adguard 익명 제보 시스템](https://reports.adguard.com/ko/new_issue.html)을 이용해주세요.
+**List-KR은 AdGuard Software Limited와 연관이 없습니다. AdGuard 필터 리스트 이슈라면 [AdguardFilters](https://github.com/AdguardTeam/AdguardFilters/issues) 이슈 트래커 또는 [Adguard 익명 제보 시스템](https://reports.adguard.com/ko/new_issue.html)을 이용해주세요.**
 
 ---
 
