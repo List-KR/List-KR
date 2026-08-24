@@ -1338,6 +1338,7 @@ ddanzi.com##.add_display
 ddanzi.com##div.board_sort:not(:has(> ul))
 m.naver.com##.ISSUE-BANNER-AD
 itcm.co.kr##.top-owl.owl-carousel
+itcm.co.kr##div.section_AD
 mule.co.kr##.header-center.cf > .header-center-imgbox > a > img[src*="//cdn.mule.co.kr/data/original/"]
 mule.co.kr##div[class^="section-"][class$="-ad"]
 mule.co.kr##div[class^="section-"][class$="-bigad"]
