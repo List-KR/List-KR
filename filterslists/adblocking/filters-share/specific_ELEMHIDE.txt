@@ -99,6 +99,7 @@ search.danawa.com###powerShoppingAreaBottom
 m.humoruniv.com###comment #power_place
 starnewskorea.com##.ad-tag
 etoland.co.kr##[data-inouts-click="true"]
+etoland.co.kr##li:has(img[alt="etoAD"])
 etoland.co.kr##[data-pl-type]
 etoland.co.kr##body > .bg-black\/75.px-4.py-6
 m.search.naver.com##ul > li[data-slog-content][data-slog-visible]:has(> div[class] > div[id^="view_type_"] a[href="https://m.help.pay.naver.com/faq/list.help?rootCategoryId=10503&faqId=10891"])
