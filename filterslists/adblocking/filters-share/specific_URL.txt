@@ -1063,3 +1063,4 @@
 /mt/banner^$image,to=menu.mt.co.kr
 ||beautiwiki.net/banners/
 ||ae01.alicdn.com^$image,domain=infosto.tistory.com
+||breaknews.com/data/breaknews_com/banner/
