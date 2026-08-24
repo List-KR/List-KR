@@ -1335,6 +1335,7 @@ dschool.co.kr##.mdt1
 dschool.co.kr##.fvr
 dschool.co.kr##.btop
 ddanzi.com##.add_display
+ddanzi.com##div.board_sort:not(:has(> ul))
 m.naver.com##.ISSUE-BANNER-AD
 itcm.co.kr##.top-owl.owl-carousel
 mule.co.kr##.header-center.cf > .header-center-imgbox > a > img[src*="//cdn.mule.co.kr/data/original/"]
