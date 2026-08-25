@@ -35,6 +35,8 @@ jobs:
         name: Check and update domains
         runs-on: ubuntu-latest
         timeout-minutes: 30
+        outputs:
+            commit_sha: ${{ steps.checker.outputs['commit-sha'] }}
         permissions:
             contents: write
         steps:
@@ -47,6 +49,7 @@ jobs:
                     git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
             -   name: Check rotating domains
+                id: checker
                 uses: Alex-302/RotatingDomainsChecker@dec72766c10eb1d36ccb60a6e0593aa9bc6561d2
                 with:
                     mode: ${{ github.event.inputs.mode || 'prod_live' }}
@@ -54,3 +57,16 @@ jobs:
                     filters-path: ${{ github.event.inputs.filters_path || './' }}
                 env:
                     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    publish:
+        name: Trigger publish workflow
+        needs: update
+        if: ${{ needs.update.outputs.commit_sha != '' }}
+        runs-on: ubuntu-latest
+        permissions:
+            actions: write
+        steps:
+            -   name: Publish updated filters
+                env:
+                    GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+                run: gh workflow run npm.yml --ref master
