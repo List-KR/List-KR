@@ -1,0 +1,56 @@
+http:
+  timeout: 10000
+  retries: 2
+  resolveTimeout: 10000
+  heuristicTimeout: 10000
+  userAgent: "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+
+processing:
+  parallel: 10
+  resolveParallel: 18
+  heuristicParallel: 20
+  redirectDepth: 20
+
+dnsPreCheck:
+  enabled: true
+  timeout: 3000
+  retryOnce: true
+
+contentProbe:
+  enabled: true
+
+antibot:
+  detectCodes: [403, 409]
+  detectUrlPattern: "__cf_chl_tk"
+
+thresholds:
+  failedDaysWarning: 14
+
+heuristic:
+  enabled: true
+  maxAttempts: 20
+  skipOnAntibot: true
+  attemptParallel: 3
+  dnsParallel: 50
+  forceHeuristicOnCodes: [403, 404, 500, 502, 503, 504]
+
+skip_text:
+  - "This domain is parked"
+  - "router.parklogic.com"
+  - "sedoParkingUrl"
+  - "We don't use this website, yet!"
+
+logging:
+  saveToFile: false
+  incremental: false
+  filePath: "logs/rotating-domains-checker.log"
+
+git:
+  mode: "prod"
+  branch: "master"
+  prBranchPrefix: "domain-rotate"
+
+filtersdir:
+  repoPath: "."
+  filterDirPattern: "filterslists"
+  filePattern: "*.txt"
