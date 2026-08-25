@@ -149,6 +149,10 @@
 ||whosaeng.com/data/m.whosaeng.com/mo_
 ||m.enter.etoday.co.kr/images/ad/
 /^https:\/\/nng-phinf\.pstatic\.net\/[A-z]+\/[A-z0-9._-]+\/Banner_[A-z0-9_-]+\.[A-z]+$/$domain=chzzk.naver.com
+||ssl.pstatic.net/static/nng/glive/resource/p/static/js/vendor-*.js$script,domain=chzzk.naver.com,replace=/async function iuag\(\{cs:[\s\S]*?\}function isXhrTampered/async function iuag(){return!1}function isXhrTampered/
+||api.chzzk.naver.com/service/v1/ad/display-status^$xhr,domain=chzzk.naver.com
+||siape.veta.naver.com/openrtb/$domain=chzzk.naver.com
+||ssl.pstatic.net/static/nng/sdk/refresh-detector-obfuscated.js$script,domain=chzzk.naver.com
 ||tvdaily.co.kr/banner/
 ||tvdaily.co.kr/ad/
 ||dentalnews.or.kr/data/banner/

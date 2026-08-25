@@ -1,1 +1,6 @@
 ||litt.ly/api/blockevents
+||nlog.naver.com/event$domain=chzzk.naver.com
+||nlog.naver.com/n$domain=chzzk.naver.com
+||kr-col-ext.nelo.navercorp.com/_store$domain=chzzk.naver.com
+||nelo2-col.navercorp.com/_store$domain=chzzk.naver.com
+||dev-col-tcp.nelo.navercorp.com/_store$domain=chzzk.naver.com

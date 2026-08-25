@@ -1,1 +1,2 @@
-!
+||chzzk.naver.com/scripts/ntm_*.js$script,redirect=noopjs
+||ntm.pstatic.net/ex/nlog*.js$script,domain=chzzk.naver.com,redirect=noopjs

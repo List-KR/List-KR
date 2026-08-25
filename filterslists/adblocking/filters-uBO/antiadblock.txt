@@ -121,7 +121,12 @@ lover932.net,lover933.net,lover934.net,lover935.net,lover936.net,lover937.net,lo
 ! chzzk.naver.com
 chzzk.naver.com##+js(spoof-css, .banner_ad_wrapper, display, block)
 chzzk.naver.com##+js(no-xhr-if, /(veta.naver.com\/vas|veta.naver.com\/gfp|veta.naver.com\/call)/ method:OPTIONS)
-chzzk.naver.com##+js(trusted-suppress-native-method, atob, c2V0UmVxdWVzdEhlYWRlcg==, prevent, isXhrTampered)
+chzzk.naver.com##+js(trusted-suppress-native-method, atob, c2V0UmVxdWVzdEhlYWRlcg==, abort, isXhrTampered)
+chzzk.naver.com##+js(trusted-suppress-native-method, atob, Y3J5cHRv, abort, isCryptoTampered)
+||nam.veta.naver.com/vas$xhr,domain=chzzk.naver.com,redirect=noop.txt
+||nam.veta.naver.com/gfp$xhr,domain=chzzk.naver.com,redirect=noop.txt
+||nam.veta.naver.com/call$xhr,domain=chzzk.naver.com,redirect=noop.txt
+||nam.veta.naver.com/nac/$xhr,domain=chzzk.naver.com,redirect=noop.txt
 ! kio.ac
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noop.js,domain=kio.ac,important
 ||lib.wtg-ads.com/publisher/kio.ac/sb_interstitial_wtg.js$script,redirect=noop.js,domain=kio.ac,important
