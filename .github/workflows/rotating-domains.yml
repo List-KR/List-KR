@@ -1,0 +1,56 @@
+name: Update rotating domains
+
+on:
+    schedule:
+        - cron: "17 18 * * *"
+    workflow_dispatch:
+        inputs:
+            mode:
+                description: RotatingDomainsChecker run mode
+                required: true
+                default: prod_dry
+                type: choice
+                options:
+                    - prod_dry
+                    - prod_live
+                    - test_dry
+                    - test_live
+            config_path:
+                description: Path to the checker configuration
+                required: true
+                default: ./config.yml
+                type: string
+            filters_path:
+                description: Path to the filters repository
+                required: true
+                default: ./
+                type: string
+
+concurrency:
+    group: update-rotating-domains
+    cancel-in-progress: false
+
+jobs:
+    update:
+        name: Check and update domains
+        runs-on: ubuntu-latest
+        timeout-minutes: 30
+        permissions:
+            contents: write
+        steps:
+            -   name: Check out repository
+                uses: actions/checkout@v7
+
+            -   name: Configure GitHub Actions author
+                run: |
+                    git config user.name "github-actions[bot]"
+                    git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+            -   name: Check rotating domains
+                uses: Alex-302/RotatingDomainsChecker@dec72766c10eb1d36ccb60a6e0593aa9bc6561d2
+                with:
+                    mode: ${{ github.event.inputs.mode || 'prod_live' }}
+                    config-path: ${{ github.event.inputs.config_path || './config.yml' }}
+                    filters-path: ${{ github.event.inputs.filters_path || './' }}
+                env:
+                    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

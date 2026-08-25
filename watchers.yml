@@ -1,0 +1,73 @@
+sites:
+  bookto:
+    last_known_mirror: bookto05.com
+    accept_antibot: true
+    force_search_ahead: true
+  cokcok:
+    last_known_mirror: cokcok15.com
+    accept_antibot: true
+    force_search_ahead: true
+  cookmana:
+    last_known_mirror: cookmana18.com
+    accept_antibot: true
+    force_search_ahead: true
+  frtoon:
+    last_known_mirror: frtoon220.com
+    accept_antibot: true
+    force_search_ahead: true
+  hdhd:
+    last_known_mirror: hdhd344.net
+    accept_antibot: true
+    force_search_ahead: true
+  hoohootv:
+    last_known_mirror: hoohootv310.xyz
+    accept_antibot: true
+    force_search_ahead: true
+  lover:
+    last_known_mirror: lover937.net
+    accept_antibot: true
+    force_search_ahead: true
+  mato:
+    last_known_mirror: mato05.com
+    accept_antibot: true
+    force_search_ahead: true
+  newto:
+    last_known_mirror: newto05.com
+    accept_antibot: true
+    force_search_ahead: true
+  nooo:
+    last_known_mirror: nooo10.tv
+    accept_antibot: true
+    force_search_ahead: true
+  opworlds:
+    last_known_mirror: opworlds18.com
+    accept_antibot: true
+    force_search_ahead: true
+  sbxh:
+    last_known_mirror: sbxh1.com
+    accept_antibot: true
+    force_search_ahead: true
+  torrentbot:
+    last_known_mirror: torrentbot200.site
+    accept_antibot: true
+    force_search_ahead: true
+  torrentpi:
+    last_known_mirror: torrentpi150.com
+    accept_antibot: true
+    force_search_ahead: true
+  torrentqq:
+    last_known_mirror: torrentqq390.com
+    accept_antibot: true
+    force_search_ahead: true
+  wfwf:
+    last_known_mirror: wfwf449.com
+    accept_antibot: true
+    force_search_ahead: true
+  yako:
+    last_known_mirror: yako01.com
+    accept_antibot: true
+    force_search_ahead: true
+  yasyadong:
+    last_known_mirror: yasyadong01.tv
+    accept_antibot: true
+    force_search_ahead: true
