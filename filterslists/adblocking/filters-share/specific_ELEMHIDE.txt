@@ -225,6 +225,7 @@ ilbe.com###g123_game_ad_container_wrapper
 m.ruliweb.com##.main_center .line_deco_bottom:has(div[class^="ad_"]:only-child)
 news.jtbc.co.kr##.set_contents_video_ad
 coupang.com###product-list > li:has(div[class^="AdMark_adMark__"][data-adsplatform])
+dogdrip.net##div[style="float: left; width: 100%; height: 20px; border: 0px solid rgb(85, 91, 97); margin: 0px; background-image: none; background-position: 0% 0%; background-repeat: repeat;;;;;"]
 dogdrip.net##.ed.list > .webzine:not(.popular-item):has(.baseThumb ~  .overlay-text):has(.list-header a[target="_blank"].text-summary)
 m-sooriya.tistory.com##div[id^="fix_scroll_sidebar_DIV_"]
 m-sooriya.tistory.com##a[href^="https://soz.kr/"]
