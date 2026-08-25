@@ -69,4 +69,4 @@ jobs:
             -   name: Publish updated filters
                 env:
                     GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-                run: gh workflow run npm.yml --ref master
+                run: gh workflow run npm.yml --ref master --repo "$GITHUB_REPOSITORY"
