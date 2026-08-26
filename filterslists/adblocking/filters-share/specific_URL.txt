@@ -1070,3 +1070,5 @@
 ||breaknews.com/data/breaknews_com/banner/
 ||mediawatch.kr/data/banner/
 ||infoloop.co.kr/*/ad.css
+||srtb.msn.com^
+||sam.msn.com^
