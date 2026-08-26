@@ -72,67 +72,19 @@ jobs:
         runs-on: ubuntu-latest
         timeout-minutes: 5
         permissions:
+            actions: read
             contents: read
         steps:
+            -   name: Set up Node.js
+                uses: actions/setup-node@v7
+                with:
+                    node-version: lts/*
+
             -   name: Check out to repository
                 uses: actions/checkout@v7
+                with:
+                    fetch-depth: 0
 
-            -   name: Purge jsdelivr cache
+            -   name: Purge jsDelivr cache
+                uses: List-KR/jsdelivr-purge@7.0.0
                 continue-on-error: true
-                env:
-                    PACKAGE: '@list-kr/filterslists'
-                run: |
-                    set -euo pipefail
-
-                    request() {
-                        curl --fail-with-body --silent --show-error \
-                            --connect-timeout 10 --max-time 30 \
-                            --retry 3 --retry-delay 2 --retry-max-time 20 --retry-all-errors \
-                            --header "User-Agent: List-KR GitHub Actions (${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY})" \
-                            "$@"
-                    }
-
-                    # ponytail: current outputs only; include the previous config if filenames start changing.
-                    payload="$(jq -ce --arg prefix "/npm/${PACKAGE}@latest/dist/" '
-                        [.definitions[].definitionFileName | $prefix + .]
-                        | unique
-                        | if length > 0 and length <= 20 then {path: .}
-                          else error("Expected 1–20 package files")
-                          end
-                    ' filterslists/filterslists.config.json)"
-                    response="$(request \
-                        --request POST \
-                        --header 'Content-Type: application/json' \
-                        --data-binary "$payload" \
-                        https://purge.jsdelivr.net/)"
-                    id="$(jq -er '.id | strings | select(test("^[A-Za-z0-9_-]+$"))' <<< "$response")"
-
-                    for _ in {1..30}; do
-                        sleep 2
-                        if ! response="$(request "https://purge.jsdelivr.net/status/${id}")"; then
-                            continue
-                        fi
-                        status="$(jq -er '.status | select(. == "pending" or . == "finished" or . == "failed")' <<< "$response")"
-                        case "$status" in
-                            pending) continue ;;
-                            failed)
-                                jq . <<< "$response"
-                                exit 1
-                                ;;
-                            finished)
-                                jq . <<< "$response"
-                                jq -e '
-                                    (.paths | type == "object" and length > 0)
-                                    and all(.paths[];
-                                        .throttled == false
-                                        and (.providers | type == "object" and length > 0)
-                                        and all(.providers[]; . == true)
-                                    )
-                                ' <<< "$response" > /dev/null
-                                exit
-                                ;;
-                        esac
-                    done
-
-                    echo "::error::Timed out waiting for jsDelivr purge ${id}"
-                    exit 1
