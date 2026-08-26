@@ -1069,3 +1069,4 @@
 ||ae01.alicdn.com^$image,domain=infosto.tistory.com
 ||breaknews.com/data/breaknews_com/banner/
 ||mediawatch.kr/data/banner/
+||infoloop.co.kr/*/ad.css
