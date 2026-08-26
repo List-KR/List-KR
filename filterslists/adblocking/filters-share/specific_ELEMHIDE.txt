@@ -1511,3 +1511,4 @@ msn.com##csm-native-ad-card
 msn.com##.core-column:has(> csm-native-ad-card):style(grid-template-areas:"slot1"!important;grid-template-rows:auto!important;height:auto!important;)
 infoloop.co.kr##div[class*="adsense-content"]
 infoloop.co.kr##div[class^="pc-post-ad"]
+cpsp.kr##div.relative:has(> div ins.adsbygoogle)
