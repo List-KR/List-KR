@@ -2,3 +2,4 @@ m.bunjang.co.kr#%#//scriptlet('trusted-click-element', '.bun-ui-bottom-sheet-por
 lottecinema.co.kr#%#//scriptlet('set-cookie', 'MainPopup', 'true')
 m.11st.co.kr#%#//scriptlet('set-cookie', 'web2AppPopupDisable', 'Y')
 muko.kr#%#//scriptlet('set-cookie', 'muko_gs_modal_dismissed', '1')
+check-internet-stability.com#%#//scriptlet('set-local-storage-item', 'cookieConsent', 'true')
