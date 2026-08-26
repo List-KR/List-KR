@@ -23,7 +23,7 @@ sites:
     accept_antibot: true
     force_search_ahead: true
     failed_since: 2026-08-26 06:43
-    failed_days: 0
+    failed_days: 1
     potentially_dead: true
   hdhd:
     last_known_mirror: hdhd344.net
@@ -32,8 +32,8 @@ sites:
     heuristic_history:
       - hdhd344.net
     pattern_changed: true
-    non_pattern_mirror: ww19.hdhd355.net
-    success_since: 2026-08-26 06:43
+    non_pattern_mirror: ww547.hdhd355.net
+    success_since: 2026-08-26 20:04
   hoohootv:
     last_known_mirror: hoohootv311.xyz
     accept_antibot: true
@@ -72,7 +72,7 @@ sites:
     accept_antibot: true
     force_search_ahead: true
     failed_since: 2026-08-26 06:43
-    failed_days: 0
+    failed_days: 1
     potentially_dead: true
   sbxh:
     last_known_mirror: sbxh1.com
@@ -93,7 +93,7 @@ sites:
     accept_antibot: true
     force_search_ahead: true
     failed_since: 2026-08-26 06:43
-    failed_days: 0
+    failed_days: 1
     potentially_dead: true
   torrentqq:
     last_known_mirror: torrentqq401.com
