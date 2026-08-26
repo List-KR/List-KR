@@ -86,5 +86,11 @@ jobs:
                     fetch-depth: 0
 
             -   name: Purge jsDelivr cache
-                uses: List-KR/jsdelivr-purge@7.0.0
+                uses: List-KR/jsdelivr-purge@7.0.1
                 continue-on-error: true
+                with:
+                    urls: |
+                        https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-AdGuard.txt
+                        https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-uBlockOrigin.txt
+                        https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-DNS.txt
+                    url-mode: overwrite
