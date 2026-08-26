@@ -1,18 +1,18 @@
 /^https:\/\/cdn[0-9]+\.cokcok\.[a-z0-9]+\/assets\/images\//$domain=cokcok15.com|cokcok16.com|cokcok17.com|cokcok18.com|cokcok19.com|cokcok20.com|cokcok21.com|cokcok22.com|cokcok23.com
 /\/data\/apms\/banner\//$domain=mato05.com|mato06.com|mato07.com|mato08.com|mato09.com|mato10.com|mato11.com|mato12.com|mato13.com|mato14.com|mato15.com|mato16.com|newto05.com|newto06.com|newto07.com|newto08.com|newto09.com|newto10.com|newto11.com|newto12.com|newto13.com|newto14.com|newto15.com|newto16.com|bookto05.com|bookto06.com|bookto07.com|bookto08.com|bookto09.com|bookto10.com|bookto11.com|bookto12.com|bookto13.com|bookto14.com|bookto15.com|bookto16.com
-sbxh1.com,sbxh2.com,sbxh3.com,sbxh4.com,sbxh5.com,sbxh6.com,sbxh7.com,sbxh8.com,sbxh9.com,sbxh10.com,sbxh11.com,sbxh12.com##[data-brs][data-br]
-/^https:\/\/[a-z0-9-]+\.[a-z0-9-]+\/[a-z0-9-_]+\./$image,domain=wfwf449.com|wfwf450.com|wfwf451.com|wfwf452.com|wfwf453.com|wfwf454.com|wfwf455.com|wfwf456.com|wfwf457.com|wfwf458.com|wfwf459.com
-||i.imgur.com^$domain=yasyadong01.tv|yasyadong02.tv|yasyadong03.tv|yasyadong04.tv|yasyadong05.tv|yasyadong06.tv|yasyadong07.tv|yasyadong08.tv|yasyadong09.tv|torrentqq381.com|torrentqq382.com|torrentqq383.com|torrentqq384.com|torrentqq385.com|torrentqq386.com|torrentqq387.com|torrentqq388.com|torrentqq389.com|torrentqq390.com|torrentqq391.com|torrentqq392.com|torrentqq393.com|torrentqq394.com|torrentqq395.com|torrentqq396.com|torrentqq397.com
-/^https:\/\/(www\.)?yako[0-9]+\.com\/upload\/banner\//$domain=yako01.com|yako02.com|yako03.com|yako04.com|yako05.com|yako06.com|yako07.com|yako08.com|yako09.com|yako10.com|yako11.com|yako12.com|yako13.com
-lover937.net,lover938.net,lover939.net,lover940.net,lover941.net,lover942.net,lover943.net,lover944.net,lover945.net,lover946.net#%#//scriptlet('prevent-addEventListener', 'click', 'popMagic')
-lover937.net,lover938.net,lover939.net,lover940.net,lover941.net,lover942.net,lover943.net,lover944.net,lover945.net,lover946.net##.div-over
-/lover[0-9]\.net\/file\/tohotv\/.*\.gif$domain=lover937.net|lover938.net|lover939.net|lover940.net|lover941.net|lover942.net|lover943.net|lover944.net|lover945.net|lover946.net
-/lover[0-9]\.net\/file\/1bet\/.*\.gif$domain=lover937.net|lover938.net|lover939.net|lover940.net|lover941.net|lover942.net|lover943.net|lover944.net|lover945.net|lover946.net
-/lover[0-9]\.net\/file\/eve\/.*\.png$domain=lover937.net|lover938.net|lover939.net|lover940.net|lover941.net|lover942.net|lover943.net|lover944.net|lover945.net|lover946.net
+sbxh1.com,sbxh9.com,sbxh10.com,sbxh11.com##[data-brs][data-br]
+/^https:\/\/[a-z0-9-]+\.[a-z0-9-]+\/[a-z0-9-_]+\./$image,domain=v14v.com
+||i.imgur.com^$domain=yasyadong01.tv|yasyadong02.tv|torrentqq401.com|torrentqq402.com|torrentqq403.com|torrentqq404.com|torrentqq405.com|torrentqq406.com|torrentqq407.com|torrentqq408.com|torrentqq409.com|torrentqq410.com
+/^https:\/\/(www\.)?yako[0-9]+\.com\/upload\/banner\//$domain=yako2.com
+lover938.net,lover939.net#%#//scriptlet('prevent-addEventListener', 'click', 'popMagic')
+lover938.net,lover939.net##.div-over
+/lover[0-9]\.net\/file\/tohotv\/.*\.gif$domain=lover938.net|lover939.net
+/lover[0-9]\.net\/file\/1bet\/.*\.gif$domain=lover938.net|lover939.net
+/lover[0-9]\.net\/file\/eve\/.*\.png$domain=lover938.net|lover939.net
 .gif$domain=torrentpi150.com|torrentpi151.com|torrentpi152.com|torrentpi153.com|torrentpi154.com|torrentpi155.com|torrentpi156.com|torrentpi157.com|torrentpi158.com|torrentpi159.com|torrentpi160.com
 ||torrentpi*.com/data/file/ad/$domain=torrentpi150.com|torrentpi151.com|torrentpi152.com|torrentpi153.com|torrentpi154.com|torrentpi155.com|torrentpi156.com|torrentpi157.com|torrentpi158.com|torrentpi159.com|torrentpi160.com
 torrentbot200.site,torrentbot201.site,torrentbot202.site,torrentbot203.site,torrentbot204.site,torrentbot205.site,torrentbot206.site,torrentbot207.site,torrentbot208.site##a[href^="/go/"][target="_blank"]
 torrentbot200.site,torrentbot201.site,torrentbot202.site,torrentbot203.site,torrentbot204.site,torrentbot205.site,torrentbot206.site,torrentbot207.site,torrentbot208.site##div[id^="ad_"]
-torrentqq390.com,torrentqq391.com,torrentqq392.com,torrentqq393.com,torrentqq394.com,torrentqq395.com,torrentqq396.com,torrentqq397.com##.row-banner
-torrentqq390.com,torrentqq391.com,torrentqq392.com,torrentqq393.com,torrentqq394.com,torrentqq395.com,torrentqq396.com,torrentqq397.com##.at-banner
-/^https:\/\/nooo[0-9]+\.tv\/theme\/renew\/img\/banner\//$domain=nooo10.tv|nooo11.tv|nooo12.tv|nooo13.tv|nooo14.tv|nooo15.tv|nooo16.tv|nooo17.tv|nooo18.tv|nooo19.tv|nooo20.tv
+torrentqq401.com,torrentqq402.com,torrentqq403.com,torrentqq404.com,torrentqq405.com,torrentqq406.com,torrentqq407.com,torrentqq408.com,torrentqq409.com,torrentqq410.com##.row-banner
+torrentqq401.com,torrentqq402.com,torrentqq403.com,torrentqq404.com,torrentqq405.com,torrentqq406.com,torrentqq407.com,torrentqq408.com,torrentqq409.com,torrentqq410.com##.at-banner
+/^https:\/\/nooo[0-9]+\.tv\/theme\/renew\/img\/banner\//$domain=nooo10.tv|nooo11.tv|nooo12.tv|nooo13.tv|nooo14.tv|nooo15.tv|nooo16.tv|nooo17.tv|nooo18.tv|nooo31.tv

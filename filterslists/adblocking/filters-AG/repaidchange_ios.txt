@@ -1,4 +1,4 @@
-/^https:\/\/[a-z0-9-]+\.[a-z0-9-]+\/[a-z0-9-_]+\./$image,domain=wfwf449.com|wfwf450.com|wfwf451.com|wfwf452.com|wfwf453.com|wfwf454.com|wfwf455.com|wfwf456.com|wfwf457.com|wfwf458.com|wfwf459.com
-||i.imgur.com^$domain=yasyadong01.tv|yasyadong02.tv|yasyadong03.tv|yasyadong04.tv|yasyadong05.tv|yasyadong06.tv|yasyadong07.tv|yasyadong08.tv|yasyadong09.tv
-||hoohootv*.*/static/bnner/$domain=hoohootv310.xyz|hoohootv311.xyz|hoohootv312.xyz|hoohootv313.xyz|hoohootv314.xyz|hoohootv315.xyz|hoohootv316.xyz|hoohootv317.xyz|hoohootv318.xyz|hoohootv319.xyz|hoohootv320.xyz|hoohootv321.xyz
-/^https:\/\/nooo[0-9]+\.tv\/theme\/renew\/img\/banner\//$domain=nooo10.tv|nooo11.tv|nooo12.tv|nooo13.tv|nooo14.tv|nooo15.tv|nooo16.tv|nooo17.tv|nooo18.tv|nooo19.tv|nooo20.tv
+/^https:\/\/[a-z0-9-]+\.[a-z0-9-]+\/[a-z0-9-_]+\./$image,domain=v14v.com
+||i.imgur.com^$domain=yasyadong01.tv|yasyadong02.tv
+||hoohootv*.*/static/bnner/$domain=hoohootv311.xyz
+/^https:\/\/nooo[0-9]+\.tv\/theme\/renew\/img\/banner\//$domain=nooo10.tv|nooo11.tv|nooo12.tv|nooo13.tv|nooo14.tv|nooo15.tv|nooo16.tv|nooo17.tv|nooo18.tv|nooo31.tv

@@ -3,71 +3,115 @@ sites:
     last_known_mirror: bookto05.com
     accept_antibot: true
     force_search_ahead: true
+    heuristic_history:
+      - bookto05.com
+    pattern_changed: true
+    non_pattern_mirror: t.me
+    success_since: 2026-08-26 06:43
   cokcok:
     last_known_mirror: cokcok15.com
     accept_antibot: true
     force_search_ahead: true
+    success_since: 2026-08-26 06:43
   cookmana:
-    last_known_mirror: cookmana18.com
+    last_known_mirror: cookmana25.com
     accept_antibot: true
     force_search_ahead: true
+    success_since: 2026-08-26 06:43
   frtoon:
     last_known_mirror: frtoon220.com
     accept_antibot: true
     force_search_ahead: true
+    failed_since: 2026-08-26 06:43
+    failed_days: 0
+    potentially_dead: true
   hdhd:
     last_known_mirror: hdhd344.net
     accept_antibot: true
     force_search_ahead: true
+    heuristic_history:
+      - hdhd344.net
+    pattern_changed: true
+    non_pattern_mirror: ww19.hdhd355.net
+    success_since: 2026-08-26 06:43
   hoohootv:
-    last_known_mirror: hoohootv310.xyz
+    last_known_mirror: hoohootv311.xyz
     accept_antibot: true
     force_search_ahead: true
+    success_since: 2026-08-26 06:43
   lover:
-    last_known_mirror: lover937.net
+    last_known_mirror: lover938.net
     accept_antibot: true
     force_search_ahead: true
+    success_since: 2026-08-26 06:43
   mato:
     last_known_mirror: mato05.com
     accept_antibot: true
     force_search_ahead: true
+    heuristic_history:
+      - mato05.com
+    pattern_changed: true
+    non_pattern_mirror: mato21.com
+    success_since: 2026-08-26 06:43
   newto:
     last_known_mirror: newto05.com
     accept_antibot: true
     force_search_ahead: true
+    heuristic_history:
+      - newto05.com
+    pattern_changed: true
+    non_pattern_mirror: newto21.com
+    success_since: 2026-08-26 06:43
   nooo:
     last_known_mirror: nooo10.tv
     accept_antibot: true
     force_search_ahead: true
+    success_since: 2026-08-26 06:43
   opworlds:
     last_known_mirror: opworlds18.com
     accept_antibot: true
     force_search_ahead: true
+    failed_since: 2026-08-26 06:43
+    failed_days: 0
+    potentially_dead: true
   sbxh:
     last_known_mirror: sbxh1.com
     accept_antibot: true
     force_search_ahead: true
+    success_since: 2026-08-26 06:43
   torrentbot:
     last_known_mirror: torrentbot200.site
     accept_antibot: true
     force_search_ahead: true
+    heuristic_history:
+      - torrentbot200.site
+    pattern_changed: true
+    non_pattern_mirror: expireddomains.com
+    success_since: 2026-08-26 06:43
   torrentpi:
     last_known_mirror: torrentpi150.com
     accept_antibot: true
     force_search_ahead: true
+    failed_since: 2026-08-26 06:43
+    failed_days: 0
+    potentially_dead: true
   torrentqq:
-    last_known_mirror: torrentqq390.com
+    last_known_mirror: torrentqq401.com
     accept_antibot: true
     force_search_ahead: true
+    success_since: 2026-08-26 06:43
   wfwf:
-    last_known_mirror: wfwf449.com
+    last_known_mirror: v14v.com
     accept_antibot: true
     force_search_ahead: true
+    success_since: 2026-08-26 06:43
   yako:
-    last_known_mirror: yako01.com
+    last_known_mirror: yako2.com
     accept_antibot: true
     force_search_ahead: true
+    success_since: 2026-08-26 06:43
   yasyadong:
     last_known_mirror: yasyadong01.tv
     accept_antibot: true
     force_search_ahead: true
+    success_since: 2026-08-26 06:43

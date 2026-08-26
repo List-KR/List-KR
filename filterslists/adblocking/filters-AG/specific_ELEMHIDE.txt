@@ -37,7 +37,7 @@ board.namu.wiki#@#*[class]:not([class*=" "]) > div[class]:not([class*=" "]) ~ *:
 board.namu.wiki#@#div[class]:not([class*=" "]) ~ div[class*=" "] > *[class*=" "] > *:has(iframe[src*="arca.live/external/callad"])
 !#endif
 !#if adguard_app_ios
-cookmana18.com,cookmana19.com,cookmana20.com,cookmana21.com,cookmana22.com,cookmana23.com,cookmana24.com,cookmana25.com,cookmana26.com,cookmana27.com,cookmana28.com,cookmana29.com##.contents > .gridArea
+cookmana25.com,cookmana38.com##.contents > .gridArea
 !#endif
 !#if adguard_app_ios
 ##img[src*="//wwwimageup.angle777899.com/other/atoona/"]

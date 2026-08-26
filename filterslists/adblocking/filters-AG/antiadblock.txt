@@ -235,7 +235,7 @@ persnacons.tistory.com#@#.topAD
 singingdalong.blogspot.com,sajuplus.net##.adsense-alt
 tistory.com,sajuplus.net#%#//scriptlet('set-constant', 'checkAds', 'noopFunc')
 ! foreign website
-lover932.net,lover933.net,lover934.net,lover935.net,lover936.net,lover937.net,lover938.net,lover939.net,lover940.net,lover941.net#%#//scriptlet('prevent-setTimeout', 'document[_0x')
+lover938.net,lover939.net#%#//scriptlet('prevent-setTimeout', 'document[_0x')
 ! chzzk.naver.com
 !#if (adguard_app_ios || adguard_ext_safari)
 chzzk.naver.com#@#.banner_ad_wrapper
