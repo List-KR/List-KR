@@ -1507,3 +1507,5 @@ sisafocus.co.kr##div.clearfix:has(> script[id^="ban"])
 news.hada.io##div.gn-ad-slot
 mediawatch.kr##div.com_ban
 redaily.co.kr##div.index-grid-container:has(> div div[id*="banner"])
+msn.com##csm-native-ad-card
+msn.com##.core-column:has(> csm-native-ad-card):style(grid-template-areas:"slot1"!important;grid-template-rows:auto!important;height:auto!important;)
