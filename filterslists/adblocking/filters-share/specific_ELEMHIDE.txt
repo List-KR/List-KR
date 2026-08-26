@@ -270,6 +270,7 @@ quasarzone.com##div[class^="venatus-wrapper-"]
 web.joongna.com##.mx-auto.px-4.box-content:has(> .text-red-600)
 biz.chosun.com##.article-print-sty1:has(> .box--position-absolute-left > a[href^="https://biz.chosun.com/money"])
 biz.heraldcorp.com##.hbanner
+ohmynews.com##div.V0511
 ohmynews.com##.aside > div[style^="height:"]
 ohmynews.com##div#dvCenterAd
 dealsite.co.kr##a[class^="main-banner"]
