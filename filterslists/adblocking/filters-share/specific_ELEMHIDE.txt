@@ -789,6 +789,7 @@ www.seoul.co.kr###viewWrapDiv > div[style*=" "]:not([class]):not([id])
 bozayo.net##.widget-side div[style*=" "]
 wowtv.co.kr##div[class^="adv-"]
 koreanbots.dev##.container div[style^="height:"].mx-auto
+koreanbots.dev##div.py-5:has(> div > ins.adsbygoogle)
 m.compuzone.co.kr##.right_btn
 eomisae.co.kr##main#main .eq.section > div[class$=" "][style^="background-position"] ~ div[style^="float: "]
 kidkids.net##td[width]:not([valign]) ~ td[align="left"] ul.banner
