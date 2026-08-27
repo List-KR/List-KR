@@ -125,6 +125,7 @@ chzzk.naver.com##+js(trusted-suppress-native-method, atob, c2V0UmVxdWVzdEhlYWRlc
 chzzk.naver.com##+js(trusted-suppress-native-method, atob, Y3J5cHRv, abort, isCryptoTampered)
 chzzk.naver.com##+js(trusted-replace-xhr-response, /"tr"\s*:\s*\d+/, '"tr":"off"', client-config)
 chzzk.naver.com##+js(json-prune-xhr-response, content.dab, , propsToMatch, url:/live-detail)
+chzzk.naver.com##+js(json-prune-xhr-response, content.dab, , propsToMatch, url:/service/v3/videos/)
 ||nam.veta.naver.com/vas$xhr,domain=chzzk.naver.com,redirect=noop.txt
 ||nam.veta.naver.com/gfp$xhr,domain=chzzk.naver.com,redirect=noop.txt
 ||nam.veta.naver.com/call$xhr,domain=chzzk.naver.com,redirect=noop.txt

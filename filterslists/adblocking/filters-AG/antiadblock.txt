@@ -248,6 +248,7 @@ chzzk.naver.com#%#//scriptlet('trusted-suppress-native-method', 'atob', '"c2V0Um
 chzzk.naver.com#%#//scriptlet('trusted-suppress-native-method', 'atob', '"Y3J5cHRv"', 'abort', 'isCryptoTampered')
 chzzk.naver.com#%#//scriptlet('trusted-replace-xhr-response', '/"tr"\s*:\s*\d+/', '"tr":"off"', 'client-config')
 chzzk.naver.com#%#//scriptlet('json-prune-xhr-response', 'content.dab', '', 'live-detail')
+chzzk.naver.com#%#//scriptlet('json-prune-xhr-response', 'content.dab', '', 'service/v3/videos/')
 !#if (adguard_app_windows || adguard_app_mac || adguard_app_cli || adguard_app_android)
 ||nam.veta.naver.com/vas|$xmlhttprequest,domain=chzzk.naver.com,redirect=nooptext
 ||nam.veta.naver.com/gfp$xmlhttprequest,domain=chzzk.naver.com,redirect=nooptext
