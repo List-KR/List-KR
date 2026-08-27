@@ -1072,3 +1072,4 @@
 ||infoloop.co.kr/*/ad.css
 ||srtb.msn.com^
 ||sam.msn.com^
+||api.chzzk.naver.com/service/*/channels/*/live-detail^$removeparam=dt,domain=chzzk.naver.com
