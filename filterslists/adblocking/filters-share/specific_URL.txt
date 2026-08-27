@@ -149,10 +149,14 @@
 ||whosaeng.com/data/m.whosaeng.com/mo_
 ||m.enter.etoday.co.kr/images/ad/
 /^https:\/\/nng-phinf\.pstatic\.net\/[A-z]+\/[A-z0-9._-]+\/Banner_[A-z0-9_-]+\.[A-z]+$/$domain=chzzk.naver.com
-||ssl.pstatic.net/static/nng/glive/resource/p/static/js/vendor-*.js$script,domain=chzzk.naver.com,replace=/async function iuag\(\{cs:[\s\S]*?\}function isXhrTampered/async function iuag(){return!1}function isXhrTampered/
-||api.chzzk.naver.com/service/v1/ad/display-status^$xhr,domain=chzzk.naver.com
-||api.chzzk.naver.com/service/live-status^$domain=chzzk.naver.com
-||api.chzzk.naver.com/service/v3/videos/*^$removeparam=dt,domain=chzzk.naver.com
+||ssl.pstatic.net/static/nng/glive/resource/p/static/js/vendor-*.js$script,domain=chzzk.naver.com,replace=/async function iuag\(([^)]*)\)\{/async function iuag(\$1){return!1;/
+||ssl.pstatic.net/static/nng/glive/resource/p/static/js/index-*.js$script,domain=chzzk.naver.com,replace=/([A-Za-z_\$][\w\$]*)=async\([^)]*\)=>\{let [^;]*\.defaults\.baseURL[^;]*;return\(await [A-Za-z_\$][\w\$]*\.xhr\([\s\S]*?\)\)\.content\}/\$1=async(...e)=>(await e[0].get(e[1])).data.content/
+||ssl.pstatic.net/static/nng/glive/resource/p/static/js/index-*.js$script,domain=chzzk.naver.com,replace=/\.AD_NOT_DISPLAYED\b/.AD_NOT_DISPLAYED_DISABLED/g
+||api.chzzk.naver.com/service/v1/seoraksan^$xhr,domain=chzzk.naver.com
+||api.chzzk.naver.com/service/v1/lives/*/ads/current^$xhr,domain=chzzk.naver.com
+||api.chzzk.naver.com/ad-polling/v1/lives/*/ad^$xhr,domain=chzzk.naver.com
+||api.chzzk.naver.com/service/*/channels/*/live-detail^$removeparam=dt,domain=chzzk.naver.com
+||api.chzzk.naver.com/service/*/videos/*^$removeparam=dt,domain=chzzk.naver.com
 ||siape.veta.naver.com/openrtb/$domain=chzzk.naver.com
 ||ssl.pstatic.net/static/nng/sdk/refresh-detector-obfuscated.js$script,domain=chzzk.naver.com
 ||tvdaily.co.kr/banner/
@@ -1069,4 +1073,3 @@
 ||infoloop.co.kr/*/ad.css
 ||srtb.msn.com^
 ||sam.msn.com^
-||api.chzzk.naver.com/service/*/channels/*/live-detail^$removeparam=dt,domain=chzzk.naver.com
