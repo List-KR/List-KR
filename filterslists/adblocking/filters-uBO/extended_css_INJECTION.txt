@@ -1,1 +1,3 @@
 m-emart.ssg.com#$?##content div[style*="contents"]:has(.chakra-stack + div[class] span:has-text(AD)) { remove: true; }
+chzzk.naver.com##.webplayer-internal-core-dimmed:style(display: none !important)
+chzzk.naver.com##.webplayer-internal-core-ad-ui:style(clip-path: inset(50%) !important; pointer-events: none !important)
