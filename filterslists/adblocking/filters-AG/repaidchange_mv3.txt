@@ -9,8 +9,6 @@ lover938.net,lover939.net##.div-over
 /lover[0-9]\.net\/file\/tohotv\/.*\.gif$domain=lover938.net|lover939.net
 /lover[0-9]\.net\/file\/1bet\/.*\.gif$domain=lover938.net|lover939.net
 /lover[0-9]\.net\/file\/eve\/.*\.png$domain=lover938.net|lover939.net
-.gif$domain=torrentpi150.com|torrentpi151.com|torrentpi152.com|torrentpi153.com|torrentpi154.com|torrentpi155.com|torrentpi156.com|torrentpi157.com|torrentpi158.com|torrentpi159.com|torrentpi160.com
-||torrentpi*.com/data/file/ad/$domain=torrentpi150.com|torrentpi151.com|torrentpi152.com|torrentpi153.com|torrentpi154.com|torrentpi155.com|torrentpi156.com|torrentpi157.com|torrentpi158.com|torrentpi159.com|torrentpi160.com
 torrentbot200.site,torrentbot201.site,torrentbot202.site,torrentbot203.site,torrentbot204.site,torrentbot205.site,torrentbot206.site,torrentbot207.site,torrentbot208.site##a[href^="/go/"][target="_blank"]
 torrentbot200.site,torrentbot201.site,torrentbot202.site,torrentbot203.site,torrentbot204.site,torrentbot205.site,torrentbot206.site,torrentbot207.site,torrentbot208.site##div[id^="ad_"]
 torrentqq401.com,torrentqq402.com,torrentqq403.com,torrentqq404.com,torrentqq405.com,torrentqq406.com,torrentqq407.com,torrentqq408.com,torrentqq409.com,torrentqq410.com##.row-banner

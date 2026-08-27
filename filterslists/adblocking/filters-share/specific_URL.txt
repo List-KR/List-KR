@@ -906,7 +906,6 @@
 ||anilife.live/assets/banner/
 ||moeni.net/img/a/lula.gif
 /theme/basic/img/banner/*$domain=/nunu[0-9]+\.tv/
-||torrentpi*.com/data/file/ad/$domain=/torrentpi[0-9]+\.com/
 /^https:\/\/avpink[0-9]+\.com\/wp-content\/uploads\/[0-9]+\/[0-9]+\/[0-9-%A-Z]+x[0-9]+/$domain=/^avpink[0-9]+\.com/
 /^https:\/\/avpink[0-9]+\.com\/wp-content\/uploads\/[0-9]+\/[0-9]+\/[0-9]+-[0-9]+-[0-9]+\./$domain=/^avpink[0-9]+\.com/
 ||cdn.ksportscdn.com/data/editor/
@@ -943,9 +942,6 @@
 /^https:\/\/opss[0-9]+\.com\/img\/[A-z]+\.gif(\?v=[0-9]+)?$/
 /thumb/kh/bn/*$domain=1004past.com
 /^https:\/\/jiok[0-9]+\.net\/img\//
-/data/apms/background/*$domain=/^opworlds[0-9]+\.com/
-/data/editor/*$domain=/^opworlds[0-9]+\.com/
-/data/file/primium/*$domain=/^opworlds[0-9]+\.com/
 /^https:\/\/yt[0-9]+\.org\/files\/attach\/banner_images\/[0-9]+\/([\d-]+(x|X)[0-9]+|(%[A-Z0-9]+)+)\./$domain=/yt[0-9]+\.org/
 ^https:\/\/bookmoa[0-9]+\.com\/data\/apms\/background\//
 ||kormovie.com/img/*.gif|
@@ -1045,7 +1041,6 @@
 ||hcdn1.maxsocdn.net^$domain=sogirl.so
 ||1.bp.blogspot.com^$domain=sogirl.so
 ||toonimg.com/data/files/banner/
-/^https:\/\/frtoon[0-9]+\.com\/data\/by_banner\//
 /^https?:\/\/[0-9]+image\.[0-9]+toon\.com\/Image\/Banposter\//
 /^https?:\/\/toon[0-9]+\.com\/bbs\/myiframe\.html$/
 /^https?:\/\/manaboza[0-9]+\.com\/static\/picture\/\d{4}_[0-9]{10}\.\d{4}\./

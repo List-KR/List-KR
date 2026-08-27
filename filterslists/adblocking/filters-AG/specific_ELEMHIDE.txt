@@ -149,14 +149,12 @@ nightofpeace.com,ilovebees.io##.e-con-full.e-flex.e-con:has(a[target="_blank"] i
 nightofpeace.com,ilovebees.io##.e-grid.e-con-full.e-con.e-child:has(a[target="_blank"] img)
 [$domain=/lover[0-9]\.net/]##.div-over
 [$domain=/^torrentqq[0-9]+.com/]##.at-banner
-[$domain=/torrentpi[0-9]+\.com/]##.basic-post-gallery
 [$domain=/torrentzota[0-9]+\.com/]##a[href^="/adver-"]
 [$domain=/^tv[0-9]+\.wiki/]###cpb-popup-banners
 [$domain=/^tv[0-9]+\.wiki/]##.custom_banner_wra
 [$domain=/^tkor[0-9]+\.com/]##*[class*="top_bann"]
 [$domain=/^jusokorea[0-9]+\.com/]##div[class*="-ad-banner"]
 [$domain=/^sptv[0-9]+\.com/]##.modal_contents
-[$domain=/^torrentpi[0-9]+\.com/]##style ~ .basic-post-gallery
 [$domain=/^avguri[0-9]+\.com/]##div[id$="_bn"]
 [$domain=/^avpink[0-9]+\.com/]###foogallery_widget-3
 [$domain=/^avpink[0-9]+\.com/]###foogallery_widget-12
@@ -168,7 +166,6 @@ nightofpeace.com,ilovebees.io##.e-grid.e-con-full.e-con.e-child:has(a[target="_b
 [$domain=/^bontv[0-9]+\.com/]##div[class$="_ban"]
 [$domain=/^bontv[0-9]+\.com/]##div[class^="popup_"]
 [$domain=/^tvzota[0-9]+\.com/]##div[class$="_ban"]
-[$domain=/^opworlds1[0-9]+\.com/]##.basic-banner-gallery
 [$domain=/^jusoyo1[0-9]+\.net/]##.hd_pops
 [$domain=/^jusoyo1[0-9]+\.net/]##.basic-banner-gallery
 [$domain=/^torrentdin[0-9]+\.com/]###hd_pop
@@ -209,7 +206,6 @@ algumon.com##div[id^="deal-"].card ~ .bg-base-100:has(div[style] > div[class*=" 
 [$domain=/^torrentsome[0-9]+\.com/]##a[href^="/go/"][target="_blank"]
 [$domain=/^torrentrj[0-9]+\.com/]##a[href^="/go/"][target="_blank"]
 [$domain=/^bobaelink[0-9]+\.xyz/]##a[href^="/ad-"]
-[$domain=/^frtoon[0-9]+\.com/]##.ad-form > .row > div[class^="col-md-"]
 [$domain=/^manaboza[0-9]+\.com/]##.payment_fullbnr
 [$domain=/^manaboza[0-9]+\.com/]##.comic_bot_bnr
 [$domain=/^newtoon[0-9]+\.com/]##.ad-form > .row > div[class^="col-md-"]

@@ -50,6 +50,5 @@ m.cafe.naver.com#?#.location_bar:has(.active:has-text(전체공지)) ~ .location
 m.cafe.naver.com#?#.location_bar:has(.active:has-text(전체공지)) ~ .location_fix li.board_box:has(a[href].txt_area span.nick:has-text(삼성스마트폰카페운영)):matches-path(/ca-fe\\/(web\\/cafes\\/|)(anycallusershow|13764661)($|\\/|\\?)/)
 ~m.cafe.naver.com,cafe.naver.com#?##upperArticleList ._noticeArticle:has(a[href][class][onclick]):has(.td_name a[onclick][href][class]:has-text(삼성스마트폰카페운영)):matches-path(/(&|\\.|\\?)clubid=13764661($|&)/)
 ~m.cafe.naver.com,cafe.naver.com#?##editorMainContent div[title][style^="color"]:not(:has(a[target="_blank"])) ~ *:has(a[target="_blank"]):matches-path(/(&|\\.|\\?)clubid=13764661($|&)/)
-frtoon220.com,frtoon221.com,frtoon222.com,frtoon223.com,frtoon224.com,frtoon225.com,frtoon226.com,frtoon227.com,frtoon228.com,frtoon229.com,frtoon230.com,frtoon231.com,frtoon232.com,frtoon233.com#?#.alert-danger.container:has-text([AD])
 hdhd344.net,hdhd345.net,hdhd346.net,hdhd347.net,hdhd348.net,hdhd349.net,hdhd350.net,hdhd351.net,hdhd352.net,hdhd353.net,hdhd354.net,hdhd355.net,hdhd356.net,hdhd357.net,hdhd358.net#?#.menu-ul > .menu-li:has(> a:has-text(보증토토))
 /blacktoon[0-9]+\.com/#?#.alert.alert-danger:has(> a:contains([AD]))

@@ -124,7 +124,6 @@ postshare.co.kr#?#pre > div[id]:has(> div[align] > a > img[src*="//img.postshare
 postshare.co.kr#?#div[id][class][style]:has(> .impactify-player-container)
 mosen.mt.co.kr#?#section.textList > article.row:has(> ul.aritcle-info > li.title > a[href*="//adv.imadrep.co.kr/"])
 berryjam.co.kr#?#table[width="1200"]:has(> tbody > tr > td > div[class*="slider-banner-"])
-opworlds18.com,opworlds19.com,opworlds20.com,opworlds21.com,opworlds22.com,opworlds23.com,opworlds24.com,opworlds25.com,opworlds26.com#?#.row > .col-sm-12:has(a[href^="/bbs/board.php?bo_table=primium"])
 spochak.com#?#table .basic-info-alert:has(a[href="/marble/"])
 avsee.*#?#.widget-side-box > .main-box:has(img[src^="/imgs/"])
 ! aglint-disable-next-line
