@@ -503,6 +503,8 @@ www.dt.co.kr##.article_view > div[style$="overflow:hidden"].img_center
 digitaltoday.co.kr,gukjenews.com,mnews.imaeil.com##body > #bottom-sticky
 bizhankook.com##footer ~ div[style^="position:"]
 m.ohmynews.com##iframe[src^="https://ojsfile.ohmynews.com/AD_FILE/"]
+m.ohmynews.com##div:has(> div[data-widget_id])
+m.ohmynews.com##div[id^="mobitree"]
 extrememanual.net##.post_content > div[data-dest="placeholder"][style^="min-height:"]
 dtoday.co.kr##body > div[style*="position: fixed;"][style*="z-index:99999"][style*="bottom:"]
 quiz.avatye.com###__next > div:not([class]):not([id]) > div[style^="position:"]
