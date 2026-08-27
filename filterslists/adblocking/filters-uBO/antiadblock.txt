@@ -120,12 +120,12 @@ tistory.com,sajuplus.net##+js(set, checkAds, noopFunc)
 lover938.net,lover939.net##+js(nostif, document[_0x)
 ! chzzk.naver.com
 chzzk.naver.com##+js(spoof-css, .banner_ad_wrapper, display, block)
-chzzk.naver.com##+js(trusted-suppress-native-method, atob, c2V0UmVxdWVzdEhlYWRlcg==, abort)
-chzzk.naver.com##+js(trusted-suppress-native-method, atob, Y3J5cHRv, abort)
+chzzk.naver.com##+js(no-xhr-if, /(veta.naver.com\/vas|veta.naver.com\/gfp|veta.naver.com\/call)/ method:OPTIONS)
+chzzk.naver.com##+js(trusted-suppress-native-method, atob, c2V0UmVxdWVzdEhlYWRlcg==, abort, isXhrTampered)
+chzzk.naver.com##+js(trusted-suppress-native-method, atob, Y3J5cHRv, abort, isCryptoTampered)
+chzzk.naver.com##+js(trusted-replace-xhr-response, /"tr"\s*:\s*\d+/, '"tr":"off"', client-config)
 chzzk.naver.com##+js(json-prune-xhr-response, content.dab, , propsToMatch, url:/live-detail)
-chzzk.naver.com##+js(json-prune-xhr-response, content.dab, , propsToMatch, url:/videos/)
-chzzk.naver.com##+js(json-prune-fetch-response, content.dab, , propsToMatch, url:/live-detail)
-chzzk.naver.com##+js(json-prune-fetch-response, content.dab, , propsToMatch, url:/videos/)
+chzzk.naver.com##+js(json-prune-xhr-response, content.dab, , propsToMatch, url:/service/v3/videos/)
 ||nam.veta.naver.com/vas$xhr,domain=chzzk.naver.com,redirect=noop.txt
 ||nam.veta.naver.com/gfp$xhr,domain=chzzk.naver.com,redirect=noop.txt
 ||nam.veta.naver.com/call$xhr,domain=chzzk.naver.com,redirect=noop.txt

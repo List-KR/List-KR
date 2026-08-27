@@ -17,6 +17,8 @@ m.humoruniv.com#%#//scriptlet('abort-current-inline-script', '$.prototype.html',
 ! m.fmkorea.com
 m.fmkorea.com#%#//scriptlet('json-prune', 'tpl apply', 'tpl.[].c')
 ! chzzk.naver.com
+chzzk.naver.com#%#//scriptlet('json-prune-xhr-response', 'ads.[-].eventTracking.ackImpressions.[].url', 'ads.[].adInfo.responseSize', 'api.chzzk.naver.com/service/t/')
+chzzk.naver.com#%#//scriptlet('json-prune-xhr-response', 'adBreaks.[-].adSources.[].withRemindAd', 'videoAdScheduleId', 'api.chzzk.naver.com/service/t/')
 chzzk.naver.com#%#//scriptlet('trusted-set-local-storage-item', 'homeSkinCollapsedUntil', '9999999999999')
 !
 m.danawa.com#%#//scriptlet('set-cookie', 'hideMainBottomSheet', 'Y')

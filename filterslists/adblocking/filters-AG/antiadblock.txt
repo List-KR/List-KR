@@ -239,19 +239,23 @@ lover938.net,lover939.net#%#//scriptlet('prevent-setTimeout', 'document[_0x')
 ! chzzk.naver.com
 !#if (adguard_app_ios || adguard_ext_safari)
 chzzk.naver.com#@#.banner_ad_wrapper
+@@||nam.veta.naver.com/vas|$xmlhttprequest,domain=chzzk.naver.com
+@@||nam.veta.naver.com/gfp$xmlhttprequest,domain=chzzk.naver.com
+@@||nam.veta.naver.com/call|$xmlhttprequest,domain=chzzk.naver.com
 !#else
 chzzk.naver.com#%#//scriptlet('spoof-css', '.banner_ad_wrapper', 'display', 'block')
-chzzk.naver.com#%#//scriptlet('trusted-suppress-native-method', 'atob', '"c2V0UmVxdWVzdEhlYWRlcg=="', 'abort')
-chzzk.naver.com#%#//scriptlet('trusted-suppress-native-method', 'atob', '"Y3J5cHRv"', 'abort')
+chzzk.naver.com#%#//scriptlet('trusted-suppress-native-method', 'atob', '"c2V0UmVxdWVzdEhlYWRlcg=="', 'abort', 'isXhrTampered')
+chzzk.naver.com#%#//scriptlet('trusted-suppress-native-method', 'atob', '"Y3J5cHRv"', 'abort', 'isCryptoTampered')
+chzzk.naver.com#%#//scriptlet('trusted-replace-xhr-response', '/"tr"\s*:\s*\d+/', '"tr":"off"', 'client-config')
 chzzk.naver.com#%#//scriptlet('json-prune-xhr-response', 'content.dab', '', 'live-detail')
-chzzk.naver.com#%#//scriptlet('json-prune-xhr-response', 'content.dab', '', '/videos/')
-chzzk.naver.com#%#//scriptlet('json-prune-fetch-response', 'content.dab', '', 'live-detail')
-chzzk.naver.com#%#//scriptlet('json-prune-fetch-response', 'content.dab', '', '/videos/')
+chzzk.naver.com#%#//scriptlet('json-prune-xhr-response', 'content.dab', '', 'service/v3/videos/')
 !#if (adguard_app_windows || adguard_app_mac || adguard_app_cli || adguard_app_android)
 ||nam.veta.naver.com/vas|$xmlhttprequest,domain=chzzk.naver.com,redirect=nooptext
 ||nam.veta.naver.com/gfp$xmlhttprequest,domain=chzzk.naver.com,redirect=nooptext
 ||nam.veta.naver.com/call|$xmlhttprequest,domain=chzzk.naver.com,redirect=nooptext
 ||nam.veta.naver.com/nac/$xmlhttprequest,domain=chzzk.naver.com,redirect=nooptext
+!#else
+chzzk.naver.com#%#//scriptlet('prevent-xhr', '/(veta.naver.com\/vas|veta.naver.com\/gfp|veta.naver.com\/call)/ method:OPTIONS')
 !#endif
 !#endif
 ! kio.ac
