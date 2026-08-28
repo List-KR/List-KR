@@ -33,6 +33,12 @@ https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-AdGua
 https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-uBlockOrigin.txt
 ```
 
+uBO에서 List-KR의 모든 필터를 제대로 적용하려면 List-KR을 신뢰 목록에 따로 등록해야 합니다. 신뢰 목록에 등록된 필터는 웹페이지에서 코드를 실행할 수 있으니, List-KR을 믿고 사용할 때만 아래 순서대로 설정해 주세요.
+
+1. uBO 대시보드의 **설정** 탭에서 **저는 고급 사용자입니다**를 켠 뒤, 오른쪽에 나타나는 톱니바퀴를 눌러 **고급 설정**을 엽니다.
+2. [`trustedListPrefixes`](https://github.com/gorhill/uBlock/wiki/Advanced-settings#trustedListPrefixes)의 기존 값 맨 뒤에 공백을 하나 넣고 위 URL을 붙인 다음 **변경사항 적용**을 누릅니다.
+3. **필터 목록** 탭으로 돌아가 **가져오기…**를 펼친 뒤, 위 URL을 붙여 넣고 **변경사항 적용**을 누릅니다.
+
 **List-KR DNS**:
 ```
 https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-DNS.txt
