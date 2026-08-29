@@ -119,7 +119,9 @@ tistory.com,sajuplus.net##+js(set, checkAds, noopFunc)
 ! foreign website
 lover938.net,lover939.net##+js(nostif, document[_0x)
 ! chzzk.naver.com
-chzzk.naver.com##+js(spoof-css, .banner_ad_wrapper, display, block)
+chzzk.naver.com##+js(spoof-css, ':is(.banner_ad_wrapper,.TopAdBox,.ad--dart,.ad-container-side,.ad-tag__wrapper,.ad_regular1,.ad_slot_inread,.adguru-modal-popup,.ads_box_headline,.adsmedrect,.advert-loader,.advertisementContainer,.advertising-top-box,.artnet-ads-ad,.dianomi_context,.divAdright,.footer__ads--content,.header-article-ads,.header-bannerad,.incontentAd,.js-anchor-ad,.module-box-ads,.moduletable_advertisement,.news-ad-square-a,.nfy-ad-wrapper,.rekl_left,.sidebar-advert,.slideshow-ad-wrapper,.widget--local-ads,.zaf-adhesion-container,.zerg-widget)', display, block)
+chzzk.naver.com##+js(trusted-json-edit, .meta.p2p=false)
+chzzk.naver.com##+js(json-prune, media.[].p2pPath media.[].p2pPathUrlEncoding media.[].encodingTrack.[].p2pPath media.[].encodingTrack.[].p2pPathUrlEncoding)
 chzzk.naver.com##+js(trusted-suppress-native-method, atob, c2V0UmVxdWVzdEhlYWRlcg==, abort)
 chzzk.naver.com##+js(trusted-suppress-native-method, atob, Y3J5cHRv, abort)
 chzzk.naver.com##+js(json-prune-xhr-response, content.dab, , propsToMatch, url:/live-detail)
