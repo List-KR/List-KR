@@ -124,10 +124,6 @@ chzzk.naver.com##+js(trusted-json-edit, .meta.p2p=false)
 chzzk.naver.com##+js(json-prune, media.[].p2pPath media.[].p2pPathUrlEncoding media.[].encodingTrack.[].p2pPath media.[].encodingTrack.[].p2pPathUrlEncoding)
 chzzk.naver.com##+js(trusted-suppress-native-method, atob, c2V0UmVxdWVzdEhlYWRlcg==, abort)
 chzzk.naver.com##+js(trusted-suppress-native-method, atob, Y3J5cHRv, abort)
-chzzk.naver.com##+js(json-prune-xhr-response, content.dab, , propsToMatch, url:/live-detail)
-chzzk.naver.com##+js(json-prune-xhr-response, content.dab, , propsToMatch, url:/videos/)
-chzzk.naver.com##+js(json-prune-fetch-response, content.dab, , propsToMatch, url:/live-detail)
-chzzk.naver.com##+js(json-prune-fetch-response, content.dab, , propsToMatch, url:/videos/)
 ||nam.veta.naver.com/vas$xhr,domain=chzzk.naver.com,redirect=noop.txt
 ||nam.veta.naver.com/gfp$xhr,domain=chzzk.naver.com,redirect=noop.txt
 ||nam.veta.naver.com/call$xhr,domain=chzzk.naver.com,redirect=noop.txt

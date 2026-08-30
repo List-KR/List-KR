@@ -245,10 +245,6 @@ chzzk.naver.com#%#//scriptlet('trusted-json-set', 'JSON.parse', 'meta.p2p', 'fal
 chzzk.naver.com#%#//scriptlet('json-prune', 'media.[].p2pPath media.[].p2pPathUrlEncoding media.[].encodingTrack.[].p2pPath media.[].encodingTrack.[].p2pPathUrlEncoding')
 chzzk.naver.com#%#//scriptlet('trusted-suppress-native-method', 'atob', '"c2V0UmVxdWVzdEhlYWRlcg=="', 'abort')
 chzzk.naver.com#%#//scriptlet('trusted-suppress-native-method', 'atob', '"Y3J5cHRv"', 'abort')
-chzzk.naver.com#%#//scriptlet('json-prune-xhr-response', 'content.dab', '', 'live-detail')
-chzzk.naver.com#%#//scriptlet('json-prune-xhr-response', 'content.dab', '', '/videos/')
-chzzk.naver.com#%#//scriptlet('json-prune-fetch-response', 'content.dab', '', 'live-detail')
-chzzk.naver.com#%#//scriptlet('json-prune-fetch-response', 'content.dab', '', '/videos/')
 !#if (adguard_app_windows || adguard_app_mac || adguard_app_cli || adguard_app_android)
 ||nam.veta.naver.com/vas|$xmlhttprequest,domain=chzzk.naver.com,redirect=nooptext
 ||nam.veta.naver.com/gfp$xmlhttprequest,domain=chzzk.naver.com,redirect=nooptext
