@@ -128,3 +128,4 @@ spochak.com#?#table .basic-info-alert:has(a[href="/marble/"])
 avsee.*#?#.widget-side-box > .main-box:has(img[src^="/imgs/"])
 ! aglint-disable-next-line
 [$domain=/^yagong[0-9]+\.com$/]##div[class*="border"]:has(> a[href][target*="_blank"])
+zeta-ai.io#?#[class*="z-[70]"]:has(img[alt="ad-nudge"]):remove()
