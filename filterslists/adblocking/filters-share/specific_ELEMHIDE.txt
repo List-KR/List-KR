@@ -483,6 +483,7 @@ app.dcinside.com,m.dcinside.com##li.adv-inner
 url.kr##form[method="post"] > #maskLayer
 m.tinnews.co.kr##.bn
 dnn.ne.kr##div:has(> ins.adsbygoogle)
+fmkorea.com##div[style]:has(> div :is(script[src*="adsbygoogle"], iframe[title="광고"]))
 m.fmkorea.com##div[id^="fmad_"] + div[style^="height:"][class]
 fmkorea.com##div.fmad_wrapper
 biz.newdaily.co.kr##div[itemprop="articleBody"] > div[style^="margin:"].clearfix
