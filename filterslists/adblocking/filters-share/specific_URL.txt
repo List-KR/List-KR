@@ -1073,3 +1073,4 @@
 ||infoloop.co.kr/*/ad.css
 ||srtb.msn.com^
 ||sam.msn.com^
+||files.maplescouter.com/next/ads/
