@@ -93,6 +93,4 @@ sites:
     last_known_mirror: yasyadong01.tv
     accept_antibot: true
     force_search_ahead: true
-    failed_since: 2026-08-31 22:53
-    failed_days: 0
-    potentially_dead: true
+    success_since: 2026-09-01 21:04
