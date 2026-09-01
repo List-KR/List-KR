@@ -96,4 +96,4 @@ cokcok.stream#%#//scriptlet('trusted-replace-node-text', 'script', '/const *_[a-
 map.naver.com#%#//scriptlet('json-prune', 'items.[-].adId')
 goodmorningcc.com#%#//scriptlet('set-constant', '___popup', 'undefined')
 www.kyobobook.co.kr#%#//scriptlet('set-cookie', 'wpromo-banner', 'true')
-maplescouter.com#%#//scriptlet('set-cookie', 'ad_hide_ads1', '1')
+maplescouter.com#%#//scriptlet('set-cookie', 'ad_hide_ads2', '1')

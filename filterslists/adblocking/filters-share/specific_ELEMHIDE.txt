@@ -200,6 +200,7 @@ bada.us##.ad-thumb
 bada.us##div:has(> div[id^="div-gpt-ad"]:only-child)
 web.humoruniv.com###naver_adpost_wrap
 maplescouter.com##div.items-center:empty
+maplescouter.com##div.flex:has(> a img[src*="/ads/"])
 yozm.wishket.com##.grid-in-advertisement > a[href]
 yozm.wishket.com##div.box-border:has(> a[href] > img[alt="advertisement"])
 search.naver.com##div[id^="fdr-"].sc_new .sds-comps-vertical-layout:has(> div[data-power-content-url])
