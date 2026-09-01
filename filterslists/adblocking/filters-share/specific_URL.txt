@@ -1074,3 +1074,4 @@
 ||srtb.msn.com^
 ||sam.msn.com^
 ||files.maplescouter.com/next/ads/
+||web-cdn.zeta-ai.io/_next/static/media/ad-nudge-$image
