@@ -94,3 +94,4 @@ cokcok.stream##+js(trusted-replace-node-text, script, media_file, , includes, /c
 kio.ac##+js(nostif, , 200)
 map.naver.com##+js(json-prune, items.[-].adId)
 goodmorningcc.com##+js(set-constant, ___popup, undefined)
+www.kyobobook.co.kr##+js(set-cookie, wpromo-banner, true)
