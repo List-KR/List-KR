@@ -252,6 +252,7 @@ issuetory.co.kr##.entry-content.read-details > .code-block
 qquing.net##.ad-actual
 pedia.watcha.com##a[href*="//cgv.kr/"][href*="?browser_open_type=external"]
 search.naver.com##div[data-slog-container*="_ad"]
+m-jp.yna.co.kr##div.wrap-source
 yna.co.kr##aside:has(> div > amp-ad)
 yna.co.kr##aside[class^="aside-box"]:has(yna-ad-script)
 coupang.com##.ads-line-banner-container
