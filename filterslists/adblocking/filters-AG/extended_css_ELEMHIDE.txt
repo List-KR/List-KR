@@ -49,5 +49,4 @@ m.bunjang.co.kr#?#div:has(> div > div > div:contains(연관상품) > div:has(> d
 [$path=/ca-fe\\/(web\\/cafes\\/|)(anycallusershow|13764661)($|\\/|\\?)/]m.cafe.naver.com#?#.location_bar:has(.active:contains(전체공지)) ~ .location_fix li.board_box:has(a[href].txt_area span.nick:contains(삼성스마트폰카페운영))
 [$path=/(&|\\.|\\?)clubid=13764661($|&)/]~m.cafe.naver.com,cafe.naver.com#?##upperArticleList ._noticeArticle:has(a[href][class][onclick]):has(.td_name a[onclick][href][class]:contains(삼성스마트폰카페운영))
 [$path=/(&|\\.|\\?)clubid=13764661($|&)/]~m.cafe.naver.com,cafe.naver.com#?##editorMainContent div[title][style^="color"]:not(:has(a[target="_blank"])) ~ *:has(a[target="_blank"])
-hdhd344.net,hdhd345.net,hdhd346.net,hdhd347.net,hdhd348.net,hdhd349.net,hdhd350.net,hdhd351.net,hdhd352.net,hdhd353.net,hdhd354.net,hdhd355.net,hdhd356.net,hdhd357.net,hdhd358.net#?#.menu-ul > .menu-li:has(> a:contains(보증토토))
 [$domain=/blacktoon[0-9]+\.com/]#?#.alert.alert-danger:has(> a:contains([AD]))

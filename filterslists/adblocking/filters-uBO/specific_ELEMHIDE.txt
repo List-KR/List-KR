@@ -150,8 +150,6 @@ nightofpeace.com,ilovebees.io##.e-grid.e-con-full.e-con.e-child:has(a[target="_b
 /^torrentgram[0-9]+\.com/##.npia-board-gallery
 /^torrentgram[0-9]+\.com/###body_text > .at-main.at-col[style]
 /^torrentbam[0-9]+\.com/##a[href*="/ad/"][target="_blank"]
-/^torrentbot[0-9]+\.[a-z]+/##a[href^="/go/"][target="_blank"]
-/^torrentbot[0-9]+\.[a-z]+/##div[id^="ad_"]
 /^ktxtorrent[0-9]+\.com/##img[src*=".imgbox.com/"]
 /^torrentsome[0-9]+\.com/##a[href^="/go/"][target="_blank"]
 /^torrentrj[0-9]+\.com/##a[href^="/go/"][target="_blank"]
