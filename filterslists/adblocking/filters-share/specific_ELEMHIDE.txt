@@ -1024,7 +1024,7 @@ m.joynews24.com##hr[style].blank
 joynews24.com,inews24.com##ad
 playcraft.tistory.com##.module.module_plugin a[href*="//coinone.co.kr/user/signup?ref="]
 playcraft.tistory.com##.module.module_plugin a[href*="//link.coupang.com/"]
-youthassembly.kr,wowtv.co.kr,mobiinside.co.kr,phdkim.net,quasarzone.com##div[class*="-banner-"]
+youthassembly.kr,wowtv.co.kr,mobiinside.co.kr,phdkim.net##div[class*="-banner-"]
 minimap.net,memberssl.auction.co.kr,hankyung.com,megabox.co.kr##div[class*="-ad"]:not(.container):not([style])
 minimap.net##.feed-list-wrap .feed-item-wrap-SPONSORED
 m.tf.co.kr###artContent > div[style]:not([class])
@@ -1096,6 +1096,8 @@ poro.gg##div[class^="flex"][class$="h-[250px]"]
 bada.io##div[id*="amazon_shopping"]
 quasarzone.com##.mid-content-area .left-util-wrap .bot-util-area
 quasarzone.com##.bot-content-area .mid-util-wrap .right-util-area
+quasarzone.com##div[style^="min-height"]:has(> div[class$="banner:30000"])
+quasarzone.com##div.login-banner
 m.inven.co.kr##section.mo-top-nav ~ div[style]:not([id])
 m.inven.co.kr##div[id^="mobileTailAd"]
 www.inven.co.kr###commonpart_invenpc
@@ -1185,7 +1187,7 @@ poro.gg###__layout > div:not([class]) > [class]:not(footer) > div[class]:not([sm
 mathbang.net##.sidebar_book
 thecall.co.kr##[class^="adsense"]
 m.bobaedream.co.kr##.wrap > div[style$="height:100px;"]:not([class])
-m.inven.co.kr,quasarzone.com##[class^="banner-"]
+m.inven.co.kr##[class^="banner-"]
 m.edaily.co.kr##div[class$="_banners"]
 m.edaily.co.kr##.article_body > div[class]
 toomics.com##body.home #contents > .floating
