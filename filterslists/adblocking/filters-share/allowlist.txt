@@ -68,3 +68,4 @@ mnews.jtbc.co.kr#@#.ad_bottom
 @@||kpanews.co.kr^$generichide
 clien.net#@#.ad_banner
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ff14angler.com
+poro.gg#@#main > div[class]:has(div.ad-wrapper)
