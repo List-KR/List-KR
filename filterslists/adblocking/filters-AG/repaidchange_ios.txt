@@ -1,4 +1,4 @@
 /^https:\/\/[a-z0-9-]+\.[a-z0-9-]+\/[a-z0-9-_]+\./$image,domain=v14v.com|v16v.com|v22v.com|v23v.com
 ||i.imgur.com^$domain=yasyadong01.tv|yasyadong02.tv
-||hoohootv*.*/static/bnner/$domain=hoohootv311.xyz
+||hoohootv*.*/static/bnner/$domain=yfdabv11.com
 /^https:\/\/nooo[0-9]+\.tv\/theme\/renew\/img\/banner\//$domain=nooo10.tv|nooo11.tv|nooo12.tv|nooo13.tv|nooo14.tv|nooo15.tv|nooo16.tv|nooo17.tv|nooo18.tv|nooo31.tv

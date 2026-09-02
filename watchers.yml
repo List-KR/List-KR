@@ -3,8 +3,6 @@ sites:
     last_known_mirror: bookto28.com
     accept_antibot: true
     force_search_ahead: true
-    pattern_changed: true
-    non_pattern_mirror: t.me
     success_since: 2026-08-26 06:43
   cokcok:
     last_known_mirror: cokcok15.com
@@ -17,10 +15,10 @@ sites:
     force_search_ahead: true
     success_since: 2026-08-26 06:43
   hoohootv:
-    last_known_mirror: hoohootv311.xyz
+    last_known_mirror: yfdabv11.com
     accept_antibot: true
     force_search_ahead: true
-    success_since: 2026-08-26 06:43
+    success_since: 2026-09-02 21:06
   lover:
     last_known_mirror: lover938.net
     accept_antibot: true
@@ -30,10 +28,12 @@ sites:
     last_known_mirror: mato28.com
     accept_antibot: true
     force_search_ahead: true
+    success_since: 2026-09-02 21:06
   newto:
     last_known_mirror: newto28.com
     accept_antibot: true
     force_search_ahead: true
+    success_since: 2026-09-02 21:06
   nooo:
     last_known_mirror: nooo10.tv
     accept_antibot: true
