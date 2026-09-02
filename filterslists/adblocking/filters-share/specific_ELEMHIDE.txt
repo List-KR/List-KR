@@ -1092,7 +1092,6 @@ newsis.com##table[class*="Ad"]
 newsis.com##div#shuffle:has(> ul iframe[src*="ad"])
 m.etoday.co.kr##section > div[style*="height:250px"]
 jootc.com,funissu.com##aside[id^="ai_widget-"]
-poro.gg##div[class^="flex"][class$="h-[250px]"]
 bada.io##div[id*="amazon_shopping"]
 quasarzone.com##.mid-content-area .left-util-wrap .bot-util-area
 quasarzone.com##.bot-content-area .mid-util-wrap .right-util-area
@@ -1183,7 +1182,6 @@ compuzone.co.kr##body > #container > .cpz_inner
 compuzone.co.kr###container > div[class][style*="/GNBBottomLineBanner_"][style^="background-image:url("]
 compuzone.co.kr##.cpz_inner .sta_rolling_banner
 compuzone.co.kr##.cpz_inner .recommend_wrap > .recommend_list
-poro.gg###__layout > div:not([class]) > [class]:not(footer) > div[class]:not([sm]):not(.page-container)
 mathbang.net##.sidebar_book
 thecall.co.kr##[class^="adsense"]
 m.bobaedream.co.kr##.wrap > div[style$="height:100px;"]:not([class])
