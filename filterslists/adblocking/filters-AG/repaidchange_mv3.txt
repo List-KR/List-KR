@@ -1,6 +1,6 @@
 /^https:\/\/cdn[0-9]+\.cokcok\.[a-z0-9]+\/assets\/images\//$domain=cokcok15.com|cokcok16.com|cokcok17.com|cokcok18.com|cokcok19.com|cokcok20.com|cokcok21.com|cokcok22.com|cokcok23.com
 /\/data\/apms\/banner\//$domain=newto28.com|mato28.com|bookto28.com
-sbxh1.com,sbxh9.com,sbxh10.com,sbxh11.com##[data-brs][data-br]
+sbxh9.com,sbxh10.com,sbxh11.com##[data-brs][data-br]
 /^https:\/\/[a-z0-9-]+\.[a-z0-9-]+\/[a-z0-9-_]+\./$image,domain=v14v.com|v16v.com|v22v.com|v23v.com
 ||i.imgur.com^$domain=yasyadong01.tv|yasyadong02.tv|torrentqq401.com|torrentqq402.com|torrentqq403.com|torrentqq404.com|torrentqq405.com|torrentqq406.com|torrentqq407.com|torrentqq408.com|torrentqq409.com|torrentqq410.com
 /^https:\/\/(www\.)?yako[0-9]+\.com\/upload\/banner\//$domain=yako2.com

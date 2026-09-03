@@ -10,15 +10,17 @@ sites:
     force_search_ahead: true
     success_since: 2026-08-26 06:43
   cookmana:
-    last_known_mirror: cookmana25.com
+    last_known_mirror: cookmana38.com
     accept_antibot: true
     force_search_ahead: true
-    success_since: 2026-08-26 06:43
+    success_since: 2026-09-03 21:04
   hoohootv:
     last_known_mirror: yfdabv11.com
     accept_antibot: true
     force_search_ahead: true
-    success_since: 2026-09-02 21:06
+    failed_since: 2026-09-03 21:04
+    failed_days: 0
+    potentially_dead: true
   lover:
     last_known_mirror: lover938.net
     accept_antibot: true
