@@ -40,7 +40,7 @@ sites:
     force_search_ahead: true
     success_since: 2026-08-26 06:43
   sbxh:
-    last_known_mirror: sbxh1.com
+    last_known_mirror: sbxh9.com
     accept_antibot: true
     force_search_ahead: true
     success_since: 2026-08-26 06:43
