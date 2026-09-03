@@ -60,7 +60,7 @@ windowsforum.kr#@#div[class$="_banner"]
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=bera.world|1412.live|sellas.ink|noonnu.cc
 @@||sysnet.pe.kr^$generichide
 starrykss.tistory.com##.adblock-on
-||genshin.gamedot.org/module/genshinmaps/asset/image/ab-2211-*.
+||genshin.gamedot.org/module/genshinmaps/asset/image/ab-2211-*
 @@||jimnong.tistory.com^$generichide
 @@||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.min.js$domain=x86.co.kr|1004lucifer.blogspot.com|focuskr.tistory.com
 @@||ad.smartmediarep.com/NetInsight/video/smr1/smr1/$domain=allvod.sbs.co.kr

@@ -117,11 +117,9 @@
 ||adservice.sbs.co.kr^
 ||cpa.greenp.kr^
 ||api.valista.io^
-||api.linkmine.co.kr^$document
 ||api.greenp.kr^
 ||ad-img.ebaykorea.com^
 ||api.ezadsystem.com^
-||ad.planbplus.co.kr^$document
 ||poweredby.jads.co^
 ||ad.a-ads.com^
 ||acceptable.a-ads.com^
