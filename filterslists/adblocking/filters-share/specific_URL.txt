@@ -1075,3 +1075,4 @@
 ||files.maplescouter.com/next/ads/
 ||web-cdn.zeta-ai.io/_next/static/media/ad-nudge-$image
 ||file.chuchu.gg/v1/pop_up_ad/
+||graynews.co.kr/api/v2/ads/

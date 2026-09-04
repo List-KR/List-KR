@@ -1526,3 +1526,4 @@ infoloop.co.kr##div[class*="adsense-content"]
 infoloop.co.kr##div[class^="pc-post-ad"]
 cpsp.kr##div.relative:has(> div ins.adsbygoogle)
 economist.co.kr##div.txt_park:has(> .pick_ad)
+graynews.co.kr##[data-component="AdBanner"]
