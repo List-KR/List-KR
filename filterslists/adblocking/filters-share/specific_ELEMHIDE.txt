@@ -295,6 +295,7 @@ edaily.co.kr##div[style][class^="boxshow_"]
 edaily.co.kr##.weekend_news
 readersnews.com##.user-aside > div[style^="padding"]
 newdaily.co.kr##.header-banner
+newdaily.co.kr##div:has(> div[id^="RS"] > iframe[id^="google_ads"])
 kgnews.co.kr###news_body_area > div[style*="height:"]
 mlbpark.donga.com##div[id^="naver_cont"]
 mlbpark.donga.com##li.commercial
