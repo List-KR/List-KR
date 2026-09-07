@@ -193,6 +193,7 @@ cgv.co.kr##button[class^="mems01010_phoneLogin__"]
 asked.kr##div[class^="qnaBanner_"]
 asked.kr##div[class^="realclickInner_"]
 news.jtbc.co.kr##.videoPlayerContainer > .print-hide:has(> .e1ecreks0 > .MuiBox-root)
+news.jtbc.co.kr##div.MuiBox-root:has(> div[id$="_AD"], > iframe[src*="//ad.reople.co.kr/"], > div[id^="taboola"], > div.print-hide > div[id^="taboola"], > div.print-hide > div.MuiBox-root a[rel~="sponsored"], > p.MuiTypography-root + div.MuiBox-root > div[id$="_AD"], > div > div > div[id$="_AD"] > script[name*="@article_news_commentbottom?"])
 viewership.softc.one##.container.px-4 > .box-border.gap-8 > .rounded-md.min-h-\[140px\]:has(ins.adsbygoogle)
 m.inven.co.kr##div[class^="ad-bbs-view-"]
 inven.co.kr##div[style]:has(> section[class^="ad"])
