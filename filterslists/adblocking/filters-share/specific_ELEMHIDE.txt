@@ -1297,6 +1297,7 @@ fnnews.com##div[id^="add_view_"][style]
 mediapen.com##div[style]:has(> a > img[src*="banner"])
 mediapen.com##iframe[src^="/banners/load/"]
 mediapen.com##img[src*="//img.mediapen.com/banners/"]
+mediapen.com##div[id^="mundan_banner"]
 insight.co.kr##div.aside-popular > ul.aside-popular-wrap > li > div[style~="300px;height:"][style~="block;width:"]
 edaily.co.kr##section[id^="aside_"] > div[id$="-sticky-wrap"] > div[id$="-sticky"] > div[id^="w_read_"][class^="boxshow_"]
 mediapen.com,edaily.co.kr##div[data-ad][class][style]
