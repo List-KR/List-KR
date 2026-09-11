@@ -11,4 +11,4 @@ lover938.net,lover939.net##.div-over
 /lover[0-9]\.net\/file\/eve\/.*\.png$domain=lover938.net|lover939.net
 torrentqq401.com,torrentqq402.com,torrentqq403.com,torrentqq404.com,torrentqq405.com,torrentqq406.com,torrentqq407.com,torrentqq408.com,torrentqq409.com,torrentqq410.com##.row-banner
 torrentqq401.com,torrentqq402.com,torrentqq403.com,torrentqq404.com,torrentqq405.com,torrentqq406.com,torrentqq407.com,torrentqq408.com,torrentqq409.com,torrentqq410.com##.at-banner
-/^https:\/\/nooo[0-9]+\.tv\/theme\/renew\/img\/banner\//$domain=nooo10.tv|nooo11.tv|nooo12.tv|nooo13.tv|nooo14.tv|nooo15.tv|nooo16.tv|nooo17.tv|nooo18.tv|nooo31.tv
+/^https:\/\/nooo[0-9]+\.tv\/theme\/renew\/img\/banner\//$domain=nooo11.tv|nooo12.tv|nooo13.tv|nooo14.tv|nooo15.tv|nooo16.tv|nooo17.tv|nooo18.tv|nooo31.tv
