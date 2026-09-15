@@ -1532,3 +1532,4 @@ cpsp.kr##div.relative:has(> div ins.adsbygoogle)
 economist.co.kr##div.txt_park:has(> .pick_ad)
 graynews.co.kr##[data-component="AdBanner"]
 chosundaily.com##a.banner
+beebs.hada.io##div.beebs-ad
