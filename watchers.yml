@@ -19,7 +19,7 @@ sites:
     accept_antibot: true
     force_search_ahead: true
     failed_since: 2026-09-03 21:04
-    failed_days: 14
+    failed_days: 15
     potentially_dead: true
   lover:
     last_known_mirror: lover938.net
