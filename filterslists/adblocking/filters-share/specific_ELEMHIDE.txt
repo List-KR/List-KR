@@ -1534,3 +1534,4 @@ graynews.co.kr##[data-component="AdBanner"]
 chosundaily.com##a.banner
 beebs.hada.io##div.beebs-ad
 lec.co.kr##div[style]:has(> div[data-widget_id])
+metro.nuua.travel##a.main-scroll-area-banner

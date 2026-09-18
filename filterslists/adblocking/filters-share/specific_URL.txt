@@ -1077,3 +1077,4 @@
 ||file.chuchu.gg/v1/pop_up_ad/
 ||graynews.co.kr/api/v2/ads/
 ||chosundaily.com/data/file/banner/
+||metro.nuua.travel/image/banner/
