@@ -140,6 +140,7 @@ muko.kr##.muko-ad-impression
 damoang.net##div[data-dm-slot]
 damoang.net##div.dm-ad-row
 damoang.net##div:has(> div[class^="adsense"])
+damoang.net##div.hidden:has(> div > ins.adsbygoogle)
 damoang.net##div[style^="--ad-slot-min-height:"]
 damoang.net##.gap-4.flex-col > div:has(> div[data-position="side-image-text-banner"])
 ruliweb.com##.ti_reserved_slot[style^="min-height:"]
