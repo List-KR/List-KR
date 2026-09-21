@@ -2,7 +2,7 @@
 /\/data\/apms\/banner\//$domain=newto28.com|mato28.com|bookto28.com
 sbxh9.com,sbxh10.com,sbxh11.com##[data-brs][data-br]
 /^https:\/\/[a-z0-9-]+\.[a-z0-9-]+\/[a-z0-9-_]+\./$image,domain=v14v.com|v16v.com|v22v.com|v23v.com
-||i.imgur.com^$domain=yasyadong01.tv|yasyadong02.tv|torrentqq401.com|torrentqq402.com|torrentqq403.com|torrentqq404.com|torrentqq405.com|torrentqq406.com|torrentqq407.com|torrentqq408.com|torrentqq409.com|torrentqq410.com
+||i.imgur.com^$domain=yasyadong01.tv|yasyadong02.tv|torrentqq401.com|torrentqq402.com|torrentqq403.com|torrentqq404.com|torrentqq405.com|torrentqq406.com|torrentqq407.com|torrentqq408.com|torrentqq409.com|torrentqq410.com|yasyadong2.tv
 /^https:\/\/(www\.)?yako[0-9]+\.com\/upload\/banner\//$domain=yako2.com
 lover938.net,lover939.net#%#//scriptlet('prevent-addEventListener', 'click', 'popMagic')
 lover938.net,lover939.net##.div-over
