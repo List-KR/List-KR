@@ -27,7 +27,7 @@ jobs:
                 uses: actions/checkout@v7
 
             -   name: Set up pnpm
-                uses: pnpm/setup@v2
+                uses: pnpm/setup@v3
                 with:
                     runtime: node@24
                     cache: true
@@ -50,7 +50,7 @@ jobs:
                 uses: actions/checkout@v7
 
             -   name: Set up pnpm
-                uses: pnpm/setup@v2
+                uses: pnpm/setup@v3
                 with:
                     runtime: node@24
                     cache: true
