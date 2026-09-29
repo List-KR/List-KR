@@ -70,3 +70,4 @@ clien.net#@#.ad_banner
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=ff14angler.com
 poro.gg#@#main > div[class]:has(div.ad-wrapper)
 arca.live#@#b#textad
+@@||iconwiki.aoo.kr/data/clarity-icons.json
