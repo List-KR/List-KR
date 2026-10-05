@@ -96,11 +96,8 @@ sysnet.pe.kr##+js(nostif, banner_book)
 @@||cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js$script,domain=typing.works
 avdbs.com##+js(acis, $, ad_blk)
 genshin.gamedot.org##+js(nostif, blockCheck2022)
-errornight.com##+js(aost, alert, chk_adBlock)
 ||ssl.pstatic.net/tveta/libs/ssp-video/prod/ssp.web.sdk_$script,redirect=noop.js,domain=m.sports.naver.com
 ilsangt.tistory.com##.adblock-on
-||ssulwar.com/dev/modules/board/skins/*/js/adblockblock.js
-ssulwar.com##+js(acis, document.getElementById, adblock)
 ||ad.smartmediarep.com/NetInsight/video/$redirect=noop.txt,domain=mbn.co.kr
 detegice.github.io##+js(aopr, $.prototype.fadeIn)
 ilsangt.tistory.com##+js(acis, $, .adsense-area)

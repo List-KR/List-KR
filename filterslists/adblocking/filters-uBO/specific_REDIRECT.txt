@@ -10,7 +10,6 @@
 ||video.veilduck.app^$redirect=noop-1s.mp4
 ||advod.sbs.co.kr/sbsad/$media,redirect=noop-1s.mp4
 ||smrmembers-smr.smartmediarep.com/smc/smrmembers/$redirect=noop-1s.mp4
-||news.mobfeed.co.kr/front/personal/coupang$redirect=noop.txt
 ||bigkinds.or.kr/resources/files/banner/$redirect=2x2.png
 ||bigkinds.or.kr/assets/*/img/content/*banner$redirect=2x2.png
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=googlesyndication_adsbygoogle.js

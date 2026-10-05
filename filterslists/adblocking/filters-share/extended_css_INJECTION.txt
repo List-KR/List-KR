@@ -21,7 +21,6 @@ bbs.ruliweb.com#$?##board_top > div > .top_best.best_list:has(+ .col div[id^="ad
 browse.auction.co.kr#$?#div[module-design-id] ~ div > .component:has(div:has(.text--smiledelivery_slogan)) .section--component_title { margin-top: 0px !important; }
 koreatimes.net#$?#.container:has(~ div[style]#toTop) article.content { margin-top: 100px !important; }
 koreatimes.net#$?#.headding-news:has(~ div:not([style])#toTop) .col-md-8 { margin-left: calc(50% - 384px) !important; }
-ponh.info#$?#div[data-mesh-id][data-testid] > div[id^="comp-"]:has(form[id][class]) { margin-top: -600px !important; }
 algumon.com#$?#.nav-mobile:matches-css(display: none) ~ .base > .main { width: calc(100% - 290px) !important; }
 5donews.co.kr#$?#.body > .content.xe_content:not(:has(article)) { width: auto !important; }
 mule.co.kr#$?#.section-lefttop-center:has(> .mule-today) { width: 100% !important; }

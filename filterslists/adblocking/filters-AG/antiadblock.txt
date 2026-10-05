@@ -154,10 +154,10 @@ luckyquiz3.blogspot.com#%#//scriptlet('prevent-xhr', 'adsbygoogle')
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=sbs.co.kr|game.hotsharegames.com
 !#endif
 !#if (adguard_app_android)
-bera.world,sellas.ink,1412.live#$#[class^="document_"].xe_content { display: block !important; height: 100% !important; }
-bera.world,sellas.ink,1412.live#$#.et_vars { height: auto !important; overflow: visible !important; }
-bera.world,sellas.ink,1412.live#$#.atc_ex { height: auto !important; overflow: visible !important; }
-bera.world,sellas.ink,1412.live#%#//scriptlet('set-constant', 'adError', 'noopFunc')
+bera.world,1412.live#$#[class^="document_"].xe_content { display: block !important; height: 100% !important; }
+bera.world,1412.live#$#.et_vars { height: auto !important; overflow: visible !important; }
+bera.world,1412.live#$#.atc_ex { height: auto !important; overflow: visible !important; }
+bera.world,1412.live#%#//scriptlet('set-constant', 'adError', 'noopFunc')
 !#endif
 deokhu.com,3dpchip.com#%#//scriptlet('abort-current-inline-script', 'chp_ads_blocker_detector')
 3dpchip.com#%#//scriptlet('prevent-xhr', '/(compass.adop.cc|adsbygoogle|taboola)/', 'emptyStr')
@@ -176,7 +176,7 @@ sysnet.pe.kr#%#//scriptlet('prevent-setTimeout', 'banner_book')
 !#safari_cb_affinity(privacy)
 @@||new-in.pmirnc.com/public/fingerprint2.js$script
 !#safari_cb_affinity
-bera.world,sellas.ink,1412.live#%#//scriptlet('prevent-element-src-loading', 'script', 'pagead2.googlesyndication.com/pagead/js/adsbygoogle.js')
+bera.world,1412.live#%#//scriptlet('prevent-element-src-loading', 'script', 'pagead2.googlesyndication.com/pagead/js/adsbygoogle.js')
 !#safari_cb_affinity(social)
 @@||cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js$script,domain=typing.works
 !#safari_cb_affinity
@@ -187,23 +187,18 @@ m.search.naver.com#%#//scriptlet('prevent-element-src-loading', 'script', 'ssl.p
 avdbs.com#%#//scriptlet('abort-current-inline-script', '$', 'ad_blk')
 genshin.gamedot.org#%#//scriptlet('prevent-setTimeout', 'blockCheck2022')
 !#if (adguard_app_ios)
-@@||errornight.com^$generichide
-errornight.com#$#ins.adsbygoogle { display: none !important; }
 !#endif
-errornight.com#%#//scriptlet('abort-on-stack-trace', 'alert', 'chk_adBlock')
 ||ssl.pstatic.net/tveta/libs/ssp-video/prod/ssp.web.sdk_$script,redirect=noopjs,domain=m.sports.naver.com
 !#if (adguard_app_ios || adguard_ext_safari)
 @@||ssl.pstatic.net/tveta/libs/ssp-video/prod/ssp.web.sdk_$script,domain=m.sports.naver.com
 !#endif
 !#if (adguard_app_ios || adguard_ext_safari)
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=bera.world|1412.live|sellas.ink
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,domain=bera.world|1412.live
 !#endif
 !#if (adguard_app_ios)
 @@||sysnet.pe.kr^$generichide
 !#endif
 ilsangt.tistory.com##.adblock-on
-||ssulwar.com/dev/modules/board/skins/*/js/adblockblock.js$redirect=noopjs
-ssulwar.com#%#//scriptlet('abort-current-inline-script', 'document.getElementById', 'adblock')
 !#if (adguard_app_ios || adguard_ext_safari)
 @@||ad.smartmediarep.com/NetInsight/video/$domain=mbn.co.kr
 ||ad.smartmediarep.com/NetInsight/video/$redirect=nooptext,domain=mbn.co.kr,important

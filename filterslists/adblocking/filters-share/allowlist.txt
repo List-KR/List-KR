@@ -6,7 +6,7 @@
 @@||ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js$domain=weather.naver.com
 @@||ssl.pstatic.net/tveta/libs/glad/prod/*/gfp-sdk.js$domain=weather.naver.com
 @@||ssl.pstatic.net/tveta/libs/ssp-video/prod/ssp.web.sdk_$script,domain=tv.naver.com|weverse.io
-08dragon.com,eoecare.cafe24.com#@#[data-ez-name]
+eoecare.cafe24.com#@#[data-ez-name]
 @@||cdn.kbmaeil.com/bannerpop/uploads/js/976.js
 @@||cdn.kbmaeil.com/bannerpop/uploads/image/16224295341851316158.png
 @@||whosaeng.com/data/whosaeng_com/banner/2024010357483891
@@ -59,9 +59,9 @@ dicoall.com#@##rightAd
 vod.jtbc.co.kr#@#.ad-unit:not(.textads)
 vod.jtbc.co.kr#@#.ad-zone:not(.textads)
 avdbs.com#@#.ad-btn
-bera.world,sellas.ink,1412.live#@#.ads
+bera.world,1412.live#@#.ads
 remiz.co.kr#@##googleAd
-bera.world,sellas.ink,1412.live#@##google_ads
+bera.world,1412.live#@##google_ads
 somenotes247.blogspot.com#@#.vertical-ads
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=tsuvod.com
 mnews.jtbc.co.kr#@#.ad_bottom
