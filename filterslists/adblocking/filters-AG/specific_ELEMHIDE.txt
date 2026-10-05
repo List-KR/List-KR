@@ -1,5 +1,5 @@
 !#if (!adguard_ext_android_cb)
-naver.com##[aria-label="웨일 브라우저 설치 안내"] 
+naver.com##[aria-label="웨일 브라우저 설치 안내"]
 !#endif
 !#if (adguard_ext_safari || adguard_app_ios)
 m.ytn.co.kr#@#.ad_1200
