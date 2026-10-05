@@ -147,7 +147,7 @@ m.fmkorea.com##iframe[src*="//loader.fmkorea.com/"][src*="_loader/"]
 [$domain=/mingky[0-9]+\.net/]##.contents_wrap.column div[style="display: flex; flex-direction: column; align-items: center;"]
 nightofpeace.com,ilovebees.io##.e-con-full.e-flex.e-con:has(a[target="_blank"] img)
 nightofpeace.com,ilovebees.io##.e-grid.e-con-full.e-con.e-child:has(a[target="_blank"] img)
-[$domain=/lover[0-9]\.net/]##.div-over
+[$domain=/lover[0-9]+.net/]##.div-over
 [$domain=/^torrentqq[0-9]+.com/]##.at-banner
 [$domain=/torrentzota[0-9]+\.com/]##a[href^="/adver-"]
 [$domain=/^tv[0-9]+\.wiki/]###cpb-popup-banners
