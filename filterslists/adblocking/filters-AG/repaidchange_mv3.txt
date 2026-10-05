@@ -6,9 +6,9 @@ sbxh10.com,sbxh11.com##[data-brs][data-br]
 /^https:\/\/(www\.)?yako[0-9]+\.com\/upload\/banner\//$domain=yako2.com
 lover938.net,lover939.net#%#//scriptlet('prevent-addEventListener', 'click', 'popMagic')
 lover938.net,lover939.net##.div-over
-/lover[0-9]+.net\/file\/tohotv\/.*\.gif$domain=lover938.net|lover939.net
-/lover[0-9]+.net\/file\/1bet\/.*\.gif$domain=lover938.net|lover939.net
-/lover[0-9]+.net\/file\/eve\/.*\.png$domain=lover938.net|lover939.net
+/lover[0-9]+\.net\/file\/tohotv\/.*\.gif$domain=lover938.net|lover939.net
+/lover[0-9]+\.net\/file\/1bet\/.*\.gif$domain=lover938.net|lover939.net
+/lover[0-9]+\.net\/file\/eve\/.*\.png$domain=lover938.net|lover939.net
 torrentqq401.com,torrentqq402.com,torrentqq403.com,torrentqq404.com,torrentqq405.com,torrentqq406.com,torrentqq407.com,torrentqq408.com,torrentqq409.com,torrentqq410.com##.row-banner
 torrentqq401.com,torrentqq402.com,torrentqq403.com,torrentqq404.com,torrentqq405.com,torrentqq406.com,torrentqq407.com,torrentqq408.com,torrentqq409.com,torrentqq410.com##.at-banner
 /^https:\/\/nooo[0-9]+\.tv\/theme\/renew\/img\/banner\//$domain=nooo13.tv|nooo14.tv|nooo16.tv|nooo17.tv|nooo31.tv|nooo15.tv|nooo18.tv|nooo32.tv|nooo33.tv|nooo35.tv
