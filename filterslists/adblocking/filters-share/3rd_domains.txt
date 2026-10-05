@@ -21,8 +21,6 @@
 ||ad-creative.pstatic.net^
 ||centaurs-rest.coupang.com^
 ||ad.cashdoc.io^
-||sv.govkorea24.com^
-||static.bidrich.com^
 ||ad.tpmn.io^
 ||cdn.nhnace.com^
 ||tae.middlepoint.co.kr^
@@ -42,7 +40,6 @@
 ||ad-api.band.us^
 ||tivan.naver.com^
 ||live.primis.tech^
-||pub.tvads.co.kr^
 ||api.linkmine.co.kr^
 ||io.smartmyd.com^
 ||dhgywazgeek0d.cloudfront.net^
@@ -75,7 +72,6 @@
 ||ads.admaru.com^
 ||displayad.lotteon.com^
 ||ad-script.viewus.co.kr^
-||ad-insight.sellermill.com^
 ||reqde.sooplive.com^
 ||serv.ds.kakao.com^
 ||ad.auction.co.kr^
@@ -94,7 +90,6 @@
 ||addb.interpark.com^
 ||ad1.sportschosun.com^
 ||adimg.newdaily.co.kr^
-||api.botad.kr^
 ||adimg.cgv.co.kr^
 ||ad.cgv.co.kr^
 ||naverpa-phinf.pstatic.net^
@@ -157,9 +152,7 @@
 ||ad*.thisisgame.com^
 ||adv.bandi.so^
 ||ads.adoffice.11st.co.kr^
-||ad.feedbag.co.kr^
 ||ad.ilikesponsorad.com^
-||ad.bidrich.com^
 ||displayadimg.zumst.com^
 ||ad.tpmn.co.kr^
 ||ad.ilbe.com^
@@ -190,7 +183,6 @@
 ||ad.mediafarm.co.kr^
 ||ad.cauly.co.kr^
 ||adx-exchange.toast.com^
-||adsrv-up.mcrony.com^
 ||ads.priel.co.kr^
 ||ad.phaserep.com^
 ||ad.aceplanet.co.kr^
@@ -198,7 +190,6 @@
 ||ad.ajitad.co.kr^
 ||simg.imadrep.co.kr^
 ||adv.dailyissue.co.kr^
-||ad.idnad.co.kr^
 ||minishop.linkprice.com^
 ||ad.linkprice.com^
 ||ad.tjtune.com^
@@ -211,7 +202,6 @@
 ||ssp.meba.kr^
 ||ad.adnmore.co.kr^
 ||adapi.about.co.kr^
-||adx.turl.co.kr^
 ||tpc.googlesyndication.com^
 ||adservice.google.co.*
 ||ads-partners.coupang.com^

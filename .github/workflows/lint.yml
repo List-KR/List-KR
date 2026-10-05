@@ -21,7 +21,7 @@ jobs:
             -   name: Set up pnpm
                 uses: pnpm/setup@v3
                 with:
-                    runtime: node@24
+                    runtime: node@lts
                     cache: true
 
             -   name: Run AGLint

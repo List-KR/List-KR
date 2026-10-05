@@ -29,7 +29,7 @@ jobs:
             -   name: Set up pnpm
                 uses: pnpm/setup@v3
                 with:
-                    runtime: node@24
+                    runtime: node@lts
                     cache: true
 
             -   name: Run AGLint
@@ -52,7 +52,7 @@ jobs:
             -   name: Set up pnpm
                 uses: pnpm/setup@v3
                 with:
-                    runtime: node@24
+                    runtime: node@lts
                     cache: true
 
             -   name: Build
@@ -61,7 +61,7 @@ jobs:
             -   name: Set up Node.js
                 uses: actions/setup-node@v7
                 with:
-                    node-version: 24
+                    node-version: lts/*
 
             -   name: Publish to npm
                 run: npm publish
@@ -93,4 +93,8 @@ jobs:
                         https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-AdGuard.txt
                         https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-uBlockOrigin.txt
                         https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-DNS.txt
+                        https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-AdGuard-classic.txt
+                        https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-AdGuard-unified.txt
+                        https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-uBlockOrigin-classic.txt
+                        https://cdn.jsdelivr.net/npm/@list-kr/filterslists@latest/dist/filterslist-uBlockOrigin-unified.txt
                     url-mode: overwrite

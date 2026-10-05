@@ -61,7 +61,6 @@
 ||marketingking.co.kr^$third-party
 ||dable.io^
 ||catad5959.com^
-||targetpush.co.kr^
 ||netinsight.co.kr^
 ||realclick.co.kr^
 ||googleadservices.com^
@@ -94,11 +93,8 @@
 ||adinc.co.kr^
 ||innity.net^
 ||shoppingcall.me^
-||kodcad.kr^
 ||hancomad.com^
 ||ahnlabad.com^
-||tagtree.co.kr^
-||onepx.kr^$third-party
 ||tapioni.com^
 ||shukriya90.com^
 ||trafficforce.com^
@@ -128,7 +124,6 @@
 ||tnkad.net^
 ||advertising.com^
 ||contextweb.com^
-||ndexww.com^
 ||adsrvr.org^
 ||admanmedia.com^
 ||sitescout.com^
@@ -144,7 +139,6 @@
 ||optad360.io^
 ||admixer.co.kr^
 ||xlviirdr.com^
-||xn--s-4z5e652a53k.com^
 ||categorysort.com^$document
 ||tenping.kr^$third-party
 ||infolinks.com^

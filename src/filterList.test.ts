@@ -1,7 +1,13 @@
 import assert from "node:assert/strict";
 import {test} from "node:test";
 import * as AGTree from "@adguard/agtree";
-import {prepareDnsFilterList, stringifyFilterList} from "./filterList";
+import {bundleIncludes, prepareDnsFilterList, stringifyFilterList} from "./filterList";
+
+test("includes pointing to missing files fail the build", async () => {
+    const list = AGTree.FilterListParser.parse("!#include missing.txt", {parseUboSpecificRules: true});
+
+    await assert.rejects(bundleIncludes(list, "/filters", new Map()), /Included file not found: missing\.txt/);
+});
 
 test("DNS lists normalize modifiers, duplicates, and configured exclusions", () => {
     const removable = ["third-party", "3p", "document", "doc", "all", "popup", "network"];

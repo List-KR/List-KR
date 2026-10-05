@@ -74,7 +74,9 @@ export async function bundleIncludes(
             continue;
         }
         const includePath = path.resolve(filtersListDir, f.params.value);
-        if (!processableCache.get(includePath)) continue;
+        const processable = processableCache.get(includePath);
+        if (processable === undefined) throw new Error(`Included file not found: ${f.params.value}`);
+        if (!processable) continue;
         const included = await bundleIncludes(await parseFilterList(includePath), filtersListDir, processableCache);
         out.push(...included.children);
     }
