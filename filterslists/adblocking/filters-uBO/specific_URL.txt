@@ -1,3 +1,6 @@
 !
+! AGLint does not support uBO $uritransform syntax yet.
+! aglint-disable-next-line no-invalid-modifiers
 ||m.bunjang.co.kr/products/$document,uritransform=/^https:\/\/(?!.*[?&]appNudge=)([^?]+)(?:\?(.*))?\$/https:\/\/\$1?appNudge=false&\$2/
+! aglint-disable-next-line no-invalid-modifiers
 ||m.bunjang.co.kr/products/$document,uritransform=/^https:\/\/([^?]+\?(?:[^&]*&)*appNudge=)[^&]*/https:\/\/\$1false/
