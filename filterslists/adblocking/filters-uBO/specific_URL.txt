@@ -1,1 +1,3 @@
 !
+||m.bunjang.co.kr/products/$document,uritransform=/^https:\/\/(?!.*[?&]appNudge=)([^?]+)(?:\?(.*))?\$/https:\/\/\$1?appNudge=false&\$2/
+||m.bunjang.co.kr/products/$document,uritransform=/^https:\/\/([^?]+\?(?:[^&]*&)*appNudge=)[^&]*/https:\/\/\$1false/

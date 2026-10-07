@@ -65,6 +65,7 @@ m.bunjang.co.kr##div[data-grid-size] > div:has(> a[href^="https://link.coupang.c
 m.bunjang.co.kr##div[data-grid-size] > div:has(> a[href^="https://ader.naver.com/"])
 m.bunjang.co.kr##div[data-grid-size] > div:has(> a[href^="/products/"][href*="&ref_source=sa&"])
 m.bunjang.co.kr##div[data-grid-size] > div:has(> a[href*="&ref_code=%22%7B%5C%22cntr%5C%22%3A%5C%22SIM3"])
+m.bunjang.co.kr##main > section > div[class^="_titleContainer_"]:xpath(.. | ../following-sibling::*[position() <= 3])
 ! lottecinema.co.kr desktop
 lottecinema.co.kr##.login_ad
 lottecinema.co.kr###main_top_of_top_banner
