@@ -1055,3 +1055,5 @@
 ||chosundaily.com/data/file/banner/
 ||metro.nuua.travel/image/banner/
 ||api.chzzk.naver.com/service/t/$media,domain=chzzk.naver.com,redirect=noopmp4-1s
+||kkutugame.kr/js/adblock-gate.js^
+||kkutugame.kr/js/site-ads.js^
