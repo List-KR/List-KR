@@ -3,4 +3,4 @@ allowBuilds:
   esbuild: true
 
 overrides:
-  '@adguard/aglint>@adguard/agtree': '4.2.1'
+  '@adguard/aglint>@adguard/agtree': '4.3.0'
