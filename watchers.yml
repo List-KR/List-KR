@@ -19,7 +19,7 @@ sites:
     accept_antibot: true
     force_search_ahead: true
     failed_since: 2026-09-03 21:04
-    failed_days: 43
+    failed_days: 47
     potentially_dead: true
   lover:
     last_known_mirror: lover938.net
@@ -62,7 +62,7 @@ sites:
     force_search_ahead: true
     success_since: 2026-08-26 06:43
   yasyadong:
-    last_known_mirror: yasyadong01.tv
+    last_known_mirror: yasyadong2.tv
     accept_antibot: true
     force_search_ahead: true
-    success_since: 2026-09-01 21:04
+    success_since: 2026-10-19 22:23
