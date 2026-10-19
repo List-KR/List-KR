@@ -360,7 +360,7 @@ hankookilbo.com##div[data-ga4^="out_taboola"]
 hankookilbo.com##div:has(> div > div > iframe[src^="https://ad.hankookilbo.com/html/midas/hankookilbo/pc_news_endpage_h@"]):has(> div > div > iframe[src^="https://ad.hankookilbo.com/html/midas/hankookilbo/aix_m_neswpage@"])
 hankookilbo.com##div:has(> div > div > button[aria-label="광고 삭제"]):has(iframe[src$="/endpage@floating"])
 hankookilbo.com##div[data-ad-type="article-ad"]
-hankookilbo.com##div[class*="-ad-"]:not(data-el)
+hankookilbo.com##div[class*="-ad-"]:not([data-el])
 mininote.co.kr##rs-fullwidth-wrap[style^="margin-top:"]
 mininote.co.kr##rs-module-wrap[id^="rev_slider_"]
 muko.kr##.xe-widget-wrapper > div[style]:has(a[href^="/ad"])
@@ -851,7 +851,7 @@ autopostkorea.com##.td-pb-span4.td-main-sidebar
 autopostkorea.com##div[class^="adsense_"]
 m.boannews.com##section[class^="banner-"]
 newdaily.co.kr###article_conent > div[style].clearfix
-time.navyism.com###navyismMainContainer > div[style] + div:not([style*=" "]):not([id])j
+time.navyism.com###navyismMainContainer > div[style] + div:not([style*=" "]):not([id])
 m.yonhapnewstv.co.kr##main > div[style*=" "].section
 gamefocus.co.kr##iframe[src^="bncode2/banner_"]
 gamefocus.co.kr###container_c .tbl tr td[style*="solid"] div[style^="height"]
@@ -1040,7 +1040,6 @@ m.mbn.co.kr###news_main_all_wrp .today_issue ~ section[class="today_issue"]
 biz.chosun.com,www.chosun.com###fusion-app footer
 biz.chosun.com,www.chosun.com##div[class*="-pad-top-"][class*="-margin-"][class*="-bg-grey-"]
 m.sports.chosun.com,m.sportschosun.com###footer_container
-m.sports.chosun.com,m.sportschosun.com##aticle div[style]:not([id]):not([class]):not([itemprop])
 mnews.jtbc.co.kr##.shopping_wrap div[class$="_ad"]
 mnews.jtbc.co.kr##.news > div[class$="_ad"][style]
 manhwa.co.kr##.container > div[style][id^="slider"]
@@ -1275,7 +1274,7 @@ news1.kr###article_body_content > .link_news > ul > div[class] > div[style]
 news1.kr##div[data-acidx][data-kind].sideBlock
 m.nocutnews.co.kr##div[class^="ct"] > .section > .view_box > #divViewBox > .viewbox > div[style]
 m.nocutnews.co.kr###pnlContainer > div[class^="ct"] > .con_b > div[style]
-m.nocutnews.co.kr###pnlContainer > div[class^="ct"] > .section > div[style]:not(class)
+m.nocutnews.co.kr###pnlContainer > div[class^="ct"] > .section > div[style]:not([class])
 sedaily.com,news.zum.com,m.edaily.co.kr,news.sbs.co.kr,nocutnews.co.kr##div[id^="dablewidget_"]
 ypbooks.co.kr,newstof.com##div[id^="popup_"]
 yna.co.kr##[class^="aside-bnr"]
@@ -1461,8 +1460,6 @@ ntnt4.tv##a[data-testid="linkElement"][href^="http"][target="_blank"]:has(> wow-
 aniwolf.*##.banner-area
 anilife.*##div[class] > a[class][href^="http"][target="_blank"]
 hoduhodu.com##.w-full > a[target="_blank"] > img
-[$domain=/^kktv[0-9]+\.com/]##.modal_contents
-[$domain=/^tvmon[0-9]+\.org/]##.row-banner
 tvroom5.org##div.banners_area
 tvroom5.org##div.banner_l
 tvroom5.org##.pop-up.iziModal

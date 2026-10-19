@@ -5,3 +5,4 @@ apycsports.com#$#.copas_btn { display: none !important; }
 2cpu.co.kr#$#header .row[style] { margin-bottom: 35px !important; }
 sign.dcinside.com#$#.login_inputbox { width: 100% !important; }
 !#endif
+/^spotv[0-9]+\.com$/##header:style(top: 0px !important;)

@@ -214,3 +214,5 @@ algumon.com##div[id^="deal-"].card ~ .bg-base-100:has(div[style] > div[class*=" 
 [$domain=/mato[0-9]+\.com/]##div[class^="basic-banner-"]
 [$domain=/sbxh[0-9]+\.com/]##[data-brs][data-br]
 [$domain=/torrentsee[0-9]+\.com/]##.container > div[style^="z-index:999; "]
+[$domain=/^kktv[0-9]+\.com/]##.modal_contents
+[$domain=/^tvmon[0-9]+\.org/]##.row-banner
