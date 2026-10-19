@@ -7,7 +7,6 @@
 ||handsfriend.com/mootoon-affiliate.js
 ||assets.cueknow.co.kr/script/phantomad.min.js
 ||82cook.com/imagedb/headline/nmain_banner
-||static.viewus.co.kr/image/unse_banner_new
 ||image.ichannela.com/images/ad/
 ||wimg.mk.co.kr/svc/banner/
 ||service-images.richgo.ai/original/campaign/
@@ -38,8 +37,6 @@
 ||asked.kr/pclickframe/
 ||myrealtrip.com/ad/
 ||trip.com/restapi/soa2/*/bjjson/queryAdsDisplayData
-||gall.dcinside.com/_js/ad.js
-||gall.dcinside.com/_js/ad_context_powLink.js
 ||filetad.tygem.com/updata/banner/
 ||cdn.wishket.com/yozmit_ad/ad_image/
 ||cdn.zigcou.com/static/*.webp$domain=2798731938.zigcou.com
@@ -83,7 +80,6 @@
 ||cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/
 /^https:\/\/biz\.chosun\.com\/resizer\/v[0-9]+\/[A-Z0-9]+\.[a-z]+\?auth=.+&width=/$domain=biz.chosun.com,header=x-edgeconnect-cache-status
 ||wimg.heraldcorp.com/svc/banner/
-||product.kyobobook.co.kr/api/gw/onk/ad/
 ||eyejokerdb.com/assets/banners/
 ||www.naver.com/nvhaproxy/*/lazy?*&target=PC-MEDIA-SHOPPING-TODAY
 ||content.livesportmedia.eu/media?name=
@@ -134,7 +130,6 @@
 ||google.com/adsense/search/$third-party
 ||okky.kr/api/okky-web/banners
 ||file.doctornow.co.kr/ad/banner-ad/
-||arca.live/external/callad|
 ||humorpick.com/data/banner/
 ||sportsw.kr/support/_updata/banner
 ||dpg.danawa.com/news/ad/rest/
@@ -155,7 +150,6 @@
 ||api.chzzk.naver.com/ad-polling/v1/lives/*/ad^$xhr,domain=chzzk.naver.com
 ||api.chzzk.naver.com/service/*/channels/*/live-detail^$removeparam=dt,domain=chzzk.naver.com
 ||api.chzzk.naver.com/service/*/videos/*^$removeparam=dt,domain=chzzk.naver.com
-||siape.veta.naver.com/openrtb/$domain=chzzk.naver.com
 ||ssl.pstatic.net/static/nng/sdk/refresh-detector-obfuscated.js$script,domain=chzzk.naver.com
 ||tvdaily.co.kr/banner/
 ||tvdaily.co.kr/ad/
@@ -647,7 +641,6 @@
 ||image.newsis.com/h_www/common/*_banner_
 ||image.newsis.com/new_www/banner/
 ||newsis.com/view/ad/
-||image.newsis.com/h_www/advertise/
 ||backstage.bada.io/vueController/getAmazonProductCode|
 ||inven.co.kr/common/lib/style/ad.css
 ||static.marketinven.com/data/brand/
@@ -803,7 +796,6 @@
 ||img.segye.com/static/*_segye/resources/js/ad/
 ||pandalive.co.kr/code:pandatv/partner/banner/
 ||seoul.co.kr/ad/
-||realty.chosun.com/RealtyCommon/Promotion*.html
 ||monthly.chosun.com/common/inc/main_right_banner.asp
 ||monthly.chosun.com/images/banner/
 ||hwbattle.com/partner/
@@ -1046,8 +1038,6 @@
 ||breaknews.com/data/breaknews_com/banner/
 ||mediawatch.kr/data/banner/
 ||infoloop.co.kr/*/ad.css
-||srtb.msn.com^
-||sam.msn.com^
 ||files.maplescouter.com/next/ads/
 ||web-cdn.zeta-ai.io/_next/static/media/ad-nudge-$image
 ||file.chuchu.gg/v1/pop_up_ad/

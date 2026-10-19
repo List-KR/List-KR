@@ -1,3 +1,4 @@
+m.bunjang.co.kr#?#main > section > div[class^="_titleContainer_"]:xpath(.. | ../following-sibling::*[position() <= 3])
 zod.kr#?#div[class] > div[id]:not([class]):has(a[href*="/go/"]:matches-attr("/^data-[a-z0-9]+/"="/\+[0-9]+P/"))
 search.naver.com##li:matches-attr("/-[a-z]+-[a-z]+$/"="*nad-*")
 namu.wiki#?##app div[class*=" "] > div[class*=" "]:is(:has(div[id][class]:empty), :has(iframe[id^="google_ads_iframe_"])):matches-css(margin-bottom: /[0-9]{2,}/)
@@ -114,7 +115,7 @@ m.moneys.co.kr#?#.one_line_article > ul.list > li.item:not(:has(a[href^="/articl
 kr-weathernews.com#?#body > article#content > article.block:has(ul#life_slider)
 everytime.kr#?#div.banners:has(> a[href*="//ad.everytime.kr/"])
 everytime.kr#?#.card:has( > .banner > a[href*="//ad.everytime.kr/"])
-gigglehd.com#?#div[style~="!important;"] > .nw_box > div:not(class):not(id) > table[cellspacing="0"][class]:not(:has(a[href*="//gigglehd.com/gg/"]))
+gigglehd.com#?#div[style~="!important;"] > .nw_box > div:not([class]):not([id]) > table[cellspacing="0"][class]:not(:has(a[href*="//gigglehd.com/gg/"]))
 hwbattle.com#?#tr:has(> td[colspan][rowspan] > a[href*="//prod.danawa.com/"] > img[src^="./partner/"])
 koreaminecraft.net#?#.fancybox-wrap:has(> .fancybox-skin > div > div > #dialoga.wst_ad_badge)
 mule.co.kr#?##section-main.cf > div[class^="section-"] > div[class^="section-"] > div:has( > a[href][alt][target="_blank"] > img[alt][src])
@@ -126,6 +127,4 @@ mosen.mt.co.kr#?#section.textList > article.row:has(> ul.aritcle-info > li.title
 berryjam.co.kr#?#table[width="1200"]:has(> tbody > tr > td > div[class*="slider-banner-"])
 spochak.com#?#table .basic-info-alert:has(a[href="/marble/"])
 avsee.*#?#.widget-side-box > .main-box:has(img[src^="/imgs/"])
-! aglint-disable-next-line
-[$domain=/^yagong[0-9]+\.com$/]##div[class*="border"]:has(> a[href][target*="_blank"])
 zeta-ai.io#?#[class*="z-[70]"]:has(img[alt="ad-nudge"]):remove()

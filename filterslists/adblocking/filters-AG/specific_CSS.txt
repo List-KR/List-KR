@@ -11,3 +11,4 @@ dailypharm.com#@$#header { height: 100px !important; }
 2cpu.co.kr#$#header .row[style] { margin-bottom: 35px !important; }
 sign.dcinside.com#$#.login_inputbox { width: 100% !important; }
 !#endif
+[$domain=/^spotv[0-9]+\.com$/]#$#header { top: 0px !important; }

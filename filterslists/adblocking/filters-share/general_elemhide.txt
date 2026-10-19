@@ -9,7 +9,6 @@
 ##iframe[src*="//js.newsmobile.co.kr/"]
 ##iframe[src*="//api.linkmine.co.kr/"]
 ##._popIn_recommend_article_ad
-##iframe[src*="://ad.ad4989.co.kr/"]
 ##iframe[src*="//ad.planbplus.co.kr/"]
 ##iframe[src*="//displayad.zum.com/"]
 ##ins[data-aiinad-inv]

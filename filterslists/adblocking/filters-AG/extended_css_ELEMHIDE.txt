@@ -50,3 +50,4 @@ m.bunjang.co.kr#?#div:has(> div > div > div:contains(연관상품) > div:has(> d
 [$path=/(&|\\.|\\?)clubid=13764661($|&)/]~m.cafe.naver.com,cafe.naver.com#?##upperArticleList ._noticeArticle:has(a[href][class][onclick]):has(.td_name a[onclick][href][class]:contains(삼성스마트폰카페운영))
 [$path=/(&|\\.|\\?)clubid=13764661($|&)/]~m.cafe.naver.com,cafe.naver.com#?##editorMainContent div[title][style^="color"]:not(:has(a[target="_blank"])) ~ *:has(a[target="_blank"])
 [$domain=/blacktoon[0-9]+\.com/]#?#.alert.alert-danger:has(> a:contains([AD]))
+[$domain=/^yagong[0-9]+\.com$/]##div[class*="border"]:has(> a[href][target*="_blank"])
