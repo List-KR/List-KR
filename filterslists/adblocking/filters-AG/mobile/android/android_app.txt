@@ -7,10 +7,4 @@
 ||firebaseinstallations.googleapis.com^$app=instasaver.instagram.video.downloader.photo
 ||centaurs-rest.coupang.com^$app=com.timespread.Timetable2
 ||img.samsungapps.com/display^$app=com.samsung.android.game.gamehome
-||adlibr.com^
-||ad-display.s.zigzag.kr^
-||d35kivqzqn1ftb.cloudfront.net^
-||d131nj8pwjizfu.cloudfront.net^
-||adpies.com^
-||ssp-ad.momento.dev^
 ||t1.daumcdn.net/cafe_cj/app/js/*/nativead.js

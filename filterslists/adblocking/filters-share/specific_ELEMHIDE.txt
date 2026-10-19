@@ -65,7 +65,6 @@ m.bunjang.co.kr##div[data-grid-size] > div:has(> a[href^="https://link.coupang.c
 m.bunjang.co.kr##div[data-grid-size] > div:has(> a[href^="https://ader.naver.com/"])
 m.bunjang.co.kr##div[data-grid-size] > div:has(> a[href^="/products/"][href*="&ref_source=sa&"])
 m.bunjang.co.kr##div[data-grid-size] > div:has(> a[href*="&ref_code=%22%7B%5C%22cntr%5C%22%3A%5C%22SIM3"])
-m.bunjang.co.kr##main > section > div[class^="_titleContainer_"]:xpath(.. | ../following-sibling::*[position() <= 3])
 ! lottecinema.co.kr desktop
 lottecinema.co.kr##.login_ad
 lottecinema.co.kr###main_top_of_top_banner
@@ -1522,7 +1521,6 @@ news.hada.io##div.gn-ad-slot
 mediawatch.kr##div.com_ban
 redaily.co.kr##div.index-grid-container:has(> div div[id*="banner"])
 msn.com##csm-native-ad-card
-msn.com##.core-column:has(> csm-native-ad-card):style(grid-template-areas:"slot1"!important;grid-template-rows:auto!important;height:auto!important;)
 infoloop.co.kr##div[class*="adsense-content"]
 infoloop.co.kr##div[class^="pc-post-ad"]
 cpsp.kr##div.relative:has(> div ins.adsbygoogle)
@@ -1533,3 +1531,32 @@ beebs.hada.io##div.beebs-ad
 lec.co.kr##div[style]:has(> div[data-widget_id])
 metro.nuua.travel##a.main-scroll-area-banner
 metro.nuua.travel##div[class^="map-banner"]
+m.megabox.co.kr##.ad-popup2
+m.megabox.co.kr##.layer-dimmed
+chzzk.naver.com###viewport-box + div:has(> a[href="https://chzzk.naver.com/home/sports/fifa-worldcup-2026"])
+tenbizt.com###fv-ol-wrap
+2798731938.zigcou.com##.relative > .z-0
+academy.prompie.com##body > #academyMainModal:has(a[href^="https://academy.prompie.com/banners/"])
+academy.prompie.com##body > #academyMainModal:has(a[href^="https://academy.prompie.com/banners/"]) ~ .modal-backdrop
+ggulzam.zal.kr##.partners-inside
+ggulzam.zal.kr##.inside-content-background-gradient
+jovelys.ulog.kr,coolfun.zal.kr##.inner-body.hided .inside-content-background-gradient
+jovelys.ulog.kr,coolfun.zal.kr##.inner-body.hided .partners-inside
+atlantachosun.com##article > div[class^="sc-"] > aside[class*=" "]
+atlantachosun.com###popup-root
+news.oasisfeed.com##.hideBtn
+chchclub.com##.partners-wrap #partners
+3.37.104.109##.mwcphideBtn
+marupost.mycafe24.com##.content-preview
+ktestone.com,dodot.cafe24.com,loapost.cafe24.com,jiavr.xyz,ohohz.cafe24.com##div[class^="article-adCover-div-"]
+dodot.cafe24.com,loapost.cafe24.com,jiavr.xyz,ohohz.cafe24.com###adNotice
+lottoen.com##.content_body > div[class$="_coupang_wrap"]
+lottoen.com##.content_more_div > .cmd_block_layer
+simcong.com##.waiting_coupang_wrap
+simcong.com##.quiz_list:not([style]) ~  .result_wrap .restart
+marupost.mycafe24.com###welcome-ad
+auction.co.kr##.modrow-top > div[class$="_banner"][id$="Banner"]
+orbi.kr##div[class*="-banner-"]
+ydailynewsis.blogspot.com##a[href*="//link.coupang.com/"][type]
+pushoong.com###fullscreen-overlay
+paxnet.co.kr##html[class*="pc-size"] .av-area-fot

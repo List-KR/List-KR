@@ -1038,8 +1038,6 @@
 ||breaknews.com/data/breaknews_com/banner/
 ||mediawatch.kr/data/banner/
 ||infoloop.co.kr/*/ad.css
-||srtb.msn.com^
-||sam.msn.com^
 ||files.maplescouter.com/next/ads/
 ||web-cdn.zeta-ai.io/_next/static/media/ad-nudge-$image
 ||file.chuchu.gg/v1/pop_up_ad/

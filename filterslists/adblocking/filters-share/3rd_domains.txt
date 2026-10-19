@@ -223,3 +223,9 @@
 ||ttse.b-cdn.net^
 ||i.keezip.com^
 ||awd.spochak.com^
+||adlibr.com^
+||ad-display.s.zigzag.kr^
+||d35kivqzqn1ftb.cloudfront.net^
+||d131nj8pwjizfu.cloudfront.net^
+||adpies.com^
+||ssp-ad.momento.dev^

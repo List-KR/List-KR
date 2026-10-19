@@ -1,8 +1,4 @@
-m.megabox.co.kr#$#.ad-popup2 { display: none !important }
-m.megabox.co.kr#$#.layer-dimmed { display: none !important; }
 mhnse.com#$##main.news-view-wrap { padding-top: 0px !important; }
-chzzk.naver.com#$##viewport-box + div:has(> a[href="https://chzzk.naver.com/home/sports/fifa-worldcup-2026"]) { display: none !important; }
-tenbizt.com#$##fv-ol-wrap { display: none !important; }
 tenbizt.com#$#body { overflow: initial !important; position: initial !important; top: initial !important; }
 damoang.net#$#.mb-6.grid-cols-1.gap-4.sm\:grid-cols-3 { grid-template-columns: auto !important; }
 m.bustago.or.kr#$#.InquiryList { height: 100% !important; }
@@ -10,17 +6,12 @@ dundam.xyz#$#.today-grade { width: 100% !important; }
 m.naver.com#$#.wrap.id_search .comp_container { margin-top: 0px !important; }
 lol.ps#$#div[class*="w-full min-w-[280px] pt-10"] > .p-4.pb-0 div[class*="max-w-[480px]"] { width: 100% !important; max-width: none !important; }
 lol.ps#$##summoner-name-header-container { width: 100% !important; }
-2798731938.zigcou.com#$#.relative > .z-0 { display: none !important; }
 2798731938.zigcou.com#$#.relative .post-contents > div[style] { height: auto !important; }
 lawtimes.co.kr#$#div[class*=" "]:has( + div[class*=" "] > div > a[target="_blank"][href^="https://"]) { width: 100% !important; }
 www.naver.com#$##shortcutArea { height: auto !important; padding-left: 14px !important; }
 search.shopping.naver.com#$#.seller_filter_area ~ div[class*="_list_"] div[class^="adProduct_item"] { visibility: hidden !important; height: 1px !important; padding: 0 !important; }
-academy.prompie.com#$#body > #academyMainModal:has(a[href^="https://academy.prompie.com/banners/"]) { display: none !important; }
 academy.prompie.com#$#body.modal-open:has(> #academyMainModal a[href^="https://academy.prompie.com/banners/"]) { overflow: auto !important; }
-academy.prompie.com#$#body > #academyMainModal:has(a[href^="https://academy.prompie.com/banners/"]) ~ .modal-backdrop { display: none !important; }
 www.naver.com#$##shortcutArea { padding-left: 64px !important; }
-ggulzam.zal.kr#$#.partners-inside { display: none !important; }
-ggulzam.zal.kr#$#.inside-content-background-gradient { display: none !important; }
 ggulzam.zal.kr#$##inner-content-body.hided { max-height: fit-content !important; }
 economist.co.kr#$##content-container { padding-top: 10px !important; }
 tftps.gg#$##top-area > div[class*=" "] > div[class*=" "]:has( div:not([class]) ~ button) { width: 100% !important; }
@@ -31,19 +22,14 @@ tvroom5.org##ul.menu:has(> li > a[class^="banner_"])
 bbs.ruliweb.com#$##board_top .best_list { width: 100% !important; }
 maple.gg#$#.container-content > section[class*=" "] ~ main[class*=" "] { margin-top: 50px !important; }
 courtauctionmap.com#$##map_area { height: 100% !important; }
-jovelys.ulog.kr,coolfun.zal.kr#$#.inner-body.hided .inside-content-background-gradient { display: none !important; }
-jovelys.ulog.kr,coolfun.zal.kr#$#.inner-body.hided .partners-inside { display: none !important; }
 jovelys.ulog.kr,coolfun.zal.kr#$#.inner-body.hided { overflow-y: auto !important; max-height: none !important; }
 m.hub.zum.com#$#.banner_slot_top + #container .article_cover { top: 100px !important; }
 mlbpark.donga.com#$#div[id^="SmartPhone_"][id$="_today"] .lists > li::before { padding-top: 0px !important; border-bottom: none !important; }
 enterdiary.com,hotplacehunter.co.kr,mystylezip.com,carandmore.co.kr,maxmovieen.com,tenbizt.com,mobilitytv.co.kr,thehousemagazine.kr,tminews.co.kr,capress.kr,youtu.co,dfast.kr,mememedia.co.kr,newautopost.co.kr#$#.news-view-wrap { padding-top: 0px !important; }
 gall.dcinside.com#$##zzbang_img { display: block !important; }
 m.sports.chosun.com,m.sportschosun.com#$##wrap > div[style*="height:"][style^="position:"] + header { margin-top: 0px !important; }
-atlantachosun.com#$#article > div[class^="sc-"] > aside[class*=" "] { display: none !important; }
 atlantachosun.com#$#article > div[class^="sc-"] { grid-template-columns: none !important; }
-atlantachosun.com#$##popup-root { display: none !important; }
 atlantachosun.com#$#body[style] { overflow: auto !important; }
-news.oasisfeed.com#$#.hideBtn { display: none !important; }
 shopping.interpark.com#$#.depthContentsWrap .productListWrap .searchList { margin-top: 0px !important; }
 www.auction.co.kr#$##allKillItemList > .item_list_wrap { width: 100% !important; }
 yes24.com#$##ySContent .loginCont { margin-left: 200px !important; }
@@ -65,24 +51,14 @@ yes24.com#$##mbnRoll_001 > .mbnRollUnit > .pagen_4 { width: 240px !important; le
 www.naver.com#$#div[class^="Layout-module_"] #newsstand { margin-top: 0px !important; }
 ktestone.com#$#.article-adCover-div { height: 100% !important; }
 chchclub.com#$#.content.partners-wrap { max-height: 100% !important; }
-chchclub.com#$#.partners-wrap #partners { display: none !important; }
 3.37.104.109#$#.body.mwcphide { height: 100% !important; }
-3.37.104.109#$#.mwcphideBtn { display: none !important; }
-marupost.mycafe24.com#$#.content-preview { display: none !important; }
 marupost.mycafe24.com#$#.content-full { height: auto !important; }
-ktestone.com,dodot.cafe24.com,loapost.cafe24.com,jiavr.xyz,ohohz.cafe24.com#$#div[class^="article-adCover-div-"] { display: none !important; }
-dodot.cafe24.com,loapost.cafe24.com,jiavr.xyz,ohohz.cafe24.com#$##adNotice { display: none !important; }
 lottoen.com#$#.content_body > div[class^="lotto_"] { filter: none !important; -webkit-filter: none !important; }
-lottoen.com#$#.content_body > div[class$="_coupang_wrap"] { display: none !important; }
-lottoen.com#$#.content_more_div > .cmd_block_layer { display: none !important; }
 lottoen.com#$#.wrap.blocked .content_more_div { max-height: 100% !important; }
-simcong.com#$#.waiting_coupang_wrap { display: none !important; }
 simcong.com#$#.result_wrap { display: block !important; }
-simcong.com#$#.quiz_list:not([style]) ~  .result_wrap .restart { display: none !important; }
 gorani.kr#$#.column_content { margin-top: 50px !important; }
 www.naver.com#$##topSearchWrap { padding-bottom: 50px !important; }
 dodot.cafe24.com,loapost.cafe24.com,jiavr.xyz,ohohz.cafe24.com#$##content .ad_parent { height: 100% !important; overflow: auto !important; }
-marupost.mycafe24.com#$##welcome-ad { display: none !important; }
 bloter.net#$#.respons-edit > div[style].float-left { width: 100% !important; }
 news.unn.net#$#header > .header-body { width: 100% !important; }
 www.donga.com#$##journalist_card li { width: 100% !important; }
@@ -111,17 +87,14 @@ mk.co.kr#$#.news_synthesis_sec .col.col_4 { width: 100% !important; }
 memberssl.auction.co.kr#$#.box__login #login_tab { width: 100% !important; }
 memberssl.auction.co.kr#$#.box__login .box__login-member { width: 100% !important; }
 auction.co.kr#$#.mod-top > .main-promo { margin-left: calc(50% - 205px) !important; }
-auction.co.kr#$#.modrow-top > div[class$="_banner"][id$="Banner"] { display: none !important; }
 orbi.kr#$#.layout-main .panel.no-margin { padding-top: 50px !important; }
 orbi.kr#$#.layout-main .main-menu { top: 0px !important; }
-orbi.kr#$#div[class*="-banner-"] { display: none !important; }
 web.humoruniv.com#$##wrap_cnts td[valign="top"] #wrap_ctgr_new { width: 100% !important; }
 web.humoruniv.com#$##wrap_cnts td[valign="top"] #wrap_ctgr_new > div[id] { width: 100% !important; }
 haninvegas.com#$#body[data-elementor-device-mode="desktop"] div[itemprop="mainContentOfPage"] { width: 100% !important; }
 news.jtbc.co.kr#$#.news_doc #footer { position: static !important; }
 sundaynewsusa.com#$#.td-is-sticky > .wpb_wrapper { top: 0px !important; }
 news.oasisfeed.com#$##newsBody { height: auto !important; }
-ydailynewsis.blogspot.com#$#a[href*="//link.coupang.com/"][type] { display: none !important; }
 ydailynewsis.blogspot.com#$##hidden1 { display: block !important; }
 aladin.co.kr#$##popupBody #nonmember_all .button_login2 { width: 100% !important; }
 aladin.co.kr#$##popupBody #nonmember_all .left1 { width: 100% !important; }
@@ -143,7 +116,6 @@ shoppinghow.kakao.com#$#.wide_layout .wrap_srch_res [class*="prod_type2"] { widt
 diningcode.com#$#.MapMain > #map { width: 100% !important; }
 ypbooks.co.kr#$#form[name="loginForm"][action*="login.yp"] > table { margin-left: calc(25% - 27px) !important; }
 pushoong.com#$#html { overflow: auto !important; }
-pushoong.com#$##fullscreen-overlay { display: none !important; }
 serieamania.com#$##index > div[id^="index_box"][class]:not(.index_row_full) { margin-left: calc(50% - 145.5px) !important; }
 jobkorea.co.kr#$##loginFormWrite { margin-left: 25% !important; }
 jobkorea.co.kr#$#.byWd .matchingContWrap { margin-top: 0px !important; }
@@ -157,7 +129,6 @@ cgv.co.kr#$#.wrap-login > .sect-login { margin-left: calc(50% - 270px) !importan
 cgv.co.kr#$#.sect-movie-chart > ol:nth-child(2) > li { margin-left: 130px !important; }
 paxnet.co.kr#$#html[class*="pc-size"] .m-contents > .side-area > div:nth-child(-n+4) { top: auto !important; left: auto !important; }
 paxnet.co.kr#$#html[class*="pc-size"] .m-contents > .side-area > .analysis-ranking1 { top: 475px !important; left: auto !important; width: 100% !important; }
-paxnet.co.kr#$#html[class*="pc-size"] .av-area-fot { display: none !important; }
 paxnet.co.kr#$#html[class*="pc-size"] .side-area + .m-guide { margin-bottom: 150px !important; }
 bigkinds.or.kr#$#.news-cate + .news-box { padding-right: 0px !important; }
 modoodoc.com#$#div[class~="hospital-images-box"] ~ .row > .col-8 { max-width: 100% !important; flex: none !important; }
