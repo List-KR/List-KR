@@ -173,7 +173,6 @@ nightofpeace.com,ilovebees.io##.e-grid.e-con-full.e-con.e-child:has(a[target="_b
 [$domain=/^tvchak[0-9]+\.com/]##div[style].border-shadow
 [$domain=/^tvchak[0-9]+\.com/]##.banner-box
 [$domain=/^agit[0-9]+\.com/]##.banner
-[$domain=/^torrentqq[0-9]+\.com/]##.at-banner
 [$domain=/^torrentqq[0-9]+\.com/]##.row-banner
 [$domain=/^torrenttip[0-9]+\.com/]##a[href*="/ad/"]
 [$domain=/^torrenttt[0-9]+\.com/]##a[href*="/ad/"][target="_blank"]
