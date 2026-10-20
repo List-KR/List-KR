@@ -1,3 +1,4 @@
 !
 ||v.daum.net/banner/$subdocument,domain=joongdo.co.kr
 ||dn.joongdo.co.kr/mnt/images/popup/2025/05/20250519_jd_qrcode.png
+||ssl.pstatic.net/sstatic/fe/sfe/whale-dl-banner/$script,domain=search.naver.com

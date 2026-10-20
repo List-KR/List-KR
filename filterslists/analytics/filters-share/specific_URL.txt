@@ -28,3 +28,7 @@
 ||image.ruliweb.com/view/log
 ||dtory.ebs.co.kr/wlo^
 ||science.ytn.co.kr/_comm/clog.php
+||tcafe21.com/plugin/perf/
+||api.a-bly.com/api/*/retail_ad/display-event
+||api.a-bly.com/api/*/ad/events/
+||mediawatch.kr/weblog/gtracker.php

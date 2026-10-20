@@ -1,5 +1,5 @@
 m.bunjang.co.kr#?#main > section > div[class^="_titleContainer_"]:xpath(.. | ../following-sibling::*[position() <= 3])
-zod.kr#?#div[class] > div[id]:not([class]):has(a[href*="/go/"]:matches-attr("/^data-[a-z0-9]+/"="/\+[0-9]+P/"))
+zod.kr#?#div[class] > div[id]:has(a[href*="/go/"]:matches-attr("/^data-[a-z0-9]+/"="/\+[0-9]+P/"))
 search.naver.com##li:matches-attr("/-[a-z]+-[a-z]+$/"="/nad-/")
 namu.wiki#?##app div[class*=" "] > div[class*=" "]:is(:has(div[id][class]:empty), :has(iframe[id^="google_ads_iframe_"])):matches-css(margin-bottom: /[0-9]{2,}/)
 news.tvchosun.com#?#.rnb > .rnb_cont:matches-css(height: 0px):matches-css(padding-top: 30px)
@@ -157,3 +157,4 @@ ppss.kr#?#section[id^="custom_"]:has(> div.widget_text > h3.widgettitle:has-text
 m.bunjang.co.kr#?#.app > div > div > div[class]:has(> div[class] > div[class] > div[class]:has-text(파워링크))
 m.bunjang.co.kr#?#div:has(> div > div > div:has-text(연관상품) > div:has(> div:has-text(AD)) > img[alt="AD 가이드"])
 koreatimes.co.kr#?#div[class^="homeLayoutWrapper"]:has(> div.wrap > div[class^="HomeTaboola"])
+prod.danawa.com#?#.dnw-list-top-content-width > a:has(> img[src*="//img.danawa.com/ui_category/topBanner/"])

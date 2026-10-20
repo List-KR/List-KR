@@ -62,3 +62,6 @@ kyobobook.co.kr##body > h1.visuallyhidden + .z-banner
 m.kshop.co.kr##div[class^="Header_bandBanner"]
 m.gmarket.co.kr##.box__app-lead
 m.news.zum.com###banner_app_view
+www.danawa.com##.main-finance
+danawa.com###danawa_menubar > .main-header__nav > .link_nav--internet
+prod.danawa.com###DnwListContents > .list-main-content > div.z-10

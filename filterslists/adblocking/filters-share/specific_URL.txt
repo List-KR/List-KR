@@ -1,6 +1,6 @@
 ||dvdprime.com/file/2608/banner_
 ||photo.newsen.com/images/adba/
-||apiapi199.com/data/banner/
+/^https:\/\/([a-z0-9-]+\.)?apiapi[0-9]+\.com\/data\/banner\//
 ||viewus.co.kr/image/unse_banner_
 ||img.danawa.com/img/m/prod/ajungdang_banner/
 ||coucounews.com/coupas/
@@ -1037,3 +1037,18 @@
 ||kkutugame.kr/js/adblock-gate.js^
 ||kkutugame.kr/js/site-ads.js^
 ||prod.danawa.com/info/ajax/getAdSmartProductList.ajax.php
+||search.danawa.com/js/elevenStAd.min.js
+/storage/banners/$image,domain=ani.ohli24.com|aniweek.com
+||linkani.tv/tvwiki-banners/$image
+||ds-cdn.inicis.com/ad/$image
+||ipokergosu.com/banner/$domain=pokergosu.com
+||image.gamechosun.co.kr/ad_banner/
+||joinsmedia.sfo2.digitaloceanspaces.com/ad/
+||api.a-bly.com/api/*/retail_ad/
+||mediapen.com//banner/load/
+||image.mediapen.com/etc/*/*_banner.
+||singleskorea.com/api/campaign-ads
+||beautywiki.net/banners/
+||fpn119.co.kr/data/fpn119_co_kr/bn_img/
+||bnt.kod.es/data/bnt/upload/save//banner/
+/^https:\/\/anilife[0-9]+\.tv\/tvwiki-banners\//$domain=/^(www\.)?anilife[0-9]+\.tv/

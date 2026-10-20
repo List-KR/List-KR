@@ -125,3 +125,4 @@ m.cafe.naver.com##.banner_add.bottom:matches-path(/ca-fe\/web\/cafes\/(steamindi
 /^(www\.)?torrentsee[0-9]+\.com/##.container > div[style^="z-index:999; "]
 /^kktv[0-9]+\.com/##.modal_contents
 /^tvmon[0-9]+\.org/##.row-banner
+/^(www\.)?anilife[0-9]+\.tv/##[class^="partner-banner-"]
