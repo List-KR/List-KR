@@ -182,7 +182,7 @@
 !#include annoyance/filters-AG/desktop/macos_app/specific_URL.txt
 !#endif
 
-!#if (adguard && adguard_app_ios)
+!#if (adguard && (adguard_app_ios || adguard_ext_safari))
 !#include adblocking/filters-AG/repaidchange_ios.txt
 
 !#include analytics/filters-AG/repaidchange_ios.txt
