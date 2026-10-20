@@ -1030,7 +1030,7 @@
 ||goodmorningcc.com/bannerpop/$popup
 ||autopostkorea.com/wp-content/themes/fastviewPressTwo/local/ad.css^
 ||wimg.kyeongin.com/svc/banner/
-/mt/banner^$image,to=menu.mt.co.kr
+||menu.mt.co.kr*/mt/banner^$image
 ||ae01.alicdn.com^$image,domain=infosto.tistory.com
 ||breaknews.com/data/breaknews_com/banner/
 ||mediawatch.kr/data/banner/
