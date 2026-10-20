@@ -1036,3 +1036,4 @@
 ||metro.nuua.travel/image/banner/
 ||kkutugame.kr/js/adblock-gate.js^
 ||kkutugame.kr/js/site-ads.js^
+||prod.danawa.com/info/ajax/getAdSmartProductList.ajax.php

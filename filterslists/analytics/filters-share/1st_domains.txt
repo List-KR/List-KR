@@ -1,1 +1,3 @@
 ||whoas.xyz^
+||ntracker-collector.naver.com^
+||eats-ads-event-capture.coupang.com^
