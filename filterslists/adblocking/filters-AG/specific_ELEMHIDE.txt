@@ -152,9 +152,7 @@ nightofpeace.com,ilovebees.io##.e-grid.e-con-full.e-con.e-child:has(a[target="_b
 [$domain=/^jusokorea[0-9]+\.com/]##div[class*="-ad-banner"]
 [$domain=/^sptv[0-9]+\.com/]##.modal_contents
 [$domain=/^avguri[0-9]+\.com/]##div[id$="_bn"]
-[$domain=/^avpink[0-9]+\.com/]###foogallery_widget-3
-[$domain=/^avpink[0-9]+\.com/]###foogallery_widget-12
-[$domain=/^avpink[0-9]+\.com/]###foogallery_widget-13
+[$domain=/^avpink[0-9]+\.com/]###foogallery_widget-3, #foogallery_widget-12, #foogallery_widget-13
 [$domain=/^torrentnx[0-9]+\.com/]##a[href*="/bbs/link.php"]
 [$domain=/^avguri[0-9]+\.com/]###hd_pop
 [$domain=/^ygy[0-9]+\.com/]##.popup_wrap

@@ -8,11 +8,7 @@
 @@||api-gw.sports.naver.com/cms/contents/adContents/BRAND_STORY$domain=m.sports.naver.com
 !#endif
 !#if adguard_app_ios
-||news.nate.com/Etc/AdView
-||news.nate.com/Etc/ViewAD
-||news.nate.com/Etc/Ad
-||news.nate.com/etc/AD
-||news.nate.com/etc/Ad
+||news.nate.com/etc/viewad
 ||news.nate.com/etc/ad
 !#endif
 ||m.bunjang.co.kr/products/$urltransform=/^https:\/\/(?!.*[?&]appNudge=)([^?]+)(?:\?(.*))?\$/https:\/\/\$1?appNudge=false&\$2/
