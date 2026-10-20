@@ -65,3 +65,7 @@ m.news.zum.com###banner_app_view
 www.danawa.com##.main-finance
 danawa.com###danawa_menubar > .main-header__nav > .link_nav--internet
 prod.danawa.com###DnwListContents > .list-main-content > div.z-10
+mfront.homeplus.co.kr##.appInstallBanner
+m.fredit.co.kr##.app-down-layer
+skecherskorea.co.kr##.header-app-open-content
+tokenpost.kr##.app_download_banner_wrap

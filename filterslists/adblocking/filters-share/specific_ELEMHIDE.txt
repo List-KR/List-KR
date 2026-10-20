@@ -1177,7 +1177,7 @@ thecall.co.kr##[class^="adsense"]
 m.bobaedream.co.kr##.wrap > div[style$="height:100px;"]:not([class])
 m.inven.co.kr##[class^="banner-"]
 m.edaily.co.kr##div[class$="_banners"]
-m.edaily.co.kr##.article_body > div[class]
+m.edaily.co.kr##.article_body > div[class]:not(.relTarget)
 toomics.com##body.home #contents > .floating
 toomics.com##img[src*="://thumb.toomics.com/upload/banner/"]:not([src*="/main/"]):not([src*="/cut/"])
 coupang.com##li.search-product__ad-badge
@@ -1595,3 +1595,4 @@ yonhapnewstv.co.kr,wikidocs.net##div[class*="-ad-"]
 munhwa.com##div[class*="-banner-"]
 quasarzone.com##div[id*="-banner-"]
 quasarzone.com##div[class^="banner-"]:not([class^="banner-wrap"])
+search.danawa.com##[aria-label$="광고 상품 목록"]

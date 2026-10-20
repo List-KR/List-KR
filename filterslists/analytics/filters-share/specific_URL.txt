@@ -32,3 +32,7 @@
 ||api.a-bly.com/api/*/retail_ad/display-event
 ||api.a-bly.com/api/*/ad/events/
 ||mediawatch.kr/weblog/gtracker.php
+||assets.011st.com/js/analytics/
+||m.11st.co.kr/MW/js/statistics/pixel.js
+||c.m.011st.com/MW/js/statistics/pixel.js
+||search.11st.co.kr/js/searchWebFront/search/public/rakeLog-mobile-search.js
