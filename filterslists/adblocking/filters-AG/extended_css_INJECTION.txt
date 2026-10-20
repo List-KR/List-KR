@@ -1,2 +1,1 @@
-m-emart.ssg.com#$?##content div[style*="contents"]:has(.chakra-stack + div[class] span:contains(AD)) { remove: true; }
 quasarzone.com#$#.sub-content-wrap { display: flow-root !important; }

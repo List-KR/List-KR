@@ -94,8 +94,6 @@ m.cafe.naver.com##.banner_add.bottom:matches-path(/ca-fe\/web\/cafes\/(steamindi
 /^(www\.)?funbe[0-9]+\.com/##.mobile-banner div.banner_m
 /^(www\.)?funbe[0-9]+\.com/###bo_list div[class^="bancol"]
 /^(www\.)?mingky[0-9]+\.net/##.contents_wrap.column div[style="display: flex; flex-direction: column; align-items: center;"]
-nightofpeace.com,ilovebees.io##.e-con-full.e-flex.e-con:has(a[target="_blank"] img)
-nightofpeace.com,ilovebees.io##.e-grid.e-con-full.e-con.e-child:has(a[target="_blank"] img)
 /^(www\.)?lover[0-9]+\.net/##.div-over
 /^(www\.)?torrentzota[0-9]+\.com/##a[href^="/adver-"]
 /^tv[0-9]+\.wiki/###cpb-popup-banners
