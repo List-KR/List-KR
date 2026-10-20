@@ -921,7 +921,7 @@
 /thumb/kh/bn/*$domain=1004past.com
 /^https:\/\/jiok[0-9]+\.net\/img\//
 /^https:\/\/yt[0-9]+\.org\/files\/attach\/banner_images\/[0-9]+\/([\d-]+(x|X)[0-9]+|(%[A-Z0-9]+)+)\./$domain=/yt[0-9]+\.org/
-^https:\/\/bookmoa[0-9]+\.com\/data\/apms\/background\//
+/^https:\/\/bookmoa[0-9]+\.com\/data\/apms\/background\//
 ||kormovie.com/img/*.gif|
 /^https:\/\/jusoyo[0-9]+\.(net|com)\/data\/apms\/background\//
 /^https:\/\/jusoyo[0-9]+\.(net|com)\/.+\.webp$/
