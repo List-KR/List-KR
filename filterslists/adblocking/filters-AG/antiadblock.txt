@@ -64,7 +64,7 @@ spotvnow.co.kr,noonnu.cc#%#//scriptlet('prevent-xhr', 'pagead2.googlesyndication
 !#safari_cb_affinity
 ||advimg.ad-mapps.com/sdk/M_PLUS/Image/$redirect=2x2-transparent.png,domain=maxmovie.com
 ||mtag.mman.kr/get_ad.mezzo/$xmlhttprequest,redirect=nooptext,domain=maxmovie.com
-!#if (adguard_app_ios || adguard_ext_android_cb)
+!#if (adguard_app_ios)
 @@||mtag.mman.kr/get_ad.mezzo/$xmlhttprequest,domain=maxmovie.com
 @@||advimg.ad-mapps.com/sdk/M_PLUS/Image/$domain=maxmovie.com
 !#endif
@@ -159,7 +159,7 @@ bera.world,1412.live#%#//scriptlet('set-constant', 'adError', 'noopFunc')
 deokhu.com,3dpchip.com#%#//scriptlet('abort-current-inline-script', 'chp_ads_blocker_detector')
 3dpchip.com#%#//scriptlet('prevent-xhr', '/(compass.adop.cc|adsbygoogle|taboola)/', 'emptyStr')
 3dpchip.com#%#//scriptlet('prevent-element-src-loading', 'script', 'compass.adop.cc')
-!#if (adguard_app_ios || adguard_ext_android_cb)
+!#if (adguard_app_ios)
 @@||cdn.taboola.com/libtrc/3dp/loader.js$domain=3dpchip.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=3dpchip.com
 @@||ads-api.twitter.com/|$domain=3dpchip.com
@@ -183,8 +183,6 @@ m.search.naver.com#%#//scriptlet('prevent-element-src-loading', 'script', 'ssl.p
 !#endif
 avdbs.com#%#//scriptlet('abort-current-inline-script', '$', 'ad_blk')
 genshin.gamedot.org#%#//scriptlet('prevent-setTimeout', 'blockCheck2022')
-!#if (adguard_app_ios)
-!#endif
 ||ssl.pstatic.net/tveta/libs/ssp-video/prod/ssp.web.sdk_$script,redirect=noopjs,domain=m.sports.naver.com
 !#if (adguard_app_ios || adguard_ext_safari)
 @@||ssl.pstatic.net/tveta/libs/ssp-video/prod/ssp.web.sdk_$script,domain=m.sports.naver.com
