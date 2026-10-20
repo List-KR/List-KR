@@ -127,3 +127,4 @@ chzzk.naver.com##+js(trusted-suppress-native-method, atob, '"Y3J5cHRv"', abort)
 ||lib.wtg-ads.com/publisher/kio.ac/sb_interstitial_wtg.js$script,redirect=noop.js,domain=kio.ac,important
 ! dicoall.com
 dicoall.com##+js(no-fetch-if, fundingchoicesmessages.google.com/b/pub-1437333416759682 method:HEAD)
+||cdnjs.cloudflare.com/ajax/libs/fuckadblock/3.2.1/fuckadblock.min.js$script,redirect=nofab.js
