@@ -412,7 +412,7 @@ tftps.gg###top-area div[class*=" "]:has(> .vm-placement)
 tftps.gg###summoner-history-header ~ div[class*=" "][class^="sc-"]:not([id]):not([style])
 fow.kr##div[style^="display:"] > .fvideo:has(> .vm-placement)
 talk-cargo.com##.basic-body-main > .margin-bottom-5:has(a[target="_blank"][tabindex])
-issuelink.co.kr##table.table-stripped tr:is(:has(.ad), :has(.adsbygoogle))
+issuelink.co.kr##table.table-stripped tr:has(.ad, .adsbygoogle)
 www.instiz.net##body > div[style]:has(> div[class^="powerlink_"])
 www.instiz.net##body > .foot:has(> div[style*="margin:"][id^="d"])
 www.instiz.net###mboard tr:has(> td:not([class]) div[style^="margin:"][id^="d"])
@@ -444,7 +444,7 @@ m.10000recipe.com##.sp_pdt_wrap
 ygosu.com##div[id^="clickmon_"]
 ygosu.com##div.ygosu_banner
 m.health.chosun.com###content ~ .edit_bottom li:has(.li_ad)
-e-himart.co.kr##div[id*="Banner"]:not(:is(#mainNewBanner, .hm-main__slide-new))
+e-himart.co.kr##div[id*="Banner"]:not(#mainNewBanner):not(.hm-main__slide-new)
 humorpick.com##.view-mobile div[class*="margin-"]:has(#main_bn)
 shopping.naver.com##div[class^="shoppingHomeResponsive_inner"] div[class^="shoppingHomeResponsive_module__"]:has(> .trend_pick)
 mksports.co.kr##.read_txt> div[id^="slot"]
@@ -1082,7 +1082,7 @@ newsis.com##div[id][style~="height:100px;"]
 newsis.com##iframe[src^="/view/ad/"]
 newsis.com##div[class^="w_header_"]:nth-child(1)
 newsis.com##table[class*="Ad"]
-newsis.com##div#shuffle:has(> ul iframe[src*="ad"])
+newsis.com##div#shuffle:has(> ul iframe[src*="/ad/"])
 m.etoday.co.kr##section > div[style*="height:250px"]
 jootc.com,funissu.com##aside[id^="ai_widget-"]
 bada.io##div[id*="amazon_shopping"]
@@ -1344,11 +1344,7 @@ m.naver.com##.ISSUE-BANNER-AD
 itcm.co.kr##.top-owl.owl-carousel
 itcm.co.kr##div.section_AD
 mule.co.kr##.header-center.cf > .header-center-imgbox > a > img[src*="//cdn.mule.co.kr/data/original/"]
-mule.co.kr##div[class^="section-"][class$="-ad"]
-mule.co.kr##div[class^="section-"][class$="-bigad"]
-mule.co.kr##div[class^="section-"][class$="-topad"]
-mule.co.kr##div[class^="section-"][class$="-smallad"]
-mule.co.kr##div[class^="section-"][class$="ad-pc"]
+mule.co.kr##div[class^="section-"]:is([class$="-ad"], [class$="-bigad"], [class$="-topad"], [class$="-smallad"], [class$="ad-pc"])
 mule.co.kr##div.section-leftmiddle-bottommiddle.cf
 postshare.co.kr##div.warp > a[href*="//someblossom.co.kr/product/detail.html?"]
 postshare.co.kr##div[id^="foin_"]
