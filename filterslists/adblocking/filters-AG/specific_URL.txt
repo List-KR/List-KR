@@ -1,5 +1,5 @@
 ! TODO: remove the following filter if https://github.com/AdguardTeam/CoreLibs/issues/1831 is resolved.
-!#if (adguard_app_android || adguard_app_mac || adguard_app_windows)
+!#if (adguard_app_android || adguard_app_mac || adguard_app_windows || adguard_app_cli)
 /^https:\/\/m[0-9]+\.kotbc\.com\/img\/[a-z0-9_/]+\.gif$/
 !#endif
 !#if (adguard_app_ios || adguard_ext_safari)
