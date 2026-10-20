@@ -95,7 +95,7 @@ m.dcinside.com#%#//scriptlet('prevent-fetch', 'addc.dcinside.com', 'emptyStr', '
 m.dcinside.com#%#//scriptlet('set-local-storage-item', '/adblock_detected/', '$remove$')
 gall.dcinside.com#%#//scriptlet('set-constant', 'blockedState', '', '', '', 'true')
 gall.dcinside.com#%#//scriptlet('remove-node-text', 'script', '/background:[\s\S]+setTimeout\( *\( *\) *=> *[A-Za-z0-9]+\.remove\( *\)[\s\S]+Math\.random\( *\) *< *percent *\/ *100/')
-gall.dcinside.com#%#//scriptlet('remove-node-text', 'script', '/finally *{\n* *document.documentElement.removeChild\( *[A-Za-z0-9]+ *\) *;\n* *}([ \n]|.)+_ad"]\);/')
+gall.dcinside.com#%#//scriptlet('remove-node-text', 'script', '/finally *{\n* *document\.documentElement\.removeChild\( *[A-Za-z0-9]+ *\) *;\n* *}[\s\S]+?_ad"]\);/')
 ! windowsforum.kr
 windowsforum.kr#%#//scriptlet('prevent-addEventListener', 'load', 'banner.offsetHeight')
 ! .text_ads
