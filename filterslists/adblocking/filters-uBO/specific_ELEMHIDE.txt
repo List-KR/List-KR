@@ -48,7 +48,6 @@ m.cafe.naver.com##.banner_add:matches-path(/ca-fe\/web\/cafes\/(appleiphone|1278
 ~m.cafe.naver.com,cafe.naver.com###editorMainContent table:not([width$="%"]) > tbody > tr > td[width][valign]:matches-path(/\/appleiphone(\/|$)/)
 ~m.cafe.naver.com,cafe.naver.com###editorMainContent table:not([width$="%"]) > tbody > tr > td[width][valign]:matches-path(/\/f-e\/cafes\/12789486(\/|$)/)
 ~m.cafe.naver.com,cafe.naver.com###editorMainContent table:not([width$="%"]) > tbody > tr > td[width][valign]:matches-path(/clubid(=|%3[Dd])12789486/)
-m.cafe.naver.com##.banner_add.bottom:matches-path(/ca-fe\/web\/cafes\/(ghdi58|14062859)(\/|\?)/)
 ~m.cafe.naver.com,cafe.naver.com###editorMainContent > div:nth-child(1):matches-path(/\/ghdi58(\/|$)/)
 ~m.cafe.naver.com,cafe.naver.com###editorMainContent > div:nth-child(1):matches-path(/\/f-e\/cafes\/14062859(\/|$)/)
 ~m.cafe.naver.com,cafe.naver.com###editorMainContent > div:nth-child(1):matches-path(/clubid(=|%3[Dd])14062859/)
