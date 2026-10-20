@@ -1553,3 +1553,12 @@ singingdalong.blogspot.com,sajuplus.net##.adsense-alt
 nightofpeace.com,ilovebees.io##.e-con-full.e-flex.e-con:has(a[target="_blank"] img)
 nightofpeace.com,ilovebees.io##.e-grid.e-con-full.e-con.e-child:has(a[target="_blank"] img)
 danawa.com##.main-ajungdang-banner
+koreatimes.co.kr##div[id^="koreatimes_inarticle"]
+koreatimes.co.kr##div[id^="koreatimes_Minarticle"]
+koreatimes.co.kr##div[class^="Detail_ad-container_"]
+koreatimes.co.kr##div[id^="koreatimes_MinterplayPB_"]
+koreatimes.co.kr##div[class^="wrap DetailTabool"]
+radioonline.kr##.add-box-top
+radioonline.kr##.add-box-side
+m.naver.com##.MM_DA_BRANDING_BANNER_INNER
+bboom.naver.com##div[id^="m_sub_bboom_"]

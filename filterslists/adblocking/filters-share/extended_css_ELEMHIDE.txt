@@ -156,3 +156,4 @@ app.dcinside.com,m.dcinside.com#?#section.gall-lst-group > ul > li:has(> div.det
 ppss.kr#?#section[id^="custom_"]:has(> div.widget_text > h3.widgettitle:has-text(SPONSORED))
 m.bunjang.co.kr#?#.app > div > div > div[class]:has(> div[class] > div[class] > div[class]:has-text(파워링크))
 m.bunjang.co.kr#?#div:has(> div > div > div:has-text(연관상품) > div:has(> div:has-text(AD)) > img[alt="AD 가이드"])
+koreatimes.co.kr#?#div[class^="homeLayoutWrapper"]:has(> div.wrap > div[class^="HomeTaboola"])
