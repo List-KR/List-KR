@@ -1,1 +1,4 @@
 !
+gobang.kr#$#body.scroll-block { overflow: auto !important; position: static !important; }
+m.megabox.co.kr#$##headerSub { top: 0 !important; }
+m.saramin.co.kr#$#body[style^="overflow:"] { overflow: auto !important; }

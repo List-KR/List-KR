@@ -177,3 +177,4 @@ boardlife.co.kr#$##top-sponsor { height: 60px !important; top: -60px !important;
 2cpu.co.kr#$#header .row[style] { margin-bottom: 35px !important; }
 sign.dcinside.com#$#.login_inputbox { width: 100% !important; }
 !#endif
+m.megabox.co.kr#$#body { overflow: visible !important; }
