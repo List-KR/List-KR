@@ -931,7 +931,6 @@
 /^https:\/\/www\.torrentreel[0-9]+\.site\/ad\//
 /^https:\/\/tvchak[0-9]+\.com\/img\/bbnn/
 /^https:\/\/agit[0-9]+\.com\/upload\/[0-9]+\/[0-9]+\/[0-9]+\./
-||hoohootv*.*/static/bnner/$domain=/^(www\.)?hoohootv[0-9]+\.xyz/
 /^https:\/\/tv[0-9]+\.avsee\.[a-z]+\/imgs\//$domain=avsee.*
 ||tvhot.cc/b/
 /^https:\/\/sonagitv\.[a-z]+\/images\/banner\/(?!webtoon_)/$domain=sonagitv.*
@@ -994,7 +993,6 @@
 /^https:\/\/yagong[0-9]+\.com\/images\/[A-Za-z_0-9-]+\.gif$/
 /^https:\/\/www\.xcity[0-9]+\.me\/imgad\//
 /^https:\/\/www\.jinyi[0-9]+\.me\/imgad\//
-/^https:\/\/www\.redsun[0-9]+\.me\/ad\//
 /^https:\/\/manamoa[0-9]+\.com\/data\/apms\/background\//
 /^https:\/\/namedtoon[0-9]+\.com\/Uploads\/images\/\d{4}-\d{2}-\d{2}\/[a-z0-9]{13}/
 /^https:\/\/(www\.)?race[0-9]+\.xyz\/images\/spon\//

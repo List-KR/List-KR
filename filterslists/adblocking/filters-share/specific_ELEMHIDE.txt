@@ -369,7 +369,6 @@ m.gmarket.co.kr##.js-impressionable
 gmarket.co.kr###login-banner-box
 www.naver.com###shortcutArea .shortcut_item:has( > a[href*="veta.naver.com"] > i.ico_ad)
 cvsnet.co.kr##.reserEvent
-news.mtn.co.kr##div:not([class]) > a[href][target]
 news.mtn.co.kr##aside > div[class]:has(> div:not([class]) > div[id^="taboola-"])
 news.mtn.co.kr##aside > div[class]:has(> .adsbyadop)
 news.mtn.co.kr##aside > div[class]:has(> .swiper)
@@ -762,7 +761,7 @@ philgo.com##.content .left-wing > div
 quasarzone.com##div[role="main"] > .logo-area
 vitaminhealth.kr##iframe[data-ezsrc*="//coupa.ng/"]
 vietnamguide.co.kr,gentlysallim.com##div[class^="ai-viewport-"]
-bonik.me,yako.red,yadongkorea.red,yadongtube.net,linkkf.app,filetender.com###banner
+yako.red,yadongkorea.red,yadongtube.net,linkkf.app,filetender.com###banner
 rdsong.com##.entry-content > div[style*="height:"]
 thewordcracker.com##.et_bloom_popup
 wjdqhzld.com##div[id^="wjdqh"]
@@ -826,7 +825,6 @@ instiz.net###menufoot > .hot_under
 instiz.net##div[id^="sidead"]
 ibric.org##table[align] table[align] td[valign] table[cellspacing] tr > td[colspan][height][bgcolor]
 m.ibric.org##.row > div[style=""].col-xs-12 ~ div[id] + div[style]
-ibric.org##[id*="Ad"]
 m.ibric.org##.row > div[class][id=""] ~ #Contents ~ a[href*="Board=enterprise"] + div[class]
 m.ibric.org##.row > div[class][id=""] ~ #Contents ~ a[href*="?Board=enterprise"]
 m.ibric.org##.row > div[class][id=""] ~ #Contents ~ div[style]

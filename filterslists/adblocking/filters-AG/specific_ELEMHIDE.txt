@@ -189,7 +189,6 @@ algumon.com##div[id^="deal-"].card ~ .bg-base-100:has(div[style] > div[class*=" 
 [$domain=/^lover[0-9]+\.net/]##.xe_content span ~ div[style]
 !#endif
 [$domain=/^yagong[0-9]+\.com/]##div[x-data="popups()"]
-[$domain=/^redsun[0-9]+\.me/]##div[id*="ads"]
 [$domain=/^manamoa[0-9]+\.com/]##div[class*="banner"]
 [$domain=/^torrentgram[0-9]+\.com/]##.panel-default ~ .row > .col-sm-6
 [$domain=/^torrentgram[0-9]+\.com/]##.npia-board-gallery

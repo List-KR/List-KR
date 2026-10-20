@@ -25,7 +25,6 @@ m.cafe.naver.com##.banner_add:matches-path(/ca-fe\/web\/cafes\/(inmacbook|121752
 ~m.cafe.naver.com,cafe.naver.com##img[src][alt="매니저 등록 배너"]:matches-path(/\/inmacbook(\/|$)/)
 ~m.cafe.naver.com,cafe.naver.com##img[src][alt="매니저 등록 배너"]:matches-path(/\/f-e\/cafes\/12175294(\/|$)/)
 ~m.cafe.naver.com,cafe.naver.com##img[src][alt="매니저 등록 배너"]:matches-path(/clubid(=|%3[Dd])12175294/)
-sbs.co.kr##sbs-player-ad-wrapper
 m.cafe.naver.com##.banner_add:matches-path(/ca-fe\/web\/cafes\/(true8|18736796)(\/|\?)/)
 ~m.cafe.naver.com,cafe.naver.com##img[src][alt="매니저 등록 배너"]:matches-path(/\/true8(\/|$)/)
 ~m.cafe.naver.com,cafe.naver.com##img[src][alt="매니저 등록 배너"]:matches-path(/\/f-e\/cafes\/18736796(\/|$)/)
@@ -139,7 +138,6 @@ nightofpeace.com,ilovebees.io##.e-grid.e-con-full.e-con.e-child:has(a[target="_b
 /^spotv[0-9]+\.com/##div[id$="-banner"]
 /^lover[0-9]+\.net/##.xe_content span ~ div[style]
 /^yagong[0-9]+\.com/##div[x-data="popups()"]
-/^redsun[0-9]+\.me/##div[id*="ads"]
 /^manamoa[0-9]+\.com/##div[class*="banner"]
 /^torrentgram[0-9]+\.com/##.panel-default ~ .row > .col-sm-6
 /^torrentgram[0-9]+\.com/##.npia-board-gallery
