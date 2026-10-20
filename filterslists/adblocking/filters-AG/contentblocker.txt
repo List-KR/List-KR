@@ -25,12 +25,12 @@ windowsforum.kr#@#ins.adsbygoogle[data-ad-client]
 windowsforum.kr#@#.banner_header
 windowsforum.kr#@#div[class$="_banner"]
 @@||googleads.g.doubleclick.net/pagead/id$domain=etoland.co.kr,xmlhttprequest
-@@||googleads.g.doubleclick.net|$domain=etoland.co.kr,xmlhttprequest
-@@||googlesyndication.com|$domain=etoland.co.kr,xmlhttprequest
-@@||doubleclick.net|$domain=etoland.co.kr,xmlhttprequest
+@@||googleads.g.doubleclick.net/|$domain=etoland.co.kr,xmlhttprequest
+@@||googlesyndication.com/|$domain=etoland.co.kr,xmlhttprequest
+@@||doubleclick.net/|$domain=etoland.co.kr,xmlhttprequest
 @@||googletagservices.com/tag/js/gpt.js$domain=etoland.co.kr,xmlhttprequest
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=etoland.co.kr,xmlhttprequest
-@@||www.google-analytics.com|$domain=etoland.co.kr,xmlhttprequest
+@@||www.google-analytics.com/|$domain=etoland.co.kr,xmlhttprequest
 @@||cheatdot.com^$generichide
 @@||tv.jtbc.co.kr^$generichide
 @@||mvod.jtbc.co.kr^$generichide
