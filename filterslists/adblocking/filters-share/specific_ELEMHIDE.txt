@@ -185,7 +185,7 @@ mvod.jtbc.co.kr##div[class^="iframe_"][class$="_ad"]
 app.pizzaalvolo.co.kr##div[class^="css-"][style^="gap: "] > div[tabindex="0"]:has(div[style^="position: absolute; right:"])
 enuri.com###coupangCpcSection
 enuri.com##.lp-ad--naver
-issuefeed.dcinside.com##div[class*="ad"]
+issuefeed.dcinside.com##div[class^="page_top-ad-box__"], div.ad-sense-box
 issuefeed.dcinside.com##a:has(> img[src*="banner"])
 issuefeed.dcinside.com##div[class*="sticky"]:has(> button)
 gall.dcinside.com,m.dcinside.com##ul[class$="_ad"]
@@ -774,7 +774,7 @@ wjdqhzld.com##div[id^="wjdqh"]
 tistory.com,oracionspace.com,poketory.com##.revenue_unit_wrap
 topstarnews.net##div[class^="Ad"]
 news.mt.co.kr##.aside_bundle > div[style*="height:"]
-mt.co.kr##div:has(> div[class$="ad"])
+mt.co.kr##div:has(> div.dynamic-ad)
 mt.co.kr##div.wing_ads_area
 mt.co.kr##div.cms_banner
 search.11st.co.kr##section[class$="_ad"]
