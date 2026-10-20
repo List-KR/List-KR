@@ -360,7 +360,7 @@ hankookilbo.com##div[data-ga4^="out_taboola"]
 hankookilbo.com##div:has(> div > div > iframe[src^="https://ad.hankookilbo.com/html/midas/hankookilbo/pc_news_endpage_h@"]):has(> div > div > iframe[src^="https://ad.hankookilbo.com/html/midas/hankookilbo/aix_m_neswpage@"])
 hankookilbo.com##div:has(> div > div > button[aria-label="광고 삭제"]):has(iframe[src$="/endpage@floating"])
 hankookilbo.com##div[data-ad-type="article-ad"]
-hankookilbo.com##div[class*="-ad-"]:not([data-el])
+hankookilbo.com##div[class*="-ad-"]
 mininote.co.kr##rs-fullwidth-wrap[style^="margin-top:"]
 mininote.co.kr##rs-module-wrap[id^="rev_slider_"]
 muko.kr##.xe-widget-wrapper > div[style]:has(a[href^="/ad"])
@@ -1273,7 +1273,7 @@ news1.kr###article_body_content > .link_news > ul > div[class] > div[style]
 news1.kr##div[data-acidx][data-kind].sideBlock
 m.nocutnews.co.kr##div[class^="ct"] > .section > .view_box > #divViewBox > .viewbox > div[style]
 m.nocutnews.co.kr###pnlContainer > div[class^="ct"] > .con_b > div[style]
-m.nocutnews.co.kr###pnlContainer > div[class^="ct"] > .section > div[style]:not([class])
+m.nocutnews.co.kr###pnlContainer > div[class^="ct"] > .section > div[style]
 sedaily.com,news.zum.com,m.edaily.co.kr,news.sbs.co.kr,nocutnews.co.kr##div[id^="dablewidget_"]
 ypbooks.co.kr,newstof.com##div[id^="popup_"]
 yna.co.kr##[class^="aside-bnr"]
