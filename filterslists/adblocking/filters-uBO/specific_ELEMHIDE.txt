@@ -137,9 +137,7 @@ nightofpeace.com,ilovebees.io##.e-grid.e-con-full.e-con.e-child:has(a[target="_b
 /^ydbox[0-9]+\.com/##div[class*="-banner"] div[class*=" "][style=" "]
 /^linkeye[0-9]+\.com/##div[class*="banner-"]
 /^spotv[0-9]+\.com/##div[id$="-banner"]
-!#if !adguard_ext_android_cb
 /^lover[0-9]+\.net/##.xe_content span ~ div[style]
-!#endif
 /^yagong[0-9]+\.com/##div[x-data="popups()"]
 /^redsun[0-9]+\.me/##div[id*="ads"]
 /^manamoa[0-9]+\.com/##div[class*="banner"]
