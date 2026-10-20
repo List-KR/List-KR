@@ -7,3 +7,4 @@ m.11st.co.kr###banner > .c-webtoapp
 muko.kr##.lp-install-chip
 muko.kr###xt_join_site_addons
 www.naver.com###whale-banner
+newautopost.co.kr###onesignal-slidedown-container

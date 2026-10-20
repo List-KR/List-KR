@@ -126,7 +126,6 @@ a-ha.io##div[aria-label="advertisement"]
 section.blog.naver.com##.area_advertisement
 i-boss.co.kr##div[data-unit]
 m.ilbe.com##.cutin_banner_new
-newautopost.co.kr###onesignal-slidedown-container
 newautopost.co.kr##.pc-post-ad-header
 newautopost.co.kr##.pc-post-ad-left-wrap
 newautopost.co.kr##.pc-post-ad-right-wrap
