@@ -91,16 +91,16 @@ m.cafe.naver.com##.banner_add.bottom:matches-path(/ca-fe\/web\/cafes\/(steamindi
 ~m.cafe.naver.com,cafe.naver.com##img[src][alt="매니저 등록 배너"]:matches-path(/\/steamindiegame(\/|$)/)
 ~m.cafe.naver.com,cafe.naver.com##img[src][alt="매니저 등록 배너"]:matches-path(/\/f-e\/cafes\/27842958(\/|$)/)
 ~m.cafe.naver.com,cafe.naver.com##img[src][alt="매니저 등록 배너"]:matches-path(/clubid(=|%3[Dd])27842958/)
-/cokcok[0-9]+\.com/###cpb-popup-banners
-/xtoon[0-9]+\.com/##.container > div.row > div > a[target="_blank"] > picture
-/funbe[0-9]+\.com/##.mobile-banner > div[class^="main_top_bann"]
-/funbe[0-9]+\.com/##.mobile-banner div.banner_m
-/funbe[0-9]+\.com/###bo_list div[class^="bancol"]
-/mingky[0-9]+\.net/##.contents_wrap.column div[style="display: flex; flex-direction: column; align-items: center;"]
+/^(www\.)?cokcok[0-9]+\.com/###cpb-popup-banners
+/^(www\.)?xtoon[0-9]+\.com/##.container > div.row > div > a[target="_blank"] > picture
+/^(www\.)?funbe[0-9]+\.com/##.mobile-banner > div[class^="main_top_bann"]
+/^(www\.)?funbe[0-9]+\.com/##.mobile-banner div.banner_m
+/^(www\.)?funbe[0-9]+\.com/###bo_list div[class^="bancol"]
+/^(www\.)?mingky[0-9]+\.net/##.contents_wrap.column div[style="display: flex; flex-direction: column; align-items: center;"]
 nightofpeace.com,ilovebees.io##.e-con-full.e-flex.e-con:has(a[target="_blank"] img)
 nightofpeace.com,ilovebees.io##.e-grid.e-con-full.e-con.e-child:has(a[target="_blank"] img)
-/lover[0-9]+\.net/##.div-over
-/torrentzota[0-9]+\.com/##a[href^="/adver-"]
+/^(www\.)?lover[0-9]+\.net/##.div-over
+/^(www\.)?torrentzota[0-9]+\.com/##a[href^="/adver-"]
 /^tv[0-9]+\.wiki/###cpb-popup-banners
 /^tv[0-9]+\.wiki/##.custom_banner_wra
 /^tkor[0-9]+\.com/##*[class*="top_bann"]
@@ -157,12 +157,12 @@ nightofpeace.com,ilovebees.io##.e-grid.e-con-full.e-con.e-child:has(a[target="_b
 /^manaboza[0-9]+\.com/##.comic_bot_bnr
 /^newtoon[0-9]+\.com/##.ad-form > .row > div[class^="col-md-"]
 /^blacktoon[0-9]+\.com/##.banner.container > .row > .col-6
-/blacktoon[0-9]+\.com/##.toon-viewer .col-12[style^="padding:"]
-/majorlink[0-9]+\.com/##.major_site_latest
-/newto[0-9]+\.com/##div[class^="basic-banner-"]
-/bookto[0-9]+\.com/##div[class^="basic-banner-"]
-/mato[0-9]+\.com/##div[class^="basic-banner-"]
-/sbxh[0-9]+\.com/##[data-brs][data-br]
-/torrentsee[0-9]+\.com/##.container > div[style^="z-index:999; "]
+/^(www\.)?blacktoon[0-9]+\.com/##.toon-viewer .col-12[style^="padding:"]
+/^(www\.)?majorlink[0-9]+\.com/##.major_site_latest
+/^(www\.)?newto[0-9]+\.com/##div[class^="basic-banner-"]
+/^(www\.)?bookto[0-9]+\.com/##div[class^="basic-banner-"]
+/^(www\.)?mato[0-9]+\.com/##div[class^="basic-banner-"]
+/^(www\.)?sbxh[0-9]+\.com/##[data-brs][data-br]
+/^(www\.)?torrentsee[0-9]+\.com/##.container > div[style^="z-index:999; "]
 /^kktv[0-9]+\.com/##.modal_contents
 /^tvmon[0-9]+\.org/##.row-banner

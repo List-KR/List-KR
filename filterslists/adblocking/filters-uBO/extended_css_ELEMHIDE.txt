@@ -50,5 +50,5 @@ m.cafe.naver.com#?#.location_bar:has(.active:has-text(전체공지)) ~ .location
 m.cafe.naver.com#?#.location_bar:has(.active:has-text(전체공지)) ~ .location_fix li.board_box:has(a[href].txt_area span.nick:has-text(삼성스마트폰카페운영)):matches-path(/ca-fe\/(web\/cafes\/|)(anycallusershow|13764661)($|\/|\?)/)
 ~m.cafe.naver.com,cafe.naver.com#?##upperArticleList ._noticeArticle:has(a[href][class][onclick]):has(.td_name a[onclick][href][class]:has-text(삼성스마트폰카페운영)):matches-path(/(&|\.|\?)clubid=13764661($|&)/)
 ~m.cafe.naver.com,cafe.naver.com#?##editorMainContent div[title][style^="color"]:not(:has(a[target="_blank"])) ~ *:has(a[target="_blank"]):matches-path(/(&|\.|\?)clubid=13764661($|&)/)
-/blacktoon[0-9]+\.com/#?#.alert.alert-danger:has(> a:contains([AD]))
+/^(www\.)?blacktoon[0-9]+\.com/#?#.alert.alert-danger:has(> a:contains([AD]))
 /^yagong[0-9]+\.com$/##div[class*="border"]:has(> a[href][target*="_blank"])
