@@ -793,7 +793,6 @@ bozayo.net##.widget-side div[style*=" "]
 wowtv.co.kr##div[class^="adv-"]
 koreanbots.dev##.container div[style^="height:"].mx-auto
 koreanbots.dev##div.py-5:has(> div > ins.adsbygoogle)
-m.compuzone.co.kr##.right_btn
 eomisae.co.kr##main#main .eq.section > div[class$=" "][style^="background-position"] ~ div[style^="float: "]
 kidkids.net##td[width]:not([valign]) ~ td[align="left"] ul.banner
 kidkids.net##div[class*=" "] > div[class*=" "][class*="_"] ~ div[class$="fright"]
@@ -1124,7 +1123,8 @@ m.starnewskorea.com###content > div[style^="background:"][class]
 news.nate.com###newsSidebar > div[class*="ad"]
 news.nate.com###newsSidebar > div[class$="AD"]
 news.nate.com###newsSidebar > div[id$="Banner"]
-m.nate.com###mainContainer #content  .ct2 > section ~ *
+m.nate.com###mainContainer #content .ct2 > :is(.mainBn, .adloader)
+m.nate.com###mainContainer #content .ct2 > section:has(> .shopBox)
 search.daum.net##iframe[src*="//ad.search.nate.com/"]
 www.nate.com###news_area ~ div[class*="_shopping"]
 www.nate.com###breakingNews.overlay_break
@@ -1268,7 +1268,7 @@ m.nocutnews.co.kr###pnlContainer > div[class^="ct"] > .section > div[style]
 sedaily.com,news.zum.com,m.edaily.co.kr,news.sbs.co.kr,nocutnews.co.kr##div[id^="dablewidget_"]
 ypbooks.co.kr,newstof.com##div[id^="popup_"]
 yna.co.kr##[class^="aside-bnr"]
-lawtimes.co.kr##div[class*=" "] + div[class*=" "]:has(> div > a[target="_blank"][href^="https://"])
+lawtimes.co.kr##.banner_box:has(> a[rel~="sponsored"])
 boannews.com##div[id^="powerbiz"]
 boannews.com##iframe[src^="/main_contents/main_banner_"]
 boannews.com##div[id^="scroll_banner"]

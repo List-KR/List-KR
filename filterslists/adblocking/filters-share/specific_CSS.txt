@@ -6,7 +6,6 @@ m.naver.com#$#.wrap.id_search .comp_container { margin-top: 0px !important; }
 lol.ps#$#div[class*="w-full min-w-[280px] pt-10"] > .p-4.pb-0 div[class*="max-w-[480px]"] { width: 100% !important; max-width: none !important; }
 lol.ps#$##summoner-name-header-container { width: 100% !important; }
 2798731938.zigcou.com#$#.relative .post-contents > div[style] { height: auto !important; }
-lawtimes.co.kr#$#div[class*=" "]:has( + div[class*=" "] > div > a[target="_blank"][href^="https://"]) { width: 100% !important; }
 www.naver.com#$##shortcutArea { height: auto !important; padding-left: 64px !important; }
 search.shopping.naver.com#$#.seller_filter_area ~ div[class*="_list_"] div[class^="adProduct_item"] { visibility: hidden !important; height: 1px !important; padding: 0 !important; }
 academy.prompie.com#$#body.modal-open:has(> #academyMainModal a[href^="https://academy.prompie.com/banners/"]) { overflow: auto !important; }
