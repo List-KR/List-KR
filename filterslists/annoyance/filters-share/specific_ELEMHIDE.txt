@@ -69,3 +69,7 @@ mfront.homeplus.co.kr##.appInstallBanner
 m.fredit.co.kr##.app-down-layer
 skecherskorea.co.kr##.header-app-open-content
 tokenpost.kr##.app_download_banner_wrap
+search.naver.com##div.ban_whale_wrap
+!#if !adguard_ext_android_cb
+naver.com##[aria-label="웨일 브라우저 설치 안내"]
+!#endif
