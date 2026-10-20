@@ -13,7 +13,7 @@ m.humoruniv.com#%#//scriptlet('set-constant', 'list_end_run_list_bottom_boom', '
 m.humoruniv.com#%#//scriptlet('prevent-setTimeout', 'height && 1 <= height && height <= 20')
 m.humoruniv.com#%#//scriptlet('set-constant', 'list_end_run', 'noopFunc')
 m.humoruniv.com#%#//scriptlet('abort-on-stack-trace', '$.prototype.html', '_boom')
-m.humoruniv.com#%#//scriptlet('abort-current-inline-script', '$.prototype.html', '/\/images\/[A-z0-9-_]+\.?(jpg|gif)/')
+m.humoruniv.com#%#//scriptlet('abort-current-inline-script', '$.prototype.html', '/\/images\/[A-Za-z0-9-_]+\.?(jpg|gif)/')
 ! m.fmkorea.com
 m.fmkorea.com#%#//scriptlet('json-prune', 'tpl apply', 'tpl.[].c')
 ! chzzk.naver.com

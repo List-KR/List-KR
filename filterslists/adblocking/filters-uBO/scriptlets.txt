@@ -17,7 +17,7 @@ m.humoruniv.com##+js(set, list_end_run_list_bottom_boom, noopFunc)
 m.humoruniv.com##+js(nostif, height && 1 <= height && height <= 20)
 m.humoruniv.com##+js(set, list_end_run, noopFunc)
 m.humoruniv.com##+js(aost, $.prototype.html, _boom)
-m.humoruniv.com##+js(acis, $.prototype.html, /\/images\/[A-z0-9-_]+\.?(jpg|gif)/)
+m.humoruniv.com##+js(acis, $.prototype.html, /\/images\/[A-Za-z0-9-_]+\.?(jpg|gif)/)
 ! m.fmkorea.com
 m.fmkorea.com##+js(json-prune, tpl apply, tpl.[].c)
 ! chzzk.naver.com

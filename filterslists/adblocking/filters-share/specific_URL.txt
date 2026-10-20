@@ -141,7 +141,7 @@
 ||whosaeng.com/data/whosaeng_com/*banner/
 ||whosaeng.com/data/m.whosaeng.com/mo_
 ||m.enter.etoday.co.kr/images/ad/
-/^https:\/\/nng-phinf\.pstatic\.net\/[A-z]+\/[A-z0-9._-]+\/Banner_[A-z0-9_-]+\.[A-z]+$/$domain=chzzk.naver.com
+/^https:\/\/nng-phinf\.pstatic\.net\/[A-Za-z_]+\/[A-Za-z0-9._-]+\/Banner_[A-Za-z0-9_-]+\.[A-Za-z_]+$/$domain=chzzk.naver.com
 ||ssl.pstatic.net/static/nng/glive/resource/p/static/js/vendor-*.js$script,domain=chzzk.naver.com,replace=/async function iuag\(([^)]*)\)\{/async function iuag(\$1){return!1;/
 ||ssl.pstatic.net/static/nng/glive/resource/p/static/js/index-*.js$script,domain=chzzk.naver.com,replace=/([A-Za-z_\$][\w\$]*)=async\([^)]*\)=>\{let [^;]*\.defaults\.baseURL[^;]*;return\(await [A-Za-z_\$][\w\$]*\.xhr\([\s\S]*?\)\)\.content\}/\$1=async(...e)=>(await e[0].get(e[1])).data.content/
 ||ssl.pstatic.net/static/nng/glive/resource/p/static/js/index-*.js$script,domain=chzzk.naver.com,replace=/\.AD_NOT_DISPLAYED\b/.AD_NOT_DISPLAYED_DISABLED/g
@@ -157,7 +157,7 @@
 /^https:\/\/api-gw\.sports\.naver\.com\/cms\/contents\/adContents\/(?!(GENERAL|BRAND_STORY))/$domain=m.sports.naver.com
 ||da.namu.la^$domain=arca.live
 ||arca.live/api/*pagead?$xmlhttprequest
-/^https:\/\/sports-phinf\.pstatic\.net\/[0-9]+_[0-9]+\/[A-z0-9]+_[A-Z]+\/(%[A-Z0-9]+)+_(%[A-Z0-9]+)+_/$image,match-case,domain=m.sports.naver.com
+/^https:\/\/sports-phinf\.pstatic\.net\/[0-9]+_[0-9]+\/[A-Za-z_0-9]+_[A-Z]+\/(%[A-Z0-9]+)+_(%[A-Z0-9]+)+_/$image,match-case,domain=m.sports.naver.com
 ||nosearch.com/api/naver*Ad?channel=
 ||prod.danawa.com/info/ajax/getPlanBPlusProductList.ajax.php
 ||prod.danawa.com/info/ajax/getPowerShopping.ajax.php
@@ -176,7 +176,7 @@
 ||healtho.co.kr/biz_files/main_right/
 ||public-api.wadiz.kr/main/info/marketing
 ||service.wadiz.kr/api/*/wadizad/host/keyvisual
-/^https?:\/\/timg\.humoruniv\.com\/thumb_crop_resize\.php\?url=https?:\/\/[A-z0-9\.]+\/.+\?SIZE=[0-9]+(x|X)[0-9]+\?OPT=center/$domain=m.humoruniv.com
+/^https?:\/\/timg\.humoruniv\.com\/thumb_crop_resize\.php\?url=https?:\/\/[A-Za-z_0-9\.]+\/.+\?SIZE=[0-9]+(x|X)[0-9]+\?OPT=center/$domain=m.humoruniv.com
 ||src.hidoc.co.kr/image/ad/
 ||m.health.chosun.com/js/*_banner_
 ||health.chosun.com/images/event/app_
@@ -214,7 +214,7 @@
 ||wiki1.kr/images/thumb/e/ef/
 ||ruliweb.com/banneriframe
 ||forwarder.kr/data/file/banner/
-/^https?:\/\/5l\.co\.kr\/img\/[0-9A-z]+_[0-9]+X[0-9]+\./$domain=5l.co.kr
+/^https?:\/\/5l\.co\.kr\/img\/[0-9A-Za-z_]+_[0-9]+X[0-9]+\./$domain=5l.co.kr
 ||res.heraldm.com/realfoods/*/ad/
 ||kwnews.co.kr/upload/ad/
 ||img.dt.co.kr/images/bnr_
@@ -246,7 +246,7 @@
 ||ilbe.com/img/banner/
 ||i0.wp.com/atlantak.com/wp-content/uploads/*.gif?resize=*&ssl=1
 ||i0.wp.com/atlantak.com/wp-content/uploads/*?w=*&ssl=1
-/^https:\/\/i0\.wp\.com\/atlantak\.com\/wp-content\/uploads\/[0-9]+\/[0-9]+\/[0-9A-z%]+\.[a-z]+\?fit=[A-Z%,0-9]+&ssl=1$/$domain=atlantak.com
+/^https:\/\/i0\.wp\.com\/atlantak\.com\/wp-content\/uploads\/[0-9]+\/[0-9]+\/[0-9A-Za-z_%]+\.[a-z]+\?fit=[A-Z%,0-9]+&ssl=1$/$domain=atlantak.com
 ||economist.co.kr/data/ecn/upload/save/popup/
 ||m.ytn.co.kr/img/etc/btn_ad_close.png
 ||cdn.ppomppu.co.kr/zboard/data*/banner/
@@ -307,12 +307,12 @@
 ||coronaita.com/static/media/*_banner
 ||betanews.net/banner.html
 ||star.mbn.co.kr/js/artsnews_ad.js
-/^https:\/\/blogger\.googleusercontent\.com\/img\/a\/[A-z0-9_-]+=s[0-9]+$/$domain=itwind.co.kr
+/^https:\/\/blogger\.googleusercontent\.com\/img\/a\/[A-Za-z0-9_-]+=s[0-9]+$/$domain=itwind.co.kr
 ||data.ygosu.com/ygosu_data/banner_img/
 ||segyebiz.com/static/segyefn/resources/images/*_ad.
 ||hellot.net/data/cache/public/banner/
-/^https?:\/\/[a-z0-9]+\.soonwe\.com\/[A-z0-9-]+\/ad_[0-9]+_[0-9]+\.js/$domain=fomos.kr
-/^https?:\/\/[a-z0-9]+\.soonwe\.com\/[A-z0-9-]+\/wt_[0-9]+_[0-9]+\.html/$domain=fomos.kr
+/^https?:\/\/[a-z0-9]+\.soonwe\.com\/[A-Za-z_0-9-]+\/ad_[0-9]+_[0-9]+\.js/$domain=fomos.kr
+/^https?:\/\/[a-z0-9]+\.soonwe\.com\/[A-Za-z_0-9-]+\/wt_[0-9]+_[0-9]+\.html/$domain=fomos.kr
 ||m.ppomppu.co.kr/js/naver_power_ad.js
 ||bbongtv.com/img/*.gif|
 ||jlpt.or.kr/banner/
@@ -478,10 +478,10 @@
 ||img.sbs.co.kr/news/ad/
 ||programs.sbs.co.kr/show/advertise_ch/
 ||image.kyobobook.co.kr/newimages/adcenter/
-/^https?:\/\/(www\.)?defensetimes\.kr\/imgs\/[A-z_]+[0-9]+x[0-9]+\./$domain=defensetimes.kr
+/^https?:\/\/(www\.)?defensetimes\.kr\/imgs\/[A-Za-z_]+[0-9]+x[0-9]+\./$domain=defensetimes.kr
 ||lawnb.com/lbimg/Banner/
 ||mediapen.com/banner
-/^https:\/\/tbc\.imgdl\.xcache\.kinxcdn\.com\/cdn[0-9]{3}\/[0-9]{8}\/[0-9%A-z_]+\([0-9]{3,4}x[0-9]{3,4}\)/$domain=thesingle.co.kr
+/^https:\/\/tbc\.imgdl\.xcache\.kinxcdn\.com\/cdn[0-9]{3}\/[0-9]{8}\/[0-9%A-Za-z_]+\([0-9]{3,4}x[0-9]{3,4}\)/$domain=thesingle.co.kr
 ||lawtalk.co.kr/api/beta?categories=
 ||lawtalk.co.kr/api/adcategories/
 ||kpanews.co.kr/common_files/upload_files/banner/
@@ -681,7 +681,7 @@
 ||json*.dcinside.com/json*/comment_boy_v*.php
 ||dcinside.com/_js/ad_context_powLink.js
 /^https:\/\/shop\.nate\.com\/shopbox\/shopbox.+&svcpage=news/$domain=nate.com
-/^https:\/\/(comm\.|m\.)?news\.nate\.com\/(etc|Etc)\/[A-z]*(ad|Ad|AD)[A-z]*/$domain=nate.com
+/^https:\/\/(comm\.|m\.)?news\.nate\.com\/(etc|Etc)\/[A-Za-z_]*(ad|Ad|AD)[A-Za-z_]*/$domain=nate.com
 ||shop-redapi.daum.net/red-apigate/shopad/
 ||t1.daumcdn.net/kas/static/ka-middle-ad-event-handler.js
 ||t1.kakaocdn.net/gamepub/daumgame/gamebar/$domain=~www.daum.net
@@ -698,16 +698,16 @@
 ||images.coocha.co.kr/static/images/deal/ad.png
 ||ilbe.com/oa/loader.js
 ||kormedi.com/wp-content/uploads/ads/
-/^https:\/\/shop[0-9]\.daumcdn\.net\/shophow\/sib\/[0-9]_[0-9]{12}_[A-z]{10,}/
-/^https:\/\/image[0-9]{1,2}\.compuzone\.co\.kr\/img\/images\/main[0-9]{4}\/[A-z]{1,2}\/[A-z]{3,}Banner(|[0-9])_(|add_)[0-9]{5,6}\./$domain=compuzone.co.kr
+/^https:\/\/shop[0-9]\.daumcdn\.net\/shophow\/sib\/[0-9]_[0-9]{12}_[A-Za-z_]{10,}/
+/^https:\/\/image[0-9]{1,2}\.compuzone\.co\.kr\/img\/images\/main[0-9]{4}\/[A-Za-z_]{1,2}\/[A-Za-z_]{3,}Banner(|[0-9])_(|add_)[0-9]{5,6}\./$domain=compuzone.co.kr
 ||daumcdn.net/tistory/927313/skin/images/book_300_poster.png
 ||img.peterpanz.com/images/banner/adimUpload/
 ||cdn.011st.com/browsing/banner/$domain=login.11st.co.kr
 ||cdn.011st.com/browsing/space/banner/$domain=login.11st.co.kr
 ||recipe1.ezmember.co.kr/cache/shop/$domain=10000recipe.com
 ||webapi2.edaily.co.kr/BoardMgnt/popup|
-/^https:\/\/image\.edaily\.co\.kr\/images\/content\/[A-z0-9]+640x100\./$domain=edaily.co.kr
-/^https:\/\/image\.edaily\.co\.kr\/images\/content\/[A-z0-9]+1080x128\./$domain=edaily.co.kr
+/^https:\/\/image\.edaily\.co\.kr\/images\/content\/[A-Za-z_0-9]+640x100\./$domain=edaily.co.kr
+/^https:\/\/image\.edaily\.co\.kr\/images\/content\/[A-Za-z_0-9]+1080x128\./$domain=edaily.co.kr
 /^https:\/\/thumb\.toomics\.com\/upload\/banner\/(?!main|cut)/$domain=toomics.com
 ||ppss.kr/wp-content/uploads/2021/09/ktx_
 ||ppss.kr/wp-content/uploads/2022/02/cartax-
@@ -914,7 +914,7 @@
 /^https:\/\/18moa[0-9]+\.com\/data\/file\/main_top_banner\/thumb-/
 ||topgirl.co/project/bm/js/nuevo.min.js
 ||wwwimageup.live-009.com/other/wx_app_admin/
-/^https:\/\/opss[0-9]+\.com\/img\/[A-z]+\.gif(\?v=[0-9]+)?$/
+/^https:\/\/opss[0-9]+\.com\/img\/[A-Za-z_]+\.gif(\?v=[0-9]+)?$/
 /thumb/kh/bn/*$domain=1004past.com
 /^https:\/\/jiok[0-9]+\.net\/img\//
 /^https:\/\/yt[0-9]+\.org\/files\/attach\/banner_images\/[0-9]+\/([\d-]+(x|X)[0-9]+|(%[A-Z0-9]+)+)\./$domain=/^(www\.)?yt[0-9]+\.org/
@@ -930,7 +930,7 @@
 ||jmana.*/resouce/img/adimg/
 /^https:\/\/ww[0-9]+\.torrentdin[0-9]+\.com\/data\/editor\/[0-9]+\/[a-z0-9]+_[a-z0-9]+_[a-z0-9]+\./
 /^https:\/\/ww[0-9]+\.torrentdin[0-9]+\.com\/data\/file\/ad\//
-/^https:\/\/[a-z]+\.aniwolf\.com\/storage\/[A-z0-9]+\./$domain=aniwolf.*
+/^https:\/\/[a-z]+\.aniwolf\.com\/storage\/[A-Za-z_0-9]+\./$domain=aniwolf.*
 ||tinypic.host^$domain=tvroom.*|mvking.*
 /^https:\/\/www\.torrentreel[0-9]+\.site\/ad\//
 /^https:\/\/tvchak[0-9]+\.com\/img\/bbnn/
@@ -990,13 +990,13 @@
 /^https:\/\/torrentmode[0-9]+\.com\/data\/zn_bimg\//
 /^https:\/\/toonkor[0-9]+\.com\/images\/[0-9a-z-]*\d{3,}(x|X)\d{2,}/
 /^https:\/\/toonkor[0-9]+\.com\/bann\//
-/^https:\/\/torrentlee[0-9]+\.com\/[A-z_0-9]+\.gif$/
-/^https:\/\/torrentwiz[0-9]+\.com\/[A-z0-9]+\.gif$/
+/^https:\/\/torrentlee[0-9]+\.com\/[A-Za-z_0-9]+\.gif$/
+/^https:\/\/torrentwiz[0-9]+\.com\/[A-Za-z_0-9]+\.gif$/
 /^https:\/\/agit[0-9]+\.xyz\/data\/file\/novel\/banner\//
 /^https:\/\/jgmoa[0-9]+\.com\/upload_files\/banner\//
 /^https:\/\/www\.sexzoa[0-9]+\.me\/imgad\//
 /^https:\/\/yagong[0-9]+\.com\/storage\/upload\/banners\//
-/^https:\/\/yagong[0-9]+\.com\/images\/[A-z0-9-]+\.gif$/
+/^https:\/\/yagong[0-9]+\.com\/images\/[A-Za-z_0-9-]+\.gif$/
 /^https:\/\/www\.xcity[0-9]+\.me\/imgad\//
 /^https:\/\/www\.jinyi[0-9]+\.me\/imgad\//
 /^https:\/\/www\.redsun[0-9]+\.me\/ad\//
