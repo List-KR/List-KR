@@ -1545,3 +1545,8 @@ tvroom5.org##ul.menu:has(> li > a[class^="banner_"])
 naver.com##[aria-label="웨일 브라우저 설치 안내"]
 !#endif
 chzzk.naver.com##.webplayer-internal-core-dimmed
+!#if !adguard_ext_android_cb
+kilho.net###detect-alert
+ilsangt.tistory.com##.adblock-on
+singingdalong.blogspot.com,sajuplus.net##.adsense-alt
+!#endif

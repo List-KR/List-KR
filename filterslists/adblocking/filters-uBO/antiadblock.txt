@@ -18,8 +18,6 @@ tv.kakao.com,play-tv.kakao.com,kakaotv.daum.net##+js(no-xhr-if, /^https.\/\/vide
 tv.kakao.com,play-tv.kakao.com,kakaotv.daum.net##+js(no-fetch-if, /^https.\/\/videoads\.kakao\.com\/adserver\/api\/v[0-9]{1\,2}\/vmap$/)
 ! meeco.kr
 meeco.kr##+js(set, adsBlocked, noopFunc)
-meeco.kr#$#.xe_content { opacity: 1 !important; }
-meeco.kr#$?#.adsbygoogle { remove: true; }
 ! Umanle S.R.L
 @@||newliweb.com/$frame,script,domain=namu.wiki|~board.namu.wiki
 @@||arca.live/$frame,script,domain=namu.wiki|~board.namu.wiki
@@ -31,12 +29,8 @@ spotvnow.co.kr##+js(no-fetch-if, imasdk.googleapis.com/js/sdkloader/ima3.js)
 spotvnow.co.kr,noonnu.cc##+js(no-xhr-if, pagead2.googlesyndication.com/pagead/js/adsbygoogle.js)
 spotvnow.co.kr,cpsp.kr##+js(no-fetch-if, pagead2.googlesyndication.com/pagead/js/adsbygoogle.js)
 ! aagag.com
-aagag.com,exey.io,ff14angler.com,play.aidungeon.io,tamrieltradecentre.com,downloads.descendant.me,html5.gamedistribution.com,paraphraser.io,sekai-kabuka.com,teemo.gg,xtremestream.co#@#ins.adsbygoogle[data-ad-slot]
-aagag.com#$#.la { height: 75px !important; width: 75px !important; visibility: hidden !important; }
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=aagag.com,xmlhttprequest,redirect=googlesyndication_adsbygoogle.js
 ! t.hi098123.com
-@@||googletagmanager.com/gtag/js$domain=t.hi098123.com,script
-t.hi098123.com#$#.tabad { top: -100px !important; }
 ! dcinside.com
 dcinside.com##+js(remove-cookie, gaejuki_ad)
 m.dcinside.com##+js(remove-cookie, find_ab)
@@ -66,18 +60,14 @@ etoland.co.kr##+js(no-fetch-if, /googlesyndication\.com|doubleclick\.net|googlet
 algumon.com##div[id^="deal-"].card ~ .bg-base-100:has(> div[style] > div[class^="fallback svelte-"])
 cheatdot.com##+js(nostif, 'window.getComputedStyle(t).display')
 tv.jtbc.co.kr,mvod.jtbc.co.kr,onair.jtbc.co.kr##+js(nostif, 'getComputedStyle(t).getPropertyValue("visibility")')
-erdcloud.com#$?#.ads-block-warning-overlay { remove: true; }
 mylocation.co.kr##+js(nostif, detectAdBlockByStructure)
 remiz.co.kr##+js(spoof-css, .adsbygoogle, display, block)
-remiz.co.kr#@#.ad-body
 checkwhoiam.tistory.com##+js(set, adblockChecker, noopFunc)
-kilho.net###detect-alert
 onair.jtbc.co.kr,news.jtbc.co.kr##+js(spoof-css, .ad-banner.adsbox.ad-unit.ad-zone, display, block)
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=google-ima.js,domain=vod.jtbc.co.kr|news.jtbc.co.kr|mvod.jtbc.co.kr|tv.jtbc.co.kr|onair.jtbc.co.kr|sbs.co.kr|laftel.net
 minipol.tistory.com##+js(set, checkAdBlock, undefined)
 namechart.kr,eftlibrary.com,blackkiwi.net##+js(no-fetch-if, www3.doubleclick.net)
 dinfo.3dpchip.com##+js(set, linkPass, true)
-boardlife.co.kr#$##top-sponsor { height: 60px !important; top: -60px !important; position: absolute !important; visibility: hidden !important; }
 hub.weirdhost.xyz##+js(no-fetch-if, adblockanalytics.com)
 hub.weirdhost.xyz##+js(no-fetch-if, adsbygoogle.js)
 luckyquiz3.blogspot.com##+js(no-xhr-if, adsbygoogle)
@@ -85,30 +75,21 @@ deokhu.com,3dpchip.com##+js(acis, chp_ads_blocker_detector)
 3dpchip.com##+js(prevent-xhr, /compass.adop.cc|adsbygoogle|taboola/, emptyStr)
 ||compass.adop.cc^$script,redirect=noop.js,domain=3dpchip.com
 3dpchip.com##+js(aopw, HTMLAnchorElement.prototype.onclick)
-@@||static.dable.io/dist/plugin.min.js$domain=maxmovie.com
 ||advimg.ad-mapps.com/sdk/M_PLUS/Image/$redirect=2x2.png,domain=maxmovie.com
 ||mtag.mman.kr/get_ad.mezzo/$xmlhttprequest,redirect=noop.txt,domain=maxmovie.com
 sysnet.pe.kr##+js(nostif, banner_book)
-@@||new-in.pmirnc.com/public/fingerprint2.js$script
-@@||cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js$script,domain=typing.works
 avdbs.com##+js(acis, $, ad_blk)
 genshin.gamedot.org##+js(nostif, blockCheck2022)
 ||ssl.pstatic.net/tveta/libs/ssp-video/prod/ssp.web.sdk_$script,redirect=noop.js,domain=m.sports.naver.com
-ilsangt.tistory.com##.adblock-on
 ||ad.smartmediarep.com/NetInsight/video/$redirect=noop.txt,domain=mbn.co.kr
 detegice.github.io##+js(aopr, $.prototype.fadeIn)
 ilsangt.tistory.com##+js(acis, $, .adsense-area)
 sogirl.so##+js(set, DHAntiAdBlocker, true)
-@@||ad.smartmediarep.com/NetInsight/video/smr$domain=programs.sbs.co.kr|allclip.sbs.co.kr|mplay.mk.co.kr|static.cloud.sbs.co.kr
 ||adimg.nate.com/img/*?n=$redirect=2x2.png,domain=tv.nate.com
-@@||t1.daumcdn.net/adfit/static/kp.js$domain=laftel.net
-@@||asset.laftel.net/static/assets/googleads-advertisement.js$domain=laftel.net
 focuskr.tistory.com##+js(acis, addEventListener, fuckadblock.min.js)
 singingdalong.blogspot.com##+js(acis, $, #ad_center)
 stockinfo7.com##+js(nostif, ad.innerHTML.replace)
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=noop.js,domain=game.hotsharegames.com
-persnacons.tistory.com#@#.topAD
-singingdalong.blogspot.com,sajuplus.net##.adsense-alt
 tistory.com,sajuplus.net##+js(set, checkAds, noopFunc)
 ! foreign website
 lover938.net,lover939.net##+js(nostif, document[_0x)
