@@ -173,3 +173,7 @@ aagag.com#$#.la { height: 75px !important; width: 75px !important; visibility: h
 t.hi098123.com#$#.tabad { top: -100px !important; }
 boardlife.co.kr#$##top-sponsor { height: 60px !important; top: -60px !important; position: absolute !important; visibility: hidden !important; }
 !#endif
+!#if !adguard_ext_firefox
+2cpu.co.kr#$#header .row[style] { margin-bottom: 35px !important; }
+sign.dcinside.com#$#.login_inputbox { width: 100% !important; }
+!#endif
