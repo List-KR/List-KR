@@ -294,7 +294,6 @@
 ||kids.donga.com/cpc_*.php
 ||watchfreejavonline.co/wp-content/uploads/*.mp4
 /^https:\/\/i0\.wp\.com\/watchfreejavonline\.co\/wp-content\/uploads\/[0-9]+\/[0-9]+\/cropped-favicon-watchfreejav\.png/$domain=watchfreejavonline.co
-/^https:\/\/www\.busan\.com\/nas\/wcms\/public\/pc\/images\/new\/[0-9]+[a-z]+\.gif/$domain=busan.com
 ||edudonga.com/data/banner/
 ||img.asiatoday.co.kr/adver/
 ||dcinside.com/_js/ad_keyword_powLink.js
@@ -495,7 +494,6 @@
 ||medifonews.com/data/banner/
 ||r114.com/?*&banner=*_ad
 ||r114.com/?*&_a=*Ad
-||r114.com/?*&_a=*Advertise
 ||jjalbot.com/images/banners/
 ||images.nstatic.org/banner/
 ||ikbn.news/data/banner/
@@ -541,7 +539,6 @@
 ||ssl.pstatic.net/static/kin/*/promotion/mobile/
 ||ssl.pstatic.net/static/kin/*/promotion/main/
 ||dqwc99gnfppi1.cloudfront.net/media/banner/
-||loader.fmkorea.com//_loader/
 ||kayak.co.kr/ads/dfp/*/ads.js|
 ||image.hogangnono.com/image/nowatermark/original/ad/
 ||d29dbfyawlamz6.cloudfront.net/media/ad/
@@ -655,7 +652,6 @@
 ||reurl.kr/data/bbs/
 ||image-comic.pstatic.net/mobilewebimg/*/*/contents_banner_MOBILE_$image
 ||image-comic.pstatic.net/webtoon/*/*/contents_banner_$image
-||dpg.danawa.com/*/powerLink|
 ||3p.ampproject.net/*/vendor/dable.js
 ||cdn.ampproject.org/v0/amp-ad-*.js
 ||cdn.ampproject.org/rtv/*/v0/amp-ad-*.js
@@ -711,7 +707,7 @@
 /^https:\/\/thumb\.toomics\.com\/upload\/banner\/(?!main|cut)/$domain=toomics.com
 ||ppss.kr/wp-content/uploads/2021/09/ktx_
 ||ppss.kr/wp-content/uploads/2022/02/cartax-
-||dpg.danawa.com/powerLink|
+||dpg.danawa.com/*powerLink|
 ||image.happymoney.co.kr/extimage/mobileBanner/
 ||cultureland.co.kr/etc/main_AD_$document
 ||allyearcdn.com/img/banner_main/
@@ -837,7 +833,7 @@
 ||livere.me/ad?
 ||t1.daumcdn.net/adfit/
 ||loader2.fmkorea.com/_myphp/adpost/content_new.php
-||loader.fmkorea.com/_loader/
+||loader.fmkorea.com/*_loader/
 ||ssl.pstatic.net/tveta/libs/
 ||vclock.kr/inf0/hot.php^
 ||aproxy-vast.wavve.com/*/v/*_AD_*/req/$xmlhttprequest
@@ -949,7 +945,6 @@
 /^https:\/\/(www\.)?filetender\.com\/images\/(?!logo).+\.(jpg|png)$/$domain=filetender.com
 /^https:\/\/m[0-9]+\.kotbc\.com\/img\/[a-z0-9_\/]+\.gif$/
 ||imgbox.com^$domain=/^tvzota[0-9]+\.com/|/^ktxtorrent[0-9]+\.com/
-/^https:\/\/(www\.)?ruru\.tv\/uploads\/[0-9]+\/(?!16682220461360)[0-9]+/$domain=ruru.tv
 ||ruru.tv/uploads/
 /^https:\/\/torrentsee[0-9]+\.com\/uploadfile\/up[a-z0-9]+\.gif/
 ||zzweb.b-cdn.net/data/file/partnerevent/
@@ -1026,7 +1021,7 @@
 ||shana.pe.kr/shana_check/scp*.js$script
 ||tistory1.daumcdn.net/tistory/3827361/skin/images/script3.js$domain=devjit.tistory.com
 ||cdn.kollhong.com/wp-content/custom-js/fuckadblock.min.js
-||fundingchoicesmessages.google.com^$domain=damoang.net|maplescouter.com|vivatv.cc|singingdalong.blogspot.com|goodgag.net|bera.world|hunigo.com|iteastory.com|snskeyboard.com|rdsong.com|mongri.net|meeco.kr|poketory.com|youthassembly.kr|kr.jugomobile.com|1412.live|pyrasis.com|oceansabyss.com|yongtj.com|tailstar.net|creativestudio.kr|gamejay.net|mksports.co.kr|sisamagazine.co.kr|dreamrail.co.kr|tistory.com|gukjenews.com|issuelink.co.kr|webtool.cusis.net|koreaminecraft.net|zeta-ai.io
+||fundingchoicesmessages.google.com^$domain=damoang.net|maplescouter.com|vivatv.cc|singingdalong.blogspot.com|goodgag.net|bera.world|hunigo.com|iteastory.com|snskeyboard.com|rdsong.com|mongri.net|meeco.kr|poketory.com|youthassembly.kr|kr.jugomobile.com|1412.live|pyrasis.com|oceansabyss.com|yongtj.com|tailstar.net|creativestudio.kr|gamejay.net|mksports.co.kr|sisamagazine.co.kr|dreamrail.co.kr|tistory.com|gukjenews.com|issuelink.co.kr|webtool.cusis.net|koreaminecraft.net|zeta-ai.io|svrforum.com
 ||goodmorningcc.com/bannerpop/$popup
 ||autopostkorea.com/wp-content/themes/fastviewPressTwo/local/ad.css^
 ||wimg.kyeongin.com/svc/banner/

@@ -14,8 +14,6 @@ x86.co.kr,1004lucifer.blogspot.com,te31.com,tistory.com#%#//scriptlet('abort-on-
 ! ai_front anti-adblock
 plankim.com#%#//scriptlet('abort-current-inline-script', 'ai_adb.init')
 jootc.com,ehpub.co.kr#%#//scriptlet('abort-current-inline-script', 'ai_run_scripts')
-! fundingchoicesmessages.google.com
-||fundingchoicesmessages.google.com^$domain=svrforum.com
 ! Kakao TV
 !#if (adguard_app_ios || adguard_ext_safari)
 v.daum.net#@#div[class$="_ad"]
