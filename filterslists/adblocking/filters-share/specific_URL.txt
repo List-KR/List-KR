@@ -726,7 +726,6 @@
 ||iframe.joynews24.com/adm/
 ||usjournal.kr/support/_updata/banner
 ||socialvalue.kr/support/_updata/banner
-||tcafe2a.com/ad/
 ||tistory2.daumcdn.net/tistory/5193955/skin/images/cumpc.js
 ||happycampus.com/images/hcBanner/
 ||sportalkorea.com/ad_new/ad_close.png
