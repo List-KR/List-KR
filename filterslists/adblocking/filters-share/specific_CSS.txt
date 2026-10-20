@@ -167,12 +167,10 @@ www.erdcloud.com#$#.erd-container { width: 100% !important; }
 banhub.xyz#$#html { overflow: visible !important; }
 khan.co.kr#$#aside.list-wrap { margin-top: 0 !important; }
 mlbpark.donga.com#$#div.left_cont { float: none !important; margin-left: auto !important; margin-right: auto !important; }
-!#if !adguard_ext_android_cb
 meeco.kr#$#.xe_content { opacity: 1 !important; }
 aagag.com#$#.la { height: 75px !important; width: 75px !important; visibility: hidden !important; }
 t.hi098123.com#$#.tabad { top: -100px !important; }
 boardlife.co.kr#$##top-sponsor { height: 60px !important; top: -60px !important; position: absolute !important; visibility: hidden !important; }
-!#endif
 !#if !adguard_ext_firefox
 2cpu.co.kr#$#header .row[style] { margin-bottom: 35px !important; }
 sign.dcinside.com#$#.login_inputbox { width: 100% !important; }

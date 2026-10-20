@@ -26,8 +26,6 @@ mule.co.kr#$?#.section-lefttop-center:has(> .mule-today) { width: 100% !importan
 aniya24.com#$?#div[class*="-player-wrapper"] > .play-media-control ~ div[class^="beeteam"][class*="-player-sub-element"] { remove: true; }
 msn.com#$?#.core-column:has(> csm-native-ad-card) { grid-template-areas: "slot1" !important; grid-template-rows: auto !important; height: auto !important; }
 zeta-ai.io#$?#[class*="z-[70]"]:has(img[alt="ad-nudge"]) { remove: true; }
-!#if !adguard_ext_android_cb
 meeco.kr#$?#.adsbygoogle { remove: true; }
 erdcloud.com#$?#.ads-block-warning-overlay { remove: true; }
-!#endif
 m-emart.ssg.com#$?##content div[style*="contents"]:has(.chakra-stack + div[class] span:has-text(AD)) { remove: true; }

@@ -184,7 +184,7 @@ mvod.jtbc.co.kr##div[class^="iframe_"][class$="_ad"]
 app.pizzaalvolo.co.kr##div[class^="css-"][style^="gap: "] > div[tabindex="0"]:has(div[style^="position: absolute; right:"])
 enuri.com###coupangCpcSection
 enuri.com##.lp-ad--naver
-issuefeed.dcinside.com##div[class^="page_top-ad-box__"], div.ad-sense-box
+issuefeed.dcinside.com##div[class*="page_top-ad-box"], div[class*="page_content-ad-box"], div.content-ad-box, div.body-ad, div.ad-sense-box
 issuefeed.dcinside.com##a:has(> img[src*="banner"])
 issuefeed.dcinside.com##div[class*="sticky"]:has(> button)
 gall.dcinside.com,m.dcinside.com##ul[class$="_ad"]
@@ -410,7 +410,8 @@ tftps.gg###top-area div[class*=" "]:has(> .vm-placement)
 tftps.gg###summoner-history-header ~ div[class*=" "][class^="sc-"]:not([id]):not([style])
 fow.kr##div[style^="display:"] > .fvideo:has(> .vm-placement)
 talk-cargo.com##.basic-body-main > .margin-bottom-5:has(a[target="_blank"][tabindex])
-issuelink.co.kr##table.table-stripped tr:has(.ad, .adsbygoogle)
+issuelink.co.kr##table.table-stripped tr:has(.ad)
+issuelink.co.kr##table.table-stripped tr:has(.adsbygoogle)
 www.instiz.net##body > div[style]:has(> div[class^="powerlink_"])
 www.instiz.net##body > .foot:has(> div[style*="margin:"][id^="d"])
 www.instiz.net###mboard tr:has(> td:not([class]) div[style^="margin:"][id^="d"])
