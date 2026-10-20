@@ -1478,7 +1478,7 @@ uuoobe.com##table[width][cellspacing] td[valign="top"] table[width][border="0"] 
 filetender.com##iframe[src="https://filetender.com/mobon.html"]
 moviepang.net##.sidebar[style] > aside[id^="text-"][class] ~ aside[id^="text-"][class]
 chmodi.tistory.com##.floatdiv
-svrforum.com##body > div[class][style*="box-shadow:"]
+meeco.kr,svrforum.com##body > div[class][style*="box-shadow:"]
 103.204.13.68##.product-banner
 103.204.13.68##div[class^="mobile-m ad720_"]
 gj-senior.or.kr##div[id^="dsp-ad-container"]
@@ -1543,3 +1543,7 @@ ydailynewsis.blogspot.com##a[href*="//link.coupang.com/"][type]
 pushoong.com###fullscreen-overlay
 paxnet.co.kr##html[class*="pc-size"] .av-area-fot
 tvroom5.org##ul.menu:has(> li > a[class^="banner_"])
+!#if !adguard_ext_android_cb
+naver.com##[aria-label="웨일 브라우저 설치 안내"]
+!#endif
+chzzk.naver.com##.webplayer-internal-core-dimmed

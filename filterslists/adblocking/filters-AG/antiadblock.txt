@@ -29,7 +29,6 @@ tv.kakao.com,play-tv.kakao.com,kakaotv.daum.net#%#//scriptlet('prevent-xhr', '/^
 /embed/player/image/ads.png$redirect=2x2-transparent.png,domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
 tv.kakao.com,play-tv.kakao.com,kakaotv.daum.net#%#//scriptlet('prevent-fetch', '/^https.\/\/videoads\.kakao\.com\/adserver\/api\/v[0-9]{1,2}\/vmap$/')
 ! meeco.kr
-meeco.kr##body > div[class][style*="box-shadow:"]
 !#if (adguard_app_ios)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=meeco.kr
 @@||meeco.kr^$generichide
