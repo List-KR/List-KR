@@ -174,5 +174,4 @@ algumon.com##div[id^="deal-"].card ~ .bg-base-100:has(div[style] > div[class*=" 
 [$domain=/^(www\.)?torrentsee[0-9]+\.com/]##.container > div[style^="z-index:999; "]
 [$domain=/^kktv[0-9]+\.com/]##.modal_contents
 [$domain=/^tvmon[0-9]+\.org/]##.row-banner
-[$domain=/^(www\.)?anilife[0-9]+\.tv/]##*[class^="partner-banner-"]
 [$domain=/^(www\.)?anilife[0-9]+\.tv/]##[class^="partner-banner-"]

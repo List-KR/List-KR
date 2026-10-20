@@ -28,7 +28,8 @@ danawa.com###danawa_main_container > .layer-finance
 bananamall.co.kr###vue-pc-popup-app
 joongang.co.kr##.login_proposal
 megabox.co.kr##.main-notice-layer
-yna.co.kr##.wrap-btns:has(> a[href^="https://www.google.com/preferences/source?q="])
+yna.co.kr##.wrap-btns > a[href^="https://www.google.com/preferences/source?q="]
+yna.co.kr##.wrap-btns > .tlp-source01
 japan.hani.co.kr##div[google-add-preferred-source-btn]
 itworld.co.kr##.newsletter-subscription-small
 kookje.co.kr##a[href="/contents/"][target="_blank"]
@@ -58,7 +59,6 @@ m.saramin.co.kr###wrap_app_banner
 m.saramin.co.kr###app_banner_dimmed
 kream.co.kr##.top-app-download-banner
 wanted.co.kr##div[data-cy="appDownloadPopup"]
-kyobobook.co.kr##body > h1.visuallyhidden + .z-banner
 m.kshop.co.kr##div[class^="Header_bandBanner"]
 m.gmarket.co.kr##.box__app-lead
 m.news.zum.com###banner_app_view

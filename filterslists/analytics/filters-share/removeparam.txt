@@ -14,17 +14,13 @@
 ||v.daum.net^$removeparam=x_imp
 ||v.daum.net^$removeparam=x_hk
 ||mootoon.co.kr^$removeparam=in_id
-||search.shopping.naver.com^$removeparam=frm,document
-||msearch.shopping.naver.com^$removeparam=frm,document
-||search.shopping.naver.com^$removeparam=NaPm,document
-||msearch.shopping.naver.com^$removeparam=NaPm,document
 ||yna.co.kr^$removeparam=site,document
 ||sbs.co.kr^$removeparam=plink,document
 ||sbs.co.kr^$removeparam=cooper,document
 ||khan.co.kr^$removeparam=nv,document
 ||dt.co.kr^$removeparam=naver,document
 ||whale.naver.com^$removeparam=wpid
-||search.naver.com/p/crd/rd$removeparam=i
+||search.naver.com/p/crd/rd$removeparam=i,document,image
 ||search.naver.com/p/crd/rd$removeparam=px,document,image
 ||search.naver.com/p/crd/rd$removeparam=py,document,image
 ||search.naver.com/p/crd/rd$removeparam=sx,document,image
@@ -61,3 +57,5 @@
 ||coupang.com^$removeparam=wTime,document
 ||coupang.com^$removeparam=wPcid,document
 ||search.naver.com/search.naver$removeparam=tqi
+$removeparam=frm,document,domain=msearch.shopping.naver.com|search.shopping.naver.com
+$removeparam=NaPm,document,domain=msearch.shopping.naver.com|search.shopping.naver.com

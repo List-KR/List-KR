@@ -21,7 +21,7 @@
 ||script.auction.co.kr/Common/montelena.js
 ||script.gmarket.co.kr/js/mobile/main/common/montelena.js
 ||script.gmarket.co.kr/js/common/ats_gmkt.js
-||search.naver.com/n/scrolllog/
+||s.search.naver.com/n/scrolllog/
 /firebase-analytics.js$domain=mt.co.kr|hanatour.com|modetour.com
 ||e-himart.co.kr/resources/layout/js/wiselog/
 ||cc.naver.com/cc$other,ping
@@ -29,7 +29,6 @@
 ||dtory.ebs.co.kr/wlo^
 ||science.ytn.co.kr/_comm/clog.php
 ||tcafe21.com/plugin/perf/
-||api.a-bly.com/api/*/retail_ad/display-event
 ||api.a-bly.com/api/*/ad/events/
 ||mediawatch.kr/weblog/gtracker.php
 ||assets.011st.com/js/analytics/

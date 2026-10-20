@@ -158,4 +158,4 @@ m.bunjang.co.kr#?#.app > div > div > div[class]:has(> div[class] > div[class] > 
 m.bunjang.co.kr#?#div:has(> div > div > div:has-text(연관상품) > div:has(> div:has-text(AD)) > img[alt="AD 가이드"])
 koreatimes.co.kr#?#div[class^="homeLayoutWrapper"]:has(> div.wrap > div[class^="HomeTaboola"])
 prod.danawa.com#?#.dnw-list-top-content-width > a:has(> img[src*="//img.danawa.com/ui_category/topBanner/"])
-search.danawa.com#?#div.relative.border.px-5:has([aria-label$="광고 목록"])
+search.danawa.com,prod.danawa.com#?#div.relative.border.px-5:has([aria-label$="광고 목록"])
