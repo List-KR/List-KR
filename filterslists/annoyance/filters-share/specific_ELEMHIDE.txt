@@ -7,3 +7,69 @@ m.11st.co.kr###banner > .c-webtoapp
 muko.kr##.lp-install-chip
 muko.kr###xt_join_site_addons
 www.naver.com###whale-banner
+newautopost.co.kr###onesignal-slidedown-container
+radioonline.kr##.cookie-consent
+world.kbs.co.kr##.chrome_pick
+underarmour.co.kr##.l-consent_banner
+visitkorea.or.kr###footer-cookie
+bananamall.co.kr###banner_spot_txt
+kyobobook.co.kr##body > .min-w-\[1440px\] .top_banner_inner
+koreatimes.co.kr##div[class^="MyTimesBanner_wrap"]
+koreatimes.co.kr##div[class^="BannerArea"]
+joongang.co.kr##.house_banner:not(.goto-app-btn)
+hackers.co.kr##.closing_banner_container
+hackers.co.kr##.floor_layer_pop
+m.thebell.co.kr##article[class$="_banner"]
+danawa.com##a[href^="https://prod.danawa.com/bridge/loadingBridgeDf.html?"]
+search.danawa.com,m.danawa.com###bottomTabBar-item-financeBenefit
+search.danawa.com,m.danawa.com###bottom-tabBarContainer > .box__tooltip-finance
+danawa.com##.aside-floating-banner .box__wing-banner
+danawa.com###danawa_main_container > .layer-finance
+bananamall.co.kr###vue-pc-popup-app
+joongang.co.kr##.login_proposal
+megabox.co.kr##.main-notice-layer
+yna.co.kr##.wrap-btns > a[href^="https://www.google.com/preferences/source?q="]
+yna.co.kr##.wrap-btns > .tlp-source01
+japan.hani.co.kr##div[google-add-preferred-source-btn]
+itworld.co.kr##.newsletter-subscription-small
+kookje.co.kr##a[href="/contents/"][target="_blank"]
+kookje.co.kr##a[href*="//newsstand.naver.com/?"]
+aiaplus.aia.co.kr###mwAppDownload
+m.bzpp.co.kr###moblieAppNudge
+decover.co.kr##.bottom-\[calc\(3\.75rem\+env\(safe-area-inset-bottom\)\)\]
+hyundailivart.co.kr###layer-app-popup
+reformparty.kr##.app-dl-ov
+godnatt.kr,treemingbird.com,lcdv.kr###mCafe24DirectToApp
+m.megabox.co.kr##.induceBanner
+shopping.naver.com##div[class^="_appStarterBanner_app_starter_banner_"]
+m.map.kakao.com###daumWrap > div.comm_layer.leverage_layer
+m.11st.co.kr##.c-footer__app-download
+m.coupang.com###app-dl-nudge-widget
+m.coupang.com###BottomAppBanner
+m.hungryapp.co.kr##.Mibox_down
+m.comic.naver.com##.app_banner
+gobang.kr##.app-install-pop
+gobang.kr##.wrap-open-app-banner
+kasina.co.kr###layerModalBUSE_MOBILE
+premium.sbs.co.kr##.popupBanner_w
+m.561.co.kr##body > .lyrBg_dim[dim-role="app"]
+m.561.co.kr##body > .lyr_notice_app
+lomad.co.kr###goAppGuide
+m.saramin.co.kr###wrap_app_banner
+m.saramin.co.kr###app_banner_dimmed
+kream.co.kr##.top-app-download-banner
+wanted.co.kr##div[data-cy="appDownloadPopup"]
+m.kshop.co.kr##div[class^="Header_bandBanner"]
+m.gmarket.co.kr##.box__app-lead
+m.news.zum.com###banner_app_view
+www.danawa.com##.main-finance
+danawa.com###danawa_menubar > .main-header__nav > .link_nav--internet
+prod.danawa.com###DnwListContents > .list-main-content > div.z-10
+mfront.homeplus.co.kr##.appInstallBanner
+m.fredit.co.kr##.app-down-layer
+skecherskorea.co.kr##.header-app-open-content
+tokenpost.kr##.app_download_banner_wrap
+search.naver.com##div.ban_whale_wrap
+!#if !adguard_ext_android_cb
+naver.com##[aria-label="웨일 브라우저 설치 안내"]
+!#endif

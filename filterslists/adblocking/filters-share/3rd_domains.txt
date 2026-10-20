@@ -229,3 +229,8 @@
 ||d131nj8pwjizfu.cloudfront.net^
 ||adpies.com^
 ||ssp-ad.momento.dev^
+||mixtower.net^
+||go.trvdp.com^
+||priel.co.kr^$third-party
+||creative.mayzaent.com^
+||reebr.com^

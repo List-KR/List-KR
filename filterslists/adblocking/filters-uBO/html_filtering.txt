@@ -1,1 +1,3 @@
 heye.kr##^script:has-text(/window\.open\([^)]*\);\s*\w+\.focus/)
+meeco.kr##^script:has-text(error-report.com)
+kio.ac##^script:has-text(K$())

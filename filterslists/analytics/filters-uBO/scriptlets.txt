@@ -1,1 +1,3 @@
 !
+news.naver.com##+js(set, nclk, noopFunc)
+ppomppu.co.kr##+js(href-sanitizer, a[href^="https://s.ppomppu.co.kr?"][href*="&target="], ?target -base64)

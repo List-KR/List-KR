@@ -1,3 +1,1 @@
-@@||api-ao-list.adison.co^$app=kvp.jjy.MispAndroid320
-@@||api-ao-list.adison.co^$app=com.nhn.android.webtoon
-@@||api-ao-list.adison.co^$app=com.nhn.android.nbooks
+@@||api-ao-list.adison.co^$app=kvp.jjy.MispAndroid320|com.nhn.android.webtoon|com.nhn.android.nbooks

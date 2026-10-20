@@ -1,1 +1,3 @@
 !
+news.naver.com#%#//scriptlet('set-constant', 'nclk', 'noopFunc')
+ppomppu.co.kr#%#//scriptlet('href-sanitizer', 'a[href^="https://s.ppomppu.co.kr?"][href*="&target="]', '?target', 'base64decode')

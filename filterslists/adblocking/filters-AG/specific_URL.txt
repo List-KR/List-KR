@@ -1,5 +1,5 @@
 ! TODO: remove the following filter if https://github.com/AdguardTeam/CoreLibs/issues/1831 is resolved.
-!#if (adguard_app_android || adguard_app_mac || adguard_app_windows)
+!#if (adguard_app_android || adguard_app_mac || adguard_app_windows || adguard_app_cli)
 /^https:\/\/m[0-9]+\.kotbc\.com\/img\/[a-z0-9_/]+\.gif$/
 !#endif
 !#if (adguard_app_ios || adguard_ext_safari)
@@ -8,11 +8,7 @@
 @@||api-gw.sports.naver.com/cms/contents/adContents/BRAND_STORY$domain=m.sports.naver.com
 !#endif
 !#if adguard_app_ios
-||news.nate.com/Etc/AdView
-||news.nate.com/Etc/ViewAD
-||news.nate.com/Etc/Ad
-||news.nate.com/etc/AD
-||news.nate.com/etc/Ad
+||news.nate.com/etc/viewad
 ||news.nate.com/etc/ad
 !#endif
 ||m.bunjang.co.kr/products/$urltransform=/^https:\/\/(?!.*[?&]appNudge=)([^?]+)(?:\?(.*))?\$/https:\/\/\$1?appNudge=false&\$2/

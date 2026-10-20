@@ -1,2 +1,4 @@
 ||chzzk.naver.com/scripts/ntm_*.js$script,redirect=noop.js
 ||ntm.pstatic.net/ex/nlog*.js$script,domain=chzzk.naver.com,redirect=noop.js
+||ljc.coupang.com^$redirect=noop.txt
+||cc.naver.com/cc$image,redirect=2x2.png

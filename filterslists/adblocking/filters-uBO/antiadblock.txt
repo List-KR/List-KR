@@ -1,5 +1,5 @@
 ! ##+js(acis, document.addEventListener, /adscale_slot_id/)
-asdn.kr,healthfeed.co.kr,bikesell.co.kr,remiz.co.kr,enjoytaiwan.co.kr,poketory.com,withukor.com,tistory.com,love.asdn.kr,untitle.org,seo-marketing.co.kr##+js(acis, document.addEventListener, /adscale_slot_id/)
+asdn.kr,healthfeed.co.kr,bikesell.co.kr,remiz.co.kr,enjoytaiwan.co.kr,poketory.com,withukor.com,tistory.com,untitle.org,seo-marketing.co.kr##+js(acis, document.addEventListener, /adscale_slot_id/)
 ! ##+js(nostif, /\.displayMessage\(/)
 zuzunza.com,iphonedev.co.kr,tistory.com##+js(nostif, /\.displayMessage\(/)
 ! BlockAdBlock
@@ -11,18 +11,8 @@ x86.co.kr,1004lucifer.blogspot.com,te31.com,tistory.com##+js(aopr, adBlockDetect
 ! ai_front anti-adblock
 plankim.com##+js(acis, ai_adb.init)
 jootc.com,ehpub.co.kr##+js(acis, ai_run_scripts)
-! fundingchoicesmessages.google.com
-||fundingchoicesmessages.google.com^$domain=svrforum.com
-! Kakao TV
-/^https:\/\/videoads\.kakao\.com\/adserver\/api\/v[0-9]+\/vmap/$redirect=noop.txt,domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
-tv.kakao.com,play-tv.kakao.com,kakaotv.daum.net##+js(no-xhr-if, /^https.\/\/videoads\.kakao\.com\/adserver\/api\/v[0-9]{1\,2}\/vmap$/)
-/embed/player/image/ads.png$redirect=2x2.png,domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
-tv.kakao.com,play-tv.kakao.com,kakaotv.daum.net##+js(no-fetch-if, /^https.\/\/videoads\.kakao\.com\/adserver\/api\/v[0-9]{1\,2}\/vmap$/)
 ! meeco.kr
-meeco.kr##body > div[class][style*="box-shadow:"]
 meeco.kr##+js(set, adsBlocked, noopFunc)
-meeco.kr#$#.xe_content { opacity: 1 !important; }
-meeco.kr#$?#.adsbygoogle { remove: true; }
 ! Umanle S.R.L
 @@||newliweb.com/$frame,script,domain=namu.wiki|~board.namu.wiki
 @@||arca.live/$frame,script,domain=namu.wiki|~board.namu.wiki
@@ -34,12 +24,8 @@ spotvnow.co.kr##+js(no-fetch-if, imasdk.googleapis.com/js/sdkloader/ima3.js)
 spotvnow.co.kr,noonnu.cc##+js(no-xhr-if, pagead2.googlesyndication.com/pagead/js/adsbygoogle.js)
 spotvnow.co.kr,cpsp.kr##+js(no-fetch-if, pagead2.googlesyndication.com/pagead/js/adsbygoogle.js)
 ! aagag.com
-aagag.com,exey.io,ff14angler.com,play.aidungeon.io,tamrieltradecentre.com,downloads.descendant.me,html5.gamedistribution.com,paraphraser.io,sekai-kabuka.com,teemo.gg,xtremestream.co#@#ins.adsbygoogle[data-ad-slot]
-aagag.com#$#.la { height: 75px !important; width: 75px !important; visibility: hidden !important; }
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=aagag.com,xmlhttprequest,redirect=googlesyndication_adsbygoogle.js
 ! t.hi098123.com
-@@||googletagmanager.com/gtag/js$domain=t.hi098123.com,script
-t.hi098123.com#$#.tabad { top: -100px !important; }
 ! dcinside.com
 dcinside.com##+js(remove-cookie, gaejuki_ad)
 m.dcinside.com##+js(remove-cookie, find_ab)
@@ -49,7 +35,7 @@ m.dcinside.com##+js(aeld, pageshow, /\.persisted *&& *interval_Ad *&& *clearInte
 m.dcinside.com##+js(no-xhr-if, addc.dcinside.com, emptyStr)
 gall.dcinside.com##+js(set, blockedState, '')
 gall.dcinside.com##+js(remove-node-text, script, /background:[\s\S]+setTimeout\( *\( *\) *=> *[A-Za-z0-9]+\.remove\( *\)[\s\S]+Math\.random\( *\) *< *percent *\/ *100/)
-gall.dcinside.com##+js(remove-node-text, script, /finally *{\n* *document.documentElement.removeChild\( *[A-Za-z0-9]+ *\) *;\n* *}([ \n]|.)+_ad"]\);/)
+gall.dcinside.com##+js(remove-node-text, script, /finally *{\n* *document\.documentElement\.removeChild\( *[A-Za-z0-9]+ *\) *;\n* *}[\s\S]+?_ad"]\);/)
 ! litomi.cc
 ||jads.co^$script,redirect=noop.js,domain=litomi.cc
 litomi.cc##+js(trusted-create-html, #juicy-ads-banner > div[data-juicy-ads-slot] > div, <iframe></iframe>)
@@ -65,22 +51,17 @@ cpsp.kr#@#.text_ads
 !
 thelabyrinth.co.kr##+js(no-fetch-if, pagead2.googlesyndication.com method:HEAD)
 windowsforum.kr##+js(aeld, load, 'banner.offsetHeight')
-etoland.co.kr##+js(no-fetch-if, /pagead2.googlesyndication.com|googleads.g.doubleclick.net|googletagservices.com|securepubads.g.doubleclick.net|googleads.g.doubleclick.net|google-analytics.com|googlesyndication.com|doubleclick.net/)
-algumon.com##div[id^="deal-"].card ~ .bg-base-100:has(> div[style] > div[class^="fallback svelte-"])
+etoland.co.kr##+js(no-fetch-if, /googlesyndication\.com|doubleclick\.net|googletagservices\.com|google-analytics\.com/)
 cheatdot.com##+js(nostif, 'window.getComputedStyle(t).display')
 tv.jtbc.co.kr,mvod.jtbc.co.kr,onair.jtbc.co.kr##+js(nostif, 'getComputedStyle(t).getPropertyValue("visibility")')
-erdcloud.com#$?#.ads-block-warning-overlay { remove: true; }
 mylocation.co.kr##+js(nostif, detectAdBlockByStructure)
 remiz.co.kr##+js(spoof-css, .adsbygoogle, display, block)
-remiz.co.kr#@#.ad-body
 checkwhoiam.tistory.com##+js(set, adblockChecker, noopFunc)
-kilho.net###detect-alert
 onair.jtbc.co.kr,news.jtbc.co.kr##+js(spoof-css, .ad-banner.adsbox.ad-unit.ad-zone, display, block)
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=google-ima.js,domain=vod.jtbc.co.kr|news.jtbc.co.kr|mvod.jtbc.co.kr|tv.jtbc.co.kr|onair.jtbc.co.kr|sbs.co.kr|laftel.net
 minipol.tistory.com##+js(set, checkAdBlock, undefined)
 namechart.kr,eftlibrary.com,blackkiwi.net##+js(no-fetch-if, www3.doubleclick.net)
 dinfo.3dpchip.com##+js(set, linkPass, true)
-boardlife.co.kr#$##top-sponsor { height: 60px !important; top: -60px !important; position: absolute !important; visibility: hidden !important; }
 hub.weirdhost.xyz##+js(no-fetch-if, adblockanalytics.com)
 hub.weirdhost.xyz##+js(no-fetch-if, adsbygoogle.js)
 luckyquiz3.blogspot.com##+js(no-xhr-if, adsbygoogle)
@@ -88,30 +69,20 @@ deokhu.com,3dpchip.com##+js(acis, chp_ads_blocker_detector)
 3dpchip.com##+js(prevent-xhr, /compass.adop.cc|adsbygoogle|taboola/, emptyStr)
 ||compass.adop.cc^$script,redirect=noop.js,domain=3dpchip.com
 3dpchip.com##+js(aopw, HTMLAnchorElement.prototype.onclick)
-@@||static.dable.io/dist/plugin.min.js$domain=maxmovie.com
 ||advimg.ad-mapps.com/sdk/M_PLUS/Image/$redirect=2x2.png,domain=maxmovie.com
 ||mtag.mman.kr/get_ad.mezzo/$xmlhttprequest,redirect=noop.txt,domain=maxmovie.com
 sysnet.pe.kr##+js(nostif, banner_book)
-@@||new-in.pmirnc.com/public/fingerprint2.js$script
-@@||cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js$script,domain=typing.works
 avdbs.com##+js(acis, $, ad_blk)
 genshin.gamedot.org##+js(nostif, blockCheck2022)
 ||ssl.pstatic.net/tveta/libs/ssp-video/prod/ssp.web.sdk_$script,redirect=noop.js,domain=m.sports.naver.com
-ilsangt.tistory.com##.adblock-on
 ||ad.smartmediarep.com/NetInsight/video/$redirect=noop.txt,domain=mbn.co.kr
 detegice.github.io##+js(aopr, $.prototype.fadeIn)
 ilsangt.tistory.com##+js(acis, $, .adsense-area)
-sogirl.so##+js(set, DHAntiAdBlocker, true)
-@@||ad.smartmediarep.com/NetInsight/video/smr$domain=programs.sbs.co.kr|allclip.sbs.co.kr|mplay.mk.co.kr|static.cloud.sbs.co.kr
 ||adimg.nate.com/img/*?n=$redirect=2x2.png,domain=tv.nate.com
-@@||t1.daumcdn.net/adfit/static/kp.js$domain=laftel.net
-@@||asset.laftel.net/static/assets/googleads-advertisement.js$domain=laftel.net
 focuskr.tistory.com##+js(acis, addEventListener, fuckadblock.min.js)
 singingdalong.blogspot.com##+js(acis, $, #ad_center)
 stockinfo7.com##+js(nostif, ad.innerHTML.replace)
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$redirect=noop.js,domain=game.hotsharegames.com
-persnacons.tistory.com#@#.topAD
-singingdalong.blogspot.com,sajuplus.net##.adsense-alt
 tistory.com,sajuplus.net##+js(set, checkAds, noopFunc)
 ! foreign website
 lover938.net,lover939.net##+js(nostif, document[_0x)
@@ -119,8 +90,8 @@ lover938.net,lover939.net##+js(nostif, document[_0x)
 chzzk.naver.com##+js(spoof-css, ':is(.banner_ad_wrapper,.TopAdBox,.ad--dart,.ad-container-side,.ad-tag__wrapper,.ad_regular1,.ad_slot_inread,.adguru-modal-popup,.ads_box_headline,.adsmedrect,.advert-loader,.advertisementContainer,.advertising-top-box,.artnet-ads-ad,.dianomi_context,.divAdright,.footer__ads--content,.header-article-ads,.header-bannerad,.incontentAd,.js-anchor-ad,.module-box-ads,.moduletable_advertisement,.news-ad-square-a,.nfy-ad-wrapper,.rekl_left,.sidebar-advert,.slideshow-ad-wrapper,.widget--local-ads,.zaf-adhesion-container,.zerg-widget)', display, block)
 chzzk.naver.com##+js(trusted-json-edit, .meta.p2p=false)
 chzzk.naver.com##+js(json-prune, media.[].p2pPath media.[].p2pPathUrlEncoding media.[].encodingTrack.[].p2pPath media.[].encodingTrack.[].p2pPathUrlEncoding)
-chzzk.naver.com##+js(trusted-suppress-native-method, atob, c2V0UmVxdWVzdEhlYWRlcg==, abort)
-chzzk.naver.com##+js(trusted-suppress-native-method, atob, Y3J5cHRv, abort)
+chzzk.naver.com##+js(trusted-suppress-native-method, atob, '"c2V0UmVxdWVzdEhlYWRlcg=="', abort)
+chzzk.naver.com##+js(trusted-suppress-native-method, atob, '"Y3J5cHRv"', abort)
 ||nam.veta.naver.com/vas$xhr,domain=chzzk.naver.com,redirect=noop.txt
 ||nam.veta.naver.com/gfp$xhr,domain=chzzk.naver.com,redirect=noop.txt
 ||nam.veta.naver.com/call$xhr,domain=chzzk.naver.com,redirect=noop.txt
@@ -130,3 +101,4 @@ chzzk.naver.com##+js(trusted-suppress-native-method, atob, Y3J5cHRv, abort)
 ||lib.wtg-ads.com/publisher/kio.ac/sb_interstitial_wtg.js$script,redirect=noop.js,domain=kio.ac,important
 ! dicoall.com
 dicoall.com##+js(no-fetch-if, fundingchoicesmessages.google.com/b/pub-1437333416759682 method:HEAD)
+||cdnjs.cloudflare.com/ajax/libs/fuckadblock/3.2.1/fuckadblock.min.js$script,redirect=nofab.js

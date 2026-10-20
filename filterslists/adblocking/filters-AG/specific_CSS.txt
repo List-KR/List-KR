@@ -5,10 +5,6 @@ zdnet.co.kr#$#body > div[id^="A1_"][style*="height:"] ~ #wrap { margin-top: -1.5
 joynews24.com,inews24.com#$#header ~ header { margin-top: 50px !important; }
 m.joynews24.com,m.inews24.com#@$#header ~ header { margin-top: 50px !important; }
 dailypharm.com#$#header { height: 100px !important; }
-dailypharm.com#@$#header { height: 100px !important; }
-!#endif
-!#if (!adguard_ext_firefox)
-2cpu.co.kr#$#header .row[style] { margin-bottom: 35px !important; }
-sign.dcinside.com#$#.login_inputbox { width: 100% !important; }
+m.dailypharm.com#@$#header { height: 100px !important; }
 !#endif
 [$domain=/^spotv[0-9]+\.com$/]#$#header { top: 0px !important; }

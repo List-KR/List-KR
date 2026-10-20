@@ -87,7 +87,7 @@
 !#include annoyance/filters-AG/contentblocker.txt
 !#endif
 
-!#if (adguard && (adguard_ext_firefox || adguard_app_windows || adguard_app_mac || adguard_app_android))
+!#if (adguard && (adguard_ext_firefox || adguard_app_windows || adguard_app_mac || adguard_app_android || adguard_app_cli))
 !#include adblocking/filters-AG/html_filtering.txt
 
 !#include analytics/filters-AG/html_filtering.txt
@@ -95,7 +95,7 @@
 !#include annoyance/filters-AG/html_filtering.txt
 !#endif
 
-!#if (adguard && (adguard_app_windows || adguard_app_mac || adguard_app_android || adguard_ext_firefox || adguard_ext_chromium || adguard_ext_edge ))
+!#if (adguard && (adguard_app_windows || adguard_app_mac || adguard_app_cli || adguard_app_android || adguard_ext_firefox || adguard_ext_chromium || adguard_ext_opera || adguard_ext_edge))
 !#include adblocking/filters-share/removeparam.txt
 
 !#include analytics/filters-share/removeparam.txt
@@ -182,7 +182,7 @@
 !#include annoyance/filters-AG/desktop/macos_app/specific_URL.txt
 !#endif
 
-!#if (adguard && adguard_app_ios)
+!#if (adguard && (adguard_app_ios || adguard_ext_safari))
 !#include adblocking/filters-AG/repaidchange_ios.txt
 
 !#include analytics/filters-AG/repaidchange_ios.txt

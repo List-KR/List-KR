@@ -1,1 +1,3 @@
 ||newspic.kr^$removeparam=cp
+||api.chzzk.naver.com/service/*/channels/*/live-detail^$xhr,removeparam=dt,domain=chzzk.naver.com
+||api.chzzk.naver.com/service/*/videos/$xhr,removeparam=dt,domain=chzzk.naver.com

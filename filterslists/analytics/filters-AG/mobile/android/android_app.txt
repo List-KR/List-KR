@@ -1,1 +1,2 @@
 !
+||ljc.coupang.com^$app=com.coupang.mobile

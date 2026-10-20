@@ -1,1 +1,2 @@
 !
+wanted.co.kr#$?#body:has(div[data-cy="appDownloadPopup"]) { overflow: auto !important; position: static !important; }

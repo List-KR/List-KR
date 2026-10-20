@@ -1,1 +1,3 @@
 !
+zigzag.kr#?#main > button:has(> img[alt="landing-banner"])
+offmate.kr#?##__next > main[class^="css-"] > div[class^="css-"]:has(> div[class^="css-"] > span[class^="css-"]:has-text(오프메이트 앱에서 더 편하게 보세요))

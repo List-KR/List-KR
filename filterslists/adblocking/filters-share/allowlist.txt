@@ -34,11 +34,11 @@ displayad.naver.com#@#.ad_item
 te31.com#@##gallery-advert
 @@||ad2.shoplinker.co.kr^
 @@||muirim.com/admin/data/banner/
-@@/^(https?):\/\/image\.kyobobook\.co\.kr\/ink\/images\/prom\/\d{4}\/general\/\d{6}_dailyCheck\//
+@@||image.kyobobook.co.kr/ink/images/prom/*/general/*_dailyCheck/
 @@||advimg.ad-mapps.com/sdk/js/ver/*/ad_movie_script.js$domain=ichannela.com
 x86.co.kr#@#.download_ad
 @@||ssl.pstatic.net/adimg*.search/adpost/js/ad.js$domain=naver.com
-@@/^https:\/\/www\.ehanex\.com\/images\/main\/[a-z]{2}_ad\.gif$/
+@@||www.ehanex.com/images/main/*_ad.gif|
 @@||t1.daumcdn.net/adfit/static/kp.js$domain=pindirectshop.com|dongbanmall.com
 @@||dasibogo.net/wp-content/uploads/sites/23/2024/04/dasibogologo$domain=dasibogo.net
 kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@##adContainer
@@ -46,7 +46,7 @@ kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#ins.kakao_ad_area
 kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@##adBlockPixelTag
 kakaotv.daum.net,play-tv.kakao.com,tv.kakao.com#@#.banner_ad
 meeco.kr,remiz.co.kr#@#.googleAd
-@@||arca.live^$generichide,domain=arca.live
+@@||arca.live^$generichide
 @@||advimg.ad-mapps.com/sdk/js/ver/200/ad_script.js$domain=maxmovie.com
 @@||advimg.ad-mapps.com/sdk/M_PLUS/JS/common/jquery-$domain=maxmovie.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_fy2021.js$domain=t.hi098123.com
@@ -71,3 +71,19 @@ clien.net#@#.ad_banner
 poro.gg#@#main > div[class]:has(div.ad-wrapper)
 arca.live#@#b#textad
 @@||iconwiki.aoo.kr/data/clarity-icons.json
+!#if !adguard_ext_android_cb
+aagag.com,exey.io,ff14angler.com,play.aidungeon.io,tamrieltradecentre.com,downloads.descendant.me,html5.gamedistribution.com,paraphraser.io,sekai-kabuka.com,teemo.gg,xtremestream.co#@#ins.adsbygoogle[data-ad-slot]
+!#safari_cb_affinity(privacy)
+@@||googletagmanager.com/gtag/js$domain=t.hi098123.com,script
+@@||static.dable.io/dist/plugin.min.js$domain=maxmovie.com
+@@||new-in.pmirnc.com/public/fingerprint2.js$script
+!#safari_cb_affinity
+!#safari_cb_affinity(social)
+@@||cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js$script,domain=typing.works
+!#safari_cb_affinity
+remiz.co.kr#@#.ad-body
+@@||ad.smartmediarep.com/NetInsight/video/smr$domain=programs.sbs.co.kr|allclip.sbs.co.kr|mplay.mk.co.kr|static.cloud.sbs.co.kr
+@@||t1.daumcdn.net/adfit/static/kp.js$domain=laftel.net
+@@||asset.laftel.net/static/assets/googleads-advertisement.js$domain=laftel.net
+persnacons.tistory.com#@#.topAD
+!#endif
