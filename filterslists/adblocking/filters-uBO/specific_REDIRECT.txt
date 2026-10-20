@@ -16,3 +16,4 @@
 ||amazon-adsystem.com/aax2/apstag.js$script,redirect=amazon_apstag.js
 ||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices_gpt.js
 ||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices_gpt.js
+||api.chzzk.naver.com/service/t/$media,domain=chzzk.naver.com,redirect=noop-1s.mp4
