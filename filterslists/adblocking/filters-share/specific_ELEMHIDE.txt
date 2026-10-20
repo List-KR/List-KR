@@ -851,7 +851,6 @@ autopostkorea.com##.td-pb-span4.td-main-sidebar
 autopostkorea.com##div[class^="adsense_"]
 m.boannews.com##section[class^="banner-"]
 newdaily.co.kr###article_conent > div[style].clearfix
-time.navyism.com###navyismMainContainer > div[style] + div:not([style*=" "]):not([id])
 m.yonhapnewstv.co.kr##main > div[style*=" "].section
 gamefocus.co.kr##iframe[src^="bncode2/banner_"]
 gamefocus.co.kr###container_c .tbl tr td[style*="solid"] div[style^="height"]
