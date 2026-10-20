@@ -342,7 +342,7 @@ dcinside.com##iframe[src^="https://tm.interworksmedia.co.kr"]
 gall.dcinside.com##tr[data-type="icon_fnews"]
 hansbiz.co.kr##div.ad-view
 gnu.kilho.net##div[id^="detect"]
-moneypin.biz##.flex > a[href][target="_blank"]
+moneypin.biz##.flex > a[href][target="_blank"]:has(img[src*="bizno-ad"])
 chzzk.naver.com##div[class^="popup_cheat_key_container__"]
 kilho.net###coupangModal
 kilho.net##.modal-backdrop
@@ -995,7 +995,7 @@ sundayjournalusa.com##div[style] > a[href][target="_blank"]
 search.daum.net##.content_sponsor
 bobaedream.co.kr##body.body-community div[class*="Car"]
 m.instiz.net##body > div[style^="min-height:"]:not([class]):not([id])
-asked.kr,www.instiz.net##div[class$="ad"][id$="ad"]
+asked.kr##div[class$="ad"][id$="ad"]
 mbong.kr##center a[href*="//mbong.kr/banner"]
 cmobile.g-enews.com,news.g-enews.com,m.g-enews.com##a[href^="/extcont/adclick.php"]
 serieamania.com###index > div[class^="box_shadow_"][style]
@@ -1044,7 +1044,7 @@ quasarplay.com##[class^="img_wrapper"]
 wiki1.kr##div[class^="bann_"]
 wiki1.kr##div[class^="bnn_"]
 all-mice.co.kr###main_visual
-hotword.site,g-enews.com,cgv.co.kr##div[class$="ad"][style]
+cgv.co.kr##div[class$="ad"][style]
 cgv.co.kr##div[id$="_PlaceHolderContent_divMovieSelection_wrap"][class]
 quasarplay.com##div[class^="panel_img_bottom_"][style]
 mule.co.kr##.modal-login-wrapper .right-box
@@ -1378,7 +1378,7 @@ epnc.co.kr##div[id^="floating_banner_"]
 epnc.co.kr##div[onmousedown*="'event_label': 'AD'"]
 news.v.daum.net##ul.list_column > li.item_ad
 mmzone.co.kr##div[id^="scm_ban"][style*="url(/media/banner/"]
-mmzone.co.kr###scm_premium_spon_block
+mmzone.co.kr##.desktop-index-sponsors, .spon-banner-viewport
 ilbe.com##ul.board-body > li[id^="sponser_ad_"]
 ilbe.com##img[src^="https://acache.ilbe.com/"]
 ilbe.com###sky-banner-wrap
