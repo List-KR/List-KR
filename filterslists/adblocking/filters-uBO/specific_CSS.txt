@@ -1,4 +1,2 @@
-! https://github.com/uBlockOrigin/uBlock-issues/issues/2130#issuecomment-1621684566
-apycsports.com#$#.copas_btn { display: none !important; }
 !
 /^spotv[0-9]+\.com$/##header:style(top: 0px !important;)

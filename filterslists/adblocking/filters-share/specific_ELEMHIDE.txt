@@ -361,8 +361,6 @@ hankookilbo.com##div[data-ad-type="article-ad"]
 mininote.co.kr##rs-fullwidth-wrap[style^="margin-top:"]
 mininote.co.kr##rs-module-wrap[id^="rev_slider_"]
 muko.kr##.xe-widget-wrapper > div[style]:has(a[href^="/ad"])
-banhub.xyz##div.fixed:has(> div.container)
-banhub.xyz##div.hidden[class*="xl:block"]
 m.gmarket.co.kr##.js-impressionable
 gmarket.co.kr###login-banner-box
 www.naver.com###shortcutArea .shortcut_item:has( > a[href*="veta.naver.com"] > i.ico_ad)
@@ -648,9 +646,7 @@ invest.zum.com##.area_real_news article.gdn
 invest.zum.com##div[class^="gdn_"]
 news.zum.com##div[class^="deepdive_widget_"]
 m.search.zum.com##section[sc^="power"]
-zum.com###shoppingMenu
-zum.com##.mounted .cont_wrap .right_area > div:not([class])
-zum.com##.shoplink_wrap
+zum.com##.shopping_links
 search.zum.com##div[class^="powercont_"]
 search.zum.com##.naver_power_shopping
 search.zum.com##[class*="sponsor"]
@@ -1155,22 +1151,12 @@ m.naver.com##div[data-panel-code="SHOP_VOGUE"] ._MM_TREND_PICK
 compuzone.co.kr###gamezone .bnrList_area > ul.rollbnr_list
 compuzone.co.kr###contents > div[id^="bnrLink"].ma_visual_area.bnrContents ~ div:not(.smthp_infom):not(#productSrchListArea)
 compuzone.co.kr###eventzone_img_wrap #con_area > input[type="hidden"] + #con
-compuzone.co.kr###contents #recomN.recomend_main
 compuzone.co.kr###contents > #EP_Rbnr, #contents > #EP_linebnr
 compuzone.co.kr##.contentsWrap > .topBanner_area
 compuzone.co.kr##.pdtl_cm_detail .md_software
 compuzone.co.kr###searchArea #side_ad
 compuzone.co.kr##form > div[id$="wing_section"][class*="wing_section"]
-compuzone.co.kr###container #content > .cpz_inner[style]
-compuzone.co.kr###content > #start_mainslide.cpz_mainslide
-compuzone.co.kr###container #content > .gradation_area
 compuzone.co.kr###rightwing_section .rightwing_boxNew > .rightwing_bnr
-compuzone.co.kr###container #main_five_fixbnr ul.five_fixbnr_list
-compuzone.co.kr##.cpz_inner .category_set_area div[class^="second_cate_area"] div[class^="catebnr_area"]
-compuzone.co.kr##body > #container > .cpz_inner
-compuzone.co.kr###container > div[class][style*="/GNBBottomLineBanner_"][style^="background-image:url("]
-compuzone.co.kr##.cpz_inner .sta_rolling_banner
-compuzone.co.kr##.cpz_inner .recommend_wrap > .recommend_list
 mathbang.net##.sidebar_book
 thecall.co.kr##[class^="adsense"]
 m.bobaedream.co.kr##.wrap > div[style$="height:100px;"]:not([class])
@@ -1585,3 +1571,4 @@ hankookilbo.com##.sm\:pt-80 .md\:min-h-\[290px\]
 bntnews.co.kr##.googleBanner
 quasarzone.com##div[class^="banner-"]:not([class^="banner-wrap"])
 search.danawa.com##[aria-label$="광고 상품 목록"]
+algumon.com##div[id^="deal-"].placement-row:has(ins.adsbygoogle)

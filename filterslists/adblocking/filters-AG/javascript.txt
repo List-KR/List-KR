@@ -1,6 +1,3 @@
-!#if adguard_ext_safari
-compuzone.co.kr#%#AG_onLoad(() => { if (document.querySelector("input[name=SearchProductKey]").value === "") { document.querySelector("input#HeadSearchKeyword").value = ""; document.querySelector("input#fixedSearchKeyword").value = ""; } });
-!#endif
 dealbada.com#%#AG_onLoad(() => { Array.from(document.querySelectorAll("a[href*='dealbada.com/bbs/link']")).forEach((e) => { e.href = e.innerText })})
 m.compuzone.co.kr#%#AG_onLoad(() => { if (document.querySelector("input#SearchTermAdTxt").value === "") { document.querySelector("input#SearchProductKey").value = ""; document.querySelector("input.m_gnb_search_input").value = ""; } });
 ~m.compuzone.co.kr,compuzone.co.kr#%#AG_onLoad(() => { if (document.querySelector("input[name=SearchProductKey]").value === "") { document.querySelector("input#HeadSearchKeyword").value = ""; document.querySelector("input#fixedSearchKeyword").value = ""; } });

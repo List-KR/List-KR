@@ -11,11 +11,6 @@ x86.co.kr,1004lucifer.blogspot.com,te31.com,tistory.com##+js(aopr, adBlockDetect
 ! ai_front anti-adblock
 plankim.com##+js(acis, ai_adb.init)
 jootc.com,ehpub.co.kr##+js(acis, ai_run_scripts)
-! Kakao TV
-/^https:\/\/videoads\.kakao\.com\/adserver\/api\/v[0-9]+\/vmap/$redirect=noop.txt,domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
-tv.kakao.com,play-tv.kakao.com,kakaotv.daum.net##+js(no-xhr-if, /^https.\/\/videoads\.kakao\.com\/adserver\/api\/v[0-9]{1\,2}\/vmap$/)
-/embed/player/image/ads.png$redirect=2x2.png,domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
-tv.kakao.com,play-tv.kakao.com,kakaotv.daum.net##+js(no-fetch-if, /^https.\/\/videoads\.kakao\.com\/adserver\/api\/v[0-9]{1\,2}\/vmap$/)
 ! meeco.kr
 meeco.kr##+js(set, adsBlocked, noopFunc)
 ! Umanle S.R.L
@@ -57,7 +52,6 @@ cpsp.kr#@#.text_ads
 thelabyrinth.co.kr##+js(no-fetch-if, pagead2.googlesyndication.com method:HEAD)
 windowsforum.kr##+js(aeld, load, 'banner.offsetHeight')
 etoland.co.kr##+js(no-fetch-if, /googlesyndication\.com|doubleclick\.net|googletagservices\.com|google-analytics\.com/)
-algumon.com##div[id^="deal-"].card ~ .bg-base-100:has(> div[style] > div[class^="fallback svelte-"])
 cheatdot.com##+js(nostif, 'window.getComputedStyle(t).display')
 tv.jtbc.co.kr,mvod.jtbc.co.kr,onair.jtbc.co.kr##+js(nostif, 'getComputedStyle(t).getPropertyValue("visibility")')
 mylocation.co.kr##+js(nostif, detectAdBlockByStructure)
@@ -84,7 +78,6 @@ genshin.gamedot.org##+js(nostif, blockCheck2022)
 ||ad.smartmediarep.com/NetInsight/video/$redirect=noop.txt,domain=mbn.co.kr
 detegice.github.io##+js(aopr, $.prototype.fadeIn)
 ilsangt.tistory.com##+js(acis, $, .adsense-area)
-sogirl.so##+js(set, DHAntiAdBlocker, true)
 ||adimg.nate.com/img/*?n=$redirect=2x2.png,domain=tv.nate.com
 focuskr.tistory.com##+js(acis, addEventListener, fuckadblock.min.js)
 singingdalong.blogspot.com##+js(acis, $, #ad_center)

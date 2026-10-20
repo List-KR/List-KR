@@ -14,20 +14,6 @@ x86.co.kr,1004lucifer.blogspot.com,te31.com,tistory.com#%#//scriptlet('abort-on-
 ! ai_front anti-adblock
 plankim.com#%#//scriptlet('abort-current-inline-script', 'ai_adb.init')
 jootc.com,ehpub.co.kr#%#//scriptlet('abort-current-inline-script', 'ai_run_scripts')
-! Kakao TV
-!#if (adguard_app_ios || adguard_ext_safari)
-v.daum.net#@#div[class$="_ad"]
-@@||videoads.kakao.com/adserver/api/v*/vmap|$domain=kakao.com|daum.net|namu.wiki
-@@/embed/player/image/ads.png$domain=kakao.com|daum.net|namu.wiki
-daum.net,kakao.com,namu.wiki#@##adContainer
-daum.net,kakao.com,namu.wiki#@#ins.kakao_ad_area
-daum.net,kakao.com,namu.wiki#@##adBlockPixelTag
-daum.net,kakao.com,namu.wiki#@#.banner_ad
-!#endif
-/^https:\/\/videoads\.kakao\.com\/adserver\/api\/v[0-9]+\/vmap/$redirect=nooptext,domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
-tv.kakao.com,play-tv.kakao.com,kakaotv.daum.net#%#//scriptlet('prevent-xhr', '/^https.\/\/videoads\.kakao\.com\/adserver\/api\/v[0-9]{1,2}\/vmap$/')
-/embed/player/image/ads.png$redirect=2x2-transparent.png,domain=tv.kakao.com|play-tv.kakao.com|kakaotv.daum.net
-tv.kakao.com,play-tv.kakao.com,kakaotv.daum.net#%#//scriptlet('prevent-fetch', '/^https.\/\/videoads\.kakao\.com\/adserver\/api\/v[0-9]{1,2}\/vmap$/')
 ! meeco.kr
 !#if (adguard_app_ios)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=meeco.kr
@@ -57,8 +43,6 @@ spotvnow.co.kr#%#//scriptlet('prevent-xhr', 'imasdk.googleapis.com/js/sdkloader/
 spotvnow.co.kr#%#//scriptlet('prevent-fetch', 'imasdk.googleapis.com/js/sdkloader/ima3.js')
 spotvnow.co.kr,noonnu.cc#%#//scriptlet('prevent-xhr', 'pagead2.googlesyndication.com/pagead/js/adsbygoogle.js')
 ! maxmovie.com
-!#safari_cb_affinity(privacy)
-!#safari_cb_affinity
 ||advimg.ad-mapps.com/sdk/M_PLUS/Image/$redirect=2x2-transparent.png,domain=maxmovie.com
 ||mtag.mman.kr/get_ad.mezzo/$xmlhttprequest,redirect=nooptext,domain=maxmovie.com
 !#if (adguard_app_ios)
@@ -74,8 +58,6 @@ aagag.com#%#//scriptlet('prevent-xhr', 'pagead2.googlesyndication.com')
 !#endif
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=aagag.com,xmlhttprequest,redirect=googlesyndication-adsbygoogle
 ! t.hi098123.com
-!#safari_cb_affinity(privacy)
-!#safari_cb_affinity
 ! dcinside.com
 ||dcinside.com^$cookie=gaejuki_ad
 ||m.dcinside.com^$cookie=find_ab
@@ -159,11 +141,7 @@ deokhu.com,3dpchip.com#%#//scriptlet('abort-current-inline-script', 'chp_ads_blo
 !#endif
 3dpchip.com#%#//scriptlet('abort-on-property-write', 'HTMLAnchorElement.prototype.onclick')
 sysnet.pe.kr#%#//scriptlet('prevent-setTimeout', 'banner_book')
-!#safari_cb_affinity(privacy)
-!#safari_cb_affinity
 bera.world,1412.live#%#//scriptlet('prevent-element-src-loading', 'script', 'pagead2.googlesyndication.com/pagead/js/adsbygoogle.js')
-!#safari_cb_affinity(social)
-!#safari_cb_affinity
 m.search.naver.com#%#//scriptlet('prevent-element-src-loading', 'script', 'ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js')
 !#if (adguard_app_ios || adguard_ext_safari)
 @@||ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js$script,domain=m.search.naver.com
@@ -187,10 +165,6 @@ genshin.gamedot.org#%#//scriptlet('prevent-setTimeout', 'blockCheck2022')
 ||ad.smartmediarep.com/NetInsight/video/$redirect=nooptext,domain=mbn.co.kr
 detegice.github.io#%#//scriptlet('abort-on-property-read', '$.prototype.fadeIn')
 ilsangt.tistory.com#%#//scriptlet('abort-current-inline-script', '$', '.adsense-area')
-sogirl.so#%#//scriptlet('set-constant', 'DHAntiAdBlocker', 'true')
-!#if adguard_app_ios
-@@||sogirl.so/wp-content/plugins/dh-anti-adblocker/public/js/ads-prebid.js
-!#endif
 !#if (adguard_app_ios || adguard_ext_safari)
 @@||adimg.nate.com/img/*?n=$domain=tv.nate.com
 !#endif
