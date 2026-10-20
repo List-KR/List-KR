@@ -1518,7 +1518,6 @@ metro.nuua.travel##a.main-scroll-area-banner
 metro.nuua.travel##div[class^="map-banner"]
 m.megabox.co.kr##.ad-popup2
 m.megabox.co.kr##.layer-dimmed
-chzzk.naver.com###viewport-box + div:has(> a[href="https://chzzk.naver.com/home/sports/fifa-worldcup-2026"])
 tenbizt.com###fv-ol-wrap
 2798731938.zigcou.com##.relative > .z-0
 academy.prompie.com##body > #academyMainModal:has(a[href^="https://academy.prompie.com/banners/"])
