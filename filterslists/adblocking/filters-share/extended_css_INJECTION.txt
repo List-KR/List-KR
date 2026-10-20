@@ -17,15 +17,12 @@ kyobobook.co.kr#$?#.welcome_banner_inner li.swiper-slide:has(img[src*="image.kyo
 enuri.com#$?#.trendpickup__container > .trendtab-cont:has(p.badge--ad) { remove: true; }
 enuri.com#$?#.trendtabs__list > li[data-adv_yn="Y"] { remove: true; }
 search.shopping.naver.com#$?##content div[class^="basicList_list_"] div:has(div[class^="adProduct_item_"]):has(~ div) { height: 1px !important; visibility: hidden !important; }
-bbs.ruliweb.com#$?##board_top > div > .top_best.best_list:has(+ .col div[id^="ad_"]) { width: 100% !important; }
 browse.auction.co.kr#$?#div[module-design-id] ~ div > .component:has(div:has(.text--smiledelivery_slogan)) .section--component_title { margin-top: 0px !important; }
 koreatimes.net#$?#.container:has(~ div[style]#toTop) article.content { margin-top: 100px !important; }
 koreatimes.net#$?#.headding-news:has(~ div:not([style])#toTop) .col-md-8 { margin-left: calc(50% - 384px) !important; }
 algumon.com#$?#.nav-mobile:matches-css(display: none) ~ .base > .main { width: calc(100% - 290px) !important; }
 5donews.co.kr#$?#.body > .content.xe_content:not(:has(article)) { width: auto !important; }
 mule.co.kr#$?#.section-lefttop-center:has(> .mule-today) { width: 100% !important; }
-banhub.xyz#$#html { overflow: visible !important; }
 aniya24.com#$?#div[class*="-player-wrapper"] > .play-media-control ~ div[class^="beeteam"][class*="-player-sub-element"] { remove: true; }
-khan.co.kr#$?#aside.list-wrap { margin-top: 0 !important; }
-mlbpark.donga.com#$?#div.left_cont { float: none !important; margin-left: auto !important; margin-right: auto !important; }
 msn.com#$?#.core-column:has(> csm-native-ad-card) { grid-template-areas: "slot1" !important; grid-template-rows: auto !important; height: auto !important; }
+zeta-ai.io#$?#[class*="z-[70]"]:has(img[alt="ad-nudge"]) { remove: true; }

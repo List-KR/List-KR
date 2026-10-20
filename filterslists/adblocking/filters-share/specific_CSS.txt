@@ -18,7 +18,6 @@ tftps.gg#$##top-area > div[class*=" "] > div[class*=" "]:has( div:not([class]) ~
 fow.kr#$#div[style^="display:"] > div[style^="flex-basis"]:has(~ .fvideo) { width: 100% !important; }
 fow.kr#$#div[style^="display:"] > div[style^="flex-basis"]:has(~ .fvideo) .news_top { width: revert-layer !important; }
 fow.kr#$#div[style^="display:"] > div[style^="flex-basis"]:has(~ .fvideo) .news_box { width: revert-layer !important; }
-tvroom5.org##ul.menu:has(> li > a[class^="banner_"])
 bbs.ruliweb.com#$##board_top .best_list { width: 100% !important; }
 maple.gg#$#.container-content > section[class*=" "] ~ main[class*=" "] { margin-top: 50px !important; }
 courtauctionmap.com#$##map_area { height: 100% !important; }
@@ -167,3 +166,6 @@ ruliweb.com#$#.user_view { width: 100% !important; }
 ppomppu.co.kr#$#.top-keyword { width: 100% !important; }
 orbi.kr#$#.global-top { top: 0px !important; }
 www.erdcloud.com#$#.erd-container { width: 100% !important; }
+banhub.xyz#$#html { overflow: visible !important; }
+khan.co.kr#$#aside.list-wrap { margin-top: 0 !important; }
+mlbpark.donga.com#$#div.left_cont { float: none !important; margin-left: auto !important; margin-right: auto !important; }

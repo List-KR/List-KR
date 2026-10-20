@@ -1542,3 +1542,4 @@ auction.co.kr##.modrow-top > div[class$="_banner"][id$="Banner"]
 ydailynewsis.blogspot.com##a[href*="//link.coupang.com/"][type]
 pushoong.com###fullscreen-overlay
 paxnet.co.kr##html[class*="pc-size"] .av-area-fot
+tvroom5.org##ul.menu:has(> li > a[class^="banner_"])
