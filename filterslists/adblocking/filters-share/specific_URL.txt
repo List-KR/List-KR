@@ -1036,3 +1036,4 @@
 ||bnt.kod.es/data/bnt/upload/save//banner/
 /^https:\/\/anilife[0-9]+\.tv\/tvwiki-banners\//$domain=/^(www\.)?anilife[0-9]+\.tv/
 ||danawa.com/*/getAdSmartProductList.ajax.php
+||cdn.mania.kr/wepoll/file/ad/
