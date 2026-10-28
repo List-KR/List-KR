@@ -141,6 +141,7 @@ damoang.net##div:has(> div[class^="adsense"])
 damoang.net##div.hidden:has(> div > ins.adsbygoogle)
 damoang.net##div[style^="--ad-slot-min-height:"]
 damoang.net##.gap-4.flex-col > div:has(> div[data-position="side-image-text-banner"])
+damoang.net##div.trend-reservation
 ruliweb.com##.ti_reserved_slot[style^="min-height:"]
 tenasia.co.kr###article-body > div[style^="min-height:"]
 tenasia.co.kr##.article-view > div[style^="min-height:"]:has(> div[id^="dablewidget_"])
