@@ -1,6 +1,6 @@
 /^https:\/\/[a-z0-9-]+\.[a-z0-9-]+\/[a-z0-9-_]+\./$image,domain=v14v.com|v16v.com|v22v.com|v23v.com|www.v30v.com
 ||i.imgur.com^$domain=yasyadong2.tv|torrentqq401.com|torrentqq402.com|torrentqq403.com|torrentqq404.com|torrentqq405.com|torrentqq406.com|torrentqq407.com|torrentqq408.com|torrentqq409.com|torrentqq410.com|torrentqq418.com
-/^https:\/\/nooo[0-9]+\.tv\/theme\/renew\/img\/banner\//$domain=nooo13.tv|nooo14.tv|nooo16.tv|nooo17.tv|nooo31.tv|nooo15.tv|nooo18.tv|nooo32.tv|nooo33.tv|nooo38.tv
+/^https:\/\/nooo[0-9]+\.tv\/theme\/renew\/img\/banner\//$domain=nooo13.tv|nooo14.tv|nooo31.tv|nooo15.tv|nooo32.tv|nooo33.tv|nooo38.tv
 /^https:\/\/cdn[0-9]+\.cokcok\.[a-z0-9]+\/assets\/images\//$domain=cokcok15.com|cokcok16.com|cokcok17.com|cokcok18.com|cokcok19.com|cokcok20.com|cokcok21.com|cokcok22.com|cokcok23.com
 /\/data\/apms\/banner\//$domain=newto28.com|mato28.com|bookto28.com
 sbxh10.com,sbxh11.com##[data-brs][data-br]
