@@ -1573,3 +1573,4 @@ bntnews.co.kr##.googleBanner
 quasarzone.com##div[class^="banner-"]:not([class^="banner-wrap"])
 search.danawa.com##[aria-label$="광고 상품 목록"]
 algumon.com##div[id^="deal-"].placement-row:has(ins.adsbygoogle)
+velopers.kr##article[data-coupang-ad-placement]
