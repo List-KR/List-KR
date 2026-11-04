@@ -19,7 +19,7 @@ sites:
     accept_antibot: true
     force_search_ahead: true
     failed_since: 2026-09-03 21:04
-    failed_days: 62
+    failed_days: 63
     potentially_dead: true
   lover:
     last_known_mirror: lover938.net
@@ -37,10 +37,10 @@ sites:
     force_search_ahead: true
     success_since: 2026-09-02 21:06
   nooo:
-    last_known_mirror: nooo13.tv
+    last_known_mirror: nooo17.tv
     accept_antibot: true
     force_search_ahead: true
-    success_since: 2026-10-08 23:23
+    success_since: 2026-11-04 23:41
   sbxh:
     last_known_mirror: sbxh10.com
     accept_antibot: true
