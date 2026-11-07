@@ -1,4 +1,4 @@
-/^https:\/\/[a-z0-9-]+\.[a-z0-9-]+\/[a-z0-9-_]+\./$image,domain=v14v.com|v16v.com|v22v.com|v23v.com|www.v30v.com
+/^https:\/\/[a-z0-9-]+\.[a-z0-9-]+\/[a-z0-9-_]+\./$image,domain=v14v.com|v16v.com|v22v.com|v23v.com|www.v30v.com|v15v.com
 ||i.imgur.com^$domain=yasyadong2.tv|torrentqq401.com|torrentqq402.com|torrentqq403.com|torrentqq404.com|torrentqq405.com|torrentqq406.com|torrentqq407.com|torrentqq408.com|torrentqq409.com|torrentqq410.com|torrentqq418.com
 /^https:\/\/nooo[0-9]+\.tv\/theme\/renew\/img\/banner\//$domain=nooo17.tv|nooo31.tv|nooo32.tv|nooo33.tv|nooo34.tv|nooo35.tv|nooo36.tv|nooo37.tv|nooo40.tv
 /^https:\/\/cdn[0-9]+\.cokcok\.[a-z0-9]+\/assets\/images\//$domain=cokcok24.com|cokcok25.com|cokcok26.com|cokcok27.com|cokcok28.com
