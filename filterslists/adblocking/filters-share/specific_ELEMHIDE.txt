@@ -314,6 +314,7 @@ m.search.naver.com##ul[data-adlog].shop_default_list > ._product:has(._ad_icon)
 m.search.naver.com##div[data-meta-area*="_ad"]
 dak.gg##div[id^="venatus-"][id*="-banner-"]
 teamblind.com##div[class^="adfit_"]
+teamblind.com##div.comment_area:not([id])
 maple.gg###content-container > div[class*=" "]:has(.VenatusAdContainer)
 m.search.naver.com##li[class^="productCard-mobile-module_"].undefined
 news1.kr##article div[style].mt-30
