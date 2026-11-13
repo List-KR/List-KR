@@ -163,7 +163,7 @@ settings:
   excludeLinksFromLockfile: false
 
 overrides:
-  '@adguard/aglint>@adguard/agtree': 4.3.0
+  '@adguard/aglint>@adguard/agtree': 4.4.0
 
 importers:
 
@@ -194,6 +194,10 @@ packages:
 
   '@adguard/agtree@4.3.0':
     resolution: {integrity: sha512-b55w0xZANTQV93JpbS5JyQDTZVFzS7IMVlYqTcYyFl4zawtmO2fIopJRlNCqlJdfkMsE29qrrv2KFN9+BB9S6g==}
+    engines: {node: '>=22'}
+
+  '@adguard/agtree@4.4.0':
+    resolution: {integrity: sha512-AohAFfgkPlbvFKif0x3UQJDOM5CmnBgL6lDX/OTDuWqDWnDM0oa4i54lINq4omO9dsXOtySkc1fogyVTQYCS8w==}
     engines: {node: '>=22'}
 
   '@adguard/css-tokenizer@1.2.0':
@@ -970,8 +974,15 @@ packages:
   tldts-core@5.7.112:
     resolution: {integrity: sha512-mutrEUgG2sp0e/MIAnv9TbSLR0IPbvmAImpzqul5O/HJ2XM1/I1sajchQ/fbj0fPdA31IiuWde8EUhfwyldY1Q==}
 
+  tldts-core@7.4.22:
+    resolution: {integrity: sha512-NRyhrlvJcTwvoRibE0dEZvp6C5RwV4RxpsX1zbkI1k7Fk2pzIhmQ+MvswJEd5KKl3VRFRMDTipXse/ejh/ld/w==}
+
   tldts@5.7.112:
     resolution: {integrity: sha512-6VSJ/C0uBtc2PQlLsp4IT8MIk2UUh6qVeXB1HZtK+0HiXlAPzNcfF3p2WM9RqCO/2X1PIa4danlBLPoC2/Tc7A==}
+    hasBin: true
+
+  tldts@7.0.32:
+    resolution: {integrity: sha512-5eDV0tK2NhLAAqBeXDAQ36+EwuStd1HbsSOnGsp+JbExITnExcALLL5M1kTH8gjDYN5QvwmUWimE3GoMZ2A7xQ==}
     hasBin: true
 
   to-regex-range@5.0.1:
@@ -1030,7 +1041,7 @@ snapshots:
 
   '@adguard/aglint@4.0.0-beta.5(@types/node@26.6.6)(typescript@7.0.2)':
     dependencies:
-      '@adguard/agtree': 4.3.0
+      '@adguard/agtree': 4.4.0
       '@adguard/ecss-tree': 2.0.3
       '@inquirer/checkbox': 4.3.2(@types/node@26.6.6)
       '@inquirer/confirm': 6.1.1(@types/node@26.6.6)
@@ -1072,6 +1083,18 @@ snapshots:
       json5: 2.2.3
       sprintf-js: 1.1.3
       tldts: 5.7.112
+      zod: 3.24.4
+
+  '@adguard/agtree@4.4.0':
+    dependencies:
+      '@adguard/css-tokenizer': 1.2.0
+      camelcase-keys: 7.0.2
+      clone-deep: 4.0.1
+      glob-to-regexp: 0.4.1
+      is-ip: 3.1.0
+      json5: 2.2.3
+      sprintf-js: 1.1.3
+      tldts: 7.0.32
       zod: 3.24.4
 
   '@adguard/css-tokenizer@1.2.0': {}
@@ -1629,9 +1652,15 @@ snapshots:
 
   tldts-core@5.7.112: {}
 
+  tldts-core@7.4.22: {}
+
   tldts@5.7.112:
     dependencies:
       tldts-core: 5.7.112
+
+  tldts@7.0.32:
+    dependencies:
+      tldts-core: 7.4.22
 
   to-regex-range@5.0.1:
     dependencies:
