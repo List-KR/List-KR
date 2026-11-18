@@ -1038,3 +1038,4 @@
 ||danawa.com/*/getAdSmartProductList.ajax.php
 ||cdn.mania.kr/wepoll/file/ad/
 ||velopers.kr/api/ads/
+/adrop-ads.min.js
