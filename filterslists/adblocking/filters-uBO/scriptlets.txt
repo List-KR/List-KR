@@ -91,3 +91,7 @@ slrclub.com##+js(aost, encodeURIComponent, /(\/bbs\/zboard\.php\?id=|bbs_view[a-
 coucounews.com##+js(prevent-navigation, s.click.aliexpress.com)
 stdpay.inicis.com##+js(nowoif, ds-cdn.inicis.com/ad/)
 watchfreejavonline.co##+js(nowoif, !watchfreejavonline.co)
+fmkorea.com##+js(json-prune, tpl, tpl.0.c)
+fmkorea.com##+js(json-prune, pp, pp.c)
+fmkorea.com##+js(json-prune, pp, pp.0.c)
+fmkorea.com##+js(json-prune, bt, bt.0.c)
